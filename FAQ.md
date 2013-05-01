@@ -32,10 +32,10 @@ omettendo `studenti.polito.it`.)
 Assegnare un alias, infatti, vuol dire che il server `studenti.polito.it` sa
 che, quando arriva una email per `nome.cognome@`, deve mandarla a `s000000@`.
 
-In alcuni casi l'alias puo' essere una seccatura, perche' la *corrispondenza
-magica* che mappa `nome.cognome@` in `s000000@` e' nota solo al server
-`studenti.polito.it`. Per tutto il resto del mondo, incluso il server della
-mailing list, `nome.cognome@` e `s000000@` sono due indirizzi email differenti.
+Il problema dell'alias e' che la *corrispondenza magica* che mappa
+`nome.cognome@` in `s000000@` e' nota solo al server `studenti.polito.it`.
+Per tutto il resto del mondo, incluso il server della mailing list,
+`nome.cognome@` e `s000000@` sono due indirizzi email differenti.
 
 Vediamo ora, quindi, com'e' possibile che tu ricevi le email dalla mailing
 list ma non riesci a inviare email in mailing list.
