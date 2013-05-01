@@ -25,7 +25,7 @@ frequentemente l'alias e' fatto cosi':
 Di fatto, l'alias e' un altro indirizzo email, ma funziona in un modo
 particolare.
 
-(Da ora momento in poi per brevita' scrivo `s000000@` e `nome.cognome@`,
+(Da ora in poi per brevita' scrivo `s000000@` e `nome.cognome@`,
 omettendo `studenti.polito.it`.)
 
 Assegnare un alias, infatti, vuol dire che `nome.cognome@` in realta'
