@@ -4,14 +4,14 @@ Frequently Asked Questions
 1.1. Sono iscritto alla lista, ricevo le email ma non riesco a mandarle
 -----------------------------------------------------------------------
 
-Se non sei iscritto con l'email del Politecnico (i.e. una email
+Se non sei iscritto alla lista con l'email del Politecnico (i.e. una email
 `@studenti.polito.it`) non ricadi nella casistica descritta in
 questa FAQ.
 
-Se, invece, sei iscritto con l'email del Politecnico, ricevi le email
-ma non riesci a mandarle, e' molto probabile che tu sia iscritto
-alla lista con il tuo *indirizzo vero* ma stia scrivendo con l' *alias*,
-o viceversa.
+Se, invece, sei iscritto alla lista con l'email del Politecnico, ricevi le
+email degli altri iscritti, ma non riesci a mandarle, e' molto probabile
+che tu sia iscritto alla lista con il tuo *indirizzo vero* ma stia scrivendo
+con l' *alias*, o viceversa.
 
 Mi spiego meglio: per il Politecnico, l' *indirizzo vero* e'
 questo qua:
