@@ -29,9 +29,8 @@ particolare.
 (Da ora in poi per brevita' scrivo `s000000@` e `nome.cognome@`,
 omettendo `studenti.polito.it`.)
 
-Assegnare un alias, infatti, vuol dire che `nome.cognome@` in realta'
-non esiste, ma il server `studenti.polito.it` sa che, quando arriva
-una email per `nome.cognome@`, deve mandarla a `s000000@`.
+Assegnare un alias, infatti, vuol dire che il server `studenti.polito.it` sa
+che, quando arriva una email per `nome.cognome@`, deve mandarla a `s000000@`.
 
 In alcuni casi l'alias puo' essere una seccatura, perche' la *corrispondenza
 magica* che mappa `nome.cognome@` in `s000000@` e' nota solo al server
