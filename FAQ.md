@@ -10,9 +10,9 @@ questa FAQ.
 
 Se, invece, sei iscritto con l'email del Politecnico, questo succede quando
 sei iscritto alla lista con il tuo *indirizzo vero* e scrivi con
-l'*alias*, o viceversa.
+l' *alias*, o viceversa.
 
-Mi spiego meglio; per il Politecnico, l'*indirizzo vero* e'
+Mi spiego meglio; per il Politecnico, l' *indirizzo vero* e'
 questo qua:
 
     s123456@studenti.polito.it
