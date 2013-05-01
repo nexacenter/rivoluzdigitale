@@ -32,7 +32,7 @@ omettendo `studenti.polito.it`.)
 Assegnare un alias, infatti, vuol dire che il server `studenti.polito.it` sa
 che, quando arriva una email per `nome.cognome@`, deve mandarla a `s000000@`.
 
-Il problema dell'alias e' che la *corrispondenza* tra
+Il problema dell'alias e' che la corrispondenza tra
 `nome.cognome@` in `s000000@` e' nota solo al server `studenti.polito.it`.
 Per tutto il resto del mondo, incluso il server della mailing list,
 `nome.cognome@` e `s000000@` sono due indirizzi email differenti.
