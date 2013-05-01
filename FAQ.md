@@ -5,23 +5,23 @@ Frequently Asked Questions
 -----------------------------------------------------------------------
 
 Se sei iscritto con l'email del Politecnico, questo succede perche`
-sei iscritto alla lista con il tuo indirizzo vero e scrivi con
-l'alias, o viceversa.
+sei iscritto alla lista con il tuo *indirizzo vero* e scrivi con
+l'*alias*, o viceversa.
 
-Mi spiego meglio; per il Politecnico, il tuo *indirizzo vero* e'
+Mi spiego meglio; per il Politecnico, l'*indirizzo vero* e'
 questo qua:
 
     s123456@studenti.polito.it
 
-Il Politecnico ti permette di associare un *alias* al tuo indirizzo; nel
-tuo caso l'alias e' questo:
+Il Politecnico ti permette di associare un *alias* al tuo indirizzo; molto
+frequentemente l'alias e' fatto cosi`:
 
     nome.cognome@studenti.polito.it
 
-Di fatto, questo e' un altro indirizzo email, ma funziona in un modo
+Di fatto, l'alias e' un altro indirizzo email, ma funziona in un modo
 particolare.
 
-(Da questo momento in poi, per brevita`, scrivo `s123456@` e `nome.cognome@`,
+(Da ora momento in poi per brevita` scrivo `s123456@` e `nome.cognome@`,
 omettendo `studenti.polito.it`.)
 
 Assegnare un alias, infatti, vuol dire che `nome.cognome@` in realta`
