@@ -1,5 +1,5 @@
-Frequently Asked Questions
-==========================
+Frequently Asked Questions (FAQ)
+================================
 
 1.1. Sono iscritto alla lista, ricevo le email ma non riesco a mandarle
 -----------------------------------------------------------------------
