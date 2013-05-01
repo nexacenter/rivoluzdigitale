@@ -32,7 +32,7 @@ omettendo `studenti.polito.it`.)
 Assegnare un alias, infatti, vuol dire che il server `studenti.polito.it` sa
 che, quando arriva una email per `nome.cognome@`, deve mandarla a `s000000@`.
 
-Il problema dell'alias e' che la *corrispondenza magica* che mappa
+Il problema dell'alias e' che la *corrispondenza* tra
 `nome.cognome@` in `s000000@` e' nota solo al server `studenti.polito.it`.
 Per tutto il resto del mondo, incluso il server della mailing list,
 `nome.cognome@` e `s000000@` sono due indirizzi email differenti.
@@ -46,12 +46,12 @@ Per la ricezione abbiamo due casi:
 invia l'email a `s000000@` e tu ricevi l'email;
 
 2. se sei iscritto come `nome.cognome@`, allora il server della mailing list
-invia l'email a `nome.cognome@`, il server `studenti.polito.it` applica la
-corrispondenza magica (i.e. mappa `nome.cognome@` in `s000000@`) e tu ricevi
-comunque l'email.
+invia l'email a `nome.cognome@`, il server `studenti.polito.it`
+mappa `nome.cognome@` in `s000000@` e tu ricevi comunque l'email.
 
 Per l'invio di una email, invece, il discorso e' differente, perche' il server
-della mailing list non sa nulla della corrispondenza magica. Quindi:
+della mailing list non sa nulla della corrispondenza tra `nome.cognome@` e
+s000000@`. Quindi:
 
 3.  se tu invii come `nome.cognome@` ma sei iscritto come `s12356@`,
 l'email viene rifiutata, perche' il mittente non risulta iscritto alla
