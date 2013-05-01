@@ -12,13 +12,13 @@ Se, invece, sei iscritto con l'email del Politecnico, questo succede quando
 sei iscritto alla lista con il tuo *indirizzo vero* e scrivi con
 l' *alias*, o viceversa.
 
-Mi spiego meglio; per il Politecnico, l' *indirizzo vero* e'
+Mi spiego meglio: per il Politecnico, l' *indirizzo vero* e'
 questo qua:
 
     s000000@studenti.polito.it
 
-Il Politecnico ti permette di associare un *alias* al tuo indirizzo; molto
-frequentemente l'alias e' fatto cosi':
+Inolte, il Politecnico ti permette di associare un *alias* al tuo indirizzo.
+Molto spesso l'alias e' fatto cosi':
 
     nome.cognome@studenti.polito.it
 
@@ -30,8 +30,7 @@ omettendo `studenti.polito.it`.)
 
 Assegnare un alias, infatti, vuol dire che `nome.cognome@` in realta'
 non esiste, ma il server `studenti.polito.it` sa che, quando arriva
-una email per `nome.cognome@`, deve in realta' magicamente mandarla a
-`s000000@`.
+una email per `nome.cognome@`, deve mandarla a `s000000@`.
 
 In alcuni casi l'alias puo' essere una seccatura, perche' la *corrispondenza
 magica* che mappa `nome.cognome@` in `s000000@` e' nota solo al server
