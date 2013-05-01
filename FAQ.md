@@ -57,7 +57,7 @@ della mailing list non sa nulla della corrispondenza magica. Quindi:
 l'email viene rifiutata, perche' il mittente non risulta iscritto alla
 lista;
 
-4. allo stesso modeo, se tu invii come `s000000@` ma sei iscritto
+4. allo stesso modo, se tu invii come `s000000@` ma sei iscritto
 come `nome.cognome@` l'email viene rifiutata, perche' il mittente non
 risulta iscritto alla lista.
 
