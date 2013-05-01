@@ -50,7 +50,7 @@ invia l'email a `nome.cognome@`, il server `studenti.polito.it` applica la
 corrispondenza magica (i.e. mappa `nome.cognome@` in `s000000@`) e tu ricevi
 comunque l'email.
 
-Per inviare, invece, il discorso e' differente, perche' il server
+Per l'invio di una email, invece, il discorso e' differente, perche' il server
 della mailing list non sa nulla della corrispondenza magica. Quindi:
 
 3.  se tu invii come `nome.cognome@` ma sei iscritto come `s12356@`,
