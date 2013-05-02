@@ -82,17 +82,17 @@ In @SIAMoMusicPills
     "Audio in digitale: miglior compromesso tra qualità e portabilità?"
       <http://bit.ly/1304it2> by @Alessio_Chiolo
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: non usare bit.ly usa <a href
 
-        - fonti:
+        - fonti: meglio se le metti nel testo con <a href
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: approfondimento
 
-        - tag:
+        - tag: ok
 
     "Come trovare musica - le migliori risorse online"
       <http://bit.ly/ZmC5s0> by @iacopo_poli
@@ -219,17 +219,17 @@ In @tech_mondo
     "NUOVE FRONTIERE NEL CAMPO DELLE ARMI"
       <http://bit.ly/13iv1Q0> by @Berto93Lore
 
-        - titolo:
+        - titolo: non si capisce
 
-        - immagini:
+        - immagini: quasi-ok (metti link sotto)
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: troppo lunghi, e non e' scritto benissimo
 
-        - tipo:
+        - tipo: approfondimento
 
-        - tag:
+        - tag: ok
 
     "Grafene – il materiale del futuro"
       <http://bit.ly/15k9gUe> by @OvidiuBirgu
@@ -251,17 +251,18 @@ In @RivoluzionArti
     "La fotografia: impressionismo digitale"
       <http://bit.ly/1306zVc> by @Gian_Cirillo
 
-        - titolo:
+        - titolo: non si capisce bene
 
-        - immagini:
+        - immagini: puoi usare meglio <a href
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (non usare "?" multipli, fai un po'
+          di salti logici e non hai una tesi coerentissima)
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: no
 
     "TIC-TAC-TECnologico"
       <http://bit.ly/18cKGUQ> by @GiuliaPancaro
@@ -346,17 +347,18 @@ In @watchDogSystem
     "Come si alimenta una lampadina a basso consumo?"
       <http://bit.ly/12cikpW> by @EricaAcire19
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: abbastanza (immagino fonte principale sia wikipedia
+          piu` cose che sai, ma non dici esplicitamente)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (un po' lunghi a volte)
 
-        - tipo:
+        - tipo: approfondimento
 
-        - tag:
+        - tag: ok
 
     "SoC e SoM" <http://bit.ly/10ssor2> by @FabioVallone
 
@@ -549,31 +551,32 @@ In @PhotoRevo
 
     "Digitale, un bene o un male?" <http://bit.ly/12VxKzo> by @93_checco
 
-        - titolo:
+        - titolo: titolo un po' banale e poco informativo
 
-        - immagini:
+        - immagini: meglio se usi <a href (e ancora meglio se metti
+          l'indicazione sotto a ciascuna immagine)
 
-        - fonti:
+        - fonti: non scherziamo, eh!
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: pensiero personale molto breve
 
-        - tag:
+        - tag: no
 
     "Dai film alle micro SD" <http://bit.ly/1309YmQ> by @MarcoViccica
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: un po' lunghi
 
-        - tipo:
+        - tipo: prospettiva
 
-        - tag:
+        - tag: ok
 
 In vitanelvirtuale
 
@@ -612,17 +615,17 @@ In musicdigitalbeat
     "#music: una app. che potrebbe rivoluzionare il mondo della musica?"
       <http://bit.ly/130au4b> by @MicheleRusso92
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: boh
 
-        - fonti:
+        - fonti: boh
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: breve segnalazione
 
-        - tag:
+        - tag: no
 
     "RIVOLUZIONE DIGITALE, MORTE O SALVEZZA?"
       <http://bit.ly/159F7YF> by @MicheleRusso92
@@ -676,17 +679,17 @@ In inksbytes
     "Il destino dei nostri dati: Google e il testamento digitale"
       <http://bit.ly/12Ur2K3> by @AxelMgn13
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: quasi-ok (non mettere link lunghi, usa <a href)
 
-        - fonti:
+        - fonti: quasi-ok (no bit.ly, usa <a href)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: breve segnalazione
 
-        - tag:
+        - tag: no
 
 In @socialneid
 
@@ -770,17 +773,20 @@ In @theXenGine
     "Il computer quantistico: un futuro per il video ludico?"
       <http://bit.ly/130ceKG> by @Skiepp
 
-        - titolo:
+        - titolo: abbastanza (non sono sicuro si separi video e ludico)
 
-        - immagini:
+        - immagini: abbastanza (meglio se usi <a href e metti i link
+          sotto a ciascuna immagine)
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (ma non e' scritto in modo
+          scorrevolissimo)
 
-        - tipo:
+        - tipo: approflessione (approfondimento che sconfina in
+          riflessione)
 
-        - tag:
+        - tag: ok
 
 In scattoaldigitale
 
@@ -802,17 +808,17 @@ In scattoaldigitale
     "Instagram: il Social Network della fotografia" <http://bit.ly/12VDA3H>
       by @MathieuMauri
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: non usare bit.ly, usa <a href
 
-        - fonti:
+        - fonti: boh
 
-        - paragrafi:
+        - paragrafi: medio (poco curato, Zuckemberg?!)
 
-        - tipo:
+        - tipo: brevissima monografia
 
-        - tag:
+        - tag: ok
 
 In gruppodalm
 
@@ -990,17 +996,19 @@ In @BlogTDW
     "Tutta la musica che vuoi, quando vuoi: Spotify"
      <http://bit.ly/12mUsxF> by @FZinnari
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
         - paragrafi:
 
-        - tipo:
+        - tipo: breve approfondimento
 
-        - tag:
+        - tag: ok
+
+        - nota: l'attacco del pezzo e' molto buono
 
     "MMS: UNA STORIA TRISTE" <http://bit.ly/17xJlGN>
       by @omerovitali
@@ -1192,17 +1200,18 @@ In @websocialblog
     "Se l’italia va a rotoli #ècolpaditwitter" <http://bit.ly/13MmSnc>
       by @Antonio_Langiu
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: quasi-ok (metti dei link cliccabili)
 
-        - fonti:
+        - fonti: quasi-ok (non si capisce benissimo che tutte
+          le citazioni in alto sono di civati)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: +++ BREAKING +++
 
-        - tag:
+        - tag: ok
 
     "Un po’ di storia: dai primi social network a twitter"
       <http://bit.ly/Yek7uf> by @Stefano_Landi92
@@ -1222,17 +1231,18 @@ In @websocialblog
     "L’occhio del web su Boston" <http://bit.ly/130hApe>
       by @Antonio_Langiu
 
-        - titolo:
+        - titolo: non chiarissimo
 
-        - immagini:
+        - immagini: no
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (non lasciare troppo spazio tra i
+          paragrafi, non sempre curatissimo)
 
-        - tipo:
+        - tipo: +++ BREAKING +++
 
-        - tag:
+        - tag: ok
 
 In rd-ipod33giri
 
@@ -1316,17 +1326,20 @@ In @N_G_House
     "QUANTO È SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
       by @Ale_Cannone
 
-        - titolo:
+        - titolo: SICURAMENTE E' UN TITOLO IN GRASSETTO
 
-        - immagini:
+        - immagini: medio (il link corto a youtube e' ugly, fai, invece,
+          l'embedding del video)
 
         - fonti:
 
-        - paragrafi:
+        - paragrafi: non mi piace molto (poco curato, il testo non
+          scorre moltissimo, ti incasini un po' tra security
+          e safety)
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "Risparmio energetico nella casa domotica" <http://bit.ly/159KE1j>
       by @Ale_Cannone
@@ -1363,17 +1376,17 @@ In @Digimovement
     "RADIONAVIGAZIONE: L’ORIZZONTE SUI MARI DEL FUTURO."
       <http://bit.ly/11XKwMu> by @emalabro
 
-        - titolo:
+        - titolo: UPPERCASE E' BRUTTO
 
-        - immagini:
+        - immagini: medio (immagino immagine da wikipedia, ma non so)
 
-        - fonti:
+        - fonti: quasi-ok (treccani non era linkabile?)
 
-        - paragrafi:
+        - paragrafi: abbastanza bene (orribile verde per grassetto)
 
-        - tipo:
+        - tipo: ricerca su wikipedia
 
-        - tag:
+        - tag: medio (solo categoria)
 
     "VOLARE SENZA EMISSIONI: UTOPIA O REALTÀ?" <http://bit.ly/11XKB2x>
       by @robguerr
@@ -1471,17 +1484,17 @@ In gamechoc
     "La nuova PS4: più social che mai" <http://bit.ly/130k7A3>
        by @pdor93_milano
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: quasi-ok (poche)
 
-        - fonti:
+        - fonti: non chiara
 
-        - paragrafi:
+        - paragrafi: quasi-ok (un po' lunghi)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: no
 
 In @DigitaleInCasa
 
@@ -1642,17 +1655,17 @@ In @WorldWidePh
     "Il caso Myspace: successo e declino del primo grande social network"
       <http://bit.ly/128aYBm> by @SimoneBleynat
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: no
 
     "Gli USA hanno un nuovo presidente: Kid President!"
       <http://bit.ly/11RWSpc> by @BalboDavide
@@ -1781,17 +1794,19 @@ In @RealtAumentat
 
     "Il sistema Aris*er" <http://bit.ly/12qljbX> by @MarcoFestugato
 
-        - titolo:
+        - titolo: non si capisce
 
-        - immagini:
+        - immagini: embedda i video, inserisci fonti
 
-        - fonti:
+        - fonti: quasi-ok (link su "qui" e "questo filmato" fa
+          molto, troppo anni '90)
 
-        - paragrafi:
+        - paragrafi: forse un po' lunghi, tradotto non benissimo, non
+          si capisce bene il filo logico
 
-        - tipo:
+        - tipo: informativo
 
-        - tag:
+        - tag: no
 
     "Ingress: la nuova frontiera del gioco?" <http://bit.ly/18cXRVT>
       by @frafrn
@@ -1843,14 +1858,14 @@ In @RealtAumentat
     "ITALY AUGMENTED: un nuovo modo di: viaggiare, osservare, comprare"
       <http://bit.ly/11XOGDU> by @WillieMacdouga
 
-        - titolo:
+        - titolo: non chiarissimo
 
-        - immagini:
+        - immagini: non usare link shortener per immagini
 
-        - fonti:
+        - fonti: non chiarissimo
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
