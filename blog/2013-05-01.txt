@@ -1,3 +1,5 @@
+. from 2013-04-16 to 2013-05-01
+
 In @Tech_OnTheRoad 
 
     "Un app può salvarti la vita?"
@@ -28,6 +30,12 @@ In @SIAMoMusicPills
 
     "Mac OSX Vs Windows, Quale Migliore Ambiente di Produzione?"
       <http://bit.ly/Z3QyMQ> by @MorenoLaQuatra
+
+    "Scudo, cooperazione. Proprietà intellettuale? (Prima parte)"
+      <http://bit.ly/11Cf1ac> by @SimoLeonardiRD
+
+    "Scudo, cooperazione. Proprietà intellettuale? Seconda parte)"
+      <http://bit.ly/159CQwv> by @SimoLeonardiRD
 
 In @tech_mondo
 
@@ -101,6 +109,9 @@ In @Gioco_Azzardato
     "L’evoluzione della “schedina” online: il betting-exchange"
       <http://bit.ly/YQqiBT> by @MaurizioVerra
 
+    "IL GIOCO VALE LA CANDELA?" <http://bit.ly/14ZBCne>
+      by @LolloCler
+
 In @Cine_Revolution
 
     "Addio pellicola! Benvenuto digitale!" <http://bit.ly/17xhjth>
@@ -121,6 +132,9 @@ In vitanelvirtuale
 
     "Oculus Rift: la fantascienza entra in casa nostra"
       <http://bit.ly/15BVM6n> by @Baraleluca93
+
+    "Avatar: nostra espressione o facciata fittizia?"
+      <http://bit.ly/18pzhhP> by @Baraleluca93
 
 In musicdigitalbeat
 
@@ -229,6 +243,9 @@ In @BlogTDW
     "L’ evoluzione della musica con l’ avvento del digitale"
       <http://bit.ly/16ofbI0> by @FZinnari
 
+    "SPAZIO La Stampa - AN UNEXPECTED JOURNEY"
+      <http://bit.ly/16pSXW2> by @DavidePalermo2
+
 In @SpecialEff_Team
 
     "Dagli anni 10 con Norman Down e il suo “glass shot”, ai giorni
@@ -306,6 +323,11 @@ In @Digimovement
       by @AstoriPietro
 
 In @Guida_SO
+
+    "SECURE BOOT, MINACCIA PER LINUX ??" <http://bit.ly/17z6b0V>
+      by @BoggioMattia
+
+    "Linux spread" <http://bit.ly/161SLMQ> by Anonymous
 
 In gamechoc
 
@@ -385,6 +407,8 @@ In the-easy-life
        <http://bit.ly/ZWestn> by @Rexsimo893
 
 In @RealtAumentat
+
+    "Il sistema Aris*er" <http://bit.ly/12qljbX> by @MarcoFestugato
 
     "Ingress: la nuova frontiera del gioco?" <http://bit.ly/18cXRVT>
       by @frafrn
