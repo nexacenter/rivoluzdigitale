@@ -20,17 +20,17 @@ In @Tech_OnTheRoad
     "Memoria espandibile vs memoria integrata. Qual è la migliore?"
       <http://bit.ly/11Vzpom> by @LorenzoCutelle
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (neanche troppo spazio tra i paragrafi e' bene)
 
-        - tipo:
+        - tipo: esperienza personale
 
-        - tag:
+        - tag: ok
 
     "Evoluzione della specie"
       <http://bit.ly/15ZK2e4> by @StefanoFranz20
@@ -189,17 +189,17 @@ In @tech_mondo
     "<HTML5>il futuro del web</HTML5>"
       <http://bit.ly/11RDY1T> by @OvidiuBirgu
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
         - paragrafi:
 
-        - tipo:
+        - tipo: review
 
-        - tag:
+        - tag: ok
 
     "Fusione fredda. La più grande “bufala” o già realtà?"
       <http://bit.ly/15IU0At> by @PasqualeCafaro1
@@ -421,17 +421,17 @@ In @d_transport
     "AIUTOOO… ma chi guida la metro?!" <http://bit.ly/11VEahJ>
       by @a_loffreda
 
-        - titolo:
+        - titolo: non mi convince
 
-        - immagini:
+        - immagini: manca fonte
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (ce n'e` uno un po' troppo lungo)
 
-        - tipo:
+        - tipo: wikipedia++
 
-        - tag:
+        - tag: no
 
 In @rd_informazione
 
@@ -644,17 +644,17 @@ In @webcracity
     "La democrazia in una nuova era" <http://bit.ly/11XBDCm>
       by @CaracciFabio
 
-        - titolo:
+        - titolo: non chiarissimo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (qualche salto logico)
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: no
 
     "Il mondo è bello perchè vario, anche online. E di certo non sonocw
      tutti troll" <http://bit.ly/18cOvJH> by @conwused
@@ -1162,17 +1162,17 @@ In @websocialblog
     "Campagna elettorale virtuale made in Usa"
       <http://bit.ly/11VMRZv> by @aimomattia
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (bene citare inline, ma usa <a href)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (non curatissimo testo)
 
-        - tipo:
+        - tipo: articolo e approfondimento
 
-        - tag:
+        - tag: ok
 
     "Social Media Marketing" <http://bit.ly/15ZWIBA>
       by @Antonio_Langiu
@@ -1284,17 +1284,17 @@ In rd-ipod33giri
     "La pirateria (non) fa bene (parte II)" <http://bit.ly/11V9qMJ>
       by @silvestro_r
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: quasi-ok (non usare bit.ly)
 
-        - fonti:
+        - fonti: non chiara fonte principale
 
-        - paragrafi:
+        - paragrafi: abbastanza (testo poco fluido)
 
-        - tipo:
+        - tipo: riporta news
 
-        - tag:
+        - tag: no
 
 In @N_G_House
 
@@ -1378,17 +1378,17 @@ In @Digimovement
     "VOLARE SENZA EMISSIONI: UTOPIA O REALTÀ?" <http://bit.ly/11XKB2x>
       by @robguerr
 
-        - titolo:
+        - titolo: NO TITOLO IN UPPERCASE, UPPERCASE = GRIDARE
 
-        - immagini:
+        - immagini: fonte non direttamente specificata
 
-        - fonti:
+        - fonti: quasi-ok (meglio se sono inline)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (il grassetto verde e' un pugno in un occhio :-)
 
-        - tipo:
+        - tipo: wikipedia
 
-        - tag:
+        - tag: ok
 
     "DUE APPLICAZIONI, MIGLIAIA DI VEICOLI." <http://bit.ly/ZVAWwj>
       by @AstoriPietro
@@ -1657,17 +1657,17 @@ In @WorldWidePh
     "Gli USA hanno un nuovo presidente: Kid President!"
       <http://bit.ly/11RWSpc> by @BalboDavide
 
-        - titolo:
+        - titolo: quasi-ok (non mi convince 100%)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: notizia
 
-        - tag:
+        - tag: no
 
 In @virality
 
