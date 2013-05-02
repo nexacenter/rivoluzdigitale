@@ -8,13 +8,32 @@ Se non sei iscritto alla lista con l'email del Politecnico (i.e. una email
 `@studenti.polito.it`) non ricadi nella casistica descritta in
 questa FAQ.
 
-Se, invece, sei iscritto alla lista con l'email del Politecnico, ricevi le
-email degli altri iscritti, ma non riesci a mandarle, e' molto probabile
-che tu sia iscritto alla lista con il tuo *indirizzo vero* ma stia scrivendo
-con l' *alias*, o viceversa.
+Se, invece, sei iscritto alla lista con l'email del Politecnico, ricevi
+le email degli altri iscritti, ma ricevi una email indicante un errore
+quando scrivi un messaggio in lista, allora e' molto probabile che tu sia
+iscritto alla lista con il tuo *indirizzo vero* (`s000000@studenti.polito.it`)
+ma stia scrivendo con l' *alias* (`nome.cognome@studenti.polito.it`), o
+viceversa.
 
-Mi spiego meglio: per il Politecnico, l' *indirizzo vero* e'
-questo qua:
+Prima di entrare nei dettagli, vediamo per prima cosa il messaggio di errore
+che dovresti ricevere:
+
+    Your request to the rd mailing list
+
+        Posting of your message titled "..."
+
+    has been rejected by the list moderator.  The moderator gave the
+    following reason for rejecting your request:
+
+    "Non-members are not allowed to post messages to this list."
+
+    Any questions or comments should be directed to the list administrator
+    at:
+
+        rd-owner@server-nexa.polito.it
+
+Adessso vediamo di capire meglio il problema. Per il Politecnico,
+l' *indirizzo vero* e' questo qua:
 
     s000000@studenti.polito.it
 
