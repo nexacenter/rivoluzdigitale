@@ -5,246 +5,1077 @@ In @Tech_OnTheRoad
     "Un app può salvarti la vita?"
       <http://bit.ly/YmqY7b> by @93Levante
 
+        - titolo: poco chiaro
+
+        - immagini: ok
+
+        - fonti: ok
+
+        - paragrafi: ok
+
+        - tipo: segnalazione articolo
+
+        - tag: mancanti
+
     "Memoria espandibile vs memoria integrata. Qual è la migliore?"
       <http://bit.ly/11Vzpom> by @LorenzoCutelle
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Evoluzione della specie"
       <http://bit.ly/15ZK2e4> by @StefanoFranz20
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @SIAMoMusicPills
 
     "Gli strumenti Musicali? Non Sempre Si pagano"
       <http://bit.ly/ZUfdmI> by @MorenoLaQuatra
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "How to: Finger Drumming & Controllerism Tutorial"
       <http://bit.ly/Yeu791> by @iacopo_poli
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Audio in digitale: miglior compromesso tra qualità e portabilità?"
       <http://bit.ly/1304it2> by @Alessio_Chiolo
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Come trovare musica - le migliori risorse online"
       <http://bit.ly/ZmC5s0> by @iacopo_poli
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "BOOM. Evolvo, creo, apprezzo. Vibrazioni in pugno"
       <http://bit.ly/YA8PO8> by @SimoLeonardiRD
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Mac OSX Vs Windows, Quale Migliore Ambiente di Produzione?"
       <http://bit.ly/Z3QyMQ> by @MorenoLaQuatra
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Scudo, cooperazione. Proprietà intellettuale? (Prima parte)"
       <http://bit.ly/11Cf1ac> by @SimoLeonardiRD
 
+        - titolo: non chiarissimo
+
+        - immagini: ok ma non usare bit.ly, usa <a href
+
+        - fonti: non chiarissimo
+
+        - paragrafi: ok ma fai troppi salti logici
+
+        - tipo: riflessione
+
+        - tag: singolo tag (non e' quello che volevi)
+
     "Scudo, cooperazione. Proprietà intellettuale? Seconda parte)"
       <http://bit.ly/159CQwv> by @SimoLeonardiRD
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @tech_mondo
 
     "La Casa Del Futuro!"
       <http://bit.ly/10nmLKG> by @Berto93Lore
 
+        - titolo: so and so
+
+        - immagini: ok
+
+        - fonti: ok
+
+        - paragrafi: too large
+
+        - tipo: panoramica
+
+        - tag: ok
+
     "<HTML5>il futuro del web</HTML5>"
       <http://bit.ly/11RDY1T> by @OvidiuBirgu
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Fusione fredda. La più grande “bufala” o già realtà?"
       <http://bit.ly/15IU0At> by @PasqualeCafaro1
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "NUOVE FRONTIERE NEL CAMPO DELLE ARMI"
       <http://bit.ly/13iv1Q0> by @Berto93Lore
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Grafene – il materiale del futuro"
       <http://bit.ly/15k9gUe> by @OvidiuBirgu
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @RivoluzionArti
 
     "La fotografia: impressionismo digitale"
       <http://bit.ly/1306zVc> by @Gian_Cirillo
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "TIC-TAC-TECnologico"
       <http://bit.ly/18cKGUQ> by @GiuliaPancaro
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @A_Intelligence_
 
     "“Dassault nEUROn”, l’aereo europeo completamente autonomo"
       <http://bit.ly/11MKWoC> by @russomatteo93
 
+        - titolo: quasi-ok, non usare "," usa ":"
+
+        - immagini: ok
+
+        - fonti: quasi-ok (al fondo)
+
+        - paragrafi: quasi-ok (visto alto numero di sezioni, mettile come prima
+          frase dei paragrafi, sempre in grassetto)
+
+        - tipo: review
+
+        - tag: no
+
     "Software scacchistico"
       <http://bit.ly/10VkQnX> by @paolopopolizio
+
+        - titolo: troppo descrittivo
+
+        - immagini: non usare bit.ly per fonte, usa <a href
+
+        - fonti: ok
+
+        - paragrafi: medio (poco curato, lunghi)
+
+        - tipo: intro abbastanza approfondita
+
+        - tag: no
 
     "Un aiuto intelligente al lavoro dell’uomo"
       <http://bit.ly/ZzNAQs> by @ripa_pepperipa
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "A. I. Intelligenza artificiale"
       <http://bit.ly/XLlqAH> by @paolopopolizio
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @watchDogSystem
 
     "Come si alimenta una lampadina a basso consumo?"
       <http://bit.ly/12cikpW> by @EricaAcire19
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "SoC e SoM" <http://bit.ly/10ssor2> by @FabioVallone
+
+        - titolo: oscuro
+
+        - immagini: ok
+
+        - fonti: non chiaro
+
+        - paragrafi: ok
+
+        - tipo: panoramica
+
+        - tag: ok
 
 In @d_transport
 
     "Dov’è il motore?" <http://bit.ly/ZW1TON> by @MartinoMensio
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Cylinder on demand: quando ridurre i consumi diventa un’imperativo"
       <http://bit.ly/Zb7XDd> by @stufi93
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "“Troppo potere agli ingegneri!”" <http://bit.ly/172DY2i>
       by @stufi93
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "AIUTOOO… ma chi guida la metro?!" <http://bit.ly/11VEahJ>
       by @a_loffreda
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @rd_informazione
 
     "La Pubblicità un mezzo potente" <http://bit.ly/14Va5mV>
       by @FabioBussi
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Punto di vista di una ultraottantenne riguardo alla Rivoluzione digitale"
       <http://bit.ly/18psrca> by @SabryKarate
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @Gioco_Azzardato
 
     "L’evoluzione della “schedina” online: il betting-exchange"
       <http://bit.ly/YQqiBT> by @MaurizioVerra
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "IL GIOCO VALE LA CANDELA?" <http://bit.ly/14ZBCne>
       by @LolloCler
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @Cine_Revolution
 
     "Addio pellicola! Benvenuto digitale!" <http://bit.ly/17xhjth>
       by @sakiu92
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
 In @PhotoRevo
 
     "Un po’ di storia" <http://bit.ly/ZzP7pE> by @MarcoViccica
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Evoluzione della fotografia: dall’iniziale realtà all’inganno odierno"
       <http://bit.ly/10suqr3> by @AndreaCugusi
 
+        - titolo: so and so
+
+        - immagini: ok
+
+        - fonti: ok
+
+        - paragrafi: ok
+
+        - tipo: evoluzione
+
+        - tag: ok
+
+        - nota: usa ! non !! o !!!
+
     "Digitale, un bene o un male?" <http://bit.ly/12VxKzo> by @93_checco
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Dai film alle micro SD" <http://bit.ly/1309YmQ> by @MarcoViccica
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In vitanelvirtuale
 
     "Oculus Rift: la fantascienza entra in casa nostra"
       <http://bit.ly/15BVM6n> by @Baraleluca93
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Avatar: nostra espressione o facciata fittizia?"
       <http://bit.ly/18pzhhP> by @Baraleluca93
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In musicdigitalbeat
 
     "#music: una app. che potrebbe rivoluzionare il mondo della musica?"
       <http://bit.ly/130au4b> by @MicheleRusso92
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "RIVOLUZIONE DIGITALE, MORTE O SALVEZZA?"
       <http://bit.ly/159F7YF> by @MicheleRusso92
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @webcracity
 
     "La democrazia in una nuova era" <http://bit.ly/11XBDCm>
       by @CaracciFabio
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Il mondo è bello perchè vario, anche online. E di certo non sonocw
      tutti troll" <http://bit.ly/18cOvJH> by @conwused
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In inksbytes
 
     "Il destino dei nostri dati: Google e il testamento digitale"
       <http://bit.ly/12Ur2K3> by @AxelMgn13
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
 In @socialneid
 
     "Con Pinterest è l’era del social shopping" <http://bit.ly/ZW4atp>
       by @GiuseppeCanto
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Vlog Sordi: quando il web diventa “social”" <http://bit.ly/ZW4iJt>
       by @cri_traman
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Il blog: una navicella che torna indietro dallo spazio"
       <http://bit.ly/14Vh27g> by @GiuseppeCanto
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Identità digitale: chi siamo online?" <http://bit.ly/1037TRP>
       by @Tomm_Yz
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @theXenGine
 
     "LucasArts: fine di un colosso galattico" <http://bit.ly/ZzQFQp>
       by @MatteoMonta93
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Il computer quantistico: un futuro per il video ludico?"
       <http://bit.ly/130ceKG> by @Skiepp
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In scattoaldigitale
 
     "Uno sguardo al passato: come l’800 ha rivoluzionato l’industria
      fotografica" <http://bit.ly/15ZPcXw> by @giuli93
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Instagram: il Social Network della fotografia" <http://bit.ly/12VDA3H>
       by @MathieuMauri
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In gruppodalm
 
     "Learn to learn – Imparare ad imparare" <http://bit.ly/YeenAG>
       by @ndreaLF
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Un nuovo Falco nei cieli" <http://bit.ly/17MtN0h> by @Da93Mo
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Romeo&Giulietta, Shakespeare? NO, ROBOT!" <http://bit.ly/ZW5jRH>
       by @lucaSerra4
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In guidadigitale
 
     "“Sword Art Online”, il videogioco nel 2022!?"
       <http://bit.ly/ZmLH5W> by @Di_Placido_Mat
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "DmC, Tomb Raider e la discriminazione dei reboot"
       <http://bit.ly/16oaJsG> by @Fed_Delo
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Recensione (entusiasta) di Bioshock Infinite"
       <http://bit.ly/18cQzRO> by @ste_litto
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In libertaneldigitale
 
     "CISPA was back. CISPA is gone. Again."
       <http://bit.ly/ZVrmcN> by @SimonBonvicini
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Internet: l’arma di diffusione del Movimento 5 Stelle"
       <http://bit.ly/ZTqyzv> by @ManuelGuarino93
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Il Web è accessibile a tutti: e in Italia?"
       <http://bit.ly/14wGcJL> by @vitalethomas
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Anonymous: paladini della giustizia o cybercriminali?
      No, “Hacktivisti”!" <http://bit.ly/ZmMxQr>
      by @PieMarzio
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "L’influenza dei social network sulla Primavera Araba"
      <http://bit.ly/159I9Mn> by @SimonBonvicini
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @BlogTDW
 
     "Tutta la musica che vuoi, quando vuoi: Spotify"
      <http://bit.ly/12mUsxF> by @FZinnari
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "MMS: UNA STORIA TRISTE" <http://bit.ly/17xJlGN>
       by @omerovitali
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "ARYBURTON NEL PAESE DELLE MERAVIGLIE" <http://bit.ly/10sBkfU>
       by @DavidePalermo2
 
+        - titolo: non chiarissimo
+
+        - immagini: ok
+
+        - fonti: ok
+
+        - paragrafi: ok, ma usi in modo "strano" citazione
+
+        - tipo: intervista
+
+        - tag: ok
+
     "CHIUNQUE PUÒ FOTOGRAFARE IN 3D" <http://bit.ly/177Rr94>
       by @omerovitali
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "L’ evoluzione della musica con l’ avvento del digitale"
       <http://bit.ly/16ofbI0> by @FZinnari
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "SPAZIO La Stampa - AN UNEXPECTED JOURNEY"
       <http://bit.ly/16pSXW2> by @DavidePalermo2
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @SpecialEff_Team
 
@@ -252,173 +1083,774 @@ In @SpecialEff_Team
      nostri e al “matte painting”!" <http://bit.ly/103aWte>
      by @LorenzoTatti1
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Georges Méliès: L’illusionismo approda al cinema"
      <http://bit.ly/ZW7MeO>
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @arduinoallinclu
 
     "L’intervista a Diego Zeppegno: Arduino al FabLab di Torino."
      <http://bit.ly/18pGzCd> by @SoFranchy
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "OpenDomotica: con Arduino l’intera casa a portata di dito"
      <http://bit.ly/11qy3Pi> by @SoFranchy
+
+        - titolo: ok
+
+        - immagini: ok
+
+        - fonti: ok (bene che siano inline!)
+
+        - paragrafi: quasi-ok (overlap con immagine)
+
+        - tipo: review
+
+        - tag: so and so (non hai messo opendomotica tra i tag)
 
 In @websocialblog
 
     "La tv-generation a confronto col web" <http://bit.ly/16oj9jT>
       by @sociocala
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Campagna elettorale virtuale made in Usa"
       <http://bit.ly/11VMRZv> by @aimomattia
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Social Media Marketing" <http://bit.ly/15ZWIBA>
       by @Antonio_Langiu
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Se l’italia va a rotoli #ècolpaditwitter" <http://bit.ly/13MmSnc>
       by @Antonio_Langiu
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Un po’ di storia: dai primi social network a twitter"
       <http://bit.ly/Yek7uf> by @Stefano_Landi92
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "L’occhio del web su Boston" <http://bit.ly/130hApe>
       by @Antonio_Langiu
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In rd-ipod33giri
 
     "La musica a spasso col tempo" <http://bit.ly/17xLkuE>
       by @GabrieleVicecon
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Nostalgia portami via!" <http://bit.ly/15ZXdM9>
       by @fabioricca93
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "La pirateria (non) fa bene (parte I)" <http://bit.ly/159KjLZ>
       by @silvestro_r
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "La pirateria (non) fa bene (parte II)" <http://bit.ly/11V9qMJ>
       by @silvestro_r
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @N_G_House
 
     "Una casa più sicura che mai" <http://bit.ly/ZTFgaL>
       by @EmaParrinello
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "QUANTO È SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
       by @Ale_Cannone
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Risparmio energetico nella casa domotica" <http://bit.ly/159KE1j>
       by @Ale_Cannone
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @Digimovement
 
     "SISTEMA START/STOP, UN MODO ECOCOMPATIBILE DI VIAGGIARE."
       <http://bit.ly/ZWaZeh> by Anonymous(@AstoriPietro)
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "RADIONAVIGAZIONE: L’ORIZZONTE SUI MARI DEL FUTURO."
       <http://bit.ly/11XKwMu> by @emalabro
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "VOLARE SENZA EMISSIONI: UTOPIA O REALTÀ?" <http://bit.ly/11XKB2x>
       by @robguerr
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "DUE APPLICAZIONI, MIGLIAIA DI VEICOLI." <http://bit.ly/ZVAWwj>
       by @AstoriPietro
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @Guida_SO
 
     "SECURE BOOT, MINACCIA PER LINUX ??" <http://bit.ly/17z6b0V>
       by @BoggioMattia
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Linux spread" <http://bit.ly/161SLMQ> by Anonymous
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In gamechoc
 
     "Recensione: Assassin’s Creed" <http://bit.ly/ZtqXx2>
        by @CataDavide
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Rome 2, ritornano le legioni!" <http://bit.ly/13svT4I>
        by @DavideMercu
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "La nuova PS4: più social che mai" <http://bit.ly/130k7A3>
        by @pdor93_milano
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @DigitaleInCasa
 
     "Il Darwinismo del cavo" <http://bit.ly/18cVH8K>
        by @PeppeGiacalone
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Toollio: il nuovo robot multifunzione per la cucina"
        <http://bit.ly/18cVMJo> by @Thimjok
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Acquisti geek per la casa (e non solo)" <http://bit.ly/ZmT8tZ>
        by @Gare_1993
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "I nuovi monitor BenQ RL2455HM e XL2720T in Italia"
       <http://bit.ly/14VC2uS> by @Gare_1993
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Il futuro dell’interazione uomo-computer secondo HP e Leap Motion"
       <http://bit.ly/17xNnPB> by @Gare_1993
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In evos4rd
 
     "L’epopea di Android nella scalata dei Mobile OS"
        <http://bit.ly/103EOXx> by @Clerish
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Il sistema autocosciente" <http://bit.ly/17xNASK>
        by @BelgaFedeliA
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @WorldWidePh
 
     "Il fenomeno Gangnam Style: un caso unico o destinato a ripetersi?"
       <http://bit.ly/107vqAU> by @SimoneBleynat
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Mitt Romney Style: una parodia virale in piena campagna elettorale"
       <http://bit.ly/11cmGMe> by @SimoneBleynat
+
+        - titolo: ok
+
+        - immagini: ok
+
+        - fonti: ok
+
+        - paragrafi: ok
+
+        - tipo: riflessione
+
+        - tag: no
 
     "Dall’App Store alla Hall of Fame: la favola di Angry Birds"
       <http://bit.ly/ZiVBZN> by @stefano_bitto
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Il caso Myspace: successo e declino del primo grande social network"
       <http://bit.ly/128aYBm> by @SimoneBleynat
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Gli USA hanno un nuovo presidente: Kid President!"
       <http://bit.ly/11RWSpc> by @BalboDavide
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @virality
 
     "How to : Become Viral" <http://bit.ly/10VEcJU> by @LucaLiuzzi
 
+        - titolo: buono, ma no spazio prima di ":"
+
+        - immagini: ok
+
+        - fonti: ok
+
+        - paragrafi: poco curato
+
+        - tipo: spunti
+
+        - tag: solo categoria
+
     "Ingegneria di un video virale" <http://bit.ly/ZmV4mo>
        by @LucaLiuzzi
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Perchè i video diventano virali?" <http://bit.ly/17xOr5X>
        by @LucaLiuzzi
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In the-easy-life
 
     "NFC: not only a new way for payments" <http://bit.ly/103Gwbf>
        by @Rexsimo893
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Google Glass, guarda il mondo da una nuova prospettiva!"
       <http://bit.ly/159Ozv4> by @jackt251
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Dalla carta al digitale: FingerLink Interaction System"
       <http://bit.ly/10xtn08> by Anonymous
 
+        - titolo: ok
+
+        - immagini: ok
+
+        - fonti: ok
+
+        - paragrafi: ok
+
+        - tipo: segnalazione
+
+        - tag: ok
+
     "Con EyeOS un sistema operativo che vive sul browser"
        <http://bit.ly/ZWestn> by @Rexsimo893
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
 In @RealtAumentat
 
     "Il sistema Aris*er" <http://bit.ly/12qljbX> by @MarcoFestugato
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Ingress: la nuova frontiera del gioco?" <http://bit.ly/18cXRVT>
       by @frafrn
+
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
 
     "Sperimentazioni in campo militare (e non solo)"
       <http://bit.ly/17xPcvH> by @MarcoFestugato
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
+
     "Google Glass: le caratteristiche tecniche del futuro"
       <http://bit.ly/10VFSDb> by Anonymous
+
+        - titolo: ok
+
+        - immagini: ok
+
+        - fonti: non chiaro
+
+        - paragrafi: quasi-ok (occhio a grammatica)
+
+        - tipo: review
+
+        - tag: ok
+
+        - lascia perdere dragonball
 
     "ITALY AUGMENTED: un nuovo modo di: viaggiare, osservare, comprare"
       <http://bit.ly/11XOGDU> by @WillieMacdouga
 
+        - titolo:
+
+        - immagini:
+
+        - fonti:
+
+        - paragrafi:
+
+        - tipo:
+
+        - tag:
