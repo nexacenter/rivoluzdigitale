@@ -311,7 +311,7 @@ In @N_G_House
 In @Digimovement
 
     "SISTEMA START/STOP, UN MODO ECOCOMPATIBILE DI VIAGGIARE."
-      <http://bit.ly/ZWaZeh> by Anonymous
+      <http://bit.ly/ZWaZeh> by Anonymous(@AstoriPietro)
 
     "RADIONAVIGAZIONE: L’ORIZZONTE SUI MARI DEL FUTURO."
       <http://bit.ly/11XKwMu> by @emalabro
