@@ -241,3 +241,99 @@ By Simone Basso, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 - RT @MorenoLaQuatra: Soppressione della tecnologia per le conseguenze
   radicali ed esplosive sulla societa'
+
+- col telefono per la prima volta si ha, macroscopico ed evidente, l'effetto
+  rete - http://t.co/xZuJyqpC7U
+
+- esempio: una rete sociale con pochi utenti e' meno appetibile, per uno
+  che vuole iscriversi, di una con 100M di utenti
+
+- l'effetto rete porta con se' una forte dinamica monopolistica (e.g.,
+  Facebook vs. Google+ o Diaspora*)
+
+- a fine '800 scadono i brevetti di Bell - primi anni del '900 ci sono
+  centinia di operatori telefono (ognuno con sua rete)
+
+- RT @MorenoLaQuatra: Effetto rete e conseguenze monopolistiche, dalle aziende
+  telefoniche alle multinazionali del web.
+
+- chi ha tasche piu` profonde compra concorrenti e aumenta effetto rete -
+  in breve Bell, poi AT&T, diventa monopolio
+
+- nel caso dell'europa sono monopoli pubblici, mentre AT&T era privata
+
+- questo e' di attualita` assoluta per internet; e.g., Facebook ora e' di
+  fatto monopolista dei social network
+
+- USA sono primo paese dove nascono leggi antitrust (Ferrovie e societa\`
+  petrolifere - Carnegie e Rockfeller)
+
+- questi in USA sono gli anni dei "robber barons" - http://t.co/59vNdWlRXI
+
+- Petrolio e reti ferroviare , ecco le molle che fanno scattare la legge
+  antitrust in america (Sherman Act 1870)
+
+#### Radio
+
+- 1885 Heinrich Hertz fa primi esperimenti e, in breve, compaiono i primi
+  ricevitori, sulle *navi*
+
+- 1896-97 Marconi capisce che l'altezza dell'antenna era molto importante, e
+  riesce a estendere portata della trasmissione
+
+- RT @MorenoLaQuatra: Hertz: la nascita delle radio, Marconi scopre il ruolo
+  dell'antenna e l'importanza della sua altezza (portata trasmi
+
+- Marconi brevetta a Londra sua innovazione e fonda la "Wireless Telegraph and
+  Signal Company"
+
+- RT @SabryKarate: La radio permette la comunicazione a distanza senza l'uso
+  di cavi (Guglielmo Marconi, 1895)
+
+- RT @SabryKarate: Invenzione del telegrafo senza fili, prima trasmissione:
+  marzo 1899, Canale della Manica #RivoluzDigitale
+
+- L'invenzione di Marconi a Londra viene capita, e apprezzata dalla Marina
+  Britannica (per coordinate le corazzate)
+
+- (le corazzate stavano molto distanti tra loro e la comunicazione ottica non
+  era sufficiente per coordinarle)
+
+- 1901 Marconi - prima comunicazione dall'Irlanda a Terranova (Canada):
+  colleghi colonia a cuore Impero
+
+- RT @LorenzoCutelle Riepilogando: Telegrafo: necessario per i treni Telefono:
+  necessario per le aziende Radio: necessario per le corazzate
+
+- RT @SabryKarate: Viene permessa la comunicazione tra Inghilterra e le
+  Colonie 1901 Prima comunicazione tra Irlanda e Terranova (Canada) ...
+
+- 1902 Scientific American "How to Construct An Efficient Wireless Telegraphy
+  Apparatus at Small Cost"
+
+- in quella fase la radio vive una fase di hacking simile a quella che vi
+  fu per Internet negli anni '80
+
+- RT @MorenoLaQuatra: La radio amatoriale, Scientific America getta le basi
+  per la sua diffusione. (Velocemente ed a basso costo)
+
+- le persone volevano usare la radio per punto-punto e per molto tempo a
+  nessuno viene in mente di usarla per il broadcast
+
+- RT @SimoneBleynat: Certo che trasmettere segnali radio oltreoceano con
+  successo senza sapere della ionosfera è un bel colpo di fortuna e
+
+- a un certo punto qualcuno capisce che non e' un bug ma una feature: broadcast
+
+- 1906, vigilia di Natale, qualcuno per la prima volta trasmette musica via
+  radio nel nord dell'Atlantico
+
+- RT @MorenoLaQuatra: Nessuno si accorge della rivoluzione della radio,
+  nessuno coglie la possibilità di comunicare ad un grande pubblico
+
+- "broadcast" era il gesto del contadino che sparge i semi
+
+- RT @SabryKarate: Notte di Natale del 1906 negli USA ebbe luogo
+  l'inaugurazione della prima stazione radiotrasmittente
+
+- 1920 KDKA e' la prima stazione radio (1910 prima trasmissione in aeroplano)
