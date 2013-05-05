@@ -440,17 +440,17 @@ In @rd_informazione
     "La Pubblicità un mezzo potente" <http://bit.ly/14Va5mV>
       by @FabioBussi
 
-        - titolo:
+        - titolo: non chiaro
 
-        - immagini:
+        - immagini: quasi-ok (usa <a href)
 
-        - fonti:
+        - fonti: ok
 
         - paragrafi:
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: no
 
     "Punto di vista di una ultraottantenne riguardo alla Rivoluzione digitale"
       <http://bit.ly/18psrca> by @SabryKarate
@@ -487,17 +487,25 @@ In @Gioco_Azzardato
     "IL GIOCO VALE LA CANDELA?" <http://bit.ly/14ZBCne>
       by @LolloCler
 
-        - titolo:
+        - titolo: non mettere il titolo in maiuscolo, inoltre dal titolo
+          non si capisce bene di cosa vuoi parlare
 
-        - immagini:
+        - immagini: abbastanza (ma il modo in cui dici da dove hai preso
+          le immagini dovrebbe essere differenziato graficamente cosi`
+          che non venga confuso col testo)
 
-        - fonti:
+        - fonti: bene che usi <a href, pero` non usare bit.ly per il link
+          che metti in href=link; inoltre quando citi fai in modo che si
+          capisca in modo molto chiaro che stai citando, per esempio usando
+          le virgolette e/o accorgimenti grafici
 
-        - paragrafi:
+        - paragrafi: non molto bene (da un lato ci sono paragrafi lunghi, e
+          dall'altro non mi piace che tu inserisca punto-a-capo dentro ai
+          paragrafi stessi)
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
 In @Cine_Revolution
 
@@ -583,17 +591,22 @@ In vitanelvirtuale
     "Oculus Rift: la fantascienza entra in casa nostra"
       <http://bit.ly/15BVM6n> by @Baraleluca93
 
-        - titolo:
+        - titolo: stile descrittivo, ma non si capisce benissimo di
+          che cosa vuoi parlare
 
-        - immagini:
+        - immagini: usa <a href per dire da dove prendi le immagini, e.g.
+          <a href="link-molto-lungo">testo piu` corto</a>
 
-        - fonti:
+        - fonti: quasi-ok (meglio se il link, invece di essere in fondo,
+          viene integrato nel discorso)
 
-        - paragrafi:
+        - paragrafi: buono (come dimensione in se' i paragrafi mi
+          vanno bene; tuttavia i salti tra i paragrafi mi sembrano
+          ancora un po' spigolosi)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
     "Avatar: nostra espressione o facciata fittizia?"
       <http://bit.ly/18pzhhP> by @Baraleluca93
@@ -726,17 +739,17 @@ In @socialneid
     "Il blog: una navicella che torna indietro dallo spazio"
       <http://bit.ly/14Vh27g> by @GiuseppeCanto
 
-        - titolo:
+        - titolo: ok (bravo, incuriosisce molto!)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (la frase iniziale e' un'autocitazione?)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: riflessione
 
-        - tag:
+        - tag: ok
 
     "Identità digitale: chi siamo online?" <http://bit.ly/1037TRP>
       by @Tomm_Yz
@@ -948,17 +961,24 @@ In libertaneldigitale
     "Il Web è accessibile a tutti: e in Italia?"
       <http://bit.ly/14wGcJL> by @vitalethomas
 
-        - titolo:
+        - titolo: buono (avrei messo "." e non ":", e forse si poteva
+          rendere ancora un po' piu` interessante, per esempio "Italia e
+          digitalizzazione: una causa persa" e' molto bello)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok (ottima la citazione inline con <a href)
 
-        - paragrafi:
+        - paragrafi: abbastanza (paragrafi un po' lunghi, ad esempio quello
+          col cud forse potevi anche spezzarlo; e ogni tanto fai qualche
+          errore grammaticale che distrae un po' chi legge; inoltre non e'
+          subito chiaro che le due sezioni sono collegate alla distinzione
+          che fai nell'ultimo paragrafo della intro, anche se apprezzo
+          molto l'idea)
 
-        - tipo:
+        - tipo: approfondimento documentato
 
-        - tag:
+        - tag: ok
 
     "Anonymous: paladini della giustizia o cybercriminali?
      No, “Hacktivisti”!" <http://bit.ly/ZmMxQr>
@@ -1469,17 +1489,17 @@ In gamechoc
     "Rome 2, ritornano le legioni!" <http://bit.ly/13svT4I>
        by @DavideMercu
 
-        - titolo:
+        - titolo: quasi-ok (usa i : e non la ,)
 
-        - immagini:
+        - immagini: non chiara fonte
 
-        - fonti:
+        - fonti: non chiarissimo
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: recensione
 
-        - tag:
+        - tag: ok
 
     "La nuova PS4: più social che mai" <http://bit.ly/130k7A3>
        by @pdor93_milano
@@ -1546,17 +1566,18 @@ In @DigitaleInCasa
     "I nuovi monitor BenQ RL2455HM e XL2720T in Italia"
       <http://bit.ly/14VC2uS> by @Gare_1993
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: quasi-ok (metti link sotto a immagine)
 
-        - fonti:
+        - fonti: ok (e ottimo stile)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (non si capisce bene la parte sul 3D: che
+          cos'e` quella tecnologia di nVidia?)
 
-        - tipo:
+        - tipo: recensione
 
-        - tag:
+        - tag: ok
 
     "Il futuro dell’interazione uomo-computer secondo HP e Leap Motion"
       <http://bit.ly/17xNnPB> by @Gare_1993
