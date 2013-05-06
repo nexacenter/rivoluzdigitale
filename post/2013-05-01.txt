@@ -157,17 +157,19 @@ In @SIAMoMusicPills
     "Scudo, cooperazione. Proprietà intellettuale? Seconda parte)"
       <http://bit.ly/159CQwv> by @SimoLeonardiRD
 
-        - titolo:
+        - titolo: non chiarissimo
 
-        - immagini:
+        - immagini: ok ma non usare bit.ly, usa <a href
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (ok che ci sono i paragrafi, ma ci
+          sono anche errori grammaticali e il discorso e' un po'
+          confuso)
 
-        - tipo:
+        - tipo: riflessione documentata
 
-        - tag:
+        - tag: non vedo tag
 
 In @tech_mondo
 
@@ -204,17 +206,22 @@ In @tech_mondo
     "Fusione fredda. La più grande “bufala” o già realtà?"
       <http://bit.ly/15IU0At> by @PasqualeCafaro1
 
-        - titolo:
+        - titolo: abbastanza (e' meglio avere un titolo con un messaggio
+          forte che avere una domanda nel titolo)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (se hai preso informazioni storiche da Wikipedia,
+          come mi sembra che sia, potresti esplicitarlo, e.g. "prima di
+          parlare degli esperimenti piu` recenti, ripercorriamo la storia
+          della fusione fredda con l'aiuto di Wikipedia")
 
-        - paragrafi:
+        - paragrafi: quasi-ok (non ho capito subito dov'erano i paragrafi
+          e penso dipenda dalla grafica del sito)
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "NUOVE FRONTIERE NEL CAMPO DELLE ARMI"
       <http://bit.ly/13iv1Q0> by @Berto93Lore
@@ -591,8 +598,8 @@ In vitanelvirtuale
     "Oculus Rift: la fantascienza entra in casa nostra"
       <http://bit.ly/15BVM6n> by @Baraleluca93
 
-        - titolo: stile descrittivo, ma non si capisce benissimo di
-          che cosa vuoi parlare
+        - titolo: non si capisce benissimo di che cosa vuoi parlare (stai
+          introducendo un oggetto abbastanza nuovo)
 
         - immagini: usa <a href per dire da dove prendi le immagini, e.g.
           <a href="link-molto-lungo">testo piu` corto</a>
@@ -643,17 +650,19 @@ In musicdigitalbeat
     "RIVOLUZIONE DIGITALE, MORTE O SALVEZZA?"
       <http://bit.ly/159F7YF> by @MicheleRusso92
 
-        - titolo:
+        - titolo: non usare ALL UPPERCASE per il titolo, e comunque il titolo
+          e' decisamente troppo vago
 
-        - immagini:
+        - immagini: non capisco la fonte dell'immagine
 
-        - fonti:
+        - fonti: mancano le fonti delle dichiarazioni (e.g. manca un
+          link all'articolo specifico del guardian)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: non vedo tag
 
 In @webcracity
 
@@ -999,17 +1008,19 @@ In libertaneldigitale
     "L’influenza dei social network sulla Primavera Araba"
      <http://bit.ly/159I9Mn> by @SimonBonvicini
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: abbastanza (non sono a favore dei link a Facebook, ma in
+          questo caso sembra che tu non potessi evitare)
 
-        - fonti:
+        - fonti: discreto (c'e` un video, ma avresti potuto arricchire la
+          tua molto-interessante riflessione con molte piu` fonti)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (a tratti un po' lunghi)
 
-        - tipo:
+        - tipo: riflessione
 
-        - tag:
+        - tag: non ne vedo
 
 In @BlogTDW
 
@@ -1299,17 +1310,19 @@ In rd-ipod33giri
     "La pirateria (non) fa bene (parte I)" <http://bit.ly/159KjLZ>
       by @silvestro_r
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: usa <a href, e non bit.ly, per fonti immagini
 
-        - fonti:
+        - fonti: quasi-ok (non si capisce benissimo la fonte delle due
+          lunghe citazioni, anche se si puo` immaginare)
 
-        - paragrafi:
+        - paragrafi: non tanto bene (frasi troppo lunghe e paragrafi
+          troppo lunghi lo rendono un po' difficile da leggere)
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: non vedo tag
 
     "La pirateria (non) fa bene (parte II)" <http://bit.ly/11V9qMJ>
       by @silvestro_r
@@ -1364,17 +1377,18 @@ In @N_G_House
     "Risparmio energetico nella casa domotica" <http://bit.ly/159KE1j>
       by @Ale_Cannone
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: abbastanza (non si capisce pero` la fonte del virgolettato
+          di Andrea Castrignano)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
 In @Digimovement
 
@@ -1769,17 +1783,17 @@ In the-easy-life
     "Google Glass, guarda il mondo da una nuova prospettiva!"
       <http://bit.ly/159Ozv4> by @jackt251
 
-        - titolo:
+        - titolo: quasi-ok (non usare la "," ma usa i ":")
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
     "Dalla carta al digitale: FingerLink Interaction System"
       <http://bit.ly/10xtn08> by Anonymous
