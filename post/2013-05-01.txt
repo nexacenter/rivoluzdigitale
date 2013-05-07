@@ -35,17 +35,17 @@ In @Tech_OnTheRoad
     "Evoluzione della specie"
       <http://bit.ly/15ZK2e4> by @StefanoFranz20
 
-        - titolo:
+        - titolo: non mi convince molto
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: non applicabile
 
-        - paragrafi:
+        - paragrafi: non applicabile
 
-        - tipo:
+        - tipo: breve riflessione personale
 
-        - tag:
+        - tag: ok
 
 In @SIAMoMusicPills
 
@@ -241,17 +241,18 @@ In @tech_mondo
     "Grafene – il materiale del futuro"
       <http://bit.ly/15k9gUe> by @OvidiuBirgu
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (poco curato in alcuni a capi, mancano
+          spazi prima di "(" e dopo ")")
 
-        - tipo:
+        - tipo: approfondimento
 
-        - tag:
+        - tag: ok
 
 In @RivoluzionArti
 
@@ -815,17 +816,18 @@ In scattoaldigitale
     "Uno sguardo al passato: come l’800 ha rivoluzionato l’industria
      fotografica" <http://bit.ly/15ZPcXw> by @giuli93
 
-        - titolo:
+        - titolo: abbastanza bene ("istantanee dal passato: come l'800
+          ha rivoluzionato l'industria fotografia"?)
 
-        - immagini:
+        - immagini: quasi-ok (usa <a href)
 
-        - fonti:
+        - fonti: non chiaro
 
-        - paragrafi:
+        - paragrafi: quasi-ok (usa meno il ";")
 
-        - tipo:
+        - tipo: prospettiva storica
 
-        - tag:
+        - tag: non li vedo
 
     "Instagram: il Social Network della fotografia" <http://bit.ly/12VDA3H>
       by @MathieuMauri
@@ -908,17 +910,21 @@ In guidadigitale
     "DmC, Tomb Raider e la discriminazione dei reboot"
       <http://bit.ly/16oaJsG> by @Fed_Delo
 
-        - titolo:
+        - titolo: LOL
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (non ok 100% perche` non mi linki la definizione di
+          reboot: mi aspettavo qualcosa tipo "nella comunita` dei
+          video-giocatori" + link)
 
-        - paragrafi:
+        - paragrafi: abbastanza, ma non mi piace il fatto che dai un
+          titolo quasi a ogni paragrafo. Meglio, allora mettere una
+          frase in grassetto all'inizio di ogni paragrafo.
 
-        - tipo:
+        - tipo: panoramica + esperienza personale
 
-        - tag:
+        - tag: ok
 
     "Recensione (entusiasta) di Bioshock Infinite"
       <http://bit.ly/18cQzRO> by @ste_litto
@@ -1216,17 +1222,20 @@ In @websocialblog
     "Social Media Marketing" <http://bit.ly/15ZWIBA>
       by @Antonio_Langiu
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: bene che ci sia la fonte sotto l'immagine, ma metti un
+          link per i pigri
 
-        - fonti:
+        - fonti: non capisco la fonte principale (se la fonte principale sei
+          tu perche` lo sai, allora dovresti dirlo esplicitamente)
 
-        - paragrafi:
+        - paragrafi: non mi piace molto: ogni tanto ci sono "a capi" che
+          non ci dovrebbero essere, e qualche maxi-paragrafo
 
-        - tipo:
+        - tipo: panoramica
 
-        - tag:
+        - tag: ok
 
     "Se l’italia va a rotoli #ècolpaditwitter" <http://bit.ly/13MmSnc>
       by @Antonio_Langiu
@@ -1295,17 +1304,20 @@ In rd-ipod33giri
     "Nostalgia portami via!" <http://bit.ly/15ZXdM9>
       by @fabioricca93
 
-        - titolo:
+        - titolo: non si capisce bene (mentre "Vinile: nostalgia portami
+          via!" sarebbe stato molto piu` chiaro)
 
-        - immagini:
+        - immagini: quasi-ok (in un caso hai del testo che sconfina
+          un po' nell'immagine di napster)
 
-        - fonti:
+        - fonti: ok la citazione del report.
 
-        - paragrafi:
+        - paragrafi: troppo lunghi; appropriato l'uso del corsivo
 
-        - tipo:
+        - tipo: non chiarissimo: un po' prospettiva storica, un po'
+          segnalazione e commento del report FIMI
 
-        - tag:
+        - tag: non vedo tag
 
     "La pirateria (non) fa bene (parte I)" <http://bit.ly/159KjLZ>
       by @silvestro_r
