@@ -1095,17 +1095,18 @@ In @BlogTDW
     "L’ evoluzione della musica con l’ avvento del digitale"
       <http://bit.ly/16ofbI0> by @FZinnari
 
-        - titolo:
+        - titolo: troppo generico
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: abbastanza (mettile inline), e poi, linka anche i
+          concetti piu` importanti
 
-        - paragrafi:
+        - paragrafi: abbastanza (no punto a capo dentro il paragrafo)
 
-        - tipo:
+        - tipo: prospettiva storica
 
-        - tag:
+        - tag: ok
 
     "SPAZIO La Stampa - AN UNEXPECTED JOURNEY"
       <http://bit.ly/16pSXW2> by @DavidePalermo2
