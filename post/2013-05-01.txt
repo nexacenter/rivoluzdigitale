@@ -416,17 +416,18 @@ In @d_transport
     "“Troppo potere agli ingegneri!”" <http://bit.ly/172DY2i>
       by @stufi93
 
-        - titolo:
+        - titolo: non chiarissimo, fosse stato "Valentino Rossi: Troppo
+          potere [...]" gia` sarebbe andato molto meglio
 
-        - immagini:
+        - immagini: manca fonte immagine
 
-        - fonti:
+        - fonti: no fonti (why?)
 
-        - paragrafi:
+        - paragrafi: troppo lunghi
 
-        - tipo:
+        - tipo: riflessione
 
-        - tag:
+        - tag: ok (domanda: perche` tagghi il tuo nome?)
 
     "AIUTOOO… ma chi guida la metro?!" <http://bit.ly/11VEahJ>
       by @a_loffreda
@@ -1080,17 +1081,22 @@ In @BlogTDW
     "CHIUNQUE PUÒ FOTOGRAFARE IN 3D" <http://bit.ly/177Rr94>
       by @omerovitali
 
-        - titolo:
+        - titolo: quasi-ok (il titolo non rispecchia esattamente l'articolo,
+          che e' piu` un tutorial su come scattare foto 3D)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (devi fare capire fin da subito che e' una cosa che
+          tu sai fare, tipo "Oggi vi spiego come scattare foto in 3D", e cmq
+          devi anche un po' contestualizzare quello che stai dicendo, ad esempio
+          citando wikipedia)
 
-        - paragrafi:
+        - paragrafi: lascia riga vuota dopo ogni elemento della lista e non
+          andare punto-a-capo dentro un paragrafo
 
-        - tipo:
+        - tipo: tutorial
 
-        - tag:
+        - tag: ok
 
     "L’ evoluzione della musica con l’ avvento del digitale"
       <http://bit.ly/16ofbI0> by @FZinnari
@@ -1111,17 +1117,22 @@ In @BlogTDW
     "SPAZIO La Stampa - AN UNEXPECTED JOURNEY"
       <http://bit.ly/16pSXW2> by @DavidePalermo2
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (manca, ad esempio, la fonte della citazione
+          di calabresi)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (apprezzo molto i paragrafi corti e ben
+          digeribili, ma ogni tanto sei stato troppo sintetico, come quando
+          descrivi le due "sezioni" che ti sono piaciute di piu`: avresti
+          dovuto dire "La sezione 'si va in stampa' ", per esempio, per
+          non lasciare implicito che quello e' il nome di una sezione)
 
-        - tipo:
+        - tipo: reportage
 
-        - tag:
+        - tag: ok
 
 In @SpecialEff_Team
 
@@ -1193,17 +1204,17 @@ In @websocialblog
     "La tv-generation a confronto col web" <http://bit.ly/16oj9jT>
       by @sociocala
 
-        - titolo:
+        - titolo: descrittivo ma comunque abbastanza efficace
 
-        - immagini:
+        - immagini: no (why?)
 
-        - fonti:
+        - fonti: no (why?)
 
-        - paragrafi:
+        - paragrafi: un po' lunghi
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: ok
 
     "Campagna elettorale virtuale made in Usa"
       <http://bit.ly/11VMRZv> by @aimomattia
