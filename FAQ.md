@@ -86,10 +86,10 @@ lista;
 come `nome.cognome@` l'email viene rifiutata, perche' il mittente non
 risulta iscritto alla lista.
 
+### Conclusioni
+
 Riassumendo: dei due indirizzi (`nome.cognome` e `s12345@`), usa come mittente
 l'indirizzo con cui sei iscritto alla lista, e non l'altro.
-
-### Conclusioni
 
 Puoi capire quale indirizzo e' iscritto alla lista guardando le email
 che ricevi dalla lista. Trovi, infatti, l'indirizzo con cui sei iscritto
