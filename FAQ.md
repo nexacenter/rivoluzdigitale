@@ -4,6 +4,8 @@ Frequently Asked Questions (FAQ)
 1.1. Sono iscritto alla lista, ricevo le email ma non riesco a mandarle
 -----------------------------------------------------------------------
 
+### Casistica
+
 Se non sei iscritto alla lista con l'email del Politecnico (i.e. una email
 `@studenti.polito.it`) non ricadi nella casistica descritta in
 questa FAQ.
@@ -32,6 +34,8 @@ che dovresti ricevere:
 
         rd-owner@server-nexa.polito.it
 
+### Cos'e' un alias
+
 Adessso vediamo di capire meglio il problema. Per il Politecnico,
 l' *indirizzo vero* e' questo qua:
 
@@ -55,6 +59,8 @@ Il problema dell'alias e' che la corrispondenza tra
 `nome.cognome@` in `s000000@` e' nota solo al server `studenti.polito.it`.
 Per tutto il resto del mondo, incluso il server della mailing list,
 `nome.cognome@` e `s000000@` sono due indirizzi email differenti.
+
+### Perche` l'alias crea problemi
 
 Vediamo ora, quindi, com'e' possibile che tu ricevi le email dalla mailing
 list ma non riesci a inviare email in mailing list.
@@ -82,6 +88,8 @@ risulta iscritto alla lista.
 
 Riassumendo: dei due indirizzi (`nome.cognome` e `s12345@`), usa come mittente
 l'indirizzo con cui sei iscritto alla lista, e non l'altro.
+
+### Conclusioni
 
 Puoi capire quale indirizzo e' iscritto alla lista guardando le email
 che ricevi dalla lista. Trovi, infatti, l'indirizzo con cui sei iscritto
