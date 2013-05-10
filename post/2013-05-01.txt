@@ -1921,7 +1921,7 @@ In @RealtAumentat
 
         - immagini: non usare link shortener per immagini
 
-        - fonti: non chiarissimo
+        - fonti: ok
 
         - paragrafi: ok
 
