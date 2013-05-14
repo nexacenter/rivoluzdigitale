@@ -521,17 +521,19 @@ In @Cine_Revolution
     "Addio pellicola! Benvenuto digitale!" <http://bit.ly/17xhjth>
       by @sakiu92
 
-        - titolo:
+        - titolo: abbastanza (non si capisce che parli del contesto
+          del cinema se non pensando al tuo blog)
 
-        - immagini:
+        - immagini: fonte non chiara
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (ricorda di non andare punto-a-capo dentro
+          il paragrafo), e non hai scritto in modo chiarissimo
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: non ne vedo
 
 In @PhotoRevo
 
@@ -1623,17 +1625,21 @@ In @DigitaleInCasa
     "Il futuro dell’interazione uomo-computer secondo HP e Leap Motion"
       <http://bit.ly/17xNnPB> by @Gare_1993
 
-        - titolo:
+        - titolo: quasi-ok (bello ma descrittivo)
 
-        - immagini:
+        - immagini: spiegami "immagine non protetta..."
 
-        - fonti:
+        - fonti: quasi-ok (quando dici "sorgono spontanei molti dubbi" mi
+          viene difficile pensare che tu non possa citare appunto alcuni di
+          quelli che hanno dubbi)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (la parentesi su PKD e' troppo lunga); by the
+          way "A voi il giudizio!" e' ridondante: stai postando su un blog
+          e' chiaro che chi ti legge giudichera`)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
 In evos4rd
 
@@ -1778,17 +1784,19 @@ In @virality
     "Perchè i video diventano virali?" <http://bit.ly/17xOr5X>
        by @LucaLiuzzi
 
-        - titolo:
+        - titolo: abbastanza, ma descrittivo
 
-        - immagini:
+        - immagini: ok (video)
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (metti spazio dopo il punto)
 
-        - tipo:
+        - tipo: estremamente breve segnalazione (avrei preferito di gran
+          lunga se tu avessi fatto anche un breve riassunto di quello che
+          si dice nel video)
 
-        - tag:
+        - tag: no
 
 In the-easy-life
 
@@ -1888,17 +1896,19 @@ In @RealtAumentat
     "Sperimentazioni in campo militare (e non solo)"
       <http://bit.ly/17xPcvH> by @MarcoFestugato
 
-        - titolo:
+        - titolo: abbastanza (ma il titolo e' incompleto a meno che uno
+          faccia mente locale su qual e' il tema del blog)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: usi bene la tecnica di embed delle fonti nel testo, ma mi
+          manca la fonte principale della notizia
 
-        - paragrafi:
+        - paragrafi: quasi-ok (paragrafi piu` corti, please)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: non ne vedo
 
     "Google Glass: le caratteristiche tecniche del futuro"
       <http://bit.ly/10VFSDb> by Anonymous
