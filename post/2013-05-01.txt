@@ -1627,7 +1627,8 @@ In @DigitaleInCasa
 
         - titolo: quasi-ok (bello ma descrittivo)
 
-        - immagini: spiegami "immagine non protetta..."
+        - immagini: spiegami "immagine non protetta..." [postare lo screenshot
+          di un film e' eccezione consentita dal copyright]
 
         - fonti: quasi-ok (quando dici "sorgono spontanei molti dubbi" mi
           viene difficile pensare che tu non possa citare appunto alcuni di
