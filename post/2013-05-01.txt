@@ -1183,17 +1183,19 @@ In @arduinoallinclu
     "L’intervista a Diego Zeppegno: Arduino al FabLab di Torino."
      <http://bit.ly/18pGzCd> by @SoFranchy
 
-        - titolo:
+        - titolo: abbastanza (descrittivo, forse potevi scrivere qualcosa
+          tipo: "Intervista: Diego Zeppegno, l'elettricista 2.0 del
+          FabLab di Torino")
 
-        - immagini:
+        - immagini: ok (e bravo!)
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (sono ancora un po' lunghi)
 
-        - tipo:
+        - tipo: intervista
 
-        - tag:
+        - tag: ok
 
     "OpenDomotica: con Arduino l’intera casa a portata di dito"
      <http://bit.ly/11qy3Pi> by @SoFranchy
@@ -1579,32 +1581,37 @@ In @DigitaleInCasa
     "Il Darwinismo del cavo" <http://bit.ly/18cVH8K>
        by @PeppeGiacalone
 
-        - titolo:
+        - titolo: molto creativo e quasi-ok (non chiarissimo)
 
-        - immagini:
+        - immagini: ok (e bravo perche` mi ricordo che ti sei posto
+          il problema del copyright dell'immagine assemblata)
 
-        - fonti:
+        - fonti: potevi inserire piu` fonti
 
-        - paragrafi:
+        - paragrafi: abbastanza (i paragrafi vanno bene, ma il testo
+          e' poco scorrevole)
 
-        - tipo:
+        - tipo: panoramica
 
-        - tag:
+        - tag: ok
 
     "Toollio: il nuovo robot multifunzione per la cucina"
        <http://bit.ly/18cVMJo> by @Thimjok
 
-        - titolo:
+        - titolo: yeah!
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (avrei espanso molto di piu` il fatto che
+          e' un robot: descrivi le funzionalita` ma, visto anche il tema
+          del corso, avrei detto qualcosa in piu` su come funziona)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: abbastanza, ma avrei taggato anche il nome del
+          prodotto e del produttore, no?
 
     "Acquisti geek per la casa (e non solo)" <http://bit.ly/ZmT8tZ>
        by @Gare_1993
@@ -1897,17 +1904,23 @@ In @RealtAumentat
     "Ingress: la nuova frontiera del gioco?" <http://bit.ly/18cXRVT>
       by @frafrn
 
-        - titolo:
+        - titolo: abbastanza (perche` la nuova frontiera? dal titolo non
+          si capisce - comunque sconsiglio i titoli dubitativi)
 
-        - immagini:
+        - immagini: non benissimo - per la prima immagine, potevi mettere
+          direttamente il link a Wikipedia, senza passare per la redirezione
+          di google - per la seconda immagine, visto che hai linkato la
+          homepage e non l'articolo che la includeva, e' difficile risalire
+          davvero alla fonte
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (alcuni paragrafi ancora un po' troppo lunghi
+          e un typo, ma lo hai scritto in modo coinvolgente, bravo!)
 
-        - tipo:
+        - tipo: review
 
-        - tag:
+        - tag: abbastanza (due tag sono pochini)
 
     "Sperimentazioni in campo militare (e non solo)"
       <http://bit.ly/17xPcvH> by @MarcoFestugato
