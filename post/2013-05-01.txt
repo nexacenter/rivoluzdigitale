@@ -275,17 +275,19 @@ In @RivoluzionArti
     "TIC-TAC-TECnologico"
       <http://bit.ly/18cKGUQ> by @GiuliaPancaro
 
-        - titolo:
+        - titolo: great
 
-        - immagini:
+        - immagini: non mettere google come fonte delle immagini, usa
+          invece il sito dove si trova le immagini
 
-        - fonti:
+        - fonti: abbastanza (ma avresti fatto meglio a linkare all'annuncio
+          di un possibile "iClock" invece di linkare Apple su Wikipedia)
 
-        - paragrafi:
+        - paragrafi: troppo lunghi, articolo poco chiaro
 
-        - tipo:
+        - tipo: panoramica
 
-        - tag:
+        - tag: non vedo tag
 
 In @A_Intelligence_
 
@@ -685,20 +687,24 @@ In @webcracity
 
         - tag: no
 
-    "Il mondo è bello perchè vario, anche online. E di certo non sonocw
+    "Il mondo è bello perchè vario, anche online. E di certo non so
      tutti troll" <http://bit.ly/18cOvJH> by @conwused
 
-        - titolo:
+        - titolo: quasi-ok (creativo, ma troppo lungo)
 
-        - immagini:
+        - immagini: mancafonte
 
-        - fonti:
+        - fonti: discreto ("secondo wikipedia" avrebbe dovuto linkare, appunto,
+          all'articolo di Wikipedia dove viene detto che "liberta` e demo-
+          crazia non sono imprescindibili", idem quando citi De Martin devi
+          dire dove ha detto quello che tu dici che ha detto)
 
-        - paragrafi:
+        - paragrafi: abbastanza (ma dovevi spezzare, per esempio, quando
+          introduci Liquid Feedback)
 
-        - tipo:
+        - tipo: riflessione
 
-        - tag:
+        - tag: notag
 
 In inksbytes
 
@@ -933,17 +939,19 @@ In guidadigitale
     "Recensione (entusiasta) di Bioshock Infinite"
       <http://bit.ly/18cQzRO> by @ste_litto
 
-        - titolo:
+        - titolo: great
 
-        - immagini:
+        - immagini: le immagini sono tuoi screenshot?
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: bravissimo per come lo hai scritto, ma non mi tornano
+          molto le frasi in grassetto che usi per spezzarlo (sono titoli
+          di sottoparagrafi?)
 
-        - tipo:
+        - tipo: recensione
 
-        - tag:
+        - tag: ok
 
 In libertaneldigitale
 
@@ -1486,17 +1494,24 @@ In @Guida_SO
     "SECURE BOOT, MINACCIA PER LINUX ??" <http://bit.ly/17z6b0V>
       by @BoggioMattia
 
-        - titolo:
+        - titolo: NON USARE TUTTO MAIUSCOLO, non mettere spazio prima di ?
+          e poi ricordati di usare sempre un singolo ? o !
 
-        - immagini:
+        - immagini: usa <a href
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: hai riletto l'articolo? Hai scritto "bott" invece
+          di "boot" nella prima riga!
 
-        - tipo:
+          I paragrafi in se' non vanno male, ma il testo e' un po'
+          contorto e non si capisce molto bene.
 
-        - tag:
+          Sintesi: poco curato
+
+        - tipo: segnalazione
+
+        - tag: ok
 
     "Linux spread" <http://bit.ly/161SLMQ> by Anonymous
 
