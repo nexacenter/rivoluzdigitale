@@ -864,17 +864,18 @@ In gruppodalm
 
     "Un nuovo Falco nei cieli" <http://bit.ly/17MtN0h> by @Da93Mo
 
-        - titolo:
+        - titolo: non chiarissimo
 
-        - immagini:
+        - immagini: quasi-ok (usa <a href)
 
-        - fonti:
+        - fonti: meglio nel corpo del testo con <a href che in fondo
+          come invece hai fatto tu
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "Romeo&Giulietta, Shakespeare? NO, ROBOT!" <http://bit.ly/ZW5jRH>
       by @lucaSerra4
@@ -1051,17 +1052,17 @@ In @BlogTDW
     "MMS: UNA STORIA TRISTE" <http://bit.ly/17xJlGN>
       by @omerovitali
 
-        - titolo:
+        - titolo: quasi-ok (NO TITOLO TUTTO MAIUSCOLO)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: poche fonti
 
-        - paragrafi:
+        - paragrafi: un po' troppo lunghi, potevi spezzare di piu`
 
-        - tipo:
+        - tipo: panoramica storica
 
-        - tag:
+        - tag: ok
 
     "ARYBURTON NEL PAESE DELLE MERAVIGLIE" <http://bit.ly/10sBkfU>
       by @DavidePalermo2
@@ -1301,17 +1302,19 @@ In rd-ipod33giri
     "La musica a spasso col tempo" <http://bit.ly/17xLkuE>
       by @GabrieleVicecon
 
-        - titolo:
+        - titolo: ok (mi piace perche' e' un gioco di parole)
 
-        - immagini:
+        - immagini: usa <a href per le fonti delle immagini
 
-        - fonti:
+        - fonti: annega le fonti nel testo usando <a href, invece di
+          metterle in fondo
 
-        - paragrafi:
+        - paragrafi: davvero troppo lunghi (by the way, MP3 e WAV non sono
+          generi musicali) e poco curato (punteggiatura)
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: non vedo tag
 
     "Nostalgia portami via!" <http://bit.ly/15ZXdM9>
       by @fabioricca93
@@ -1652,17 +1655,17 @@ In evos4rd
     "Il sistema autocosciente" <http://bit.ly/17xNASK>
        by @BelgaFedeliA
 
-        - titolo:
+        - titolo: non si capisce bene
 
-        - immagini:
+        - immagini: usa <a href
 
-        - fonti:
+        - fonti: poche
 
-        - paragrafi:
+        - paragrafi: i paragrafi sono corti ma il testo non e' chiaro
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: ok
 
 In @WorldWidePh
 
