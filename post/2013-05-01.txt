@@ -67,17 +67,17 @@ In @SIAMoMusicPills
     "How to: Finger Drumming & Controllerism Tutorial"
       <http://bit.ly/Yeu791> by @iacopo_poli
 
-        - titolo:
+        - titolo: abbastanza (ma non e' chiaro se e' un howto o un tutorial)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: no spazio dopo "(" e prima di ")", altrimenti ok
 
-        - tipo:
+        - tipo: tutorial
 
-        - tag:
+        - tag: ok
 
     "Audio in digitale: miglior compromesso tra qualità e portabilità?"
       <http://bit.ly/1304it2> by @Alessio_Chiolo
@@ -492,17 +492,20 @@ In @Gioco_Azzardato
     "L’evoluzione della “schedina” online: il betting-exchange"
       <http://bit.ly/YQqiBT> by @MaurizioVerra
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: quasi-ok (meglio un link cliccabile che un link
+          inserito nell'immagine)
 
-        - fonti:
+        - fonti: non usare bit.ly per le fonti, usa <a href
 
-        - paragrafi:
+        - paragrafi: inserisci riga vuota prima e dopo di ciascun elemento
+          dell'elenco numerato e/o "puntato" (scusa il gioco di parole);
+          non hai curato molto il testo (punteggiatura etc)
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "IL GIOCO VALE LA CANDELA?" <http://bit.ly/14ZBCne>
       by @LolloCler
@@ -868,17 +871,18 @@ In gruppodalm
     "Learn to learn – Imparare ad imparare" <http://bit.ly/YeenAG>
       by @ndreaLF
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (non guastava un link diretto al progetto del MIT)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (un paio di frasi troppo lunghe)
 
-        - tipo:
+        - tipo: approfondimento (spiego: non e' una monografia perche`
+          tocca due temi)
 
-        - tag:
+        - tag: ok
 
     "Un nuovo Falco nei cieli" <http://bit.ly/17MtN0h> by @Da93Mo
 
@@ -1291,17 +1295,22 @@ In @websocialblog
     "Un po’ di storia: dai primi social network a twitter"
       <http://bit.ly/Yek7uf> by @Stefano_Landi92
 
-        - titolo:
+        - titolo: descrittivo ma ok (quel "un po' di storia" fa la
+          differenza)
 
-        - immagini:
+        - immagini: quasi-ok (non e' chiarissimo che il link ninjamarketing
+          e' in realta` la fonte dell'immagine, perche' hai messo l'immagine
+          con i loghi di tutti i social network in un posto un po' strano,
+          i.e., a fianco ai link finali)
 
-        - fonti:
+        - fonti: meglio avere le fonti inline
 
-        - paragrafi:
+        - paragrafi: quasi-ok (bene la lunghezza dei paragrafi ma lettura
+          un po' difficoltosa e qualche typo, e.g., "socialcon")
 
-        - tipo:
+        - tipo: breve panoramica
 
-        - tag:
+        - tag: quasi-ok (ma metti una categoria)
 
     "L’occhio del web su Boston" <http://bit.ly/130hApe>
       by @Antonio_Langiu
