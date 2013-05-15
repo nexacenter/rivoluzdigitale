@@ -52,17 +52,31 @@ In @SIAMoMusicPills
     "Gli strumenti Musicali? Non Sempre Si pagano"
       <http://bit.ly/ZUfdmI> by @MorenoLaQuatra
 
-        - titolo:
+        - titolo: perche` "strumenti" e non "Strumenti", inoltre non
+          si capisce bene di cosa parlerai
 
-        - immagini:
+        - immagini: non mettere link alla homepage
 
-        - fonti:
+        - fonti: meglio se le fonti stanno nel testo piuttosto che
+          in fondo (bene citare l'esperienza personale) e quando
+          metti, nel testo, i link ai VST usa <a href e non dei link
+          cosi` tanto lunghi
 
-        - paragrafi:
+        - paragrafi: i paragrafi sono buoni, ma scrivi in un modo un
+          po' difficile da leggere (forse e' un effetto del fatto
+          che ti stai esercitando a scrivere paragrafi corti?).
 
-        - tipo:
+          Perche` "Eccelsa" e non "eccelsa"?
 
-        - tag:
+          "Salmples"
+
+          Ogni tanto (credo) usi "plugin" per "programma"?
+
+          Devi scegliere con piu` accuratezza le parole da usare.
+
+        - tipo: monografia
+
+        - tag: non ne vedo
 
     "How to: Finger Drumming & Controllerism Tutorial"
       <http://bit.ly/Yeu791> by @iacopo_poli
@@ -131,17 +145,20 @@ In @SIAMoMusicPills
     "Mac OSX Vs Windows, Quale Migliore Ambiente di Produzione?"
       <http://bit.ly/Z3QyMQ> by @MorenoLaQuatra
 
-        - titolo:
+        - titolo: "not too bad" ma avrei preferito se tu avessi unito il
+          titolo e il sottotitolo
 
-        - immagini:
+        - immagini: non usare bit.ly per fonte, usa <a href
 
-        - fonti:
+        - fonti: mancano link che possano aiutare chi non e' esperto
+          del settore a capire meglio di cosa parli
 
-        - paragrafi:
+        - paragrafi: poco - sono contro a mettere un titoletto ogni
+          2-3 paragrafi, e soprattutto e' scritto male
 
-        - tipo:
+        - tipo: esperienza personale
 
-        - tag:
+        - tag: ok
 
     "Scudo, cooperazione. Proprietà intellettuale? (Prima parte)"
       <http://bit.ly/11Cf1ac> by @SimoLeonardiRD
@@ -987,17 +1004,17 @@ In libertaneldigitale
     "Internet: l’arma di diffusione del Movimento 5 Stelle"
       <http://bit.ly/ZTqyzv> by @ManuelGuarino93
 
-        - titolo:
+        - titolo: non mi torna molto "arma", altrimenti ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: meglio inline che in fondo
 
-        - paragrafi:
+        - paragrafi: troppo ciccioni
 
-        - tipo:
+        - tipo: riflessione documentata
 
-        - tag:
+        - tag: ok
 
     "Il Web è accessibile a tutti: e in Italia?"
       <http://bit.ly/14wGcJL> by @vitalethomas
@@ -1402,17 +1419,19 @@ In @N_G_House
     "Una casa più sicura che mai" <http://bit.ly/ZTFgaL>
       by @EmaParrinello
 
-        - titolo:
+        - titolo: descrittivo, mentre il sottotitolo e' buono - forse
+          potevi combinarli in qualche modo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok ("In <a href=''>domotica web</a>" => "Sul sito
+          <a href=''>domotica web</a>", cosi` si capisce meglio)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "QUANTO È SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
       by @Ale_Cannone
