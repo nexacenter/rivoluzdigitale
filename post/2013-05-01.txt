@@ -112,17 +112,21 @@ In @SIAMoMusicPills
     "BOOM. Evolvo, creo, apprezzo. Vibrazioni in pugno"
       <http://bit.ly/YA8PO8> by @SimoLeonardiRD
 
-        - titolo:
+        - titolo: bello!
 
-        - immagini:
+        - immagini: non usare bit.ly, piuttosto usa <a href
 
-        - fonti:
+        - fonti: quasi-ok ("ecco un estratto..." da cosa?)
 
-        - paragrafi:
+        - paragrafi: troppo lunghi e filo logico un po' difficile da seguire;
+          mi e' piaciuto molto il riferimento ai precedenti e successivi
+          post sul blog, perche` da l'idea che ci sia un progetto dietro il
+          blog
 
-        - tipo:
+        - tipo: riflessione personale (mi e' piaciuto molto il riferimento
+          al satyricon)
 
-        - tag:
+        - tag: ok
 
     "Mac OSX Vs Windows, Quale Migliore Ambiente di Produzione?"
       <http://bit.ly/Z3QyMQ> by @MorenoLaQuatra
@@ -340,17 +344,19 @@ In @A_Intelligence_
     "A. I. Intelligenza artificiale"
       <http://bit.ly/XLlqAH> by @paolopopolizio
 
-        - titolo:
+        - titolo: genericissimo
 
-        - immagini:
+        - immagini: non capisco la fonte
 
-        - fonti:
+        - fonti: meglio se metti le fonti inline nel testo, e anche quando
+          citi e' molto meglio se usi le virgolette
 
-        - paragrafi:
+        - paragrafi: abbastanza, ma non andare punto-a-capo nel mezzo
+          di un paragrafo. Punto-a-capo e riga vuota solo a fine paragrafo
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: non ne vedo
 
 In @watchDogSystem
 
@@ -466,17 +472,20 @@ In @rd_informazione
     "Punto di vista di una ultraottantenne riguardo alla Rivoluzione digitale"
       <http://bit.ly/18psrca> by @SabryKarate
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: non linkare la homepage, ma la pagina da cui hai
+          preso l'immagine
 
-        - fonti:
+        - fonti: due commenti (i) non e' chiarissimo chi sia questa signora (se
+          vuoi che rimanga anonima devi comunque dare qualche dettaglio) e (ii)
+          immagino tu abbia editato il testo (ha detto veramente `hacker'?!)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: intervista scritta
 
-        - tag:
+        - tag: ok
 
 In @Gioco_Azzardato
 
@@ -624,17 +633,18 @@ In vitanelvirtuale
     "Avatar: nostra espressione o facciata fittizia?"
       <http://bit.ly/18pzhhP> by @Baraleluca93
 
-        - titolo:
+        - titolo: descrittivo-dubitativo
 
-        - immagini:
+        - immagini: linka la pagina da cui hai preso l'immagine
 
-        - fonti:
+        - fonti: quasi-ok (bene il link online, ma potevi linkare
+          di piu`, ad esempio alla storia di eva byte)
 
-        - paragrafi:
+        - paragrafi: ancora troppo lunghi
 
-        - tipo:
+        - tipo: riflessione
 
-        - tag:
+        - tag: ok
 
 In musicdigitalbeat
 
