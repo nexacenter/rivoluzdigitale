@@ -409,21 +409,22 @@ In @watchDogSystem
 
 In @d_transport
 
-    "Dov’è il motore?" <http://bit.ly/ZW1TON> by @MartinoMensio
+    "Dov'è il motore?" <http://bit.ly/ZW1TON> by @MartinoMensio
 
-        - titolo:
+        - titolo: non efficacissimo; pensa invece come sarebbe stato
+          meglio dire "Dov'e` il motore? Nelle ruote"
 
-        - immagini:
+        - immagini: usa <a href
 
-        - fonti:
+        - fonti: usa <a href
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
-    "Cylinder on demand: quando ridurre i consumi diventa un’imperativo"
+    "Cylinder on demand: quando ridurre i consumi diventa un'imperativo"
       <http://bit.ly/Zb7XDd> by @stufi93
 
         - titolo:
@@ -755,20 +756,20 @@ In inksbytes
 
 In @socialneid
 
-    "Con Pinterest è l’era del social shopping" <http://bit.ly/ZW4atp>
+    "Con Pinterest è '�era del social shopping" <http://bit.ly/ZW4atp>
       by @GiuseppeCanto
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: a parte un paio di paragrafi troppo lunghi, ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "Vlog Sordi: quando il web diventa “social”" <http://bit.ly/ZW4iJt>
       by @cri_traman
@@ -989,17 +990,19 @@ In libertaneldigitale
     "CISPA was back. CISPA is gone. Again."
       <http://bit.ly/ZVrmcN> by @SimonBonvicini
 
-        - titolo:
+        - titolo: ottimo
 
-        - immagini:
+        - immagini: usa <a href per le fonti
 
-        - fonti:
+        - fonti: meglio nel testo che in fondo
 
-        - paragrafi:
+        - paragrafi: quasi-ok (nota: l'articolo e' abbastanza lungo da
+          giustificare la separazione in due sezioni), paragrafi un
+          po' lunghi
 
-        - tipo:
+        - tipo: +++ BREAKING +++
 
-        - tag:
+        - tag: ok
 
     "Internet: l’arma di diffusione del Movimento 5 Stelle"
       <http://bit.ly/ZTqyzv> by @ManuelGuarino93
@@ -1517,17 +1520,20 @@ In @Digimovement
     "DUE APPLICAZIONI, MIGLIAIA DI VEICOLI." <http://bit.ly/ZVAWwj>
       by @AstoriPietro
 
-        - titolo:
+        - titolo: non mettere il titolo tutto maiuscolo, non e' molto
+          chiaro cio` di cui vuoi parlare
 
-        - immagini:
+        - immagini: non basta dire "immagine dal sito ufficiale", metti
+          anche il link
 
-        - fonti:
+        - fonti: invece di mettere tra parentesi i link, usa <a href
 
-        - paragrafi:
+        - paragrafi: quasi-ok (dovevi creare un nuovo paragrafo quando
+          sei passato a paralre di WEBFLEET mobile)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
 In @Guida_SO
 
