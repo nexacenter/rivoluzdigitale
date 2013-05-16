@@ -936,20 +936,26 @@ In gruppodalm
 
 In guidadigitale
 
-    "“Sword Art Online”, il videogioco nel 2022!?"
+    "'Sword Art Online', il videogioco nel 2022!?"
       <http://bit.ly/ZmLH5W> by @Di_Placido_Mat
 
-        - titolo:
+        - titolo: abbastanza (non mi convince molto lo stupore), e, dopo aver
+          letto il post, mi sembra che il titolo non sia molto centrato
 
-        - immagini:
+        - immagini: abbastanza (usare un tagged di tumblr non va bene perche`
+          verranno taggate cose nuove e quindi, andando dopo un po' di tempo su
+          quella pagina, non troverai piu` l'immagine originale)
 
-        - fonti:
+        - fonti: quasi-ok (non chiarissima fonte della citazione finale)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (puoi spezzare ancora, bene l'uso della prima
+          frase in grassetto con funzione simile al titolo, ma considera che
+          non e' obbligatorio che la metti in tutti i paragrafi), articolo
+          comunque molto bello.
 
-        - tipo:
+        - tipo: approfondimento
 
-        - tag:
+        - tag: ok
 
     "DmC, Tomb Raider e la discriminazione dei reboot"
       <http://bit.ly/16oaJsG> by @Fed_Delo
@@ -1044,20 +1050,24 @@ In libertaneldigitale
         - tag: ok
 
     "Anonymous: paladini della giustizia o cybercriminali?
-     No, “Hacktivisti”!" <http://bit.ly/ZmMxQr>
+     No, 'Hacktivisti' <http://bit.ly/ZmMxQr>
      by @PieMarzio
 
-        - titolo:
+        - titolo: non mi convince a pieno, quasi-ok
 
-        - immagini:
+        - immagini: la fonte non punta al post o pagina che contiene
+          l'immagine originale ma a un sito che offre di scaricare immagini
 
-        - fonti:
+        - fonti: meglio averle nel testo che in fondo, inoltre non mi puoi
+          mettere come fonte "wikipedia in generale"
 
-        - paragrafi:
+        - paragrafi: un po' lunghi, ma l'attacco (primo paragrafo) mi piace
+          moltissimo
 
-        - tipo:
+        - tipo: monografia (potevi essere piu` critico e appronfondire molto
+          di piu`, cosi` hai grattato solo la superficie)
 
-        - tag:
+        - tag: ok
 
     "L’influenza dei social network sulla Primavera Araba"
      <http://bit.ly/159I9Mn> by @SimonBonvicini
@@ -1665,17 +1675,17 @@ In @DigitaleInCasa
     "Acquisti geek per la casa (e non solo)" <http://bit.ly/ZmT8tZ>
        by @Gare_1993
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (qualche link in piu` non guastava: TARDIS?)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: breve intro
 
-        - tag:
+        - tag: ok
 
     "I nuovi monitor BenQ RL2455HM e XL2720T in Italia"
       <http://bit.ly/14VC2uS> by @Gare_1993
@@ -1840,6 +1850,9 @@ In @virality
 
     "Ingegneria di un video virale" <http://bit.ly/ZmV4mo>
        by @LucaLiuzzi
+
+        /* Lo considero un (apprezzato) post per riempire il blog di
+           contenuti, e non un post testuale da leggere, OK? */
 
         - titolo:
 
