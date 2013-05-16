@@ -111,17 +111,18 @@ In @SIAMoMusicPills
     "Come trovare musica - le migliori risorse online"
       <http://bit.ly/ZmC5s0> by @iacopo_poli
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok, non usare "qui": fa troppo anni '90
 
-        - paragrafi:
+        - paragrafi: abbastanza, ma puoi spezzare ancora di piu`; no spazio
+          dopo "(" e prima di ")".
 
-        - tipo:
+        - tipo: panoramica corredata da esperienza
 
-        - tag:
+        - tag: ok
 
     "BOOM. Evolvo, creo, apprezzo. Vibrazioni in pugno"
       <http://bit.ly/YA8PO8> by @SimoLeonardiRD
@@ -427,17 +428,17 @@ In @d_transport
     "Cylinder on demand: quando ridurre i consumi diventa un'imperativo"
       <http://bit.ly/Zb7XDd> by @stufi93
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: qual e' la fonte?
 
-        - fonti:
+        - fonti: non chiarissime
 
-        - paragrafi:
+        - paragrafi: wall of text
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "“Troppo potere agli ingegneri!”" <http://bit.ly/172DY2i>
       by @stufi93
@@ -1776,20 +1777,20 @@ In @WorldWidePh
 
         - tag: no
 
-    "Dall’App Store alla Hall of Fame: la favola di Angry Birds"
+    "Dall'App Store alla Hall of Fame: la favola di Angry Birds"
       <http://bit.ly/ZiVBZN> by @stefano_bitto
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: un po' lunghi
 
-        - tipo:
+        - tipo: storia di qualcosa
 
-        - tag:
+        - tag: no
 
     "Il caso Myspace: successo e declino del primo grande social network"
       <http://bit.ly/128aYBm> by @SimoneBleynat
@@ -1919,17 +1920,17 @@ In the-easy-life
     "Con EyeOS un sistema operativo che vive sul browser"
        <http://bit.ly/ZWestn> by @Rexsimo893
 
-        - titolo:
+        - titolo: quasi-ok (perche` "con"?)
 
-        - immagini:
+        - immagini: yeah
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (alcune frasi un po' lunghe)
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
 In @RealtAumentat
 
