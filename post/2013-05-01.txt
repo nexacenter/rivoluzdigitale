@@ -776,7 +776,7 @@ In @socialneid
 
         - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
         - fonti: ok
 
