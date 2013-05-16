@@ -774,17 +774,17 @@ In @socialneid
     "Vlog Sordi: quando il web diventa “social”" <http://bit.ly/ZW4iJt>
       by @cri_traman
 
-        - titolo:
+        - titolo: ok
 
         - immagini:
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ancora troppo corposi
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "Il blog: una navicella che torna indietro dallo spazio"
       <http://bit.ly/14Vh27g> by @GiuseppeCanto
@@ -920,17 +920,18 @@ In gruppodalm
     "Romeo&Giulietta, Shakespeare? NO, ROBOT!" <http://bit.ly/ZW5jRH>
       by @lucaSerra4
 
-        - titolo:
+        - titolo: quasi-ok (non e' efficacissimo perche` contiene due
+          virgole, un "?" e un "!": troppe pause)
 
-        - immagini:
+        - immagini: usa <a href per i link alle immagini
 
-        - fonti:
+        - fonti: non ne vedo
 
-        - paragrafi:
+        - paragrafi: lunghi (inizio e fine scritti molto bene e scorrevoli)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
 In guidadigitale
 
@@ -1197,20 +1198,22 @@ In @SpecialEff_Team
 
         - tag:
 
-    "Georges Méliès: L’illusionismo approda al cinema"
-     <http://bit.ly/ZW7MeO>
+    "Georges Melies: L'illusionismo approda al cinema"
+     <http://bit.ly/ZW7MeO> by @alberto13_tito
 
-        - titolo:
+        - titolo: non mi convince tantissimo l'immagine dell'illusionismo
+          che approda
 
-        - immagini:
+        - immagini: non capisco bene
 
-        - fonti:
+        - fonti: non usare bit.ly (bene il "mymovies lo ricorda cosi")
 
-        - paragrafi:
+        - paragrafi: un po' lunghi e i link bit.ly nel mezzo rendono
+          confuso il filo del discorso
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: no
 
 In @arduinoallinclu
 
@@ -1475,17 +1478,18 @@ In @Digimovement
     "SISTEMA START/STOP, UN MODO ECOCOMPATIBILE DI VIAGGIARE."
       <http://bit.ly/ZWaZeh> by Anonymous(@AstoriPietro)
 
-        - titolo:
+        - titolo: NON IN GRASSETTO, descrittivo
 
-        - immagini:
+        - immagini: non chiara fonte immagini
 
-        - fonti:
+        - fonti: cita per esteso un link a wikipedia, non si capisce bene
+          se e' una citazione letterale (nel qual caso, usa le virgolette)
 
-        - paragrafi:
+        - paragrafi: un po' lunghi
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "RADIONAVIGAZIONE: L’ORIZZONTE SUI MARI DEL FUTURO."
       <http://bit.ly/11XKwMu> by @emalabro
