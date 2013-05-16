@@ -344,16 +344,21 @@ In @A_Intelligence_
 
         - tag: no
 
-    "Un aiuto intelligente al lavoro dell’uomo"
+    "Un aiuto intelligente al lavoro dell'uomo"
       <http://bit.ly/ZzNAQs> by @ripa_pepperipa
 
-        - titolo:
+        - titolo: troppo generico
 
-        - immagini:
+        - immagini: non usare bit.ly, usa <a href
 
-        - fonti:
+        - fonti: metti la fonte nel testo, non in fondo, inoltre linkare alla
+          home page di un sito mi sembra troppo generico; qual e' la fonte
+          esatta della citazione di Asimov?
 
-        - paragrafi:
+        - paragrafi: articolo troppo corto per dividerlo in capitoletti, usa,
+          semmai, la tecnica dei mettere in grassetto le prime frasi quando
+          queste sono significative; buona lunghezza dei paragrafi, pero'; la
+          progressione del testo potrebbe essere piu` coerente
 
         - tipo:
 
@@ -570,19 +575,22 @@ In @Cine_Revolution
 
 In @PhotoRevo
 
-    "Un po’ di storia" <http://bit.ly/ZzP7pE> by @MarcoViccica
+    "Un po' di storia" <http://bit.ly/ZzP7pE> by @MarcoViccica
 
-        - titolo:
+        - titolo: troppo generico
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: se possibile, metti comunque un link al libro (che ne
+          so, su Amazon)
 
-        - paragrafi:
+        - paragrafi: un po' lunghi all'inizio (meglio verso la fine),
+          preferisci la forma attiva al passivo, mancano alcuni connettivi
+          (tipo, alcuni "che")
 
-        - tipo:
+        - tipo: prospettiva storica
 
-        - tag:
+        - tag: ok
 
     "Evoluzione della fotografia: dall’iniziale realtà all’inganno odierno"
       <http://bit.ly/10suqr3> by @AndreaCugusi
@@ -822,17 +830,22 @@ In @theXenGine
     "LucasArts: fine di un colosso galattico" <http://bit.ly/ZzQFQp>
       by @MatteoMonta93
 
-        - titolo:
+        - titolo: Lucas ... Galattico ... ok
 
-        - immagini:
+        - immagini: meglio inline che in fondo, metti un margine tra il
+          lato dell'immagine e il testo
 
-        - fonti:
+        - fonti: meglio inline che in fondo
 
-        - paragrafi:
+        - paragrafi: non mi piace molto il testo con tutti quei
+          separatori orizzontali, why?
 
-        - tipo:
+          i primi 3/4 dell'articolo sono scritti bene, mi piacciono molto
+          meno gli ultimi 2 paragrafi (dove c'e` anche un typo)
 
-        - tag:
+        - tipo: segnalazione piu` panoramica storica
+
+        - tag: ok
 
     "Il computer quantistico: un futuro per il video ludico?"
       <http://bit.ly/130ceKG> by @Skiepp
@@ -1590,20 +1603,27 @@ In @Guida_SO
 
 In gamechoc
 
-    "Recensione: Assassin’s Creed" <http://bit.ly/ZtqXx2>
+    "Recensione: Assassin's Creed" <http://bit.ly/ZtqXx2>
        by @CataDavide
 
-        - titolo:
+        - titolo: un po' troppo descrittivo
 
-        - immagini:
+        - immagini: non chiara fonte
 
-        - fonti:
+        - fonti: non molte
 
-        - paragrafi:
+        - paragrafi: troppo lunghi (bene la prima frase in grassetto ma
+          considera che puoi anche avere paragrafi senza la frase in
+          grassetto), bravo per aver scritto il testo dal tuo punto di
+          vista, spiegando perche` ti piace, etc.
 
-        - tipo:
+              Dubbio: I Borgia erano a Firenze?
 
-        - tag:
+              "Il fratello del presidente Repubblicano" ?
+
+        - tipo: recensione
+
+        - tag: ok
 
     "Rome 2, ritornano le legioni!" <http://bit.ly/13svT4I>
        by @DavideMercu
