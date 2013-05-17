@@ -1,5 +1,7 @@
 . from 2013-04-16 to 2013-05-01
 
+TODO: verificare titoli UPPERCASE
+
 In @Tech_OnTheRoad 
 
     "Un app può salvarti la vita?"
@@ -1466,7 +1468,7 @@ In @N_G_House
     "QUANTO È SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
       by @Ale_Cannone
 
-        - titolo: SICURAMENTE E' UN TITOLO IN GRASSETTO
+        - titolo: SICURAMENTE E' UN TITOLO IN UPPERCASE
 
         - immagini: medio (il link corto a youtube e' ugly, fai, invece,
           l'embedding del video)
@@ -1502,7 +1504,7 @@ In @Digimovement
     "SISTEMA START/STOP, UN MODO ECOCOMPATIBILE DI VIAGGIARE."
       <http://bit.ly/ZWaZeh> by Anonymous(@AstoriPietro)
 
-        - titolo: NON IN GRASSETTO, descrittivo
+        - titolo: NON IN UPPERCASE, descrittivo
 
         - immagini: non chiara fonte immagini
 
