@@ -227,7 +227,7 @@ In @tech_mondo
 
         - tag: ok
 
-    "Fusione fredda. La più grande “bufala” o già realtà?"
+    "Fusione fredda. La più grand e'bufala' o già realtà?"
       <http://bit.ly/15IU0At> by @PasqualeCafaro1
 
         - titolo: abbastanza (e' meglio avere un titolo con un messaggio
@@ -262,7 +262,7 @@ In @tech_mondo
 
         - tag: ok
 
-    "Grafene – il materiale del futuro"
+    "Grafene - il materiale del futuro"
       <http://bit.ly/15k9gUe> by @OvidiuBirgu
 
         - titolo: descrittivo
@@ -315,7 +315,7 @@ In @RivoluzionArti
 
 In @A_Intelligence_
 
-    "“Dassault nEUROn”, l’aereo europeo completamente autonomo"
+    "'Dassault nEUROn', l'aereo europeo completamente autonomo"
       <http://bit.ly/11MKWoC> by @russomatteo93
 
         - titolo: quasi-ok, non usare "," usa ":"
@@ -447,7 +447,7 @@ In @d_transport
 
         - tag: ok
 
-    "“Troppo potere agli ingegneri!”" <http://bit.ly/172DY2i>
+    "'Troppo potere agli ingegneri!'" <http://bit.ly/172DY2i>
       by @stufi93
 
         - titolo: non chiarissimo, fosse stato "Valentino Rossi: Troppo
@@ -463,7 +463,7 @@ In @d_transport
 
         - tag: ok (domanda: perche` tagghi il tuo nome?)
 
-    "AIUTOOO… ma chi guida la metro?!" <http://bit.ly/11VEahJ>
+    "AIUTOOO... ma chi guida la metro?!" <http://bit.ly/11VEahJ>
       by @a_loffreda
 
         - titolo: non mi convince
@@ -515,7 +515,7 @@ In @rd_informazione
 
 In @Gioco_Azzardato
 
-    "L’evoluzione della “schedina” online: il betting-exchange"
+    "L'evoluzione della 'schedina' online: il betting-exchange"
       <http://bit.ly/YQqiBT> by @MaurizioVerra
 
         - titolo: descrittivo
@@ -594,7 +594,7 @@ In @PhotoRevo
 
         - tag: ok
 
-    "Evoluzione della fotografia: dall’iniziale realtà all’inganno odierno"
+    "Evoluzione della fotografia: dall'iniziale realtà al'inganno odierno"
       <http://bit.ly/10suqr3> by @AndreaCugusi
 
         - titolo: so and so
@@ -782,7 +782,7 @@ In @socialneid
 
         - tag: ok
 
-    "Vlog Sordi: quando il web diventa “social”" <http://bit.ly/ZW4iJt>
+    "Vlog Sordi: quando il web diventa 'social'" <http://bit.ly/ZW4iJt>
       by @cri_traman
 
         - titolo: ok
@@ -869,7 +869,7 @@ In @theXenGine
 
 In scattoaldigitale
 
-    "Uno sguardo al passato: come l’800 ha rivoluzionato l’industria
+    "Uno sguardo al passato: come l'800 ha rivoluzionato l'industria
      fotografica" <http://bit.ly/15ZPcXw> by @giuli93
 
         - titolo: abbastanza bene ("istantanee dal passato: come l'800
@@ -902,7 +902,7 @@ In scattoaldigitale
 
 In gruppodalm
 
-    "Learn to learn – Imparare ad imparare" <http://bit.ly/YeenAG>
+    "Learn to learn - Imparare ad imparare" <http://bit.ly/YeenAG>
       by @ndreaLF
 
         - titolo: ok
@@ -1027,7 +1027,7 @@ In libertaneldigitale
 
         - tag: ok
 
-    "Internet: l’arma di diffusione del Movimento 5 Stelle"
+    "Internet: l'arma di diffusione del Movimento 5 Stelle"
       <http://bit.ly/ZTqyzv> by @ManuelGuarino93
 
         - titolo: non mi torna molto "arma", altrimenti ok
@@ -1084,7 +1084,7 @@ In libertaneldigitale
 
         - tag: ok
 
-    "L’influenza dei social network sulla Primavera Araba"
+    "L'influenza dei social network sulla Primavera Araba"
      <http://bit.ly/159I9Mn> by @SimonBonvicini
 
         - titolo: descrittivo
@@ -1150,7 +1150,7 @@ In @BlogTDW
 
         - tag: ok
 
-    "CHIUNQUE PUÒ FOTOGRAFARE IN 3D" <http://bit.ly/177Rr94>
+    "CHIUNQUE PUO' FOTOGRAFARE IN 3D" <http://bit.ly/177Rr94>
       by @omerovitali
 
         - titolo: quasi-ok (il titolo non rispecchia esattamente l'articolo,
@@ -1170,7 +1170,7 @@ In @BlogTDW
 
         - tag: ok
 
-    "L’ evoluzione della musica con l’ avvento del digitale"
+    "L'evoluzione della musica con l'avvento del digitale"
       <http://bit.ly/16ofbI0> by @FZinnari
 
         - titolo: troppo generico
@@ -1189,7 +1189,7 @@ In @BlogTDW
     "SPAZIO La Stampa - AN UNEXPECTED JOURNEY"
       <http://bit.ly/16pSXW2> by @DavidePalermo2
 
-        - titolo: ok
+        - titolo: NO UPPERCASE
 
         - immagini: ok
 
@@ -1208,8 +1208,8 @@ In @BlogTDW
 
 In @SpecialEff_Team
 
-    "Dagli anni 10 con Norman Down e il suo “glass shot”, ai giorni
-     nostri e al “matte painting”!" <http://bit.ly/103aWte>
+    "Dagli anni 10 con Norman Down e il suo 'glass shot', ai giorni
+     nostri e al 'matte painting'!" <http://bit.ly/103aWte>
      by @LorenzoTatti1
 
         - titolo:
@@ -1243,7 +1243,7 @@ In @SpecialEff_Team
 
 In @arduinoallinclu
 
-    "L’intervista a Diego Zeppegno: Arduino al FabLab di Torino."
+    "L'intervista a Diego Zeppegno: Arduino al FabLab di Torino."
      <http://bit.ly/18pGzCd> by @SoFranchy
 
         - titolo: abbastanza (descrittivo, forse potevi scrivere qualcosa
@@ -1260,7 +1260,7 @@ In @arduinoallinclu
 
         - tag: ok
 
-    "OpenDomotica: con Arduino l’intera casa a portata di dito"
+    "OpenDomotica: con Arduino l'intera casa a portata di dito"
      <http://bit.ly/11qy3Pi> by @SoFranchy
 
         - titolo: ok
@@ -1325,7 +1325,7 @@ In @websocialblog
 
         - tag: ok
 
-    "Se l’italia va a rotoli #ècolpaditwitter" <http://bit.ly/13MmSnc>
+    "Se l'italia va a rotoli #ècolpaditwitter" <http://bit.ly/13MmSnc>
       by @Antonio_Langiu
 
         - titolo: ok
@@ -1341,7 +1341,7 @@ In @websocialblog
 
         - tag: ok
 
-    "Un po’ di storia: dai primi social network a twitter"
+    "Un po' di storia: dai primi social network a twitter"
       <http://bit.ly/Yek7uf> by @Stefano_Landi92
 
         - titolo: descrittivo ma ok (quel "un po' di storia" fa la
@@ -1361,7 +1361,7 @@ In @websocialblog
 
         - tag: quasi-ok (ma metti una categoria)
 
-    "L’occhio del web su Boston" <http://bit.ly/130hApe>
+    "L'occhio del web su Boston" <http://bit.ly/130hApe>
       by @Antonio_Langiu
 
         - titolo: non chiarissimo
@@ -1465,7 +1465,7 @@ In @N_G_House
 
         - tag: ok
 
-    "QUANTO È SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
+    "QUANTO E' SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
       by @Ale_Cannone
 
         - titolo: SICURAMENTE E' UN TITOLO IN UPPERCASE
@@ -1501,10 +1501,10 @@ In @N_G_House
 
 In @Digimovement
 
-    "SISTEMA START/STOP, UN MODO ECOCOMPATIBILE DI VIAGGIARE."
+    "Sistema Start/Stop, un modo ecocompatibile di viaggiare."
       <http://bit.ly/ZWaZeh> by Anonymous(@AstoriPietro)
 
-        - titolo: NON IN UPPERCASE, descrittivo
+        - titolo: no punto a fine riga, descrittivo
 
         - immagini: non chiara fonte immagini
 
@@ -1517,10 +1517,10 @@ In @Digimovement
 
         - tag: ok
 
-    "RADIONAVIGAZIONE: L’ORIZZONTE SUI MARI DEL FUTURO."
+    "Radionavigazione: l'orizzonte sui mari del futuro."
       <http://bit.ly/11XKwMu> by @emalabro
 
-        - titolo: UPPERCASE E' BRUTTO
+        - titolo: no punto a fine riga
 
         - immagini: medio (immagino immagine da wikipedia, ma non so)
 
@@ -1532,10 +1532,10 @@ In @Digimovement
 
         - tag: medio (solo categoria)
 
-    "VOLARE SENZA EMISSIONI: UTOPIA O REALTÀ?" <http://bit.ly/11XKB2x>
-      by @robguerr
+    "Volare senza emissioni: utopia o realtà?"
+      <http://bit.ly/11XKB2x> by @robguerr
 
-        - titolo: NO TITOLO IN UPPERCASE, UPPERCASE = GRIDARE
+        - titolo: abbastanza, meglio se non dubitativo
 
         - immagini: fonte non direttamente specificata
 
@@ -1547,11 +1547,10 @@ In @Digimovement
 
         - tag: ok
 
-    "DUE APPLICAZIONI, MIGLIAIA DI VEICOLI." <http://bit.ly/ZVAWwj>
+    "Due applicazioni, migliaia di veicoli." <http://bit.ly/ZVAWwj>
       by @AstoriPietro
 
-        - titolo: non mettere il titolo tutto maiuscolo, non e' molto
-          chiaro cio` di cui vuoi parlare
+        - titolo: non e' molto chiaro cio` di cui vuoi parlare
 
         - immagini: non basta dire "immagine dal sito ufficiale", metti
           anche il link
@@ -1725,7 +1724,7 @@ In @DigitaleInCasa
 
         - tag: ok
 
-    "Il futuro dell’interazione uomo-computer secondo HP e Leap Motion"
+    "Il futuro dell'interazione uomo-computer secondo HP e Leap Motion"
       <http://bit.ly/17xNnPB> by @Gare_1993
 
         - titolo: quasi-ok (bello ma descrittivo)
@@ -1747,7 +1746,7 @@ In @DigitaleInCasa
 
 In evos4rd
 
-    "L’epopea di Android nella scalata dei Mobile OS"
+    "L'epopea di Android nella scalata dei Mobile OS"
        <http://bit.ly/103EOXx> by @Clerish
 
         - titolo:
