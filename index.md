@@ -1027,7 +1027,7 @@ regole che disciplinano il comportamento di un utente di Internet
 - @93Levante: 1982, inventato SMTP
 
 - @RivoluzDigitale: RFC 821 "Simple Mail Transfer Protocol" by Jon Postel
-- http://t.co/DZOF0UWQsb
+http://t.co/DZOF0UWQsb
 
 - @FabioVallone: L'SMTP non ha un controllo centralizzato -&gt; SPAM -&gt;
 ma anche diffusione a macchia d'olio
