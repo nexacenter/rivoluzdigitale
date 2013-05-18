@@ -1,5 +1,7 @@
 . from 2013-04-16 to 2013-05-01
 
+TODO: verificare titoli UPPERCASE
+
 In @Tech_OnTheRoad 
 
     "Un app può salvarti la vita?"
@@ -52,32 +54,46 @@ In @SIAMoMusicPills
     "Gli strumenti Musicali? Non Sempre Si pagano"
       <http://bit.ly/ZUfdmI> by @MorenoLaQuatra
 
-        - titolo:
+        - titolo: perche` "strumenti" e non "Strumenti", inoltre non
+          si capisce bene di cosa parlerai
 
-        - immagini:
+        - immagini: non mettere link alla homepage
 
-        - fonti:
+        - fonti: meglio se le fonti stanno nel testo piuttosto che
+          in fondo (bene citare l'esperienza personale) e quando
+          metti, nel testo, i link ai VST usa <a href e non dei link
+          cosi` tanto lunghi
 
-        - paragrafi:
+        - paragrafi: i paragrafi sono buoni, ma scrivi in un modo un
+          po' difficile da leggere (forse e' un effetto del fatto
+          che ti stai esercitando a scrivere paragrafi corti?).
 
-        - tipo:
+          Perche` "Eccelsa" e non "eccelsa"?
 
-        - tag:
+          "Salmples"
+
+          Ogni tanto (credo) usi "plugin" per "programma"?
+
+          Devi scegliere con piu` accuratezza le parole da usare.
+
+        - tipo: monografia
+
+        - tag: non ne vedo
 
     "How to: Finger Drumming & Controllerism Tutorial"
       <http://bit.ly/Yeu791> by @iacopo_poli
 
-        - titolo:
+        - titolo: abbastanza (ma non e' chiaro se e' un howto o un tutorial)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: no spazio dopo "(" e prima di ")", altrimenti ok
 
-        - tipo:
+        - tipo: tutorial
 
-        - tag:
+        - tag: ok
 
     "Audio in digitale: miglior compromesso tra qualità e portabilità?"
       <http://bit.ly/1304it2> by @Alessio_Chiolo
@@ -97,47 +113,55 @@ In @SIAMoMusicPills
     "Come trovare musica - le migliori risorse online"
       <http://bit.ly/ZmC5s0> by @iacopo_poli
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok, non usare "qui": fa troppo anni '90
 
-        - paragrafi:
+        - paragrafi: abbastanza, ma puoi spezzare ancora di piu`; no spazio
+          dopo "(" e prima di ")".
 
-        - tipo:
+        - tipo: panoramica corredata da esperienza
 
-        - tag:
+        - tag: ok
 
     "BOOM. Evolvo, creo, apprezzo. Vibrazioni in pugno"
       <http://bit.ly/YA8PO8> by @SimoLeonardiRD
 
-        - titolo:
+        - titolo: bello!
 
-        - immagini:
+        - immagini: non usare bit.ly, piuttosto usa <a href
 
-        - fonti:
+        - fonti: quasi-ok ("ecco un estratto..." da cosa?)
 
-        - paragrafi:
+        - paragrafi: troppo lunghi e filo logico un po' difficile da seguire;
+          mi e' piaciuto molto il riferimento ai precedenti e successivi
+          post sul blog, perche` da l'idea che ci sia un progetto dietro il
+          blog
 
-        - tipo:
+        - tipo: riflessione personale (mi e' piaciuto molto il riferimento
+          al satyricon)
 
-        - tag:
+        - tag: ok
 
     "Mac OSX Vs Windows, Quale Migliore Ambiente di Produzione?"
       <http://bit.ly/Z3QyMQ> by @MorenoLaQuatra
 
-        - titolo:
+        - titolo: "not too bad" ma avrei preferito se tu avessi unito il
+          titolo e il sottotitolo
 
-        - immagini:
+        - immagini: non usare bit.ly per fonte, usa <a href
 
-        - fonti:
+        - fonti: mancano link che possano aiutare chi non e' esperto
+          del settore a capire meglio di cosa parli
 
-        - paragrafi:
+        - paragrafi: poco - sono contro a mettere un titoletto ogni
+          2-3 paragrafi, e soprattutto e' scritto male
 
-        - tipo:
+        - tipo: esperienza personale
 
-        - tag:
+        - tag: ok
 
     "Scudo, cooperazione. Proprietà intellettuale? (Prima parte)"
       <http://bit.ly/11Cf1ac> by @SimoLeonardiRD
@@ -203,7 +227,7 @@ In @tech_mondo
 
         - tag: ok
 
-    "Fusione fredda. La più grande “bufala” o già realtà?"
+    "Fusione fredda. La più grand e'bufala' o già realtà?"
       <http://bit.ly/15IU0At> by @PasqualeCafaro1
 
         - titolo: abbastanza (e' meglio avere un titolo con un messaggio
@@ -238,7 +262,7 @@ In @tech_mondo
 
         - tag: ok
 
-    "Grafene – il materiale del futuro"
+    "Grafene - il materiale del futuro"
       <http://bit.ly/15k9gUe> by @OvidiuBirgu
 
         - titolo: descrittivo
@@ -275,21 +299,23 @@ In @RivoluzionArti
     "TIC-TAC-TECnologico"
       <http://bit.ly/18cKGUQ> by @GiuliaPancaro
 
-        - titolo:
+        - titolo: great
 
-        - immagini:
+        - immagini: non mettere google come fonte delle immagini, usa
+          invece il sito dove si trova le immagini
 
-        - fonti:
+        - fonti: abbastanza (ma avresti fatto meglio a linkare all'annuncio
+          di un possibile "iClock" invece di linkare Apple su Wikipedia)
 
-        - paragrafi:
+        - paragrafi: troppo lunghi, articolo poco chiaro
 
-        - tipo:
+        - tipo: panoramica
 
-        - tag:
+        - tag: non vedo tag
 
 In @A_Intelligence_
 
-    "“Dassault nEUROn”, l’aereo europeo completamente autonomo"
+    "'Dassault nEUROn', l'aereo europeo completamente autonomo"
       <http://bit.ly/11MKWoC> by @russomatteo93
 
         - titolo: quasi-ok, non usare "," usa ":"
@@ -320,16 +346,21 @@ In @A_Intelligence_
 
         - tag: no
 
-    "Un aiuto intelligente al lavoro dell’uomo"
+    "Un aiuto intelligente al lavoro dell'uomo"
       <http://bit.ly/ZzNAQs> by @ripa_pepperipa
 
-        - titolo:
+        - titolo: troppo generico
 
-        - immagini:
+        - immagini: non usare bit.ly, usa <a href
 
-        - fonti:
+        - fonti: metti la fonte nel testo, non in fondo, inoltre linkare alla
+          home page di un sito mi sembra troppo generico; qual e' la fonte
+          esatta della citazione di Asimov?
 
-        - paragrafi:
+        - paragrafi: articolo troppo corto per dividerlo in capitoletti, usa,
+          semmai, la tecnica dei mettere in grassetto le prime frasi quando
+          queste sono significative; buona lunghezza dei paragrafi, pero'; la
+          progressione del testo potrebbe essere piu` coerente
 
         - tipo:
 
@@ -338,17 +369,19 @@ In @A_Intelligence_
     "A. I. Intelligenza artificiale"
       <http://bit.ly/XLlqAH> by @paolopopolizio
 
-        - titolo:
+        - titolo: genericissimo
 
-        - immagini:
+        - immagini: non capisco la fonte
 
-        - fonti:
+        - fonti: meglio se metti le fonti inline nel testo, e anche quando
+          citi e' molto meglio se usi le virgolette
 
-        - paragrafi:
+        - paragrafi: abbastanza, ma non andare punto-a-capo nel mezzo
+          di un paragrafo. Punto-a-capo e riga vuota solo a fine paragrafo
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: non ne vedo
 
 In @watchDogSystem
 
@@ -384,51 +417,53 @@ In @watchDogSystem
 
 In @d_transport
 
-    "Dov’è il motore?" <http://bit.ly/ZW1TON> by @MartinoMensio
+    "Dov'è il motore?" <http://bit.ly/ZW1TON> by @MartinoMensio
 
-        - titolo:
+        - titolo: non efficacissimo; pensa invece come sarebbe stato
+          meglio dire "Dov'e` il motore? Nelle ruote"
 
-        - immagini:
+        - immagini: usa <a href
 
-        - fonti:
+        - fonti: usa <a href
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
-    "Cylinder on demand: quando ridurre i consumi diventa un’imperativo"
+    "Cylinder on demand: quando ridurre i consumi diventa un'imperativo"
       <http://bit.ly/Zb7XDd> by @stufi93
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: qual e' la fonte?
 
-        - fonti:
+        - fonti: non chiarissime
 
-        - paragrafi:
+        - paragrafi: wall of text
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
-    "“Troppo potere agli ingegneri!”" <http://bit.ly/172DY2i>
+    "'Troppo potere agli ingegneri!'" <http://bit.ly/172DY2i>
       by @stufi93
 
-        - titolo:
+        - titolo: non chiarissimo, fosse stato "Valentino Rossi: Troppo
+          potere [...]" gia` sarebbe andato molto meglio
 
-        - immagini:
+        - immagini: manca fonte immagine
 
-        - fonti:
+        - fonti: no fonti (why?)
 
-        - paragrafi:
+        - paragrafi: troppo lunghi
 
-        - tipo:
+        - tipo: riflessione
 
-        - tag:
+        - tag: ok (domanda: perche` tagghi il tuo nome?)
 
-    "AIUTOOO… ma chi guida la metro?!" <http://bit.ly/11VEahJ>
+    "AIUTOOO... ma chi guida la metro?!" <http://bit.ly/11VEahJ>
       by @a_loffreda
 
         - titolo: non mi convince
@@ -463,34 +498,40 @@ In @rd_informazione
     "Punto di vista di una ultraottantenne riguardo alla Rivoluzione digitale"
       <http://bit.ly/18psrca> by @SabryKarate
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: non linkare la homepage, ma la pagina da cui hai
+          preso l'immagine
 
-        - fonti:
+        - fonti: due commenti (i) non e' chiarissimo chi sia questa signora (se
+          vuoi che rimanga anonima devi comunque dare qualche dettaglio) e (ii)
+          immagino tu abbia editato il testo (ha detto veramente `hacker'?!)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: intervista scritta
 
-        - tag:
+        - tag: ok
 
 In @Gioco_Azzardato
 
-    "L’evoluzione della “schedina” online: il betting-exchange"
+    "L'evoluzione della 'schedina' online: il betting-exchange"
       <http://bit.ly/YQqiBT> by @MaurizioVerra
 
-        - titolo:
+        - titolo: descrittivo
 
-        - immagini:
+        - immagini: quasi-ok (meglio un link cliccabile che un link
+          inserito nell'immagine)
 
-        - fonti:
+        - fonti: non usare bit.ly per le fonti, usa <a href
 
-        - paragrafi:
+        - paragrafi: inserisci riga vuota prima e dopo di ciascun elemento
+          dell'elenco numerato e/o "puntato" (scusa il gioco di parole);
+          non hai curato molto il testo (punteggiatura etc)
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "IL GIOCO VALE LA CANDELA?" <http://bit.ly/14ZBCne>
       by @LolloCler
@@ -520,35 +561,40 @@ In @Cine_Revolution
     "Addio pellicola! Benvenuto digitale!" <http://bit.ly/17xhjth>
       by @sakiu92
 
-        - titolo:
+        - titolo: abbastanza (non si capisce che parli del contesto
+          del cinema se non pensando al tuo blog)
 
-        - immagini:
+        - immagini: fonte non chiara
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (ricorda di non andare punto-a-capo dentro
+          il paragrafo), e non hai scritto in modo chiarissimo
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: non ne vedo
 
 In @PhotoRevo
 
-    "Un po’ di storia" <http://bit.ly/ZzP7pE> by @MarcoViccica
+    "Un po' di storia" <http://bit.ly/ZzP7pE> by @MarcoViccica
 
-        - titolo:
+        - titolo: troppo generico
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: se possibile, metti comunque un link al libro (che ne
+          so, su Amazon)
 
-        - paragrafi:
+        - paragrafi: un po' lunghi all'inizio (meglio verso la fine),
+          preferisci la forma attiva al passivo, mancano alcuni connettivi
+          (tipo, alcuni "che")
 
-        - tipo:
+        - tipo: prospettiva storica
 
-        - tag:
+        - tag: ok
 
-    "Evoluzione della fotografia: dall’iniziale realtà all’inganno odierno"
+    "Evoluzione della fotografia: dall'iniziale realtà al'inganno odierno"
       <http://bit.ly/10suqr3> by @AndreaCugusi
 
         - titolo: so and so
@@ -619,17 +665,18 @@ In vitanelvirtuale
     "Avatar: nostra espressione o facciata fittizia?"
       <http://bit.ly/18pzhhP> by @Baraleluca93
 
-        - titolo:
+        - titolo: descrittivo-dubitativo
 
-        - immagini:
+        - immagini: linka la pagina da cui hai preso l'immagine
 
-        - fonti:
+        - fonti: quasi-ok (bene il link online, ma potevi linkare
+          di piu`, ad esempio alla storia di eva byte)
 
-        - paragrafi:
+        - paragrafi: ancora troppo lunghi
 
-        - tipo:
+        - tipo: riflessione
 
-        - tag:
+        - tag: ok
 
 In musicdigitalbeat
 
@@ -682,20 +729,24 @@ In @webcracity
 
         - tag: no
 
-    "Il mondo è bello perchè vario, anche online. E di certo non sonocw
+    "Il mondo è bello perchè vario, anche online. E di certo non so
      tutti troll" <http://bit.ly/18cOvJH> by @conwused
 
-        - titolo:
+        - titolo: quasi-ok (creativo, ma troppo lungo)
 
-        - immagini:
+        - immagini: mancafonte
 
-        - fonti:
+        - fonti: discreto ("secondo wikipedia" avrebbe dovuto linkare, appunto,
+          all'articolo di Wikipedia dove viene detto che "liberta` e demo-
+          crazia non sono imprescindibili", idem quando citi De Martin devi
+          dire dove ha detto quello che tu dici che ha detto)
 
-        - paragrafi:
+        - paragrafi: abbastanza (ma dovevi spezzare, per esempio, quando
+          introduci Liquid Feedback)
 
-        - tipo:
+        - tipo: riflessione
 
-        - tag:
+        - tag: notag
 
 In inksbytes
 
@@ -716,35 +767,35 @@ In inksbytes
 
 In @socialneid
 
-    "Con Pinterest è l’era del social shopping" <http://bit.ly/ZW4atp>
+    "Con Pinterest è '�era del social shopping" <http://bit.ly/ZW4atp>
       by @GiuseppeCanto
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: a parte un paio di paragrafi troppo lunghi, ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
-    "Vlog Sordi: quando il web diventa “social”" <http://bit.ly/ZW4iJt>
+    "Vlog Sordi: quando il web diventa 'social'" <http://bit.ly/ZW4iJt>
       by @cri_traman
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ancora troppo corposi
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "Il blog: una navicella che torna indietro dallo spazio"
       <http://bit.ly/14Vh27g> by @GiuseppeCanto
@@ -781,17 +832,22 @@ In @theXenGine
     "LucasArts: fine di un colosso galattico" <http://bit.ly/ZzQFQp>
       by @MatteoMonta93
 
-        - titolo:
+        - titolo: Lucas ... Galattico ... ok
 
-        - immagini:
+        - immagini: meglio inline che in fondo, metti un margine tra il
+          lato dell'immagine e il testo
 
-        - fonti:
+        - fonti: meglio inline che in fondo
 
-        - paragrafi:
+        - paragrafi: non mi piace molto il testo con tutti quei
+          separatori orizzontali, why?
 
-        - tipo:
+          i primi 3/4 dell'articolo sono scritti bene, mi piacciono molto
+          meno gli ultimi 2 paragrafi (dove c'e` anche un typo)
 
-        - tag:
+        - tipo: segnalazione piu` panoramica storica
+
+        - tag: ok
 
     "Il computer quantistico: un futuro per il video ludico?"
       <http://bit.ly/130ceKG> by @Skiepp
@@ -813,7 +869,7 @@ In @theXenGine
 
 In scattoaldigitale
 
-    "Uno sguardo al passato: come l’800 ha rivoluzionato l’industria
+    "Uno sguardo al passato: come l'800 ha rivoluzionato l'industria
      fotografica" <http://bit.ly/15ZPcXw> by @giuli93
 
         - titolo: abbastanza bene ("istantanee dal passato: come l'800
@@ -846,66 +902,75 @@ In scattoaldigitale
 
 In gruppodalm
 
-    "Learn to learn – Imparare ad imparare" <http://bit.ly/YeenAG>
+    "Learn to learn - Imparare ad imparare" <http://bit.ly/YeenAG>
       by @ndreaLF
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (non guastava un link diretto al progetto del MIT)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (un paio di frasi troppo lunghe)
 
-        - tipo:
+        - tipo: approfondimento (spiego: non e' una monografia perche`
+          tocca due temi)
 
-        - tag:
+        - tag: ok
 
     "Un nuovo Falco nei cieli" <http://bit.ly/17MtN0h> by @Da93Mo
 
-        - titolo:
+        - titolo: non chiarissimo
 
-        - immagini:
+        - immagini: quasi-ok (usa <a href)
 
-        - fonti:
+        - fonti: meglio nel corpo del testo con <a href che in fondo
+          come invece hai fatto tu
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "Romeo&Giulietta, Shakespeare? NO, ROBOT!" <http://bit.ly/ZW5jRH>
       by @lucaSerra4
 
-        - titolo:
+        - titolo: quasi-ok (non e' efficacissimo perche` contiene due
+          virgole, un "?" e un "!": troppe pause)
 
-        - immagini:
+        - immagini: usa <a href per i link alle immagini
 
-        - fonti:
+        - fonti: non ne vedo
 
-        - paragrafi:
+        - paragrafi: lunghi (inizio e fine scritti molto bene e scorrevoli)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
 In guidadigitale
 
-    "“Sword Art Online”, il videogioco nel 2022!?"
+    "'Sword Art Online', il videogioco nel 2022!?"
       <http://bit.ly/ZmLH5W> by @Di_Placido_Mat
 
-        - titolo:
+        - titolo: abbastanza (non mi convince molto lo stupore), e, dopo aver
+          letto il post, mi sembra che il titolo non sia molto centrato
 
-        - immagini:
+        - immagini: abbastanza (usare un tagged di tumblr non va bene perche`
+          verranno taggate cose nuove e quindi, andando dopo un po' di tempo su
+          quella pagina, non troverai piu` l'immagine originale)
 
-        - fonti:
+        - fonti: quasi-ok (non chiarissima fonte della citazione finale)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (puoi spezzare ancora, bene l'uso della prima
+          frase in grassetto con funzione simile al titolo, ma considera che
+          non e' obbligatorio che la metti in tutti i paragrafi), articolo
+          comunque molto bello.
 
-        - tipo:
+        - tipo: approfondimento
 
-        - tag:
+        - tag: ok
 
     "DmC, Tomb Raider e la discriminazione dei reboot"
       <http://bit.ly/16oaJsG> by @Fed_Delo
@@ -929,49 +994,53 @@ In guidadigitale
     "Recensione (entusiasta) di Bioshock Infinite"
       <http://bit.ly/18cQzRO> by @ste_litto
 
-        - titolo:
+        - titolo: great
 
-        - immagini:
+        - immagini: le immagini sono tuoi screenshot?
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: bravissimo per come lo hai scritto, ma non mi tornano
+          molto le frasi in grassetto che usi per spezzarlo (sono titoli
+          di sottoparagrafi?)
 
-        - tipo:
+        - tipo: recensione
 
-        - tag:
+        - tag: ok
 
 In libertaneldigitale
 
     "CISPA was back. CISPA is gone. Again."
       <http://bit.ly/ZVrmcN> by @SimonBonvicini
 
-        - titolo:
+        - titolo: ottimo
 
-        - immagini:
+        - immagini: usa <a href per le fonti
 
-        - fonti:
+        - fonti: meglio nel testo che in fondo
 
-        - paragrafi:
+        - paragrafi: quasi-ok (nota: l'articolo e' abbastanza lungo da
+          giustificare la separazione in due sezioni), paragrafi un
+          po' lunghi
 
-        - tipo:
+        - tipo: +++ BREAKING +++
 
-        - tag:
+        - tag: ok
 
-    "Internet: l’arma di diffusione del Movimento 5 Stelle"
+    "Internet: l'arma di diffusione del Movimento 5 Stelle"
       <http://bit.ly/ZTqyzv> by @ManuelGuarino93
 
-        - titolo:
+        - titolo: non mi torna molto "arma", altrimenti ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: meglio inline che in fondo
 
-        - paragrafi:
+        - paragrafi: troppo ciccioni
 
-        - tipo:
+        - tipo: riflessione documentata
 
-        - tag:
+        - tag: ok
 
     "Il Web è accessibile a tutti: e in Italia?"
       <http://bit.ly/14wGcJL> by @vitalethomas
@@ -996,22 +1065,26 @@ In libertaneldigitale
         - tag: ok
 
     "Anonymous: paladini della giustizia o cybercriminali?
-     No, “Hacktivisti”!" <http://bit.ly/ZmMxQr>
+     No, 'Hacktivisti' <http://bit.ly/ZmMxQr>
      by @PieMarzio
 
-        - titolo:
+        - titolo: non mi convince a pieno, quasi-ok
 
-        - immagini:
+        - immagini: la fonte non punta al post o pagina che contiene
+          l'immagine originale ma a un sito che offre di scaricare immagini
 
-        - fonti:
+        - fonti: meglio averle nel testo che in fondo, inoltre non mi puoi
+          mettere come fonte "wikipedia in generale"
 
-        - paragrafi:
+        - paragrafi: un po' lunghi, ma l'attacco (primo paragrafo) mi piace
+          moltissimo
 
-        - tipo:
+        - tipo: monografia (potevi essere piu` critico e appronfondire molto
+          di piu`, cosi` hai grattato solo la superficie)
 
-        - tag:
+        - tag: ok
 
-    "L’influenza dei social network sulla Primavera Araba"
+    "L'influenza dei social network sulla Primavera Araba"
      <http://bit.ly/159I9Mn> by @SimonBonvicini
 
         - titolo: descrittivo
@@ -1050,17 +1123,17 @@ In @BlogTDW
     "MMS: UNA STORIA TRISTE" <http://bit.ly/17xJlGN>
       by @omerovitali
 
-        - titolo:
+        - titolo: quasi-ok (NO TITOLO TUTTO MAIUSCOLO)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: poche fonti
 
-        - paragrafi:
+        - paragrafi: un po' troppo lunghi, potevi spezzare di piu`
 
-        - tipo:
+        - tipo: panoramica storica
 
-        - tag:
+        - tag: ok
 
     "ARYBURTON NEL PAESE DELLE MERAVIGLIE" <http://bit.ly/10sBkfU>
       by @DavidePalermo2
@@ -1077,55 +1150,66 @@ In @BlogTDW
 
         - tag: ok
 
-    "CHIUNQUE PUÒ FOTOGRAFARE IN 3D" <http://bit.ly/177Rr94>
+    "CHIUNQUE PUO' FOTOGRAFARE IN 3D" <http://bit.ly/177Rr94>
       by @omerovitali
 
-        - titolo:
+        - titolo: quasi-ok (il titolo non rispecchia esattamente l'articolo,
+          che e' piu` un tutorial su come scattare foto 3D)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (devi fare capire fin da subito che e' una cosa che
+          tu sai fare, tipo "Oggi vi spiego come scattare foto in 3D", e cmq
+          devi anche un po' contestualizzare quello che stai dicendo, ad esempio
+          citando wikipedia)
 
-        - paragrafi:
+        - paragrafi: lascia riga vuota dopo ogni elemento della lista e non
+          andare punto-a-capo dentro un paragrafo
 
-        - tipo:
+        - tipo: tutorial
 
-        - tag:
+        - tag: ok
 
-    "L’ evoluzione della musica con l’ avvento del digitale"
+    "L'evoluzione della musica con l'avvento del digitale"
       <http://bit.ly/16ofbI0> by @FZinnari
 
-        - titolo:
+        - titolo: troppo generico
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: abbastanza (mettile inline), e poi, linka anche i
+          concetti piu` importanti
 
-        - paragrafi:
+        - paragrafi: abbastanza (no punto a capo dentro il paragrafo)
 
-        - tipo:
+        - tipo: prospettiva storica
 
-        - tag:
+        - tag: ok
 
     "SPAZIO La Stampa - AN UNEXPECTED JOURNEY"
       <http://bit.ly/16pSXW2> by @DavidePalermo2
 
-        - titolo:
+        - titolo: NO UPPERCASE
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (manca, ad esempio, la fonte della citazione
+          di calabresi)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (apprezzo molto i paragrafi corti e ben
+          digeribili, ma ogni tanto sei stato troppo sintetico, come quando
+          descrivi le due "sezioni" che ti sono piaciute di piu`: avresti
+          dovuto dire "La sezione 'si va in stampa' ", per esempio, per
+          non lasciare implicito che quello e' il nome di una sezione)
 
-        - tipo:
+        - tipo: reportage
 
-        - tag:
+        - tag: ok
 
 In @SpecialEff_Team
 
-    "Dagli anni 10 con Norman Down e il suo “glass shot”, ai giorni
-     nostri e al “matte painting”!" <http://bit.ly/103aWte>
+    "Dagli anni 10 con Norman Down e il suo 'glass shot', ai giorni
+     nostri e al 'matte painting'!" <http://bit.ly/103aWte>
      by @LorenzoTatti1
 
         - titolo:
@@ -1140,39 +1224,43 @@ In @SpecialEff_Team
 
         - tag:
 
-    "Georges Méliès: L’illusionismo approda al cinema"
-     <http://bit.ly/ZW7MeO>
+    "Georges Melies: L'illusionismo approda al cinema"
+     <http://bit.ly/ZW7MeO> by @alberto13_tito
 
-        - titolo:
+        - titolo: non mi convince tantissimo l'immagine dell'illusionismo
+          che approda
 
-        - immagini:
+        - immagini: non capisco bene
 
-        - fonti:
+        - fonti: non usare bit.ly (bene il "mymovies lo ricorda cosi")
 
-        - paragrafi:
+        - paragrafi: un po' lunghi e i link bit.ly nel mezzo rendono
+          confuso il filo del discorso
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: no
 
 In @arduinoallinclu
 
-    "L’intervista a Diego Zeppegno: Arduino al FabLab di Torino."
+    "L'intervista a Diego Zeppegno: Arduino al FabLab di Torino."
      <http://bit.ly/18pGzCd> by @SoFranchy
 
-        - titolo:
+        - titolo: abbastanza (descrittivo, forse potevi scrivere qualcosa
+          tipo: "Intervista: Diego Zeppegno, l'elettricista 2.0 del
+          FabLab di Torino")
 
-        - immagini:
+        - immagini: ok (e bravo!)
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (sono ancora un po' lunghi)
 
-        - tipo:
+        - tipo: intervista
 
-        - tag:
+        - tag: ok
 
-    "OpenDomotica: con Arduino l’intera casa a portata di dito"
+    "OpenDomotica: con Arduino l'intera casa a portata di dito"
      <http://bit.ly/11qy3Pi> by @SoFranchy
 
         - titolo: ok
@@ -1192,17 +1280,17 @@ In @websocialblog
     "La tv-generation a confronto col web" <http://bit.ly/16oj9jT>
       by @sociocala
 
-        - titolo:
+        - titolo: descrittivo ma comunque abbastanza efficace
 
-        - immagini:
+        - immagini: no (why?)
 
-        - fonti:
+        - fonti: no (why?)
 
-        - paragrafi:
+        - paragrafi: un po' lunghi
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: ok
 
     "Campagna elettorale virtuale made in Usa"
       <http://bit.ly/11VMRZv> by @aimomattia
@@ -1237,7 +1325,7 @@ In @websocialblog
 
         - tag: ok
 
-    "Se l’italia va a rotoli #ècolpaditwitter" <http://bit.ly/13MmSnc>
+    "Se l'italia va a rotoli #ècolpaditwitter" <http://bit.ly/13MmSnc>
       by @Antonio_Langiu
 
         - titolo: ok
@@ -1253,22 +1341,27 @@ In @websocialblog
 
         - tag: ok
 
-    "Un po’ di storia: dai primi social network a twitter"
+    "Un po' di storia: dai primi social network a twitter"
       <http://bit.ly/Yek7uf> by @Stefano_Landi92
 
-        - titolo:
+        - titolo: descrittivo ma ok (quel "un po' di storia" fa la
+          differenza)
 
-        - immagini:
+        - immagini: quasi-ok (non e' chiarissimo che il link ninjamarketing
+          e' in realta` la fonte dell'immagine, perche' hai messo l'immagine
+          con i loghi di tutti i social network in un posto un po' strano,
+          i.e., a fianco ai link finali)
 
-        - fonti:
+        - fonti: meglio avere le fonti inline
 
-        - paragrafi:
+        - paragrafi: quasi-ok (bene la lunghezza dei paragrafi ma lettura
+          un po' difficoltosa e qualche typo, e.g., "socialcon")
 
-        - tipo:
+        - tipo: breve panoramica
 
-        - tag:
+        - tag: quasi-ok (ma metti una categoria)
 
-    "L’occhio del web su Boston" <http://bit.ly/130hApe>
+    "L'occhio del web su Boston" <http://bit.ly/130hApe>
       by @Antonio_Langiu
 
         - titolo: non chiarissimo
@@ -1289,17 +1382,19 @@ In rd-ipod33giri
     "La musica a spasso col tempo" <http://bit.ly/17xLkuE>
       by @GabrieleVicecon
 
-        - titolo:
+        - titolo: ok (mi piace perche' e' un gioco di parole)
 
-        - immagini:
+        - immagini: usa <a href per le fonti delle immagini
 
-        - fonti:
+        - fonti: annega le fonti nel testo usando <a href, invece di
+          metterle in fondo
 
-        - paragrafi:
+        - paragrafi: davvero troppo lunghi (by the way, MP3 e WAV non sono
+          generi musicali) e poco curato (punteggiatura)
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: non vedo tag
 
     "Nostalgia portami via!" <http://bit.ly/15ZXdM9>
       by @fabioricca93
@@ -1356,22 +1451,24 @@ In @N_G_House
     "Una casa più sicura che mai" <http://bit.ly/ZTFgaL>
       by @EmaParrinello
 
-        - titolo:
+        - titolo: descrittivo, mentre il sottotitolo e' buono - forse
+          potevi combinarli in qualche modo
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok ("In <a href=''>domotica web</a>" => "Sul sito
+          <a href=''>domotica web</a>", cosi` si capisce meglio)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
-    "QUANTO È SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
+    "QUANTO E' SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
       by @Ale_Cannone
 
-        - titolo: SICURAMENTE E' UN TITOLO IN GRASSETTO
+        - titolo: SICURAMENTE E' UN TITOLO IN UPPERCASE
 
         - immagini: medio (il link corto a youtube e' ugly, fai, invece,
           l'embedding del video)
@@ -1404,25 +1501,26 @@ In @N_G_House
 
 In @Digimovement
 
-    "SISTEMA START/STOP, UN MODO ECOCOMPATIBILE DI VIAGGIARE."
+    "Sistema Start/Stop, un modo ecocompatibile di viaggiare."
       <http://bit.ly/ZWaZeh> by Anonymous(@AstoriPietro)
 
-        - titolo:
+        - titolo: no punto a fine riga, descrittivo
 
-        - immagini:
+        - immagini: non chiara fonte immagini
 
-        - fonti:
+        - fonti: cita per esteso un link a wikipedia, non si capisce bene
+          se e' una citazione letterale (nel qual caso, usa le virgolette)
 
-        - paragrafi:
+        - paragrafi: un po' lunghi
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
-    "RADIONAVIGAZIONE: L’ORIZZONTE SUI MARI DEL FUTURO."
+    "Radionavigazione: l'orizzonte sui mari del futuro."
       <http://bit.ly/11XKwMu> by @emalabro
 
-        - titolo: UPPERCASE E' BRUTTO
+        - titolo: no punto a fine riga
 
         - immagini: medio (immagino immagine da wikipedia, ma non so)
 
@@ -1434,10 +1532,10 @@ In @Digimovement
 
         - tag: medio (solo categoria)
 
-    "VOLARE SENZA EMISSIONI: UTOPIA O REALTÀ?" <http://bit.ly/11XKB2x>
-      by @robguerr
+    "Volare senza emissioni: utopia o realtà?"
+      <http://bit.ly/11XKB2x> by @robguerr
 
-        - titolo: NO TITOLO IN UPPERCASE, UPPERCASE = GRIDARE
+        - titolo: abbastanza, meglio se non dubitativo
 
         - immagini: fonte non direttamente specificata
 
@@ -1449,37 +1547,46 @@ In @Digimovement
 
         - tag: ok
 
-    "DUE APPLICAZIONI, MIGLIAIA DI VEICOLI." <http://bit.ly/ZVAWwj>
+    "Due applicazioni, migliaia di veicoli." <http://bit.ly/ZVAWwj>
       by @AstoriPietro
 
-        - titolo:
+        - titolo: non e' molto chiaro cio` di cui vuoi parlare
 
-        - immagini:
+        - immagini: non basta dire "immagine dal sito ufficiale", metti
+          anche il link
 
-        - fonti:
+        - fonti: invece di mettere tra parentesi i link, usa <a href
 
-        - paragrafi:
+        - paragrafi: quasi-ok (dovevi creare un nuovo paragrafo quando
+          sei passato a paralre di WEBFLEET mobile)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
 In @Guida_SO
 
     "SECURE BOOT, MINACCIA PER LINUX ??" <http://bit.ly/17z6b0V>
       by @BoggioMattia
 
-        - titolo:
+        - titolo: NON USARE TUTTO MAIUSCOLO, non mettere spazio prima di ?
+          e poi ricordati di usare sempre un singolo ? o !
 
-        - immagini:
+        - immagini: usa <a href
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: hai riletto l'articolo? Hai scritto "bott" invece
+          di "boot" nella prima riga!
 
-        - tipo:
+          I paragrafi in se' non vanno male, ma il testo e' un po'
+          contorto e non si capisce molto bene.
 
-        - tag:
+          Sintesi: poco curato
+
+        - tipo: segnalazione
+
+        - tag: ok
 
     "Linux spread" <http://bit.ly/161SLMQ> by Anonymous
 
@@ -1497,20 +1604,27 @@ In @Guida_SO
 
 In gamechoc
 
-    "Recensione: Assassin’s Creed" <http://bit.ly/ZtqXx2>
+    "Recensione: Assassin's Creed" <http://bit.ly/ZtqXx2>
        by @CataDavide
 
-        - titolo:
+        - titolo: un po' troppo descrittivo
 
-        - immagini:
+        - immagini: non chiara fonte
 
-        - fonti:
+        - fonti: non molte
 
-        - paragrafi:
+        - paragrafi: troppo lunghi (bene la prima frase in grassetto ma
+          considera che puoi anche avere paragrafi senza la frase in
+          grassetto), bravo per aver scritto il testo dal tuo punto di
+          vista, spiegando perche` ti piace, etc.
 
-        - tipo:
+              Dubbio: I Borgia erano a Firenze?
 
-        - tag:
+              "Il fratello del presidente Repubblicano" ?
+
+        - tipo: recensione
+
+        - tag: ok
 
     "Rome 2, ritornano le legioni!" <http://bit.ly/13svT4I>
        by @DavideMercu
@@ -1547,47 +1661,52 @@ In @DigitaleInCasa
     "Il Darwinismo del cavo" <http://bit.ly/18cVH8K>
        by @PeppeGiacalone
 
-        - titolo:
+        - titolo: molto creativo e quasi-ok (non chiarissimo)
 
-        - immagini:
+        - immagini: ok (e bravo perche` mi ricordo che ti sei posto
+          il problema del copyright dell'immagine assemblata)
 
-        - fonti:
+        - fonti: potevi inserire piu` fonti
 
-        - paragrafi:
+        - paragrafi: abbastanza (i paragrafi vanno bene, ma il testo
+          e' poco scorrevole)
 
-        - tipo:
+        - tipo: panoramica
 
-        - tag:
+        - tag: ok
 
     "Toollio: il nuovo robot multifunzione per la cucina"
        <http://bit.ly/18cVMJo> by @Thimjok
 
-        - titolo:
+        - titolo: yeah!
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: abbastanza (avrei espanso molto di piu` il fatto che
+          e' un robot: descrivi le funzionalita` ma, visto anche il tema
+          del corso, avrei detto qualcosa in piu` su come funziona)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: abbastanza, ma avrei taggato anche il nome del
+          prodotto e del produttore, no?
 
     "Acquisti geek per la casa (e non solo)" <http://bit.ly/ZmT8tZ>
        by @Gare_1993
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (qualche link in piu` non guastava: TARDIS?)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: breve intro
 
-        - tag:
+        - tag: ok
 
     "I nuovi monitor BenQ RL2455HM e XL2720T in Italia"
       <http://bit.ly/14VC2uS> by @Gare_1993
@@ -1605,24 +1724,29 @@ In @DigitaleInCasa
 
         - tag: ok
 
-    "Il futuro dell’interazione uomo-computer secondo HP e Leap Motion"
+    "Il futuro dell'interazione uomo-computer secondo HP e Leap Motion"
       <http://bit.ly/17xNnPB> by @Gare_1993
 
-        - titolo:
+        - titolo: quasi-ok (bello ma descrittivo)
 
-        - immagini:
+        - immagini: spiegami "immagine non protetta..." [postare lo screenshot
+          di un film e' eccezione consentita dal copyright]
 
-        - fonti:
+        - fonti: quasi-ok (quando dici "sorgono spontanei molti dubbi" mi
+          viene difficile pensare che tu non possa citare appunto alcuni di
+          quelli che hanno dubbi)
 
-        - paragrafi:
+        - paragrafi: quasi-ok (la parentesi su PKD e' troppo lunga); by the
+          way "A voi il giudizio!" e' ridondante: stai postando su un blog
+          e' chiaro che chi ti legge giudichera`)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: ok
 
 In evos4rd
 
-    "L’epopea di Android nella scalata dei Mobile OS"
+    "L'epopea di Android nella scalata dei Mobile OS"
        <http://bit.ly/103EOXx> by @Clerish
 
         - titolo:
@@ -1640,17 +1764,17 @@ In evos4rd
     "Il sistema autocosciente" <http://bit.ly/17xNASK>
        by @BelgaFedeliA
 
-        - titolo:
+        - titolo: non si capisce bene
 
-        - immagini:
+        - immagini: usa <a href
 
-        - fonti:
+        - fonti: poche
 
-        - paragrafi:
+        - paragrafi: i paragrafi sono corti ma il testo non e' chiaro
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: ok
 
 In @WorldWidePh
 
@@ -1684,20 +1808,20 @@ In @WorldWidePh
 
         - tag: no
 
-    "Dall’App Store alla Hall of Fame: la favola di Angry Birds"
+    "Dall'App Store alla Hall of Fame: la favola di Angry Birds"
       <http://bit.ly/ZiVBZN> by @stefano_bitto
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: un po' lunghi
 
-        - tipo:
+        - tipo: storia di qualcosa
 
-        - tag:
+        - tag: no
 
     "Il caso Myspace: successo e declino del primo grande social network"
       <http://bit.ly/128aYBm> by @SimoneBleynat
@@ -1748,6 +1872,9 @@ In @virality
     "Ingegneria di un video virale" <http://bit.ly/ZmV4mo>
        by @LucaLiuzzi
 
+        /* Lo considero un (apprezzato) post per riempire il blog di
+           contenuti, e non un post testuale da leggere, OK? */
+
         - titolo:
 
         - immagini:
@@ -1763,17 +1890,19 @@ In @virality
     "Perchè i video diventano virali?" <http://bit.ly/17xOr5X>
        by @LucaLiuzzi
 
-        - titolo:
+        - titolo: abbastanza, ma descrittivo
 
-        - immagini:
+        - immagini: ok (video)
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (metti spazio dopo il punto)
 
-        - tipo:
+        - tipo: estremamente breve segnalazione (avrei preferito di gran
+          lunga se tu avessi fatto anche un breve riassunto di quello che
+          si dice nel video)
 
-        - tag:
+        - tag: no
 
 In the-easy-life
 
@@ -1825,17 +1954,17 @@ In the-easy-life
     "Con EyeOS un sistema operativo che vive sul browser"
        <http://bit.ly/ZWestn> by @Rexsimo893
 
-        - titolo:
+        - titolo: quasi-ok (perche` "con"?)
 
-        - immagini:
+        - immagini: yeah
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (alcune frasi un po' lunghe)
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
 In @RealtAumentat
 
@@ -1858,32 +1987,40 @@ In @RealtAumentat
     "Ingress: la nuova frontiera del gioco?" <http://bit.ly/18cXRVT>
       by @frafrn
 
-        - titolo:
+        - titolo: abbastanza (perche` la nuova frontiera? dal titolo non
+          si capisce - comunque sconsiglio i titoli dubitativi)
 
-        - immagini:
+        - immagini: non benissimo - per la prima immagine, potevi mettere
+          direttamente il link a Wikipedia, senza passare per la redirezione
+          di google - per la seconda immagine, visto che hai linkato la
+          homepage e non l'articolo che la includeva, e' difficile risalire
+          davvero alla fonte
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: quasi-ok (alcuni paragrafi ancora un po' troppo lunghi
+          e un typo, ma lo hai scritto in modo coinvolgente, bravo!)
 
-        - tipo:
+        - tipo: review
 
-        - tag:
+        - tag: abbastanza (due tag sono pochini)
 
     "Sperimentazioni in campo militare (e non solo)"
       <http://bit.ly/17xPcvH> by @MarcoFestugato
 
-        - titolo:
+        - titolo: abbastanza (ma il titolo e' incompleto a meno che uno
+          faccia mente locale su qual e' il tema del blog)
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: usi bene la tecnica di embed delle fonti nel testo, ma mi
+          manca la fonte principale della notizia
 
-        - paragrafi:
+        - paragrafi: quasi-ok (paragrafi piu` corti, please)
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: non ne vedo
 
     "Google Glass: le caratteristiche tecniche del futuro"
       <http://bit.ly/10VFSDb> by Anonymous
@@ -1909,7 +2046,7 @@ In @RealtAumentat
 
         - immagini: non usare link shortener per immagini
 
-        - fonti: non chiarissimo
+        - fonti: ok
 
         - paragrafi: ok
 
