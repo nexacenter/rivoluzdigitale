@@ -691,6 +691,410 @@ pagata ma limitata (iniziato in Germania alla fine dell'Ottocento)
 - @SabryKarate: Per lungo tempo gli scienziati stanno nella "torre
 d'avorio", compiono ricerche ma non diffondono i risultati. @MCPievatolo
 
+## 2013-05-08
+
+### @bassosimone
+
+- @DavidePalermo2: @bassosimone scrive alla lavagna:
+http://t.co/kBOdqCRlRa WiP correzione Blog, Info Varie e FAQ
+
+- @SabryKarate: Per consultare l'indice delle lezioni, basato sul live
+tweeting: https://t.co/Y6zlbb3JxH
+
+- @DavidePalermo2: Mailing list serve anche a partecipare (senza obbligo),
+non solo a scrivere!
+
+- @Ale_Cannone: mailing list: non solo segnalare articoli interessanti
+ma anche partecipare alle discussioni
+
+- @ripa_pepperipa: titoli creativi. Il titolo del post non deve essere
+banalmente una descrizione!
+
+- @SabryKarate: Il titolo del post non deve essere "psichedelico" nè
+eccessivamente descrittivo.
+
+- @Ale_Cannone: nei titoli dei post è importante sia
+la creatività che la chiarezza
+
+### @demartin
+
+#### Info per lezione presso FabLab
+
+- @DavidePalermo2: Correggere i post dopo la correzione di
+@bassosimone? perchè no! (ma sempre senza obbligo)
+
+- @DavidePalermo2: Lezione di Venerdì 10/05 ore 16-19 presso FabLab
+Torino - http://t.co/Ahr1QXlh8Y - Toolbox con @VonGomben
+
+- @SabryKarate: Lezione di venerdì 10 maggio: presso FabLab / Toolbox
+ore 16 - 19
+
+- @EmaParrinello: prossima lezione venerdì 10/05 ore 16-19 presso
+Fablab/Toolbox
+
+- @pdor93_milano: Lezione di venerdí al FabLab. Cercare indirizzo sul
+sito del FabLab di Torino
+
+- @ripa_pepperipa: Venerdì 10/05 ore 16-19 lezione presso FabLab/Toolbox
+in Via Egeo, 16
+
+- @FeFallace: Venerdi 10/05/13 lezione di al @Fablabtorino (4-7 pm)
+
+- @LorenzoCutelle: Ecco dove si trova il FabLab: http://t.co/endUm8B78E
+http://t.co/ZMjq8vxDEg
+
+- @DavidePalermo2: Toolboxoffice http://t.co/qlo4BzsBNr
+
+- @ripa_pepperipa: La lezione al FabLab sarà inserita nel programma
+d'esame!
+
+- @DavidePalermo2: Lezione al FabLab potrebbe essere verificata in
+sede d'esame!
+
+#### Architettura di Internet
+
+- @DavidePalermo2: Rete best effort (qualità di servizio): wiki info
+http://t.co/pWoQlHu8aX
+
+- @stufi93: L'operazione di instradamento (roting) è quando un nodo
+manda il pacchetto di dati al nodo successivo
+
+- @LucaLiuzzi: Ricap.: i nodi e il routing.la strada dei
+dati.
+
+- @bassosimone: routing: ogni nodo ha solo informazioni locali sui nodi
+a lui vicini
+
+- @FabioVallone: Best Effort = Ogni router fa ciò che può. Ciò vuol
+dire che può capitare che alcuni pacchetti possono essere scartati
+
+- @FeFallace: "Best effort"= il meglio che può dare, non ci sono regole
+di QoS (Quality of Service)
+
+- @RivoluzDigitale: Internet: come filosofia generale e' best effort,
+i.e. no qualita` del servizio (QoS), la rete fa quel che puo`
+
+- @FabioVallone: Il GSM non è Best Effort, in quanto deve rispettare
+alcuni standard che non prevedono che i pacchetti vadano persi
+
+- @DavidePalermo2: Rete Stupida; è End-to-end. Su wikipedia:
+http://t.co/OZsMIudUZi
+
+- @ripa_pepperipa: "Besteffort" = ciascuno dei nodi faccia quel che
+può. Non ci sono regole di qualità o servizio.
+
+- @FabioVallone: Internet è strutturato con un architettura a "strati"
+
+- @Ale_Cannone: internet e teoria del "best effort": nessuna regola di
+QoS (quality of services)
+
+- @stufi93: Best effort è una rete progettata per essere end-to-end
+
+- @DavidePalermo2: Wiki Page architettura di rete: http://t.co/vuLAqfq5KC
+
+- @stufi93: Internet è a "livelli"
+
+- @stufi93: Il primo requisito per poter comunicare é l'oggetto fisco,
+si chiama Phisical Layer
+
+- @ripa_pepperipa: "Besteffort"---&gt; il secondo concetto fondamentale
+è: Rete End-to-end (rete stupida)
+
+- @FabioVallone: I protocolli vengono creati a strati in modo da rendere
+la progettazione e la gestione della rete più semplice
+
+- @SabryKarate: Architettura di Internet divisa in 4 livelli. 1° Livello:
+fisico. Mezzo fisico di comunicazione dei dati.
+
+- @SoFranchy: accenno all'ISO-OSI. Pila di livelli, architettura Internet
+
+- @stufi93: A livello di protocollo di comunicazione abbiamo il livello
+Link Layer, Internet Layer, Trasport Layer, Application Layer
+
+- @FabioVallone: Strati internet: ----Hardware Physical Layer -------
+Software Link Layer Internet Layer Transport Layer Application Layer
+
+- @ripa_pepperipa: Struttura degli strumenti di comunicazione detta
+a strati!
+
+- @EmaParrinello: internet layers: physical, link, internet, transport,
+application.
+
+- @SabryKarate: Link Layer: livello di collegamento dati. Per esempio
+Ethernet, Wi-Fi,...
+
+- @LucaLiuzzi: Architettura della rete:Link layer,Internet layer,Transport
+layer e Application layer.
+
+- @SabryKarate: Internet Layer e Transport Layer: Protocollo Internet (IP)
+
+- @FabioVallone: Physical Layer: Cavi e Comunicazioni radio; Link Layer:
+Ethernet, wifi; Transport, Internet Layer: Protocollo Internet(IP)
+
+- @DavidePalermo2: Transmission Control Protocol - Wikipedia
+http://t.co/FLaB54Ri9t
+
+- @DavidePalermo2: Suite di protocolli Internet - TCP/IP - Wikipedia
+http://t.co/Vju8FUA74b
+
+- @stufi93: 12 anni fa il 90% del traffico era TCP 
+
+- @LucaLiuzzi: TCP : stabilisce una connessione tra un pc di partenza
+ed uno di arrivo.
+
+- @SoFranchy: IP, a livello rete, effettua routing. TCP, a livello
+trasporto, stabilisce comunicazione tra nodi di partenza e arrivo
+
+- @Ale_Cannone: TCP: garantisce la connessione effettiva tra computer
+di partenza e arrivo a differenza dell'IP
+
+- @FabioVallone: Nel Trasport e Internet Layer è contenuto il TCP che
+serve a stabilire una connessione diretta tra due computer
+
+- @DavidePalermo2: TCP crea connessione tra due nodi della rete
+
+- @stufi93: TCP inserisce una connessione tra due nodi della rete
+
+- @FeFallace: Internet ha un'architettura a strati: Physical Layer
+&gt;&gt; Link L. &gt; Internet L. &gt; Transport L. &gt; Applicaion L.
+
+- @ripa_pepperipa: TCP stabilisce una connessione effettiva tra un
+computer di partenza e uno di arrivo!
+
+- @LucaLiuzzi: TCP IP http://t.co/hSl3RSmvkR
+
+- @SabryKarate: TCP: -Stabilisce connessione tra 2 nodi -Mette in ordine
+i pacchetti -Recupera pacchetti persi (con ritrasmissione)
+
+- @DavidePalermo2: Corso di Rivoluzione Digitale (@ Aula 7S)
+http://t.co/996JNr9mWM
+
+- @SoFranchy: TCP: ordina pacchetti in arrivo e controlla la presenza di
+tutti i pacchetti. In caso negativo richiede trasmissione
+
+- @FabioVallone: TCP/IP: -Stabilisce una connessione diretta tra due nodi;
+-Mette in ordine i pacchetti; -Recupera pacchetti persi;
+
+- @ripa_pepperipa: I livelli fisici sono: 1.Application Layer 2.Transport
+Layer 3.Internet Layer 4.Link Layer
+
+- @stufi93: TCP controlla il flusso dei dati evitando le congestioni
+
+- @SabryKarate: TCP attua anche un controllo di congestione. Gestione
+dei flussi di dati.
+
+- @FabioVallone: il TCP fa anche un "controllo di congestione" ovvero
+controlla i flussi dei dati in parallelo
+
+- @FabioVallone: Il "controllo di congestione" viene effettuato dal TCP
+secondo il principio della "crescita lenta, decrescita veloce"
+
+- @SabryKarate: Black out momentaneo a RivoluzDigitale...
+
+- @DavidePalermo2: Senza luce!
+
+- @ripa_pepperipa: Per la gestione dei flussi di connessione, l'idea
+fondamentale è quella di CONTROLLO DI CONGESTIONE!
+
+- @FeFallace: TCP/IP gestisce l'equità dei flussi di banda controllando
+le congestioni (principio"crescita lenta, decrescita veloce")
+
+- @stufi93: "Crescita lenta, decrescita veloce" per garantire equità
+tra i flussi
+
+- @conwused: Il TCP è educato, la rete elettrica no!
+
+- @stufi93: I generatori storici del poli ci stanno abbandonando
+
+- @ripa_pepperipa: se c'è congestione TCP fa crollare la banda!
+
+- @Ale_Cannone: TCP: grazie al controllo di congestione che gestisce
+i flussi di dati in parallelo si garantisce equità tra questi
+
+- @FabioVallone: Il DoD da una certa data compra solo più apparecchiature
+TCP/IP
+
+- @LucaLiuzzi: Se il DoD si intromette con i suoi soldi nessuno può
+più nulla contro di esso. #fact
+
+- @SoFranchy: Dip. Difesa americano predilige TCP/IP come protocollo
+di connessione e decreta la sua diffusione ed unicità sul
+mercato.
+
+- @SabryKarate: A partire dal 1983, il Dipartimento della Difesa acquista
+soltanto più apparecchiature TCP/IP.
+
+- @SoFranchy: TCP: occupa banda in modo graduale, alla congestione la
+abbandona in modo repentino
+
+- @FabioVallone: Dal 1° gennaio 1983 ARPAnet deve usare TCP/IP
+
+- @SabryKarate: Dal 1° gennaio 1983, diventa obbligatorio usare TCP/IP
+per ARPANET
+
+- @ripa_pepperipa: TCP dal 1°gennaio 1983 "sottomette" ARPANET!
+
+- @stufi93: Dal 1º gennaio 1983 ARPANET deve usare TCP/IP
+
+- @EmaParrinello: Dal 1° gennaio 1983 per poter esser un nodo di Arpanet
+bisogna usare il protocollo TCP/IP
+
+- @bassosimone: TCP e uso banda: viola = perdite, pendenza curva =
+velocita` di download http://t.co/UQT9o4J6AR
+
+- @FeFallace: Ottobre 1969 primo pacchetto consegnato tra UCLA e Stanford
+
+- @stufi93: Ottobre 1969 primo pacchetto consegnato tra UCLA e Stanford
+
+- @SabryKarate: 1982: Definizione protocollo TCP/IP e parola "Internet"
+1990: Scompare ARPANET; appare linguaggio HTML 1993: primo browser
+
+- @FeFallace: Divieto di attività commerciale su Internet abrogato solo
+nel 1995
+
+- @LucaLiuzzi: Arpanet inizia nell'ottobre del '69.Attraversa un fase
+di espansione in cui però c'era un divieto commerciale.
+
+- @RivoluzDigitale: dal 1969 al 1995 Internet e' vissuto in un mondo
+strettamente non commerciale - spirito invece universitario / ricerca
+
+- @SoFranchy: evoluzione di ARPANET: 1) nascita 1969 con divieto di fare
+attività commerciale, rete di ricerca, governativa.
+
+- @stufi93: Divieto di attività commerciale su internet annullato solo
+nel 1995
+
+- @Ale_Cannone: in ARPANET vigeva il divieto di attività commerciali
+abrogato solamente il 30 Aprile 1995
+
+- @93Levante: divieto di attività commerciale su internet fino al 30
+aprile del 1995
+
+- @SabryKarate: Tra il 1969 e il 1995 Internet è un'iniziativa puramente
+accademico-governativa: non ha scopi commerciali.
+
+- @SoFranchy: 2) 1995 fine del divieto di utilizzo per attività
+commerciali. Internet non più rete solamente accademica/governativa
+
+- @SimoneBleynat: Se si parlasse adesso di divieto di attività
+commerciale online come reagirebbero Amazon, eBay, iTunes
+ecc..? #riflessioni
+
+- @RivoluzDigitale: Internet e' figlia di un mix di intervento pubblico
+massicio e collaborazione col settore privato
+
+- @FabioVallone: storia ARPAnet: inizio: ottobre 1969 demo pubb: 1972
+Internet: 1982 TCP obb: 1983 fino 1995 divieto att. commerciali
+
+- @ripa_pepperipa: dal 1969 al 1995 #Internet risulta essere un'iniziativa
+fortemente accademica/governativa
+
+#### Posta elettronica
+
+- @SabryKarate: Posta elettronica: nata nel 1971, quando Ray Tomlinson
+installò su ARPANET un sistema per scambiare messaggi fra università
+
+- @SabryKarate: Fu poi nel 1973 che la posta elettronica ottenne la
+sintassi con la @
+
+- @stufi93: La posta elettronica intesa come la conosciamo noi oggi con
+la @ risale al 1973
+
+- @SoFranchy: Email più che ventenne quando internet diventa anche
+commerciale #Rivoluzdigitale. @bassosimone, eri in buona compagnia
+
+- @LucaLiuzzi: Abolito nel '95 il divieto commerciale su internet.Internet
+ormai è matura, esistono già le email ( app creata già nel '73).
+
+- @FlavioGiobergia: Negli anni '70 nasce la netiquette... E quarant'anni
+dopo c'è chi ancora non l'ha imparata :-)
+
+- @ripa_pepperipa: la condivisione dei messaggi sul mainframe esisteva
+già prima, ma la posta elettronica effettivamente risale al 1973
+
+- @FeFallace: Email inventata nel 1973, quindi già negli anni 70 primi
+cenni di "Net-etiquette"
+
+- @SabryKarate: Netiquette, neologismo che unisce network ed étiquette,
+regole che disciplinano il comportamento di un utente di Internet
+
+- @SimoneBleynat: QUINDI SE SCRIVO COSI' SONO UN BUZZURRO. In effetti
+è illeggibile.
+
+- @FabioVallone: Molte applicazioni sono più che mature nel 1995: -email
+(1973) -SMTP(Simple Mail Transport Protocol) (1982)
+
+- @93Levante: 1982, inventato SMTP
+
+- @RivoluzDigitale: RFC 821 "Simple Mail Transfer Protocol" by Jon Postel
+- http://t.co/DZOF0UWQsb
+
+- @FabioVallone: L'SMTP non ha un controllo centralizzato -&gt; SPAM -&gt;
+ma anche diffusione a macchia d'olio
+
+- @Ale_Cannone: Net-etiquette: come comportarsi nelle email. Un "galateo"
+della posta elettronica
+
+- @SoFranchy: 1982 nasce SMTP, prima applicazione p2p su internet
+http://t.co/woMfxMBIGN ma se scrivo SMTP, lo leggono gridando?
+
+- @FeFallace: 1982: Invenzione Protocollo SMTP, prima app P2P (connessione
+computer senza controllo centralizzato)
+
+- @ripa_pepperipa: 1^ applicazione importante nella storia di Internet:
+SMTP (Simple Mail Transport Protocol)
+
+- @ripa_pepperipa: l'SMTP permette di far comunicare i server senza un
+controllo centralizzato = SPAM
+
+- @stufi93: Frase del giorno "Se mi usano 100 milioni di persone un modo
+per fare soldi si troverà"
+
+- @VadimCujba: Con l'avvento dei protocolli SMTP si è creata la prima
+applicazione importante peer to Peter
+
+- @SabryKarate: Se la posta elettronica fosse stata sviluppata solo
+negli ultimi anni avrebbe un'impostazione più pubblica e commerciale
+
+#### Web (!= da Internet)
+
+- @stufi93: FTP (file transfer protocol)
+
+- @ripa_pepperipa: FTP = File Transfer Protocol
+
+- @stufi93: Internet e Web sono due cose diverse #must
+
+- @RivoluzDigitale: Internet != Web
+
+- @ripa_pepperipa: Internet e Web sono due cose diverse!
+
+- @LucaLiuzzi: Teoricamente noi per accedere al nostro blog dovremmo
+saper utilizzare l'FTP.Ora invece abbiamo la comodità del Backend.
+
+- @SoFranchy: Web: applicazione su internet con lo scopo di rendere
+più facile la ricerca di informazioni sulla rete
+
+- @Ale_Cannone: internet: rete di reti con vari applicativi Web:
+applicazione di internet sviluppata nel 1990-91
+
+- @SabryKarate: Nel 1991 è nato il Web: un servizio di Internet che
+permette di accedere a contenuti online, legati tra loro tramite link.
+
+- @SoFranchy: Prima del Web bisognava consultare i file
+dei nodi interconnessi per trovarne 1, sperando in nome
+esplicativo.
+
+- @ripa_pepperipa: Tutti i nodi su internet sono basati su numeri di 4
+byte - IP v4 del tipo 130.192.12.17
+
+#### Domain Name System (DNS)
+
+- @RivoluzDigitale: DNS (Domain Name System) - f(nome-di-dominio) =&gt;
+indirizzo-IP
+
+- @SoFranchy: DNS per associare a indirizzo ip indirizzo
+mnemonico. #Rivoluzdigitale
+
 
 
 ## 2013-05-03
