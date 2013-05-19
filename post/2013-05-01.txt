@@ -1,10 +1,8 @@
 . from 2013-04-16 to 2013-05-01
 
-TODO: verificare titoli UPPERCASE
-
 In @Tech_OnTheRoad 
 
-    "Un app può salvarti la vita?"
+    "Un app puo' salvarti la vita?"
       <http://bit.ly/YmqY7b> by @93Levante
 
         - titolo: poco chiaro
@@ -19,7 +17,7 @@ In @Tech_OnTheRoad
 
         - tag: mancanti
 
-    "Memoria espandibile vs memoria integrata. Qual è la migliore?"
+    "Memoria espandibile vs memoria integrata. Qual e' la migliore?"
       <http://bit.ly/11Vzpom> by @LorenzoCutelle
 
         - titolo: ok
@@ -95,7 +93,7 @@ In @SIAMoMusicPills
 
         - tag: ok
 
-    "Audio in digitale: miglior compromesso tra qualità e portabilità?"
+    "Audio in digitale: miglior compromesso tra qualita' e portabilita'?"
       <http://bit.ly/1304it2> by @Alessio_Chiolo
 
         - titolo: ok
@@ -163,7 +161,7 @@ In @SIAMoMusicPills
 
         - tag: ok
 
-    "Scudo, cooperazione. Proprietà intellettuale? (Prima parte)"
+    "Scudo, cooperazione. Proprieta' intellettuale? (Prima parte)"
       <http://bit.ly/11Cf1ac> by @SimoLeonardiRD
 
         - titolo: non chiarissimo
@@ -178,7 +176,7 @@ In @SIAMoMusicPills
 
         - tag: singolo tag (non e' quello che volevi)
 
-    "Scudo, cooperazione. Proprietà intellettuale? Seconda parte)"
+    "Scudo, cooperazione. Proprieta' intellettuale? Seconda parte)"
       <http://bit.ly/159CQwv> by @SimoLeonardiRD
 
         - titolo: non chiarissimo
@@ -227,7 +225,7 @@ In @tech_mondo
 
         - tag: ok
 
-    "Fusione fredda. La più grand e'bufala' o già realtà?"
+    "Fusione fredda. La piu' grand e'bufala' o gia' realta'?"
       <http://bit.ly/15IU0At> by @PasqualeCafaro1
 
         - titolo: abbastanza (e' meglio avere un titolo con un messaggio
@@ -417,7 +415,7 @@ In @watchDogSystem
 
 In @d_transport
 
-    "Dov'è il motore?" <http://bit.ly/ZW1TON> by @MartinoMensio
+    "Dov'e' il motore?" <http://bit.ly/ZW1TON> by @MartinoMensio
 
         - titolo: non efficacissimo; pensa invece come sarebbe stato
           meglio dire "Dov'e` il motore? Nelle ruote"
@@ -480,7 +478,7 @@ In @d_transport
 
 In @rd_informazione
 
-    "La Pubblicità un mezzo potente" <http://bit.ly/14Va5mV>
+    "La Pubblicita' un mezzo potente" <http://bit.ly/14Va5mV>
       by @FabioBussi
 
         - titolo: non chiaro
@@ -594,7 +592,7 @@ In @PhotoRevo
 
         - tag: ok
 
-    "Evoluzione della fotografia: dall'iniziale realtà al'inganno odierno"
+    "Evoluzione della fotografia: dall'iniziale realta' al'inganno odierno"
       <http://bit.ly/10suqr3> by @AndreaCugusi
 
         - titolo: so and so
@@ -729,7 +727,7 @@ In @webcracity
 
         - tag: no
 
-    "Il mondo è bello perchè vario, anche online. E di certo non so
+    "Il mondo e' bello perche' vario, anche online. E di certo non so
      tutti troll" <http://bit.ly/18cOvJH> by @conwused
 
         - titolo: quasi-ok (creativo, ma troppo lungo)
@@ -767,7 +765,7 @@ In inksbytes
 
 In @socialneid
 
-    "Con Pinterest è '�era del social shopping" <http://bit.ly/ZW4atp>
+    "Con Pinterest e' l'era del social shopping" <http://bit.ly/ZW4atp>
       by @GiuseppeCanto
 
         - titolo: ok
@@ -812,7 +810,7 @@ In @socialneid
 
         - tag: ok
 
-    "Identità digitale: chi siamo online?" <http://bit.ly/1037TRP>
+    "Identita' digitale: chi siamo online?" <http://bit.ly/1037TRP>
       by @Tomm_Yz
 
         - titolo:
@@ -1042,7 +1040,7 @@ In libertaneldigitale
 
         - tag: ok
 
-    "Il Web è accessibile a tutti: e in Italia?"
+    "Il Web e' accessibile a tutti: e in Italia?"
       <http://bit.ly/14wGcJL> by @vitalethomas
 
         - titolo: buono (avrei messo "." e non ":", e forse si poteva
@@ -1325,7 +1323,7 @@ In @websocialblog
 
         - tag: ok
 
-    "Se l'italia va a rotoli #ècolpaditwitter" <http://bit.ly/13MmSnc>
+    "Se l'italia va a rotoli #ecolpaditwitter" <http://bit.ly/13MmSnc>
       by @Antonio_Langiu
 
         - titolo: ok
@@ -1448,7 +1446,7 @@ In rd-ipod33giri
 
 In @N_G_House
 
-    "Una casa più sicura che mai" <http://bit.ly/ZTFgaL>
+    "Una casa piu' sicura che mai" <http://bit.ly/ZTFgaL>
       by @EmaParrinello
 
         - titolo: descrittivo, mentre il sottotitolo e' buono - forse
@@ -1532,7 +1530,7 @@ In @Digimovement
 
         - tag: medio (solo categoria)
 
-    "Volare senza emissioni: utopia o realtà?"
+    "Volare senza emissioni: utopia o realta'?"
       <http://bit.ly/11XKB2x> by @robguerr
 
         - titolo: abbastanza, meglio se non dubitativo
@@ -1641,7 +1639,7 @@ In gamechoc
 
         - tag: ok
 
-    "La nuova PS4: più social che mai" <http://bit.ly/130k7A3>
+    "La nuova PS4: piu' social che mai" <http://bit.ly/130k7A3>
        by @pdor93_milano
 
         - titolo: ok
@@ -1887,7 +1885,7 @@ In @virality
 
         - tag:
 
-    "Perchè i video diventano virali?" <http://bit.ly/17xOr5X>
+    "Perche' i video diventano virali?" <http://bit.ly/17xOr5X>
        by @LucaLiuzzi
 
         - titolo: abbastanza, ma descrittivo
