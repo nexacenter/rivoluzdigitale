@@ -360,9 +360,9 @@ In @A_Intelligence_
           queste sono significative; buona lunghezza dei paragrafi, pero'; la
           progressione del testo potrebbe essere piu` coerente
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: non ne vedo
 
     "A. I. Intelligenza artificiale"
       <http://bit.ly/XLlqAH> by @paolopopolizio
@@ -813,17 +813,17 @@ In @socialneid
     "Identita' digitale: chi siamo online?" <http://bit.ly/1037TRP>
       by @Tomm_Yz
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: la seconda immagine non e' stata caricata sul tuo server
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: riflessione personale
 
-        - tag:
+        - tag: ok
 
 In @theXenGine
 
@@ -1210,17 +1210,17 @@ In @SpecialEff_Team
      nostri e al 'matte painting'!" <http://bit.ly/103aWte>
      by @LorenzoTatti1
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: non ci sono immagini
 
-        - fonti:
+        - fonti: meglio inline che al fondo
 
-        - paragrafi:
+        - paragrafi: quasi-ok
 
-        - tipo:
+        - tipo: breve monografia
 
-        - tag:
+        - tag: non li vedo
 
     "Georges Melies: L'illusionismo approda al cinema"
      <http://bit.ly/ZW7MeO> by @alberto13_tito
@@ -1588,17 +1588,17 @@ In @Guida_SO
 
     "Linux spread" <http://bit.ly/161SLMQ> by Anonymous
 
-        - titolo:
+        - titolo: non chiarissimo
 
-        - immagini:
+        - immagini: non vedo immagini
 
-        - fonti:
+        - fonti: mancano molti link
 
-        - paragrafi:
+        - paragrafi: sembra una bozza
 
-        - tipo:
+        - tipo: segnalazione
 
-        - tag:
+        - tag: non vedo tag
 
 In gamechoc
 
@@ -1747,17 +1747,17 @@ In evos4rd
     "L'epopea di Android nella scalata dei Mobile OS"
        <http://bit.ly/103EOXx> by @Clerish
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (meglio avere le fonti inline)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: prospettiva storica
 
-        - tag:
+        - tag: ok
 
     "Il sistema autocosciente" <http://bit.ly/17xNASK>
        by @BelgaFedeliA
@@ -1779,17 +1779,17 @@ In @WorldWidePh
     "Il fenomeno Gangnam Style: un caso unico o destinato a ripetersi?"
       <http://bit.ly/107vqAU> by @SimoneBleynat
 
-        - titolo:
+        - titolo: quasi-ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: non ne vedo
 
     "Mitt Romney Style: una parodia virale in piena campagna elettorale"
       <http://bit.ly/11cmGMe> by @SimoneBleynat
@@ -1907,17 +1907,17 @@ In the-easy-life
     "NFC: not only a new way for payments" <http://bit.ly/103Gwbf>
        by @Rexsimo893
 
-        - titolo:
+        - titolo: ok
 
-        - immagini:
+        - immagini: ok
 
-        - fonti:
+        - fonti: quasi-ok (non chiara fonte principale)
 
-        - paragrafi:
+        - paragrafi: ok
 
-        - tipo:
+        - tipo: monografia
 
-        - tag:
+        - tag: ok
 
     "Google Glass, guarda il mondo da una nuova prospettiva!"
       <http://bit.ly/159Ozv4> by @jackt251
