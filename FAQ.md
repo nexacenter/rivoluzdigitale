@@ -97,3 +97,31 @@ alla lista nel campo `To: ` della email.
 
 Puoi cambiare l'indirizzo con cui scrivi abbastanza facilmente, sia con
 l'interfaccia web del Poli sia usando Thundebird.
+
+
+1.2. Come aggiungo il supporto per i tag al tema Tumblr?
+--------------------------------------------------------
+
+Per aggiungere i tag al tema Tumblr devi modificare il template del
+tema, andando su:
+
+- Impostazioni;
+
+- Personalizza Tema;
+
+- Modifica HTML.
+
+A questo punto inserisci il seguente blocco di codice pseudo-HTML dove vuoi
+che compaiano i tags:
+
+    {block:HasTags}
+        {block:Tags}
+            <li><a href="{TagURL}">{Tag}</a></li>
+        {/block:Tags}
+    {/block:HasTags}
+
+Infine, ricordati di salvare le modifiche.
+
+Soluzione contribuita da [Stefano Bitto][post-1001].
+
+[post-1001]: http://server-nexa.polito.it/pipermail/rd/2013-May/001001.html
