@@ -122,6 +122,6 @@ che compaiano i tags:
 
 Infine, ricordati di salvare le modifiche.
 
-Soluzione contribuita da [Stefano Bitto][post-1001].
+Soluzione originale by [Stefano Bitto][post-1001].
 
 [post-1001]: http://server-nexa.polito.it/pipermail/rd/2013-May/001001.html
