@@ -1240,9 +1240,9 @@ In @arduinoallinclu
     "L'intervista a Diego Zeppegno: Arduino al FabLab di Torino."
      <http://bit.ly/18pGzCd> by @SoFranchy
 
-        - titolo: ok (descrittivo, forse potevi scrivere qualcosa tipo:
-                      "Intervista: Diego Zeppegno, l'elettricista 2.0 del
-                       FabLab di Torino")
+        - titolo: quasi-ok (descrittivo, no punto a fine riga, forse potevi
+                            scrivere qualcosa tipo: "Intervista: Diego
+                            Zeppegno, l'elettricista 2.0 del FabLab di Torino")
 
         - immagini: ok (e bravo!)
 
