@@ -5,7 +5,7 @@ In @Tech_OnTheRoad
     "Un app puo' salvarti la vita?"
       <http://bit.ly/YmqY7b> by @93Levante
 
-        - titolo: poco chiaro
+        - titolo: quasi-ok (poteva essere piu' chiaro)
 
         - immagini: ok
 
@@ -35,7 +35,7 @@ In @Tech_OnTheRoad
     "Evoluzione della specie"
       <http://bit.ly/15ZK2e4> by @StefanoFranz20
 
-        - titolo: non mi convince molto
+        - titolo: migliorabile (generico)
 
         - immagini: ok
 
@@ -52,8 +52,7 @@ In @SIAMoMusicPills
     "Gli strumenti Musicali? Non Sempre Si pagano"
       <http://bit.ly/ZUfdmI> by @MorenoLaQuatra
 
-        - titolo: perche` "strumenti" e non "Strumenti", inoltre non
-          si capisce bene di cosa parlerai
+        - titolo: quasi-ok (puo' essere piu' chiaro)
 
         - immagini: non mettere link alla homepage
 
@@ -81,7 +80,7 @@ In @SIAMoMusicPills
     "How to: Finger Drumming & Controllerism Tutorial"
       <http://bit.ly/Yeu791> by @iacopo_poli
 
-        - titolo: abbastanza (ma non e' chiaro se e' un howto o un tutorial)
+        - titolo: ok
 
         - immagini: ok
 
@@ -111,7 +110,7 @@ In @SIAMoMusicPills
     "Come trovare musica - le migliori risorse online"
       <http://bit.ly/ZmC5s0> by @iacopo_poli
 
-        - titolo: descrittivo
+        - titolo: ok
 
         - immagini: ok
 
@@ -127,7 +126,7 @@ In @SIAMoMusicPills
     "BOOM. Evolvo, creo, apprezzo. Vibrazioni in pugno"
       <http://bit.ly/YA8PO8> by @SimoLeonardiRD
 
-        - titolo: bello!
+        - titolo: ok (ottimo)
 
         - immagini: non usare bit.ly, piuttosto usa <a href
 
@@ -146,8 +145,7 @@ In @SIAMoMusicPills
     "Mac OSX Vs Windows, Quale Migliore Ambiente di Produzione?"
       <http://bit.ly/Z3QyMQ> by @MorenoLaQuatra
 
-        - titolo: "not too bad" ma avrei preferito se tu avessi unito il
-          titolo e il sottotitolo
+        - titolo: ok
 
         - immagini: non usare bit.ly per fonte, usa <a href
 
@@ -164,7 +162,7 @@ In @SIAMoMusicPills
     "Scudo, cooperazione. Proprieta' intellettuale? (Prima parte)"
       <http://bit.ly/11Cf1ac> by @SimoLeonardiRD
 
-        - titolo: non chiarissimo
+        - titolo: migliorabile (non chiaro)
 
         - immagini: ok ma non usare bit.ly, usa <a href
 
@@ -179,7 +177,7 @@ In @SIAMoMusicPills
     "Scudo, cooperazione. Proprieta' intellettuale? Seconda parte)"
       <http://bit.ly/159CQwv> by @SimoLeonardiRD
 
-        - titolo: non chiarissimo
+        - titolo: migliorabile (non chiaro)
 
         - immagini: ok ma non usare bit.ly, usa <a href
 
@@ -198,7 +196,7 @@ In @tech_mondo
     "La Casa Del Futuro!"
       <http://bit.ly/10nmLKG> by @Berto93Lore
 
-        - titolo: so and so
+        - titolo: migliorabile (generico)
 
         - immagini: ok
 
@@ -225,11 +223,10 @@ In @tech_mondo
 
         - tag: ok
 
-    "Fusione fredda. La piu' grand e'bufala' o gia' realta'?"
+    "Fusione fredda. La piu' grande 'bufala' o gia' realta'?"
       <http://bit.ly/15IU0At> by @PasqualeCafaro1
 
-        - titolo: abbastanza (e' meglio avere un titolo con un messaggio
-          forte che avere una domanda nel titolo)
+        - titolo: ok
 
         - immagini: ok
 
@@ -248,7 +245,7 @@ In @tech_mondo
     "NUOVE FRONTIERE NEL CAMPO DELLE ARMI"
       <http://bit.ly/13iv1Q0> by @Berto93Lore
 
-        - titolo: non si capisce
+        - titolo: migliorabile (non chiaro e NO UPPERCASE)
 
         - immagini: quasi-ok (metti link sotto)
 
@@ -263,7 +260,7 @@ In @tech_mondo
     "Grafene - il materiale del futuro"
       <http://bit.ly/15k9gUe> by @OvidiuBirgu
 
-        - titolo: descrittivo
+        - titolo: quasi-ok (poteva essere piu' specifico)
 
         - immagini: ok
 
@@ -281,7 +278,8 @@ In @RivoluzionArti
     "La fotografia: impressionismo digitale"
       <http://bit.ly/1306zVc> by @Gian_Cirillo
 
-        - titolo: non si capisce bene
+        - titolo: quasi-ok (l'idea di base e' ottima ma poteva essere resa
+                            in modo piu' chiaro)
 
         - immagini: puoi usare meglio <a href
 
@@ -297,7 +295,7 @@ In @RivoluzionArti
     "TIC-TAC-TECnologico"
       <http://bit.ly/18cKGUQ> by @GiuliaPancaro
 
-        - titolo: great
+        - titolo: ok (ottimo)
 
         - immagini: non mettere google come fonte delle immagini, usa
           invece il sito dove si trova le immagini
@@ -316,7 +314,7 @@ In @A_Intelligence_
     "'Dassault nEUROn', l'aereo europeo completamente autonomo"
       <http://bit.ly/11MKWoC> by @russomatteo93
 
-        - titolo: quasi-ok, non usare "," usa ":"
+        - titolo: ok
 
         - immagini: ok
 
@@ -332,7 +330,7 @@ In @A_Intelligence_
     "Software scacchistico"
       <http://bit.ly/10VkQnX> by @paolopopolizio
 
-        - titolo: troppo descrittivo
+        - titolo: migliorabile (generico)
 
         - immagini: non usare bit.ly per fonte, usa <a href
 
@@ -347,7 +345,7 @@ In @A_Intelligence_
     "Un aiuto intelligente al lavoro dell'uomo"
       <http://bit.ly/ZzNAQs> by @ripa_pepperipa
 
-        - titolo: troppo generico
+        - titolo: migliorabile (non si capisce)
 
         - immagini: non usare bit.ly, usa <a href
 
@@ -367,7 +365,7 @@ In @A_Intelligence_
     "A. I. Intelligenza artificiale"
       <http://bit.ly/XLlqAH> by @paolopopolizio
 
-        - titolo: genericissimo
+        - titolo: migliorabile (generico)
 
         - immagini: non capisco la fonte
 
@@ -401,7 +399,7 @@ In @watchDogSystem
 
     "SoC e SoM" <http://bit.ly/10ssor2> by @FabioVallone
 
-        - titolo: oscuro
+        - titolo: migliorabile (non chiaro)
 
         - immagini: ok
 
@@ -417,8 +415,7 @@ In @d_transport
 
     "Dov'e' il motore?" <http://bit.ly/ZW1TON> by @MartinoMensio
 
-        - titolo: non efficacissimo; pensa invece come sarebbe stato
-          meglio dire "Dov'e` il motore? Nelle ruote"
+        - titolo: migliorabile (non chiaro)
 
         - immagini: usa <a href
 
@@ -448,8 +445,7 @@ In @d_transport
     "'Troppo potere agli ingegneri!'" <http://bit.ly/172DY2i>
       by @stufi93
 
-        - titolo: non chiarissimo, fosse stato "Valentino Rossi: Troppo
-          potere [...]" gia` sarebbe andato molto meglio
+        - titolo: migliorabile (meglio: "MotoGP: Troppo [...]")
 
         - immagini: manca fonte immagine
 
@@ -464,7 +460,8 @@ In @d_transport
     "AIUTOOO... ma chi guida la metro?!" <http://bit.ly/11VEahJ>
       by @a_loffreda
 
-        - titolo: non mi convince
+        - titolo: quasi-ok (non mi piace, ma non e' generico e si capisce di
+                            cosa vuoi parlare)
 
         - immagini: manca fonte
 
@@ -481,7 +478,7 @@ In @rd_informazione
     "La Pubblicita' un mezzo potente" <http://bit.ly/14Va5mV>
       by @FabioBussi
 
-        - titolo: non chiaro
+        - titolo: migliorabile (generico)
 
         - immagini: quasi-ok (usa <a href)
 
@@ -516,7 +513,7 @@ In @Gioco_Azzardato
     "L'evoluzione della 'schedina' online: il betting-exchange"
       <http://bit.ly/YQqiBT> by @MaurizioVerra
 
-        - titolo: descrittivo
+        - titolo: ok
 
         - immagini: quasi-ok (meglio un link cliccabile che un link
           inserito nell'immagine)
@@ -534,8 +531,7 @@ In @Gioco_Azzardato
     "IL GIOCO VALE LA CANDELA?" <http://bit.ly/14ZBCne>
       by @LolloCler
 
-        - titolo: non mettere il titolo in maiuscolo, inoltre dal titolo
-          non si capisce bene di cosa vuoi parlare
+        - titolo: migliorabile (non chiaro, NO UPPERCASE)
 
         - immagini: abbastanza (ma il modo in cui dici da dove hai preso
           le immagini dovrebbe essere differenziato graficamente cosi`
@@ -559,8 +555,8 @@ In @Cine_Revolution
     "Addio pellicola! Benvenuto digitale!" <http://bit.ly/17xhjth>
       by @sakiu92
 
-        - titolo: abbastanza (non si capisce che parli del contesto
-          del cinema se non pensando al tuo blog)
+        - titolo: quasi-ok (non si capisce che parli del contesto del cinema
+                            se non pensando al tuo blog)
 
         - immagini: fonte non chiara
 
@@ -577,7 +573,7 @@ In @PhotoRevo
 
     "Un po' di storia" <http://bit.ly/ZzP7pE> by @MarcoViccica
 
-        - titolo: troppo generico
+        - titolo: migliorabile (generico)
 
         - immagini: ok
 
@@ -592,10 +588,10 @@ In @PhotoRevo
 
         - tag: ok
 
-    "Evoluzione della fotografia: dall'iniziale realta' al'inganno odierno"
+    "Evoluzione della fotografia: dall'iniziale realta' all'inganno odierno"
       <http://bit.ly/10suqr3> by @AndreaCugusi
 
-        - titolo: so and so
+        - titolo: quasi-ok (non e' chiaro cosa sia l'inganno odierno)
 
         - immagini: ok
 
@@ -611,7 +607,7 @@ In @PhotoRevo
 
     "Digitale, un bene o un male?" <http://bit.ly/12VxKzo> by @93_checco
 
-        - titolo: titolo un po' banale e poco informativo
+        - titolo: migliorabile (non e' chiaro contesto in cui ti poni domanda)
 
         - immagini: meglio se usi <a href (e ancora meglio se metti
           l'indicazione sotto a ciascuna immagine)
@@ -626,7 +622,7 @@ In @PhotoRevo
 
     "Dai film alle micro SD" <http://bit.ly/1309YmQ> by @MarcoViccica
 
-        - titolo: descrittivo
+        - titolo: migliorabile (non si capisce bene)
 
         - immagini: ok
 
@@ -643,8 +639,7 @@ In vitanelvirtuale
     "Oculus Rift: la fantascienza entra in casa nostra"
       <http://bit.ly/15BVM6n> by @Baraleluca93
 
-        - titolo: non si capisce benissimo di che cosa vuoi parlare (stai
-          introducendo un oggetto abbastanza nuovo)
+        - titolo: ok
 
         - immagini: usa <a href per dire da dove prendi le immagini, e.g.
           <a href="link-molto-lungo">testo piu` corto</a>
@@ -663,7 +658,7 @@ In vitanelvirtuale
     "Avatar: nostra espressione o facciata fittizia?"
       <http://bit.ly/18pzhhP> by @Baraleluca93
 
-        - titolo: descrittivo-dubitativo
+        - titolo: ok (meglio non usare titoli dubitativi, comunque)
 
         - immagini: linka la pagina da cui hai preso l'immagine
 
@@ -696,8 +691,7 @@ In musicdigitalbeat
     "RIVOLUZIONE DIGITALE, MORTE O SALVEZZA?"
       <http://bit.ly/159F7YF> by @MicheleRusso92
 
-        - titolo: non usare ALL UPPERCASE per il titolo, e comunque il titolo
-          e' decisamente troppo vago
+        - titolo: migliorabile (in quale contesto? e non usare UPPERCASE)
 
         - immagini: non capisco la fonte dell'immagine
 
@@ -715,7 +709,7 @@ In @webcracity
     "La democrazia in una nuova era" <http://bit.ly/11XBDCm>
       by @CaracciFabio
 
-        - titolo: non chiarissimo
+        - titolo: quasi-ok (in quale nuova era?)
 
         - immagini: ok
 
@@ -730,7 +724,7 @@ In @webcracity
     "Il mondo e' bello perche' vario, anche online. E di certo non so
      tutti troll" <http://bit.ly/18cOvJH> by @conwused
 
-        - titolo: quasi-ok (creativo, ma troppo lungo)
+        - titolo: ok (un po' troppo lungo)
 
         - immagini: mancafonte
 
@@ -751,7 +745,7 @@ In inksbytes
     "Il destino dei nostri dati: Google e il testamento digitale"
       <http://bit.ly/12Ur2K3> by @AxelMgn13
 
-        - titolo: ok
+        - titolo: ok (ottimo)
 
         - immagini: quasi-ok (non mettere link lunghi, usa <a href)
 
@@ -798,7 +792,7 @@ In @socialneid
     "Il blog: una navicella che torna indietro dallo spazio"
       <http://bit.ly/14Vh27g> by @GiuseppeCanto
 
-        - titolo: ok (bravo, incuriosisce molto!)
+        - titolo: ok (ottimo)
 
         - immagini: ok
 
@@ -830,7 +824,7 @@ In @theXenGine
     "LucasArts: fine di un colosso galattico" <http://bit.ly/ZzQFQp>
       by @MatteoMonta93
 
-        - titolo: Lucas ... Galattico ... ok
+        - titolo: ok (ottimo)
 
         - immagini: meglio inline che in fondo, metti un margine tra il
           lato dell'immagine e il testo
@@ -850,7 +844,7 @@ In @theXenGine
     "Il computer quantistico: un futuro per il video ludico?"
       <http://bit.ly/130ceKG> by @Skiepp
 
-        - titolo: abbastanza (non sono sicuro si separi video e ludico)
+        - titolo: ok (non sono sicuro si separi video e ludico)
 
         - immagini: abbastanza (meglio se usi <a href e metti i link
           sotto a ciascuna immagine)
@@ -870,8 +864,8 @@ In scattoaldigitale
     "Uno sguardo al passato: come l'800 ha rivoluzionato l'industria
      fotografica" <http://bit.ly/15ZPcXw> by @giuli93
 
-        - titolo: abbastanza bene ("istantanee dal passato: come l'800
-          ha rivoluzionato l'industria fotografia"?)
+        - titolo: ok (meglio: "istantanee dal passato: come l'800 ha
+                      rivoluzionato l'industria fotografia"?)
 
         - immagini: quasi-ok (usa <a href)
 
@@ -886,7 +880,7 @@ In scattoaldigitale
     "Instagram: il Social Network della fotografia" <http://bit.ly/12VDA3H>
       by @MathieuMauri
 
-        - titolo: descrittivo
+        - titolo: ok
 
         - immagini: non usare bit.ly, usa <a href
 
@@ -918,7 +912,7 @@ In gruppodalm
 
     "Un nuovo Falco nei cieli" <http://bit.ly/17MtN0h> by @Da93Mo
 
-        - titolo: non chiarissimo
+        - titolo: quasi-ok (meglio: "$nomeaereo: ...")
 
         - immagini: quasi-ok (usa <a href)
 
@@ -934,8 +928,8 @@ In gruppodalm
     "Romeo&Giulietta, Shakespeare? NO, ROBOT!" <http://bit.ly/ZW5jRH>
       by @lucaSerra4
 
-        - titolo: quasi-ok (non e' efficacissimo perche` contiene due
-          virgole, un "?" e un "!": troppe pause)
+        - titolo: quasi-ok (non e' efficacissimo perche` contiene due virgole,
+                            un "?" e un "!": troppe pause)
 
         - immagini: usa <a href per i link alle immagini
 
@@ -952,8 +946,8 @@ In guidadigitale
     "'Sword Art Online', il videogioco nel 2022!?"
       <http://bit.ly/ZmLH5W> by @Di_Placido_Mat
 
-        - titolo: abbastanza (non mi convince molto lo stupore), e, dopo aver
-          letto il post, mi sembra che il titolo non sia molto centrato
+        - titolo: quasi-ok (non mi convince molto lo stupore e il titolo non
+                            mi sembra centrato sull'articolo)
 
         - immagini: abbastanza (usare un tagged di tumblr non va bene perche`
           verranno taggate cose nuove e quindi, andando dopo un po' di tempo su
@@ -973,7 +967,7 @@ In guidadigitale
     "DmC, Tomb Raider e la discriminazione dei reboot"
       <http://bit.ly/16oaJsG> by @Fed_Delo
 
-        - titolo: LOL
+        - titolo: ok
 
         - immagini: ok
 
@@ -992,7 +986,7 @@ In guidadigitale
     "Recensione (entusiasta) di Bioshock Infinite"
       <http://bit.ly/18cQzRO> by @ste_litto
 
-        - titolo: great
+        - titolo: ok (ottimo)
 
         - immagini: le immagini sono tuoi screenshot?
 
@@ -1011,7 +1005,7 @@ In libertaneldigitale
     "CISPA was back. CISPA is gone. Again."
       <http://bit.ly/ZVrmcN> by @SimonBonvicini
 
-        - titolo: ottimo
+        - titolo: ok (ottimo)
 
         - immagini: usa <a href per le fonti
 
@@ -1028,7 +1022,7 @@ In libertaneldigitale
     "Internet: l'arma di diffusione del Movimento 5 Stelle"
       <http://bit.ly/ZTqyzv> by @ManuelGuarino93
 
-        - titolo: non mi torna molto "arma", altrimenti ok
+        - titolo: ok (ma non mi torna molto "arma")
 
         - immagini: ok
 
@@ -1043,9 +1037,9 @@ In libertaneldigitale
     "Il Web e' accessibile a tutti: e in Italia?"
       <http://bit.ly/14wGcJL> by @vitalethomas
 
-        - titolo: buono (avrei messo "." e non ":", e forse si poteva
-          rendere ancora un po' piu` interessante, per esempio "Italia e
-          digitalizzazione: una causa persa" e' molto bello)
+        - titolo: ok (avrei messo "." e non ":", e forse si poteva rendere
+                      ancora un po' piu` interessante, per esempio "Italia e
+                      digitalizzazione: una causa persa" e' molto bello)
 
         - immagini: ok
 
@@ -1062,11 +1056,10 @@ In libertaneldigitale
 
         - tag: ok
 
-    "Anonymous: paladini della giustizia o cybercriminali?
-     No, 'Hacktivisti' <http://bit.ly/ZmMxQr>
-     by @PieMarzio
+    "Anonymous: paladini della giustizia o cybercriminali?  No, 'Hacktivisti'"
+      <http://bit.ly/ZmMxQr> by @PieMarzio
 
-        - titolo: non mi convince a pieno, quasi-ok
+        - titolo: ok
 
         - immagini: la fonte non punta al post o pagina che contiene
           l'immagine originale ma a un sito che offre di scaricare immagini
@@ -1085,7 +1078,7 @@ In libertaneldigitale
     "L'influenza dei social network sulla Primavera Araba"
      <http://bit.ly/159I9Mn> by @SimonBonvicini
 
-        - titolo: descrittivo
+        - titolo: ok (ottimo)
 
         - immagini: abbastanza (non sono a favore dei link a Facebook, ma in
           questo caso sembra che tu non potessi evitare)
@@ -1121,7 +1114,9 @@ In @BlogTDW
     "MMS: UNA STORIA TRISTE" <http://bit.ly/17xJlGN>
       by @omerovitali
 
-        - titolo: quasi-ok (NO TITOLO TUTTO MAIUSCOLO)
+        - titolo: quasi-ok (NO TITOLO TUTTO MAIUSCOLO, <OT>io avrei chiamato
+                            l'articolo: "MMS: una storia triste per un
+                            introito modesto"</OT>)
 
         - immagini: ok
 
@@ -1136,7 +1131,7 @@ In @BlogTDW
     "ARYBURTON NEL PAESE DELLE MERAVIGLIE" <http://bit.ly/10sBkfU>
       by @DavidePalermo2
 
-        - titolo: non chiarissimo
+        - titolo: quasi-ok (incuriosisce ma non e' chiarissimo, e NO UPPERCASE)
 
         - immagini: ok
 
@@ -1152,7 +1147,8 @@ In @BlogTDW
       by @omerovitali
 
         - titolo: quasi-ok (il titolo non rispecchia esattamente l'articolo,
-          che e' piu` un tutorial su come scattare foto 3D)
+                            che e' piu` un tutorial su come scattare foto 3D,
+                            NO UPPERCASE)
 
         - immagini: ok
 
@@ -1171,7 +1167,7 @@ In @BlogTDW
     "L'evoluzione della musica con l'avvento del digitale"
       <http://bit.ly/16ofbI0> by @FZinnari
 
-        - titolo: troppo generico
+        - titolo: ok
 
         - immagini: ok
 
@@ -1187,7 +1183,7 @@ In @BlogTDW
     "SPAZIO La Stampa - AN UNEXPECTED JOURNEY"
       <http://bit.ly/16pSXW2> by @DavidePalermo2
 
-        - titolo: NO UPPERCASE
+        - titolo: quasi-ok (NO UPPERCASE)
 
         - immagini: ok
 
@@ -1225,8 +1221,8 @@ In @SpecialEff_Team
     "Georges Melies: L'illusionismo approda al cinema"
      <http://bit.ly/ZW7MeO> by @alberto13_tito
 
-        - titolo: non mi convince tantissimo l'immagine dell'illusionismo
-          che approda
+        - titolo: ok (non mi convince tantissimo l'immagine dell'illusionismo
+                      che approda)
 
         - immagini: non capisco bene
 
@@ -1244,9 +1240,9 @@ In @arduinoallinclu
     "L'intervista a Diego Zeppegno: Arduino al FabLab di Torino."
      <http://bit.ly/18pGzCd> by @SoFranchy
 
-        - titolo: abbastanza (descrittivo, forse potevi scrivere qualcosa
-          tipo: "Intervista: Diego Zeppegno, l'elettricista 2.0 del
-          FabLab di Torino")
+        - titolo: ok (descrittivo, forse potevi scrivere qualcosa tipo:
+                      "Intervista: Diego Zeppegno, l'elettricista 2.0 del
+                       FabLab di Torino")
 
         - immagini: ok (e bravo!)
 
@@ -1278,7 +1274,7 @@ In @websocialblog
     "La tv-generation a confronto col web" <http://bit.ly/16oj9jT>
       by @sociocala
 
-        - titolo: descrittivo ma comunque abbastanza efficace
+        - titolo: ok
 
         - immagini: no (why?)
 
@@ -1293,7 +1289,7 @@ In @websocialblog
     "Campagna elettorale virtuale made in Usa"
       <http://bit.ly/11VMRZv> by @aimomattia
 
-        - titolo: descrittivo
+        - titolo: ok
 
         - immagini: ok
 
@@ -1308,7 +1304,7 @@ In @websocialblog
     "Social Media Marketing" <http://bit.ly/15ZWIBA>
       by @Antonio_Langiu
 
-        - titolo: descrittivo
+        - titolo: migliorabile (generico)
 
         - immagini: bene che ci sia la fonte sotto l'immagine, ma metti un
           link per i pigri
@@ -1342,8 +1338,7 @@ In @websocialblog
     "Un po' di storia: dai primi social network a twitter"
       <http://bit.ly/Yek7uf> by @Stefano_Landi92
 
-        - titolo: descrittivo ma ok (quel "un po' di storia" fa la
-          differenza)
+        - titolo: ok
 
         - immagini: quasi-ok (non e' chiarissimo che il link ninjamarketing
           e' in realta` la fonte dell'immagine, perche' hai messo l'immagine
@@ -1362,7 +1357,7 @@ In @websocialblog
     "L'occhio del web su Boston" <http://bit.ly/130hApe>
       by @Antonio_Langiu
 
-        - titolo: non chiarissimo
+        - titolo: quasi-ok (poteva essere piu' chiaro)
 
         - immagini: no
 
@@ -1380,7 +1375,7 @@ In rd-ipod33giri
     "La musica a spasso col tempo" <http://bit.ly/17xLkuE>
       by @GabrieleVicecon
 
-        - titolo: ok (mi piace perche' e' un gioco di parole)
+        - titolo: ok (bello anche perche' e' un gioco di parole)
 
         - immagini: usa <a href per le fonti delle immagini
 
@@ -1397,8 +1392,7 @@ In rd-ipod33giri
     "Nostalgia portami via!" <http://bit.ly/15ZXdM9>
       by @fabioricca93
 
-        - titolo: non si capisce bene (mentre "Vinile: nostalgia portami
-          via!" sarebbe stato molto piu` chiaro)
+        - titolo: migliorabile (meglio: "Vinile: nostalgia portami via!")
 
         - immagini: quasi-ok (in un caso hai del testo che sconfina
           un po' nell'immagine di napster)
@@ -1415,7 +1409,7 @@ In rd-ipod33giri
     "La pirateria (non) fa bene (parte I)" <http://bit.ly/159KjLZ>
       by @silvestro_r
 
-        - titolo: descrittivo
+        - titolo: quasi-ok (la partentesi col 'non' incasina un po')
 
         - immagini: usa <a href, e non bit.ly, per fonti immagini
 
@@ -1432,7 +1426,7 @@ In rd-ipod33giri
     "La pirateria (non) fa bene (parte II)" <http://bit.ly/11V9qMJ>
       by @silvestro_r
 
-        - titolo: ok
+        - titolo: quasi-ok (la partentesi col 'non' incasina un po')
 
         - immagini: quasi-ok (non usare bit.ly)
 
@@ -1449,8 +1443,7 @@ In @N_G_House
     "Una casa piu' sicura che mai" <http://bit.ly/ZTFgaL>
       by @EmaParrinello
 
-        - titolo: descrittivo, mentre il sottotitolo e' buono - forse
-          potevi combinarli in qualche modo
+        - titolo: migliorabile (generico)
 
         - immagini: ok
 
@@ -1466,7 +1459,7 @@ In @N_G_House
     "QUANTO E' SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
       by @Ale_Cannone
 
-        - titolo: SICURAMENTE E' UN TITOLO IN UPPERCASE
+        - titolo: quasi-ok (NO UPPERCASE)
 
         - immagini: medio (il link corto a youtube e' ugly, fai, invece,
           l'embedding del video)
@@ -1484,7 +1477,7 @@ In @N_G_House
     "Risparmio energetico nella casa domotica" <http://bit.ly/159KE1j>
       by @Ale_Cannone
 
-        - titolo: descrittivo
+        - titolo: ok
 
         - immagini: ok
 
@@ -1502,7 +1495,7 @@ In @Digimovement
     "Sistema Start/Stop, un modo ecocompatibile di viaggiare."
       <http://bit.ly/ZWaZeh> by Anonymous(@AstoriPietro)
 
-        - titolo: no punto a fine riga, descrittivo
+        - titolo: quasi-ok (no punto a fine riga)
 
         - immagini: non chiara fonte immagini
 
@@ -1518,7 +1511,7 @@ In @Digimovement
     "Radionavigazione: l'orizzonte sui mari del futuro."
       <http://bit.ly/11XKwMu> by @emalabro
 
-        - titolo: no punto a fine riga
+        - titolo: quasi-ok (no punto a fine riga)
 
         - immagini: medio (immagino immagine da wikipedia, ma non so)
 
@@ -1533,7 +1526,7 @@ In @Digimovement
     "Volare senza emissioni: utopia o realta'?"
       <http://bit.ly/11XKB2x> by @robguerr
 
-        - titolo: abbastanza, meglio se non dubitativo
+        - titolo: ok (meglio: no titolo dubitativo)
 
         - immagini: fonte non direttamente specificata
 
@@ -1548,7 +1541,7 @@ In @Digimovement
     "Due applicazioni, migliaia di veicoli." <http://bit.ly/ZVAWwj>
       by @AstoriPietro
 
-        - titolo: non e' molto chiaro cio` di cui vuoi parlare
+        - titolo: migliorabile (non chiaro, no punto a fine riga)
 
         - immagini: non basta dire "immagine dal sito ufficiale", metti
           anche il link
@@ -1567,8 +1560,8 @@ In @Guida_SO
     "SECURE BOOT, MINACCIA PER LINUX ??" <http://bit.ly/17z6b0V>
       by @BoggioMattia
 
-        - titolo: NON USARE TUTTO MAIUSCOLO, non mettere spazio prima di ?
-          e poi ricordati di usare sempre un singolo ? o !
+        - titolo: migliorabile (no UPPERCASE, no doppio '?',
+                                no spazio prima di '?')
 
         - immagini: usa <a href
 
@@ -1588,7 +1581,7 @@ In @Guida_SO
 
     "Linux spread" <http://bit.ly/161SLMQ> by Anonymous
 
-        - titolo: non chiarissimo
+        - titolo: migliorabile (troppo generico)
 
         - immagini: non vedo immagini
 
@@ -1605,7 +1598,7 @@ In gamechoc
     "Recensione: Assassin's Creed" <http://bit.ly/ZtqXx2>
        by @CataDavide
 
-        - titolo: un po' troppo descrittivo
+        - titolo: ok
 
         - immagini: non chiara fonte
 
@@ -1627,7 +1620,7 @@ In gamechoc
     "Rome 2, ritornano le legioni!" <http://bit.ly/13svT4I>
        by @DavideMercu
 
-        - titolo: quasi-ok (usa i : e non la ,)
+        - titolo: ok
 
         - immagini: non chiara fonte
 
@@ -1659,7 +1652,7 @@ In @DigitaleInCasa
     "Il Darwinismo del cavo" <http://bit.ly/18cVH8K>
        by @PeppeGiacalone
 
-        - titolo: molto creativo e quasi-ok (non chiarissimo)
+        - titolo: ok
 
         - immagini: ok (e bravo perche` mi ricordo che ti sei posto
           il problema del copyright dell'immagine assemblata)
@@ -1676,7 +1669,7 @@ In @DigitaleInCasa
     "Toollio: il nuovo robot multifunzione per la cucina"
        <http://bit.ly/18cVMJo> by @Thimjok
 
-        - titolo: yeah!
+        - titolo: ok
 
         - immagini: ok
 
@@ -1709,7 +1702,7 @@ In @DigitaleInCasa
     "I nuovi monitor BenQ RL2455HM e XL2720T in Italia"
       <http://bit.ly/14VC2uS> by @Gare_1993
 
-        - titolo: descrittivo
+        - titolo: ok
 
         - immagini: quasi-ok (metti link sotto a immagine)
 
@@ -1725,7 +1718,7 @@ In @DigitaleInCasa
     "Il futuro dell'interazione uomo-computer secondo HP e Leap Motion"
       <http://bit.ly/17xNnPB> by @Gare_1993
 
-        - titolo: quasi-ok (bello ma descrittivo)
+        - titolo: ok
 
         - immagini: spiegami "immagine non protetta..." [postare lo screenshot
           di un film e' eccezione consentita dal copyright]
@@ -1747,7 +1740,7 @@ In evos4rd
     "L'epopea di Android nella scalata dei Mobile OS"
        <http://bit.ly/103EOXx> by @Clerish
 
-        - titolo: ok
+        - titolo: ok (ottimo)
 
         - immagini: ok
 
@@ -1762,7 +1755,7 @@ In evos4rd
     "Il sistema autocosciente" <http://bit.ly/17xNASK>
        by @BelgaFedeliA
 
-        - titolo: non si capisce bene
+        - titolo: migliorabile (non chiaro)
 
         - immagini: usa <a href
 
@@ -1779,7 +1772,7 @@ In @WorldWidePh
     "Il fenomeno Gangnam Style: un caso unico o destinato a ripetersi?"
       <http://bit.ly/107vqAU> by @SimoneBleynat
 
-        - titolo: quasi-ok
+        - titolo: ok
 
         - immagini: ok
 
@@ -1809,7 +1802,7 @@ In @WorldWidePh
     "Dall'App Store alla Hall of Fame: la favola di Angry Birds"
       <http://bit.ly/ZiVBZN> by @stefano_bitto
 
-        - titolo: ok
+        - titolo: ok (ottimo)
 
         - immagini: ok
 
@@ -1824,7 +1817,7 @@ In @WorldWidePh
     "Il caso Myspace: successo e declino del primo grande social network"
       <http://bit.ly/128aYBm> by @SimoneBleynat
 
-        - titolo: ok
+        - titolo: ok (ottimo)
 
         - immagini: ok
 
@@ -1839,7 +1832,7 @@ In @WorldWidePh
     "Gli USA hanno un nuovo presidente: Kid President!"
       <http://bit.ly/11RWSpc> by @BalboDavide
 
-        - titolo: quasi-ok (non mi convince 100%)
+        - titolo: ok
 
         - immagini: ok
 
@@ -1855,7 +1848,7 @@ In @virality
 
     "How to : Become Viral" <http://bit.ly/10VEcJU> by @LucaLiuzzi
 
-        - titolo: buono, ma no spazio prima di ":"
+        - titolo: quasi-ok (no spazio prima dei due punti)
 
         - immagini: ok
 
@@ -1867,28 +1860,10 @@ In @virality
 
         - tag: solo categoria
 
-    "Ingegneria di un video virale" <http://bit.ly/ZmV4mo>
-       by @LucaLiuzzi
-
-        /* Lo considero un (apprezzato) post per riempire il blog di
-           contenuti, e non un post testuale da leggere, OK? */
-
-        - titolo:
-
-        - immagini:
-
-        - fonti:
-
-        - paragrafi:
-
-        - tipo:
-
-        - tag:
-
     "Perche' i video diventano virali?" <http://bit.ly/17xOr5X>
        by @LucaLiuzzi
 
-        - titolo: abbastanza, ma descrittivo
+        - titolo: ok
 
         - immagini: ok (video)
 
@@ -1922,7 +1897,7 @@ In the-easy-life
     "Google Glass, guarda il mondo da una nuova prospettiva!"
       <http://bit.ly/159Ozv4> by @jackt251
 
-        - titolo: quasi-ok (non usare la "," ma usa i ":")
+        - titolo: ok
 
         - immagini: ok
 
@@ -1968,7 +1943,7 @@ In @RealtAumentat
 
     "Il sistema Aris*er" <http://bit.ly/12qljbX> by @MarcoFestugato
 
-        - titolo: non si capisce
+        - titolo: migliorabile (non chiaro)
 
         - immagini: embedda i video, inserisci fonti
 
@@ -1985,8 +1960,7 @@ In @RealtAumentat
     "Ingress: la nuova frontiera del gioco?" <http://bit.ly/18cXRVT>
       by @frafrn
 
-        - titolo: abbastanza (perche` la nuova frontiera? dal titolo non
-          si capisce - comunque sconsiglio i titoli dubitativi)
+        - titolo: ok
 
         - immagini: non benissimo - per la prima immagine, potevi mettere
           direttamente il link a Wikipedia, senza passare per la redirezione
@@ -2006,8 +1980,7 @@ In @RealtAumentat
     "Sperimentazioni in campo militare (e non solo)"
       <http://bit.ly/17xPcvH> by @MarcoFestugato
 
-        - titolo: abbastanza (ma il titolo e' incompleto a meno che uno
-          faccia mente locale su qual e' il tema del blog)
+        - titolo: quasi-ok (non si capisce bene se non sapendo tema del blog)
 
         - immagini: ok
 
@@ -2040,7 +2013,7 @@ In @RealtAumentat
     "ITALY AUGMENTED: un nuovo modo di: viaggiare, osservare, comprare"
       <http://bit.ly/11XOGDU> by @WillieMacdouga
 
-        - titolo: non chiarissimo
+        - titolo: quasi-ok (poteva essere piu' chiaro: di cosa si parla?)
 
         - immagini: non usare link shortener per immagini
 
