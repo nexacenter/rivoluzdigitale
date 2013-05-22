@@ -293,7 +293,7 @@ By Simone Basso, et al. &mdash; License: CC BY-SA 3.0 Unported
 - @venadavide: Principali browser in ordine cronologico: Mosaic Netscape
   IE Firefox Chrome 
 
-- @ripa_pepperipa: http://t.co/yc2xll22nF
+- @ripa_pepperipa: Mosaic http://t.co/yc2xll22nF
 
 - @SoFranchy: Uso del web, software necessari: browser lato client per
   leggere, webserver lato server per pubblicare.
