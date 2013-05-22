@@ -2,6 +2,373 @@
 
 By Simone Basso, et al. &mdash; License: CC BY-SA 3.0 Unported
 
+## 2013-05-22
+
+### @bassosimone
+
+- @Ale_Cannone: riduzione di pignoleria sui titoli da parte di @bassosimone :)
+
+- @DavidePalermo2: @bassosimone si consulta con gli studenti 
+
+- @Ale_Cannone: i prossimi feedback si baseranno sulla mailing list
+
+- @SabryKarate: @simonebasso sarà meno esigente per quanto riguarda
+  creatività dei titoli e lunghezza dei paragrafi. 
+
+- @SabryKarate: Ci potrebbe volere ancora un po' di tempo prima che sia
+  possibile iscriversi agli appelli d'esame. Don't worry
+
+- @SabryKarate: E' richiesto registrare e pubblicare sul blog almeno un
+  video per ogni gruppo. 
+
+### @demartin
+
+#### Recap: Internet, TCP/IP
+
+- @Xfox1: nelle puntate precedenti: Che cosa è Internet? Come è governato
+  Internet!
+
+- @Xfox1: i nodi della rete sono computer (router)
+
+- @Xfox1: protocollo IP più TCP! Modalità di comunicazione!
+
+- @Xfox1: TCP gestisce la connessione da nodo a nodo
+
+- @SabryKarate: Internet: Commutazione di pacchetto + rete distribuita e
+  ridondata, unite al digitale. 
+
+- @StefanoFranz20: TCP: recupera pacchetti persi, mette i pacchetti in
+  ordine e regola il flusso. Funzioni che l'IP non ha.
+
+- @EmaParrinello: Sintesi sul TCP: recupero pacchetti persi, mette i
+  pacchetti in ordine, regola il flusso.
+
+- @Carrattrezzi: Riepilogo delle puntate precedenti: commutazione pacchetti,
+  rete distribuita e ridondante, tcp, ip, decisioni su internet 
+
+- @Ale_Cannone: TCP: recupero pacchetti persi, mette i pacchetti in ordine
+  e regola il flusso (tutto ciò che non fa l'IP)
+
+- @ripa_pepperipa: la rete di reti comunica attraverso i procolli IP e TCP
+
+- @Ale_Cannone: IETF, IANA, ICANN, ISOC, IAR: enti non ministeriali che
+  governano internet
+
+- @stufi93: Quelli che usavano internet erano anche quelli che lo governavano
+
+- @EmaParrinello: Agli arbori di Internet, per parecchi anni Amministratori
+  e utenti coincidevano
+
+- @SabryKarate: @demartin ricorda che Internet non è gestito da alcun
+  Ministero. Perciò non è sottomesso alla politica. 
+
+- @stufi93: La legge è uguale per tutti... Anche su internet
+
+#### Web
+
+- @DavidePalermo2: Trattiamo ora il Web (differenza con Internet) 
+
+- @SabryKarate: Le leggi del mondo reale valgono anche per il mondo virtuale. 
+
+- @stufi93: La posta elettronica è stata la prima grande applicazione
+  di Internet
+
+- @SabryKarate: Posta elettronica è stata la prima applicazione di Internet. 
+
+- @DavidePalermo2: Pagina Wikipedia di Tim Berners-Lee http://t.co/ECfHwqnO1p 
+
+- @EnricoBello20: Tim Berners-Lee creò il World Wide Web (WWW), la prima
+  grande "applicazione" (dopo le mail) che si appoggia su Internet
+
+- @EmaParrinello: "Gopher" è stato un applicativo di internet con
+  caratteristiche in parte analoghe a quelle del Web
+
+- @SabryKarate: Nella tecnologia Pre-Web: dopo aver scaricato un file,
+  c'è bisogno di diversi applicativi per aprire i vari tipi di file. 
+
+- @SoFranchy: Prima del web collegamento ai nodi tramite IP address se
+  dotati di user e pw. File reperiti solo tramite nomi, no contenuti
+
+- @Rexsimo893: Web e Internet non sono la stessa cosa 
+
+- @FabioVallone: Il CERN produce moltissimi documenti e dati su
+  sistemi diversi 
+
+- @GiGirgenti: Il CERN produce moltissimi documenti e dati su sistemi
+  differenti
+
+- @ripa_pepperipa: all'interno del CERN sono presenti migliaia di documenti
+  e dati su sistemi diversi
+
+- @SoFranchy: Tim Berners Lee vuole migliorare il modo di condividere dati
+  e ricerche del Cern in modo semplice
+
+- @SabryKarate: Web != Internet Infatti il Web è una applicazione su
+  Internet. Il Web funziona grazie ad Internet. 
+
+- @DavidePalermo2: Ripropongo Pagina Wikipedia di Tim
+  Berners-Lee http://t.co/ECfHwqnO1p 
+
+- @VadimCujba: Internet= STRUTTURA WEB=SOVRASTRUTTURA 
+
+- @SoFranchy: ...cerca un modo per creare una ragnatela di documenti
+  leggibili su tutti i nodi. Collegamento e lettura standard.
+
+- @Ale_Cannone: CERN: avevano un problema nel condividere i molti documenti
+  e cercavano un modo per consultare i doc senza scaricarli
+
+- @FabioVallone: Il problema più grosso è come riuscire ad aprire un
+  determinato file da tutti i sistemi operativi 
+
+- @Enzocarlino2: Il baronetto Tim Berners-Lee
+
+- @SabryKarate: Cern ha cercato un modo per: standardizzare la pubblicazione
+  di documenti online e permettere di fruirne più facilmente. 
+
+- @SabryKarate: Bisogna svincolarsi dagli applicativi: serve un programma
+  di descrizione dei testi, che sia flessibile. 
+
+- @Enzocarlino2: Testi flessibili per i pc
+
+- @EmaParrinello: Tim Berners-Lee inventa il Web per necessità, non pensava
+  di cambiare il mondo
+
+#### HTML (HyperText Markup Language)
+
+- @SoFranchy: Per creare il web: 1. Linguaggio standard di composizione di
+  testi graficamente sensibili 2. Linkare contenuti tra loro
+
+- @Ale_Cannone: CERN: le features della nuova applicazione dovevano essere
+  un linguaggio con cui comporre testi e la possibilità di linkare
+
+- @DavidePalermo2: Pagina Wikipedia su HTML http://t.co/w0N9a0XOSa 
+
+- @ripa_pepperipa: per aprire i documenti in modo trasparente senza scaricarli
+  c'è bisogno di un linguaggio di descrizione dei testi
+
+- @bassosimone: Nota: Tim Bernes-Lee non e' l'inventore dell'ipertesto ma
+  utilizza questo concetto nel define HTML 
+
+- @SabryKarate: Introdotta la possibilità di inserire link ad altre pagine
+  Web. Ipertesto era già presente come concetto negli anni '40. 
+
+- @Rexsimo893: L'HTML è il metodo di formalizzazione del linguaggio per la
+  descrizione di testi che consente di linkare contenuti 
+
+- @SoFranchy: Tim Berners Lee crea HTML: linguaggio a marcatori per la
+  composizione di ipertesti. Formalizza così le 2 necessità del Web.
+
+- @EnricoBello20: HTML=HyperText Markup Language
+
+- @bassosimone: Con Firefox e Chrome Ctrl+U per vedere il sorgente HTML
+  della pagina 
+
+- @MorenoLaQuatra: .@bassosimone forse la domanda non ha nemmeno tanto
+  senso, ma il p2p usa il web? 
+
+- @bassosimone no, ad esempio uTorrent addirittura usa UDP e non TCP
+
+- @Rexsimo893: L'HTML è dotato di markup, metodi e strumenti che consentono
+  la formattazione del testo 
+
+- @ripa_pepperipa: per la visione di TBL: 1. Necessità di un linguaggio
+  ipertestuale standard HTML
+
+- @VadimCujba: HTML =Hyper Text Markup Language 
+
+- @SabryKarate: Per la visione di TBL occorre un linguaggio ipertestuale
+  standard, HTML (Hypertext Markup Language). 
+
+- @Rexsimo893: Per visualizzare il contenuto del Web serve un browser che
+  ti visualizza il codice sorgente HTML 
+
+- @Ale_Cannone: html non venne privatizzato ma era di pubblico dominio per
+  scelta di Tim Benners-Lee
+
+- @SoFranchy: Chiunque può creare il proprio browser: il programma standard,
+  di dominio pubblico, per leggere pagine in HTML.
+
+- @CaracciFabio: HTML (HyperText MarkupLanguage) inventato da Sir Tim
+  Berners-Lee. 
+
+- @SabryKarate: Protocollo: Modalità standard per richiedere ad un altro
+  nodo la pagina di un certo sito e riceverla sul proprio device. 
+
+- @SoFranchy: Web + TCP/IP: avvengono, come prima del Web, richiesta e
+  scaricamento dei file ma senza che l'utente se ne accorga.
+
+#### HTTP (HyperText Transfer Protocol)
+
+- @bassosimone: HTTP: protocollo (modalita' standard) di richiedere e
+  ricevere risorse sul web 
+
+- @ripa_pepperipa: 2. Indispensabile inoltre un protocollo per negoziare
+  gli scambi! ---&gt; protocollo HTTP
+
+- @Carrattrezzi: Tim Berners-Lee crea il web basato su file HTML (di libero
+  accesso e indipendende dallo schermo) e scambiati con HTTP 
+
+- @DavidePalermo2: Hypertext Transfer Protocol - Wikipedia
+  http://t.co/AMIo1I1lXl 
+
+- @SabryKarate: Protocollo standard: HTTP. HyperText Transfer Protocol.
+  N.B.: Funziona anche con gli indirizzi IP. 
+
+- @SoFranchy: HTTP hyper text transfer protocol è il protocollo che regola
+  gli scambi di pagine html tra nodi di Internet tramite il Web.
+
+- @VadimCujba: HTTP=Hyper Text Transfer protocoll
+
+- @Rexsimo893: HTML + HTTP --&gt; invenzioni chiave pro Web 
+
+- @ripa_pepperipa: navigare su internet significa chiedere la risorsa e
+  rispedirla secondo un protocollo HTTP
+
+- @93_checco: Http hyper text transfer protocol
+
+- @MarcoViccica: HTTP: necessario per trasferire ipertesti 
+
+#### URL (Uniform Resource Locator)
+
+- @SabryKarate: Specifica sintassi per indicare un indirizzo specifico:
+  URL "Uniform Resource Locator" 
+
+- @SoFranchy: Trovare nodi e dati tramite il web: using URL, Uniform
+  Resource Locator
+
+- @DavidePalermo2: Uniform Resource Locator - Wikipedia
+  http://t.co/c3kyKOTdXj 
+
+- @93_checco: Url uniforme resource locator
+
+- @venadavide: URL: Uniform Resource Locator 
+
+- @Carrattrezzi: Uniform Resource Locator URL è la parte dell'HTTP che
+  gestisce in modo univoco le risorse sul Web 
+
+- @VadimCujba: URL=Uniforme Resource Locator 
+
+- @FabioVallone: HTTP = HyperText Transfer Protocol 
+
+- @ripa_pepperipa: esempio di URL ---&gt; http://
+
+- @MorenoLaQuatra: La differenza tra un http e un https sta semplicemente
+  nella s di sicurezza!? Il protocollo è del medesimo tipo!? 
+
+    - @bassosimone si', quando usi https tra TCP e HTTP c'e' del codice che
+      cifra / decifra il tuo traffico
+
+- @FabioVallone: se voglio andare su un sito ma non specifico la pagina, mi
+  reindirizza su index.html (di solito è la Homepage) 
+
+- @SimoneBleynat: HTML + HTTP + URL. Giuro che non sto urlando 
+
+- @SabryKarate: 404 Not Found. La pagina richiesta non è stata trovata.
+  Usually, quando l'URL non è stato indicato in modo corretto. 
+
+- @SabryKarate: Interessante, HTTP su Wikipedia: http://t.co/2bQiIXA9Cq 
+
+- @_FedericoConte: URL : Uniform Resource Locator http://t.co/D2ELmUCefG 
+
+#### Browser e Server Web
+
+- @93_checco: Il primo browser fu mosaic
+
+- @SabryKarate: Browser, traducibile con il termine "Sfogliatore" Il primo
+  browser è stato Mosaic. 
+
+- @MarcoViccica: Primo browser realizzato: Mosaic
+
+- @FabioVallone: I browser di oggi sono molto potenti in quanto hanno
+  all'interno anche visualizzatori di immagini, video,.. 
+
+- @SabryKarate: Un browser include molti programmi che permettono la
+  visualizzazione di svariati contenuti di diverse estensioni. 
+
+- @ripa_pepperipa: il primo vero Browser =&gt; Mosaic .. http://t.co/EwU2jB7EQR
+
+- @Clerish: I browser di oggi sono molto pesanti a causa della loro
+  capacità di visualizzare immagini e video 
+
+- @venadavide: Principali browser in ordine cronologico: Mosaic Netscape
+  IE Firefox Chrome 
+
+- @ripa_pepperipa: http://t.co/yc2xll22nF
+
+- @SoFranchy: Uso del web, software necessari: browser lato client per
+  leggere, webserver lato server per pubblicare.
+
+- @FabioVallone: web server è installato su un computer con IP
+  pubblico (statico) 
+
+- @EnricoBello20: Web Server: permette di pubblicare un file; necessita di
+  un computer con IP pubblico e statico 
+
+- @FabioVallone: IP dinamico=cambia ad ogni connessione; IP statico=rimane
+  invariato ad ogni connessione; 
+
+- @bassosimone: due server web notevoli sono Apache httpd
+  (http://t.co/CuBt231XMb) e nginx (http://t.co/opM0oNyjzn)
+
+- @SabryKarate: Un Web Server è installato su un computer(sempre acceso) con
+  IP pubblico statico. Normalmente i computer hanno IP dinamico. 
+
+- @SoFranchy: Il server computer deve avere un indirizzo IP pubblico STATICO
+  poiché deve essere reperibile nome_dominio-IP nel DNS.
+
+- @SabryKarate: Il Web Server interpreta richieste http e poi risponde
+  inviando la pagina richiesta. 
+
+- @venadavide: Apache, software libero e gratuito 
+
+- @Carrattrezzi: Berners Lee pubblica oltre che di HTTP e HTML anche un
+  browser e un Web server perchè si possano leggere e scrivere pagine 
+
+- @SabryKarate: Non tutti possono permettersi la gestione di un Web Server,
+  perciò sono nate piattaforme come: Tumblr, Flickr,... 
+
+- @ripa_pepperipa: la maggioranza dei siti web al mondo usano il Web
+  Server Apache
+
+- @bassosimone: ultima survey Netcraft sui server web piu'
+  diffusi | http://t.co/Sd0SoSDiCT
+
+#### Riassunto finale
+
+- @SabryKarate: Internet nato nel 1969, permette la condivisione di dati
+  a pacchetto.Numerose applicazioni funzionano grazie a questa rete. 
+
+- @SabryKarate: Successivamente, negli anni '90 è stato aggiunto il Web,
+  per avere una modalità standard di fornire contenuti online. 
+
+- @SabryKarate: By the way, prima del Web era molto meno intuitivo l'uso
+  di Internet... 
+
+#### Concetto di "Read-Write Web"
+
+- @SabryKarate: Il Web è nato subito come Read-Write Web: con l'intenzione
+  di permettere a tutti di consultare e pubblicare contenuti. 
+
+- @Clerish: Il concetto di Tim Berners-Lee era quello di un
+  "Read-Write Web", in cui tutti danno il loro contributo. 
+
+- @bassosimone: Tim Berners-Lee fin dall'inizio pensa a un
+  "read-write web" (i.e. deve anche essere facile pubblicare)
+
+- @Carrattrezzi: Berners Lee pensa il web come "read-Write web"
+  dove chiunque può leggere e scrivere facilmente 
+
+- @SoFranchy: Tim Berners Lee vuole che il Web sia Read-Write Web
+
+- @ripa_pepperipa: il concetto di Tim Berners-Lee sul Web è: Read Write Web
+
+- @Ale_Cannone: TBL voleva un read write web in cui chiunque poteva
+  leggere e pubblicare qualcosa
+
+- @SabryKarate: Dopo questa lezione, si può affermare di conoscere la
+  differenza tra Internet e Web. Thanks to @demartin 
+
+
 ## 2013-05-17
 
 ### @demartin
