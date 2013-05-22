@@ -166,7 +166,7 @@ By Simone Basso, et al. &mdash; License: CC BY-SA 3.0 Unported
 - @MorenoLaQuatra: .@bassosimone forse la domanda non ha nemmeno tanto
   senso, ma il p2p usa il web? 
 
-- @bassosimone no, ad esempio uTorrent addirittura usa UDP e non TCP
+    - @bassosimone no, ad esempio uTorrent addirittura usa UDP e non TCP
 
 - @Rexsimo893: L'HTML è dotato di markup, metodi e strumenti che consentono
   la formattazione del testo 
