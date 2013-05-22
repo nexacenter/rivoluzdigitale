@@ -81,8 +81,6 @@
  * done
  *
  * --- end notes ---
- *
- * TODO reverse sort tweets before printing them.
  */
 
 package main
@@ -454,7 +452,7 @@ func (TwitterBot) JsonProcessTweets(data []byte) error {
         }
     }
     slice := result.([]interface{})
-    for i := 0; i < len(slice); i += 1 {
+    for i := len(slice) - 1; i >= 0; i -= 1 {
         if reflect.TypeOf(slice[i]).Kind() != reflect.Map {
             return errors.New("internal object is not a map")
         }
