@@ -12,7 +12,7 @@ By Simone Basso, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 - @Ale_Cannone: i prossimi feedback si baseranno sulla mailing list
 
-- @SabryKarate: @simonebasso sarà meno esigente per quanto riguarda
+- @SabryKarate: @bassosimone sarà meno esigente per quanto riguarda
   creatività dei titoli e lunghezza dei paragrafi. 
 
 - @SabryKarate: Ci potrebbe volere ancora un po' di tempo prima che sia
