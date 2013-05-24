@@ -41,7 +41,7 @@ In @Tech_OnTheRoad
 
         - fonti: non applicabile
 
-        - paragrafi: non applicabile
+        - paragrafi: no
 
         - tipo: breve riflessione personale
 
@@ -61,17 +61,9 @@ In @SIAMoMusicPills
           metti, nel testo, i link ai VST usa <a href e non dei link
           cosi` tanto lunghi
 
-        - paragrafi: i paragrafi sono buoni, ma scrivi in un modo un
-          po' difficile da leggere (forse e' un effetto del fatto
-          che ti stai esercitando a scrivere paragrafi corti?).
-
-          Perche` "Eccelsa" e non "eccelsa"?
-
-          "Salmples"
-
-          Ogni tanto (credo) usi "plugin" per "programma"?
-
-          Devi scegliere con piu` accuratezza le parole da usare.
+        - paragrafi: quasi-ok (i paragrafi sono buoni, ma scrivi in un modo un
+                               po' difficile da leggere, e scegli in modo
+                               piu' accurato le parole da usare)
 
         - tipo: monografia
 
@@ -86,7 +78,7 @@ In @SIAMoMusicPills
 
         - fonti: ok
 
-        - paragrafi: no spazio dopo "(" e prima di ")", altrimenti ok
+        - paragrafi: ok (no spazio dopo "(" e prima di ")")
 
         - tipo: tutorial
 
@@ -116,8 +108,7 @@ In @SIAMoMusicPills
 
         - fonti: quasi-ok, non usare "qui": fa troppo anni '90
 
-        - paragrafi: abbastanza, ma puoi spezzare ancora di piu`; no spazio
-          dopo "(" e prima di ")".
+        - paragrafi: ok (no spazio dopo "(" e prima di ")")
 
         - tipo: panoramica corredata da esperienza
 
@@ -132,10 +123,7 @@ In @SIAMoMusicPills
 
         - fonti: quasi-ok ("ecco un estratto..." da cosa?)
 
-        - paragrafi: troppo lunghi e filo logico un po' difficile da seguire;
-          mi e' piaciuto molto il riferimento ai precedenti e successivi
-          post sul blog, perche` da l'idea che ci sia un progetto dietro il
-          blog
+        - paragrafi: quasi-ok (difficile seguire filo logico)
 
         - tipo: riflessione personale (mi e' piaciuto molto il riferimento
           al satyricon)
@@ -152,8 +140,7 @@ In @SIAMoMusicPills
         - fonti: mancano link che possano aiutare chi non e' esperto
           del settore a capire meglio di cosa parli
 
-        - paragrafi: poco - sono contro a mettere un titoletto ogni
-          2-3 paragrafi, e soprattutto e' scritto male
+        - paragrafi: abbastanza (mi sembra scritto abbastanza male)
 
         - tipo: esperienza personale
 
@@ -168,7 +155,7 @@ In @SIAMoMusicPills
 
         - fonti: non chiarissimo
 
-        - paragrafi: ok ma fai troppi salti logici
+        - paragrafi: quasi-ok (fai troppi salti logici)
 
         - tipo: riflessione
 
@@ -183,9 +170,7 @@ In @SIAMoMusicPills
 
         - fonti: ok
 
-        - paragrafi: abbastanza (ok che ci sono i paragrafi, ma ci
-          sono anche errori grammaticali e il discorso e' un po'
-          confuso)
+        - paragrafi: quasi-ok (discorso un po' confuso)
 
         - tipo: riflessione documentata
 
@@ -202,7 +187,7 @@ In @tech_mondo
 
         - fonti: ok
 
-        - paragrafi: too large
+        - paragrafi: ok
 
         - tipo: panoramica
 
@@ -217,7 +202,7 @@ In @tech_mondo
 
         - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ok
 
         - tipo: review
 
@@ -236,7 +221,7 @@ In @tech_mondo
           della fusione fredda con l'aiuto di Wikipedia")
 
         - paragrafi: quasi-ok (non ho capito subito dov'erano i paragrafi
-          e penso dipenda dalla grafica del sito)
+                               e penso dipenda dalla grafica del sito)
 
         - tipo: monografia
 
@@ -251,7 +236,7 @@ In @tech_mondo
 
         - fonti: ok
 
-        - paragrafi: troppo lunghi, e non e' scritto benissimo
+        - paragrafi: quasi-ok (non e' scritto benissimo)
 
         - tipo: approfondimento
 
@@ -267,7 +252,7 @@ In @tech_mondo
         - fonti: ok
 
         - paragrafi: quasi-ok (poco curato in alcuni a capi, mancano
-          spazi prima di "(" e dopo ")")
+                               spazi prima di "(" e dopo ")")
 
         - tipo: approfondimento
 
@@ -285,8 +270,8 @@ In @RivoluzionArti
 
         - fonti: ok
 
-        - paragrafi: abbastanza (non usare "?" multipli, fai un po'
-          di salti logici e non hai una tesi coerentissima)
+        - paragrafi: quasi-ok (non usare "?" multipli, fai un po' di salti
+                               logici e non hai una tesi coerentissima)
 
         - tipo: riflessione personale
 
@@ -303,7 +288,7 @@ In @RivoluzionArti
         - fonti: abbastanza (ma avresti fatto meglio a linkare all'annuncio
           di un possibile "iClock" invece di linkare Apple su Wikipedia)
 
-        - paragrafi: troppo lunghi, articolo poco chiaro
+        - paragrafi: quasi-ok (articolo poco chiaro)
 
         - tipo: panoramica
 
@@ -321,7 +306,7 @@ In @A_Intelligence_
         - fonti: quasi-ok (al fondo)
 
         - paragrafi: quasi-ok (visto alto numero di sezioni, mettile come prima
-          frase dei paragrafi, sempre in grassetto)
+                               frase dei paragrafi, sempre in grassetto)
 
         - tipo: review
 
@@ -336,7 +321,7 @@ In @A_Intelligence_
 
         - fonti: ok
 
-        - paragrafi: medio (poco curato, lunghi)
+        - paragrafi: abbastanza (poco curato, paragrafi lunghi)
 
         - tipo: intro abbastanza approfondita
 
@@ -353,10 +338,8 @@ In @A_Intelligence_
           home page di un sito mi sembra troppo generico; qual e' la fonte
           esatta della citazione di Asimov?
 
-        - paragrafi: articolo troppo corto per dividerlo in capitoletti, usa,
-          semmai, la tecnica dei mettere in grassetto le prime frasi quando
-          queste sono significative; buona lunghezza dei paragrafi, pero'; la
-          progressione del testo potrebbe essere piu` coerente
+        - paragrafi: quasi-ok (non dividere in capitoletti perche' e' troppo
+                               corto, testo non coerentissimo)
 
         - tipo: monografia
 
@@ -372,8 +355,9 @@ In @A_Intelligence_
         - fonti: meglio se metti le fonti inline nel testo, e anche quando
           citi e' molto meglio se usi le virgolette
 
-        - paragrafi: abbastanza, ma non andare punto-a-capo nel mezzo
-          di un paragrafo. Punto-a-capo e riga vuota solo a fine paragrafo
+        - paragrafi: abbastanza (non andare punto-a-capo nel mezzo di un
+                                 paragrafo; punto-a-capo e riga vuota solo
+                                 a fine paragrafo)
 
         - tipo: monografia
 
@@ -391,7 +375,7 @@ In @watchDogSystem
         - fonti: abbastanza (immagino fonte principale sia wikipedia
           piu` cose che sai, ma non dici esplicitamente)
 
-        - paragrafi: quasi-ok (un po' lunghi a volte)
+        - paragrafi: ok (un po' lunghi a volte)
 
         - tipo: approfondimento
 
@@ -436,7 +420,7 @@ In @d_transport
 
         - fonti: non chiarissime
 
-        - paragrafi: wall of text
+        - paragrafi: male
 
         - tipo: monografia
 
@@ -451,7 +435,7 @@ In @d_transport
 
         - fonti: no fonti (why?)
 
-        - paragrafi: troppo lunghi
+        - paragrafi: abbastanza (troppo lunghi)
 
         - tipo: riflessione
 
@@ -467,7 +451,7 @@ In @d_transport
 
         - fonti: ok
 
-        - paragrafi: quasi-ok (ce n'e` uno un po' troppo lungo)
+        - paragrafi: ok (occhio c'e' un paragrafo troppo lungo)
 
         - tipo: wikipedia++
 
@@ -484,7 +468,7 @@ In @rd_informazione
 
         - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ok
 
         - tipo: riflessione personale
 
@@ -520,9 +504,10 @@ In @Gioco_Azzardato
 
         - fonti: non usare bit.ly per le fonti, usa <a href
 
-        - paragrafi: inserisci riga vuota prima e dopo di ciascun elemento
-          dell'elenco numerato e/o "puntato" (scusa il gioco di parole);
-          non hai curato molto il testo (punteggiatura etc)
+        - paragrafi: quasi-ok (inserisci riga vuota prima e dopo di ciascun
+                               elemento dell'elenco numerato e/o "puntato"
+                               (scusa il gioco di parole); non hai curato
+                               molto il testo (punteggiatura etc))
 
         - tipo: monografia
 
@@ -542,9 +527,9 @@ In @Gioco_Azzardato
           capisca in modo molto chiaro che stai citando, per esempio usando
           le virgolette e/o accorgimenti grafici
 
-        - paragrafi: non molto bene (da un lato ci sono paragrafi lunghi, e
-          dall'altro non mi piace che tu inserisca punto-a-capo dentro ai
-          paragrafi stessi)
+        - paragrafi: abbastanza (da un lato ci sono paragrafi lunghi, e
+                                 dall'altro non mi piace che tu inserisca
+                                 punto-a-capo dentro ai paragrafi stessi)
 
         - tipo: monografia
 
@@ -563,7 +548,8 @@ In @Cine_Revolution
         - fonti: ok
 
         - paragrafi: abbastanza (ricorda di non andare punto-a-capo dentro
-          il paragrafo), e non hai scritto in modo chiarissimo
+                                 il paragrafo, e non hai scritto in modo
+                                 chiarissimo)
 
         - tipo: segnalazione
 
@@ -580,9 +566,9 @@ In @PhotoRevo
         - fonti: se possibile, metti comunque un link al libro (che ne
           so, su Amazon)
 
-        - paragrafi: un po' lunghi all'inizio (meglio verso la fine),
-          preferisci la forma attiva al passivo, mancano alcuni connettivi
-          (tipo, alcuni "che")
+        - paragrafi: quasi-ok (paragrafi un po' lunghi, preferisci la forma
+                               attiva al passivo, mancano alcuni connettivi,
+                               tipo, alcuni "che")
 
         - tipo: prospettiva storica
 
@@ -628,7 +614,7 @@ In @PhotoRevo
 
         - fonti: ok
 
-        - paragrafi: un po' lunghi
+        - paragrafi: ok
 
         - tipo: prospettiva
 
@@ -647,9 +633,9 @@ In vitanelvirtuale
         - fonti: quasi-ok (meglio se il link, invece di essere in fondo,
           viene integrato nel discorso)
 
-        - paragrafi: buono (come dimensione in se' i paragrafi mi
-          vanno bene; tuttavia i salti tra i paragrafi mi sembrano
-          ancora un po' spigolosi)
+        - paragrafi: quasi-ok (come dimensione in se' i paragrafi mi vanno
+                               bene; tuttavia i salti tra i paragrafi mi
+                               sembrano ancora un po' spigolosi)
 
         - tipo: segnalazione
 
@@ -715,7 +701,7 @@ In @webcracity
 
         - fonti: ok
 
-        - paragrafi: abbastanza (qualche salto logico)
+        - paragrafi: quasi-ok (qualche salto logico)
 
         - tipo: riflessione personale
 
@@ -733,8 +719,8 @@ In @webcracity
           crazia non sono imprescindibili", idem quando citi De Martin devi
           dire dove ha detto quello che tu dici che ha detto)
 
-        - paragrafi: abbastanza (ma dovevi spezzare, per esempio, quando
-          introduci Liquid Feedback)
+        - paragrafi: ok (ma dovevi spezzare, per esempio, quando introduci
+                         Liquid Feedback)
 
         - tipo: riflessione
 
@@ -768,7 +754,7 @@ In @socialneid
 
         - fonti: ok
 
-        - paragrafi: a parte un paio di paragrafi troppo lunghi, ok
+        - paragrafi: ok
 
         - tipo: monografia
 
@@ -783,7 +769,7 @@ In @socialneid
 
         - fonti: ok
 
-        - paragrafi: ancora troppo corposi
+        - paragrafi: ok
 
         - tipo: monografia
 
@@ -831,11 +817,9 @@ In @theXenGine
 
         - fonti: meglio inline che in fondo
 
-        - paragrafi: non mi piace molto il testo con tutti quei
-          separatori orizzontali, why?
-
-          i primi 3/4 dell'articolo sono scritti bene, mi piacciono molto
-          meno gli ultimi 2 paragrafi (dove c'e` anche un typo)
+        - paragrafi: quasi-ok (non mi piace molto il testo con tutti quei
+                               separatori orizzontali, why? typo verso fine
+                               dell'articolo)
 
         - tipo: segnalazione piu` panoramica storica
 
@@ -851,8 +835,7 @@ In @theXenGine
 
         - fonti: ok
 
-        - paragrafi: abbastanza (ma non e' scritto in modo
-          scorrevolissimo)
+        - paragrafi: quasi-ok (ma non e' scritto in modo scorrevolissimo)
 
         - tipo: approflessione (approfondimento che sconfina in
           riflessione)
@@ -871,7 +854,7 @@ In scattoaldigitale
 
         - fonti: non chiaro
 
-        - paragrafi: quasi-ok (usa meno il ";")
+        - paragrafi: ok
 
         - tipo: prospettiva storica
 
@@ -886,7 +869,7 @@ In scattoaldigitale
 
         - fonti: boh
 
-        - paragrafi: medio (poco curato, Zuckemberg?!)
+        - paragrafi: quasi-ok (poco curato, Zuckemberg?!)
 
         - tipo: brevissima monografia
 
@@ -903,7 +886,7 @@ In gruppodalm
 
         - fonti: quasi-ok (non guastava un link diretto al progetto del MIT)
 
-        - paragrafi: quasi-ok (un paio di frasi troppo lunghe)
+        - paragrafi: ok
 
         - tipo: approfondimento (spiego: non e' una monografia perche`
           tocca due temi)
@@ -935,7 +918,7 @@ In gruppodalm
 
         - fonti: non ne vedo
 
-        - paragrafi: lunghi (inizio e fine scritti molto bene e scorrevoli)
+        - paragrafi: ok
 
         - tipo: segnalazione
 
@@ -955,10 +938,7 @@ In guidadigitale
 
         - fonti: quasi-ok (non chiarissima fonte della citazione finale)
 
-        - paragrafi: quasi-ok (puoi spezzare ancora, bene l'uso della prima
-          frase in grassetto con funzione simile al titolo, ma considera che
-          non e' obbligatorio che la metti in tutti i paragrafi), articolo
-          comunque molto bello.
+        - paragrafi: ok
 
         - tipo: approfondimento
 
@@ -975,9 +955,10 @@ In guidadigitale
           reboot: mi aspettavo qualcosa tipo "nella comunita` dei
           video-giocatori" + link)
 
-        - paragrafi: abbastanza, ma non mi piace il fatto che dai un
-          titolo quasi a ogni paragrafo. Meglio, allora mettere una
-          frase in grassetto all'inizio di ogni paragrafo.
+        - paragrafi: quasi-ok (ma non mi piace il fatto che dai un titolo
+                               quasi a ogni paragrafo; meglio, allora mettere
+                               una frase in grassetto all'inizio di ogni
+                               paragrafo)
 
         - tipo: panoramica + esperienza personale
 
@@ -992,9 +973,8 @@ In guidadigitale
 
         - fonti: ok
 
-        - paragrafi: bravissimo per come lo hai scritto, ma non mi tornano
-          molto le frasi in grassetto che usi per spezzarlo (sono titoli
-          di sottoparagrafi?)
+        - paragrafi: quasi-ok (non mi piacciono molto le frasi in grassetto
+                               che usi per spezzare i paragrafi)
 
         - tipo: recensione
 
@@ -1011,9 +991,7 @@ In libertaneldigitale
 
         - fonti: meglio nel testo che in fondo
 
-        - paragrafi: quasi-ok (nota: l'articolo e' abbastanza lungo da
-          giustificare la separazione in due sezioni), paragrafi un
-          po' lunghi
+        - paragrafi: ok
 
         - tipo: +++ BREAKING +++
 
@@ -1028,7 +1006,7 @@ In libertaneldigitale
 
         - fonti: meglio inline che in fondo
 
-        - paragrafi: troppo ciccioni
+        - paragrafi: ok
 
         - tipo: riflessione documentata
 
@@ -1045,12 +1023,7 @@ In libertaneldigitale
 
         - fonti: ok (ottima la citazione inline con <a href)
 
-        - paragrafi: abbastanza (paragrafi un po' lunghi, ad esempio quello
-          col cud forse potevi anche spezzarlo; e ogni tanto fai qualche
-          errore grammaticale che distrae un po' chi legge; inoltre non e'
-          subito chiaro che le due sezioni sono collegate alla distinzione
-          che fai nell'ultimo paragrafo della intro, anche se apprezzo
-          molto l'idea)
+        - paragrafi: ok
 
         - tipo: approfondimento documentato
 
@@ -1067,8 +1040,7 @@ In libertaneldigitale
         - fonti: meglio averle nel testo che in fondo, inoltre non mi puoi
           mettere come fonte "wikipedia in generale"
 
-        - paragrafi: un po' lunghi, ma l'attacco (primo paragrafo) mi piace
-          moltissimo
+        - paragrafi: ok
 
         - tipo: monografia (potevi essere piu` critico e appronfondire molto
           di piu`, cosi` hai grattato solo la superficie)
@@ -1086,7 +1058,7 @@ In libertaneldigitale
         - fonti: discreto (c'e` un video, ma avresti potuto arricchire la
           tua molto-interessante riflessione con molte piu` fonti)
 
-        - paragrafi: quasi-ok (a tratti un po' lunghi)
+        - paragrafi: ok
 
         - tipo: riflessione
 
@@ -1103,7 +1075,7 @@ In @BlogTDW
 
         - fonti: ok
 
-        - paragrafi:
+        - paragrafi: ok
 
         - tipo: breve approfondimento
 
@@ -1122,7 +1094,7 @@ In @BlogTDW
 
         - fonti: poche fonti
 
-        - paragrafi: un po' troppo lunghi, potevi spezzare di piu`
+        - paragrafi: ok
 
         - tipo: panoramica storica
 
@@ -1137,7 +1109,7 @@ In @BlogTDW
 
         - fonti: ok
 
-        - paragrafi: ok, ma usi in modo "strano" citazione
+        - paragrafi: ok (ma usi in modo "strano" citazione)
 
         - tipo: intervista
 
@@ -1157,8 +1129,9 @@ In @BlogTDW
           devi anche un po' contestualizzare quello che stai dicendo, ad esempio
           citando wikipedia)
 
-        - paragrafi: lascia riga vuota dopo ogni elemento della lista e non
-          andare punto-a-capo dentro un paragrafo
+        - paragrafi: abbastanza (lascia riga vuota dopo ogni elemento della
+                                 lista e non andare punto-a-capo dentro un
+                                 paragrafo)
 
         - tipo: tutorial
 
@@ -1191,10 +1164,12 @@ In @BlogTDW
           di calabresi)
 
         - paragrafi: quasi-ok (apprezzo molto i paragrafi corti e ben
-          digeribili, ma ogni tanto sei stato troppo sintetico, come quando
-          descrivi le due "sezioni" che ti sono piaciute di piu`: avresti
-          dovuto dire "La sezione 'si va in stampa' ", per esempio, per
-          non lasciare implicito che quello e' il nome di una sezione)
+                               digeribili, ma ogni tanto sei stato troppo
+                               sintetico, come quando descrivi le due
+                               "sezioni" che ti sono piaciute di piu`: avresti
+                               dovuto dire "La sezione 'si va in stampa' ",
+                               per esempio, per non lasciare implicito che
+                               quello e' il nome di una sezione)
 
         - tipo: reportage
 
@@ -1212,9 +1187,9 @@ In @SpecialEff_Team
 
         - fonti: meglio inline che al fondo
 
-        - paragrafi: quasi-ok
+        - paragrafi: ok
 
-        - tipo: breve monografia
+        - tipo: molto breve monografia
 
         - tag: no
 
@@ -1228,8 +1203,8 @@ In @SpecialEff_Team
 
         - fonti: non usare bit.ly (bene il "mymovies lo ricorda cosi")
 
-        - paragrafi: un po' lunghi e i link bit.ly nel mezzo rendono
-          confuso il filo del discorso
+        - paragrafi: quasi-ok (i link bit.ly nel mezzo rendono confuso il
+                               filo del discorso)
 
         - tipo: monografia
 
@@ -1248,7 +1223,7 @@ In @arduinoallinclu
 
         - fonti: ok
 
-        - paragrafi: quasi-ok (sono ancora un po' lunghi)
+        - paragrafi: ok
 
         - tipo: intervista
 
@@ -1263,7 +1238,7 @@ In @arduinoallinclu
 
         - fonti: ok (bene che siano inline!)
 
-        - paragrafi: quasi-ok (overlap con immagine)
+        - paragrafi: ok
 
         - tipo: review
 
@@ -1280,7 +1255,7 @@ In @websocialblog
 
         - fonti: no (why?)
 
-        - paragrafi: un po' lunghi
+        - paragrafi: ok
 
         - tipo: riflessione personale
 
@@ -1312,8 +1287,8 @@ In @websocialblog
         - fonti: non capisco la fonte principale (se la fonte principale sei
           tu perche` lo sai, allora dovresti dirlo esplicitamente)
 
-        - paragrafi: non mi piace molto: ogni tanto ci sono "a capi" che
-          non ci dovrebbero essere, e qualche maxi-paragrafo
+        - paragrafi: abbastanza (ogni tanto ci sono "a capi" che non ci
+                                 dovrebbero essere)
 
         - tipo: panoramica
 
@@ -1348,7 +1323,8 @@ In @websocialblog
         - fonti: meglio avere le fonti inline
 
         - paragrafi: quasi-ok (bene la lunghezza dei paragrafi ma lettura
-          un po' difficoltosa e qualche typo, e.g., "socialcon")
+                               un po' difficoltosa e qualche typo, e.g.,
+                               "socialcon")
 
         - tipo: breve panoramica
 
@@ -1363,8 +1339,8 @@ In @websocialblog
 
         - fonti: ok
 
-        - paragrafi: abbastanza (non lasciare troppo spazio tra i
-          paragrafi, non sempre curatissimo)
+        - paragrafi: quasi-ok (non lasciare troppo spazio tra i paragrafi,
+                               non sempre curatissimo)
 
         - tipo: +++ BREAKING +++
 
@@ -1382,8 +1358,7 @@ In rd-ipod33giri
         - fonti: annega le fonti nel testo usando <a href, invece di
           metterle in fondo
 
-        - paragrafi: davvero troppo lunghi (by the way, MP3 e WAV non sono
-          generi musicali) e poco curato (punteggiatura)
+        - paragrafi: quasi-ok (poco curato nella punteggiatura)
 
         - tipo: riflessione personale
 
@@ -1399,7 +1374,7 @@ In rd-ipod33giri
 
         - fonti: ok la citazione del report.
 
-        - paragrafi: troppo lunghi; appropriato l'uso del corsivo
+        - paragrafi: ok (appropriato l'uso del corsivo)
 
         - tipo: non chiarissimo: un po' prospettiva storica, un po'
           segnalazione e commento del report FIMI
@@ -1416,8 +1391,8 @@ In rd-ipod33giri
         - fonti: quasi-ok (non si capisce benissimo la fonte delle due
           lunghe citazioni, anche se si puo` immaginare)
 
-        - paragrafi: non tanto bene (frasi troppo lunghe e paragrafi
-          troppo lunghi lo rendono un po' difficile da leggere)
+        - paragrafi: quasi-ok (frasi troppo lunghe e paragrafi troppo
+                               lunghi lo rendono un po' difficile da leggere)
 
         - tipo: monografia
 
@@ -1432,7 +1407,7 @@ In rd-ipod33giri
 
         - fonti: non chiara fonte principale
 
-        - paragrafi: abbastanza (testo poco fluido)
+        - paragrafi: quasi-ok (testo poco fluido)
 
         - tipo: riporta news
 
@@ -1457,18 +1432,17 @@ In @N_G_House
         - tag: ok
 
     "QUANTO E' SICURA LA CASA INTELLIGENTE?" <http://bit.ly/12VQOh3>
-      by @Ale_Cannone
+      by @Simon_Tumi
 
         - titolo: quasi-ok (NO UPPERCASE)
 
         - immagini: medio (il link corto a youtube e' ugly, fai, invece,
           l'embedding del video)
 
-        - fonti:
+        - fonti: quasi-ok
 
-        - paragrafi: non mi piace molto (poco curato, il testo non
-          scorre moltissimo, ti incasini un po' tra security
-          e safety)
+        - paragrafi: abbastanza (poco curato, il testo non scorre moltissimo,
+                                 ti incasini un po' tra security e safety)
 
         - tipo: monografia
 
@@ -1502,7 +1476,7 @@ In @Digimovement
         - fonti: cita per esteso un link a wikipedia, non si capisce bene
           se e' una citazione letterale (nel qual caso, usa le virgolette)
 
-        - paragrafi: un po' lunghi
+        - paragrafi: ok
 
         - tipo: monografia
 
@@ -1517,7 +1491,7 @@ In @Digimovement
 
         - fonti: quasi-ok (treccani non era linkabile?)
 
-        - paragrafi: abbastanza bene (orribile verde per grassetto)
+        - paragrafi: ok (orribile verde per grassetto)
 
         - tipo: ricerca su wikipedia
 
@@ -1532,7 +1506,7 @@ In @Digimovement
 
         - fonti: quasi-ok (meglio se sono inline)
 
-        - paragrafi: quasi-ok (il grassetto verde e' un pugno in un occhio :-)
+        - paragrafi: ok (il grassetto verde e' un pugno in un occhio :-)
 
         - tipo: wikipedia
 
@@ -1548,8 +1522,7 @@ In @Digimovement
 
         - fonti: invece di mettere tra parentesi i link, usa <a href
 
-        - paragrafi: quasi-ok (dovevi creare un nuovo paragrafo quando
-          sei passato a paralre di WEBFLEET mobile)
+        - paragrafi: ok
 
         - tipo: segnalazione
 
@@ -1567,13 +1540,7 @@ In @Guida_SO
 
         - fonti: ok
 
-        - paragrafi: hai riletto l'articolo? Hai scritto "bott" invece
-          di "boot" nella prima riga!
-
-          I paragrafi in se' non vanno male, ma il testo e' un po'
-          contorto e non si capisce molto bene.
-
-          Sintesi: poco curato
+        - paragrafi: abbastanza (poco curato)
 
         - tipo: segnalazione
 
@@ -1587,7 +1554,7 @@ In @Guida_SO
 
         - fonti: mancano molti link
 
-        - paragrafi: sembra una bozza
+        - paragrafi: male (sembra una bozza)
 
         - tipo: segnalazione
 
@@ -1604,14 +1571,7 @@ In gamechoc
 
         - fonti: non molte
 
-        - paragrafi: troppo lunghi (bene la prima frase in grassetto ma
-          considera che puoi anche avere paragrafi senza la frase in
-          grassetto), bravo per aver scritto il testo dal tuo punto di
-          vista, spiegando perche` ti piace, etc.
-
-              Dubbio: I Borgia erano a Firenze?
-
-              "Il fratello del presidente Repubblicano" ?
+        - paragrafi: ok
 
         - tipo: recensione
 
@@ -1641,7 +1601,7 @@ In gamechoc
 
         - fonti: non chiara
 
-        - paragrafi: quasi-ok (un po' lunghi)
+        - paragrafi: ok
 
         - tipo: segnalazione
 
@@ -1659,8 +1619,8 @@ In @DigitaleInCasa
 
         - fonti: potevi inserire piu` fonti
 
-        - paragrafi: abbastanza (i paragrafi vanno bene, ma il testo
-          e' poco scorrevole)
+        - paragrafi: quasi-ok (i paragrafi vanno bene, ma il testo e'
+                               poco scorrevole)
 
         - tipo: panoramica
 
@@ -1675,9 +1635,7 @@ In @DigitaleInCasa
 
         - fonti: ok
 
-        - paragrafi: abbastanza (avrei espanso molto di piu` il fatto che
-          e' un robot: descrivi le funzionalita` ma, visto anche il tema
-          del corso, avrei detto qualcosa in piu` su come funziona)
+        - paragrafi: ok
 
         - tipo: segnalazione
 
@@ -1708,8 +1666,8 @@ In @DigitaleInCasa
 
         - fonti: ok (e ottimo stile)
 
-        - paragrafi: quasi-ok (non si capisce bene la parte sul 3D: che
-          cos'e` quella tecnologia di nVidia?)
+        - paragrafi: quasi-ok (non si capisce bene la parte sul 3D: che cos'e`
+                               quella tecnologia di nVidia?)
 
         - tipo: recensione
 
@@ -1723,9 +1681,9 @@ In @DigitaleInCasa
         - immagini: spiegami "immagine non protetta..." [postare lo screenshot
           di un film e' eccezione consentita dal copyright]
 
-        - fonti: quasi-ok (quando dici "sorgono spontanei molti dubbi" mi
-          viene difficile pensare che tu non possa citare appunto alcuni di
-          quelli che hanno dubbi)
+        - fonti: ok (quando dici "sorgono spontanei molti dubbi" mi viene
+                     difficile pensare che tu non possa citare appunto alcuni
+                     di quelli che hanno dubbi)
 
         - paragrafi: quasi-ok (la parentesi su PKD e' troppo lunga); by the
           way "A voi il giudizio!" e' ridondante: stai postando su un blog
@@ -1761,7 +1719,7 @@ In evos4rd
 
         - fonti: poche
 
-        - paragrafi: i paragrafi sono corti ma il testo non e' chiaro
+        - paragrafi: quasi-ok (testo non chiarissimo)
 
         - tipo: riflessione personale
 
@@ -1808,7 +1766,7 @@ In @WorldWidePh
 
         - fonti: ok
 
-        - paragrafi: un po' lunghi
+        - paragrafi: ok
 
         - tipo: storia di qualcosa
 
@@ -1854,7 +1812,7 @@ In @virality
 
         - fonti: ok
 
-        - paragrafi: poco curato
+        - paragrafi: abbastanza (poco curato)
 
         - tipo: spunti
 
@@ -1869,7 +1827,7 @@ In @virality
 
         - fonti: ok
 
-        - paragrafi: quasi-ok (metti spazio dopo il punto)
+        - paragrafi: ok (metti spazio dopo il punto)
 
         - tipo: estremamente breve segnalazione (avrei preferito di gran
           lunga se tu avessi fatto anche un breve riassunto di quello che
@@ -1929,11 +1887,11 @@ In the-easy-life
 
         - titolo: quasi-ok (perche` "con"?)
 
-        - immagini: yeah
+        - immagini: ok
 
         - fonti: ok
 
-        - paragrafi: quasi-ok (alcune frasi un po' lunghe)
+        - paragrafi: ok
 
         - tipo: monografia
 
@@ -1950,8 +1908,8 @@ In @RealtAumentat
         - fonti: quasi-ok (link su "qui" e "questo filmato" fa
           molto, troppo anni '90)
 
-        - paragrafi: forse un po' lunghi, tradotto non benissimo, non
-          si capisce bene il filo logico
+        - paragrafi: abbastanza (tradotto non benissimo, non si capisce
+                                 bene il filo logico)
 
         - tipo: informativo
 
@@ -1970,8 +1928,7 @@ In @RealtAumentat
 
         - fonti: ok
 
-        - paragrafi: quasi-ok (alcuni paragrafi ancora un po' troppo lunghi
-          e un typo, ma lo hai scritto in modo coinvolgente, bravo!)
+        - paragrafi: ok (occhio che c'e' un typo)
 
         - tipo: review
 
@@ -1987,7 +1944,7 @@ In @RealtAumentat
         - fonti: usi bene la tecnica di embed delle fonti nel testo, ma mi
           manca la fonte principale della notizia
 
-        - paragrafi: quasi-ok (paragrafi piu` corti, please)
+        - paragrafi: ok
 
         - tipo: segnalazione
 
