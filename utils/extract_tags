@@ -1,0 +1,169 @@
+#!/usr/bin/env python3.3
+
+#
+# Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
+#
+# Permission to use, copy, modify, and distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+#
+
+""" Extract tags from student posts """
+
+import getopt
+import os
+import sys
+
+#
+# Note: this application does not work with Python 2, because Python 2 has
+# a strict HTML parser, which fails with some of the posts.  However, pylint
+# is not available for Python 3 on my system, therefore I need to support
+# Python 2 too (even if for pylint only).
+#
+if sys.version_info[0] == 2:
+    from HTMLParser import HTMLParser
+else:
+    from html.parser import HTMLParser
+
+MAXLEN = 1 << 20
+
+class TitleExtractor(HTMLParser):
+    """ Extracts the title from an HTML page """
+
+    def __init__(self):
+        HTMLParser.__init__(self)
+        self.inside_title = 0
+        self.vector = []
+        self.title = ""
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "title":
+            self.inside_title = 1
+
+    def handle_data(self, data):
+        if self.inside_title:
+            self.vector.append(data.strip())
+
+    def handle_endtag(self, tag):
+        if tag == "title" and self.inside_title:
+            data = " ".join(self.vector)
+            data = data.strip()
+            self.vector = []
+            self.inside_title = 0
+            self.title = data
+
+def get_attribute(attrs, key):
+    """ Get the value of the attribute key """
+    for name, value in attrs:
+        if name == key:
+            return value
+    return ""
+
+class TagExtractorWordpress(HTMLParser):
+    """ Extracts the tags of a wordpress post """
+
+    def __init__(self):
+        HTMLParser.__init__(self)
+        self.inside_tag = 0
+        self.vector = []
+        self.tags = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "a" and get_attribute(attrs, "rel") == "tag":
+            self.inside_tag = 1
+
+    def handle_data(self, data):
+        if self.inside_tag:
+            self.vector.append(data.strip())
+
+    def handle_endtag(self, tag):
+        if tag == "a" and self.inside_tag:
+            data = " ".join(self.vector)
+            data = data.strip()
+            self.vector = []
+            self.inside_tag = 0
+            self.tags.append(data)
+
+class TagExtractorBlogspot(TagExtractorWordpress):
+    """ Extracts the tags of a blogspot post """
+
+class TagExtractorTumblr(HTMLParser):
+    """ Extracts the tags of a tumblr post """
+
+    def __init__(self):
+        HTMLParser.__init__(self)
+        self.tags = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "a":
+            href = get_attribute(attrs, "href")
+            if "tumblr.com/tagged/" in href:
+                self.tags.append(href)
+
+def read_file(filepath, maxlen):
+    """ Reads the content of a file """
+    filep = open(filepath, "r")
+    filep.seek(0, os.SEEK_END)
+    length = filep.tell()
+    filep.seek(0, os.SEEK_SET)
+    if length > maxlen:
+        raise RuntimeError("extract_tags: file too large")
+    content = filep.read()
+    filep.close()
+    return content
+
+def select_proper_extractor(data):
+    """ Peek at the data to select the proper extractor """
+    if "static.tumblr.com" in data:
+        return TagExtractorTumblr()
+    if "/wp-content/" in data:
+        return TagExtractorWordpress()
+    if "blogspot.com/feeds" in data:
+        return TagExtractorBlogspot()
+    return None
+
+def filepath_to_bitly(filepath):
+    """ Converts filepath to bitly URL """
+    return "http://bit.ly/%s" % filepath.replace(".html", "")
+
+def extract_tags(filepath):
+    """ Extracts tags from the given file """
+
+    data = read_file(filepath, MAXLEN)
+
+    parser = select_proper_extractor(data)
+    if parser:
+        parser.feed(data)
+        tags = parser.tags
+
+    if parser and len(tags) > 0:
+        return
+
+    sys.stdout.write("Post <%s>: " % filepath_to_bitly(filepath))
+    if not parser:
+        sys.stdout.write("NO PARSER\n")
+    else:
+        sys.stdout.write("NO TAGS\n")
+
+def main():
+    """ Main function """
+    try:
+        _, arguments = getopt.getopt(sys.argv[1:], "")
+    except getopt.error:
+        sys.exit("usage: extract_tags file...")
+    if not arguments:
+        sys.exit("usage: extract_tags file...")
+
+    for argument in arguments:
+        extract_tags(argument)
+
+if __name__ == "__main__":
+    main()
