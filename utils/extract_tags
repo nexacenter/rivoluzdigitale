@@ -67,6 +67,42 @@ def get_attribute(attrs, key):
             return value
     return ""
 
+class ImgExtractor(HTMLParser):
+    """ Extracts the images from an HTML page """
+
+    def __init__(self):
+        HTMLParser.__init__(self)
+        self.imgs = set()
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "img":
+            src = get_attribute(attrs, "src") 
+
+            if "assets.tumblr.com" in src:
+                return
+            if "gravatar.com/" in src:
+                return
+            if "histats.com/" in src:
+                return
+            if "i.creativecommons.org/l/" in src:
+                return
+            if "media.tumblr.com/avatar" in src:
+                return
+            if "pixel.quantserve.com/pixel/" in src:
+                return
+            if "wp.com/wp-content" in src:
+                return
+            if "statcounter.com/" in src:
+                return
+            if "stats.wordpress.com" in src:
+                return
+            if "tumblr.com/impixu?" in src:
+                return
+            if "www.googleadservices.com/pagead" in src:
+                return
+
+            self.imgs.add(src)
+
 class TagExtractorWordpress(HTMLParser):
     """ Extracts the tags of a wordpress post """
 
@@ -153,6 +189,21 @@ def extract_tags(filepath):
     else:
         sys.stdout.write("NO TAGS\n")
 
+def extract_img(filepath):
+    """ Extracts tags from the given file """
+
+    data = read_file(filepath, MAXLEN)
+
+    parser = ImgExtractor()
+    parser.feed(data)
+
+    sys.stdout.write("Post <%s>:\n\n" % filepath_to_bitly(filepath))
+
+    for img in parser.imgs:
+        sys.stdout.write("    - %s\n\n" % img)
+
+    sys.stdout.write(".\n\n")
+
 def main():
     """ Main function """
     try:
@@ -163,7 +214,8 @@ def main():
         sys.exit("usage: extract_tags file...")
 
     for argument in arguments:
-        extract_tags(argument)
+        #extract_tags(argument)
+        extract_img(argument)
 
 if __name__ == "__main__":
     main()
