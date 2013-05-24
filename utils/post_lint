@@ -209,9 +209,9 @@ def main():
     try:
         _, arguments = getopt.getopt(sys.argv[1:], "")
     except getopt.error:
-        sys.exit("usage: extract_tags file...")
+        sys.exit("usage: post_lint file...")
     if not arguments:
-        sys.exit("usage: extract_tags file...")
+        sys.exit("usage: post_lint file...")
 
     for argument in arguments:
         #extract_tags(argument)
