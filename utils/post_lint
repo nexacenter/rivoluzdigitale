@@ -78,6 +78,12 @@ class ImgExtractor(HTMLParser):
                 return
             if "histats.com/" in src:
                 return
+            if "e-zeeinternet.com/count" in src:
+                return
+            if "flagcounter.com" in src:
+                return
+            if "followerscounter.com/widget" in src:
+                return
             if "i.creativecommons.org/l/" in src:
                 return
             if "media.tumblr.com/avatar" in src:
