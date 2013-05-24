@@ -15,7 +15,7 @@ In @Tech_OnTheRoad
 
         - tipo: segnalazione articolo
 
-        - tag: mancanti
+        - tag: no
 
     "Memoria espandibile vs memoria integrata. Qual e' la migliore?"
       <http://bit.ly/11Vzpom> by @LorenzoCutelle
@@ -75,7 +75,7 @@ In @SIAMoMusicPills
 
         - tipo: monografia
 
-        - tag: non ne vedo
+        - tag: no
 
     "How to: Finger Drumming & Controllerism Tutorial"
       <http://bit.ly/Yeu791> by @iacopo_poli
@@ -172,7 +172,7 @@ In @SIAMoMusicPills
 
         - tipo: riflessione
 
-        - tag: singolo tag (non e' quello che volevi)
+        - tag: abbastanza (singolo tag, non e' quello che volevi)
 
     "Scudo, cooperazione. Proprieta' intellettuale? Seconda parte)"
       <http://bit.ly/159CQwv> by @SimoLeonardiRD
@@ -189,7 +189,7 @@ In @SIAMoMusicPills
 
         - tipo: riflessione documentata
 
-        - tag: non vedo tag
+        - tag: no
 
 In @tech_mondo
 
@@ -307,7 +307,7 @@ In @RivoluzionArti
 
         - tipo: panoramica
 
-        - tag: non vedo tag
+        - tag: no
 
 In @A_Intelligence_
 
@@ -360,7 +360,7 @@ In @A_Intelligence_
 
         - tipo: monografia
 
-        - tag: non ne vedo
+        - tag: no
 
     "A. I. Intelligenza artificiale"
       <http://bit.ly/XLlqAH> by @paolopopolizio
@@ -377,7 +377,7 @@ In @A_Intelligence_
 
         - tipo: monografia
 
-        - tag: non ne vedo
+        - tag: no
 
 In @watchDogSystem
 
@@ -567,7 +567,7 @@ In @Cine_Revolution
 
         - tipo: segnalazione
 
-        - tag: non ne vedo
+        - tag: no
 
 In @PhotoRevo
 
@@ -702,7 +702,7 @@ In musicdigitalbeat
 
         - tipo: segnalazione
 
-        - tag: non vedo tag
+        - tag: no
 
 In @webcracity
 
@@ -738,7 +738,7 @@ In @webcracity
 
         - tipo: riflessione
 
-        - tag: notag
+        - tag: no
 
 In inksbytes
 
@@ -875,7 +875,7 @@ In scattoaldigitale
 
         - tipo: prospettiva storica
 
-        - tag: non li vedo
+        - tag: no
 
     "Instagram: il Social Network della fotografia" <http://bit.ly/12VDA3H>
       by @MathieuMauri
@@ -1090,7 +1090,7 @@ In libertaneldigitale
 
         - tipo: riflessione
 
-        - tag: non ne vedo
+        - tag: no
 
 In @BlogTDW
 
@@ -1216,7 +1216,7 @@ In @SpecialEff_Team
 
         - tipo: breve monografia
 
-        - tag: non li vedo
+        - tag: no
 
     "Georges Melies: L'illusionismo approda al cinema"
      <http://bit.ly/ZW7MeO> by @alberto13_tito
@@ -1267,7 +1267,7 @@ In @arduinoallinclu
 
         - tipo: review
 
-        - tag: so and so (non hai messo opendomotica tra i tag)
+        - tag: ok (why non hai messo opendomotica tra i tag?)
 
 In @websocialblog
 
@@ -1352,7 +1352,7 @@ In @websocialblog
 
         - tipo: breve panoramica
 
-        - tag: quasi-ok (ma metti una categoria)
+        - tag: abbastanza (ma metti anche una categoria)
 
     "L'occhio del web su Boston" <http://bit.ly/130hApe>
       by @Antonio_Langiu
@@ -1387,7 +1387,7 @@ In rd-ipod33giri
 
         - tipo: riflessione personale
 
-        - tag: non vedo tag
+        - tag: no
 
     "Nostalgia portami via!" <http://bit.ly/15ZXdM9>
       by @fabioricca93
@@ -1404,7 +1404,7 @@ In rd-ipod33giri
         - tipo: non chiarissimo: un po' prospettiva storica, un po'
           segnalazione e commento del report FIMI
 
-        - tag: non vedo tag
+        - tag: no
 
     "La pirateria (non) fa bene (parte I)" <http://bit.ly/159KjLZ>
       by @silvestro_r
@@ -1421,7 +1421,7 @@ In rd-ipod33giri
 
         - tipo: monografia
 
-        - tag: non vedo tag
+        - tag: no
 
     "La pirateria (non) fa bene (parte II)" <http://bit.ly/11V9qMJ>
       by @silvestro_r
@@ -1521,7 +1521,7 @@ In @Digimovement
 
         - tipo: ricerca su wikipedia
 
-        - tag: medio (solo categoria)
+        - tag: abbastanza (solo categoria)
 
     "Volare senza emissioni: utopia o realta'?"
       <http://bit.ly/11XKB2x> by @robguerr
@@ -1591,7 +1591,7 @@ In @Guida_SO
 
         - tipo: segnalazione
 
-        - tag: non vedo tag
+        - tag: no
 
 In gamechoc
 
@@ -1615,7 +1615,7 @@ In gamechoc
 
         - tipo: recensione
 
-        - tag: ok
+        - tag: abbastanza (li hai scritti a mano in fondo)
 
     "Rome 2, ritornano le legioni!" <http://bit.ly/13svT4I>
        by @DavideMercu
@@ -1782,7 +1782,7 @@ In @WorldWidePh
 
         - tipo: monografia
 
-        - tag: non ne vedo
+        - tag: no
 
     "Mitt Romney Style: una parodia virale in piena campagna elettorale"
       <http://bit.ly/11cmGMe> by @SimoneBleynat
@@ -1858,7 +1858,7 @@ In @virality
 
         - tipo: spunti
 
-        - tag: solo categoria
+        - tag: abbastanza (solo categoria)
 
     "Perche' i video diventano virali?" <http://bit.ly/17xOr5X>
        by @LucaLiuzzi
@@ -1975,7 +1975,7 @@ In @RealtAumentat
 
         - tipo: review
 
-        - tag: abbastanza (due tag sono pochini)
+        - tag: ok (due tag sono pochini)
 
     "Sperimentazioni in campo militare (e non solo)"
       <http://bit.ly/17xPcvH> by @MarcoFestugato
@@ -1991,7 +1991,7 @@ In @RealtAumentat
 
         - tipo: segnalazione
 
-        - tag: non ne vedo
+        - tag: no
 
     "Google Glass: le caratteristiche tecniche del futuro"
       <http://bit.ly/10VFSDb> by Anonymous
