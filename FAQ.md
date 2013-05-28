@@ -98,6 +98,8 @@ alla lista nel campo `To: ` della email.
 Puoi cambiare l'indirizzo con cui scrivi abbastanza facilmente, sia con
 l'interfaccia web del Poli sia usando Thundebird.
 
+(P.S. Grazie a Matteo Di Placido per il feedback.)
+
 
 1.2. Come aggiungo il supporto per i tag al tema Tumblr?
 --------------------------------------------------------
