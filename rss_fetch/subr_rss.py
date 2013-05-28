@@ -20,7 +20,6 @@
 
 import logging
 import sys
-import urlparse
 
 if __name__ == "__main__":
     sys.path.insert(0, ".")
@@ -34,18 +33,6 @@ PATHS = (
         )
 
 def fetch(site, noisy=0):
-    """ Fetch either the given URL or the given site """
-    if site.startswith("http"):
-        return fetch_url(site, noisy)
-    else:
-        return fetch_smpl(site, noisy)
-
-def fetch_url(url, noisy=0):
-    """ Fetch the given URL """
-    parsed = urlparse.urlsplit(url)
-    return fetch(parsed[1], noisy)
-
-def fetch_smpl(site, noisy=0):
     """ Fetch RSS feeds of a website """
 
     for path in PATHS:
@@ -56,13 +43,12 @@ def fetch_smpl(site, noisy=0):
             continue
         response, body = result
 
-        encoding = None
         ctype = response.getheader("Content-Type")
         if not ctype:
             logging.warning("subr_rss: no content-type")
             continue
 
-        ctype, encoding = subr_http.parse_content_type(ctype)
+        ctype, _ = subr_http.parse_content_type(ctype)
         if (
             ctype != "application/atom+xml" and
             ctype != "application/rss+xml" and
