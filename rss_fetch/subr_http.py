@@ -58,7 +58,7 @@ def fetch(site, path, secure=0, noisy=0):
                      path, site, cnt, secure)
 
         connection = connect(site, secure)
-        connection.set_debuglevel(noisy)
+        #connection.set_debuglevel(noisy)
         connection.putrequest("GET", path)
         connection.endheaders()
         response = connection.getresponse()
