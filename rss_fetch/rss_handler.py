@@ -20,6 +20,7 @@
 
 from xml import sax
 
+import email.utils
 import sys
 
 class RssHandler(sax.ContentHandler):
@@ -56,7 +57,8 @@ class RssHandler(sax.ContentHandler):
             content = "".join(self.content)
             content = content.strip()
             if name == "pubDate":
-                self.pub_dates.append(content)
+                timestruct = email.utils.parsedate(content)
+                self.pub_dates.append(timestruct)
             elif name == "title":
                 self.titles.append(content)
             elif name == "link":
@@ -78,22 +80,16 @@ if __name__ == "__main__":
          <pubDate>Mon, 27 May 2013 13:34:41 +0000</pubDate>
          <ttl>1800</ttl>
          <item>
-          <title>First entry</title>
+          <title>Node 1</title>
           <description>Description of the first entry.</description>
           <link>http://www.example.org/node/1</link>
           <pubDate>Mon, 27 May 2013 18:43:37 +0000</pubDate>
          </item>
          <item>
-          <title>Second entry</title>
+          <title>Node 2</title>
           <description>Description of the first entry.</description>
           <link>http://www.example.org/node/2</link>
           <pubDate>Mon, 27 May 2013 18:43:38 +0000</pubDate>
-         </item>
-         <item>
-          <title>Third entry</title>
-          <description>Description of the first entry.</description>
-          <link>http://www.example.org/node/3</link>
-          <pubDate>Mon, 27 May 2013 18:43:39 +0000</pubDate>
          </item>
         </channel>
         </rss>"""

@@ -81,7 +81,7 @@ def fetch(site, path, secure=0, noisy=0):
             logging.info("subr_http: disconnecting on server request")
             disconnect(site, secure)
 
-        if response.status == 301:
+        if response.status == 301 or response.status == 302:
             cnt -= 1
             location = response.getheader("Location")
             if not location:

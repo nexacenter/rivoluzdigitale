@@ -20,7 +20,6 @@
 
 from xml import sax
 
-import email.utils
 import getopt
 import logging
 import os
@@ -32,6 +31,7 @@ if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.dirname(
       os.path.abspath(__file__))))
 
+from rss_fetch import atom_handler
 from rss_fetch import rss_handler
 from rss_fetch import subr_bitly
 from rss_fetch import subr_http
@@ -49,13 +49,15 @@ def process_site(site, noisy):
     if not body:
         return
 
-    handler = rss_handler.RssHandler()
+    if "http://www.w3.org/2005/Atom" in body:
+        handler = atom_handler.AtomHandler()
+    else:
+        handler = rss_handler.RssHandler()
     sax.parseString(body, handler)
 
     content = zip(handler.links, handler.pub_dates)
     for link, date in content:
 
-        date = email.utils.parsedate(date)
         if date[0] < 2013 and date[1] < 5 and date[2] <= 15:  # XXX
             continue
 
