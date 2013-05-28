@@ -1,0 +1,136 @@
+#!/usr/bin/env python
+
+#
+# Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
+#
+# Permission to use, copy, modify, and distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+#
+
+""" Twitter scrape """
+
+#
+# TODO merge the code with all the other utilies, reuse the code in this
+# file, enhance the scraper to provide the tweets to a consumer.
+#
+
+import getopt
+import os
+import sys
+
+if sys.version_info[0] == 2:
+    from HTMLParser import HTMLParser
+else:
+    from html.parser import HTMLParser
+
+MAXLEN = 1 << 20
+
+STATE_OUTSIDE    = 0
+STATE_TWEET      = 1
+STATE_USERNAME   = 2
+STATE_TWEET_TEXT = 3
+
+def get_attribute(attrs, key):
+    """ Get the value of the attribute key """
+    if attrs:
+        for name, value in attrs:
+            if name == key:
+                return value
+    return ""
+
+def match_tag_class(tag, tag_match, attrs, pattern):
+    """ Match tag and class """
+    return (
+            tag == tag_match and
+            pattern in get_attribute(attrs, "class")
+           )
+
+class TwitterScraper(HTMLParser):
+    """ Extracts tweets from an HTML page """
+
+    def __init__(self):
+        HTMLParser.__init__(self)
+        self.count_divs = 0
+        self.state = STATE_OUTSIDE
+
+    def handle_starttag(self, tag, attrs):
+        if self.state == STATE_OUTSIDE:
+            if match_tag_class(tag, "div", attrs, "tweet"):
+                self.state = STATE_TWEET
+                self.count_divs = 0
+
+        elif self.state == STATE_TWEET:
+            if tag == "div":
+                self.count_divs += 1
+
+            elif match_tag_class(tag, "span", attrs, "username"):
+                self.state = STATE_USERNAME
+
+            elif match_tag_class(tag, "p", attrs, "tweet-text"):
+                self.state = STATE_TWEET_TEXT
+
+    def handle_data(self, data):
+        if self.state == STATE_USERNAME:
+            sys.stdout.write("%s" % data.encode("utf-8"))
+        elif self.state == STATE_TWEET_TEXT:
+            sys.stdout.write("%s" % data.encode("utf-8"))
+
+    def handle_endtag(self, tag):
+        if self.state == STATE_TWEET and tag == "div":
+            self.count_divs -= 1
+            if self.count_divs <= 0:
+                self.state = STATE_OUTSIDE
+
+        elif self.state == STATE_USERNAME and tag == "span":
+            self.state = STATE_TWEET
+            sys.stdout.write(": ")
+
+        elif self.state == STATE_TWEET_TEXT and tag == "p":
+            self.state = STATE_TWEET
+            sys.stdout.write("\n\n")
+
+def read_file(filepath, maxlen):
+    """ Reads the content of a file """
+    filep = open(filepath, "r")
+    filep.seek(0, os.SEEK_END)
+    length = filep.tell()
+    filep.seek(0, os.SEEK_SET)
+    if length > maxlen:
+        raise RuntimeError("extract_tags: file too large")
+    content = filep.read()
+    filep.close()
+    return content
+
+def process_file(filepath):
+    """ Process the specified file """
+
+    data = read_file(filepath, MAXLEN)
+
+    parser = TwitterScraper()
+    data = data.decode("utf-8")
+    if parser:
+        parser.feed(data)
+
+def main():
+    """ Main function """
+    try:
+        _, arguments = getopt.getopt(sys.argv[1:], "")
+    except getopt.error:
+        sys.exit("usage: twitter_scrape file...")
+    if not arguments:
+        sys.exit("usage: twitter_scrape file...")
+
+    for argument in arguments:
+        process_file(argument)
+
+if __name__ == "__main__":
+    main()
