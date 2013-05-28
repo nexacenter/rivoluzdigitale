@@ -63,7 +63,7 @@ def process_site(site, noisy):
         logging.info("- <%s>", link)
         logging.info("")
 
-        folder = subr_misc.time_to_folder(date)
+        folder = subr_misc.make_post_folder(date, site)
         subr_misc.mkdir_recursive_idempotent(folder)
 
         time.sleep(random.randrange(5, 8))
