@@ -134,7 +134,7 @@ Soluzione originale by [Stefano Bitto][post-1001].
 Una buona risorsa che spiega come creare un blog su WordPress e' il
 video ["How to Create a Blog on Wordpress Step by Step Tutorial"][wp-howto],
 sottotitolato da [Fabio Vallone][fabio-vallone] per l'edizione 2013 del
-corso 'Rivoluzione Digitale'.
+corso.
 
 [wp-howto]: http://www.youtube.com/watch?v=W0UJ0q-hJGw
 [fabio-vallone]: https://twitter.com/FabioVallone
