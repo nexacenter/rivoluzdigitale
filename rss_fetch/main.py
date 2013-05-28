@@ -58,7 +58,11 @@ def process_site(site, noisy):
     content = zip(handler.links, handler.pub_dates)
     for link, date in content:
 
-        if date[0] < 2013 and date[1] < 5 and date[2] <= 15:  # XXX
+        if date[0] < 2013:
+            continue
+        if date[1] < 5:
+            continue
+        if date[2] <= 15:
             continue
 
         logging.info("")
