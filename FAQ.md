@@ -251,8 +251,53 @@ Entry contribuita da [Alessandro Garelli][gare_1993].
 
 [gare_1993]: https://twitter.com/Gare_1993
 
+1.5. Come citare una fonte su Wikipedia?
+-----------------------------------------------------
 
-1.5. Dove trovo il work in progress delle correzioni?
+Per citare una fonte, è necessario seguire il relativo
+template, utilizzando un formato standard e omogeneo, conforme a quanto
+previsto dalle convenzioni bibliografiche di Wikipedia.
+
+Il modo più semplice per citare è scrivere questo:
+
+    <ref>{{cita web|url=...|titolo=...|accesso=...}}</ref>
+    
+Ovviamente, al posto dei puntini che ci sono dopo i 3 parametri (‘url’,
+’titolo’ e’accesso’) bisogna inserire rispettivamente l’URL del sito
+web usato come fonte, il titolo del documento (per esempio, il titolo
+dell’articolo), la data dell’ultimo accesso al documento (di solito è
+la data in cui state scrivendo la fonte).
+
+Esempio:
+
+    “Il [[13 febbraio]] [[2012]], Comrie annuncia il ritiro dall'attività
+    professionistica.<ref>{{Cita web 
+    |url=http://www.tsn.ca/nhl/story/?id=387700 |titolo=Former Oiler,
+    senator Comrie retires after 10 NHL seasons |accesso=25 maggio 2013}}</ref>”
+    
+Questa è la versione in assoluto più striminzita del template, dove ci sono
+soltanto i 3 parametri obbligatori.
+
+I parametri esistenti sono molti di più (per esempio, ‘autore’,’nome’,
+’cognome’,’data’, ‘anno’, ecc).
+
+Più parametri inserite, più è dettagliata la fonte. Ovviamente non bisogna
+esagerare con parametri inutili, e soprattutto non bisogna inserire due 
+parametri equivalenti (se inserite ‘data’, è completamente inutile
+inserire ‘anno’).
+
+Il mio consiglio è scegliere questi parametri: url, titolo, autore (o,
+in alternativa, cognome e nome),editore, accesso e data.
+
+Vi lascio il link della pagina di Wikipedia sul template {{Cita web}}:
+    https://it.wikipedia.org/wiki/Template:Cita_web
+    
+Entry contribuita da [Alessandro Garelli][LorenzoCutelle].
+
+[LorenzoCutelle]: https://twitter.com/LorenzoCutelle
+
+
+1.6. Dove trovo il work in progress delle correzioni?
 -----------------------------------------------------
 
 Trovi i post che sono gia' stati scaricati, indipendentemente dal
