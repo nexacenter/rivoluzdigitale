@@ -323,3 +323,32 @@ piu' aggiornata del file che contiene le correzioni.
 Infine, quando ho corretto tutti i post relativi ad un certo periodo,
 invio in lista il file che contiene le correzioni.
 
+
+1.7. Cosa devo controllare prima di pubblicare una traduzione sul blog?
+-----------------------------------------------------------------------
+
+Prima di pubblicare una traduzione sul blog accertati riguardo al
+tipo di licenze utilizzate nel sito da cui stai traducendo.
+
+In una pagina web coperta da copyright (indicato con il simbolo ‘©’
+solitamente alla fine della pagina), un articolo può essere tradotto
+solamente dietro concessione dell’autore che ne è detentore dei
+diritti. Puoi, però, controllare in alcuni siti come
+http://internazionale.it/ se una traduzione dello stesso articolo
+è stata rilasciata in Creative Commons.
+
+Per quanto riguarda le pagine web che hanno licenza CC devi solamente
+controllare che questa non sia del tipo BY-SA, ovvero
+attribuzione-condividi allo stesso modo.
+
+Puoi, inoltre, tradurre articoli in PD (pubblico dominio).
+
+FAQ contribuita da [Alessandro Cannone] rielaborando due messaggi
+passati in lista:
+
+http://server-nexa.polito.it/pipermail/rd/2013-May/001087.html
+
+http://server-nexa.polito.it/pipermail/rd/2013-May/001092.html
+
+[Alessandro Cannone]: https://twitter.com/Ale_Cannone
+
