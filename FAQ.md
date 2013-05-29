@@ -247,6 +247,6 @@ http://it.wikipedia.org/wiki/Wikipedia:Copyright_immagini
 - Mi hanno cancellato una voce:
 http://it.wikipedia.org/wiki/Aiuto:Voci_cancellate
 
-Entry contribuita da [Alessandro Garelli][gare_1993]
+Entry contribuita da [Alessandro Garelli][gare_1993].
 
 [gare_1993]: https://twitter.com/Gare_1993
