@@ -139,8 +139,8 @@ corso.
 [wp-howto]: http://www.youtube.com/watch?v=W0UJ0q-hJGw
 [fabio-vallone]: https://twitter.com/FabioVallone
 
-1.4 Come modificare una voce di Wikipedia
------------------------------------------
+1.4. Come modificare una voce di Wikipedia?
+-------------------------------------------
 
 Il primo passo da fare è registrarsi. Passaggio importante e che richiede
 pochi secondi. Volendo si può agire anche senza essere registrati, ma
@@ -250,3 +250,27 @@ http://it.wikipedia.org/wiki/Aiuto:Voci_cancellate
 Entry contribuita da [Alessandro Garelli][gare_1993].
 
 [gare_1993]: https://twitter.com/Gare_1993
+
+
+1.5. Dove trovo il work in progress delle correzioni?
+-----------------------------------------------------
+
+Trovi i post che sono gia' stati scaricati, indipendentemente dal
+fatto che siano gia' stati corretti o no, qui:
+
+    http://shelob.polito.it/rd/b/
+
+Nota che scarico i post ogni 15 giorni, tipicamente il primo giorno
+di ogni mese e il 15 di ogni mese.
+
+Invece, trovi le bozze della correzione dei blog post all'interno
+di questa cartella:
+
+    https://github.com/bassosimone/rivoluzionedigitale/tree/master/post
+
+La cartella contiene un file per ogni periodo di correzione, che
+corrisponde circa ai post di 15 giorni.
+
+Nota che, ogni volta che correggo 3-5 blog post, invio un tweet a
+chi ha scritto i post per informarli.
+
