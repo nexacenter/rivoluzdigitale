@@ -272,5 +272,9 @@ La cartella contiene un file per ogni periodo di correzione, che
 corrisponde circa ai post di 15 giorni.
 
 Nota che, ogni volta che correggo 3-5 blog post, invio un tweet a
-chi ha scritto i post per informarli.
+chi ha scritto i post per informarli, linkando anche la versione
+piu' aggiornata del file che contiene le correzioni.
+
+Infine, quando ho corretto tutti i post relativi ad un certo periodo,
+invio in lista il file che contiene le correzioni.
 
