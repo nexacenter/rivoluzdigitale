@@ -1,0 +1,197 @@
+#!/usr/bin/env python
+
+#
+# Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
+#
+# Permission to use, copy, modify, and distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+#
+
+""" Mailing list tool """
+
+import base64
+import collections
+import email.header
+import hashlib
+import logging
+import mailbox
+import os
+import quopri
+import re
+import sys
+
+MATRICOLAU = re.compile("S[0-9]{6}")  # Always code in English ;-)
+EMAIL = re.compile("[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+")
+
+MESSAGE_IDS = {}
+
+def get_message_id(ident):
+    """ Save message identifier """
+    if not ident:
+        return None
+    if ident in MESSAGE_IDS:
+        return MESSAGE_IDS[ident]
+    hashfn = hashlib.new("md5")
+    hashfn.update(ident)
+    ret = hashfn.hexdigest()
+    MESSAGE_IDS[ident] = ret
+    return ret
+
+def mkdir_recursive_idempotent(path):
+    """ Create the directories indicated by path (idempotent) """
+    pathv = path.split(os.sep)
+    pathv = collections.deque(pathv)
+    curpath = ""
+    while pathv:
+        entry = pathv.popleft()
+        if not entry:
+            continue
+        if curpath:
+            curpath += os.sep
+        curpath += entry
+        if os.path.exists(curpath):
+            if not os.path.isdir(curpath):
+                logging.warning("subr_misc: not a directory")
+                return False
+            continue
+        os.mkdir(curpath, 0755)
+    if not os.path.isdir(path):
+        logging.warning("subr_misc: internal error")
+        return False
+    return True
+
+def possibly_write_header(filep, header, value):
+    """ Possibly write header """
+    if value:
+        filep.write("%s: %s\n" % (header, value))
+
+def decode_header(header):
+    """ Decode header if it is quoted printable """
+    if header and "=?" in header:
+        result = email.header.decode_header(header)
+        header = []
+        for piece, encoding in result:
+            if encoding:
+                piece = piece.decode(encoding)
+                piece = piece.encode("utf-8")
+            header.append(piece)
+        header = " ".join(header)
+    return header
+
+def mangle_addr(header):
+    """ Mangle an header containing an email address """
+    header = decode_header(header)
+    if header:
+        if "rd@server-nexa.polito.it" in header:
+            return "mailing-list"
+        header = EMAIL.sub("{email}", header)
+        header = MATRICOLAU.sub("{matricola}", header)
+        header = header.strip()
+    return header
+
+def process_message(message):
+    """ Process an email message """
+
+    #
+    # Message in a bottle: it is fascinating to see how many kind of
+    # emails one can see just on a students' mailing list.
+    #     -Simone (2013-05-29)
+    #
+
+    subject = decode_header(message["Subject"])
+
+    hdr_cc = mangle_addr(message["Cc"])
+    hdr_from = mangle_addr(message["From"])
+    hdr_to = mangle_addr(message["To"])
+
+    inreplyto = get_message_id(message["In-Reply-To"])
+    msgid = get_message_id(message["Message-ID"])
+
+    author = message["from"]
+    index = author.find("<")
+    if index >= 0:
+        author = author[index + 1:]
+        index = author.find(">")
+        if index == -1:
+            raise RuntimeError("mltool: invalid email address")
+        author = author[:index]
+
+    index = author.find("@")
+    if index == -1:
+        raise RuntimeError("mltool: invalid email address")
+    author = author[:index]
+
+    dirname = os.sep.join(["ml", author])
+    mkdir_recursive_idempotent(dirname)
+
+    filepath = os.sep.join([dirname, msgid])
+    if os.path.isfile(filepath):
+        logging.warning("mltool: file already exists: %s", filepath)
+        return
+
+    filep = open(filepath, "w")
+    filep.write("From nobody Wed May 29 22:19:22 2013\n")
+    possibly_write_header(filep, "Cc", hdr_cc)
+    possibly_write_header(filep, "Date", message["Date"])
+    possibly_write_header(filep, "From", hdr_from)
+    possibly_write_header(filep, "In-Reply-To", inreplyto)
+    possibly_write_header(filep, "Message-ID", msgid)
+    possibly_write_header(filep, "Subject", subject)
+    possibly_write_header(filep, "To", hdr_to)
+    filep.write("\n")
+
+    for part in message.walk():
+        content_type = part.get("Content-Type")
+        if not content_type:
+            content_type = "text/plain"  # Provide a sane default
+        if not content_type.startswith("text/plain"):
+            continue
+
+        payload = part.get_payload()
+
+        transfer_encoding = part.get("Content-Transfer-Encoding")
+        if transfer_encoding == "base64":
+            payload = base64.b64decode(payload)
+        elif transfer_encoding == "quoted-printable":
+            payload = quopri.decodestring(payload)
+
+        index = content_type.find("charset=")
+        if index >= 0:
+            charset = content_type[index + len("charset="):]
+            if charset.startswith("\""):
+                charset = charset[1:]
+            index = charset.find(";")
+            if index >= 0:
+                charset = charset[:index]
+            index = charset.find("\"")
+            if index >= 0:
+                charset = charset[:index]
+            payload = payload.decode(charset)
+            payload = payload.encode("utf-8")
+            payload = EMAIL.sub("{email}", payload)
+            payload = MATRICOLAU.sub("{email}", payload)
+
+        filep.write("%s" % payload)
+
+    filep.close()
+
+
+def main():
+    """ Main function """
+    argument = sys.argv[1]
+    mbox = mailbox.mbox(argument)
+    for message in mbox:
+        process_message(message)
+    mbox.close()
+
+if __name__ == "__main__":
+    main()
