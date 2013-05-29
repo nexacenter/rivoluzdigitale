@@ -292,7 +292,7 @@ in alternativa, cognome e nome),editore, accesso e data.
 Vi lascio il link della pagina di Wikipedia sul template {{Cita web}}:
     https://it.wikipedia.org/wiki/Template:Cita_web
     
-Entry contribuita da [Alessandro Garelli][LorenzoCutelle].
+Entry contribuita da [LorenzoCutelle] con l'aiuto di [Alessandro Garelli].
 
 [LorenzoCutelle]: https://twitter.com/LorenzoCutelle
 
