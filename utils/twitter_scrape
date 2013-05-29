@@ -24,8 +24,10 @@
 #
 
 import getopt
+import httplib
 import os
 import sys
+import urlparse
 
 if sys.version_info[0] == 2:
     from HTMLParser import HTMLParser
@@ -60,7 +62,13 @@ class TwitterScraper(HTMLParser):
     def __init__(self):
         HTMLParser.__init__(self)
         self.count_divs = 0
+        self.consumer = None
         self.state = STATE_OUTSIDE
+        self.tweettext = []
+        self.username = []
+
+    def set_consumer(self, consumer):
+        self.consumer = consumer
 
     def handle_starttag(self, tag, attrs):
         if self.state == STATE_OUTSIDE:
@@ -80,9 +88,48 @@ class TwitterScraper(HTMLParser):
 
     def handle_data(self, data):
         if self.state == STATE_USERNAME:
-            sys.stdout.write("%s" % data.encode("utf-8"))
+            self.username.append(data)
+
         elif self.state == STATE_TWEET_TEXT:
-            sys.stdout.write("%s" % data.encode("utf-8"))
+            self.tweettext.append(data)
+
+    def handle_entityref(self, data):
+        if data == "copy":
+            data = "(c)"
+        elif data == "middot":
+            data = "."
+        elif data == "nbsp":
+            data = " "
+        elif data == "quot":
+            data = "\""
+        elif data == "raquo":
+            data = "\""
+        elif data == "times":
+            data = "x"
+
+        if self.state == STATE_USERNAME:
+            self.username.append(" ")
+            self.username.append(data)
+            self.username.append(" ")
+
+        elif self.state == STATE_TWEET_TEXT:
+            self.tweettext.append(" ")
+            self.tweettext.append(data)
+            self.tweettext.append(" ")
+
+    def handle_charref(self, data):
+
+        data = chr(int(data))
+
+        if self.state == STATE_USERNAME:
+            self.username.append(" ")
+            self.username.append(data)
+            self.username.append(" ")
+
+        elif self.state == STATE_TWEET_TEXT:
+            self.tweettext.append(" ")
+            self.tweettext.append(data)
+            self.tweettext.append(" ")
 
     def handle_endtag(self, tag):
         if self.state == STATE_TWEET and tag == "div":
@@ -92,11 +139,58 @@ class TwitterScraper(HTMLParser):
 
         elif self.state == STATE_USERNAME and tag == "span":
             self.state = STATE_TWEET
-            sys.stdout.write(": ")
+            self.maybe_have_tweet()
 
         elif self.state == STATE_TWEET_TEXT and tag == "p":
             self.state = STATE_TWEET
-            sys.stdout.write("\n\n")
+            self.maybe_have_tweet()
+
+    def maybe_have_tweet(self):
+        """ We (maybe) have a tweet for the consumer """
+        if self.tweettext and self.username:
+            tweettext = "".join(self.tweettext)
+            username = "".join(self.username)
+            self.tweettext = []
+            self.username = []
+            self.consumer.handle_tweet(username, tweettext)
+
+def bitly_expand(url):
+    """ Expand URL with bitly """
+    parsed = urlparse.urlsplit(url)
+    connection = httplib.HTTPConnection(parsed[1])
+    connection.putrequest("GET", parsed[2])
+    connection.endheaders()
+    response = connection.getresponse()
+    if response.status != 301 and response.status != 302:
+        raise RuntimeError("invalid response")
+    location = response.getheader("Location")
+    response.read()
+    connection.close()
+    return location
+
+class TwitterConsumer(object):
+    """ Consumes new 'tweet' events """
+
+    def __init__(self, current):
+        self.current = current
+        self.count = 0
+
+    def handle_tweet(self, username, tweettext):
+        if username != self.current:
+            return
+        if not "@RivoluzDigitale" in tweettext:
+            return
+
+        temp = tweettext.split()
+        tweettext = [self.current, ":"]
+        for elem in temp:
+            elem = elem.strip()
+            if elem.startswith("http://bit.ly/"):
+                elem = bitly_expand(elem)
+            tweettext.append(elem)
+        tweettext = " ".join(tweettext)
+        tweettext = tweettext.encode("utf-8")
+        sys.stdout.write("%s\n\n" % tweettext)
 
 def read_file(filepath, maxlen):
     """ Reads the content of a file """
@@ -110,12 +204,23 @@ def read_file(filepath, maxlen):
     filep.close()
     return content
 
+def filepath_to_handle(filepath):
+    """ Convert twitter filepath to handle """
+    filepath = os.path.basename(filepath)
+    filepath = filepath.replace(".html", "")
+    return "@" + filepath
+
 def process_file(filepath):
     """ Process the specified file """
 
     data = read_file(filepath, MAXLEN)
 
+    user = filepath_to_handle(filepath)
+    consumer = TwitterConsumer(user)
+
     parser = TwitterScraper()
+    parser.set_consumer(consumer)
+
     data = data.decode("utf-8")
     if parser:
         parser.feed(data)
