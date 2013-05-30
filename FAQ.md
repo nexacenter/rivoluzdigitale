@@ -347,8 +347,8 @@ traduzione) a partire dai contenuti distribuiti con detta licenza.
 Puoi, inoltre, tradurre articoli in PD (pubblico dominio).
 
 FAQ contribuita da [Alessandro Cannone] rielaborando i messaggi [1087]
-e [1092] della lista del corso.  Revisione giuridica by
-[Claudio Artusio][cartusio].
+e [1092] della lista del corso.  Revisione giuridica e contributi ulteriori
+by [Claudio Artusio][cartusio].
 
 [1087]: http://server-nexa.polito.it/pipermail/rd/2013-May/001087.html
 [1092]: http://server-nexa.polito.it/pipermail/rd/2013-May/001092.html
