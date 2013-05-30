@@ -1,6 +1,8 @@
 Frequently Asked Questions (FAQ)
 ================================
 
+by Simone Basso, et al. &mdash; License: CC BY-SA 3.0 Unported
+
 1.1. Sono iscritto alla lista, ricevo le email ma non riesco a mandarle
 -----------------------------------------------------------------------
 
@@ -303,7 +305,11 @@ Entry contribuita da [LorenzoCutelle] con l'aiuto di [Alessandro Garelli].
 Trovi i post che sono gia' stati scaricati, indipendentemente dal
 fatto che siano gia' stati corretti o no, qui:
 
-    http://shelob.polito.it/rd/b/
+    http://shelob.polito.it/rd/<anno>/b/
+
+Ad esempio:
+
+    http://shelob.polito.it/rd/2013/b/
 
 Nota che scarico i post ogni 15 giorni, tipicamente il primo giorno
 di ogni mese e il 15 di ogni mese.
@@ -332,23 +338,24 @@ tipo di licenze utilizzate nel sito da cui stai traducendo.
 
 In una pagina web coperta da copyright (indicato con il simbolo ‘©’
 solitamente alla fine della pagina), un articolo può essere tradotto
-solamente dietro concessione dell’autore che ne è detentore dei
+solamente dietro consenso dell’autore che ne è detentore dei
 diritti. Puoi, però, controllare in alcuni siti come
 http://internazionale.it/ se una traduzione dello stesso articolo
 è stata rilasciata in Creative Commons.
 
-Per quanto riguarda le pagine web che hanno licenza CC devi solamente
-controllare che questa non sia del tipo BY-SA, ovvero
-attribuzione-condividi allo stesso modo.
+Per quanto riguarda le pagine web che adottano una licenza CC, devi solamente
+controllare che questa non includa la clausola 'ND - Non opere derivate',
+poiche' essa non consente di trarre opere derivate (come appunto una
+traduzione) a partire dai contenuti distribuiti con detta licenza.
 
 Puoi, inoltre, tradurre articoli in PD (pubblico dominio).
 
-FAQ contribuita da [Alessandro Cannone] rielaborando due messaggi
-passati in lista:
+FAQ contribuita da [Alessandro Cannone] rielaborando i messaggi [1087]
+e [1092] della lista del corso.  Revisione giuridica e contributi ulteriori
+by [Claudio Artusio][cartusio].
 
-http://server-nexa.polito.it/pipermail/rd/2013-May/001087.html
-
-http://server-nexa.polito.it/pipermail/rd/2013-May/001092.html
-
+[1087]: http://server-nexa.polito.it/pipermail/rd/2013-May/001087.html
+[1092]: http://server-nexa.polito.it/pipermail/rd/2013-May/001092.html
 [Alessandro Cannone]: https://twitter.com/Ale_Cannone
+[cartusio]: http://nexa.polito.it/people/cartusio
 

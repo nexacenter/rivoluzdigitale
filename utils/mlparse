@@ -1,0 +1,66 @@
+#!/usr/bin/env python
+
+#
+# Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
+#
+# Permission to use, copy, modify, and distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+#
+
+""" Mailing list dump parser """
+
+import os
+import random
+import sys
+import time
+
+if __name__ == "__main__":
+    sys.path.insert(0, ".")
+
+from rss_fetch import subr_bitly
+
+PREFIX = "http://shelob.polito.it/rd/2013/m/2013-05-15"
+
+def main():
+    """ Main function """
+    destdir = sys.argv[1]
+    sys.stdout.write("# Mailing list\n")
+    sys.stdout.write("\n\n")
+    for dirname in sorted(os.listdir(destdir)):
+        dirpath = os.sep.join([destdir, dirname])
+        if not os.path.isdir(dirpath):
+            continue
+        sys.stdout.write("## %s\n\n" % dirname)
+        for filename in sorted(os.listdir(dirpath)):
+            filepath = os.sep.join([dirpath, filename])
+            if not os.path.isfile(filepath):
+                continue
+            urlpath = os.sep.join([dirname, filename])
+            url = os.sep.join([PREFIX, urlpath])
+            bitlink = subr_bitly.shorten(url)
+            sys.stdout.write("- `%s`:\n" % urlpath)
+            sys.stdout.write("    - Bitlink: <%s>;\n" % bitlink)
+            sys.stdout.write("    - Subject: ;\n")
+            sys.stdout.write("    - List-address-in-To: ;\n")
+            sys.stdout.write("    - Re-only-when-In-Reply-To: ;\n")
+            sys.stdout.write("    - Space-after-ciao: ;\n")
+            sys.stdout.write("    - Line-length-ok: ;\n")
+            sys.stdout.write("    - Paragraphs: ;\n")
+            sys.stdout.write("    - Space-before-signature: ;\n")
+            sys.stdout.write("    - Notification-or-Discussion: .\n")
+            sys.stdout.write("\n\n")
+            sys.stdout.flush()
+            time.sleep(random.randrange(1, 2))
+        sys.stdout.write("\n\n")
+
+if __name__ == "__main__":
+    main()
