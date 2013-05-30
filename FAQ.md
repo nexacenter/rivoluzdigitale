@@ -342,7 +342,7 @@ http://internazionale.it/ se una traduzione dello stesso articolo
 Per quanto riguarda le pagine web che adottano una licenza CC, devi solamente
 controllare che questa non includa la clausola 'ND - Non opere derivate',
 poiche' essa non consente di trarre opere derivate (come appunto una
-traduzione) a partire dai contenuti distribuiti con detta licenza."
+traduzione) a partire dai contenuti distribuiti con detta licenza.
 
 Puoi, inoltre, tradurre articoli in PD (pubblico dominio).
 
