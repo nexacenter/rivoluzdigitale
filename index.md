@@ -2,6 +2,695 @@
 
 By Simone Basso, et al. &mdash; License: CC BY-SA 3.0 Unported
 
+## 2013-05-29
+
+### @bassosimone
+
+- @Ale_Cannone: post scaricati da @bassosimone fino al 15
+maggio! Verranno scaricati i post dei blog ogni 15 giorni circa
+
+- @SabryKarate: Nei tweet ricordatevi di inserire il LINK permanente
+del POST, NON quello del BLOG!
+
+- @SabryKarate: @RivoluzDigitale: per informare l'account del corso
+riguardo a nuovi post. : si usa per il live tweeting. ( @ !=  )
+
+- @Ale_Cannone: Nei tweet per segnalare i nuovi post mettere permalink,
+descrizione o titolo del post e inserire @RivoluzDigitale non
+
+### @CBlengio
+
+- @Antonio_Langiu: oggi tiene lezione l'avvocato Carlo Blengino..
+
+- @93_checco: Oggi ospite @cblengio
+
+- @DavidePalermo2: Oggi @CBlengio parla di e Legge al Corso di
+@RivoluzDigitale Stay Tuned for LiveTweeting CC @BlogTDW
+
+- @SabryKarate: Oggi, l'avv. e fellow del @nexacenter @CBlengio sarà
+ospite a Scrive sul blog: http://t.co/h2MLKUDj4u @RivoluzDigitale
+
+- @SabryKarate: @Xfox1 L'ospite di oggi a sarà l'avvocato @CBlengio,
+Carlo Blengino
+
+- @SabryKarate: Un benvenuto all'avv.Carlo Blengino al corso di
+RivoluzDigitale @CBlengio http://t.co/lhwgDcbAIl
+
+- @Carrattrezzi: @CBlengio a  per spiegarci il rapporto tra legge e rete
+
+- @paolopopolizio: @CBlengio ospite della lezione di rivoluzione digitale
+presso politecnico di Torino
+
+- @DavidePalermo2: @CBlengio ci presenta la legge nella rete di cui
+tanto abbiamo parlato a http://t.co/LsZJGMKjR7
+
+- @SabryKarate: Le lezioni saranno divise in 2 parti. Today, Part 1:
+Reati in rete @CBlengio
+
+- @paolopopolizio: cso'è un reato? -un'azione a cui consegue la peggire
+delle azioni dello stato (galera..)
+
+- @Gare_1993: "I fought the law and the law won" The Clash a
+http://t.co/rSmlgMdvuR
+
+- @ripa_pepperipa: @CBlengio ci parla dei reati di rete e delle leggi
+per il controllo dei contenuti
+
+- @Xfox1: si prospetta una lezione interessante
+
+- @_FedericoConte: Reato: azione a cui consegue la peggiore delle
+reazioni dello stato
+
+- @Carrattrezzi: Today on: Internet e l'anarchia del web On Friday 4.30PM:
+La guerra per internet: le leggi per il controllo dei contenuti
+
+- @DavidePalermo2: @CBlengio cita @lauraboldrini e le "minacce" in rete
+
+- @Antonio_Langiu: Per iniziare: Che cos'è un reato? Un azione che
+viola le leggi dello stato!
+
+- @Clerish: @CBlengio: Il reato è una condotta, che genera la peggiore
+reazione dello Stato: la punizione
+
+- @VadimCujba: Reato: azione punibile dalla legge
+
+- @FabioBussi: Garante privacy afferma che è internet è un mondo senza
+regole, quando lui deve imporle
+
+- @LucaLiuzzi: Internet.Una sconfinata prateria senza regole?
+
+- @paolopopolizio: autorità di garanzia dati personali:autorità
+amministrativa indipendente per assicurare la tutela dei diritti
+e libertà
+
+- @SabryKarate: Ciò che è illecito nel mondo reale è meno illecito
+online? @CBlengio
+
+- @DavidePalermo2: Ciò che è illecito off-line, è meno illecito
+on-line?
+
+- @Antonio_Langiu: Ciò che è illecito on-line è anche illecito
+off-line?
+
+- @Enzocarlino2: Internet non è una prateria senza regole
+
+- @SabryKarate: ...e ciò che è illecito online è meno illecito nel
+mondo reale? @CBlengio
+
+- @FabioBussi: ciò che è lecito nella rete è illecito nella vita
+reale o viceversa???
+
+- @LorenzoCutelle: "Internet è un mondo senza regole" cit. Antonello Soro
+(garante privacy) citazioni poco fortunate @CBlengio
+
+- @Xfox1: il mezzo influisce [sull'impatto del reato]!
+
+- @SabryKarate: La Rivoluzione digitale ha creato dei nuovi
+reati? @CBlengio
+
+- @DavidePalermo2: " ha creato nuovi reati?" @CBlengio
+
+- @Xfox1: la rivoluzione digitale ha creato dei reati?
+
+- @Antonio_Langiu: La rivoluzione digitale ha creato nuovi reati?
+
+- @Rexsimo893: Ciò che è illecito on-line è meno illecito off-line? O
+no? "Purtroppo non è la stessa cosa" @CBlengio
+
+- @paolopopolizio: ciò che è illecito on-line può essere più grave
+di un reato commesso off-line
+
+- @SabryKarate: Sono nati nuovi beni giuridici, nuovi diritti che devono
+essere tutelati dallo Stato? @CBlengio
+
+- @FabioBussi: la rivoluzione digitale ha portato a nuovi diritti e beni
+giuridici che devono essere tutelati.
+
+- @venadavide: La diffamazione su un blog può essere più grave della
+diffamazione in un bar
+
+- @paolopopolizio: il bene giuridico deve corrispondere al bene collettivo
+
+- @Antonio_Langiu: La RD ha creato nuovi beni giuridici, nuovi diritti
+che debbono essere tutelati con la più severa reazione dello stato?
+
+- @DavidePalermo2: Il reato sanziona la condotta, una mala condotta
+viene riconosciuta da tutti nella normalità
+
+- @Xfox1: ComputerCrime
+
+- @DavidePalermo2: Parliamo di Computer Crime
+
+- @enricoiucci: Il reato è un qualcosa che va contro il bene comune
+
+- @LucaLiuzzi: Si parla di Computer Crime - reati informatici
+
+- @93_checco: Il nostro ospite @cblengio  http://t.co/p8uBta3bND
+
+- @Ale_Cannone: Tutti i reati hanno alla base un bene giuridico per
+esempio la diffamazione ha alla base la reputazione
+
+- @EmaParrinello: il bene giuridico della diffamazione è la reputazione
+
+- @SabryKarate: Deve essere comprensibile e chiaro se una certa azione
+è un reato. Diffamazione colpisce gravemente Reputazione. @CBlengio
+
+- @paolopopolizio: i reati informatici sono detti: "Computer Crime"
+
+- @DavidePalermo2: Definizione di Computer Crime che non
+vale! http://t.co/5tDTTihFUG
+
+- @ripa_pepperipa: Ogni 18 secondi c'è un reato informatico ---&gt;
+Computer Crime by @CBlengio
+
+- @DavidePalermo2: Diffamazione non è reato strettamente informatico!
+
+- @FabioBussi: tutti i reati che abbiano come oggetto i computer o che
+tramite essi si diffondono non sono reati informatici!!!
+
+- @Carrattrezzi: I crimini informatici hanno il computer come mezzo o
+come fine (anche il furto di un pc, per questa definizione)
+
+- @Antonio_Langiu: Se oggi Totò dovesse vendere la fontana di trevi lo
+farebbe su ebay?
+
+- @paolopopolizio: la diffamazione non è un reato informatico, il mezzo
+informatico è solo un mezzo per renderlo più noto
+
+- @SabryKarate: Reati informatici. Non hanno a che fare con furti di
+computer, ma sono reati compiuti tramite mezzi informatici. @CBlengio
+
+- @DavidePalermo2: Danneggiamento o danneggiamento
+informatico? http://t.co/rM9TinJKx0
+
+- @Carrattrezzi: La questione dei crimini informatici (come fine) è
+ambigua e complessa
+
+- @Xfox1: se ti tiro un computer addosso è aggressione o aggressione
+informatica?
+
+- @SabryKarate: Problema di protezione dei dati personali, già era
+stato previsto nel 1981. @CBlengio
+
+- @paolopopolizio: nel 1981 viene istituita una sanzione penale sul
+furto di dati personali
+
+- @Ale_Cannone: Furto di pc e diffamazione non sono reati informatici
+i reati fatti attraverso i computer non sempre vanno considerati tali
+
+- @SabryKarate: Tutela del software... tramite tutela del diritto
+d'autore. @CBlengio
+
+- @DavidePalermo2: Citiamo Schengen http://t.co/cbm7Cvyh3m
+
+- @DavidePalermo2: Sistemi informativi a partire dal 2005 Il bene protetto
+è questo, ovvero TUTTO @CBlengio
+
+- @paolopopolizio: un dipendente che copia informazioni di un'azienda
+e le fornisce alla concorrenza è un esempio di reato informatico
+
+- @FabioBussi: dietro hai reati informatici ci sono tanti beni informatici
+
+- @SabryKarate: Si tutelano: libertà di espressione, riservatezza dei
+dati, corrispondenza, informazione ai cittadini, ... @CBlengio
+
+- @Carrattrezzi: Quanti beni ci sono nel nostro pc? Privacy,
+corrispondenza, libertà, e molto altro
+
+- @MorenoLaQuatra: Lezione di con l'avvocato @CBlengio al polito
+http://t.co/y2sAE0qLtL
+
+- @Rexsimo893: Bene giuridico del reato informatico -&gt; per es. libertà
+espressione, privacy, domicilio informatico, corrispondenza
+
+- @DavidePalermo2: "frode informatica: si ha quando altero un sistema
+informatico" @CBlengio http://t.co/W7wwbxB1tf
+
+- @ripa_pepperipa: La frode informatica si ha quando si altera un sistema
+informatico generando un danno col proprio beneficio!
+
+- @Ale_Cannone: 2005 - Legge sui sistemi informativi (si passa dai dati
+ai sistemi informativi)
+
+- @Xfox1: patrimonio, diritti della persona, pubblica fede,
+amministrazione della giustizia! I possibili reati!
+
+- @bassosimone: i reati informatici sono pluri offensivi (ti spacco
+smartphone e ti spacco anche un pezzo della tua vita)
+
+- @Antonio_Langiu: Differenza tra danneggiamento normale e informatico
+
+- @SabryKarate: Reati contro: - patrimonio - diritti della persona -
+pubblica fede - amministrazione della giustizia @CBlengio
+
+- @Digimovement: I reati informatici fra i reati del patrimonio, diritti
+della persona, pubblica fede e amministrazione della giustizia
+
+- @FabioBussi: cosa danneggiamo con i reati informatici? - patrimonio;
+- diritti persona; - pubblica fede; - amministrazione giustizia
+
+- @Antonio_Langiu: Il primo falso informatico è stato fatto nel
+93.. Tutti i falsi, informatici e non, sono puniti allo stesso modo!
+
+- @CarolPizzutto: Il reato del falso informatico "mai" applicato a
+nessuno dal '93 (quando venne ideato)!
+
+- @Carrattrezzi: potrebbe essere utile leggere gli articoli 616,617
+quater/sexies
+
+- @Xfox1: è come se io ti rubo un libro... Perdi la conoscenza che ti
+avrebbe potuto dare oltre il valore effettivo del libro!
+
+- @paolopopolizio: "pubblica fede": falsità all'ente di certificazione
+informatica
+
+- @Antonio_Langiu: Reato informatico: dove la lesione si estende al
+"sistema informatico"..
+
+- @Digimovement: La diffamazione è un reato occasionalmente informatico
+
+- @bassosimone: remember che qua vogliamo falsificare l'affermazione:
+"il web e' una terra senza regole"
+
+- @SabryKarate: Esercizio arbitrario con violenza su programma
+informatico: seccante, perché richiede pagamenti ulteriori. @CBlengio
+
+- @Xfox1: la lezione di oggi! http://t.co/KjVqjfFIFc
+
+- @bassosimone: memento: la "mamma" di tutti i reati informatici e'
+l'accesso abusivo
+
+- @ripa_pepperipa: L' Accesso Abusivo ---&gt; Padre di tutti i reati
+che si connetto in rete.
+
+- @paolopopolizio: "accesso abusivo": mamma dei reati commessi in rete
+
+- @AstoriPietro: La definizione di sistema informatico data dalla
+cassazione è una roba antica e incomprensibile!!!
+
+- @FabioBussi: l'accesso abusivo consiste nel appropriarsi di dati
+tenuti riservati
+
+- @Antonio_Langiu: Il problema maggiore è capire che cos'e' un sistema
+informatico?? la lavatrice lo è??
+
+- @SabryKarate: Talking about Accesso abusivo @CBlengio
+
+- @SimoneBleynat: I sistemi informatici sono... sostanzialmente dei
+computer
+
+- @AstoriPietro: Un processo per determinare se la lavatrice è un
+sistema informatico... Beh non male direi!
+
+- @Ale_Cannone: La lavatrice è un sistema informatico? Via al processo!
+
+- @DavidePalermo2: semplicità delle leggi italiane slide by @CBlengio
+http://t.co/aPXi1a8W8j
+
+- @Antonio_Langiu: Processo per accesso abusivo a sistema informatico
+sky..ma il decoder è un sistema informatico?
+
+- @Antonio_Langiu: Oggi il decoder è un sistema informatico perchè si
+ha una comunicazione diretta col satellite..
+
+- @SimoneBleynat: Insomma, capire cos'è un sistema informatico non è
+così semplice (Computer? Decoder? Lavatrice?)
+
+- @DavidePalermo2: Phishing - Wikipedia http://t.co/2e9tq7Xn0S
+
+- @Carrattrezzi: Forse i giudici dovrebbero fare una passeggiata al poli
+
+- @ripa_pepperipa: L'accesso abusivo ---&gt; per saperne di più
+... http://t.co/Gq1WLDfDvP
+
+- @bassosimone: phishing e le cosiddette 'truffe nigeriane' |
+http://t.co/eJmttWCwyb
+
+- @SabryKarate: Phishing: truffa informatica con cui l'aggressore cerca
+di ingannarvi, convincendovi a fornire info sensibili @CBlengio
+
+- @SimoneBleynat: Vietato farsi fregare dai phisher che promettono soldi
+facili millantando ricchi zii d'America
+
+- @SabryKarate: Attenzione ai "siti civetta", che acquisiscono le
+credenziali e le sfruttano per altri scopi. @CBlengio
+
+- @FabioBussi: Il Phishing consiste nel chiedere il proprio IBAN per
+poter accedere poi al proprio conto in banca con un sito civetta
+
+- @bassosimone: il backend del phishing e' uno schema di Ponzi su larga
+scala via Internet | http://t.co/m4dwwIIF1j
+
+- @paolopopolizio: fishing: con dei siti "civetta" vengono rubati i dati
+di accesso al proprio conto corrente
+
+- @bassosimone: accesso abusivo e' solo quando violi sistema o anche
+quando usi password di amministratore per rubare dati?
+
+- @Carrattrezzi: Sul tuo server puoi rubare tutti i dati che vuoi?
+
+- @SabryKarate: Accesso abusivo, è molto complesso definirlo con
+chiarezza a livello legale. Ci sono problemi applicativi. @CBlengio
+
+- @Antonio_Langiu: Non sono le norme che mancano su internet ma c'è
+una grossa difficoltà ad applicarle e farle applicare..
+
+- @DavidePalermo2: Accesso abusivo a un sistema informatico o telematico -
+Wikipedia http://t.co/WAp9H20fp0
+
+- @Ale_Cannone: Il diritto crea un loop basato su discussioni riguardanti
+qualcosa di non veramente definito?
+
+- @bassosimone: Sintesi: la difficolta' e' calare gli 'stampi rigidi'
+del diritto nel digitale, i.e. sono problemi applicativi @CBlengio
+
+- @Rexsimo893: Internet non è una terra senza regole, è solamente
+difficile trovare stampi rigidi dove collocare tutti i reati
+
+- @FabioBussi: la difficoltà di gestire i reati su internet è di
+riuscite a collocare ogni casistica di reato in parametri rigidi
+
+- @bassosimone: .@CBlengio "le fattispecie di reato ci sono, allora xke'
+si alimenta mito far west?"
+
+- @DavidePalermo2: privacy e violazione copyright reati principali
+
+- @SabryKarate: Se ci sono reati e relative tutele, perché si continua
+a dire che "Internet è anarchico"? @CBlengio
+
+- @Clerish:  la difficoltà di definire i reati informatici sta nel
+fissare nelle forme rigide della legge la dinamicità dell'informatica
+
+- @AstoriPietro: Ma se i limiti ci sono, perché la rete viene definita
+una terra senza limiti, addirittura dal garante della privacy?
+
+- @Antonio_Langiu: La paura è una merce preziosa sul mercato della
+politica e del potere..
+
+- @SabryKarate: In nome della sicurezza siamo disposti a rinunciare a
+molte libertà. La paura gioca brutti scherzi. @CBlengio
+
+- @bassosimone: .@CBlengio "risposta che mi son dato: se faccio passare
+idea ke Internet insicuro, io posso regolarlo meglio"
+
+- @AstoriPietro: Se riesco a far passare l'idea che l'internet non è
+sicuro, io riesco a controllarlo meglio!
+
+- @_FedericoConte: la paura è una merce preziosa sul mercato della
+politica e del potere
+
+- @SoFranchy: I reati su internet ci sono. Perché alimentare il mito
+del far west? La paura è preziosa per politica e potere @CBlengio
+
+- @InesGraells: il mito del far west, internet non è sicuro?
+
+- @DavidePalermo2: La paura è merce preziosa per politica e potere
+CIT. @CBlengio http://t.co/sBbeJdLZF1
+
+- @SimoneBleynat: "La paura è una merce preziosa sul mercato della
+politica e del potere" cit. @CBlengio
+
+- @Carrattrezzi: Se abbiamo paura possiamo dare più potere alle
+autorità. Colpo di stato su Internet?
+
+- @Rexsimo893: Perchè si alimenta il mito del Far West?? Se passa l'idea
+che Internet non è sicuro posso controllarlo meglio @CBlengio
+
+- @paolopopolizio: "perchè si alimenta il rito del FarWest?" se riesco
+a convincere tutti che internet non è sicuro, posso controllarlo meglio
+
+- @Antonio_Langiu: Se riesco a dimostrare che internet è pericoloso
+riesco a far approvare norme che incidono su internet com'è oggi..
+
+- @ripa_pepperipa: se ci sono reati e tutela, perché si alimenta il
+mito del far west?
+
+- @FabioBussi: psicologicamente se affermo che internet è pericoloso
+riesco a controllarlo meglio con le rinunce dei singoli delle libertà
+
+- @ripa_pepperipa: (cont) ---&gt; Se riesco a far passare l’idea che
+internet non è sicuro, posso io stesso controllarlo meglio! by @CBlengio
+
+- @SimoneBleynat: "Chiunque sia disposto a rinunciare alle proprie
+libertà in cambio di sicurezza non le merita entrambe" BenjaminFranklin
+
+- @bassosimone: @CBlengio cane (telco) con sopra gatto (over the top,
+come facebook, google, etc)
+
+- @CaracciFabio: "In nome della sicurezza siamo disposti a rinunciare
+a molte libertà"
+
+- @DavidePalermo2: mercato, governi e lobby, utente @CBlengio
+http://t.co/3ytcizojSp
+
+- @Clerish: l'utente è un uccellino twittante :-)
+
+- @SabryKarate: Diritto di accesso, libertà di informazione, libertà
+di espressione, identità digitale @CBlengio
+
+- @SimoneBleynat: Il controllo dei contenuti su Internet interessa
+politici e potenti
+
+- @bassosimone: "chi riuscisse a governare Internet ne avrebbe grossi
+vantaggi" @CBlengio
+
+- @FabioBussi: se riesco a controllare gli accessi ad internet da parte
+degli utenti e regolarlo a piacimento posso averne molti vantaggi
+
+- @SabryKarate: Controllare i contenuti = controllare la cultura e
+l'informazione... facendo soldi! @CBlengio
+
+- @EmaParrinello: Controllare i contenuti vuol dire controllare la
+cultura, l'informazione.
+
+- @bassosimone: Due strumenti che possono essere usati per aumentare
+controllo sono: copyright e privacy @CBlengio
+
+- @ripa_pepperipa: Il copyright consente di controllare i contenuti
+in internet
+
+- @_FedericoConte: copyright: controllare i contenuti vuol dire
+controllare la cultura dell'informazione
+
+- @SabryKarate: Privacy, uno dei diritti più facilmente
+violati! @CBlengio
+
+- @ripa_pepperipa: La normativa sui dati e quella più facilmente violata
+
+- @bassosimone: violo la privacy se, e.g., posto foto di amici su facebook
+senza chiedere permesso
+
+- @venadavide: Controllare i contenuti vuol dire controllare la
+cultura...e fare tanti soldi copyright @CBlengio
+
+- @paolopopolizio: 39€ costo di un operazione di controllo per tracciare
+gli spostamenti di qualcuno via GPS @CBlengio
+
+- @SabryKarate: Dato personale: qualsiasi informazione relativa ad una
+persona identificata/identificabile. @CBlengio
+
+- @SoFranchy: Mi spaventa twittare oggi? Potrei pentirmi (legalmente)
+di ciò che scrivo. @CBlengio
+
+- @paolopopolizio: "dato personale": dato da cui identificare una persona
+
+- @_FedericoConte: informazioni = dati personali
+
+- @SabryKarate: Riservatezza + identità = protezione di dati @CBlengio
+
+- @AstoriPietro: La privacy è l'unione di riservatezza e identità
+
+- @ripa_pepperipa: La privacy è diversa dalla riservatezza e
+dall'Identità.
+
+- @CarolPizzutto: La privacy è a metà tra la riservatezza e l'identità.
+
+- @paolopopolizio: "protezione dei dati" = reservatezza?
+
+- @SimoneBleynat: Riservatezza e identità sono due concetti opposti
+
+- @SabryKarate: By the way, divertente vedere quelli che mettono foto
+e dati su Facebook e poi si lamentano della privacy! Lol!
+
+- @AstoriPietro: La legge sulla privacy tutela sia il diritto alla
+riservatezza e il diritto all'identità personale
+
+- @Carrattrezzi: Abbiamo il "right to be alone", cioè il diritto a
+mantenere le nostre informazioni, compatibilmente con l'Identità
+
+- @ripa_pepperipa: Il diritto all'identità è la pretesa di voler vedere
+inalterato il mio patrimonio personale!
+
+- @Antonio_Langiu: Il diritto all'identità comincia laddove finisce il
+diritto alla riservatezza..
+
+- @SabryKarate: Il diritto all'identità comincia dove finisce il diritto
+alla riservatezza. @CBlengio
+
+- @FabioBussi: il diritto all'identità finisce il diritto alla
+riservatezza: limite spesso confuso
+
+- @Rexsimo893: Privacy diverso sia da riservatezza che da identità
+
+- @SimoneBleynat: "Il diritto all'identità inizia laddove dove finisce
+il diritto alla riservatezza" cit. @CBlengio
+
+- @paolopopolizio: il diritto all'identita comincia là dove finisce il
+diritto alla riservatezza
+
+- @bassosimone: "Sono io che mi sono messo in mutande su Facebook,
+non posso lamentarmi ma devo poterlo togliere se voglio" @CBlengio
+
+- @Carrattrezzi: Sono perchè ho delle connessioni, come il concetto
+spiegato dal prof Floridi
+
+- @SabryKarate: Trattamento illecito di dati personali @CBlengio
+
+- @AstoriPietro: Se pubblico i dati di una persona che non mi ha dato
+il consenso, io commetto una violazione dei dati personali
+
+- @Antonio_Langiu: Si parla del caso di google vs Vividown
+
+- @venadavide: Il caso Google vs vividown @CBlengio
+
+- @Gare_1993: Diritto a riservatezza e identità: decido io quali dati
+caricare su web e come usarli!
+
+- @SimoneBleynat: Google vs Vividown: Google è colpevole di diffamazione
+e trattamento illecito dei dati?
+
+- @bassosimone: immagine di quel ragazzino era sensibile perche' rivelava
+uno stato di salute e non puo' essere pubblicata
+
+- @Carrattrezzi: larry page &amp; sergey brin in carcere per una cosa
+successa in Italia?
+
+- @ripa_pepperipa: nel caso Google vs Vividown Google venne considerato
+responsabile per diffamazione e per trattamento illecito dei dati
+
+- @FabioBussi: google viene ritenuta colpevole di diffamazione e
+trattamento illecito di dati personali; google vs vividown
+
+- @SabryKarate: Vengono caricate circa 72 ore di video su Youtube ogni
+minuto! E' praticamente impossibile controllare tutto. @CBlengio
+
+- @Rexsimo893: Caso Google VS Vividown -&gt; Google Video accusato di
+aver amplificato diffamazione e aver trattato illecitamente dati
+
+- @DavidePalermo2: http://t.co/ZCEVIrnm8b del prof. @Floridi sul caso
+vividown vs google @CBlengio
+
+- @Rexsimo893: Google nel caso Vividown accusato di violazione della
+privacy per aver caricato su server e indicizzato video offensivo
+
+- @LolloCler: YouTube carica 72 ore di video ogni minuto! impossibile
+controllarli tutti e accusare di concorso in diffamazione!
+
+- @FabioBussi: io non potrei mettere nessuna immagine su internet perchè
+considerato un dato sensibile in particolari occasioni
+
+- @AstoriPietro: L'immagine è un dato personale ma non sensibile. Può
+diventarlo a seconda dell'ambito in cui è contenuta
+
+- @bassosimone: tesi difesa: immagini e' dato personale e puo' diventare
+sensibile a seconda del contenuto (i.e. ti prendo in giro)
+
+- @EmaParrinello: l'immagine è un dato personale che in alcuni casi
+può diventare sensibile
+
+- @ripa_pepperipa: L’immagine è personale ma non sensibile, lo può
+diventare a seconda di come io la inserisco nel contenuto!
+
+- @_FedericoConte: l'immagine è un dato personale ma non sensibile. Può
+diventare sensibile a seconda del contenuto
+
+- @Rexsimo893: Immagine può diventare dato sensibile a seconda del
+contesto in cui viene pubblicata
+
+- @SimoneBleynat: L'immagine è un dato personale che può diventare
+sensibile a seconda dei casi
+
+- @Antonio_Langiu: Facebook non è responsabile delle foto che noi
+carichiamo senza chiedere il permesso..
+
+- @paolopopolizio: l'immagine non è un contenuto sensibile, lo diventa
+nel momento in cui l'immagine viene utilizzata in modo improprio
+
+- @bassosimone: di conseguenza il contesto denigratorio era stato scelto
+da chi aveva fatto il video decidendo appunto di denigrare
+
+- @SabryKarate: Nel momento in cui Google si limita ad ospitare un
+contenuto, non può esssere incolpato di diffamazione. @CBlengio
+
+- @Antonio_Langiu: I dati che uso li sto usando per la stessa ragione
+per cui il titolare me li ha dati?
+
+- @Gian_Cirillo: È molto affascinante la questione delle immagini
+sensibili in rete
+
+- @Ale_Cannone: L'immagine è un dato sensibile? No, è personale ma
+può diventarlo in base alla situazione
+
+- @bassosimone: criterio privacy: sto usando i dati per il fine per cui
+sono stati condivisi? No? allora trattamento illecito
+
+- @ripa_pepperipa: @cBlengio ci parla di Privacy. Per saperne di più
+--&gt; https://t.co/83pVXiDNSW
+
+- @FabioBussi: i dati personali vengono trattati illecitamente solo
+quando li uso per fini i quali l'interessato non approverebbe
+
+- @SabryKarate: Trattamento illecito di dati: quando non si ha il consenso
+dell'uso di determinati dati. @CBlengio
+
+- @Rexsimo893: Trattamento illecito dati: sto usando dati per la stessa
+ragione per cui il titolare me li ha dati o no? Se è no -&gt; reato
+
+- @AstoriPietro: Le telecamere sulle spalle dei poliziotti sono illegali
+secondo @CBlengio
+
+- @Ale_Cannone: Privacy tra privati: dovuta soprattutto alla concessione
+dell'uso dei propri dati o immagini
+
+- @SabryKarate: La cultura si costruisce sul passato Il passato cerca
+di controllare il futuro Il futuro è meno libero... @CBlengio
+
+- @DavidePalermo2: WebCam sulla spalla dei poliziotti
+http://t.co/i74eQm1FEW via @repubblicait @CBlengio ci spiegherà perché
+è "illegale"
+
+- @Gare_1993: Idee sempre figlie di quelle precedenti
+
+- @SabryKarate: Citazione da 1984 Orwell, riguardo a passato e
+futuro! past &amp; future http://t.co/l97nvRf8GI
+
+- @ripa_pepperipa: a proposito del caso Google vs Vividown ---&gt;
+http://t.co/6F4GuOcOgW
+
+- @AstoriPietro: Noleggio di film online a tu per tu, in maniera geniale
+
+- @Xfox1: bella lezione
+
+- @paolopopolizio: @CBlengio il copyright ha ammazzato un diritto di
+alcuni ragazzi che volevano offrire un servizio di visione di film
+
+- @enricoiucci:  il copyright a volte può "tagliare le ali" a giovani
+società di condivisione video e audio
+
+- @bassosimone: "fine primo tempo" @cblengio http://t.co/zGcghKdEjk
+
+- @bassosimone: MT @MASenor "dicevi che un'immagine è dato sensibile,
+se così fosse qualsiasi mia mia foto (porto occhiali) sensibile"
+
+- @paolopopolizio: @CBlengio lezione davvero interessante sull'aspetto
+giuridico di internet
+
+- @SabryKarate: Lezione di davvero interessante, è persino trascorsa
+molto in fretta! Grazie a @CBlengio!
+
+- @Ale_Cannone: Si prospetta una seconda parte interessante :)
+
+
 ## 2013-05-24
 
 ### @demartin
