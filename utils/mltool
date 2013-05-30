@@ -32,6 +32,18 @@ import sys
 MATRICOLAU = re.compile("S[0-9]{6}")  # Always code in English ;-)
 EMAIL = re.compile("[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+")
 
+# XXX Some substitutions to have more clear names
+SUBST = {
+         "alf4pk": "andrea.la.fico",
+         "carolina93": "carolina.pizzutto",
+         "cino-93": "simone.leonardi",
+         "s191234": "emanuele.parrinello",
+         "s193391": "stefano.franzoni",
+         "s.franchy": "sebastiano.franchina",
+         "simbon93": "simone.bonvicini",
+         "skyline500": "stefano.landi",
+        }
+
 MESSAGE_IDS = {}
 
 def get_message_id(ident):
@@ -72,6 +84,10 @@ def mkdir_recursive_idempotent(path):
 def possibly_write_header(filep, header, value):
     """ Possibly write header """
     if value:
+        value = str(value)
+        # Force the header to be on a single line
+        value = value.split()
+        value = " ".join(value)
         filep.write("%s: %s\n" % (header, value))
 
 def decode_header(header):
@@ -116,6 +132,10 @@ def process_message(message):
     inreplyto = get_message_id(message["In-Reply-To"])
     msgid = get_message_id(message["Message-ID"])
 
+    #
+    # Construct file name from author
+    #
+
     author = message["from"]
     index = author.find("<")
     if index >= 0:
@@ -130,6 +150,19 @@ def process_message(message):
         raise RuntimeError("mltool: invalid email address")
     author = author[:index]
 
+    if MATRICOLAU.match(author.upper()):
+        # Fuck, this is the student ID, let's take the name, instead
+        author_take2 = message["from"]
+        index = author_take2.find(author.upper())
+        if index >= 0:
+            author_take2 = author_take2[:index]
+            author_take2 = author_take2.strip().lower().replace(" ", ".")
+            author = author_take2
+
+    # Further normalize the name
+    if author in SUBST:
+        author = SUBST[author]
+
     dirname = os.sep.join(["ml", author])
     mkdir_recursive_idempotent(dirname)
 
@@ -138,25 +171,43 @@ def process_message(message):
         logging.warning("mltool: file already exists: %s", filepath)
         return
 
+    #
+    # Write headers
+    #
+
     filep = open(filepath, "w")
     filep.write("From nobody Wed May 29 22:19:22 2013\n")
     possibly_write_header(filep, "Cc", hdr_cc)
+    possibly_write_header(filep, "Content-Type",
+      "text/plain; charset=\"utf-8\"")
     possibly_write_header(filep, "Date", message["Date"])
     possibly_write_header(filep, "From", hdr_from)
     possibly_write_header(filep, "In-Reply-To", inreplyto)
     possibly_write_header(filep, "Message-ID", msgid)
     possibly_write_header(filep, "Subject", subject)
     possibly_write_header(filep, "To", hdr_to)
-    filep.write("\n")
+    #possibly_write_header(filep, "User-Agent", message["User-Agent"])
+    possibly_write_header(filep, "X-Orig-Content-Transfer-Encoding",
+                          message["Content-Transfer-Encoding"])
+
+    #
+    # Process payload
+    #
 
     for part in message.walk():
         content_type = part.get("Content-Type")
         if not content_type:
             content_type = "text/plain"  # Provide a sane default
+
+        possibly_write_header(filep, "X-Orig-Part-Content-Type", content_type)
         if not content_type.startswith("text/plain"):
             continue
 
         payload = part.get_payload()
+
+        #
+        # Transform payload
+        #
 
         transfer_encoding = part.get("Content-Transfer-Encoding")
         if transfer_encoding == "base64":
@@ -180,7 +231,35 @@ def process_message(message):
             payload = EMAIL.sub("{email}", payload)
             payload = MATRICOLAU.sub("{email}", payload)
 
+        #
+        # Measure payload 
+        #
+
+        lines = payload.split("\n")
+        blank_lines = 0
+        long_lines = 0
+        total_lines = 0
+        for line in lines:
+            if line.startswith(">"):
+                continue
+            total_lines += 1
+            line = line.strip()
+            if not line:
+                blank_lines += 1
+                continue
+            if len(line) > 80:
+                long_lines += 1
+        possibly_write_header(filep, "X-Stats-Blank-Lines", blank_lines)
+        possibly_write_header(filep, "X-Stats-Long-Lines", long_lines)
+        possibly_write_header(filep, "X-Stats-Total-Lines", total_lines)
+
+        #
+        # Write payload
+        #
+
+        filep.write("\n")  # End of headers
         filep.write("%s" % payload)
+        break
 
     filep.close()
 
