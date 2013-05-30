@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
 from rss_fetch import subr_bitly
 
-PREFIX = "http://shelob.polito.it/rd/2013/m"
+PREFIX = "http://shelob.polito.it/rd/2013/m/2013-05-15"
 
 def main():
     """ Main function """
