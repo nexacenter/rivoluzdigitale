@@ -199,10 +199,19 @@ def process_message(message):
         if not content_type:
             content_type = "text/plain"  # Provide a sane default
 
-        possibly_write_header(filep, "X-Orig-Part-Content-Type", content_type)
+        if "text/plain" not in content_type:
+            possibly_write_header(filep, "X-Orig-Part-Content-Type",
+                                  content_type)
+
+    for part in message.walk():
+        content_type = part.get("Content-Type")
+        if not content_type:
+            content_type = "text/plain"  # Provide a sane default
+
         if not content_type.startswith("text/plain"):
             continue
 
+        possibly_write_header(filep, "X-Orig-Part-Content-Type", content_type)
         payload = part.get_payload()
 
         #
