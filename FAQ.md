@@ -305,7 +305,11 @@ Entry contribuita da [LorenzoCutelle] con l'aiuto di [Alessandro Garelli].
 Trovi i post che sono gia' stati scaricati, indipendentemente dal
 fatto che siano gia' stati corretti o no, qui:
 
-    http://shelob.polito.it/rd/b/
+    http://shelob.polito.it/rd/<anno>/b/
+
+Ad esempio:
+
+    http://shelob.polito.it/rd/2013/b/
 
 Nota che scarico i post ogni 15 giorni, tipicamente il primo giorno
 di ogni mese e il 15 di ogni mese.
