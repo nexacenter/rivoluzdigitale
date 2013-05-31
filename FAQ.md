@@ -362,12 +362,22 @@ by [Claudio Artusio][cartusio].
 1.8. Quali sono gli aspetti piu' importanti della correzione della lista?
 -------------------------------------------------------------------------
 
-Gli aspetti piu' importanti sono il subject e i paragrafi. Sono anche
-importanti: che In-Reply-To sia presente se e solo se il Subject inizia
-con 'Re: ' (cioe' se il messaggio e' una risposta), e &mdash; un po'
-meno &mdash; la lunghezza delle righe.
+Gli aspetti piu' importanti sono il subject e i paragrafi. E' anche
+abbastanza importante che In-Reply-To sia presente se e solo se il
+Subject inizia con 'Re: ' (cioe' se il messaggio e' una risposta), e
+che le righe non siano troppo lunghe.
 
-Nella correzione della lista ho inserito anche altri aspetti (e.g.
+A proposito di In-Reply-To, e' grave che sia presente solo In-Reply-To
+e non 'Re: '. Questo, infatti, indica che per scrivere un nuovo messaggio,
+hai fatto 'Rispondi' ad un messaggio precedente e poi hai cancellato e
+riscritto il Subject.
+
+E' molto meno grave, invece, che il messaggio sia di risposta e sia
+presente 'Re: ' ma non In-Reply-To. Questo generalmente indica soltanto
+che chi risponde non ha ricevuto il messaggio cui vuole rispondere, ad
+esempio perche' segue la lista in digest.
+
+Infine, nella correzione della lista ho inserito anche altri aspetti (e.g.
 `List-Address-in-To`) perche' possono essere rilevanti su alcune liste
 piu' di puristi. Si tratta, comunque, di aspetti minori rispetto a
 quelli menzionati nel paragrafo precedente.
