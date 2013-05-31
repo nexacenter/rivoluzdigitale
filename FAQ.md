@@ -359,3 +359,14 @@ by [Claudio Artusio][cartusio].
 [Alessandro Cannone]: https://twitter.com/Ale_Cannone
 [cartusio]: http://nexa.polito.it/people/cartusio
 
+1.8. Quali sono gli aspetti piu' importanti della correzione della lista?
+-------------------------------------------------------------------------
+
+Gli aspetti piu' importanti sono il subject e i paragrafi. In subordine, sono
+anche importanti la lunghezza delle righe, e che In-Reply-To sia presente se
+e solo se il subject inizia con 'Re: ' (cioe' se il messaggio e' una risposta
+ad un altro messaggio).
+
+Ho inserito anche altri aspetti (e.g. `List-Address-in-To`) perche' possono
+essere rilevanti su alcune liste piu' di puristi. Si tratta, comunque, di
+aspetti minori rispetto a quelli menzionati nel paragrafo precedente.
