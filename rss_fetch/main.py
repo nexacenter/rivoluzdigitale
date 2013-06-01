@@ -45,9 +45,10 @@ def process_site(site, noisy):
     logging.info("* site: %s", site)
     logging.info("")
 
-    body, _ = subr_rss.fetch(site, noisy=noisy)
-    if not body:
+    result = subr_rss.fetch(site, noisy=noisy)
+    if not result or not result[0]:
         return
+    body = result[0]
 
     if "http://www.w3.org/2005/Atom" in body:
         handler = sax_atom.AtomHandler()

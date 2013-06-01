@@ -84,7 +84,10 @@ def main():
 
     logging.getLogger().setLevel(level)
 
-    body, encoding = fetch(arguments[0], noisy)
+    result = fetch(arguments[0], noisy)
+    if not result:
+        sys.exit(1)
+    body, encoding = result
     if encoding:
         body = body.decode(encoding)
         body = body.encode("utf-8")
