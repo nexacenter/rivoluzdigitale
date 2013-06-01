@@ -20,6 +20,7 @@
 
 from xml import sax
 
+import getopt
 import sys
 import time
 
@@ -80,27 +81,22 @@ class AtomHandler(sax.ContentHandler):
         if name == "entry":
             self.entry = 0
 
+def main():
+    """ Main function """
+    try:
+        options, arguments = getopt.getopt(sys.argv[1:], "")
+    except getopt.error:
+        sys.exit("usage: sax_atom.py")
+    if options or arguments:
+        sys.exit("usage: sax_atom.py")
+
+    data = sys.stdin.read()
+    data = data.strip()
+    handler = AtomHandler()
+    sax.parseString(data, handler)
+    for index in range(len(handler.titles)):
+        sys.stdout.write("[%s] \"%s\" <%s>\n" % (handler.pub_dates[index],
+          handler.titles[index], handler.links[index]))
+
 if __name__ == "__main__":
-
-    EXAMPLE = """
-        <?xml version="1.0" encoding="UTF-8"?>
-        <feed>
-          <entry>
-            <published>2013-05-27T18:43:37.548+02:00</published>
-            <title type="text">Node 1</title>
-            <link rel="alternate" type="text/html"
-                  href="http://www.example.org/node/1" title="Node 1"/>
-          </entry>
-          <entry>
-            <published>2013-05-27T18:43:38.531+02:00</published>
-            <title type="text">Node 2</title>
-            <link rel="alternate" type="text/html"
-                  href="http://www.example.org/node/2" title="Node 2"/>
-          </entry>
-        </feed>"""
-
-    HANDLER = AtomHandler()
-    sax.parseString(EXAMPLE.strip(), HANDLER)
-    for INDEX in range(len(HANDLER.titles)):
-        sys.stdout.write("[%s] \"%s\" <%s>\n" % (HANDLER.pub_dates[INDEX],
-          HANDLER.titles[INDEX], HANDLER.links[INDEX]))
+    main()

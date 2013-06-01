@@ -18,6 +18,7 @@
 
 """ Fetch the RSS feeds of a website """
 
+import getopt
 import logging
 import sys
 
@@ -48,7 +49,7 @@ def fetch(site, noisy=0):
             logging.warning("subr_rss: no content-type")
             continue
 
-        ctype, _ = subr_http.parse_content_type(ctype)
+        ctype, encoding = subr_http.parse_content_type(ctype)
         if (
             ctype != "application/atom+xml" and
             ctype != "application/rss+xml" and
@@ -58,21 +59,37 @@ def fetch(site, noisy=0):
             logging.warning("subr_rss: bad content type: %s", ctype)
             continue
 
-        #
-        # Here we MUST NOT decode the body, because the XML reader tries
-        # to decode the body before processing it.
-        #
-        #if encoding:
-        #    body = body.decode(encoding)
-
-        return body
+        return body, encoding
 
     logging.error("subr_rss: can't fetch RSS for %s", site)
 
+def main():
+    """ Main function """
+    try:
+        options, arguments = getopt.getopt(sys.argv[1:], "o:v")
+    except getopt.error:
+        sys.exit("usage: subr_rss.py [-v] [-o output] site")
+    if len(arguments) != 1:
+        sys.exit("usage: subr_rss.py [-v] [-o output] site")
+
+    level = logging.WARNING
+    noisy = 0
+    outfp = sys.stdout
+    for name, value in options:
+        if name == "-o":
+            outfp = open(value, "w")
+        elif name == "-v":
+            level = logging.DEBUG
+            noisy = 1
+
+    logging.getLogger().setLevel(level)
+
+    body, encoding = fetch(arguments[0], noisy)
+    if encoding:
+        body = body.decode(encoding)
+        body = body.encode("utf-8")
+
+    outfp.write(body)
+
 if __name__ == "__main__":
-    logging.getLogger().setLevel(logging.DEBUG)
-    if len(sys.argv) == 2:
-        fetch(sys.argv[1], noisy=1)
-        sys.exit(0)
-    sys.stderr.write("usage: subr_rss site\n")
-    sys.exit(1)
+    main()

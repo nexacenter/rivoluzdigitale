@@ -21,6 +21,7 @@
 from xml import sax
 
 import email.utils
+import getopt
 import sys
 
 class RssHandler(sax.ContentHandler):
@@ -67,35 +68,22 @@ class RssHandler(sax.ContentHandler):
         if name == "item":
             self.item = 0
 
+def main():
+    """ Main function """
+    try:
+        options, arguments = getopt.getopt(sys.argv[1:], "")
+    except getopt.error:
+        sys.exit("usage: sax_rss.py")
+    if options or arguments:
+        sys.exit("usage: sax_rss.py")
+
+    data = sys.stdin.read()
+    data = data.strip()
+    handler = RssHandler()
+    sax.parseString(data, handler)
+    for index in range(len(handler.titles)):
+        sys.stdout.write("[%s] \"%s\" <%s>\n" % (handler.pub_dates[index],
+          handler.titles[index], handler.links[index]))
+
 if __name__ == "__main__":
-
-    EXAMPLE = """
-        <?xml version="1.0" encoding="UTF-8" ?>
-        <rss version="2.0">
-        <channel>
-         <title>My blog RSS feed</title>
-         <description>This is the RSS feed of my blog</description>
-         <link>http://www.example.org/my-blog</link>
-         <lastBuildDate>Mon, 27 May 2013 18:43:39 +0000</lastBuildDate>
-         <pubDate>Mon, 27 May 2013 13:34:41 +0000</pubDate>
-         <ttl>1800</ttl>
-         <item>
-          <title>Node 1</title>
-          <description>Description of the first entry.</description>
-          <link>http://www.example.org/node/1</link>
-          <pubDate>Mon, 27 May 2013 18:43:37 +0000</pubDate>
-         </item>
-         <item>
-          <title>Node 2</title>
-          <description>Description of the first entry.</description>
-          <link>http://www.example.org/node/2</link>
-          <pubDate>Mon, 27 May 2013 18:43:38 +0000</pubDate>
-         </item>
-        </channel>
-        </rss>"""
-
-    HANDLER = RssHandler()
-    sax.parseString(EXAMPLE.strip(), HANDLER)
-    for INDEX in range(len(HANDLER.titles)):
-        sys.stdout.write("[%s] \"%s\" <%s>\n" % (HANDLER.pub_dates[INDEX],
-          HANDLER.titles[INDEX], HANDLER.links[INDEX]))
+    main()
