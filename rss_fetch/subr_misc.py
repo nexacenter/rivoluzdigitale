@@ -25,7 +25,7 @@ import os
 def make_post_folder(date, site):
     """ From struct time and site, generate post folder """
 
-    if date[2] <= 15:
+    if date[2] < 15:
         month = date[1]
         day = 15
     else:
