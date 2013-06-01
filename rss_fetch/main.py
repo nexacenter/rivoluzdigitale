@@ -63,7 +63,7 @@ def process_site(site, noisy):
             continue
         if date[1] < 5:
             continue
-        if date[2] <= 15:
+        if date[2] > 15 and date[2] <= 31:
             continue
 
         logging.info("")
