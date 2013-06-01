@@ -1,4 +1,4 @@
-# rss_fetch/atom_handler.py
+# rss_fetch/sax_atom.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>

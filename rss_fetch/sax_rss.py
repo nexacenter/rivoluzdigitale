@@ -1,4 +1,4 @@
-# rss_fetch/rss_handler.py
+# rss_fetch/sax_rss.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>

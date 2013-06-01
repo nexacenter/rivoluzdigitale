@@ -31,8 +31,8 @@ if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.dirname(
       os.path.abspath(__file__))))
 
-from rss_fetch import atom_handler
-from rss_fetch import rss_handler
+from rss_fetch import sax_atom
+from rss_fetch import sax_rss
 from rss_fetch import subr_bitly
 from rss_fetch import subr_http
 from rss_fetch import subr_misc
@@ -50,9 +50,9 @@ def process_site(site, noisy):
         return
 
     if "http://www.w3.org/2005/Atom" in body:
-        handler = atom_handler.AtomHandler()
+        handler = sax_atom.AtomHandler()
     else:
-        handler = rss_handler.RssHandler()
+        handler = sax_rss.RssHandler()
     sax.parseString(body, handler)
 
     content = zip(handler.links, handler.pub_dates)
