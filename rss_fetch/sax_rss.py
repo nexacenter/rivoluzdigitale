@@ -22,6 +22,7 @@ from xml import sax
 
 import email.utils
 import getopt
+import json
 import sys
 
 class RssHandler(sax.ContentHandler):
@@ -68,6 +69,23 @@ class RssHandler(sax.ContentHandler):
         if name == "item":
             self.item = 0
 
+def each_post(data):
+    """ Parse content and yield a dictionary for each entry """
+    data = data.strip()
+    handler = RssHandler()
+    sax.parseString(data, handler)
+    for index in range(len(handler.titles)):
+        yield({
+               'year': handler.pub_dates[index][0],
+               'month': handler.pub_dates[index][1],
+               'day': handler.pub_dates[index][2],
+               'hour': handler.pub_dates[index][3],
+               'minute': handler.pub_dates[index][4],
+               'second': handler.pub_dates[index][5],
+               'title': handler.titles[index],
+               'link': handler.links[index],
+              })
+
 def main():
     """ Main function """
     try:
@@ -78,12 +96,9 @@ def main():
         sys.exit("usage: sax_rss.py")
 
     data = sys.stdin.read()
-    data = data.strip()
-    handler = RssHandler()
-    sax.parseString(data, handler)
-    for index in range(len(handler.titles)):
-        sys.stdout.write("[%s] \"%s\" <%s>\n" % (handler.pub_dates[index],
-          handler.titles[index], handler.links[index]))
+    for post in each_post(data):
+        json.dump(post, sys.stdout, indent=4)
+        sys.stdout.write("\n\n")
 
 if __name__ == "__main__":
     main()
