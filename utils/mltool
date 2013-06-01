@@ -35,11 +35,12 @@ EMAIL = re.compile("[a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+")
 # XXX Some substitutions to have more clear names
 SUBST = {
          "alf4pk": "andrea.la.fico",
-         "carolina93": "carolina.pizzutto",
+         "carolina_93": "carolina.pizzutto",
          "cino-93": "simone.leonardi",
          "s191234": "emanuele.parrinello",
          "s193391": "stefano.franzoni",
          "s.franchy": "sebastiano.franchina",
+         "savebulls": "enrico.salvatori",
          "simbon93": "simone.bonvicini",
          "skyline500": "stefano.landi",
         }
