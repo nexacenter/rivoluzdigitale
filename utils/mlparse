@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
 from rss_fetch import subr_bitly
 
-PREFIX = "http://shelob.polito.it/rd/2013/m/2013-05-15"
+PREFIX = "http://shelob.polito.it/rd/2013/m/2013-06-01"
 
 def main():
     """ Main function """
@@ -47,16 +47,17 @@ def main():
             urlpath = os.sep.join([dirname, filename])
             url = os.sep.join([PREFIX, urlpath])
             bitlink = subr_bitly.shorten(url)
-            sys.stdout.write("- `%s`:\n" % urlpath)
-            sys.stdout.write("    - Bitlink: <%s>;\n" % bitlink)
-            sys.stdout.write("    - Subject: ;\n")
-            sys.stdout.write("    - List-address-in-To: ;\n")
-            sys.stdout.write("    - Re-only-when-In-Reply-To: ;\n")
-            sys.stdout.write("    - Space-after-ciao: ;\n")
-            sys.stdout.write("    - Line-length-ok: ;\n")
-            sys.stdout.write("    - Paragraphs: ;\n")
-            sys.stdout.write("    - Space-before-signature: ;\n")
-            sys.stdout.write("    - Notification-or-Discussion: .\n")
+            sys.stdout.write("### `%s`:\n" % urlpath)
+            sys.stdout.write("\n")
+            sys.stdout.write("- Bitlink: <%s>;\n\n" % bitlink)
+            sys.stdout.write("- Subject: ;\n\n")
+            sys.stdout.write("- List-address-in-To: ;\n\n")
+            sys.stdout.write("- Re-only-when-In-Reply-To: ;\n\n")
+            sys.stdout.write("- Space-after-ciao: ;\n\n")
+            sys.stdout.write("- Line-length-ok: ;\n\n")
+            sys.stdout.write("- Paragraphs: ;\n\n")
+            sys.stdout.write("- Space-before-signature: ;\n\n")
+            sys.stdout.write("- Notification-or-Discussion: .\n\n")
             sys.stdout.write("\n\n")
             sys.stdout.flush()
             time.sleep(random.randrange(1, 2))
