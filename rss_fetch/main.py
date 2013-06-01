@@ -50,7 +50,7 @@ def process_site(site, noisy):
         return
     body = result[0]
 
-    if "http://www.w3.org/2005/Atom" in body:
+    if "<rss" not in body:
         handler = sax_atom.AtomHandler()
     else:
         handler = sax_rss.RssHandler()
