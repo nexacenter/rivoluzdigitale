@@ -1,0 +1,300 @@
+#!/usr/bin/env python
+
+#
+# Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
+#
+# Permission to use, copy, modify, and distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+#
+
+""" Mailing list dump parser """
+
+import email.parser
+import getopt
+import json
+import os
+import re
+import subprocess
+import sys
+
+if __name__ == "__main__":
+    sys.path.insert(0, ".")
+
+from rdtool import subr_bitly
+
+PERIOD_REGEX = re.compile("^[0-9]{4}-[0-9]{2}-[0-9]{2}$")
+PREFIX = "http://shelob.polito.it/rd/2013/m"
+
+MESSAGE_BG = "\n%s [b]ad, or [g]ood"
+
+MESSAGE_BGN = "\n%s [b]ad, [g]ood, or [n]/a"
+
+def show_message(destfile):
+    """ Show a message using more """
+    sys.stdout.write("--- begin message ---\n\n\n")
+    filep = open(destfile, "r")
+    subprocess.call(["/usr/bin/more"], stdin=filep)
+    filep.close()
+    sys.stdout.write("--- end message ---\n\n\n")
+
+def prompt_yes_no(prompt):
+    """ Prompt the user and read his/her response """
+    while True:
+        sys.stdout.write(prompt)
+        sys.stdout.write(" (y/n)? [n] ")
+        sys.stdout.flush()
+        line = sys.stdin.readline()
+        if not line:
+            continue
+        line = line.strip().lower()
+        if line == "y":
+            return True
+        if line == "n" or not line:
+            return False
+        sys.stdout.write("*** invalid input: %s\n" % line)
+
+def prompt_bg_skip(prompt, filepath):
+    """ Prompt the user and read his/her response """
+    while True:
+        sys.stdout.write(MESSAGE_BG % prompt)
+        sys.stdout.write(" (b/g)? [skip] ")
+        sys.stdout.flush()
+        line = sys.stdin.readline()
+        if not line:
+            continue
+        line = line.strip().lower()
+        if not line:
+            return "skip"
+        if line == "b":
+            return "bad"
+        if line == "g":
+            return "good"
+        if line == "!":
+            show_message(filepath)
+            continue
+        sys.stdout.write("*** invalid input: %s\n" % line)
+
+def prompt_bgn_skip(prompt, filepath):
+    """ Prompt the user and read his/her response """
+    while True:
+        sys.stdout.write(MESSAGE_BGN % prompt)
+        sys.stdout.write(" (b/g/n)? [skip] ")
+        sys.stdout.flush()
+        line = sys.stdin.readline()
+        if not line:
+            continue
+        line = line.strip().lower()
+        if not line:
+            return "skip"
+        if line == "b":
+            return "bad"
+        if line == "g":
+            return "good"
+        if line == "n":
+            return "not-applicable"
+        if line == "!":
+            show_message(filepath)
+            continue
+        sys.stdout.write("*** invalid input: %s\n" % line)
+
+def prompt_choice(prompt, choices, filepath):
+    """ Prompt the user and read his/her response """
+    while True:
+        sys.stdout.write("\n" + prompt)
+        sys.stdout.write("? [skip] ")
+        sys.stdout.flush()
+        line = sys.stdin.readline()
+        if not line:
+            continue
+        line = line.strip().lower()
+        if line in choices:
+            return line
+        if not line:
+            return ""
+        if line == "!":
+            show_message(filepath)
+            continue
+        sys.stdout.write("*** invalid input: %s\n" % line)
+
+def parse_message(destfile):
+    """ Parse an email message """
+    filep = open(destfile, "r")
+    parser = email.parser.FeedParser()
+    parser.feed(filep.read())
+    filep.close()
+    return parser.close()
+
+def process_message(meta, destfile, period, student, message_id):
+    """ Process a single message """
+
+    if not message_id in meta:
+        record = meta[message_id] = {
+                                     "bitlink": "",
+                                     "subject": "",
+                                     "list-address-in-to": "",
+                                     "re-only-when-in-reply-to": "",
+                                     "space-after-greetings": "",
+                                     "line-length-ok": "",
+                                     "paragraphs": "",
+                                     "space-before-signature": "",
+                                     "notification-or-discussion": "",
+                                    }
+    else:
+        record = meta[message_id]
+
+    anyone = False
+    for key, value in record.items():
+        if not value:
+            anyone = key
+    if not anyone:
+        return
+
+    sys.stdout.write("\nMessage: %s/%s/%s\n\n" % (period, student, message_id))
+
+    show_message(destfile)
+
+    message = parse_message(destfile)
+
+    if not record["bitlink"]:
+        sys.stdout.write("Shortening URL with bitly...")
+        sys.stdout.flush()
+        url = os.sep.join([PREFIX, period, student, message_id])
+        url = subr_bitly.shorten(url)
+        record["bitlink"] = url
+        sys.stdout.write("done\n")
+
+    if not record["subject"]:
+        if not message["subject"].startswith("Re: "):
+            sys.stdout.write("\nMessage subject:\n")
+            sys.stdout.write("  >>> %s <<<\n" % message["subject"])
+            res = prompt_bg_skip("Is the subject", destfile)
+            if res != "skip":
+                record["subject"] = res
+        else:
+            record["subject"] = "not-applicable"
+
+    if not record["list-address-in-to"]:
+        if message["to"] == "mailing-list":
+            record["list-address-in-to"] = "yes"
+        else:
+            record["list-address-in-to"] = "no"
+
+    if not record["re-only-when-in-reply-to"]:
+        starts_with_re = message["subject"].startswith("Re: ")
+        in_reply_to = message["In-Reply-To"]
+        if ((starts_with_re and in_reply_to) or (not starts_with_re and
+          not in_reply_to)):
+            record["re-only-when-in-reply-to"] = "yes"
+        elif not in_reply_to and starts_with_re:
+            record["re-only-when-in-reply-to"] = "digest"
+        else:
+            record["re-only-when-in-reply-to"] = "no"
+
+    if not record["space-after-greetings"]:
+        res = prompt_bgn_skip("Is the space after greetings", destfile)
+        if res != "skip":
+            record["space-after-greetings"] = res
+
+    if not record["line-length-ok"]:
+        if not message["X-Stats-Long-Lines"]:
+            record["line-length-ok"] = "yes"
+        else:
+            record["line-length-ok"] = "no"
+
+    if not record["paragraphs"]:
+        res = prompt_bgn_skip("Are the paragraphs", destfile)
+        if res != "skip":
+            record["paragraphs"] = res
+
+    if not record["space-before-signature"]:
+        res = prompt_bgn_skip("Is the space before signature", destfile)
+        if res != "skip":
+            record["space-before-signature"] = res
+
+    if not record["notification-or-discussion"]:
+        res = prompt_choice("Is the message notification or discussion",
+                            ("notification", "discussion"), destfile)
+        if res:
+            record["notification-or-discussion"] = res
+
+def process_student(destdir, period, student):
+    """ Process a student's emails """
+
+    filepath = os.sep.join([destdir, "meta.json"])
+    if os.path.isfile(filepath):
+        filep = open(filepath, "r")
+        content = filep.read()
+        if content:
+            meta = json.loads(content)
+        else:
+            meta = {}
+        filep.close()
+    else:
+        meta = {}
+
+    for message_id in sorted(os.listdir(destdir)):
+        if message_id == "meta.json":
+            continue
+        dirpath = os.sep.join([destdir, message_id])
+        if not os.path.isfile(dirpath):
+            continue
+        try:
+            process_message(meta, dirpath, period, student, message_id)
+        except KeyboardInterrupt:
+            filep = open(filepath, "w")
+            json.dump(meta, filep, indent=4)
+            filep.close()
+            raise
+
+    filep = open(filepath, "w")
+    json.dump(meta, filep, indent=4)
+    filep.close()
+
+def process_period(destdir, period):
+    """ Process a given time period """
+    for student in sorted(os.listdir(destdir)):
+        dirpath = os.sep.join([destdir, student])
+        if not os.path.isdir(dirpath):
+            continue
+        if not prompt_yes_no("\nProcess '%s/%s'?" % (period, student)):
+            continue
+        process_student(dirpath, period, student)
+
+def main():
+    """ Main function """
+    try:
+        _, arguments = getopt.getopt(sys.argv[1:], "")
+    except getopt.error:
+        sys.exit("usage: utils/mlrank dir...")
+    if not arguments:
+        sys.exit("usage: utils/mlrank dir...")
+
+    sys.stdout.write("Welcome to the ML rank tool!  This tool will walk the\n")
+    sys.stdout.write("directory structure of mailing list messages and ask\n")
+    sys.stdout.write("you questions about email messages.\n\n")
+
+    sys.stdout.write("When you are asked a question about an email message,\n")
+    sys.stdout.write("you can see the original message by typing '!'.\n\n")
+
+    for destdir in arguments:
+        for period in sorted(os.listdir(destdir)):
+            if not PERIOD_REGEX.match(period):
+                continue
+            dirpath = os.sep.join([destdir, period])
+            if not os.path.isdir(dirpath):
+                continue
+            if not prompt_yes_no("\nProcess '%s'?" % period):
+                continue
+            process_period(dirpath, period)
+
+if __name__ == "__main__":
+    main()
