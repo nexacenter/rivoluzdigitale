@@ -1,4 +1,4 @@
-# rss_fetch/subr_http.py
+# rdtool/subr_http.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>

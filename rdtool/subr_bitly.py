@@ -1,4 +1,4 @@
-# rss_fetch/subr_bitly.py
+# rdtool/subr_bitly.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
@@ -27,7 +27,7 @@ import urllib
 if __name__ == "__main__":
     sys.path.insert(0, ".")
 
-from rss_fetch import subr_http
+from rdtool import subr_http
 
 #
 # You cannot shorten URLs using /v3/shorten unless you are authenticated;

@@ -1,4 +1,4 @@
-# rss_fetch/__init__.py
+# rdtool/__init__.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
@@ -16,4 +16,4 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #
 
-""" RSS fetch toplevel module """
+""" Tool for Rivoluz Digitale """

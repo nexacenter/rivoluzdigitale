@@ -1,4 +1,4 @@
-# rss_fetch/sax_rss.py
+# rdtool/sax_atom.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
@@ -16,28 +16,28 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #
 
-""" SAX RSS content handler """
+""" SAX Atom content handler """
 
 from xml import sax
 
-import email.utils
 import getopt
 import json
 import sys
+import time
 
-class RssHandler(sax.ContentHandler):
-    """ SAX RSS content handler """
+class AtomHandler(sax.ContentHandler):
+    """ Atom RSS content handler """
 
     #
-    # We want to gather (and strip) the content of the <title>, <pubDate>,
-    # and <link> tags of each <item>.
+    # We want to gather (and strip) the content of the <title>, <published>,
+    # and <link> tags of each <entry>.
     #
     # pylint: disable=C0103
     #
 
     def __init__(self):
         sax.ContentHandler.__init__(self)
-        self.item = 0
+        self.entry = 0
         self.content = []
         self.current = None
         self.links = []
@@ -46,33 +46,46 @@ class RssHandler(sax.ContentHandler):
 
     def startElement(self, name, attrs):
         self.current = name
-        if name == "item":
-            self.item = 1
+        if name == "entry":
+            self.entry = 1
+        elif name == "link":
+            if self.entry:
+                attrs = dict(attrs)
+                if (
+                    attrs.get("rel") == "alternate" and
+                    attrs.get("type") == "text/html"
+                   ):
+                    self.links.append(attrs["href"])
 
     def characters(self, content):
-        if self.item:
+        if self.entry:
             self.content.append(content)
 
     def endElement(self, name):
         self.current = None
-        if self.item:
+        if self.entry:
             content = "".join(self.content)
             content = content.strip()
-            if name == "pubDate":
-                timestruct = email.utils.parsedate(content)
+            if name == "published":
+                # Example: 2013-05-12T12:57:40.531+02:00
+                # XXX Ignoring the timezone
+                index = content.find(".")
+                if index <= 0:
+                    raise RuntimeError("atom_handler: unexpected time format")
+                content = content[:index]
+                timestruct = time.strptime(content, "%Y-%m-%dT%H:%M:%S")
+                timestruct = tuple(timestruct)
                 self.pub_dates.append(timestruct)
             elif name == "title":
                 self.titles.append(content)
-            elif name == "link":
-                self.links.append(content)
         self.content = []
-        if name == "item":
-            self.item = 0
+        if name == "entry":
+            self.entry = 0
 
 def each_post(data):
     """ Parse content and yield a dictionary for each entry """
     data = data.strip()
-    handler = RssHandler()
+    handler = AtomHandler()
     sax.parseString(data, handler)
     for index in range(len(handler.titles)):
         yield({
@@ -91,9 +104,9 @@ def main():
     try:
         options, arguments = getopt.getopt(sys.argv[1:], "")
     except getopt.error:
-        sys.exit("usage: sax_rss.py")
+        sys.exit("usage: sax_atom.py")
     if options or arguments:
-        sys.exit("usage: sax_rss.py")
+        sys.exit("usage: sax_atom.py")
 
     data = sys.stdin.read()
     for post in each_post(data):

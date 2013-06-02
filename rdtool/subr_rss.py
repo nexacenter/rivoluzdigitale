@@ -1,4 +1,4 @@
-# rss_fetch/subr_rss.py
+# rdtool/subr_rss.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
@@ -25,7 +25,7 @@ import sys
 if __name__ == "__main__":
     sys.path.insert(0, ".")
 
-from rss_fetch import subr_http
+from rdtool import subr_http
 
 PATHS = (
          "/rss",      # tumblr.com

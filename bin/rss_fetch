@@ -16,4 +16,4 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #
 
-/usr/bin/env python rss_fetch/main.py $@
+/usr/bin/env python rdtool/rss_fetch.py $@

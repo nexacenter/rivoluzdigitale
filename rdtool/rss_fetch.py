@@ -1,4 +1,4 @@
-# rss_fetch/main.py
+# rdtool/rss_fetch.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
@@ -31,12 +31,12 @@ if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.dirname(
       os.path.abspath(__file__))))
 
-from rss_fetch import sax_atom
-from rss_fetch import sax_rss
-from rss_fetch import subr_bitly
-from rss_fetch import subr_http
-from rss_fetch import subr_misc
-from rss_fetch import subr_rss
+from rdtool import sax_atom
+from rdtool import sax_rss
+from rdtool import subr_bitly
+from rdtool import subr_http
+from rdtool import subr_misc
+from rdtool import subr_rss
 
 def process_site(site, noisy):
     """ Process the feeds of a site """
