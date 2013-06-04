@@ -9,37 +9,23 @@ By Simone Basso, et al. &mdash; License: CC BY-SA 3.0 Unported
 - @Ale_Cannone: post scaricati da @bassosimone fino al 15
 maggio! Verranno scaricati i post dei blog ogni 15 giorni circa
 
-- @SabryKarate: Nei tweet ricordatevi di inserire il LINK permanente
-del POST, NON quello del BLOG!
+- @SabryKarate & @Ale_Cannone: Nei tweet per segnalare i nuovi post
+mettere permalink del post non del blog, con descrizione o titolo
+e inserire @RivoluzDigitale non l'hashtag RivoluzDigitale
+che invece si usa durante live tweeting
 
-- @SabryKarate: @RivoluzDigitale: per informare l'account del corso
-riguardo a nuovi post. : si usa per il live tweeting. ( @ !=  )
-
-- @Ale_Cannone: Nei tweet per segnalare i nuovi post mettere permalink,
-descrizione o titolo del post e inserire @RivoluzDigitale non
 
 ### @CBlengio
 
-- @Antonio_Langiu: oggi tiene lezione l'avvocato Carlo Blengino..
+- @DavidePalermo2, @Carrattrezzi, @paolopopolizio,
+@Antonio_Langiu,@SabryKarate,@93_checco:
+Oggi l'avv. e fellow del @nexacenter @CBlengio parla di 
+RivoluzDigitale e Legge al Corso di @RivoluzDigitale
+Scrive sul blog: http://t.co/h2MLKUDj4u
 
-- @93_checco: Oggi ospite @cblengio
-
-- @DavidePalermo2: Oggi @CBlengio parla di e Legge al Corso di
-@RivoluzDigitale Stay Tuned for LiveTweeting CC @BlogTDW
-
-- @SabryKarate: Oggi, l'avv. e fellow del @nexacenter @CBlengio sarà
-ospite a Scrive sul blog: http://t.co/h2MLKUDj4u @RivoluzDigitale
-
-- @SabryKarate: @Xfox1 L'ospite di oggi a sarà l'avvocato @CBlengio,
-Carlo Blengino
 
 - @SabryKarate: Un benvenuto all'avv.Carlo Blengino al corso di
 RivoluzDigitale @CBlengio http://t.co/lhwgDcbAIl
-
-- @Carrattrezzi: @CBlengio a  per spiegarci il rapporto tra legge e rete
-
-- @paolopopolizio: @CBlengio ospite della lezione di rivoluzione digitale
-presso politecnico di Torino
 
 - @DavidePalermo2: @CBlengio ci presenta la legge nella rete di cui
 tanto abbiamo parlato a http://t.co/LsZJGMKjR7
