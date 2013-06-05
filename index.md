@@ -31,9 +31,11 @@ RivoluzDigitale @CBlengio http://t.co/lhwgDcbAIl
 tanto abbiamo parlato a http://t.co/LsZJGMKjR7
 
 - @SabryKarate & @Carrattrezzi: Le lezioni saranno divise in 2 parti. Parte 1:
-Internet, anarchia del web e reati in rete. Parte 2: leggi e controllo dei contenuti + domande @CBlengio
+Internet, anarchia del web e reati in rete. Parte 2: leggi e controllo dei
+contenuti + domande @CBlengio
 
-- @_FedericoConte,@paolopopolizio, @ripa_pepperipa, @VadimCujba, @Antonio_Langiu, @Clerish: Reato è azione a cui consegue la peggiore delle
+- @_FedericoConte,@paolopopolizio, @ripa_pepperipa, @VadimCujba,
+@Antonio_Langiu, @Clerish: Reato è azione a cui consegue la peggiore delle
 reazioni dello stato (galera ad es.)
 
 - @Gare_1993: "I fought the law and the law won" The Clash a
@@ -43,8 +45,9 @@ http://t.co/rSmlgMdvuR
 
 - @DavidePalermo2: @CBlengio cita @lauraboldrini e le "minacce" in rete
 
-- @FabioBussi, @LorenzoCutelle, @LucaLiuzzi, @Enzocarlino2: "Internet è un mondo senza regole" cit. Antonello Soro
-(garante privacy) citazioni poco fortunate perchè lui dovrebbe imporle
+- @FabioBussi, @LorenzoCutelle, @LucaLiuzzi, @Enzocarlino2: "Internet è u
+mondo senza regole" cit. Antonello Soro (garante privacy) citazioni poco
+fortunate perchè lui dovrebbe imporle
 
 - @paolopopolizio: autorità di garanzia dati personali: è un'autorità
 amministrativa indipendente per assicurare la tutela dei diritti
@@ -54,9 +57,11 @@ e libertà
 on-line? e ciò che è illecito online è meno illecito nel
 mondo reale? chiede @CBlengio
 
-- @Rexsimo893, @Xfox1: Purtroppo non è la stessa cosa, il mezzo influisce [sull'impatto del reato]! 
+- @Rexsimo893, @Xfox1: Purtroppo non è la stessa cosa, il mezzo influisce
+[sull'impatto del reato]! 
 
-- @SabryKarate, @DavidePalermo2, @Xfox1, @FabioBussi, @Antonio_Langiu: La Rivoluzione Digitale ha creato dei nuovi
+- @SabryKarate, @DavidePalermo2, @Xfox1, @FabioBussi, @Antonio_Langiu:
+La Rivoluzione Digitale ha creato dei nuovi
 reati? Sono nati nuovi beni giuridici, nuovi diritti che devono
 essere tutelati dallo Stato? @CBlengio
 
@@ -65,14 +70,17 @@ essere tutelati dallo Stato? @CBlengio
 - @DavidePalermo2: Il reato sanziona la condotta, una mala condotta
 viene riconosciuta da tutti nella normalità
 
-- @DavidePalermo2, @Xfox1, @LucaLiuzzi, @paolopopolizio: Parliamo di Computer Crime
+- @DavidePalermo2, @Xfox1, @LucaLiuzzi, @paolopopolizio: Parliamo di
+Computer Crime
 
 - @enricoiucci: Il reato è un qualcosa che va contro il bene comune
 
 - @93_checco: Il nostro ospite @cblengio  http://t.co/p8uBta3bND
 
-- @Ale_Cannone, @EmaParrinello, @SabryKarate: Tutti i reati hanno alla base un bene giuridico di base per
-esempio la diffamazione ha la reputazione. Deve essere comprensibile e chiaro se una certa azione
+- @Ale_Cannone, @EmaParrinello, @SabryKarate: Tutti i reati hanno alla base
+un bene giuridico di base per
+esempio la diffamazione ha la reputazione. Deve essere comprensibile e chiaro
+se una certa azione
 è un reato. Diffamazione colpisce gravemente Reputazione. @CBlengio
 
 - @venadavide: La diffamazione su un blog può essere più grave della
@@ -81,10 +89,12 @@ diffamazione in un bar
 - @ripa_pepperipa: Ogni 18 secondi c'è un reato informatico ---&gt;
 Computer Crime by @CBlengio
 
-- @DavidePalermo2, @FabioBussi, @Carrattrezzi: Definizione di Computer Crime che non
-vale! http://t.co/5tDTTihFUG : tutti i reati che abbiano come oggetto i computer o che
+- @DavidePalermo2, @FabioBussi, @Carrattrezzi: Definizione di Computer Crime
+che non vale! http://t.co/5tDTTihFUG : tutti i reati che abbiano come oggetto
+i computer o che
 tramite essi si diffondono non sono reati informatici... NO!
-"I crimini informatici hanno il computer come mezzo o come fine" (anche il furto di un pc risulterebbe crimine informatico per questa definizione)
+"I crimini informatici hanno il computer come mezzo o come fine" (anche
+il furto di un pc risulterebbe crimine informatico per questa definizione)
 
 - @SabryKarate: Reati informatici. Non hanno a che fare con furti di
 computer, ma sono reati compiuti tramite mezzi informatici. @CBlengio
@@ -92,10 +102,12 @@ computer, ma sono reati compiuti tramite mezzi informatici. @CBlengio
 - @Antonio_Langiu: Se oggi Totò dovesse vendere la fontana di trevi lo
 farebbe su ebay?
 
-- @DavidePalermo2, @paolopopolizio, @Ale_Cannone: Diffamazione non è reato strettamente informatico! Il mezzo
+- @DavidePalermo2, @paolopopolizio, @Ale_Cannone: Diffamazione non � reato
+strettamente informatico! Il mezzo
 informatico è solo un mezzo per renderlo più noto
 
-- @Xfox1, @DavidePalermo2: se ti tiro un computer addosso è aggressione o aggressione
+- @Xfox1, @DavidePalermo2: se ti tiro un computer addosso è aggressione o
+aggressione
 informatica? Danneggiamento o danneggiamento
 informatico? http://t.co/rM9TinJKx0
 
