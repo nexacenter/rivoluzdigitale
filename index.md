@@ -144,7 +144,7 @@ ai sistemi informativi)
 - @Xfox1: patrimonio, diritti della persona, pubblica fede,
 amministrazione della giustizia! I possibili reati!
 
-- @bassosimone, @SabryKarate, @Digimovement, , @FabioBussi: i reati
+- @bassosimone, @SabryKarate, @Digimovement, @FabioBussi: i reati
 informatici sono pluri offensivi (ti spacco smartphone e 
 ti spacco anche un pezzo della tua vita).
 Sono reati che danneggiano patrimonio, diritti della persona,
