@@ -30,159 +30,80 @@ RivoluzDigitale @CBlengio http://t.co/lhwgDcbAIl
 - @DavidePalermo2: @CBlengio ci presenta la legge nella rete di cui
 tanto abbiamo parlato a http://t.co/LsZJGMKjR7
 
-- @SabryKarate: Le lezioni saranno divise in 2 parti. Today, Part 1:
-Reati in rete @CBlengio
+- @SabryKarate & @Carrattrezzi: Le lezioni saranno divise in 2 parti. Parte 1:
+Internet, anarchia del web e reati in rete. Parte 2: leggi e controllo dei contenuti + domande @CBlengio
 
-- @paolopopolizio: cso'è un reato? -un'azione a cui consegue la peggire
-delle azioni dello stato (galera..)
+- @_FedericoConte,@paolopopolizio, @ripa_pepperipa, @VadimCujba, @Antonio_Langiu, @Clerish: Reato è azione a cui consegue la peggiore delle
+reazioni dello stato (galera ad es.)
 
 - @Gare_1993: "I fought the law and the law won" The Clash a
 http://t.co/rSmlgMdvuR
 
-- @ripa_pepperipa: @CBlengio ci parla dei reati di rete e delle leggi
-per il controllo dei contenuti
-
 - @Xfox1: si prospetta una lezione interessante
-
-- @_FedericoConte: Reato: azione a cui consegue la peggiore delle
-reazioni dello stato
-
-- @Carrattrezzi: Today on: Internet e l'anarchia del web On Friday 4.30PM:
-La guerra per internet: le leggi per il controllo dei contenuti
 
 - @DavidePalermo2: @CBlengio cita @lauraboldrini e le "minacce" in rete
 
-- @Antonio_Langiu: Per iniziare: Che cos'è un reato? Un azione che
-viola le leggi dello stato!
+- @FabioBussi, @LorenzoCutelle, @LucaLiuzzi, @Enzocarlino2: "Internet è un mondo senza regole" cit. Antonello Soro
+(garante privacy) citazioni poco fortunate perchè lui dovrebbe imporle
 
-- @Clerish: @CBlengio: Il reato è una condotta, che genera la peggiore
-reazione dello Stato: la punizione
-
-- @VadimCujba: Reato: azione punibile dalla legge
-
-- @FabioBussi: Garante privacy afferma che è internet è un mondo senza
-regole, quando lui deve imporle
-
-- @LucaLiuzzi: Internet.Una sconfinata prateria senza regole?
-
-- @paolopopolizio: autorità di garanzia dati personali:autorità
+- @paolopopolizio: autorità di garanzia dati personali: è un'autorità
 amministrativa indipendente per assicurare la tutela dei diritti
 e libertà
 
-- @SabryKarate: Ciò che è illecito nel mondo reale è meno illecito
-online? @CBlengio
+- @DavidePalermo2, @SabryKarate, @Rexsimo893, @paolopopolizio, @Antonio_Langiu, @FabioBussi: Ciò che è illecito off-line, è meno illecito
+on-line? e ciò che è illecito online è meno illecito nel
+mondo reale? chiede @CBlengio
 
-- @DavidePalermo2: Ciò che è illecito off-line, è meno illecito
-on-line?
+- @Rexsimo893, @Xfox1: Purtroppo non è la stessa cosa, il mezzo influisce [sull'impatto del reato]! 
 
-- @Antonio_Langiu: Ciò che è illecito on-line è anche illecito
-off-line?
-
-- @Enzocarlino2: Internet non è una prateria senza regole
-
-- @SabryKarate: ...e ciò che è illecito online è meno illecito nel
-mondo reale? @CBlengio
-
-- @FabioBussi: ciò che è lecito nella rete è illecito nella vita
-reale o viceversa???
-
-- @LorenzoCutelle: "Internet è un mondo senza regole" cit. Antonello Soro
-(garante privacy) citazioni poco fortunate @CBlengio
-
-- @Xfox1: il mezzo influisce [sull'impatto del reato]!
-
-- @SabryKarate: La Rivoluzione digitale ha creato dei nuovi
-reati? @CBlengio
-
-- @DavidePalermo2: " ha creato nuovi reati?" @CBlengio
-
-- @Xfox1: la rivoluzione digitale ha creato dei reati?
-
-- @Antonio_Langiu: La rivoluzione digitale ha creato nuovi reati?
-
-- @Rexsimo893: Ciò che è illecito on-line è meno illecito off-line? O
-no? "Purtroppo non è la stessa cosa" @CBlengio
-
-- @paolopopolizio: ciò che è illecito on-line può essere più grave
-di un reato commesso off-line
-
-- @SabryKarate: Sono nati nuovi beni giuridici, nuovi diritti che devono
+- @SabryKarate, @DavidePalermo2, @Xfox1, @FabioBussi, @Antonio_Langiu: La Rivoluzione Digitale ha creato dei nuovi
+reati? Sono nati nuovi beni giuridici, nuovi diritti che devono
 essere tutelati dallo Stato? @CBlengio
 
-- @FabioBussi: la rivoluzione digitale ha portato a nuovi diritti e beni
-giuridici che devono essere tutelati.
-
-- @venadavide: La diffamazione su un blog può essere più grave della
-diffamazione in un bar
-
 - @paolopopolizio: il bene giuridico deve corrispondere al bene collettivo
-
-- @Antonio_Langiu: La RD ha creato nuovi beni giuridici, nuovi diritti
-che debbono essere tutelati con la più severa reazione dello stato?
 
 - @DavidePalermo2: Il reato sanziona la condotta, una mala condotta
 viene riconosciuta da tutti nella normalità
 
-- @Xfox1: ComputerCrime
-
-- @DavidePalermo2: Parliamo di Computer Crime
+- @DavidePalermo2, @Xfox1, @LucaLiuzzi, @paolopopolizio: Parliamo di Computer Crime
 
 - @enricoiucci: Il reato è un qualcosa che va contro il bene comune
 
-- @LucaLiuzzi: Si parla di Computer Crime - reati informatici
-
 - @93_checco: Il nostro ospite @cblengio  http://t.co/p8uBta3bND
 
-- @Ale_Cannone: Tutti i reati hanno alla base un bene giuridico per
-esempio la diffamazione ha alla base la reputazione
-
-- @EmaParrinello: il bene giuridico della diffamazione è la reputazione
-
-- @SabryKarate: Deve essere comprensibile e chiaro se una certa azione
+- @Ale_Cannone, @EmaParrinello, @SabryKarate: Tutti i reati hanno alla base un bene giuridico di base per
+esempio la diffamazione ha la reputazione. Deve essere comprensibile e chiaro se una certa azione
 è un reato. Diffamazione colpisce gravemente Reputazione. @CBlengio
 
-- @paolopopolizio: i reati informatici sono detti: "Computer Crime"
-
-- @DavidePalermo2: Definizione di Computer Crime che non
-vale! http://t.co/5tDTTihFUG
+- @venadavide: La diffamazione su un blog può essere più grave della
+diffamazione in un bar
 
 - @ripa_pepperipa: Ogni 18 secondi c'è un reato informatico ---&gt;
 Computer Crime by @CBlengio
 
-- @DavidePalermo2: Diffamazione non è reato strettamente informatico!
-
-- @FabioBussi: tutti i reati che abbiano come oggetto i computer o che
-tramite essi si diffondono non sono reati informatici!!!
-
-- @Carrattrezzi: I crimini informatici hanno il computer come mezzo o
-come fine (anche il furto di un pc, per questa definizione)
-
-- @Antonio_Langiu: Se oggi Totò dovesse vendere la fontana di trevi lo
-farebbe su ebay?
-
-- @paolopopolizio: la diffamazione non è un reato informatico, il mezzo
-informatico è solo un mezzo per renderlo più noto
+- @DavidePalermo2, @FabioBussi, @Carrattrezzi: Definizione di Computer Crime che non
+vale! http://t.co/5tDTTihFUG : tutti i reati che abbiano come oggetto i computer o che
+tramite essi si diffondono non sono reati informatici... NO!
+"I crimini informatici hanno il computer come mezzo o come fine" (anche il furto di un pc risulterebbe crimine informatico per questa definizione)
 
 - @SabryKarate: Reati informatici. Non hanno a che fare con furti di
 computer, ma sono reati compiuti tramite mezzi informatici. @CBlengio
 
-- @DavidePalermo2: Danneggiamento o danneggiamento
+- @Antonio_Langiu: Se oggi Totò dovesse vendere la fontana di trevi lo
+farebbe su ebay?
+
+- @DavidePalermo2, @paolopopolizio, @Ale_Cannone: Diffamazione non è reato strettamente informatico! Il mezzo
+informatico è solo un mezzo per renderlo più noto
+
+- @Xfox1, @DavidePalermo2: se ti tiro un computer addosso è aggressione o aggressione
+informatica? Danneggiamento o danneggiamento
 informatico? http://t.co/rM9TinJKx0
 
 - @Carrattrezzi: La questione dei crimini informatici (come fine) è
 ambigua e complessa
 
-- @Xfox1: se ti tiro un computer addosso è aggressione o aggressione
-informatica?
-
 - @SabryKarate: Problema di protezione dei dati personali, già era
-stato previsto nel 1981. @CBlengio
-
-- @paolopopolizio: nel 1981 viene istituita una sanzione penale sul
-furto di dati personali
-
-- @Ale_Cannone: Furto di pc e diffamazione non sono reati informatici
-i reati fatti attraverso i computer non sempre vanno considerati tali
+stato previsto nel 1981 con sanzione penale su furto dei dati personali.
 
 - @SabryKarate: Tutela del software... tramite tutela del diritto
 d'autore. @CBlengio
