@@ -102,7 +102,7 @@ computer, ma sono reati compiuti tramite mezzi informatici. @CBlengio
 - @Antonio_Langiu: Se oggi Totò dovesse vendere la fontana di trevi lo
 farebbe su ebay?
 
-- @DavidePalermo2, @paolopopolizio, @Ale_Cannone: Diffamazione non � reato
+- @DavidePalermo2, @paolopopolizio, @Ale_Cannone: Diffamazione non � reato
 strettamente informatico! Il mezzo
 informatico è solo un mezzo per renderlo più noto
 
@@ -128,25 +128,15 @@ d'autore. @CBlengio
 - @paolopopolizio: un dipendente che copia informazioni di un'azienda
 e le fornisce alla concorrenza è un esempio di reato informatico
 
-- @FabioBussi: dietro hai reati informatici ci sono tanti beni informatici
+- @SabryKarate, @Rexsimo893, @FabioBussi, @Carrattrezzi: Bene giuridico
+reati informatici sono dei beni: Si tutelano: libertà di espressione,
+riservatezza dei dati, corrispondenza, informazione ai cittadini
 
-- @SabryKarate: Si tutelano: libertà di espressione, riservatezza dei
-dati, corrispondenza, informazione ai cittadini, ... @CBlengio
-
-- @Carrattrezzi: Quanti beni ci sono nel nostro pc? Privacy,
-corrispondenza, libertà, e molto altro
-
-- @MorenoLaQuatra: Lezione di con l'avvocato @CBlengio al polito
+- @MorenoLaQuatra: Lezione con l'avvocato @CBlengio al polito
 http://t.co/y2sAE0qLtL
 
-- @Rexsimo893: Bene giuridico del reato informatico -&gt; per es. libertà
-espressione, privacy, domicilio informatico, corrispondenza
-
-- @DavidePalermo2: "frode informatica: si ha quando altero un sistema
-informatico" @CBlengio http://t.co/W7wwbxB1tf
-
-- @ripa_pepperipa: La frode informatica si ha quando si altera un sistema
-informatico generando un danno col proprio beneficio!
+- @DavidePalermo2, @ripa_pepperipa: "frode informatica: si ha quando altero un sistema
+informatico" generando un danno col proprio beneficio! ttp://t.co/W7wwbxB1tf
 
 - @Ale_Cannone: 2005 - Legge sui sistemi informativi (si passa dai dati
 ai sistemi informativi)
@@ -154,19 +144,13 @@ ai sistemi informativi)
 - @Xfox1: patrimonio, diritti della persona, pubblica fede,
 amministrazione della giustizia! I possibili reati!
 
-- @bassosimone: i reati informatici sono pluri offensivi (ti spacco
-smartphone e ti spacco anche un pezzo della tua vita)
+- @bassosimone, @SabryKarate, @Digimovement, , @FabioBussi: i reati
+informatici sono pluri offensivi (ti spacco smartphone e 
+ti spacco anche un pezzo della tua vita).
+Sono reati che danneggiano patrimonio, diritti della persona,
+pubblica fede, amministrazione della giustizia
 
 - @Antonio_Langiu: Differenza tra danneggiamento normale e informatico
-
-- @SabryKarate: Reati contro: - patrimonio - diritti della persona -
-pubblica fede - amministrazione della giustizia @CBlengio
-
-- @Digimovement: I reati informatici fra i reati del patrimonio, diritti
-della persona, pubblica fede e amministrazione della giustizia
-
-- @FabioBussi: cosa danneggiamo con i reati informatici? - patrimonio;
-- diritti persona; - pubblica fede; - amministrazione giustizia
 
 - @Antonio_Langiu: Il primo falso informatico è stato fatto nel
 93.. Tutti i falsi, informatici e non, sono puniti allo stesso modo!
@@ -196,46 +180,24 @@ informatico: seccante, perché richiede pagamenti ulteriori. @CBlengio
 
 - @Xfox1: la lezione di oggi! http://t.co/KjVqjfFIFc
 
-- @bassosimone: memento: la "mamma" di tutti i reati informatici e'
+- @bassosimone, @ripa_pepperipa, @paolopopolizio, @SabryKarate, @FabioBussi:
+memento: la "mamma"/il "papà" di tutti i reati informatici e'
 l'accesso abusivo
 
-- @ripa_pepperipa: L' Accesso Abusivo ---&gt; Padre di tutti i reati
-che si connetto in rete.
-
-- @paolopopolizio: "accesso abusivo": mamma dei reati commessi in rete
-
-- @AstoriPietro: La definizione di sistema informatico data dalla
-cassazione è una roba antica e incomprensibile!!!
-
-- @FabioBussi: l'accesso abusivo consiste nel appropriarsi di dati
-tenuti riservati
-
-- @Antonio_Langiu: Il problema maggiore è capire che cos'e' un sistema
-informatico?? la lavatrice lo è??
-
-- @SabryKarate: Talking about Accesso abusivo @CBlengio
+- @SimoneBleynat, @AstoriPietro, @Antonio_Langiu, @AstoriPietro, @Ale_Cannone:
+La definizione di sistema informatico data dalla cassazione è 
+una roba antica e incomprensibile! Il problema maggiore è 
+capire che cos'e' un sistema informatico?? la lavatrice lo è??
 
 - @SimoneBleynat: I sistemi informatici sono... sostanzialmente dei
 computer
-
-- @AstoriPietro: Un processo per determinare se la lavatrice è un
-sistema informatico... Beh non male direi!
-
-- @Ale_Cannone: La lavatrice è un sistema informatico? Via al processo!
 
 - @DavidePalermo2: semplicità delle leggi italiane slide by @CBlengio
 http://t.co/aPXi1a8W8j
 
 - @Antonio_Langiu: Processo per accesso abusivo a sistema informatico
-sky..ma il decoder è un sistema informatico?
-
-- @Antonio_Langiu: Oggi il decoder è un sistema informatico perchè si
-ha una comunicazione diretta col satellite..
-
-- @SimoneBleynat: Insomma, capire cos'è un sistema informatico non è
-così semplice (Computer? Decoder? Lavatrice?)
-
-- @DavidePalermo2: Phishing - Wikipedia http://t.co/2e9tq7Xn0S
+sky..ma il decoder è un sistema informatico? Oggi sì, è un sistema
+informatico perchè si ha una comunicazione diretta col satellite.
 
 - @Carrattrezzi: Forse i giudici dovrebbero fare una passeggiata al poli
 
@@ -245,23 +207,17 @@ così semplice (Computer? Decoder? Lavatrice?)
 - @bassosimone: phishing e le cosiddette 'truffe nigeriane' |
 http://t.co/eJmttWCwyb
 
-- @SabryKarate: Phishing: truffa informatica con cui l'aggressore cerca
-di ingannarvi, convincendovi a fornire info sensibili @CBlengio
+- - @DavidePalermo2, @SabryKarate, @FabioBussi: Phishing: truffa informatica 
+con cui l'aggressore cerca di ingannarvi, convincendovi a fornire
+info sensibili -- Phishing su Wikipedia http://t.co/2e9tq7Xn0S
 
-- @SimoneBleynat: Vietato farsi fregare dai phisher che promettono soldi
-facili millantando ricchi zii d'America
-
-- @SabryKarate: Attenzione ai "siti civetta", che acquisiscono le
-credenziali e le sfruttano per altri scopi. @CBlengio
-
-- @FabioBussi: Il Phishing consiste nel chiedere il proprio IBAN per
-poter accedere poi al proprio conto in banca con un sito civetta
+- @SimoneBleynat, @SabryKarate, @paolopopolizio: Attenzione ai
+"siti civetta", che acquisiscono le credenziali e le sfruttano
+per altri scopi. Vietato farsi fregare dai phisher che promettono
+soldi facili millantando ricchi zii d'America
 
 - @bassosimone: il backend del phishing e' uno schema di Ponzi su larga
 scala via Internet | http://t.co/m4dwwIIF1j
-
-- @paolopopolizio: fishing: con dei siti "civetta" vengono rubati i dati
-di accesso al proprio conto corrente
 
 - @bassosimone: accesso abusivo e' solo quando violi sistema o anche
 quando usi password di amministratore per rubare dati?
@@ -271,96 +227,44 @@ quando usi password di amministratore per rubare dati?
 - @SabryKarate: Accesso abusivo, è molto complesso definirlo con
 chiarezza a livello legale. Ci sono problemi applicativi. @CBlengio
 
-- @Antonio_Langiu: Non sono le norme che mancano su internet ma c'è
-una grossa difficoltà ad applicarle e farle applicare..
-
 - @DavidePalermo2: Accesso abusivo a un sistema informatico o telematico -
 Wikipedia http://t.co/WAp9H20fp0
 
 - @Ale_Cannone: Il diritto crea un loop basato su discussioni riguardanti
 qualcosa di non veramente definito?
 
-- @bassosimone: Sintesi: la difficolta' e' calare gli 'stampi rigidi'
-del diritto nel digitale, i.e. sono problemi applicativi @CBlengio
-
-- @Rexsimo893: Internet non è una terra senza regole, è solamente
-difficile trovare stampi rigidi dove collocare tutti i reati
-
-- @FabioBussi: la difficoltà di gestire i reati su internet è di
-riuscite a collocare ogni casistica di reato in parametri rigidi
+- @bassosimone, @Antonio_Langiu, @Rexsimo893, @FabioBussi, @Clerish:
+Sintesi: la difficolta' e' calare gli 'stampi rigidi' del diritto
+nel digitale, vi sono problemi applicativi
 
 - @bassosimone: .@CBlengio "le fattispecie di reato ci sono, allora xke'
 si alimenta mito far west?"
 
 - @DavidePalermo2: privacy e violazione copyright reati principali
 
-- @SabryKarate: Se ci sono reati e relative tutele, perché si continua
-a dire che "Internet è anarchico"? @CBlengio
+- @SabryKarate, @AstoriPietro: Se ci sono reati e relative tutele, 
+perché si continua a dire che "Internet è anarchico"? una terra senza limiti? 
 
-- @Clerish:  la difficoltà di definire i reati informatici sta nel
-fissare nelle forme rigide della legge la dinamicità dell'informatica
-
-- @AstoriPietro: Ma se i limiti ci sono, perché la rete viene definita
-una terra senza limiti, addirittura dal garante della privacy?
-
-- @Antonio_Langiu: La paura è una merce preziosa sul mercato della
-politica e del potere..
-
-- @SabryKarate: In nome della sicurezza siamo disposti a rinunciare a
-molte libertà. La paura gioca brutti scherzi. @CBlengio
-
-- @bassosimone: .@CBlengio "risposta che mi son dato: se faccio passare
-idea ke Internet insicuro, io posso regolarlo meglio"
-
-- @AstoriPietro: Se riesco a far passare l'idea che l'internet non è
-sicuro, io riesco a controllarlo meglio!
-
-- @_FedericoConte: la paura è una merce preziosa sul mercato della
-politica e del potere
-
-- @SoFranchy: I reati su internet ci sono. Perché alimentare il mito
-del far west? La paura è preziosa per politica e potere @CBlengio
-
-- @InesGraells: il mito del far west, internet non è sicuro?
-
-- @DavidePalermo2: La paura è merce preziosa per politica e potere
-CIT. @CBlengio http://t.co/sBbeJdLZF1
-
-- @SimoneBleynat: "La paura è una merce preziosa sul mercato della
-politica e del potere" cit. @CBlengio
-
-- @Carrattrezzi: Se abbiamo paura possiamo dare più potere alle
-autorità. Colpo di stato su Internet?
-
-- @Rexsimo893: Perchè si alimenta il mito del Far West?? Se passa l'idea
-che Internet non è sicuro posso controllarlo meglio @CBlengio
-
-- @paolopopolizio: "perchè si alimenta il rito del FarWest?" se riesco
-a convincere tutti che internet non è sicuro, posso controllarlo meglio
-
-- @Antonio_Langiu: Se riesco a dimostrare che internet è pericoloso
-riesco a far approvare norme che incidono su internet com'è oggi..
-
-- @ripa_pepperipa: se ci sono reati e tutela, perché si alimenta il
-mito del far west?
-
-- @FabioBussi: psicologicamente se affermo che internet è pericoloso
-riesco a controllarlo meglio con le rinunce dei singoli delle libertà
-
-- @ripa_pepperipa: (cont) ---&gt; Se riesco a far passare l’idea che
-internet non è sicuro, posso io stesso controllarlo meglio! by @CBlengio
-
-- @SimoneBleynat: "Chiunque sia disposto a rinunciare alle proprie
-libertà in cambio di sicurezza non le merita entrambe" BenjaminFranklin
-
-- @bassosimone: @CBlengio cane (telco) con sopra gatto (over the top,
-come facebook, google, etc)
+- @Antonio_Langiu, @SabryKarate, @bassosimone, @AstoriPietro, @SimoneBleynat,
+@_FedericoConte, @SoFranchy, @InesGraells, @DavidePalermo2, @Carrattrezzi,
+@Rexsimo893, @paolopopolizio, @ripa_pepperipa, @FabioBussi:
+In nome della sicurezza siamo disposti a rinunciare a molte libertà.
+La paura gioca brutti scherzi ed è una merce preziosa sul mercato della politica
+e del potere "perchè si alimenta il mito del FarWest?"
+"se faccio passare idea che Internet è insicuro, io posso regolarlo megli"
+Cit. @CBlengio http://t.co/sBbeJdLZF1 
 
 - @CaracciFabio: "In nome della sicurezza siamo disposti a rinunciare
 a molte libertà"
 
+- @SimoneBleynat: "Chiunque sia disposto a rinunciare alle proprie
+libertà in cambio di sicurezza non le merita entrambe" BenjaminFranklin
+
 - @DavidePalermo2: mercato, governi e lobby, utente @CBlengio
 http://t.co/3ytcizojSp
+
+- @bassosimone: @CBlengio cane (telco) con sopra gatto (over the top,
+come facebook, google, etc)
 
 - @Clerish: l'utente è un uccellino twittante :-)
 
