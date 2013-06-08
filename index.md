@@ -12,6 +12,7 @@ Langiu, et al. &mdash; License: CC BY-SA 3.0 Unported
 - [17 Maggio 2013](#2013-05-17)
 - [08 Maggio 2013](#2013-05-08)
 - [03 Maggio 2013](#2013-05-03)
+- [19 Aprile 2013](#2013-04-19)
 - [12 Aprile 2013](#2013-04-12)
 - [05 Aprile 2013](#2013-04-05)
 
@@ -5913,6 +5914,194 @@ mnemonico. #Rivoluzdigitale
 
 - @SabryKarate: Reminder: Fonti meglio dentro al testo, invece che in
   fondo. Inserire la caption delle immagini.
+
+
+## 2013-04-19
+
+### @funkysurfer
+
+- @ripa_pepperipa: #RivoluzDigitale: con Marco Zamperini @funkysurfer
+
+- @SabryKarate: "Imparare facendo" #RivoluzDigitale
+
+- @venadavide: Live #funkysurfer
+
+- @ripa_pepperipa: #RivoluzDigitale: La mente è come un paracadute,
+funziona solo quando è aperta! @funkysurfer
+
+- @a_loffreda: La mente è come un paracadute. Funziona solo quando
+è aperta. (Einstein)
+
+- @SabryKarate: "Innovation by costriction" cit.@funkysurfer
+#RivoluzDigitale
+
+- @MorenoLaQuatra: Google plus, netta dimostrazione che l'economia
+di internet è nettamente diversa da quella tradizionale #RivoluzDigitale
+con @funkysurfer
+
+- @LorenzoCutelle: Overblog e RebelMouse unisce tutti i tuoi social
+network e li visualizza automaticamente come un unico blog!
+#rivoluzdigitale @funkysurfer
+
+- @CaracciFabio: Lezione con zamperini: noiosa?? Macché; comica!!!
+:-)
+
+- @MatteoMonta93: Instagram è la dimostrazione che moltiplicare per
+zero non dà zero.. dà 1 miliardo di dollari! #RivoluzDigitale
+
+- @SabryKarate: Foursquare, permette la geolocalizzazione volontaria.
+@funkysurfer #RivoluzDigitale
+
+- @SabryKarate: In 10 anni di vita: Mainframe 1 milione di pezzi
+Minicomputer 10 milioni Personal Computer 100 milioni @funkysurfer
+#RivoluzDigitale
+
+- @MathieuMauri: @stefano_bitto ahahah per forza, @funkysurfer è
+un genio!
+
+- @stefano_bitto: @MathieuMauri segue la conferenza al corso
+#RivoluzDigitale senza mai distogliere lo sguardo O.O
+
+- @SabryKarate: 2,5 miliardi di utenti connessi a Internet entro
+fine anno @funkysurfer #RivoluzDigitale
+
+- @BalboDavide: "Angry Birds: lanciare con una fionda degli uccellini
+incazzati su dei maiali verdi, questa è cultura!" cit. @funkysurfer
+#RivoluzDigitale
+
+- @MorenoLaQuatra: Le generazioni Y e Z considerano la posta
+elettronica molto superata #RivoluzDigitale @funkysurfer verità
+assoluta ormai.
+
+- @SabryKarate: Grazie all'interfaccia assai intuitiva, molti device
+permettono una interazione più naturale @funkysurfer #RivoluzDigitale
+
+- @stefano_bitto: Video sui #NativiDigitali, fa riflettere. A 10
+anni non sapevo nemmeno che icona cliccare per andare su Internet
+#RivoluzDigitale
+
+- @LorenzoCutelle: La stampa tridimensionale è la tecnologia più
+vicina al teletrasporto! @funkysurfer #rivoluzdigitale
+
+- @FabioVallone: Ho effettuato l'iscrizione a LinkedIn e ho creato
+il mio profilo professionale. Entra a far parte della mia rete
+http://t.co/rhBmflpene #in
+
+- @arduinoallinclu: #Rivoluzdigitale,  @funkysurfer cita Arduino
+parlando di stampanti 3D: sono la cosa più vicina al teletrasporto
+e #Arduino ne è alla base.
+
+- @DavidePalermo2: @funkysurfer @RivoluzDigitale  A day Made Of
+Glass! http://t.co/X5xKpDG173
+
+- @DavidePalermo2: Matteoooooooooooooooooooooooooo @iMatt360 ...
+@funkysurfer ha provato i Google Glass! :-)
+
+- @stefano_bitto: Metropolitana a Shangai = 5 tacche. Aule del
+politecnico = 2 o 3 al massimo. @funkysurfer
+
+- @SabryKarate: Dipendenza hi-tech, negli ultimi anni c'è la paura
+di rimanere senza connessione a Internet http://t.co/YUML8ptvRy
+#RivoluzDigitale
+
+- @SabryKarate: Entro 2014 i terminali mobili saranno il primo
+canale di accesso ad Internet @funkysurfer #RivoluzDigitale
+
+- @93_checco: Nell' arco delle 24 ore mediamente non ci allontaniamo
+mai più di 20 cm dal nostro cellulare #rivoluzdigitale #funkysurfer
+
+- @WillieMacdouga: La lezione con @funkysurfer  mi ha fatto sentire
+un vecchio.
+
+- @stefano_bitto: "Si sta avverando sempre più la singolarità uomo-
+macchina" @funkysurfer #RivoluzDigitale
+
+- @Da93Mo: #RivoluzDigitale lezione interessante e divertente
+@funkysurfer
+
+- @FeFallace: Ogni tanto Milano insegna a Torino...@funkysurfer at
+#rivoluzdigitale
+
+- @SabryKarate: E' importante creare una consistente identità online
+@funkysurfer #RivoluzDigitale
+
+- @SabryKarate: Grazie per la fantastica lezione! Interessante ed
+anche divertente. A quando il bis?  @funkysurfer
+
+- @vitalethomas: Lezione divertente e interessante sui #socialmedia
+al corso di #rivoluzdigitale  | Grazie @funkysurfer :)
+
+- @SoFranchy: Intelligente mix tra conoscenze e comicità ha reso
+la lezione di @funkysurfer per #Rivoluzdigitale interessante,
+stimolante e divertente.
+
+- @ripa_pepperipa: @RivoluzDigitale Lezione fantastica con Marco
+Zamperini @funkysurfer
+
+- @rd_informazione: Ancora grazie da "Evoluzione e manipolazione
+dell'informazione" a @funkysurfer per la stimolante e divertente
+lezione di #RivoluzDigitale
+
+- @iacopo_poli: In formissima il @funkysurfer Marco Zamperini,
+illuminante! #openmind #RivoluzDigitale
+
+- @SoFranchy: @funkysurfer ovviamente esclusi gli apprezzamenti a
+@bassosimone :)
+
+- @paolopopolizio: Twitter lancia la sua  http://t.co/VQNmqBVrVW
+via @repubblicait
+
+- @paolopopolizio: Shazam, non soltanto la musica: ora riconosce
+anche i programmi tv - Repubblica.it http://t.co/HoXBYcQ6uT via
+@repubblicait
+
+- @Ale_Cannone: @RivoluzDigitale Oltre alla 'normale' lezione anche
+una lezione di vita: "imparate facendo!". @funkysurfer
+
+- @paolopopolizio: #RivoluzioneDigitale: lezione con Marco Zamperini
+@funkysurfer, davvero istruttiva, grazie.
+
+- @paolopopolizio: #RivoluzioneDigitale: #LinkedIn: un servizio web
+di rete sociale, impiegato principalmente per lo sviluppo di contatti
+professionali.
+
+- @paolopopolizio: #RivoluzioneDigitale: #Foursquare è un social
+network basato sulla geolocalizzazione disponibile tramite web e
+app per dispositivi mobili.
+
+- @paolopopolizio: #RivoluzioneDigitale: per chi non lo sapesse
+Zettabyte = 10^21 byte. Un'unità di misura dell'informazione o della
+quantità di dati.
+
+- @paolopopolizio: #RivoluzioneDigitale: Exabyte = 10^18 byte. Anche
+questa un'unità di misura dell'informazione o della quantità di
+dati.
+
+- @StefanoFranz20: Zamperini maestro di vita ... lezione costruttiva
+e divertente, solo pochi ci riescono :)  @funkysurfer
+
+- @paolopopolizio: #RivoluzioneDigitale: @funkysurfer : "i giovani
+sono più propensi alla nuova tecnologia perché non hanno una barriera
+culturale"
+
+- @paolopopolizio: #RivoluzioneDigitale: Umanizzazione degli apparati:
+prima è l'uomo che si doveva adeguare alla macchina, oggi la macchina
+si adatta a lui.
+
+- @paolopopolizio: #RivoluzioneDigitale: #e-penis : misura la tua
+reputazione su twitter
+
+- @paolopopolizio: #RivoluzioneDigitale: #siry personal assistant
+digitale
+
+- @paolopopolizio: #RivoluzioneDigitale: #siry personal assistant
+digitale http://t.co/wKJIM874dF date un occhiate @RivoluzDigitale
+
+- @MorenoLaQuatra: Interessantissima ed esilarante lezione oggi al
+#polito #RivoluzDigitale , grazie a @funkysurfer i miei complimenti.
+
+- @Simon_Tumi: Lezione molto interessante a @RivoluzDigitale  con
+un mitico Marco Zamperini @funkysurfer
 
 
 ## 2013-04-12
