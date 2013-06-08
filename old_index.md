@@ -1,12 +1,5 @@
-Indice lezioni di Rivoluzione Digitale (beta)
 
-by Simone Basso et al. - License: CC BY-SA 3.0 Unported
-
-Continua qui:
-[https://github.com/bassosimone/rivoluzionedigitale/blob/master/index.md](https://github.com/bassosimone/rivoluzionedigitale/blob/master/index.md)
-
-2013-04-10
-==========
+# 2013-04-10
 
 1.  Lezione di @bassosimone
 2.  Oggi é l'ultimo giorno per formare un gruppo. Chi non lo forma non
@@ -168,8 +161,7 @@ Continua qui:
 2.  Non basta scrivere “Fonti: wikipedia”, avete i link: usateli in modo
     preciso
 
-2013-03-27
-==========
+# 2013-03-27
 
 1.  jcdemartin
 
@@ -314,8 +306,7 @@ Continua qui:
 
 15. Memento: dovete formare i gruppi entro il 5 Aprile
 
-2013-02-22
-==========
+# 2013-02-22
 
 1.  sbasso
 
