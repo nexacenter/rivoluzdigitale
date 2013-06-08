@@ -1,7 +1,7 @@
 # Indice lezioni di Rivoluzione Digitale (beta)
 
 By Simone Basso, Davide Palermo, Sebastiano Franchina, Antonio
-Langiu, et al. &mdash; License: CC BY-SA 3.0 Unported
+Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 - [07 Giugno 2013](#2013-06-07)
 - [05 Giugno 2013](#2013-06-05)
@@ -14,7 +14,6 @@ Langiu, et al. &mdash; License: CC BY-SA 3.0 Unported
 - [08 Maggio 2013](#2013-05-08)
 - [03 Maggio 2013](#2013-05-03)
 - [19 Aprile 2013](#2013-04-19)
-- [17 Aprile 2013](#2013-04-17)
 - [12 Aprile 2013](#2013-04-12)
 - [05 Aprile 2013](#2013-04-05)
 
@@ -6435,120 +6434,6 @@ polito RivoluzDigitale , grazie a @funkysurfer i miei complimenti.
 un mitico Marco Zamperini @funkysurfer
 
 
-## 2013-04-17
-
-### @bassosimone
-
-- @DavidePalermo2:  Analizziamo una versione beta della situazione
-Blog e Blogpost Enjoy! #sapevatelo
-
-- @DavidePalermo2: Correzione fatta su più passaggi: 1) di "forma"
-2) di "sostanza" (a volte manca se la forma non va bene)
-
-- @MorenoLaQuatra: Presentazione errori e imperfezioni dei vari
-blog. Temi delle correzioni: forma e sostanza
-
-- @SabryKarate: Sono importanti FORMA e SOSTANZA
-
-- @SoFranchy:  correzione in più passaggi: fonti, forma, sostanza.
-
-- @SoFranchy:  Criteri per la forma: tempismo, immagini, fonti
-(link), paragrafi (suddivisione, lunghezza), "lo pensi, lo sai, hai
-letto?"
-
-- @MorenoLaQuatra: Criteri di correzione sulla forma: tempismo,
-immagini, fonti, paragrafi, "lo pensi, lo sai, l'hai letto", tag.
-
-- @SoFranchy:  Criteri per la forma: ...tags, categorie.
-
-- @SabryKarate: Per la sostanza sono essenziali: Titolo, Introduzione
-dell'articolo
-
-- @SabryKarate: Attenzione all'articolazione del post: prediligere
-la linearità, evitare i "voli Pindarici"
-
-- @MorenoLaQuatra: Criteri di correzione Sostanza: titolo, attacco,
-articolazione, approfondimento
-
-- @SoFranchy:  Criteri per sostanza: titolo, incipit, articolazione
-(ragionamento sequenziale), approfondimento
-
-- @ripa_pepperipa: : quando viene pubblicato un post nel blog,
-risulta fondamentale citare le fonti!
-
-- @MorenoLaQuatra: Per le immagini: citare la fonte, caricarla nel
-nostro server. Fonti sotto l'immagine o in fondo al sito
-
-- @SabryKarate: Fonti delle immagini, due modi: scrivere sotto le
-immagini o in fondo al post
-
-- @DavidePalermo2: Non si è "Nazisti" nella valutazione della scelta
-delle foto (CC o meno); precisi invece per verifica cit. delle fonti
-
-- @SabryKarate: E' preferibile citare il link della fonte all'interno
-del testo, non in fondo al post
-
-- @ripa_pepperipa: : Come citare le fonti? Attraverso collegamenti
-ipertestuali all'interno del testo o citando i link in fondo alla
-pagina
-
-- @ripa_pepperipa: : bisogna mettere in relazione le riflessioni
-personali e gli articoli che circolano nel web
-
-- @SabryKarate: Inserire i tag per i post, tra 4 ed 8, in modo da
-rendere chiaro l'argomento di cui si è scritto
-
-- @venadavide: Chiarimenti su come citare le fonti in un articolo.
-
-- @MorenoLaQuatra: Attenzione ai tag, valutare ogni situazione,
-usare più il buon senso che una regola univoca.
-
-- @93_checco: Esempi su come Utilizzare i paragrafi.  Non utilizzare
-il "punto a capo" all interno di un paragrafo!
-
-- @93_checco: Alcuni video non si aprono dal link? Può succedere
-
-- @venadavide: Importantissimo un approfondimento personale all'interno
-del post per aggiungere informazioni a quelle già presenti sul web
-
-- @93_checco: No punto a fine titolo e no dopo nome e cognome
-
-- @93_checco: Fonti non troppo generiche, Wikipedia è troppo vasta
-
-- @SabryKarate: Niente punto alla fine del titolo del post, né dopo
-la firma.  Non inserire link generici alle fonti
-
-- @MorenoLaQuatra: Neve gialla non si mangia (cit. Maglia di
-@bassosimone )
-
-- @93_checco: Non è necessario concludere il post con una indicazione
-su come "migliorare il mondo"
-
-- @MorenoLaQuatra: RT @93_checco: Non è necessario concludere il
-post con una indicazione su come "migliorare il mondo"
-
-- @93_checco: Tutti a casa
-
-- @paolopopolizio: #RivoluzioneDigitale: elementi fondamentali nella
-struttura di un post: --&gt;forma---&gt;sostanza--&gt;
-
-- @paolopopolizio: #RivoluzioneDigitale: in un post è consigliabile
-citare la fonte con i link, non in fondo alla pagina
-
-- @paolopopolizio: #RivoluzioneDigitale: "i paragrafi sono come una
-i gradini di una scala, più sono grandi più sono difficili da
-leggere"
-
-- @paolopopolizio: #RivoluzioneDigitale: non è consigliabile dire
-"io penso" nel post se non si è esperti dell'argomento
-
-- @paolopopolizio: #RivoluzioneDigitale: "l'ho letto, l'ho
-sperimentato", va specificato, caratterizza il post
-
-- @paolopopolizio: #RivoluzioneDigitale: è consigliabile mettere
-"embed" invece del link alla pagina di youtube
-
-
 ## 2013-04-12
 
 ### @bassosimone
@@ -6892,8 +6777,13 @@ sperimentato", va specificato, caratterizza il post
 
 #### Recap rivoluzioni politiche
 
-- storici dicono che: impatto molto forte della stampa sulle rivoluzioni (di
-  idee) inglese, americana e francese
+
+- storici dicono che la stampa abbia suscitato un impatto molto forte sulle rivoluzioni
+  inglese, americana e francese. Queste si basavano su una rivoluzione di idee le quali 
+  hanno influenzato il pensiero umano
+  
+- della Rivoluzione Inglese ricordiamo due importanti partiti: Levellers 
+  (http://www.treccani.it/enciclopedia/levellers/) e Diggers (http://it.wikipedia.org/wiki/Diggers)
 
 - qualcosa di simile (i.e., impatto della stampa su dibattito) successo con
   lutero: due settimane di botta e risposta e 10K+ copie diffusione
@@ -6901,10 +6791,10 @@ sperimentato", va specificato, caratterizza il post
 - Nota: anche in paesi molto poveri con alti tassi di analfabetismo c'era una
   diffusione grande della stampa via gruppi di lettura
 
-- Ad esempio: robert darnton, storico del '700, scrive sulla letteratura
-  underground prima della rivoluzione francese in francia
+- Ad esempio: dalla rivoluzione francese ricordiamo Robert Darnton, storico del '700 (pieno
+  illumiinsmo), scrive sulla letteratura underground prima della rivoluzione francese in Francia
 
-- underground perche\` c'era la censura: stampavano in inghilterra e poi
+- underground perche\` c'era la censura: stampavano in Inghilterra e poi
   diffondevano clandestinamente
 
 - per le rivoluzioni francese e americana si puo\` decisamente parlare di
@@ -6915,8 +6805,8 @@ sperimentato", va specificato, caratterizza il post
 - "riformista" (corrente dominante, "viva la ragione ma senza esagerare",
   e.g., misoginia, razzismo - principale esponente di questa corrente Voltaire)
 
-- "radicale" (prende sul serio i concetti di illuminismo - d'Holbac; Spinoza
-  viene visto come il padre dell'illuminismo radicale)
+- "radicale" (prende sul serio i concetti di illuminismo - maggior esponente: d'Holbac; Spinoza
+  viene visto come il padre dell'illuminismo radicale - '600)
 
 - dichiarazione universale dei diritti dell'uomo del 1948 e la nostra
   costituzione sono figlie di una ripresa di questi principi filosofici
@@ -6924,13 +6814,12 @@ sperimentato", va specificato, caratterizza il post
 
 #### Recap LA rivoluzione scientifica
 
--  Newton, Galileo, Bacon; metodo scientifico, misura e sperimentazione
+-  Newton, Galileo, Bacon, Copernico; metodo scientifico, misura e sperimentazione
 
 - (chiaramente tutte le rivoluzioni sono molto intrecciate tra loro)
 
--  all’interno de LA rivoluzione scientifica e poi ci sono le mini-rivoluzioni
-   interne alla rivoluzione scientifica, ossia i "cambi di paradigma" di T.
-   Kuhn, e.g., Einstein con la relativita\`
+-  all’interno de LA rivoluzione scientifica possiamo collocare le mini-rivoluzioni, ovvero 
+   i "cambi di paradigma" di T. Kuhn, e.g., Einstein con la relativita\`
 
 - Apriamo parentesi
 
@@ -6941,11 +6830,9 @@ sperimentato", va specificato, caratterizza il post
   politici l'impero cinese non vuole sviluppare 'sta roba e tutto viene
   dimenticato
 
-- questo per dire che la scienza e' un *sistema sociale* e non una retta che
-  procede linearmente (e.g., se i miei pari non sono pronti a ricevere la mia
+- questo per dire che la scienza e' un *sistema sociale* che interagisce al suo interno
+  e non una retta che procede linearmente, (e.g., se i miei pari non sono pronti a ricevere la mia
   scoperta, puo\` benissimo essere che la scoperta non venga riconosciuta)
-
-- interazioni all’interno della scienza
 
 - e' sociale anche nel senso di interazione con la societa\`: se il governo
   dice "ci sono soldi per studiare X" allora noi ci mettiamo a studiare X
@@ -6958,7 +6845,8 @@ sperimentato", va specificato, caratterizza il post
 
 #### Recap rivoluzione Industriale
 
-- Si inizia a usare l'espressione nel 1820
+- Si inizia a usare l'espressione nel 1820 - in Francia, poi si avra\` una graduale
+  diffusione.
 
 - Telaio meccanico e vapore sono le tecnologie chiave
 
@@ -6977,7 +6865,7 @@ sperimentato", va specificato, caratterizza il post
 
 ##### Sulla tecnologia in se’
 
--  affermazione: "la tecnologia in se' e' neutra e quello che conta e'
+-  affermazione: "la tecnologia in se' e' neutra, cioe' quello che conta e'
    l'utilizzo che se ne fa" <-- parliamone
 
 - 1) tecnologia = strumenti sviluppati da esseri umani (autodidatti,
@@ -6986,6 +6874,7 @@ sperimentato", va specificato, caratterizza il post
 - -\> c'e\` un momento di ideazione (che puo\` essere andare per tentativi
   alla Edison oppure applicazione di scoperte scientifiche, piu\` nello stile
   di Tesla)
+  
 
 - Cfr. Guerra delle correnti [wikipedia] “La rivalità tra Edison e
   Tesla ha radici ben più profonde rispetto alla mera questione
@@ -7003,7 +6892,7 @@ sperimentato", va specificato, caratterizza il post
 - i.e., la fonte puo\` essere un dato scientifico (di cui qualcuno vede una
   possibile applicazione pratica) oppure una intuizione pratica
 
-- gia\` questo processo non e' astratto e non avviene in una camere asettica:
+- gia\` questo processo non e' astratto e non avviene in una camera asettica:
   sono esseri umani in un contesto socio-economico-politico e sono ovviamente
   da questo influenzati
 
@@ -7030,7 +6919,7 @@ sperimentato", va specificato, caratterizza il post
   feature, decisione sul prezzo di vendita, etc. -- insomma COME rendere
   disponibile
 
-- i.e., ampie possibilita\` di decidere QUANDO e COME diffondere l'invenzione
+- In questa fase ci sono ampie possibilita\` di decidere QUANDO e COME diffondere l'invenzione
   o l'innovazione
 
 - Riguardandola, non sembra proprio una traiettoria lineare e puramente
@@ -7046,8 +6935,9 @@ sperimentato", va specificato, caratterizza il post
 
 - Negli anni '30 qualcuno inventa nei bell labs un registratore audio su
   nastro (includendo una serie di innovazioni molto interessanti e dirompenti)
+  - -\> Tecnologia Analogica
 
-- Prima di questo si poteva registrare la voce con i cilindri a cera di edison
+- Prima di questo si poteva registrare la voce con i cilindri a cera di Edison
   ma con i registratori elettromeccanici si puo\` fare meglio e a basso costo
 
 - Il ricercatore porta ai suoi capi l’invenzione e i capi di AT&T decidono che
@@ -7075,11 +6965,22 @@ sperimentato", va specificato, caratterizza il post
 - Elenco di 76 domande sulla tecnologia di jacques Ellul - nel programma
   http://en.wikipedia.org/wiki/Jacques\_Ellul
 
+- Breve nota sui brevetti: prevedono che l'invenzione venga pubblicata
+
+- Di cosa ha bisogno l'inventore? a) Di oggetti fisici b) Di capitali
+
+- L'inventore deve chiedere permesso a qualcuno? Dipende! Si, se altri inventori hanno
+  precedentemente pubblicato un brevetto, per evitare di entrare in contrasto. Su Internet
+  nessun vincolo ci ostacola
+  
+- Col digitale: IDEA + SKILLS + COMPUTER + INTERNET - -\> posso pubblicizzare senza problemi
+  e con costi minimizzati
+  
 ####  Tecnologie della comunicazione
 
-- Tecncologie per trasmettere segni
+- Tecncologie per trasmettere significato e segni
 
-- Scrittura
+- Scrittura (3200 a.C. - Mesopotamia)
 
 - Leggiamo il passaggio del Fedro di Platone in cui si parla dei pros e cons
   di writing
@@ -7096,9 +6997,10 @@ sperimentato", va specificato, caratterizza il post
 
 - Gutemberg, Magonza (Renania-Palatinato), 1455
 
-- 1 libro = 1 giorno e costa decisamente meno
+- Con la Stampa: 1 libro = 1 giorno di lavoro, prezzi piu' bassi e possibilita' 
+  di una piu' ampia produzione
 
-- Inolte, si cominciano a stampare testiche i monaci non avrebbero mai copiato
+- Inolte, si cominciano a stampare testiche; i monaci non avrebbero mai copiato
   di loro iniziativa
 
 - Fine '400: 30k titoli e 12 milioni di copie
