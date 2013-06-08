@@ -1,6 +1,7 @@
 # Indice lezioni di Rivoluzione Digitale (beta)
 
-By Simone Basso, Davide Palermo et al. &mdash; License: CC BY-SA 3.0 Unported
+By Simone Basso, Davide Palermo, Sebastiano Franchina, Antonio
+Langiu, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 ## 2013-06-07
 
