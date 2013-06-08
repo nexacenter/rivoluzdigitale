@@ -1,7 +1,7 @@
 # Indice lezioni di Rivoluzione Digitale (beta)
 
 By Simone Basso, Davide Palermo, Sebastiano Franchina, Antonio
-Langiu, et al. &mdash; License: CC BY-SA 3.0 Unported
+Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 - [07 Giugno 2013](#2013-06-07)
 - [05 Giugno 2013](#2013-06-05)
@@ -6892,8 +6892,15 @@ sperimentato", va specificato, caratterizza il post
 
 #### Recap rivoluzioni politiche
 
-- storici dicono che: impatto molto forte della stampa sulle rivoluzioni (di
-  idee) inglese, americana e francese
+
+- storici dicono che la stampa abbia suscitato un impatto molto
+forte sulle rivoluzioni inglese, americana e francese. Queste si
+basavano su una rivoluzione di idee le quali hanno influenzato il
+pensiero umano
+
+- della Rivoluzione Inglese ricordiamo due importanti partiti:
+Levellers (http://www.treccani.it/enciclopedia/levellers/) e Diggers
+(http://it.wikipedia.org/wiki/Diggers)
 
 - qualcosa di simile (i.e., impatto della stampa su dibattito) successo con
   lutero: due settimane di botta e risposta e 10K+ copie diffusione
@@ -6901,10 +6908,11 @@ sperimentato", va specificato, caratterizza il post
 - Nota: anche in paesi molto poveri con alti tassi di analfabetismo c'era una
   diffusione grande della stampa via gruppi di lettura
 
-- Ad esempio: robert darnton, storico del '700, scrive sulla letteratura
-  underground prima della rivoluzione francese in francia
+- Ad esempio: dalla rivoluzione francese ricordiamo Robert Darnton,
+storico del '700 (pieno illumiinsmo), scrive sulla letteratura
+underground prima della rivoluzione francese in Francia
 
-- underground perche\` c'era la censura: stampavano in inghilterra e poi
+- underground perche\` c'era la censura: stampavano in Inghilterra e poi
   diffondevano clandestinamente
 
 - per le rivoluzioni francese e americana si puo\` decisamente parlare di
@@ -6915,8 +6923,9 @@ sperimentato", va specificato, caratterizza il post
 - "riformista" (corrente dominante, "viva la ragione ma senza esagerare",
   e.g., misoginia, razzismo - principale esponente di questa corrente Voltaire)
 
-- "radicale" (prende sul serio i concetti di illuminismo - d'Holbac; Spinoza
-  viene visto come il padre dell'illuminismo radicale)
+- "radicale" (prende sul serio i concetti di illuminismo - maggior
+esponente: d'Holbac; Spinoza viene visto come il padre dell'illuminismo
+radicale - '600)
 
 - dichiarazione universale dei diritti dell'uomo del 1948 e la nostra
   costituzione sono figlie di una ripresa di questi principi filosofici
@@ -6924,13 +6933,14 @@ sperimentato", va specificato, caratterizza il post
 
 #### Recap LA rivoluzione scientifica
 
--  Newton, Galileo, Bacon; metodo scientifico, misura e sperimentazione
+-  Newton, Galileo, Bacon, Copernico; metodo scientifico, misura e
+sperimentazione
 
 - (chiaramente tutte le rivoluzioni sono molto intrecciate tra loro)
 
--  all’interno de LA rivoluzione scientifica e poi ci sono le mini-rivoluzioni
-   interne alla rivoluzione scientifica, ossia i "cambi di paradigma" di T.
-   Kuhn, e.g., Einstein con la relativita\`
+-  all’interno de LA rivoluzione scientifica possiamo collocare le
+mini-rivoluzioni, ovvero i "cambi di paradigma" di T. Kuhn, e.g.,
+Einstein con la relativita\`
 
 - Apriamo parentesi
 
@@ -6941,11 +6951,10 @@ sperimentato", va specificato, caratterizza il post
   politici l'impero cinese non vuole sviluppare 'sta roba e tutto viene
   dimenticato
 
-- questo per dire che la scienza e' un *sistema sociale* e non una retta che
-  procede linearmente (e.g., se i miei pari non sono pronti a ricevere la mia
-  scoperta, puo\` benissimo essere che la scoperta non venga riconosciuta)
-
-- interazioni all’interno della scienza
+- questo per dire che la scienza e' un *sistema sociale* che
+interagisce al suo interno e non una retta che procede linearmente,
+(e.g., se i miei pari non sono pronti a ricevere la mia scoperta,
+puo\` benissimo essere che la scoperta non venga riconosciuta)
 
 - e' sociale anche nel senso di interazione con la societa\`: se il governo
   dice "ci sono soldi per studiare X" allora noi ci mettiamo a studiare X
@@ -6958,7 +6967,8 @@ sperimentato", va specificato, caratterizza il post
 
 #### Recap rivoluzione Industriale
 
-- Si inizia a usare l'espressione nel 1820
+- Si inizia a usare l'espressione nel 1820 - in Francia, poi si
+avra\` una graduale diffusione.
 
 - Telaio meccanico e vapore sono le tecnologie chiave
 
@@ -6977,7 +6987,7 @@ sperimentato", va specificato, caratterizza il post
 
 ##### Sulla tecnologia in se’
 
--  affermazione: "la tecnologia in se' e' neutra e quello che conta e'
+-  affermazione: "la tecnologia in se' e' neutra, cioe' quello che conta e'
    l'utilizzo che se ne fa" <-- parliamone
 
 - 1) tecnologia = strumenti sviluppati da esseri umani (autodidatti,
@@ -6986,7 +6996,7 @@ sperimentato", va specificato, caratterizza il post
 - -\> c'e\` un momento di ideazione (che puo\` essere andare per tentativi
   alla Edison oppure applicazione di scoperte scientifiche, piu\` nello stile
   di Tesla)
-
+  
 - Cfr. Guerra delle correnti [wikipedia] “La rivalità tra Edison e
   Tesla ha radici ben più profonde rispetto alla mera questione
   economica che si venne a creare [...]. Edison non aveva una
@@ -7003,7 +7013,7 @@ sperimentato", va specificato, caratterizza il post
 - i.e., la fonte puo\` essere un dato scientifico (di cui qualcuno vede una
   possibile applicazione pratica) oppure una intuizione pratica
 
-- gia\` questo processo non e' astratto e non avviene in una camere asettica:
+- gia\` questo processo non e' astratto e non avviene in una camera asettica:
   sono esseri umani in un contesto socio-economico-politico e sono ovviamente
   da questo influenzati
 
@@ -7030,8 +7040,8 @@ sperimentato", va specificato, caratterizza il post
   feature, decisione sul prezzo di vendita, etc. -- insomma COME rendere
   disponibile
 
-- i.e., ampie possibilita\` di decidere QUANDO e COME diffondere l'invenzione
-  o l'innovazione
+- In questa fase ci sono ampie possibilita\` di decidere QUANDO e
+COME diffondere l'invenzione o l'innovazione
 
 - Riguardandola, non sembra proprio una traiettoria lineare e puramente
   tecnico-scientifica
@@ -7046,8 +7056,9 @@ sperimentato", va specificato, caratterizza il post
 
 - Negli anni '30 qualcuno inventa nei bell labs un registratore audio su
   nastro (includendo una serie di innovazioni molto interessanti e dirompenti)
+  - -\> Tecnologia Analogica
 
-- Prima di questo si poteva registrare la voce con i cilindri a cera di edison
+- Prima di questo si poteva registrare la voce con i cilindri a cera di Edison
   ma con i registratori elettromeccanici si puo\` fare meglio e a basso costo
 
 - Il ricercatore porta ai suoi capi l’invenzione e i capi di AT&T decidono che
@@ -7075,11 +7086,23 @@ sperimentato", va specificato, caratterizza il post
 - Elenco di 76 domande sulla tecnologia di jacques Ellul - nel programma
   http://en.wikipedia.org/wiki/Jacques\_Ellul
 
+- Breve nota sui brevetti: prevedono che l'invenzione venga pubblicata
+
+- Di cosa ha bisogno l'inventore? a) Di oggetti fisici b) Di capitali
+
+- L'inventore deve chiedere permesso a qualcuno? Dipende! Si, se
+altri inventori hanno precedentemente pubblicato un brevetto, per
+evitare di entrare in contrasto. Su Internet nessun vincolo ci
+ostacola
+
+- Col digitale: IDEA + SKILLS + COMPUTER + INTERNET - -\> posso
+pubblicizzare senza problemi e con costi minimizzati
+
 ####  Tecnologie della comunicazione
 
-- Tecncologie per trasmettere segni
+- Tecncologie per trasmettere significato e segni
 
-- Scrittura
+- Scrittura (3200 a.C. - Mesopotamia)
 
 - Leggiamo il passaggio del Fedro di Platone in cui si parla dei pros e cons
   di writing
@@ -7096,9 +7119,10 @@ sperimentato", va specificato, caratterizza il post
 
 - Gutemberg, Magonza (Renania-Palatinato), 1455
 
-- 1 libro = 1 giorno e costa decisamente meno
+- Con la Stampa: 1 libro = 1 giorno di lavoro, prezzi piu' bassi e possibilita' 
+  di una piu' ampia produzione
 
-- Inolte, si cominciano a stampare testiche i monaci non avrebbero mai copiato
+- Inolte, si cominciano a stampare testiche; i monaci non avrebbero mai copiato
   di loro iniziativa
 
 - Fine '400: 30k titoli e 12 milioni di copie
