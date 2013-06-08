@@ -4517,3 +4517,223 @@ mnemonico. #Rivoluzdigitale
   l'inaugurazione della prima stazione radiotrasmittente
 
 - 1920 KDKA e' la prima stazione radio (1910 prima trasmissione in aeroplano)
+
+
+# 2013-04-05
+
+## @demartin
+
+### Recap rivoluzioni politiche
+
+- storici dicono che: impatto molto forte della stampa sulle rivoluzioni (di
+  idee) inglese, americana e francese
+
+- qualcosa di simile (i.e., impatto della stampa su dibattito) successo con
+  lutero: due settimane di botta e risposta e 10K+ copie diffusione
+
+- Nota: anche in paesi molto poveri con alti tassi di analfabetismo c'era una
+  diffusione grande della stampa via gruppi di lettura
+
+- Ad esempio: robert darnton, storico del '700, scrive sulla letteratura
+  underground prima della rivoluzione francese in francia
+
+- underground perche\` c'era la censura: stampavano in inghilterra e poi
+  diffondevano clandestinamente
+
+- per le rivoluzioni francese e americana si puo\` decisamente parlare di
+  illuminismo
+
+- ci sono due filoni dell'illuminismo:
+
+- "riformista" (corrente dominante, "viva la ragione ma senza esagerare",
+  e.g., misoginia, razzismo - principale esponente di questa corrente Voltaire)
+
+- "radicale" (prende sul serio i concetti di illuminismo - d'Holbac; Spinoza
+  viene visto come il padre dell'illuminismo radicale)
+
+- dichiarazione universale dei diritti dell'uomo del 1948 e la nostra
+  costituzione sono figlie di una ripresa di questi principi filosofici
+  dell’illuminismo radicale come baluardo verso la follia di WWII
+
+### Recap LA rivoluzione scientifica
+
+-  Newton, Galileo, Bacon; metodo scientifico, misura e sperimentazione
+
+- (chiaramente tutte le rivoluzioni sono molto intrecciate tra loro)
+
+-  all’interno de LA rivoluzione scientifica e poi ci sono le mini-rivoluzioni
+   interne alla rivoluzione scientifica, ossia i "cambi di paradigma" di T.
+   Kuhn, e.g., Einstein con la relativita\`
+
+- Apriamo parentesi
+
+- e' gia\` capitato in maniera clamorosa che ci fossero scoperte scientifiche
+  del passato in seguito dimenticate (e.g., epoca ellenistica)
+
+- altro esempio: in Cina scoperte tecnologiche e scientifiche e poi per motivi
+  politici l'impero cinese non vuole sviluppare 'sta roba e tutto viene
+  dimenticato
+
+- questo per dire che la scienza e' un *sistema sociale* e non una retta che
+  procede linearmente (e.g., se i miei pari non sono pronti a ricevere la mia
+  scoperta, puo\` benissimo essere che la scoperta non venga riconosciuta)
+
+- interazioni all’interno della scienza
+
+- e' sociale anche nel senso di interazione con la societa\`: se il governo
+  dice "ci sono soldi per studiare X" allora noi ci mettiamo a studiare X
+  e viceversa
+
+- interazioni della scienza con l'esterno
+
+- questi sono gli stessi discorsi che faremo per la tecnologia e per questo
+  abbiamo aperto parentesi
+
+### Recap rivoluzione Industriale
+
+- Si inizia a usare l'espressione nel 1820
+
+- Telaio meccanico e vapore sono le tecnologie chiave
+
+- Fortemente collegato col discorso dei commons e delle enclosures
+
+- Terza accezione di Rivoluzione: tempi lunghi, cambiamenti profondi, non
+  direttamente violenta
+
+- E’ una rivoluzione tecnologica che diventa sociale
+
+###  Rivoluzioni tecnologiche
+
+- prima di arrivare al digitale (a) ancora qualche riflessione sulla tecnologia
+  in se e (b) vedere brevi cenni sulle tecnologie della comunicazione per
+  arrivare al computer e ad Internet
+
+#### Sulla tecnologia in se’
+
+-  affermazione: "la tecnologia in se' e' neutra e quello che conta e'
+   l'utilizzo che se ne fa" <-- parliamone
+
+- 1) tecnologia = strumenti sviluppati da esseri umani (autodidatti,
+  dilettanti, ricercatori pubblici o privati)
+
+- -\> c'e\` un momento di ideazione (che puo\` essere andare per tentativi
+  alla Edison oppure applicazione di scoperte scientifiche, piu\` nello stile
+  di Tesla)
+
+- Cfr. Guerra delle correnti [wikipedia] “La rivalità tra Edison e
+  Tesla ha radici ben più profonde rispetto alla mera questione
+  economica che si venne a creare [...]. Edison non aveva una
+  conoscenza approfondita di matematica e fisica e questo fece di
+  lui “brute-force experimenter”, Tesla, all’opposto, possedendo
+  tali conoscenze poté intuire il grande potenziale della corrente
+  alternata. Tesla aveva lavorato presso il laboratorio di Menlo
+  Park per Edison, però egli fu sottostimato e non fu retribuito
+  per il lavoro compiuto per migliorare l’inefficiente dinamo di
+  Edison.  [...]”
+
+- http://it.wikipedia.org/wiki/Guerra\_delle\_correnti
+
+- i.e., la fonte puo\` essere un dato scientifico (di cui qualcuno vede una
+  possibile applicazione pratica) oppure una intuizione pratica
+
+- gia\` questo processo non e' astratto e non avviene in una camere asettica:
+  sono esseri umani in un contesto socio-economico-politico e sono ovviamente
+  da questo influenzati
+
+- 2) dall'ideazione c'e\` l'invenzione ossia dimostrare concretamente che una
+  cosa e' fattibile (prototipo)
+
+- motivazione puo\` essere intrinseca - mi piace farlo - oppure estrinseca,
+  cioe\` “c'e\` qualcuno che mi paga per farlo” o altro;
+
+- Esempio: 1927 (!!!), uno dei primi inventori della televisione sviluppa il
+  prototipo e il suo collega dice "non faremo mai i soldi"
+
+- basta inventare? eh, no... la storia e' zeppa di invenzioni che arrivano in
+  un momento in cui non gliene frega niente a nessuno, i.e., nessuno capisce
+  bene a cosa serve
+
+- oppure “questa roba potrebbe servire ma non mi piace affatto quali sono le
+  sue conseguenze” (contropotere che blocca una nuova invenzione)
+
+- 3) Necessita\` sociale (uno specifico uso sufficientemente importante) di
+  avere quella invenzione
+
+- Ad esempio: chi ha il potere puo\`: ritardarla (e.g., TV), rimuovere alcune
+  feature, decisione sul prezzo di vendita, etc. -- insomma COME rendere
+  disponibile
+
+- i.e., ampie possibilita\` di decidere QUANDO e COME diffondere l'invenzione
+  o l'innovazione
+
+- Riguardandola, non sembra proprio una traiettoria lineare e puramente
+  tecnico-scientifica
+
+- Esempio specifico:
+
+- in US c'era un monopolio telefonico (profitti molto alti) e AT&T crea dei
+  grandi laboratori di ricerca perche\` sente di doverlo fare nel rapporto
+  col governo americano, i Bell Labs
+
+- Nei Bell Labs vengono inventate un sacco di cose (incluso UNIX)
+
+- Negli anni '30 qualcuno inventa nei bell labs un registratore audio su
+  nastro (includendo una serie di innovazioni molto interessanti e dirompenti)
+
+- Prima di questo si poteva registrare la voce con i cilindri a cera di edison
+  ma con i registratori elettromeccanici si puo\` fare meglio e a basso costo
+
+- Il ricercatore porta ai suoi capi l’invenzione e i capi di AT&T decidono che
+  quella invenzione non gli piaceva per nulla, why?
+
+- Perche\` avevano paura che si diffondesse e rendesse possibile la
+  registrazione telefonica (allora le telefonate avevano lo status di
+  conversazione orale) e quindi questo era percepito come un pericolo
+
+- Perche\` la conversazione telefonica diventava un documento
+
+- (Nota che secondo i sondaggi interni di AT&T un 30% delle telefonate allora
+  era di natura erotica)
+
+- Morale: l'invenzione viene soppressa, e.g., non viene brevettata altrimenti
+  sarebbe stata pubblicata (sui brevetti torneremo N volte durante il corso)
+
+- la tecnologia compare poi dopo la WWII perche\` i soldati in Germania
+  trovano i registratori dei tedeschi
+
+- A questo punto la tecnologia non e’ piu\` segreta, ed ecco che poi si
+  diffondono i registratori a nastro (uno-due decenni dopo l'invenzione vera
+  e propria)
+
+- Elenco di 76 domande sulla tecnologia di jacques Ellul - nel programma
+  http://en.wikipedia.org/wiki/Jacques\_Ellul
+
+###  Tecnologie della comunicazione
+
+- Tecncologie per trasmettere segni
+
+- Scrittura
+
+- Leggiamo il passaggio del Fedro di Platone in cui si parla dei pros e cons
+  di writing
+
+- Rotoli sequenziali (scomodi!) per archiviare informazioni
+
+- 2. all'inizio del medioevo il \`codex\` e' la forma piu\` diffusa: e’ un
+  libro primitivo, scritto a mano, che permette accesso random
+
+- Nota: 1 manoscritto = 1 anno di lavoro e costa tantissimo (una biblioteca
+  vale piu\` o meno come una vigna)
+
+- 3. stampa a caratteri mobili
+
+- Gutemberg, Magonza (Renania-Palatinato), 1455
+
+- 1 libro = 1 giorno e costa decisamente meno
+
+- Inolte, si cominciano a stampare testiche i monaci non avrebbero mai copiato
+  di loro iniziativa
+
+- Fine '400: 30k titoli e 12 milioni di copie
+
+- La capitale della stampa alla fine del ‘400 e' Venezia
