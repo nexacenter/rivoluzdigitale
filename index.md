@@ -4,7 +4,7 @@ By Simone Basso, Davide Palermo et al. &mdash; License: CC BY-SA 3.0 Unported
 
 ## 2013-06-07
 
-@FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
+- @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
 
 - @Ale_Cannone: General public license: 4 libertà del software libero
 più il copyleft
