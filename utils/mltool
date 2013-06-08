@@ -110,6 +110,8 @@ def mangle_addr(header):
     if header:
         if "rd@server-nexa.polito.it" in header:
             return "mailing-list"
+        if "tumenti@shelob.polito.it" in header:
+            return "mailing-list"
         header = EMAIL.sub("{email}", header)
         header = MATRICOLAU.sub("{matricola}", header)
         header = header.strip()
