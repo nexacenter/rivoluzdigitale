@@ -4519,11 +4519,11 @@ mnemonico. #Rivoluzdigitale
 - 1920 KDKA e' la prima stazione radio (1910 prima trasmissione in aeroplano)
 
 
-# 2013-04-05
+## 2013-04-05
 
-## @demartin
+### @demartin
 
-### Recap rivoluzioni politiche
+#### Recap rivoluzioni politiche
 
 - storici dicono che: impatto molto forte della stampa sulle rivoluzioni (di
   idee) inglese, americana e francese
@@ -4555,7 +4555,7 @@ mnemonico. #Rivoluzdigitale
   costituzione sono figlie di una ripresa di questi principi filosofici
   dell’illuminismo radicale come baluardo verso la follia di WWII
 
-### Recap LA rivoluzione scientifica
+#### Recap LA rivoluzione scientifica
 
 -  Newton, Galileo, Bacon; metodo scientifico, misura e sperimentazione
 
@@ -4589,7 +4589,7 @@ mnemonico. #Rivoluzdigitale
 - questi sono gli stessi discorsi che faremo per la tecnologia e per questo
   abbiamo aperto parentesi
 
-### Recap rivoluzione Industriale
+#### Recap rivoluzione Industriale
 
 - Si inizia a usare l'espressione nel 1820
 
@@ -4602,13 +4602,13 @@ mnemonico. #Rivoluzdigitale
 
 - E’ una rivoluzione tecnologica che diventa sociale
 
-###  Rivoluzioni tecnologiche
+####  Rivoluzioni tecnologiche
 
 - prima di arrivare al digitale (a) ancora qualche riflessione sulla tecnologia
   in se e (b) vedere brevi cenni sulle tecnologie della comunicazione per
   arrivare al computer e ad Internet
 
-#### Sulla tecnologia in se’
+##### Sulla tecnologia in se’
 
 -  affermazione: "la tecnologia in se' e' neutra e quello che conta e'
    l'utilizzo che se ne fa" <-- parliamone
@@ -4708,7 +4708,7 @@ mnemonico. #Rivoluzdigitale
 - Elenco di 76 domande sulla tecnologia di jacques Ellul - nel programma
   http://en.wikipedia.org/wiki/Jacques\_Ellul
 
-###  Tecnologie della comunicazione
+####  Tecnologie della comunicazione
 
 - Tecncologie per trasmettere segni
 
