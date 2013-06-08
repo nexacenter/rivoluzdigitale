@@ -3,6 +3,19 @@
 By Simone Basso, Davide Palermo, Sebastiano Franchina, Antonio
 Langiu, et al. &mdash; License: CC BY-SA 3.0 Unported
 
+- [07 Giugno 2013](#2013-06-07)
+- [05 Giugno 2013](#2013-06-05)
+- [31 Maggio 2013](#2013-05-31)
+- [29 Maggio 2013](#2013-05-29)
+- [24 Maggio 2013](#2013-05-24)
+- [22 Maggio 2013](#2013-05-22)
+- [17 Maggio 2013](#2013-05-17)
+- [08 Maggio 2013](#2013-05-08)
+- [03 Maggio 2013](#2013-05-03)
+- [12 Aprile 2013](#2013-04-12)
+- [05 Aprile 2013](#2013-04-05)
+
+
 ## 2013-06-07
 
 - @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
