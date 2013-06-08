@@ -1,6 +1,1014 @@
 # Indice lezioni di Rivoluzione Digitale (beta)
 
-By Simone Basso, Davide Palermo et al. &mdash; License: CC BY-SA 3.0 Unported
+By Simone Basso, Davide Palermo, Sebastiano Franchina, Antonio
+Langiu, et al. &mdash; License: CC BY-SA 3.0 Unported
+
+## 2013-06-07
+
+- @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
+
+- @Ale_Cannone: General public license: 4 libertà del software libero
+più il copyleft
+
+- @93Levante: Il quarto principio, su cui si basa il software libero,
+diventa un OBBLIGO x il bene della comunità
+
+- @DavidePalermo2: Allarme patent troll, finti inventori: brevettano
+l'hi-tech e fanno causa http://t.co/109jk41Z24 via @repubblicait
+
+- @paolopopolizio: @russomatteo93 allora mi osservi invece di seguire :P
+
+- @StefanoFranz20: "General public licence" tipo di licenza finalizzata
+alla condivisione delle modifiche sul codice dei software
+
+- @Ale_Cannone: Copyleft --> obbligo di rendere disponibile il codice
+sorgente modificato se diffondo il sorgente modificato
+
+- @SoFranchy: Stallman: una licenza, condizione di pubblicità della
+modifica (se non per uso privato). CC 6 licenze tra cui scegliere
+
+- @FabioVallone: Grazie alla licenza GNU/GPL, si sono creati centinaia
+e centinai di progetti di software libero
+
+- @ripa_pepperipa: RT "Allarme patent troll, finti inventori: brevettano
+l'hi-tech e fanno causa http://t.co/h93Q68M8cF via @repubblicait "
+
+- @Carrattrezzi: Non solo le grandi aziende possono produrre SO, tante
+persone, lavorando insieme, hanno sviluppato linux
+
+- @MartinoMensio: OpenSource: diverso da software libero
+https://t.co/4THvb0FNXV
+
+- @DavidePalermo2: È open /ˡsɔːs/ non open surs alla piemontese
+cit @demartin
+
+- @SabryKarate: opersource, codice sorgente aperto. Take a look on
+http://t.co/b9VTjMD0oz
+
+- @Clerish: Il termine "Open source" fu coniato per distaccarsi dalle
+stranezze di Stallman e rendere più moderato "Software libero"
+
+- @MartinoMensio: Free BSD non impone il copyleft
+
+- @FabioVallone: open source non è un sinonimo di software libero...
+
+- @MartinoMensio: Licenze BSD http://t.co/d2Mhb2BdfW
+
+- @LolloCler: differenza open source-software libero puramente di
+marketing e atteggiamento
+
+- @PieMarzio: Open source: codice accessibile ma senza le 4 libertà
+del software libero.
+
+- @SabryKarate: software libero: ha le 4 libertà opensource permette
+di accedere al codice sorgente, ma non necessariamente modificabile
+
+- @paolopopolizio: differenza tra open source e software libero:
+rispettivamente accesso libero al codice e rispetto delle 4 libertà
+
+- @Rexsimo893: Open source -> operazione di marketing che rimodula
+il significato di software libero, che invece ha una def. più precisa
+
+- @LolloCler: opensource consente codice accessibile e magari non le
+altre 4 libertà al contrario del software libero
+
+- @MartinoMensio: Open source: più vago del software libero; garantisce
+solamente che si può vedere il codice sorgente
+
+- @PieMarzio: "Commons": gruppo di individui che rispettano in generale
+delle norme (gourodiche, sociali)
+
+- @DavidePalermo2: La pagina di Wikipedia su Wikipedia
+http://t.co/oh5J4TT2nF ;-)
+
+- @LolloCler: su wikipedia gruppo volontario di individui collabora
+rispettando norme sociali imposte dai wikipediani oltre a leggi
+
+- @SoFranchy: Open Source < SW libero: SW libero include le 4 libertà;
+Open Source include almeno la possibilità di vedere il codice
+
+- @Ale_Cannone:  nè privato (mercato) nè lo stato ---> anarchia,
+dove ognuno si può autorganizzare ---> Commons
+
+- @SimoneBleynat: OT Gran cosa Wikipedia /OT
+
+- @SabryKarate: "Commons" non dipendono da privati o dallo stato. Spazio
+auto-organizzato, regole definite (non leggi imposte!).
+
+- @Antonio_Langiu: Il concetto di Commons é legato all' auto
+organizzazione..
+
+- @PieMarzio: "Commons" strettamente legato al concetto di
+auto-organizzazione
+
+- @EmaParrinello: il concetto di "commons" è legato al concetto di
+auto-organizzazione
+
+- @Carrattrezzi: Commons autoregolamentati con diversi gradi di anarchismo
+
+- @ripa_pepperipa: “Commons”: Spazi dove ci si può auto-organizzare
+(non c’è legge di marcato-->Anarchia) né privato(mercato) né Stato
+
+- @SabryKarate: Elinor Ostrom, prima donna a vincere il Premio Nobel
+per l'Economia (nel 2009)
+
+- @FabioVallone: Elinor Ostrom (premio Nobel Economia 2009) ha studiato
+casi di commons fisici ed il loro funzionamento
+
+- @ripa_pepperipa: Elinor Ostrom --> http://t.co/VavtbZItvG
+
+- @AstoriPietro: Elinor Ostrom, Nobel per l'economia nel 2009 ha studiato
+moltissimi casi di commons fisici
+
+- @LolloCler: Ostrom,nobel per economia,studia common fisici e come le
+comunità si gestiscono e conclude che é falso che falliscono
+
+- @Carrattrezzi: I commons non sono solo quelli degli anni '70, ci sono
+casi molto più antichi e che hanno invece funzionato.
+
+- @LolloCler: la visione fallimentare dei commons é di Hardin "the
+tragedy of the commons"
+
+- @SabryKarate: Elinor Ostrom ha dimostrato che i Commons non sono
+necessariamente destinati a fallire, possono funzionare efficientemente
+
+- @MartinoMensio: La tragedia dei commons: http://t.co/Neku7yjK7L
+
+- @ripa_pepperipa: La visione dei Commons che falliscono è catturata
+dalla frase: “The tragedy of the Commons” .. cit Hardin
+
+- @SoFranchy: Si deve a E. Ostrom (Nobel Economia 2009) gran parte dello
+studio sui commons fisici: contrapposizione "tradedia dei c."
+
+- @DavidePalermo2: "The Tragedy of the Commons" ScienceMagazine
+http://t.co/05pY8i3zgT
+
+- @Carrattrezzi: pirateria not at
+
+- @Ale_Cannone: Elinor Ostrom ha dimostrato che in alcuni casi il commons
+è più efficiente di altre strade
+
+- @SabryKarate: Il sogno delle biblioteche: avere tutti i libri. Tuttavia
+è molto costoso e difficile da realizzare. Ma nel digitale...
+
+- @Ale_Cannone: Sogno di una biblioteca universale accedibile a tutti
+è possibile tramite il digitale con un costo relativamente basso
+
+- @ripa_pepperipa: la Pirateria --> http://t.co/AWB5A6yIkD
+
+- @SabryKarate: Problema di incentivi economici: vendita di libro fisico
+permette di sostenere lo scrittore. La distribuzione gratuita no.
+
+- @Ale_Cannone: Libri accessibili a tutti: mancano gli incentivi per
+poter organizzare tutto in digitale (questioni di interesse economico)
+
+- @DavidePalermo2: .@demartin cita @balaitous e VolkerGrassmuck
+
+- @Carrattrezzi: Circa il 6% del prezzo di copertina di un libro va
+all'autore
+
+- @SabryKarate: Del guadagno ricavato dalle copie fisiche vendute,
+allo scrittore vanno tra il 6% ed un massimo di 12%... libri
+
+- @SoFranchy: Rendere disponibile la conoscenza a tutti allo stesso
+modo. Come incentivare gli autori? Idee da P. Aigrain e V. Grassmuck
+
+- @venadavide: Un autore medio riceve circa il 6/7 % dal ricavato di
+una pubblicazione
+
+- @ripa_pepperipa: Philippe Aigrain e Volker Grassmuck hanno provato a
+disaccoppiare la visione del tantigibile e intangibile
+
+- @AstoriPietro: Solo il 6% del costo del libro è destinato all'autore,
+se è bravo contratta fino al 10-12%
+
+- @paolopopolizio: si vuole dare agli autori il 10 % del guadagno sulla
+copia fisica venduta
+
+- @DavidePalermo2: Pirati e Pirateria dall'antichità ad oggi, con
+diverse accezioni
+
+- @AstoriPietro: I corsari, espediente della corona inglese per boicottare
+la flotta spagnola
+
+- @SabryKarate: pirateria, termine molto utilizzato già a partire da
+Gutenberg. N.B. si parla di pirati già prima del Seicento.
+
+- @MartinoMensio: Pirateria nella cultura: nasce nel 600 con la copia
+illegale di libri
+
+- @SimoneBleynat: La Regina Elisabetta I reinventa i pirati, ma dà loro
+una patente che legittima il loro operato e li chiama corsari
+
+- @Carrattrezzi: I pirati nel periodo della diffusione della stampa
+erano gli editori che stampavano clandestinamente senza autorizzazione
+
+- @venadavide: Recentemente il termine "pirata" viene attribuito
+all'utente
+
+- @DavidePalermo2: Il computer è una "fabbrica" che permette a tutti
+di diventare un Pirata
+
+- @ripa_pepperipa: La pirateria non è furto, ma si danneggia il
+produttore.
+
+- @Carrattrezzi: La mia batteria è al di sotto della percentuale di
+guadagno degli autori sulle vendite del loro libri. Alla prossima
+
+- @AstoriPietro: Pc, permette a tutti di essere "pirata"
+
+- @SabryKarate: Secondo alcuni: La copia digitale personale non
+commerciale dovrebbe essere legale.Non permessa però la vendita.
+
+- @MartinoMensio: La pirateria su internet non è furto, ma danneggia
+economicamente i produttori
+
+- @Ale_Cannone:  pirati moderni ---> mirano al "furto" di quello che
+è la copia digitale
+
+- @SabryKarate: Condivisione non a scopo di lucro.
+
+- @SabryKarate: Thanks to @demartin for this interesting lesson!
+
+- @DavidePalermo2: @bassosimone anzi...petizione su Twitter! AAA Cercasi
+volenterosi di con tempo e voglia di fare! Salario: fama e cultura!
+
+- @LorenzoCutelle: .@Treccani potrebbe essere una logical fallacy! Aspetto
+la spiegazione che il prof @demartin farà a per esserne sicuro :)
+
+- @DavidePalermo2: Ho letto http://t.co/gaW4TBulAV di @m_caccialupi per
+@Cine_Revolution di su starwars Unica cosa:Star Wars VII nel 2015 ;)
+
+- @EricaAcire19: pronti per una nuova lezione di @bassosimone ...
+
+- @DavidePalermo2: Happy Birthday prof. @demartin dai ragazzi di
+! http://t.co/MfoXqYPsUc
+
+- @DavidePalermo2: @bassosimone introduce il lavoro "volontario" fatto
+sul l'indice di github File Index.md http://t.co/kBOdqCRlRa
+
+- @SabryKarate: Running from Alenia to !!! (@ Metro Marche (M1))
+http://t.co/O7IITD75Ly
+
+- @DavidePalermo2: da: informazioni strumenti concettuali (storici,
+tecnici, giuridici,etc) e operativi (blog,ml,etc)
+
+- @FabioVallone: Riassunto: cos'è
+ICANN? Strumenti->concettuali(storici, tecnici, giuridici) e
+operativi(blog, mailing list,...)
+
+- @FabioVallone: L'esperienza digitale da circa il 60% del voto
+
+- @DavidePalermo2: serve ad avere un'esperienza digitale Ci ricolleghiamo
+alla netiquette
+
+- @FabioVallone: Oggi espanderemo il concetto di Netiquette
+
+- @EmaParrinello: un corso completo che ci sta fornendo informazioni,
+strumenti, esperienza e netiquette
+
+- @Clerish: L'obiettivo finale del corso è quello di farci diventare
+migliori "cittadini digitali"
+
+- @ripa_pepperipa: oggi si parla di 1. "Cosa dici?" 2. Integrità
+3. Logical fallacies
+
+- @DavidePalermo2: 1) "Cosa dici?" 2) integrità 3) Logical Fallacies
+
+- @_FedericoConte: "Cosa dici?" : quando ci si rivolge online è
+importante chiarire la natura di ciò che si scrive
+
+- @Carrattrezzi:  http://t.co/0AaaLj4eeN
+
+- @SabryKarate: è un corso molto utile, infatti permette di imparare
+ad utilizzare Internet in maniera più costruttiva ed oculata.
+
+- @Clerish: Non fa caldo, fa molto caldo!
+
+- @SoFranchy: Oggi si parla di Netiquette --> diventare migliori
+cittadini (digitali): "Cosa dici?", "integrità", "logical fallacies"
+
+- @ripa_pepperipa: E’ fondamentale chiarire se ciò che si dice è:
+1. Un’opinione; 2. Una testimonianza
+
+- @Carrattrezzi: La testimonianza non è la verità, è una percezione,
+a lot different
+
+- @Clerish: Bisogna sempre chiarire se quello che si dice è:
+1)Un'opinione 2)Una testimonianza 3)Un fatto
+
+- @FabioVallone: Online, chiarire se è: 1-Un'opinione 2-Una testimonianza
+3-Riferite una informazione o un fatto
+
+- @Ale_Cannone:  nel relazionarsi con le persone bisogna far capire se
+ciò che si dice sia una nostra opinione, testimonianza o un fatto
+
+- @FeFallace: Nozione di netiquette: chiarire se il contenuto pubblicato
+é un'opinione, una testimonianza o un'informazione, un fatto...
+
+- @SabryKarate: Ciò che ognuno riporta di un certo evento è
+soggettivo. A parte la matematica, tutto il resto è opinabile...
+
+- @SimoneBleynat: Opinione, testimonianza o fatto riportato? È importante
+specificare la fonte di ciò che si dice
+
+- @DavidePalermo2: Parliamo delle informazioni su wikipedia
+
+- @paolopopolizio: chiarire se si dice: -1 opinione -1 testimonianza
+-1 informazione
+
+- @SoFranchy: "Cosa dici?": specifica se è una tua opinione, una
+testimonianza, un riferimento o una citazione: dimostrane la veridicità.
+
+- @Carrattrezzi: Ciò che citiamo come fonte, è attendibile?
+
+- @Clerish: Crap detection: capire l'attendibilità di un'informazione
+online
+
+- @_FedericoConte: Bisogna capire l'attendibilità delle informazioni
+online
+
+- @Rexsimo893: Chiarire sempre se ciò che diciamo è: -opinione
+-testimonianza -riferimento a un fatto
+
+- @SabryKarate: Per aver maggiore sicurezza riguardo ad un fatto, è
+bene osservare le info di una fonte attendibile. @rd_informazione
+
+- @LorenzoCutelle: Su wikipedia (e non solo) è fondamentale citare
+fonti affidabili.
+
+- @Ale_Cannone:  se si riferisce una informazione bisogna avere dei
+riferimenti e fonti attendibili
+
+- @venadavide: E' necessario valutare la validità delle fonti dalle
+quali prendiamo le informazioni
+
+- @SimoneBleynat: NB: verificare SEMPRE l'affidabilità delle fonti di
+qualsiasi informazione
+
+- @Ale_Cannone:  le fonti attendibili vanno riconosciute dal contesto
+
+- @FabioVallone: Su internet bisogna cercare di essere chiari il più
+possibile per cercare di aumentare la nostra credibilità
+
+- @SabryKarate: wikipedia: bene comune, è fondamentale che i dati siano
+verificati. La conoscenza è un bene Non Escludibile e Non Rivale!
+
+- @Antonio_Langiu: @annamasera venerdì prossimo a
+
+- @DavidePalermo2: Crap detector - Il sensore di boiate:
+http://t.co/rbchnp1GPl di @lucadebiase Per anticipare la lezione di
+@bassosimone
+
+- @EmaParrinello: Internet facilita la possibilità di riportare
+riferimenti attendibili, cose che era molto più difficile prima di
+internet
+
+- @Antonio_Langiu: Si parla di Michael C.Jensen - professore alla Harvard
+Business School
+
+- @FabioVallone: Integrità -> concetto morale
+
+- @Carrattrezzi: Cos'è l'integrità?
+
+- @FabioVallone: Integrità = rispetto della parola data
+
+- @Antonio_Langiu: Integrità: affidabilità e coerenza, come dice Jensen:
+Rispetto della parola data..
+
+- @BoggioMattia: Integrità : rispetto parola data.
+
+- @paolopopolizio: Michael C. Jensen ha promosso un sito che pubblica
+articoli scientifici accessibili in modo gratuiito
+
+- @LorenzoCutelle: La definizione di "integrità" di Michael C. Jensen
+è: mantenere la parola data.
+
+- @_FedericoConte: Integrità : mantenere la parola data
+
+- @FeFallace: Integrità significa mantenere la parola data.
+
+- @Carrattrezzi: L'integrità è mantere la parola data. Presuppone
+riflessione prima di parlare, e produce fiducia
+
+- @paolopopolizio: "integrità": sta per affidabilità, mantenere la
+parola data
+
+- @DavidePalermo2: Aspettiamo con impazienza la lezione di settimana
+prossima di @annamasera, SM Editor de @la_stampa, a @RivoluzDigitale
+
+- @EricaAcire19: mantenere la parola data è molto più difficile del
+previsto...cit. @demartin
+
+- @FabioVallone: Integrità: C'è una richiesta a monte di qualcuno,
+e una nostra considerazione del lavoro da svolgere. Si può accettare o no
+
+- @Carrattrezzi: Per prendere un impegno dobbiamo sapere il tempo che
+impieghiamo per farlo e il tempo che abbiamo
+
+- @_FedericoConte: Bisogna fare attenzione a ciò che implica mantenere
+una parola data, alle sue conseguenze
+
+- @SabryKarate: Bisogna rendersi conto delle proprie capacità per poter
+mantenere la parola data: invece tendiamo spesso a sovrastimare!
+
+- @Clerish: Prima di dare la propria parola ci vuole un'analisi delle
+proprie capacità e risorse di tempo
+
+- @DavidePalermo2: "Guardando l'agenda tendiamo sempre a sovrastimare
+il tempo a nostra disposizione per fare le cose che dobbiamo fare"
+
+- @SoFranchy: Integrità: rispettare la parola data, concetto non
+ovvio. Dare propria parola necessita lavoro a monte e conoscenza di sè.
+
+- @bassosimone: Oh, dopo che avete moltiplicato per due, moltiplicate
+ancora per due consiglio [esperienza personale]
+
+- @EmaParrinello: bisogna imparare a conoscersi bene per poter accettare
+una richiesta e mantenere la parola data
+
+- @SabryKarate: Attenzione a calcolare bene i tempi, consiglio di
+@demartin: lasciate un piccolo margine di tempo in più per sicurezza.
+
+- @Ale_Cannone:  integrità richiede alta conoscenza di se stessi e
+anche prudenza in modo da rispettare la parola data
+
+- @FabioVallone: Integrità può anche voler dire una grande conoscenza
+di noi stessi.Solo con esperienza si impara a capire cosa si può fare
+
+- @bassosimone: Tanto le moltiplicazioni (e le divisioni) per due sono
+molto efficienti
+
+- @fabioricca93: integrità=mantenere la parola data comporta un'attenta
+analisi di se stessi basata su prudenza e coscienza di se
+
+- @BoggioMattia: Per mantenere la parola data bisogna avere un'ottima
+conoscenza dei propri limiti e delle proprie capacità!!
+
+- @StefanoFranz20:  lasciarsi sempre un margine di tempo onde evitare
+di non mantenere la parola data. consiglio
+
+- @Carrattrezzi: Se forza maggiore bisogna dire ciò che succede nel
+momento in cui succede. E deve essere reale ed eccezionale
+
+- @SabryKarate: Ecco perché in genere io parto molto presto al mattino:
+per non arrivare in ritardo a lezione in caso di imprevisti.
+
+- @SimoneBleynat: Se qualcuno ti frega il computer sei giustificato a
+non farmi quelle slides che mi avevi promesso. Sennò no.
+
+- @SoFranchy: Se c'è imprevisto: avvisare immediatamente, proporre
+nuovi termini, chiedere se si può attenuare il disagio in qualche modo
+
+- @Carrattrezzi: Integrità accresce la reputazione
+
+- @LorenzoCutelle: La lezione di oggi di  ci fa capire benissimo come
+le regole su Internet siano le stesse della vita reale.
+
+- @ripa_pepperipa: • La reputazione ha un grandissimo valore
+professionale!
+
+- @BoggioMattia: Reputazione ha un grandissimo valore professionale
+oltre che personale.
+
+- @EmaParrinello: il continuo mantenimento delle "promesse" accresce la
+reputazione dell'individuo in maniera positiva
+
+- @Ale_Cannone:  nel caso di un imprevisto bisogna avvertire colui che
+ci aveva chiesto qualcosa e cercare di attenuare il disagio causato
+
+- @FabioVallone: La parola può non essere rispettata solo in casi
+"estremi". Quando succede bisogna cercare di alleviare i danni creati
+
+- @SabryKarate: La reputazione ha una grande importanza a livello sociale
+e lavorativo. Ci si può affidare a chi ha una buona reputazione.
+
+- @LorenzoCutelle: L'integrità è un valore di immane importanza sia
+su internet che nella vita reale. Un valore sempre più necessario.
+
+- @Ale_Cannone:  integrità vuol dire persona professionale che gode di
+rispetto da parte degli altri grazie alla sua positiva reputazione
+
+- @SoFranchy: Essere integri migliora la reputazione che ha un grande
+impatto professionale e commerciale
+
+- @FabioVallone: Mantenere la parola data aumenta molto la reputazione
+anche a livello professionale
+
+- @SabryKarate: Dopo la valutazione di una richiesta: No, grazie. (niente)
+Sì, però... (negoziazione) Sì. (parola data, va rispettata)
+
+- @DavidePalermo2: Schemino Riassuntivo http://t.co/t4s63xiUGo
+
+- @Carrattrezzi: @demartin ci porta un po' di mentalità anglosassone
+
+- @SabryKarate: In caso di un'emergenza: -Informare
+tempestivamente. -Scusarsi. -Stabilire nuova data. -Cosa si può fare
+per rimediare?
+
+- @paolopopolizio: ad una richiesta corrisponde una valutazione che in
+caso positivo implica la "parola data"
+
+- @Antonio_Langiu: Se emergenza vera: 1)Informare direttamente 2)Chiedere
+scusa 3)Dire quando si potrà fare 4)Chiedere come attenuare disagio
+
+- @omerovitali: Schema alla lavagna. http://t.co/YeCHaYQDW5
+
+- @StefanoFranz20: In sostanza non cercare di nascondere il problema ma
+prenderne atto e cercare una soluzione
+
+- @Carrattrezzi: Integrità è anche scrupolo nel parlare ed attenzione
+al fatto che sia vero.
+
+- @SabryKarate: Perciò, prima di affermare un fatto bisogna accertarsi
+che questo sia verificato. Non riferite solo "per sentito dire".
+
+- @FabioVallone: è importante crearsi una buona reputazione e
+attendibilità, quindi una buona Integrità
+
+- @Ale_Cannone:  integrità ---> persona attendibile, efficiente
+e coerente
+
+- @bassosimone: "L-worlds - the curious preference for low quality and
+its norms" by D. Gambetta e G.Origgi << [pdf] http://t.co/11nFGzbKgJ
+
+- @SabryKarate: Perché in Italia predomina l'idea: ti offro poco,
+fai in fretta, non mi interessa il risultato ma basta che sia fatto?
+
+- @DavidePalermo2: Def. di bozzaccia http://t.co/6C5QaFqeTI
+
+- @Clerish: In Italia sono comuni le richieste impossibili entro tempi
+brevi, che portano a "bozzacce"
+
+- @FabioVallone: in alcune relazioni esiste anche la "bozzaccia" ovvero
+tempi stretti, ma il lavoro è di scarsissima qualità...
+
+- @EmaParrinello: integrità significa anche rendersi conto che in alcuni
+casi non si è in grado di poter soddisfare la richiesta
+
+- @FabioVallone: Le aziende dove domina l'integrità, sono 2 volte più
+efficienti delle altre
+
+- @SabryKarate: E' meglio prendersi tempi più lunghi, ma eseguire un
+lavoro in maniera più accurata piuttosto che fare tutto "alla carlona"
+
+- @FeFallace: L'integritá funziona! Le aziende che la impongono producono
+più del doppio.
+
+- @Carrattrezzi: Valutare le richieste con la testa e non con il cuore
+
+- @Clerish: Le aziende in cui predomina l'integrità sono in media più
+del doppio di efficienti rispetto alle altre
+
+- @FabioVallone: Nella valutazione della richiesta, l'autoinganno è un
+rischio pericoloso
+
+- @ripa_pepperipa: • L’auto-inganno è un rischio particolarmente
+forte nella valutazione della richiesta
+
+- @SabryKarate: "Thou shall not commit logical fallacies"
+
+- @Ale_Cannone:  uno sguardo sull'Italia
+
+- @SabryKarate: What is a Logical fallacy? Take a look on this wiki page:
+http://t.co/Sh7Alpl6PD
+
+- @DavidePalermo2: Thou shalt not commit logical fallacies
+http://t.co/6C5QaFqeTI
+
+- @DavidePalermo2: https://t.co/fOpWGnzF6B Immagine delle Logical
+Fallacies
+
+- @Clerish: La peggiore fallacia logica è "ad hominem attack": attaccare
+l'opponente invece della sua tesi
+
+- @SabryKarate: 1) Ad hominem attack - attacco ad personam 2) Strawman
+(Spaventapasseri) - deformo l'argomentazione dell'opponente
+
+- @Clerish: La fallacia logica dello "strawman attack" (spaventapasseri)
+può passare inosservata da chi ascolta senza attenzione
+
+- @Ale_Cannone:  logical fallacies: 1. Ad hominem attack
+2. Spaventapasseri (strawman) 3. Anedottica
+
+- @SoFranchy: Logical fallacies, parallelismo inevitabile e frequente
+con la politica italiana e sui "salotti di tribuna politica"
+
+- @bassosimone: - la persona professionale chiede se ha capito bene
+l'argomentazione per esser sicuro appunto di aver capito
+
+- @fabioricca93: È evidente che cicerone nel foro romano non usava le
+logical fallacies (ad hominem attack/spaventapasseri)
+
+- @SabryKarate: Interesting list of logical fallacies:
+http://t.co/in6ZHb2jF8
+
+- @Clerish: La fallacia logica "anedottica" si basa sul generalizzare
+un singolo fatto come se valesse per tutti
+
+- @paolopopolizio: D'AGOSTINI FRANCA https://t.co/46MDWtpKMS
+
+- @Rexsimo893: Anedottica: prendere singolo fatto e generalizzarlo anche
+se non rappresenta la verità
+
+- @Ale_Cannone:  ad hominem attack: quando non si riesce ad attaccare
+un a4gomento altrui si attacca la persona
+
+- @Antonio_Langiu: Fallacce Logiche: 1) ad hominem attack 2) i
+spaventapasseri 3) anedottica
+
+- @Ale_Cannone:  spaventapasseri: presentare la tesi di qualcuno
+deformandola consciamente (attacco vigliacco)
+
+- @Clerish: Altra fallacia logica è quella della "slippery slope"
+(china pericolosa), che esagera i rischi della tesi da attaccare
+
+- @bassosimone: il problema dello slipper slope sta appunto nell'
+"inevitabilmente"
+
+- @LucaLiuzzi: Adesso che conosco bene le logicalfallacies non potrò
+non notarle ogni giorno,ogni min anche sui giornali.damnit
+
+- @EmaParrinello: logical fallacy anedottica consiste nel fare delle
+deduzioni partendo da casi particolari da cui non si può generalizzare
+
+- @paolopopolizio: "china pericolosa": un conseguenza autoevidente,
+senza che sia necessariamente vero
+
+- @SabryKarate: 3)Anedottica - da fatto particolare -> "regola
+generale" 4)Slippery slope (China pericolosa) - conseguenze non dimostrate
+
+- @Ale_Cannone:  anedottica: prendere un singolo dato, anche vero,
+e generalizzarlo come fatto generale
+
+- @_FedericoConte: Slipper Slope è un "effetto a valanga"
+
+- @Ale_Cannone:  china pericolosa (slippery slope) una serie di
+conseguenze successive non dimostrate
+
+- @bassosimone: lo slippery slope e' spesso legato ad argomenti morali
+
+- @SabryKarate: E' molto facile manipolare le informazioni tramite
+appropriati giri di parole o argomentazioni false http://t.co/jgTnXHVTPN
+
+- @DavidePalermo2: Proibizionismo http://t.co/WZ75X4uSKb
+
+- @StefanoFranz20:  logicalfallacies http://t.co/9RfHLlMr7d
+
+- @SoFranchy: Logical fallacies ad hominem attack: attaccare persona,
+non argomento; strawman: deformare opinione altrui per attaccarla
+
+- @FabioVallone: In molti casi si cerca di semplificare al massimo le
+opzioni: una negativa e una positiva
+
+- @SabryKarate: 5) Black & White (bianco e nero) - si presentano
+solo 2 opzioni, una negativa ed una positiva -> la scelta e' indotta
+
+- @Clerish: Infine, la fallacia logica "Bianco o Nero" esclude l'esistenza
+di sfumature tra la propria tesi e quella rivale
+
+- @Carrattrezzi: 1) Ad hominem attack 2) Spaventapasseri 3) Anedottica 4)
+China pericolosa 5) Bianco e nero (There Is No Alternative)
+
+- @FabioVallone: TINA -> There Is No Alternative
+
+- @Clerish: TINA: There Is No Alternative
+
+- @Antonio_Langiu: TINA
+
+- @SabryKarate: "T.I.N.A." There is no alternative
+
+- @ripa_pepperipa: - La fallacia logica Bianco o Nero: Nello strutturare
+la discussione dicendo o è così o così --> solo 2 opzioni.
+
+- @SoFranchy: Logical fallacies Aneddotica: basarsi su singolo evento
+e generalizzare;
+
+- @paolopopolizio: "TINA" : There Is No Alternative, atto di prepotenza
+e arroganza
+
+- @DavidePalermo2: TINA http://t.co/8FrfARvuum
+
+- @FabioVallone: Di solito chi utilizza il metodo TINA commette un atto
+di prepotenza
+
+- @fabioricca93: LOG.FALL. Bianco o nero=in una discussione dico
+VOLONTARIAMENTE che una cosa o è in un modo o in un'altro\ No altre
+opzioni
+
+- @Clerish: Chi usa l'argomento TINA commette di solito un atto di
+prepotenza
+
+- @Ale_Cannone:  bianco o nero: le opzioni sono solamente due di cui
+una è sicuramente negativa per far apparire l'altra migliore
+
+- @SoFranchy: Logical fallacies slippery slope: addurre "inevitabili"
+(non dimostrate) conseguenze negative a tesi altrui
+
+- @venadavide: "TINA: There Is No Alternative"
+
+- @Carrattrezzi: 6) False cause
+
+- @Clerish: La fallacia logica "False cause" implica una causalità
+infondata (x è la causa di y)
+
+- @SoFranchy: Logical fallacies: Bianco e nero: far intendere che ci
+sono solo due opinioni e distruggere quella altrui (TINA)
+
+- @EmaParrinello: attenzione a non confondere la "causazione" con la
+"correlazione"
+
+- @bassosimone: - correlation does not imply causation |
+http://t.co/UGu9l1uZqb
+
+- @Ale_Cannone:  false cause: due fenomeni di cui uno è la causa
+dell'altro ma ciò è infondato
+
+- @LucaLiuzzi: Penso che le logicalfallacies sono la causa di molti
+pregiudizi.
+
+- @SabryKarate: 6) False cause - causalità infondata di un fatto
+cit. @demartin: "x è la causa di y"
+
+- @FabioVallone: Faulse Cause "X è la causa di Y" ma
+infondato. Correlazione != Causazione
+
+- @fabioricca93: correlazione != causazione
+
+- @SoFranchy: Logical fallacies False cause: presentare (senza prove)
+la casualità di un fenomeno. Correlazione è diverso da causazione.
+
+- @Carrattrezzi: http://t.co/OsfHAzLsHl e anche http://t.co/KRCIQHmB4c
+
+- @Clerish: Se c'è una correlazione tra risultati scolastici e libri
+in casa, bisogna pensare che un fatto non è la causa dell'altro
+
+- @SabryKarate: Non si può ottenere tutta la conoscenza solo comprando
+una carrellata di libri. Possesso di libri non implica conoscenza.
+
+- @SabryKarate: Dopo la pausa, @bassosimone parlerà di Crap detection
+ed altro.
+
+- @DavidePalermo2: @demartin ci lascia nelle mani di @bassosimone e
+preannuncia lezione di mercoledì con @annamasera :-) pausa
+
+- @LucaLiuzzi: https://t.co/fxX8JUb9aV @demartin
+
+- @Carrattrezzi: fine pausa, inizio pioggia ehm volevo dire lezione
+
+- @FabioVallone: e @bassosimone disse: "Pioggia!" ... e pioggia fù...
+
+- @SabryKarate: "In viaggio con Narsete: da bit.ly a Tor, passando per
+la crap detection" by @bassosimone
+
+- @Carrattrezzi: Argomenti di oggi: -bit.ly -tor -crap detection
+
+- @DavidePalermo2: Parliamo con @bassosimone di bit.ly e Tor OT O
+Thor? http://t.co/rtEwEIt0QW /OT
+
+- @Carrattrezzi: Eunuchi e robustezza bizantina
+
+- @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete alla
+crapdetenction.
+
+- @SabryKarate: Robustezza bizantina: il tutto funziona anche se c'è
+un guasto!
+
+- @Clerish: @EricaAcire19 @SabryKarate E' la maledizione di !
+
+- @Ale_Cannone:  robustezza bizantina: i generali non possono comunicare
+tra loro e alcuni sono traditori ma l'attacco è vincente
+
+- @DavidePalermo2: Un temporale con poderosi tuoni si abbatte su Torino
+Ma noi siamo con @bassosimone a seguire
+
+- @Carrattrezzi: Come stabilire l'affidabilità di persone e siti
+su internet
+
+- @Ale_Cannone:  robustezza bizantina applicata a internet
+
+- @ripa_pepperipa: come faccio a valutare l'affidabilità dei link? mi
+fido della persona?
+
+- @FabioVallone: Scrivere sempre Tor e non TOR...
+
+- @EmaParrinello: @bassosimone ci parlerà a breve di: -bit.ly -phishing
+-crap detection -Tor
+
+- @Clerish: Ci si sta allagando l'aula...
+
+- @Ale_Cannone:  di chi mi devo fidare in internet? Parliamo di: 1. Bit.ly
+2. Email e phishing 3. Crap detection 4. Tor
+
+- @Carrattrezzi: @bassosimone alle prese con la Physical User Interface
+delle finestre del poli (o meglio delle segrete del poli)
+
+- @SoFranchy: Di chi ti fidi? In relazione a bit.ly & link, e-mail
+& phishing, pagine web & fonti, Tor
+
+- @SabryKarate: Ecco cosa ci aspetta all'uscita da . Ma speriamo che
+alle 19,00 sia l'arcobaleno ad accoglierci... http://t.co/f4fMi40roI
+
+- @LucaLiuzzi: @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete
+alla crapdetection.
+
+- @Carrattrezzi: @bassosimone aveva twittato questo http://t.co/Wqf42N4Y0R
+
+- @venadavide: La magia che sta dietro link lungo e link corto bitly
+
+- @FabioVallone: automatismo bit.ly: PC->DNS (IP di bit.ly)
+PC->bit.ly(link lungo) PC->sito che mi interessa
+
+- @Clerish: Basta aggiungere un + alla fine di un URL bit.ly per vedere
+dove vi porterà.
+
+- @SoFranchy: URL bit.ly con l'aggiunta di "+" per scoprire a cosa porta
+prima ancora di andarci.
+
+- @FabioVallone: mettendo un + in fondo al link bit.ly, ci permette di
+conoscere dove finiremmo
+
+- @SabryKarate: Possiamo scrivere http://t.co/EUzDrp4l9h per osservare
+in che pagina Web il bitly ci potrebbe portare, prima di entrarvi.
+
+- @venadavide: Per controllare dove ci manda un bitly possiamo aggiungere
+al fondo dell'URL un "+"
+
+- @ripa_pepperipa: se riceviamo un bitly e abbiamo paura, aggiungiamo un
+"+" per verificarene la pagina senza nessun rischio
+
+- @Ale_Cannone:  se in un URL bit.ly vogliamo sapere dove porta basta
+mettere un + alla fine dell'indirizzo
+
+- @CaracciFabio: Con bit.ly tre passaggi in più per essere reindirizzati
+alla pagina cercata.
+
+- @Clerish: Con il tool per command line "curl" il completo processo di
+bit.ly è visualizzato
+
+- @Carrattrezzi: curl è un buon modo per vedere tutto ciò che succede
+ai nostri URL
+
+- @paolopopolizio: aggiungendo "+" al link di bitly ti dice dove finiamo
+se clicchiamo su quel link
+
+- @FabioVallone: bit.ly utilizza un processo di Http Redirection
+
+- @SabryKarate: Modo poco geek: mettere un "+" in fondo a bitly. Modo
+geek: usare un tool come Curl.
+
+- @Ale_Cannone:  http redirection: vai in un indirizzo per essere
+re-indirizzato in un altro sito (moved)
+
+- @EmaParrinello: Per controllare dove andremo a finire con un link
+corto possiamo aggiungere un "+" alla fine dell'URL o usare "curl"
+
+- @SoFranchy: http redirection. Aggiungendo "+" si evita la "redirezione"
+di bit.ly e si ottengono solo info sul'url corta.
+
+- @DavidePalermo2: Provate http://t.co/XqwXzEZw17 ;-)
+
+- @LucaLiuzzi: Per esempio: “@rep_torino: Sei ragazzi del “Poli a
+Pasadena a progettare i robottini per Marte: http://t.co/BJchBzjFzW”
+
+- @SoFranchy: in alternativa si può usare "curl" da riga di comando
+che funziona non solo con bit.ly
+
+- @Ale_Cannone: Le URL corte sono utili nelle mail in quanto certe volte
+le righe vanno a capo automaticamente dopo 80 caratteri
+
+- @SabryKarate: Uso di URL corti PROS: - per email (però descrivendo
+origine) - click stats CONS: - non è chiaro dove ci porta!
+
+- @SabryKarate: Non serve utilizzare URL corti su Twitter, perché come
+abbiamo visto il link viene accorciato automaticamente. :)
+
+- @SoFranchy: Che riflessi @bassosimone! "No, no, noo.."
+
+- @Clerish: Il rasoio di Occam: http://t.co/6N7FD7ZXS1
+
+- @Ale_Cannone:  bit.ly utile nelle mail ma attenti alla robustezza,
+privacy, sicurezza e okkam
+
+- @SabryKarate: Attenzione, i bitly hanno CONTRO riguardo a: chiarezza
+della fonte, robustezza, privacy, security, okkam,...
+
+- @LucaLiuzzi: 301works http://t.co/fLJkXbPhr9
+
+- @SabryKarate: Il DNS, bitly e simili sono utili, tuttavia può essere
+un problema se finiscono down.
+
+- @Carrattrezzi: pro e contro di bit.ly  http://t.co/YtuFQwwUXt
+
+- @SabryKarate: La Security è l'aspetto più critico di bitly!
+
+- @SabryKarate: Cookie, pezzetti di informazione che vengono memorizzati
+e che possono essere rubati...
+
+- @SabryKarate: Utilizziamo un errore a scopo didattico :)
+
+- @SabryKarate: Funzione di hash on wiki http://t.co/YWzDYxfigM
+
+- @SabryKarate: <script> alert(document.cookie);</script>
+
+- @Carrattrezzi: Phishing (Phracking and fishing) getti delle esche per
+far abboccare dumb users
+
+- @SabryKarate: Parliamo ora di Phishing! Un gioco di parole tra
+"phracking" e "fishing". Senso -> i tonni abboccano.
+
+- @FlavioGiobergia: @bassosimone ci parla di XSS facendomi passare per
+un programmatore di bug :-)
+
+- @Clerish: Il phishing sui "pesci grossi" si dice Wailing (caccia
+alla balena)
+
+- @SabryKarate: Phishing fatto su "pesci grossi" ---> Whaling
+http://t.co/TzU00RMV5l
+
+- @Ale_Cannone:  i passi del phishing: 1. Manipolazione dei link 2. Email
+credibile 3. Sito credibile
+
+- @LucaLiuzzi: Impariamo quanto è importante svuotare la propria cache
+periodicamente e non solo.
+
+- @Ale_Cannone:  manipolazione dei link può essere attuata attraverso
+bit.ly
+
+- @SabryKarate: Si può ingannare un user usando: mail credibile,
+manipolando il link (non troppo lungo) e sfruttando un sito credibile.
+
+- @EmaParrinello: bit.ly ci può essere di aiuto per evitare di essere
+vittima di un phishing attack
+
+- @Carrattrezzi: @bassosimone scrive davvero gli URL a mano O.o
+
+- @SabryKarate: Attenzione alle mail che vi chiedono di inserire dati
+personali! Se non siete sicuri, informatevi e non fatevi imbrogliare
+
+- @Ale_Cannone:  un esempio di manip dei link riguarda il fatto che
+alcune URL sono insolitamente lunghe e finiscono con domini "strani"
+
+- @SoFranchy: E' possibile "sgamare" un phishing se vengono richiesti
+dati personali che l'ente dovrebbe già avere
+
+- @SabryKarate: Per difendere bisogna coprire tutto, senza lasciare
+talloni di Achille. Per attaccare basta una piccola falla nel sistema.
+
+- @SoFranchy: Miglioramento della sicurezza si ha tramite il Two Factor
+Authentication. I.E. sms oltre a user e pw.
+
+- @Gare_1993: Crap detection time
+
+- @SabryKarate: "Every man should have a build-in automatic crap detection
+operating inside him..." cit. Ernest Hemingway
+
+- @Ale_Cannone: Si parla di sicurezza su interntet a  Qui il caso Prism
+in America http://t.co/yljVN2JrNW @RivoluzDigitale
+
+- @Carrattrezzi: Net smart by Howard Rheingold
+
+- @SoFranchy: Che info dare al lettore crap detector: nome dell’autore
+cosa ha fatto in passato e cosa dicono altri di lui: reputazione
+
+- @SoFranchy: Creiamo una pagina Wikipedia su @bassosimone!
+
+- @SabryKarate: Su Google si possono facilmente trovare dati più precisi
+che ci mostrino il contesto culturale dell'autore di un blog post.
+
+- @Ale_Cannone:  whoise: un tool che aiuta a capire di chi è un certo
+dominio
+
+- @Clerish: Altro tool: "WhoIs" (da usare con cautela)
+
+- @LorenzoCutelle: Per cercare di capire chi è il proprietario del
+dominio, una possibile soluzione è 'whois'
+
+- @Carrattrezzi: @disinformatico
+
+- @ripa_pepperipa: a si parla di Paolo Attivissimo @disinformatico
+
+- @SabryKarate: @disinformatico Giornalista informatico, cacciatore di
+bufale e conduttore Radio
+
+- @Ale_Cannone:  sempre accertarsi delle fonti e non fidarsi sempre
+ciecamente della persona
+
+- @SabryKarate: Tor: Routing a cipolla http://t.co/ydTK6HjLp2
+
+- @Carrattrezzi: The Onion Routing
+
+- @Ale_Cannone:  Tor: i pacchetti vengono cifrati e diventa difficile
+capire chi è il mittente e chi il destinatario
+
+- @EmaParrinello: Tor: implementazione di "routing a cipolla" in cui i
+pacchetti sono cifrati più volte--> è difficile risalire al mittente
+
+- @Ale_Cannone:  il terzo livello di Tor è chiamato exit node e conosce
+il destinatario il primo conosce invece il mittente
+
+- @SabryKarate: Tor è un software che si può installare sul pc. Puoi
+scegliere tra varie opzioni: essere solo client, nodo della rete,...
 
 ## 2013-06-05
 
@@ -817,8 +1825,720 @@ ma danneggia economicamente i produttori RivoluzDigitale
 - @SabryKarate: Thanks to @demartin for this interesting
 lesson! RivoluzDigitale
 
+## 2013-05-31
 
+### Prof. Meo
 
+- @DavidePalermo2: Parliamo di openaccess e software libero con il
+prof. A. Meo Introdotto da @demartin
+
+- @SoFranchy: Oggi si parla di Open Source. Il Prof. Meo per
+
+- @paolopopolizio: docente Raffaele Meo ospite della lezione di
+rivoluzione digitale presso Politecnico di Torino
+
+- @DavidePalermo2: ringraziamo A. Meo per aver introdotto l' informatica
+in Italia
+
+- @andryamadio: Ospite di oggi il Prof. Meo
+
+- @EmaParrinello: Il prof. A. Meo è uno dei responsabili
+dell'introduzione dell'informatica in Italia
+
+- @VadimCujba: Oggi si parla di software libero con il prof Raffaele Meo
+
+- @SoFranchy: Grazie al Prof. Meo per aver contribuito all'introduzione
+dell'Informatica in Italia.
+
+- @_FedericoConte: 31/05 Lezione sui Software liberi - Open Source con
+il professor Meo http://t.co/xfCf0yVnAG
+
+- @paolopopolizio: A.Meo ci racconta la storia del software libero
+
+- @FabioBussi: la storia affonda le radici nella storia della coltura
+hacker
+
+- @EmaParrinello: la storia del software libero affonda le sue radici
+nella storia della cultura Hacker
+
+- @DavidePalermo2: Software libero e opensource di A. Meo File PDF
+http://t.co/ROn21rK02N
+
+- @BoggioMattia: Oggi a si parla di Software libero
+
+- @venadavide: Introduzione al software libero con il professore A.Meo
+RIvoluzDigitale
+
+- @paolopopolizio: gli hacher entrano nei pc altrui solo per conoscere
+nuove informazioni, e non per rubarle
+
+- @ripa_pepperipa: Hacker---&gt; Colui che Entra nei sistemi informativi
+per estrarne la conoscenza che riportano!
+
+- @EmaParrinello: Gli hacker entrano nei sistemi operativi semplicemente
+per conoscere e non per fare danni
+
+- @venadavide: Suit abito di lavoro generalmente scuro e scomodo
+
+- @ripa_pepperipa: definizione di SNAFU http://t.co/iqRZaBehq5
+
+- @paolopopolizio: sindrome SNAFU: sconnessione dei comportamenti dei
+capi dalla realtà
+
+- @FabioVallone: SNAFU: Situazione normale, tutto va nel c***o, ovvero
+disconnessione dei capi dalla realtà
+
+- @DavidePalermo2: Richard Stallman su Wikipedia http://t.co/5HTesSKvvH
+
+- @FabioVallone: Si può dire che GNU è nato grazie alla negligenza
+di Xerox
+
+- @venadavide: GNU Gnu is Not Unix 1985
+
+- @DavidePalermo2: GNU: Gnu is Not Unix
+
+- @_FedericoConte: Gnu is Not Unix
+
+- @MorenoLaQuatra: Prof. Angelo Raffaele Meo per , un pioniere
+dell'informatica Italiana http://t.co/AMHNovdKhB
+
+- @FabioBussi: Richard Matthew Stallman fondatore della Free Software
+Foundation
+
+- @ripa_pepperipa: Richard Stallman: principale esponente del software
+libero --&gt;https://t.co/g4mUbXsU6D
+
+- @FabioVallone: Stallman: Free software è una questione di libertà
+e non di prezzo !
+
+- @DavidePalermo2: CCLeft mi ricorda un Tweet di @bassosimone to
+@omerovitali
+
+- @LucaLiuzzi: Software libero.si comincia dal 1985 con Stallman
+
+- @paolopopolizio: Copyleft: diritto di copia di sinistra
+
+- @ripa_pepperipa: il pacchetto delle licenze copylefted in
+contrapposizione al copyright
+
+- @FabioVallone: Copylefted: Diritto di copia di sinistra al contrario
+di copyright-&gt; diritto di copia di destra...
+
+- @DavidePalermo2: Linus Torvald + Unix = Linux http://t.co/vIg7lq3Mpr
+
+- @FabioBussi: nel 1991 viene prodotto la prima versione di linux come
+software libero
+
+- @FabioVallone: nel 1991 nasce GNU/linux, così come piace chiamarlo
+il suo fondatore Stallman
+
+- @venadavide: Nel 1991 uno studente di Helsinki diede la nascita al
+software linux
+
+- @LucaLiuzzi: 1991 Linus Torwalds rilascia la prima versione di Linux.Il
+primo OS totalmente free.
+
+- @paolopopolizio: 1991 Linus crea il primo sistema operativo gratuito
+chiamato in suo onore Linux
+
+- @SoFranchy: Agli albori della storia del software libero Unix e
+conseguentemente GNU Linux di Linus Torvals.
+
+- @EricaAcire19: Gli anatemi di Stallman contro microsoft e altre
+aziende..
+
+- @EmaParrinello: "Berlusconi non ha il diritto di sapere dove sta
+Stallman" cit. Stallman
+
+- @DavidePalermo2: Berlusconi non ha diritto di sapere dov'è Stallman !
+
+- @FabioBussi: Internet è la madre e figlia del software libero
+
+- @enricoiucci: internet é madre e figlia del software libero
+
+- @MarcoViccica: Internet e stata la madre del software libero
+
+- @paolopopolizio: internet: "madre e figlia" del sofrware libero
+
+- @DavidePalermo2: Questa CIT andava bene quando gli host erano pochi,
+non 2 mld http://t.co/OfFjD4BjVO
+
+- @SoFranchy: Meo: parallelismo tra rete Internet e rete della pesca
+miracolosa del Vangelo di Giovanni. Internet realizza un miracolo.
+
+- @FabioBussi: Internet funziona solo grazie ad uno spirito di
+collaborazione tra molte persone
+
+- @venadavide: A.Meo's lesson http://t.co/WOLQyMMutq
+
+- @FabioVallone: Internet realizza un miracolo socio economico, perchè
+è uno strumento molto efficace per la diffusione del sapere
+
+- @DavidePalermo2: Internet è la più grande invenzione dell'uomo,
+per la diffusione e la crescita della conoscenza!
+
+- @_FedericoConte: Internet è la più importante invenzione dell'uomo
+
+- @SoFranchy: Meo: "DNA più grande scoperta dell'uomo, Internet la più
+grande invenzione"
+
+- @enricoiucci: internet--&gt; piú importante invenzione dell'uomo
+
+- @paolopopolizio: "internet": la più grande scoperta per la diffusione
+del sapere e della conoscenza
+
+- @Ale_Cannone: se il DNA è stata la più grande scoperta, internet è
+stata la più grande invenzione dell'uomo
+
+- @ripa_pepperipa: Internet realizza la più importante invenzione quale
+diffusione del sapere e della crescita, in modo "free"
+
+- @BoggioMattia: In internet tutto deve essere free
+
+- @DavidePalermo2: Internet Engineering Task Force (IETF)
+http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ
+
+- @EmaParrinello: La regola principale di IETF: tutto "free"
+
+- @FabioVallone: RFC: scriveteli nel cesso, ma scrivetevi precisi e chiari
+
+- @_FedericoConte: In internet tutto dovrebbe essere libero: i principi,
+la partecipazione, le idee, il codice
+
+- @FabioBussi: dilemma del professore ma perchè costruire tanti bit e
+poi devolverlo gratis?
+
+- @paolopopolizio: per far crescere la conoscenza, la conoscenza deve
+essere libera
+
+- @LorenzoCutelle: Software free: è una questione di libertà, non di
+prezzo. Come "free spech", e non "free beer"!
+
+- @venadavide: "A volte il mio padrone sembra arrivare dalla Bocconi"
+
+- @DavidePalermo2: Angelo Raffaele Meo spiega il software libero e
+SourceForge http://t.co/ekfyG1ZbOf
+
+- @Clerish: Stallman: "FREE as in free speech, not as in free beer."
+
+- @paolopopolizio: SourceForce :"con gli strumenti che noi forniamo 2,7
+milioni di sviluppatori creano nuovi software"
+
+- @LucaLiuzzi: Sicuramente si andrà a dare un'occhiata al corso di
+software libero del professore A.Meo
+
+- @Carrattrezzi: 2.7 milioni di programmatori opensource, e 2 milioni
+di download di programmi opensource al giorno
+
+- @MatteoMonta93: Lucio Stanca lesse il "libretto rosso" di Meo
+
+- @FabioVallone: TCO: Total Cost Ownership
+
+- @ripa_pepperipa: Il Prof. Meo ci parla di TCO http://t.co/ukTPuVV6Wg
+
+- @FabioBussi: Il TCO (Total Cost Owner) afferma che i costi della
+licenza sono minori dei costi per assistenza e manutenzione. Non vero!
+
+- @paolopopolizio: anche se i costi delle licenze fossero minori dei
+costi di manutenzione converrebbe sempre il software libero
+
+- @VadimCujba: Sourceforge: sorgente di software libero
+
+- @SabryKarate: Si possono trovare le slides "Software libero" by A. Meo
+usate nell'anno precedente sul sito di : http://t.co/rru0WO1BcO
+
+- @FabioVallone: Microsoft mise in giro che era meglio STO (Security
+Through Obscurity) rispetto al software libero
+
+- @DavidePalermo2: Principio di Kerckhoffs - Wikipedia
+http://t.co/fdnHzXAuj7 http://t.co/xtCewRmO3g
+
+- @Carrattrezzi: Le licenza portano capitali all'estero mentre investire
+in manutenzione dei sistemi open source porta occupazione qui
+
+- @_FedericoConte: "1883 - Sapendo come sono fatte le serrature si
+possono migliorare"
+
+- @DavidePalermo2: Macchina Enigma (crittografia) - Wikipedia
+http://t.co/hLDvltlTYh
+
+- @Ale_Cannone: cosa è meglio per l'economia italiana: assistenza svolta
+da italiani o licenze comprate all'estero?
+
+- @FabioVallone: Alain Turing riuscì a decriptare le informazioni
+inviate dalla "enigma", ciò evidenziò che anche i STO sono "hackerabili"
+
+- @Rexsimo893: Alcuni storici: se Turing non fosse riuscito a decriptare
+messaggi dei tedeschi la guerra sarebbe durata 6 mesi in più
+
+- @enricoiucci: la criptografia tedesca (enigma) fu violata dagli USA
+durante la guerra, la violazione permise accorciamento di 6 mesi
+
+- @paolopopolizio: Enigma: machina usata dai tedeschi nella 2° guerra
+mondiale, fu decifrato da Alan Turing a favore degli americani
+
+- @BoggioMattia: Il software custom appartiene alla pubblica
+amministrazione
+
+- @Carrattrezzi: We live in a society who knows the price of everything
+and the value of nothing (O.Wilde)
+
+- @FabioVallone: Dentro Windows NT c'erano due chiavi crittografiche:
+Mskey, Nmsakey; C'era paura di una backdoor
+
+- @DavidePalermo2: XML http://t.co/AFtIA783Ut
+
+- @DavidePalermo2: @SabryKarate ci fa notare come le slide che
+ora visualizziamo siano disponibili qui http://t.co/YGIsXY1aVi
+@RivoluzDigitale
+
+- @MorenoLaQuatra: Il nostro è un paese di leggi severissime temperate
+dalla loro inosservanza. cit. Prof. Meo
+
+- @FabioVallone: Ogni anno vengono persi circa 3 miliardi di $ per
+le licenze
+
+- @SimoneBleynat: I gigadollari (G$) sono geniali
+
+- @Rexsimo893: Alcuni siti sono chiusi anche rispetto al browser
+utilizzato per visualizzare le pagine -&gt; poca libertà
+
+- @PieMarzio: Si parla di software libero. Prof. Angelo Raffaele Meo
+http://t.co/6SSJOtHnhS
+
+- @DavidePalermo2: Si auto-commenta ;-) http://t.co/9lDqTQXk50
+
+- @FabioVallone: Con l'arrivo di "Brunetta" è arrivata la maledizione
+di Bill Tutancamon
+
+- @venadavide: http://t.co/NcfQDxuAmM
+
+- @Rexsimo893: Nell'estate scorsa il Parlamento ha approvato una legge
+che la scelta di default del software deve essere quello libero
+
+- @Carrattrezzi: La scelta di "default" della pubblica amministrazione
+deve essere il software libero. Legge dell'estate scorsa
+
+- @FabioVallone: A Brunetta non interessa il software libero e quindi
+non ha ricevuto la comunità del software libero...
+
+- @DavidePalermo2: http://t.co/3XLq8mtHKE Diventa Timeo Catricalam er
+dona ferentes :-)
+
+- @Ale_Cannone: 2012: con la legge 134/2012 la P.A. doveva adottare il
+software libero di default
+
+- @_FedericoConte: Legge 134/2012 : Nella Pubblica Amministrazione si
+adotti il software libero "by default"
+
+- @DavidePalermo2: I doni dei "Dona ferentes" legge 221/2012 by Monti
+http://t.co/36CO4zGGSw
+
+- @FabioBussi: con la legge 221 del 2012 il P.A. deve adottare per
+default il software libero
+
+- @FabioVallone: ...formati aperti...nonchè standard in grado di
+garantire l'interoperabilità... STO TCO questo prevede legge 221/2012
+
+- @Rexsimo893: Legge 221/2012: 1.TCO; 2.formati aperti e
+interoperabilità; 3.STO.
+
+- @DavidePalermo2: Esiste l' hardware libero Io non lo sapevo, e
+voi? http://t.co/Nk8Tur4pRU
+
+- @paolopopolizio: Hardware Design: progetto che può essere
+copiato,distribuito e modificato
+
+- @SimoneBleynat: "I deputati che vanno a donnine sono meno dannosi
+della scelta di un software proprietario" cit. Prof. Meo
+
+- @ripa_pepperipa: l'importanza dell' hardware libero
+http://t.co/tNXTsIqeO6
+
+- @paolopopolizio: le api hanno un piccolo corpo ma una grandissima anima
+
+- @ripa_pepperipa: Software e Hardware sempre più dotati di intelligenza
+
+- @GiuliaPancaro: L'intelligenza collettiva sviluppa il mondo degli
+hardware
+
+- @DavidePalermo2: OT Il Router Free non è il Rutto Libero /OT
+
+- @BoggioMattia: Arduino è un'architettura Hardware free
+
+- @DavidePalermo2: Parliamo di @arduino at con A. R. Meo
+http://t.co/P2Y9vkNul3
+
+- @SoFranchy: Arduino. Prof Meo: esempio clamoroso di open hardware.
+
+- @DavidePalermo2: Sul portale della Didattica c'è molto materiale utile
+ai ragazzi di e dell'intero PoliTO A. Meo lo renderà disp per tutti!
+
+- @Rexsimo893: "Sono più importanti i bit che non gli atomi"
+cit. Prof. Meo
+
+- @DavidePalermo2: Citiamo i fabbricatori universali Tipo @Fablabtorino
+
+- @Ale_Cannone: il disegno è più importante della materializzazione
+nella terza rivoluzione industriale
+
+- @SoFranchy: Prof Meo parla di terza rivoluzione industriale,
+fabbricatori universali e Arduino. http://t.co/RivbyBiebg
+
+- @EricaAcire19: La terza rivoluzione industriale secondo
+l'economist.. http://t.co/rqT17VYv0x
+
+- @Carrattrezzi: La cultura open per abbassare i costi (mediamente di
+8 volte) soprattutto per i paesi meno ricchi
+
+- @paolopopolizio: sul portale della didattica si puo accedere ad un
+sacco di materiale sul software libero
+
+- @Rexsimo893: Chi utilizza biofuel = chi brucia un pezzo di casa per
+scaldarsi, non una grande invenzione quindi
+
+- @Carrattrezzi: Replicabile all'infinito, con codice sorgente libero,
+usabile per qualunque uso, That's free software
+
+- @ripa_pepperipa: Software libero: Software distribuibile, repricabile
+indefinitivamente, con codice sorgente e usabile in qualunque ambito!
+
+- @Ale_Cannone: Software libero: prodotto software distribuibile, con
+codice sorgente pubblico, modificabile
+
+- @DavidePalermo2: software libero by Meo Prodotto distribuibile con
+cod sorgente replicabile no vincolo per tutti http://t.co/fFeYIHZ0Rm
+
+- @Rexsimo893: Software libero: distribuibile, codice sorgente,
+replicabile infinite volte, usabile per qualunque cosa.
+
+- @SoFranchy: Prof Meo: Arduino deve il suo successo all'essere Open. Una
+delle conseguenze è la riduzione drastica dei costi.
+
+- @DavidePalermo2: Question Time at con i prof A. Meo e @demartin Software
+libero http://t.co/qCZ0gdQuj9
+
+- @Rexsimo893: Nella tecnologia non sempre ciò che è meglio è più
+utilizzato, ci sono molte variabili che entrano in gioco
+
+### @demartin
+
+- @Carrattrezzi: Le 4 proprietà del software libero (@demartin ) : 1)
+La libertà di eseguire il programma per qualsiasi motivo
+
+- @DavidePalermo2: Definizione di software libero sul sito della Free
+Software Foundation http://t.co/sw0yB3Ldje http://t.co/YxBp9DyoIf
+
+- @Carrattrezzi: 2)Libertà di modificare il software e studiarlo (c'è
+bisogno del codice sorgente)
+
+- @Carrattrezzi: 3) libertà di ridistribuire copie così che si possa
+aiutare il proprio vicino 4)Distribuire copie con tue modifiche
+
+- @bassosimone: la licenza GNU GPL aggiunge il copyleft alla definizione
+di software libero
+
+### @CBlengio
+
+- @Carrattrezzi: @CBlengio risponde alle nostre domande di ieri+2 arrivate
+su twitter
+
+- @DavidePalermo2: diffamazione Non si può dire ladro al ladro
+
+- @bassosimone: .@CBlengio ingiuria e' diretta a una persona singola
+(aggravante se ci sono piu' persone)
+
+- @venadavide: Diffamazione: non si può dire ladro al ladro. @CBlengio
+
+- @enricoiucci: la diffamazione (mal parlare) é un offesa su qualcuno
+non presenta detta ad almeno 2 persone
+
+- @Ale_Cannone: differenze: ingiuria: se è presente la persona a cui
+è rivolta diffamazione: si offende la reputazione altrui
+
+- @DavidePalermo2: diffamazione slide by @CBlengio http://t.co/JYcZHTKDM6
+
+- @bassosimone: .@CBlengio se "@bassosimone e' un ladro" e @bassosimone
+non c'e' e' diffamazione (anche fosse @bassosimone un ladro)
+
+- @paolopopolizio: 1) libertà di studiare il programma; 2) libertà di
+ridistribuire copie; 3)libertà di distribuire la versione modificata
+
+- @enricoiucci: la pena aumenta se l'offesa é relativi a falsi fatti
+precisi e se divulgata tramite mezzi pubblicitari (quali internet)
+
+- @Carrattrezzi: Se la persona in questione è presente è ingiuria,
+Se non lo è e ci sono più di due testimoni è diffamazione.
+
+- @bassosimone: tanto per ingiuria quanto diffamazione la verita'
+o notorieta' del fatto non conta
+
+- @bassosimone: by the way, in Italia la stampa e' solo roba meccanica,
+quindi i blog non sono stampa (no aggravante x diffamazione)
+
+- @Carrattrezzi: Indipendentemente dalla veridicità della
+cosa. Aggravante: mezzo stampa o con grande portata.
+
+- @Carrattrezzi: Gli ospiti continuano a prendersela con @bassosimone
+
+- @bassosimone: non e' facile capire perche' la diffamazione dipende
+molto dal contesto - parametro: Art. 21 Cost su liberta' di espr.
+
+- @ripa_pepperipa: si parla di diritti di cronica, Critica e Satira. Con
+@CBlengio
+
+- @Carrattrezzi: Diritti di cronaca, critica e satira
+
+- @bassosimone: da Art. 21 Cost e carta dei diritti =&gt; diritto di
+cronaca, critica, satira
+
+- @DavidePalermo2: Diritto di cronaca, critica, satira sono uti cives
+(dei cittadini)
+
+- @bassosimone: puoi dare del ladro al ladro, e' un reato scriminato
+dal diritto di cronaca, satira, critica
+
+- @Rexsimo893: Diritti di: cronaca, critica, satira -&gt; diritti che
+ci dà la Costituzione
+
+- @paolopopolizio: Diritto di critica, di cronaca e di satira sono
+diritti Uti Cives @CBlengio
+
+- @Rexsimo893: Io twittando esercito il diritto di cronaca perchè informo
+
+- @DavidePalermo2: Mi sento preso in causa... Discorso sulle immagini
+di @CBlengio
+
+- @venadavide: Non pubblicate foto degli ospiti...rischiate la denuncia :)
+
+- @paolopopolizio: noi che twittiamo non siamo molto diversi dai
+giornalisti che diffondono notizie
+
+- @ripa_pepperipa: @CBlengio "scherza" sui trattamenti illeciti di
+diffusione di immagini personali!
+
+- @bassosimone: foto dell'avv. @CBlengio non si possono twittare (dato
+personale) a meno che non vuoi criticare, o fare cronaca
+
+- @Ale_Cannone: diritto di cronaca, critica e satira sono diritti uti
+cives, di tutti i cittadini--&gt; siamo nella società dell'informazione
+
+- @DavidePalermo2: Volevo comunicare che la lezione di @cblengio era
+interessante per tutti :-) speriamononcisianodenunce :-)
+
+- @SimoneBleynat: Morale della storia: qui a siamo tutti denunciabili
+per un motivo o per l'altro
+
+- @bassosimone: su Facebook seconda possibilita' di difesa, se profilo
+chiuso: comunicazione a amici != diffusione
+
+- @Ale_Cannone: per Facebook è possibile pubblicare foto di altre
+persone senza consenso se il profilo non è aperto
+
+- @bassosimone: ad esempio, si discute se apertura ad amici degli amici
+di Facebook sia comunicazione o diffusione
+
+- @ripa_pepperipa: I diritti di critica, cronaca e satira hanno dei
+limiti....
+
+- @bassosimone: limiti di cronaca: il fatto deve essere vero, detto in
+modo continente, e utile alla collettivita'
+
+- @paolopopolizio: i limiti della satira sono: -i fatti devono essere
+veri -il modo in cui detto continente -la motivazione -utile a comunità
+
+- @ripa_pepperipa: DIRITTO DI CRONACA: fatto vero, comunicarlo in modo
+continente, utile alla comunità!
+
+- @bassosimone: satira e' sottratta dal perimetro della verita' ma rimane
+assoggettata alla continenza e all'utilita' per collettivita'
+
+- @ripa_pepperipa: quando faccio satira manifesto il diritto di critica,
+sottratto al parametro della verità
+
+- @Rexsimo893: Nella satira non devo dimostrare che una cosa è vera
+mentra se critico qualcuno lo devo fare
+
+- @bassosimone: MT @venadavide Satira [...] mediante paradosso e metafora
+esprime il giudizio ironico su un fatto
+
+- @SimoneBleynat: Si è parlato di @Nonciclopedia al corso di
+
+- @ripa_pepperipa: al blog è applicata la legge di YouTube ed inoltre
+permette la pubblicazione di interventi da parte di altri
+
+- @93Levante: Nella diffamazione non è sempre facile dire quando è
+lecito e quando no
+
+- @ripa_pepperipa: parliamo di Internet Sercice Provider --&gt;
+http://t.co/UGGcAEo6fi
+
+- @paolopopolizio: il prestatore del Blog non è tenuto a verificare
+cosa posta in un articoli un altro prestatore sul suo blog
+
+- @bassosimone: intermediari della comunicazione e dell'informazione:
+access, caching e hosting
+
+- @Rexsimo893: Internet Service Provider: 1.Access(Telecom,Skype)
+2.Caching(Google) 3.Hosting(Fb,Twitter,Youtube)
+
+- @bassosimone: access, caching e hosting provider non sono responsabili;
+content provider invece sono responsabili
+
+- @venadavide: Satira, manifestazione del diritto di critica che mediante
+paradosso e metafora esprime il giudizio ironico su un fatto
+
+- @Rexsimo893: Se sono Content Provider sono responsabile → se ho
+spazio per commenti divento Hosting Provider
+
+- @_FedericoConte: Internet Service Provider : Intermediari della
+comunicazione, Intermediari dell'informazione
+
+- @Carrattrezzi: Non siamo responsabili dei contenuti pubblicati da terzi
+(commenti) sui nostri blog
+
+- @paolopopolizio: se si apre un blog a terzi non si è responsabili di
+ciò che viene scritto da loro
+
+- @bassosimone: bilanciamento tra liberta' di espressione, responsabilita'
+e interesse a che info illegali siano celermente rimosse
+
+- @ripa_pepperipa: la Commissione Europea si pone una domanda: dobbiamo
+proteggere i contenuti che ospitano terzi o no?
+
+- @bassosimone: due condizioni, pero', (a) fornitori non siano a
+conoscenza e (b) agiscano tempestivamente
+
+- @bassosimone: Sintesi scherzosa: pirlate bay
+
+- @MartinoMensio: Il fornitore del servizio non è responsabile se: A)
+non è a conoscenza dell'attività illecita B) appena lo vede provvede
+
+- @Ale_Cannone: differenza tra chi fa contenuto e chi è fornitore di
+servizi ---&gt; i primi possono essere accusati
+
+- @Carrattrezzi: Come avrebbero potuto sapere i gestori di pirate bay
+che venivano pubblicati file (venivano xD) infrangenti il copyright?
+
+- @Ale_Cannone: caso degli Internet service provider: diventa responsabili
+se viene segnalato qualcosa che non viene subito controllata
+
+- @bassosimone: by the way, vi faccio notare il "badate, parlo per
+esperienza personale" - i.e. comunicare cosa pensi vs. cosa sai
+
+- @MartinoMensio: Il fornitore di servizi è costretto ad intervenire
+solo se gli viene comunicato da autorità competente
+
+- @Carrattrezzi: Notice and take down? Si, se me lo dice un giudice,
+stabilirlo indipendentemente è troppo difficile
+
+- @bassosimone: come fanno le Internet company a rispettare le leggi di
+204 paesi? Not so simple
+
+- @EricaAcire19: Se FB dagli USA viene a conoscenza di un post in italiano
+diffamatorio, cosa fa? @CBlengio
+
+- @SimoneBleynat: È molto meglio che i big di Internet non siano
+responsabili! Meglio star senza guardiani della libertà di espressione
+
+- @MartinoMensio: Licra vs Yahoo: http://t.co/gvQrY8CDOz!
+
+- @bassosimone: caso LICRA vs YAHOO relativo a vendita di cimeli
+neo-nazisti (2000)
+
+- @Ale_Cannone: Licra vs Yahoo: causa che ha fatto scuola
+
+- @EmaParrinello: se dessimo responsabilità agli internet provider
+creeremmo dei guardiani della libera espressione, che è negativo
+
+- @Ale_Cannone: Licra vs Yahoo risolta con IP mapping
+
+- @EmaParrinello: il problema della territorialità in internet è un
+problema grossissimo da risolvere
+
+- @Ale_Cannone: è solo impressione mia o riguardo internet spunteranno
+sempre nuove controversie e cause?
+
+- @Ale_Cannone: peer-to-pee:r nessun rapporto tra client e server ma
+tra i computer stessi
+
+- @paolopopolizio: nel Peer To Peer non ho un rapporto client e server,
+ma il mio pc diffonde informazioni in condivisione complessiva
+
+- @DavidePalermo2: @omerovitali parliamo di P2P e del tuo post :-)
+
+- @EmaParrinello: con il P2P è difficilissimo trovare chi viola il
+diritto d'autore
+
+- @ripa_pepperipa: su Peer to Peer gira molta "roba stra-lecita". Non
+si riesce a beccare però chi viola il diritto d'autore!
+
+- @DavidePalermo2: @omerovitali for You :-) http://t.co/U4xmn9hGx9
+
+- @bassosimone: sicuramente lo streaming non e' un reato, ma non lo e'
+neanche scaricare, lo e' uploadare pero' - cc: @omerovitali
+
+- @paolopopolizio: se scarico una musica in peer to peer o da un server
+non commetto reato, solo se lo condivido, anche per scopo personale
+
+- @DavidePalermo2: @CBlengio Il download non è
+illegale! http://t.co/Sva3JzwPWB http://t.co/fORyDT5epp
+
+- @EmaParrinello: Nel P2P chi commette il reato è solamente chi condivide
+per diffondere ma non chi fa il download per uso proprio
+
+- @bassosimone: se scarico commetto un reato solo se lo faccio per
+lucrare o per fini non personali
+
+- @bassosimone: @CBlengio ci parla del caso peppermint
+
+- @ripa_pepperipa: viene punito chi mette in condivisione. Chi scarica
+per fini non personali o per lucrare, solo in tale caso commette reato
+
+- @bassosimone: la tutela dei dati personali venne ritenuto un bene
+superiore rispetto al copyright nel caso peppermint
+
+- @Ale_Cannone: indirizzo IP --&gt; dato personale --&gt; privacy
+
+- @bassosimone: quando sottoscrivi contratto telco dai autorizzazione
+privacy anche a filtrare tuo traffico
+
+- @ripa_pepperipa: il traffico mobile può essere filtrato attraverso
+gli indirizzi IP
+
+- @venadavide: Le compagnie tlf si assicurano la possibilità di filtrare
+il traffico del cliente...
+
+- @Ale_Cannone: mi sbaglio o è casey del telefilm chuck quello nella
+slide?
+
+- @Carrattrezzi: Non c'è neanche bisogno dell'autorizzazione di un
+giudice per tracciarti con il gps. sembra di essere in thewire
+
+- @bassosimone: "accettereste voi ad avere delle case di vetro anche se
+non menate vostra moglie?" &lt;&lt; @CBlengio LOL
+
+- @Ale_Cannone: cadono piume in aula xD
+
+- @paolopopolizio: fine lezione rivoluz digitale, momento di risposta
+alle domande da parte di @CBlengio
+
+- @Ale_Cannone: aprire una fan page citando il marchio? richiede
+autorizzazione ma chiuderla va contro gli interessi del marchio stesso
+
+- @ripa_pepperipa: spazio a domande e commenti a con @CBlengio
+
+- @Ale_Cannone: caso nutella e fan day http://t.co/ty11xWyuzF
+
+- @Carrattrezzi: @CBlengio ha skippato la mia domanda sulla sospensione
+copyright
+
+- @Ale_Cannone: occhio alle 50enni mature lol divertimento a
+
+- @EmaParrinello: bellissima lezione! A mercoledì prossimo
+
+- @Carrattrezzi: Vi fidate della vostra cronologia del browser tanto da
+portarla in tribunale? ccleaner
 
 ## 2013-05-29
 
@@ -1472,8 +3192,8 @@ http://t.co/gr9qLSx1Mc
 - @DavidePalermo2: Di chi è un dato dominio? Ad esempio si può scoprire
 con siti come questo http://t.co/hwKyhFSkHu
 
-    - @LucaLiuzzi: @DavidePalermo2 "siti come questo". Cioè i siti degli
-    host provider del sito a cui fa riferimento l'url.
+- @LucaLiuzzi: @DavidePalermo2 "siti come questo". Cioè i siti degli
+host provider del sito a cui fa riferimento l'url.
 
 - @venadavide: Possibilità di risalire al proprietario di un certo IP
 
