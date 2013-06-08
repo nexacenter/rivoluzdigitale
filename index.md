@@ -10,6 +10,7 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 - [24 Maggio 2013](#2013-05-24)
 - [22 Maggio 2013](#2013-05-22)
 - [17 Maggio 2013](#2013-05-17)
+- [15 Maggio 2013](#2013-05-15)
 - [10 Maggio 2013](#2013-05-10)
 - [08 Maggio 2013](#2013-05-08)
 - [03 Maggio 2013](#2013-05-03)
@@ -4934,6 +4935,424 @@ pagata ma limitata (iniziato in Germania alla fine dell'Ottocento)
 
 - @SabryKarate: Per lungo tempo gli scienziati stanno nella "torre
 d'avorio", compiono ricerche ma non diffondono i risultati. @MCPievatolo
+
+
+## 2013-05-15
+
+### @demartin
+
+- @FabioVallone: @bassosimone che utilizza windows??!?!? :-P
+
+- @Ale_Cannone: titolo descrittivo&lt;-------------------&gt;titolo
+troppo creativo....meglio restare in mezzo tra le due
+
+- @SabryKarate: Scrivere un titolo che sia originale e non troppo
+descrittivo ma al contempo permetta di capire l'argomento del post.
+
+- @Cine_Revolution: Comincia la lezione!!!  @m_caccialupi @BrayGabriele
+
+- @SabryKarate: Siam giunti nel mezzo del cammin del corso di
+
+- @SimoneBleynat: UBERFACEPALM
+
+- @Xfox1:  pagina importante se molti la citano
+
+- @Ale_Cannone: algoritmo di google: una pagina è importante in
+base a quante persone la citano
+
+- @Cine_Revolution: Nuovi argomenti? ? Diciamo la nostra:-) che
+corso ! ! @m_caccialupi @BrayGabriele http://t.co/lrfOwZlDSC
+
+- @FabioVallone: SEO (Search Engine Optimization) serve per ottimizzare
+il ranking delle proprie pagine nei motori di ricerca
+
+- @LucaLiuzzi: @demartin sarebbe interessante tracciare i comportamenti
+sbagliati dell'utente medio e analizzarli.
+
+- @Xfox1:  comunque a me ha colpito molto il fablab
+
+- @toni_marvelli:  finalmente un prof ascolta cio' che gli studenti
+vogliono sapere.
+
+- @DavidePalermo2: Bel momento di dialogo col prof @demartin a
+domande proposte commenti
+
+- @VadimCujba: Questo non è un corso di tecniche web!
+
+- @SabryKarate: Ogni blog sarà controllato fino al 15 di giugno,
+dopodiché ognuno potrà decidere se tenerlo in vita oppure abbandonarlo...
+
+- @SabryKarate: @VadimCujba  By the way, su Internet si possono
+trovare un sacco di risorse interessanti riguardo al linguaggio
+HTML :)
+
+- @FabioVallone: DNS (Domain Name System) serve per assegnare dei
+domini agli indirizzi IP
+
+- @Carrattrezzi: Riassunto di ciò di cui si è discusso nella penultima
+lezione: TCP/IP (possibile domanda di esame) e DNS
+
+- @DavidePalermo2: TCP/IP , DNS, Domini, Internet... Argomenti
+trattati ora a
+
+- @LucaLiuzzi: Chi decide cosa su internet?
+
+- @DavidePalermo2: Chi decide su internet? Chi ha potere su internet?
+
+- @VadimCujba: Chi è che ha potere su internet?
+
+- @Carrattrezzi: Regolamentazione di Internet: stesse regole del
+mondo "reale" ma chi decide sulle questioni "tecniche"? (DNS, IPv6
+ecc..)
+
+- @MesserPala: Chi decide cosa su internet?
+
+- @ripa_pepperipa: : Tutte le leggi presenti nel codice penale
+valgono anche per Internet---&gt;Aspetto Giuridico
+
+- @FabioVallone: Le decisioni su internet vengono prese da organismi
+specifici
+
+- @Rexsimo893: Internet ha una struttura di governance sofisticata,
+poco conosciuta e per questo, in alcuni casi, criticata
+
+- @FabioVallone: Internet è governata da una struttura di "Governance"
+distribuita in tutto il mondo.E' nata da chi ha inventato internet
+
+- @DavidePalermo2: La Governance di Internet esiste!
+
+- @EmaParrinello: Internet ha una struttura di governance molto
+complicata che i politici non riescono a comprendere.
+
+- @LucaNaldo4RD:  Internet, troppe decisioni da prendere dobbiamo
+strutturarci per gestirlo!
+
+- @FabioVallone: All'inizio gli indirizzi IP venivano dati a "mano".
+Ora ci sono infrastrutture preposte per fare ciò.
+
+- @LucaLiuzzi: Negli anni '80 la mole di decisioni tecniche diventa
+troppa.Si creano delle strutture decisionali per risolvere il
+problema
+
+- @FabioVallone: Gli enti preposti per governare internet non sono
+gestiti dallo stato
+
+- @ripa_pepperipa: : Chi governa internet non è lo Stato!
+
+- @DavidePalermo2:  È esistita un'età della pietra anche nella
+storia di Internet (riferimenti a fatti, cose, persone, eventi non
+sono voluti)
+
+- @Carrattrezzi: Con la crescita di internet le scelte sia tecniche
+che "politiche" (domini) sono affidate a NGO( http://t.co/dlT60R9EDB
+)
+
+- @SabryKarate: Gli organismi che gestiscono Internet non sono
+Ministeri, le scelte tecniche e politiche non sono controllate da
+un governo
+
+- @FabioVallone: Certi governi cercano di copiare da internet. Altri
+rifiutano nettamente tale infrastruttura
+
+- @LucaLiuzzi: A decidere quindi sono NGO. http://t.co/AxsgZj8FYb
+
+- @Antonio_Langiu: Internet non è governata da nessun governo e da
+nessuno stato..
+
+- @MorenoLaQuatra: Perché per parlare del cambiamento degli organismi
+di gestione internet si va a Dubai? Troppi interessi economici di
+mezzo
+
+- @93Levante: Internet: l'unico sistema di comunicazione che non è
+gestito da un ente governativo
+
+- @Xfox1:  dunque potremmo vedere internet come un ente a se stante!
+
+- @FabioVallone: Gli enti decidono come fare internet, mentre il
+governo può censurare alcune funzioni. Ad es Cina ha messo un grande
+filtro
+
+- @MesserPala: RT @DavidePalermo2:  È esistita un'età della pietra
+anche nella storia di Internet (riferimenti a fatti, cose, persone,
+eve…
+
+- @LucaNaldo4RD:  internet controllato dalle NGO e non dallo Stato!
+Alcuni governi vorrebbero imitare altri condannano.
+
+- @VadimCujba: In passato le comunicazioni erano gestite dai governi,
+lo sono anche ora!
+
+- @LucaNaldo4RD:  in Inghilterra le Accademie prendono il nome di
+Society .
+
+- @Antonio_Langiu: Internet in China: A giant cage | The Economist
+http://t.co/vWVgthVTDT
+
+- @LucaNaldo4RD:   Lunar Society perché si trovavano nelle notti
+di luna piena.
+
+- @SabryKarate: Internet Society: organizzazione no profit, attivata
+per obiettivi formativi, caritatevoli ed educativi.
+
+- @Carrattrezzi: Cina ed altri stati premono per un controllo
+statale. Come la Cina censura internet? Articolo dell'economist.
+
+- @FabioVallone: Internet Society: obiettivi formativi,
+caricatevoli,scientifici,facilitare l'evoluzione.Inoltre educare
+all'uso di internet
+
+- @SimoneBleynat: RT @FabioVallone: Internet Society: obiettivi
+formativi, caricatevoli,scientifici,facilitare l'evoluzione.Inoltre
+educare all'uso di intern…
+
+- @ripa_pepperipa: : Internet Society http://t.co/Q9D6PcKOkk
+
+- @SabryKarate: L'Internet Society, fondata nel 1992 in Virginia,
+si occupa di diffondere la cultura delle nuove tecnologie e di
+Internet.
+
+- @Antonio_Langiu: Discussione su Internet society  (wiki page)
+http://t.co/QEXv3UHoz4
+
+- @Tech_OnTheRoad: Il braccio di ferro tra Apple e Samsung - A
+gestire il monopolio degli smartphone sono sempre di più Apple e...
+http://t.co/HuK6dShYIC
+
+- @FabioVallone: Internet Society:No-profit Fondata 1992 da Vint
+Cerf, Bob Khan.Basata in Virginia.Ha 50000membri.Chapter
+Nazionali/tematici
+
+- @FabioVallone: ISOC --&gt; Internet Society
+
+- @Carrattrezzi: 1992, Internet Society (ISOC) fondata da Vint Cerf,
+Bob Knan, ecc... con 50.000 membri. Mission? http://t.co/Et8DYb2DWn
+
+- @SabryKarate: IETF: Internet Engineering Task Force Fondato nel
+1986 http://t.co/mDlzriIS7i
+
+- @Ale_Cannone: 1986 nasce la IETF (Internet Engineering Task Force)
+
+- @FabioVallone: Prima di ISOC, IETF (Internet Engineering Tak
+Force) 1986 http://t.co/B3Rn9VW86d adesso fa parte di ISOC
+
+- @CaracciFabio: Il governo cinese limita la democrazia limitata
+nel web
+
+- @SabryKarate: "The goal of the IETF is to make the Internet work
+better"
+
+- @FabioVallone: ISO (International Standardization Organazation)
+ITU (International Telecomunication Union) servono per standardizzare
+
+- @ripa_pepperipa: :  http://t.co/sWBeqRw0XQ ... IETF:organizzazione
+intergovernativa nata prima di ISOC ma adesso dipendente da questa
+
+- @Carrattrezzi: Già nel 1986 IETF (http://t.co/GnPpXcZwBG) prendeva
+decisioni sugli standard. Diversamente da ISO E ITU chiunque partecipa
+
+- @FabioVallone: Tutti possono prendere parte a ISO e ITU pagando
+una quota di partecipazione ma solo previo consenso dei membri
+
+- @MesserPala: Ad IETF vanno persone!
+
+- @Ale_Cannone: IETF: alle riunioni può partecipare chiunque (con
+un pagamento di una quota)
+
+- @FabioVallone: By the way,riunioni IETF tutti possono partecipare
+senza dover chiedere il permesso.Viene chiesto di pagare costi
+logistici
+
+- @LucaLiuzzi: Non c'è una procedura ufficiale decisionale nelle
+riunioni di IETF.
+
+- @Rexsimo893: IETF, ormai parte di Internet Society, opera decisioni
+tecniche sulla base di "running code" e "rough consensus"
+
+- @FabioVallone: IETF: "Running Code"(codice funzionante) e "Raf
+Consensus"(mailing list per discutere, senza una vera votazione)
+
+- @SabryKarate: "Running code, rough consensus"  Serve mostrare il
+codice funzionante Si discute tramite mailing list per avere il
+consenso
+
+- @Ale_Cannone:  IETF "running code, rough consensus"
+
+- @Ale_Cannone:  rough consensus: strumento per prendere decisioni
+utilizzando la mailing list
+
+- @Carrattrezzi: Le decisioni di IETF tramite "running code e rough
+consensus" cioè mostrando il codice e con il consenso della mailing
+list
+
+- @FabioVallone: Nel IETF non c'è una vera struttura gerarchica ma
+chi ha più esperienza riuscirà a deviare la soluzione dove vuole
+lui
+
+- @FabioVallone: Nel IETF si utilizza il "muggimtometro" ovvero la
+votazione avviene in modo qualitativo e non quantitativo
+
+- @LucaLiuzzi: @toni_marvelli se qualcuno possieda influenza ha
+automaticamente un potere.Quello di influenzare gli altri.  @demartin
+
+- @SimoneBleynat: Non riuscirò a togliermi dalla mente il MUGGITOMETRO
+per un po'
+
+- @Ale_Cannone:  rough consensus: procedura decisionale quantitativa
+che evita ostacoli dal punto di vista procedurale...
+
+- @LucaNaldo4RD: RT @SimoneBleynat: Non riuscirò a togliermi dalla
+mente il MUGGITOMETRO per un po'
+
+- @MorenoLaQuatra: Rough consensus &amp; running code per l'IETF,
+una concezione non gerarchica ma paritaria.
+
+- @FabioVallone: @FabioVallone Errata corrige: "Rough Consensus",
+scusate per l'errore... XD
+
+- @Rexsimo893: IETF ha procedura decisionale quantitativa (rumore
+e mailing list) che evita problemi di natura pratica (es. contestazioni)
+
+- @FabioVallone: RFC (870 per esempio) = Request For Comments
+
+- @93Levante: RT @Tech_OnTheRoad: Il braccio di ferro tra Apple e
+Samsung - A gestire il monopolio degli smartphone sono sempre di
+più Apple e... http://…
+
+- @ripa_pepperipa: : Request For Comments http://t.co/9BvIdGDGLe
+
+- @FabioVallone: I commenti durante i 6 mesi di RFC possono portare
+o all'abbandono dell'idea oppure a mdifiche. No obiezioni --&gt;
+Standard
+
+- @SabryKarate: RFC: Request for Comments, documento con specifiche
+riguardanti innovazioni e tecniche dell'ambito informatico o Internet.
+
+- @EmaParrinello: La standardizzazione avviene attraverso l'RFC
+(request for comment)
+
+- @Carrattrezzi: Gli standard approvati dalla IETF è il numero della
+"RFC" seguito dal tempo di discussione e dallo stato di approvazione
+
+- @Rexsimo893: RFC( Request For Comments) diventano gli standard
+di Internet dopo che passano un periodo dove possono essere commentati
+
+- @SabryKarate: IANA: Internet Assigned Numbers Authority 1988,
+dipende da ICANN
+
+- @LucaLiuzzi: IANA - internet assigned numbers authority
+
+- @ripa_pepperipa: : Altra entità ---&gt; IANA http://t.co/JTXr2HZWWy
+
+- @venadavide: IANA: Internet Assigned Numbers Authority, 1988,
+dipende da ICANN
+
+- @Rexsimo893: IANA nasce con la persona di Joe Postel che gestiva
+indirizzi IP
+
+- @93Levante: Le prime tre organizzazioni a che gestiscono interne
+sono: ISOC(1992),IETF(1986) e IANA(1988)
+
+- @Ale_Cannone:  Joe Postel gestiva gli indirizzi IP
+
+- @SabryKarate: IANA, primo compito: Global IP address allocation.
+Allocazione degli indirizzi IP.
+
+- @EmaParrinello: Agli albori di internet Joe Postel rappresentava
+l'IANA di oggi
+
+- @ripa_pepperipa: : IANA distribuisce gli indirizzi IP
+
+- @Ale_Cannone: IP con cui ci connettiamo viene dato da --&gt;
+Provider ----&gt; IANA
+
+- @ripa_pepperipa: : IANA gestisce anche i server root del DNS
+
+- @Carrattrezzi: IANA (1988) e Joe Postel allocano gli indirizzi
+IP (prima alle persone poi agli ISP) e gestiscono i server root del
+DNS
+
+- @Rexsimo893: IANA: allocazione indirizzi IP, gestione server root
+del DNS
+
+- @Ale_Cannone:  gerarchia basata su catene di server DNS nella
+quale i pilastri sono i server root (che sono dell'ordine di una
+decina)
+
+- @Ale_Cannone:  i server root sono 13 e sono protetti dal governo
+americano in quanto fondamentali per il collegamento a internet
+
+- @SabryKarate: Se dovessero essere fuori uso i server root fel
+DNS, solo chi conosce l'indirizzo IP dei siti potrebbe usare
+Internet...
+
+- @ripa_pepperipa: : I server root --&gt; http://t.co/rBXogZIQ62
+
+- @Ale_Cannone:  per la prossima volta ICANN e IAB
+
+- @Carrattrezzi: I 13 server DNS contengono tutte le informazioni
+sui server a cui richiedere di risolvere i DNS
+
+- @paolopopolizio: : (aspetto giuridico) le leggi del codice civile
+e codice penale valgono anche per internet.
+
+- @paolopopolizio: : chi ha potere e decide su internet? la struttura
+di Government (inglese-americana)
+
+- @paolopopolizio: : organismi della struttura burocratica di
+Government: -ricercatori(Bob Kahn,Jon Paste) che un ONG organizz.
+non governative
+
+- @paolopopolizio: : Internet Society:1992 società no profit, gestita
+da Vint Cerf, Bob khan, Virginia; con 50000 membri
+
+- @paolopopolizio: : Internet Society: http://t.co/hvYDDqrjR7
+
+- @paolopopolizio: : Internet Society è un'organizzazione di diritto
+americano per la promozione dell'utilizzo e dell'accesso a Internet
+
+- @paolopopolizio: : Accanto a Internet Society si sono sviluppate
+delle sezioni locali (chapter) che si riconoscono nei principi di
+ISOC
+
+- @paolopopolizio: : IETF dipende da ISOC; Internet Engineering
+Task Force (1986) http://t.co/pMFD8YZ0rO
+
+- @paolopopolizio: : La IERTF è un organismo internazionale, libero,
+composto da tecnici interessati all'evoluzione tecnologica di
+Internet.
+
+- @paolopopolizio: : riunioni IETF: può partecipare chiunque previo
+pagamento quota di iscrizione per coprire le spese
+
+- @paolopopolizio: :  Rough consensus: http://t.co/Ai4GCWEAtR
+Consenso approssimativo http://t.co/HuxHkUtVDB
+
+- @paolopopolizio: :  Rough consensus: impone che il luogo di
+discussione sia la maining list
+
+- @paolopopolizio: : RFC: Request For Comments
+
+- @paolopopolizio: : RFC: documento che riporta informazioni
+riguardanti nuove ricerche e metodologie dell'ambito informatico o
+di Internet
+
+- @paolopopolizio: : RFC http://t.co/KC7R3QOmDv
+
+- @paolopopolizio: @RivoluzDigitale: IANA: Internet Assinged Numbers
+Authority=autorità internet per i numeri assegnati (dipende da
+ICANN)
+
+- @paolopopolizio: @RivoluzDigitale: IANA: è un organismo che ha
+responsabilità nell'assegnazione degli indirizzi IP http://t.co/YeTWYMYuIF
+
+- @paolopopolizio: : Joe Postel: gestisce gli indirizzi IP. University
+of Southern California
+
+- @paolopopolizio: : Joe Postel: gestisce gli indirizzi IP finché
+non diventano troppi e la gestione diventa commerciale
+
+- @paolopopolizio: : ICANN: gestisce i server root del DNS a livello
+mondiale (13 DNS base sono protetti dal governo americano)
 
 
 ## 2013-05-10
