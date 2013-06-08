@@ -817,8 +817,720 @@ ma danneggia economicamente i produttori RivoluzDigitale
 - @SabryKarate: Thanks to @demartin for this interesting
 lesson! RivoluzDigitale
 
+## 2013-05-31
 
+### Prof. Meo
 
+- @DavidePalermo2: Parliamo di openaccess e software libero con il
+prof. A. Meo Introdotto da @demartin
+
+- @SoFranchy: Oggi si parla di Open Source. Il Prof. Meo per
+
+- @paolopopolizio: docente Raffaele Meo ospite della lezione di
+rivoluzione digitale presso Politecnico di Torino
+
+- @DavidePalermo2: ringraziamo A. Meo per aver introdotto l' informatica
+in Italia
+
+- @andryamadio: Ospite di oggi il Prof. Meo
+
+- @EmaParrinello: Il prof. A. Meo è uno dei responsabili
+dell'introduzione dell'informatica in Italia
+
+- @VadimCujba: Oggi si parla di software libero con il prof Raffaele Meo
+
+- @SoFranchy: Grazie al Prof. Meo per aver contribuito all'introduzione
+dell'Informatica in Italia.
+
+- @_FedericoConte: 31/05 Lezione sui Software liberi - Open Source con
+il professor Meo http://t.co/xfCf0yVnAG
+
+- @paolopopolizio: A.Meo ci racconta la storia del software libero
+
+- @FabioBussi: la storia affonda le radici nella storia della coltura
+hacker
+
+- @EmaParrinello: la storia del software libero affonda le sue radici
+nella storia della cultura Hacker
+
+- @DavidePalermo2: Software libero e opensource di A. Meo File PDF
+http://t.co/ROn21rK02N
+
+- @BoggioMattia: Oggi a si parla di Software libero
+
+- @venadavide: Introduzione al software libero con il professore A.Meo
+RIvoluzDigitale
+
+- @paolopopolizio: gli hacher entrano nei pc altrui solo per conoscere
+nuove informazioni, e non per rubarle
+
+- @ripa_pepperipa: Hacker---&gt; Colui che Entra nei sistemi informativi
+per estrarne la conoscenza che riportano!
+
+- @EmaParrinello: Gli hacker entrano nei sistemi operativi semplicemente
+per conoscere e non per fare danni
+
+- @venadavide: Suit abito di lavoro generalmente scuro e scomodo
+
+- @ripa_pepperipa: definizione di SNAFU http://t.co/iqRZaBehq5
+
+- @paolopopolizio: sindrome SNAFU: sconnessione dei comportamenti dei
+capi dalla realtà
+
+- @FabioVallone: SNAFU: Situazione normale, tutto va nel c***o, ovvero
+disconnessione dei capi dalla realtà
+
+- @DavidePalermo2: Richard Stallman su Wikipedia http://t.co/5HTesSKvvH
+
+- @FabioVallone: Si può dire che GNU è nato grazie alla negligenza
+di Xerox
+
+- @venadavide: GNU Gnu is Not Unix 1985
+
+- @DavidePalermo2: GNU: Gnu is Not Unix
+
+- @_FedericoConte: Gnu is Not Unix
+
+- @MorenoLaQuatra: Prof. Angelo Raffaele Meo per , un pioniere
+dell'informatica Italiana http://t.co/AMHNovdKhB
+
+- @FabioBussi: Richard Matthew Stallman fondatore della Free Software
+Foundation
+
+- @ripa_pepperipa: Richard Stallman: principale esponente del software
+libero --&gt;https://t.co/g4mUbXsU6D
+
+- @FabioVallone: Stallman: Free software è una questione di libertà
+e non di prezzo !
+
+- @DavidePalermo2: CCLeft mi ricorda un Tweet di @bassosimone to
+@omerovitali
+
+- @LucaLiuzzi: Software libero.si comincia dal 1985 con Stallman
+
+- @paolopopolizio: Copyleft: diritto di copia di sinistra
+
+- @ripa_pepperipa: il pacchetto delle licenze copylefted in
+contrapposizione al copyright
+
+- @FabioVallone: Copylefted: Diritto di copia di sinistra al contrario
+di copyright-&gt; diritto di copia di destra...
+
+- @DavidePalermo2: Linus Torvald + Unix = Linux http://t.co/vIg7lq3Mpr
+
+- @FabioBussi: nel 1991 viene prodotto la prima versione di linux come
+software libero
+
+- @FabioVallone: nel 1991 nasce GNU/linux, così come piace chiamarlo
+il suo fondatore Stallman
+
+- @venadavide: Nel 1991 uno studente di Helsinki diede la nascita al
+software linux
+
+- @LucaLiuzzi: 1991 Linus Torwalds rilascia la prima versione di Linux.Il
+primo OS totalmente free.
+
+- @paolopopolizio: 1991 Linus crea il primo sistema operativo gratuito
+chiamato in suo onore Linux
+
+- @SoFranchy: Agli albori della storia del software libero Unix e
+conseguentemente GNU Linux di Linus Torvals.
+
+- @EricaAcire19: Gli anatemi di Stallman contro microsoft e altre
+aziende..
+
+- @EmaParrinello: "Berlusconi non ha il diritto di sapere dove sta
+Stallman" cit. Stallman
+
+- @DavidePalermo2: Berlusconi non ha diritto di sapere dov'è Stallman !
+
+- @FabioBussi: Internet è la madre e figlia del software libero
+
+- @enricoiucci: internet é madre e figlia del software libero
+
+- @MarcoViccica: Internet e stata la madre del software libero
+
+- @paolopopolizio: internet: "madre e figlia" del sofrware libero
+
+- @DavidePalermo2: Questa CIT andava bene quando gli host erano pochi,
+non 2 mld http://t.co/OfFjD4BjVO
+
+- @SoFranchy: Meo: parallelismo tra rete Internet e rete della pesca
+miracolosa del Vangelo di Giovanni. Internet realizza un miracolo.
+
+- @FabioBussi: Internet funziona solo grazie ad uno spirito di
+collaborazione tra molte persone
+
+- @venadavide: A.Meo's lesson http://t.co/WOLQyMMutq
+
+- @FabioVallone: Internet realizza un miracolo socio economico, perchè
+è uno strumento molto efficace per la diffusione del sapere
+
+- @DavidePalermo2: Internet è la più grande invenzione dell'uomo,
+per la diffusione e la crescita della conoscenza!
+
+- @_FedericoConte: Internet è la più importante invenzione dell'uomo
+
+- @SoFranchy: Meo: "DNA più grande scoperta dell'uomo, Internet la più
+grande invenzione"
+
+- @enricoiucci: internet--&gt; piú importante invenzione dell'uomo
+
+- @paolopopolizio: "internet": la più grande scoperta per la diffusione
+del sapere e della conoscenza
+
+- @Ale_Cannone: se il DNA è stata la più grande scoperta, internet è
+stata la più grande invenzione dell'uomo
+
+- @ripa_pepperipa: Internet realizza la più importante invenzione quale
+diffusione del sapere e della crescita, in modo "free"
+
+- @BoggioMattia: In internet tutto deve essere free
+
+- @DavidePalermo2: Internet Engineering Task Force (IETF)
+http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ
+
+- @EmaParrinello: La regola principale di IETF: tutto "free"
+
+- @FabioVallone: RFC: scriveteli nel cesso, ma scrivetevi precisi e chiari
+
+- @_FedericoConte: In internet tutto dovrebbe essere libero: i principi,
+la partecipazione, le idee, il codice
+
+- @FabioBussi: dilemma del professore ma perchè costruire tanti bit e
+poi devolverlo gratis?
+
+- @paolopopolizio: per far crescere la conoscenza, la conoscenza deve
+essere libera
+
+- @LorenzoCutelle: Software free: è una questione di libertà, non di
+prezzo. Come "free spech", e non "free beer"!
+
+- @venadavide: "A volte il mio padrone sembra arrivare dalla Bocconi"
+
+- @DavidePalermo2: Angelo Raffaele Meo spiega il software libero e
+SourceForge http://t.co/ekfyG1ZbOf
+
+- @Clerish: Stallman: "FREE as in free speech, not as in free beer."
+
+- @paolopopolizio: SourceForce :"con gli strumenti che noi forniamo 2,7
+milioni di sviluppatori creano nuovi software"
+
+- @LucaLiuzzi: Sicuramente si andrà a dare un'occhiata al corso di
+software libero del professore A.Meo
+
+- @Carrattrezzi: 2.7 milioni di programmatori opensource, e 2 milioni
+di download di programmi opensource al giorno
+
+- @MatteoMonta93: Lucio Stanca lesse il "libretto rosso" di Meo
+
+- @FabioVallone: TCO: Total Cost Ownership
+
+- @ripa_pepperipa: Il Prof. Meo ci parla di TCO http://t.co/ukTPuVV6Wg
+
+- @FabioBussi: Il TCO (Total Cost Owner) afferma che i costi della
+licenza sono minori dei costi per assistenza e manutenzione. Non vero!
+
+- @paolopopolizio: anche se i costi delle licenze fossero minori dei
+costi di manutenzione converrebbe sempre il software libero
+
+- @VadimCujba: Sourceforge: sorgente di software libero
+
+- @SabryKarate: Si possono trovare le slides "Software libero" by A. Meo
+usate nell'anno precedente sul sito di : http://t.co/rru0WO1BcO
+
+- @FabioVallone: Microsoft mise in giro che era meglio STO (Security
+Through Obscurity) rispetto al software libero
+
+- @DavidePalermo2: Principio di Kerckhoffs - Wikipedia
+http://t.co/fdnHzXAuj7 http://t.co/xtCewRmO3g
+
+- @Carrattrezzi: Le licenza portano capitali all'estero mentre investire
+in manutenzione dei sistemi open source porta occupazione qui
+
+- @_FedericoConte: "1883 - Sapendo come sono fatte le serrature si
+possono migliorare"
+
+- @DavidePalermo2: Macchina Enigma (crittografia) - Wikipedia
+http://t.co/hLDvltlTYh
+
+- @Ale_Cannone: cosa è meglio per l'economia italiana: assistenza svolta
+da italiani o licenze comprate all'estero?
+
+- @FabioVallone: Alain Turing riuscì a decriptare le informazioni
+inviate dalla "enigma", ciò evidenziò che anche i STO sono "hackerabili"
+
+- @Rexsimo893: Alcuni storici: se Turing non fosse riuscito a decriptare
+messaggi dei tedeschi la guerra sarebbe durata 6 mesi in più
+
+- @enricoiucci: la criptografia tedesca (enigma) fu violata dagli USA
+durante la guerra, la violazione permise accorciamento di 6 mesi
+
+- @paolopopolizio: Enigma: machina usata dai tedeschi nella 2° guerra
+mondiale, fu decifrato da Alan Turing a favore degli americani
+
+- @BoggioMattia: Il software custom appartiene alla pubblica
+amministrazione
+
+- @Carrattrezzi: We live in a society who knows the price of everything
+and the value of nothing (O.Wilde)
+
+- @FabioVallone: Dentro Windows NT c'erano due chiavi crittografiche:
+Mskey, Nmsakey; C'era paura di una backdoor
+
+- @DavidePalermo2: XML http://t.co/AFtIA783Ut
+
+- @DavidePalermo2: @SabryKarate ci fa notare come le slide che
+ora visualizziamo siano disponibili qui http://t.co/YGIsXY1aVi
+@RivoluzDigitale
+
+- @MorenoLaQuatra: Il nostro è un paese di leggi severissime temperate
+dalla loro inosservanza. cit. Prof. Meo
+
+- @FabioVallone: Ogni anno vengono persi circa 3 miliardi di $ per
+le licenze
+
+- @SimoneBleynat: I gigadollari (G$) sono geniali
+
+- @Rexsimo893: Alcuni siti sono chiusi anche rispetto al browser
+utilizzato per visualizzare le pagine -&gt; poca libertà
+
+- @PieMarzio: Si parla di software libero. Prof. Angelo Raffaele Meo
+http://t.co/6SSJOtHnhS
+
+- @DavidePalermo2: Si auto-commenta ;-) http://t.co/9lDqTQXk50
+
+- @FabioVallone: Con l'arrivo di "Brunetta" è arrivata la maledizione
+di Bill Tutancamon
+
+- @venadavide: http://t.co/NcfQDxuAmM
+
+- @Rexsimo893: Nell'estate scorsa il Parlamento ha approvato una legge
+che la scelta di default del software deve essere quello libero
+
+- @Carrattrezzi: La scelta di "default" della pubblica amministrazione
+deve essere il software libero. Legge dell'estate scorsa
+
+- @FabioVallone: A Brunetta non interessa il software libero e quindi
+non ha ricevuto la comunità del software libero...
+
+- @DavidePalermo2: http://t.co/3XLq8mtHKE Diventa Timeo Catricalam er
+dona ferentes :-)
+
+- @Ale_Cannone: 2012: con la legge 134/2012 la P.A. doveva adottare il
+software libero di default
+
+- @_FedericoConte: Legge 134/2012 : Nella Pubblica Amministrazione si
+adotti il software libero "by default"
+
+- @DavidePalermo2: I doni dei "Dona ferentes" legge 221/2012 by Monti
+http://t.co/36CO4zGGSw
+
+- @FabioBussi: con la legge 221 del 2012 il P.A. deve adottare per
+default il software libero
+
+- @FabioVallone: ...formati aperti...nonchè standard in grado di
+garantire l'interoperabilità... STO TCO questo prevede legge 221/2012
+
+- @Rexsimo893: Legge 221/2012: 1.TCO; 2.formati aperti e
+interoperabilità; 3.STO.
+
+- @DavidePalermo2: Esiste l' hardware libero Io non lo sapevo, e
+voi? http://t.co/Nk8Tur4pRU
+
+- @paolopopolizio: Hardware Design: progetto che può essere
+copiato,distribuito e modificato
+
+- @SimoneBleynat: "I deputati che vanno a donnine sono meno dannosi
+della scelta di un software proprietario" cit. Prof. Meo
+
+- @ripa_pepperipa: l'importanza dell' hardware libero
+http://t.co/tNXTsIqeO6
+
+- @paolopopolizio: le api hanno un piccolo corpo ma una grandissima anima
+
+- @ripa_pepperipa: Software e Hardware sempre più dotati di intelligenza
+
+- @GiuliaPancaro: L'intelligenza collettiva sviluppa il mondo degli
+hardware
+
+- @DavidePalermo2: OT Il Router Free non è il Rutto Libero /OT
+
+- @BoggioMattia: Arduino è un'architettura Hardware free
+
+- @DavidePalermo2: Parliamo di @arduino at con A. R. Meo
+http://t.co/P2Y9vkNul3
+
+- @SoFranchy: Arduino. Prof Meo: esempio clamoroso di open hardware.
+
+- @DavidePalermo2: Sul portale della Didattica c'è molto materiale utile
+ai ragazzi di e dell'intero PoliTO A. Meo lo renderà disp per tutti!
+
+- @Rexsimo893: "Sono più importanti i bit che non gli atomi"
+cit. Prof. Meo
+
+- @DavidePalermo2: Citiamo i fabbricatori universali Tipo @Fablabtorino
+
+- @Ale_Cannone: il disegno è più importante della materializzazione
+nella terza rivoluzione industriale
+
+- @SoFranchy: Prof Meo parla di terza rivoluzione industriale,
+fabbricatori universali e Arduino. http://t.co/RivbyBiebg
+
+- @EricaAcire19: La terza rivoluzione industriale secondo
+l'economist.. http://t.co/rqT17VYv0x
+
+- @Carrattrezzi: La cultura open per abbassare i costi (mediamente di
+8 volte) soprattutto per i paesi meno ricchi
+
+- @paolopopolizio: sul portale della didattica si puo accedere ad un
+sacco di materiale sul software libero
+
+- @Rexsimo893: Chi utilizza biofuel = chi brucia un pezzo di casa per
+scaldarsi, non una grande invenzione quindi
+
+- @Carrattrezzi: Replicabile all'infinito, con codice sorgente libero,
+usabile per qualunque uso, That's free software
+
+- @ripa_pepperipa: Software libero: Software distribuibile, repricabile
+indefinitivamente, con codice sorgente e usabile in qualunque ambito!
+
+- @Ale_Cannone: Software libero: prodotto software distribuibile, con
+codice sorgente pubblico, modificabile
+
+- @DavidePalermo2: software libero by Meo Prodotto distribuibile con
+cod sorgente replicabile no vincolo per tutti http://t.co/fFeYIHZ0Rm
+
+- @Rexsimo893: Software libero: distribuibile, codice sorgente,
+replicabile infinite volte, usabile per qualunque cosa.
+
+- @SoFranchy: Prof Meo: Arduino deve il suo successo all'essere Open. Una
+delle conseguenze è la riduzione drastica dei costi.
+
+- @DavidePalermo2: Question Time at con i prof A. Meo e @demartin Software
+libero http://t.co/qCZ0gdQuj9
+
+- @Rexsimo893: Nella tecnologia non sempre ciò che è meglio è più
+utilizzato, ci sono molte variabili che entrano in gioco
+
+### @demartin
+
+- @Carrattrezzi: Le 4 proprietà del software libero (@demartin ) : 1)
+La libertà di eseguire il programma per qualsiasi motivo
+
+- @DavidePalermo2: Definizione di software libero sul sito della Free
+Software Foundation http://t.co/sw0yB3Ldje http://t.co/YxBp9DyoIf
+
+- @Carrattrezzi: 2)Libertà di modificare il software e studiarlo (c'è
+bisogno del codice sorgente)
+
+- @Carrattrezzi: 3) libertà di ridistribuire copie così che si possa
+aiutare il proprio vicino 4)Distribuire copie con tue modifiche
+
+- @bassosimone: la licenza GNU GPL aggiunge il copyleft alla definizione
+di software libero
+
+### @CBlengio
+
+- @Carrattrezzi: @CBlengio risponde alle nostre domande di ieri+2 arrivate
+su twitter
+
+- @DavidePalermo2: diffamazione Non si può dire ladro al ladro
+
+- @bassosimone: .@CBlengio ingiuria e' diretta a una persona singola
+(aggravante se ci sono piu' persone)
+
+- @venadavide: Diffamazione: non si può dire ladro al ladro. @CBlengio
+
+- @enricoiucci: la diffamazione (mal parlare) é un offesa su qualcuno
+non presenta detta ad almeno 2 persone
+
+- @Ale_Cannone: differenze: ingiuria: se è presente la persona a cui
+è rivolta diffamazione: si offende la reputazione altrui
+
+- @DavidePalermo2: diffamazione slide by @CBlengio http://t.co/JYcZHTKDM6
+
+- @bassosimone: .@CBlengio se "@bassosimone e' un ladro" e @bassosimone
+non c'e' e' diffamazione (anche fosse @bassosimone un ladro)
+
+- @paolopopolizio: 1) libertà di studiare il programma; 2) libertà di
+ridistribuire copie; 3)libertà di distribuire la versione modificata
+
+- @enricoiucci: la pena aumenta se l'offesa é relativi a falsi fatti
+precisi e se divulgata tramite mezzi pubblicitari (quali internet)
+
+- @Carrattrezzi: Se la persona in questione è presente è ingiuria,
+Se non lo è e ci sono più di due testimoni è diffamazione.
+
+- @bassosimone: tanto per ingiuria quanto diffamazione la verita'
+o notorieta' del fatto non conta
+
+- @bassosimone: by the way, in Italia la stampa e' solo roba meccanica,
+quindi i blog non sono stampa (no aggravante x diffamazione)
+
+- @Carrattrezzi: Indipendentemente dalla veridicità della
+cosa. Aggravante: mezzo stampa o con grande portata.
+
+- @Carrattrezzi: Gli ospiti continuano a prendersela con @bassosimone
+
+- @bassosimone: non e' facile capire perche' la diffamazione dipende
+molto dal contesto - parametro: Art. 21 Cost su liberta' di espr.
+
+- @ripa_pepperipa: si parla di diritti di cronica, Critica e Satira. Con
+@CBlengio
+
+- @Carrattrezzi: Diritti di cronaca, critica e satira
+
+- @bassosimone: da Art. 21 Cost e carta dei diritti =&gt; diritto di
+cronaca, critica, satira
+
+- @DavidePalermo2: Diritto di cronaca, critica, satira sono uti cives
+(dei cittadini)
+
+- @bassosimone: puoi dare del ladro al ladro, e' un reato scriminato
+dal diritto di cronaca, satira, critica
+
+- @Rexsimo893: Diritti di: cronaca, critica, satira -&gt; diritti che
+ci dà la Costituzione
+
+- @paolopopolizio: Diritto di critica, di cronaca e di satira sono
+diritti Uti Cives @CBlengio
+
+- @Rexsimo893: Io twittando esercito il diritto di cronaca perchè informo
+
+- @DavidePalermo2: Mi sento preso in causa... Discorso sulle immagini
+di @CBlengio
+
+- @venadavide: Non pubblicate foto degli ospiti...rischiate la denuncia :)
+
+- @paolopopolizio: noi che twittiamo non siamo molto diversi dai
+giornalisti che diffondono notizie
+
+- @ripa_pepperipa: @CBlengio "scherza" sui trattamenti illeciti di
+diffusione di immagini personali!
+
+- @bassosimone: foto dell'avv. @CBlengio non si possono twittare (dato
+personale) a meno che non vuoi criticare, o fare cronaca
+
+- @Ale_Cannone: diritto di cronaca, critica e satira sono diritti uti
+cives, di tutti i cittadini--&gt; siamo nella società dell'informazione
+
+- @DavidePalermo2: Volevo comunicare che la lezione di @cblengio era
+interessante per tutti :-) speriamononcisianodenunce :-)
+
+- @SimoneBleynat: Morale della storia: qui a siamo tutti denunciabili
+per un motivo o per l'altro
+
+- @bassosimone: su Facebook seconda possibilita' di difesa, se profilo
+chiuso: comunicazione a amici != diffusione
+
+- @Ale_Cannone: per Facebook è possibile pubblicare foto di altre
+persone senza consenso se il profilo non è aperto
+
+- @bassosimone: ad esempio, si discute se apertura ad amici degli amici
+di Facebook sia comunicazione o diffusione
+
+- @ripa_pepperipa: I diritti di critica, cronaca e satira hanno dei
+limiti....
+
+- @bassosimone: limiti di cronaca: il fatto deve essere vero, detto in
+modo continente, e utile alla collettivita'
+
+- @paolopopolizio: i limiti della satira sono: -i fatti devono essere
+veri -il modo in cui detto continente -la motivazione -utile a comunità
+
+- @ripa_pepperipa: DIRITTO DI CRONACA: fatto vero, comunicarlo in modo
+continente, utile alla comunità!
+
+- @bassosimone: satira e' sottratta dal perimetro della verita' ma rimane
+assoggettata alla continenza e all'utilita' per collettivita'
+
+- @ripa_pepperipa: quando faccio satira manifesto il diritto di critica,
+sottratto al parametro della verità
+
+- @Rexsimo893: Nella satira non devo dimostrare che una cosa è vera
+mentra se critico qualcuno lo devo fare
+
+- @bassosimone: MT @venadavide Satira [...] mediante paradosso e metafora
+esprime il giudizio ironico su un fatto
+
+- @SimoneBleynat: Si è parlato di @Nonciclopedia al corso di
+
+- @ripa_pepperipa: al blog è applicata la legge di YouTube ed inoltre
+permette la pubblicazione di interventi da parte di altri
+
+- @93Levante: Nella diffamazione non è sempre facile dire quando è
+lecito e quando no
+
+- @ripa_pepperipa: parliamo di Internet Sercice Provider --&gt;
+http://t.co/UGGcAEo6fi
+
+- @paolopopolizio: il prestatore del Blog non è tenuto a verificare
+cosa posta in un articoli un altro prestatore sul suo blog
+
+- @bassosimone: intermediari della comunicazione e dell'informazione:
+access, caching e hosting
+
+- @Rexsimo893: Internet Service Provider: 1.Access(Telecom,Skype)
+2.Caching(Google) 3.Hosting(Fb,Twitter,Youtube)
+
+- @bassosimone: access, caching e hosting provider non sono responsabili;
+content provider invece sono responsabili
+
+- @venadavide: Satira, manifestazione del diritto di critica che mediante
+paradosso e metafora esprime il giudizio ironico su un fatto
+
+- @Rexsimo893: Se sono Content Provider sono responsabile → se ho
+spazio per commenti divento Hosting Provider
+
+- @_FedericoConte: Internet Service Provider : Intermediari della
+comunicazione, Intermediari dell'informazione
+
+- @Carrattrezzi: Non siamo responsabili dei contenuti pubblicati da terzi
+(commenti) sui nostri blog
+
+- @paolopopolizio: se si apre un blog a terzi non si è responsabili di
+ciò che viene scritto da loro
+
+- @bassosimone: bilanciamento tra liberta' di espressione, responsabilita'
+e interesse a che info illegali siano celermente rimosse
+
+- @ripa_pepperipa: la Commissione Europea si pone una domanda: dobbiamo
+proteggere i contenuti che ospitano terzi o no?
+
+- @bassosimone: due condizioni, pero', (a) fornitori non siano a
+conoscenza e (b) agiscano tempestivamente
+
+- @bassosimone: Sintesi scherzosa: pirlate bay
+
+- @MartinoMensio: Il fornitore del servizio non è responsabile se: A)
+non è a conoscenza dell'attività illecita B) appena lo vede provvede
+
+- @Ale_Cannone: differenza tra chi fa contenuto e chi è fornitore di
+servizi ---&gt; i primi possono essere accusati
+
+- @Carrattrezzi: Come avrebbero potuto sapere i gestori di pirate bay
+che venivano pubblicati file (venivano xD) infrangenti il copyright?
+
+- @Ale_Cannone: caso degli Internet service provider: diventa responsabili
+se viene segnalato qualcosa che non viene subito controllata
+
+- @bassosimone: by the way, vi faccio notare il "badate, parlo per
+esperienza personale" - i.e. comunicare cosa pensi vs. cosa sai
+
+- @MartinoMensio: Il fornitore di servizi è costretto ad intervenire
+solo se gli viene comunicato da autorità competente
+
+- @Carrattrezzi: Notice and take down? Si, se me lo dice un giudice,
+stabilirlo indipendentemente è troppo difficile
+
+- @bassosimone: come fanno le Internet company a rispettare le leggi di
+204 paesi? Not so simple
+
+- @EricaAcire19: Se FB dagli USA viene a conoscenza di un post in italiano
+diffamatorio, cosa fa? @CBlengio
+
+- @SimoneBleynat: È molto meglio che i big di Internet non siano
+responsabili! Meglio star senza guardiani della libertà di espressione
+
+- @MartinoMensio: Licra vs Yahoo: http://t.co/gvQrY8CDOz!
+
+- @bassosimone: caso LICRA vs YAHOO relativo a vendita di cimeli
+neo-nazisti (2000)
+
+- @Ale_Cannone: Licra vs Yahoo: causa che ha fatto scuola
+
+- @EmaParrinello: se dessimo responsabilità agli internet provider
+creeremmo dei guardiani della libera espressione, che è negativo
+
+- @Ale_Cannone: Licra vs Yahoo risolta con IP mapping
+
+- @EmaParrinello: il problema della territorialità in internet è un
+problema grossissimo da risolvere
+
+- @Ale_Cannone: è solo impressione mia o riguardo internet spunteranno
+sempre nuove controversie e cause?
+
+- @Ale_Cannone: peer-to-pee:r nessun rapporto tra client e server ma
+tra i computer stessi
+
+- @paolopopolizio: nel Peer To Peer non ho un rapporto client e server,
+ma il mio pc diffonde informazioni in condivisione complessiva
+
+- @DavidePalermo2: @omerovitali parliamo di P2P e del tuo post :-)
+
+- @EmaParrinello: con il P2P è difficilissimo trovare chi viola il
+diritto d'autore
+
+- @ripa_pepperipa: su Peer to Peer gira molta "roba stra-lecita". Non
+si riesce a beccare però chi viola il diritto d'autore!
+
+- @DavidePalermo2: @omerovitali for You :-) http://t.co/U4xmn9hGx9
+
+- @bassosimone: sicuramente lo streaming non e' un reato, ma non lo e'
+neanche scaricare, lo e' uploadare pero' - cc: @omerovitali
+
+- @paolopopolizio: se scarico una musica in peer to peer o da un server
+non commetto reato, solo se lo condivido, anche per scopo personale
+
+- @DavidePalermo2: @CBlengio Il download non è
+illegale! http://t.co/Sva3JzwPWB http://t.co/fORyDT5epp
+
+- @EmaParrinello: Nel P2P chi commette il reato è solamente chi condivide
+per diffondere ma non chi fa il download per uso proprio
+
+- @bassosimone: se scarico commetto un reato solo se lo faccio per
+lucrare o per fini non personali
+
+- @bassosimone: @CBlengio ci parla del caso peppermint
+
+- @ripa_pepperipa: viene punito chi mette in condivisione. Chi scarica
+per fini non personali o per lucrare, solo in tale caso commette reato
+
+- @bassosimone: la tutela dei dati personali venne ritenuto un bene
+superiore rispetto al copyright nel caso peppermint
+
+- @Ale_Cannone: indirizzo IP --&gt; dato personale --&gt; privacy
+
+- @bassosimone: quando sottoscrivi contratto telco dai autorizzazione
+privacy anche a filtrare tuo traffico
+
+- @ripa_pepperipa: il traffico mobile può essere filtrato attraverso
+gli indirizzi IP
+
+- @venadavide: Le compagnie tlf si assicurano la possibilità di filtrare
+il traffico del cliente...
+
+- @Ale_Cannone: mi sbaglio o è casey del telefilm chuck quello nella
+slide?
+
+- @Carrattrezzi: Non c'è neanche bisogno dell'autorizzazione di un
+giudice per tracciarti con il gps. sembra di essere in thewire
+
+- @bassosimone: "accettereste voi ad avere delle case di vetro anche se
+non menate vostra moglie?" &lt;&lt; @CBlengio LOL
+
+- @Ale_Cannone: cadono piume in aula xD
+
+- @paolopopolizio: fine lezione rivoluz digitale, momento di risposta
+alle domande da parte di @CBlengio
+
+- @Ale_Cannone: aprire una fan page citando il marchio? richiede
+autorizzazione ma chiuderla va contro gli interessi del marchio stesso
+
+- @ripa_pepperipa: spazio a domande e commenti a con @CBlengio
+
+- @Ale_Cannone: caso nutella e fan day http://t.co/ty11xWyuzF
+
+- @Carrattrezzi: @CBlengio ha skippato la mia domanda sulla sospensione
+copyright
+
+- @Ale_Cannone: occhio alle 50enni mature lol divertimento a
+
+- @EmaParrinello: bellissima lezione! A mercoledì prossimo
+
+- @Carrattrezzi: Vi fidate della vostra cronologia del browser tanto da
+portarla in tribunale? ccleaner
 
 ## 2013-05-29
 
@@ -1472,8 +2184,8 @@ http://t.co/gr9qLSx1Mc
 - @DavidePalermo2: Di chi è un dato dominio? Ad esempio si può scoprire
 con siti come questo http://t.co/hwKyhFSkHu
 
-    - @LucaLiuzzi: @DavidePalermo2 "siti come questo". Cioè i siti degli
-    host provider del sito a cui fa riferimento l'url.
+- @LucaLiuzzi: @DavidePalermo2 "siti come questo". Cioè i siti degli
+host provider del sito a cui fa riferimento l'url.
 
 - @venadavide: Possibilità di risalire al proprietario di un certo IP
 
