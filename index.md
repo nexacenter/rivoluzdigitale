@@ -13,6 +13,7 @@ Langiu, et al. &mdash; License: CC BY-SA 3.0 Unported
 - [08 Maggio 2013](#2013-05-08)
 - [03 Maggio 2013](#2013-05-03)
 - [19 Aprile 2013](#2013-04-19)
+- [17 Aprile 2013](#2013-04-17)
 - [12 Aprile 2013](#2013-04-12)
 - [05 Aprile 2013](#2013-04-05)
 
@@ -6102,6 +6103,120 @@ polito RivoluzDigitale , grazie a @funkysurfer i miei complimenti.
 
 - @Simon_Tumi: Lezione molto interessante a @RivoluzDigitale  con
 un mitico Marco Zamperini @funkysurfer
+
+
+## 2013-04-17
+
+### @bassosimone
+
+- @DavidePalermo2:  Analizziamo una versione beta della situazione
+Blog e Blogpost Enjoy! #sapevatelo
+
+- @DavidePalermo2: Correzione fatta su più passaggi: 1) di "forma"
+2) di "sostanza" (a volte manca se la forma non va bene)
+
+- @MorenoLaQuatra: Presentazione errori e imperfezioni dei vari
+blog. Temi delle correzioni: forma e sostanza
+
+- @SabryKarate: Sono importanti FORMA e SOSTANZA
+
+- @SoFranchy:  correzione in più passaggi: fonti, forma, sostanza.
+
+- @SoFranchy:  Criteri per la forma: tempismo, immagini, fonti
+(link), paragrafi (suddivisione, lunghezza), "lo pensi, lo sai, hai
+letto?"
+
+- @MorenoLaQuatra: Criteri di correzione sulla forma: tempismo,
+immagini, fonti, paragrafi, "lo pensi, lo sai, l'hai letto", tag.
+
+- @SoFranchy:  Criteri per la forma: ...tags, categorie.
+
+- @SabryKarate: Per la sostanza sono essenziali: Titolo, Introduzione
+dell'articolo
+
+- @SabryKarate: Attenzione all'articolazione del post: prediligere
+la linearità, evitare i "voli Pindarici"
+
+- @MorenoLaQuatra: Criteri di correzione Sostanza: titolo, attacco,
+articolazione, approfondimento
+
+- @SoFranchy:  Criteri per sostanza: titolo, incipit, articolazione
+(ragionamento sequenziale), approfondimento
+
+- @ripa_pepperipa: : quando viene pubblicato un post nel blog,
+risulta fondamentale citare le fonti!
+
+- @MorenoLaQuatra: Per le immagini: citare la fonte, caricarla nel
+nostro server. Fonti sotto l'immagine o in fondo al sito
+
+- @SabryKarate: Fonti delle immagini, due modi: scrivere sotto le
+immagini o in fondo al post
+
+- @DavidePalermo2: Non si è "Nazisti" nella valutazione della scelta
+delle foto (CC o meno); precisi invece per verifica cit. delle fonti
+
+- @SabryKarate: E' preferibile citare il link della fonte all'interno
+del testo, non in fondo al post
+
+- @ripa_pepperipa: : Come citare le fonti? Attraverso collegamenti
+ipertestuali all'interno del testo o citando i link in fondo alla
+pagina
+
+- @ripa_pepperipa: : bisogna mettere in relazione le riflessioni
+personali e gli articoli che circolano nel web
+
+- @SabryKarate: Inserire i tag per i post, tra 4 ed 8, in modo da
+rendere chiaro l'argomento di cui si è scritto
+
+- @venadavide: Chiarimenti su come citare le fonti in un articolo.
+
+- @MorenoLaQuatra: Attenzione ai tag, valutare ogni situazione,
+usare più il buon senso che una regola univoca.
+
+- @93_checco: Esempi su come Utilizzare i paragrafi.  Non utilizzare
+il "punto a capo" all interno di un paragrafo!
+
+- @93_checco: Alcuni video non si aprono dal link? Può succedere
+
+- @venadavide: Importantissimo un approfondimento personale all'interno
+del post per aggiungere informazioni a quelle già presenti sul web
+
+- @93_checco: No punto a fine titolo e no dopo nome e cognome
+
+- @93_checco: Fonti non troppo generiche, Wikipedia è troppo vasta
+
+- @SabryKarate: Niente punto alla fine del titolo del post, né dopo
+la firma.  Non inserire link generici alle fonti
+
+- @MorenoLaQuatra: Neve gialla non si mangia (cit. Maglia di
+@bassosimone )
+
+- @93_checco: Non è necessario concludere il post con una indicazione
+su come "migliorare il mondo"
+
+- @MorenoLaQuatra: RT @93_checco: Non è necessario concludere il
+post con una indicazione su come "migliorare il mondo"
+
+- @93_checco: Tutti a casa
+
+- @paolopopolizio: #RivoluzioneDigitale: elementi fondamentali nella
+struttura di un post: --&gt;forma---&gt;sostanza--&gt;
+
+- @paolopopolizio: #RivoluzioneDigitale: in un post è consigliabile
+citare la fonte con i link, non in fondo alla pagina
+
+- @paolopopolizio: #RivoluzioneDigitale: "i paragrafi sono come una
+i gradini di una scala, più sono grandi più sono difficili da
+leggere"
+
+- @paolopopolizio: #RivoluzioneDigitale: non è consigliabile dire
+"io penso" nel post se non si è esperti dell'argomento
+
+- @paolopopolizio: #RivoluzioneDigitale: "l'ho letto, l'ho
+sperimentato", va specificato, caratterizza il post
+
+- @paolopopolizio: #RivoluzioneDigitale: è consigliabile mettere
+"embed" invece del link alla pagina di youtube
 
 
 ## 2013-04-12
