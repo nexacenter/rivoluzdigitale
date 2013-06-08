@@ -7,8 +7,8 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 - [07 Giugno 2013](#2013-06-07)
 - [05 Giugno 2013](#2013-06-05)
-- [31 Maggio 2013](#2013-05-31)
-- [29 Maggio 2013](#2013-05-29)
+- [31 Maggio 2013](#2013-05-31) {Sebastiano Franchina}
+- [29 Maggio 2013](#2013-05-29) {Davide Palermo}
 - [24 Maggio 2013](#2013-05-24)
 - [22 Maggio 2013](#2013-05-22)
 - [17 Maggio 2013](#2013-05-17)
