@@ -14,6 +14,7 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 - [10 Maggio 2013](#2013-05-10)
 - [08 Maggio 2013](#2013-05-08)
 - [03 Maggio 2013](#2013-05-03)
+- [24 Aprile 2013](#2013-04-24)
 - [19 Aprile 2013](#2013-04-19)
 - [17 Aprile 2013](#2013-04-17)
 - [12 Aprile 2013](#2013-04-12)
@@ -6664,6 +6665,108 @@ mnemonico.
 
 - @SabryKarate: Reminder: Fonti meglio dentro al testo, invece che in
   fondo. Inserire la caption delle immagini.
+
+
+## 2013-04-24
+
+### @demartin
+
+- @RivoluzDigitale: Modello iniziale per la radio: separazione tra
+chi trasmette e chi produce contenuti
+
+- @RivoluzDigitale: @DavidePalermo2 and I'm not live-tweeting the
+lecture :-P
+
+- @RivoluzDigitale: : si afferma invece uno schema per cui il
+broadcaster decide il palinsesto
+
+- @RivoluzDigitale: : quando si afferma la radio, anni '20 e '30,
+il business era vendere l'apparecchio radio
+
+- @RivoluzDigitale: Due modelli: USA (privato, "gratuito", e con
+pubblicita`) vs. Europa (pubblico, su modello di poste, telegrafo,
+radio, ...)
+
+- @RivoluzDigitale: : Radio, modello Europeo, per tutelare servizio
+pubblico si decise di usare il "canone" - una tassa di scopo
+
+- @RivoluzDigitale: : il modello iniziale per la radio era zero
+pubblicita` (confine molto netto tra servizio pubblico e commerciale)
+
+- @RivoluzDigitale: : la BBC per diversi anni non puo` leggere
+notizie (conflitto tra radio e giornali)
+
+- @RivoluzDigitale: : interventi regolatorio (e.g. impedire a BBC
+di leggere notizie) puo` definire chi vince e chi perde sul mercato
+
+- @Gioco_Azzardato: L'intervento statale ha condizionato l'uso di
+poste, radio e televisione; chissà che impatto avrà sul gioco
+d'azzar…
+
+- @RivoluzDigitale:  dal 1927 la TV sarebbe pronta ma non decolla;
+la FCC rallenta processo di diffusione della TV (scusa: decidere
+standard)
+
+- @RivoluzDigitale: All'inizio della storia della radio, tra le due
+guerre, contrasto tra radio FM (scoperta troppo presto) e radio AM
+
+- @SabryKarate: Con la Seconda Guerra Mondiale c'è una massiccia
+produzione di armi, si sviluppano elettronica e radar
+
+- @RivoluzDigitale: Dopo WWII: fabbriche di elettronica, lavoratori
+qualificati, eta` del consumo =&gt; decolla la TV
+
+- @RivoluzDigitale:  - la TV segue il modello della radio (i.e. US
+market e Europa pubblico)
+
+- @RivoluzDigitale:  - Radio &amp; TV: modello di allocazione statica
+delle frequenze (una frequenza, uno specifico utilizzo)
+
+- @RivoluzDigitale:  - una frequenza viene data in licenza (con
+asta) dallo Stato a un privato, e non si puo` sublicenziare
+
+- @RivoluzDigitale: All'inizio il modello non era quello delle aste,
+c'era una concessione da parte dello Stato (prima asta in ITA nel
+2000)
+
+- @RivoluzDigitale:  - Recap frequenze: licenze per un periodo di
+tempo limitato, date per uno specifico uso a una specifica entita`
+
+- @RivoluzDigitale: Fine anni '60, USA: comunita` rurali non ricevono
+segnale TV, persone ordinarie portano segnale a casa via cavo coax
+
+- @SabryKarate: Fine anni '60, nascita della TV via cavo: per portare
+anche nelle zone rurali le trasmissioni televisive
+
+- @RivoluzDigitale: : i broadcasters si lamentano: "questi col cavo
+coax ci stanno piratando il segnale"
+
+- @RivoluzDigitale: : coax: non appena si esce dall'amatoriale e
+nascono aziende, si comincia a dire "stai facendo soldi coi miei
+contenuti"
+
+- @RivoluzDigitale: USA: chiunque fa una cover deve pagare tot cent
+al detentore dei diritti (pochi cents, scelta politica)
+
+- @RivoluzDigitale: TV via cavo diventa la modalita` di TX piu`
+diffusa per distribuire segnale TV (e, adesso, anche Internet),
+e.g. Comcast
+
+- @RivoluzDigitale:  - Satelliti: progetto Iridium (telefonia accesso
+a Internet in tutto il mondo) fallisce - http://t.co/V2wF3ymG9V
+
+- @RivoluzDigitale: Tecnologie centralizzate: telegrafo, telefono,
+radio, televisione (con piccola parentesi di tv e radio "libere"),
+satellite
+
+- @RivoluzDigitale: "Video killed the radio star", e invece no
+
+- @RivoluzDigitale:  - Internet e' in una fase di transizione in
+cui i media precedenti stanno adattandosi a Internet
+
+- @RivoluzDigitale:  - e' una fase normativa (come radio negli anni
+'20) in cui si definisce il perimetro che assumera` alla fine
+Internet
 
 
 ## 2013-04-19
