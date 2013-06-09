@@ -1953,21 +1953,22 @@ formo una commissione, con a capo Meo, per indagare sui vantaggi del
 software libero. 
 
 - @FabioVallone, @ripa_pepperipa, @FabioBussi, @paolopopolizio, 
-@Carrattrezzi, @Ale_Cannone: Microsoft disse che i costi di 
-manutenzione del software libero superavano quelli di licenza del 
-software proprietario. Si rispose dicendo che i soldi delle licenze 
-andavano all’estero mentre quelli di manutenzione restavano in
-Italia. Inoltre, secondo il TCO (Total Cost of Ownership 
-http://t.co/ukTPuVV6Wg), la Microsoft affermava il falso.
+@Carrattrezzi, @Ale_Cannone: Microsoft disse che il costo totale di
+gestione del software (TCO - Total Cost of Ownership, http://t.co/ukTPuVV6Wg)
+era minore per il software proprietario rispetto al software libero.
+Si rispose dicendo che, fosse anche stato vero, i soldi delle licenze 
+andavano all’estero mentre quelli di manutenzione restavano in Italia.
 
 - @FabioVallone, @_FedericoConte, @Rexsimo893, @enricoiucci, 
 @paolopopolizio: Microsoft disse che rendendo disponibili i sorgenti 
-avrebbe comportato meno sicurezza. Falso perché STO (Security
-Through Obscurity) basava la sicurezza su chiavi che gli hacker, in 
-un tempo più o meno lungo, riescono a decifrare (i.e. Enigma tedesca 
-decriptata da Alan Touring http://t.co/hLDvltlTYh facendo durare la 
-guerra 6 mesi in meno). Sapendo come sono fatte, le serrature si 
-possono migliorare.
+avrebbe comportato meno sicurezza. In realta', la STO (Security
+Through Obscurity) e' una tecnica per garantire la sicurezza abbastanza
+deprecata. Nella comnunita' crittografica, infatti, l'idea di base
+e' quella di avere algoritmi pubblici e codice pubblico, e sicurezza
+che si realizza tenendo segrete le chiavi. L'idea di base e' che un
+algoritmo e' tanto piu' robusto quanti piu' esperti crittoanalisti
+lo hanno rivisto e hanno provato ad attaccarlo; cosa che non e'
+possibile fare se il sorgente e' chiuso.
 
 - @DavidePalermo2: Meo cita il principio di Kerckhoffs per un 
 parallelismo con STO: tentare di nascondere le cose agli hacker è 
