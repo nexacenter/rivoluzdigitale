@@ -32,9 +32,9 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 ## 2013-06-07
 
-@DEMARTIN
+## @demartin
 
-### Precisazioni Su licenze software libero
+### Precisazioni su licenze software libero
 
 - @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
 
@@ -104,8 +104,7 @@ solamente la visione del codice sorgente
 delle norme (gourodiche, sociali)
 
 
-### Autoregolamentazione sociale : Wikipedia,I Commons 
-
+### Autoregolamentazione sociale: Wikipedia, i Commons 
 
 - @DavidePalermo2: La pagina di Wikipedia su Wikipedia
 http://t.co/oh5J4TT2nF ;-)
@@ -247,6 +246,7 @@ economicamente i produttori
 è la copia digitale
 
 - @SabryKarate: Condivisione non a scopo di lucro.
+
 
 ### Logical fallacies e Integrity
 
@@ -652,8 +652,6 @@ China pericolosa 5) Bianco e nero (There Is No Alternative)
 
 - @Clerish: TINA: There Is No Alternative
 
-- @Antonio_Langiu: TINA
-
 - @SabryKarate: "T.I.N.A." There is no alternative
 
 - @ripa_pepperipa: - La fallacia logica Bianco o Nero: Nello strutturare
@@ -725,16 +723,14 @@ in casa, bisogna pensare che un fatto non è la causa dell'altro
 una carrellata di libri. Possesso di libri non implica conoscenza.
 
 
-@BASSOSIMONE
+## @bassosimone
 
-
-### Approfondimenti :BIT.LY,Crap detection e Tor
+### Approfondimenti: bitly, Crap detection e Tor
 
 - @EricaAcire19: pronti per una nuova lezione di @bassosimone ...
 
 - @DavidePalermo2: @bassosimone introduce il lavoro "volontario" fatto
 sul l'indice di github File Index.md http://t.co/kBOdqCRlRa
-
 
 - @Carrattrezzi:  http://t.co/0AaaLj4eeN
 
@@ -988,8 +984,6 @@ il destinatario il primo conosce invece il mittente
 
 - @SabryKarate: Tor è un software che si può installare sul pc. Puoi
 scegliere tra varie opzioni: essere solo client, nodo della rete,...
-
-
 
 
 
