@@ -5,6 +5,8 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 ## Elenco lezioni
 
+- 14 Giugno 2013
+- 12 Giugno 2013
 - [07 Giugno 2013](#2013-06-07)
 - [05 Giugno 2013](#2013-06-05)
 - [31 Maggio 2013](#2013-05-31) {Sebastiano Franchina}
@@ -21,7 +23,10 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 - [19 Aprile 2013](#2013-04-19)
 - [17 Aprile 2013](#2013-04-17)
 - [12 Aprile 2013](#2013-04-12)
+- 10 Aprile 2013
 - [05 Aprile 2013](#2013-04-05)
+- 27 Marzo 2013
+- 22 Marzo 2013
 - [20 Marzo 2013](#2013-03-20)
 
 
