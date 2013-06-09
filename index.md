@@ -1856,92 +1856,41 @@ lesson! RivoluzDigitale
 
 ### Prof. Meo
 
-- @DavidePalermo2: Parliamo di openaccess e software libero con il
-prof. A. Meo Introdotto da @demartin
-
-- @SoFranchy: Oggi si parla di Open Source. Il Prof. Meo per
-
-- @paolopopolizio: docente Raffaele Meo ospite della lezione di
-rivoluzione digitale presso Politecnico di Torino
-
-- @DavidePalermo2: ringraziamo A. Meo per aver introdotto l' informatica
-in Italia
-
-- @andryamadio: Ospite di oggi il Prof. Meo
-
-- @EmaParrinello: Il prof. A. Meo è uno dei responsabili
-dell'introduzione dell'informatica in Italia
-
-- @VadimCujba: Oggi si parla di software libero con il prof Raffaele Meo
-
-- @SoFranchy: Grazie al Prof. Meo per aver contribuito all'introduzione
-dell'Informatica in Italia.
-
-- @_FedericoConte: 31/05 Lezione sui Software liberi - Open Source con
-il professor Meo http://t.co/xfCf0yVnAG
-
-- @paolopopolizio: A.Meo ci racconta la storia del software libero
-
-- @FabioBussi: la storia affonda le radici nella storia della coltura
-hacker
-
-- @EmaParrinello: la storia del software libero affonda le sue radici
-nella storia della cultura Hacker
+- @DavidePalermo2, @SoFranchy, @paolopopolizio, @andryamadio, 
+@EmaParrinello, @VadimCujba, @_FedericoConte, @BoggioMattia, 
+@venadavide: @demartin presenta il Prof. Angelo Raffaele Meo 
+(http://t.co/xfCf0yVnAG) che ci parlerà di software libero e di Open Source.
 
 - @DavidePalermo2: Software libero e opensource di A. Meo File PDF
 http://t.co/ROn21rK02N
 
-- @BoggioMattia: Oggi a si parla di Software libero
+- @DavidePalermo2, @SoFranchy, @MorenoLaQuatra: Il Prof. Meo ha 
+contribuito all’introduzione dell’Informatica in Italia.
 
-- @venadavide: Introduzione al software libero con il professore A.Meo
-RIvoluzDigitale
+- @FabioBussi, @EmaParrinello, @paolopopolizio, @ripa_pepperipa, 
+@EmaParrinello: la storia del software libero affonda le sue radici
+nella storia della cultura Hacker. Un hacker è colui che accede ai
+sistemi informativi allo scopo di conoscere e non di rubare 
+informazioni o fare danni.
 
-- @paolopopolizio: gli hacher entrano nei pc altrui solo per conoscere
-nuove informazioni, e non per rubarle
+- @venadavide, @ripa_pepperipa, @paolopopolizio, @FabioVallone: Si 
+parla di comunicazione tra hacker. Suit= ”abito da lavoro 
+generalmente scuro e scomodo”; SNAFU= “Va tutto bene” per non dire ai 
+capi, distanti dalla realtà, che “tutto va a puttane” 
+(http://t.co/iqRZaBehq5)
 
-- @ripa_pepperipa: Hacker---&gt; Colui che Entra nei sistemi informativi
-per estrarne la conoscenza che riportano!
+- @DavidePalermo2, @FabioBussi, @ripa_pepperipa, @LucaLiuzzi, 
+@FabioVallone: Prof. Meo parla di Richard Stallman 
+http://t.co/5HTesSKvvH, fondatore della Free Software
+Foundation e principale esponente della parrocchia, dice Meo, del 
+software libero dal 1985: “Free software è una questione di libertà
+e non di prezzo” sostiene Stallman.
 
-- @EmaParrinello: Gli hacker entrano nei sistemi operativi semplicemente
-per conoscere e non per fare danni
+- @FabioVallone, @venadavide, @DavidePalermo2, @_FedericoConte: Xerox 
+non vuole dare a Stallman la possibilità di ritoccare il software 
+della stampante. Si licenzia dal MIT e un nuovo sistema operativo: 
+GNU = “GNU is Not Unix”. 
 
-- @venadavide: Suit abito di lavoro generalmente scuro e scomodo
-
-- @ripa_pepperipa: definizione di SNAFU http://t.co/iqRZaBehq5
-
-- @paolopopolizio: sindrome SNAFU: sconnessione dei comportamenti dei
-capi dalla realtà
-
-- @FabioVallone: SNAFU: Situazione normale, tutto va nel c***o, ovvero
-disconnessione dei capi dalla realtà
-
-- @DavidePalermo2: Richard Stallman su Wikipedia http://t.co/5HTesSKvvH
-
-- @FabioVallone: Si può dire che GNU è nato grazie alla negligenza
-di Xerox
-
-- @venadavide: GNU Gnu is Not Unix 1985
-
-- @DavidePalermo2: GNU: Gnu is Not Unix
-
-- @_FedericoConte: Gnu is Not Unix
-
-- @MorenoLaQuatra: Prof. Angelo Raffaele Meo per , un pioniere
-dell'informatica Italiana http://t.co/AMHNovdKhB
-
-- @FabioBussi: Richard Matthew Stallman fondatore della Free Software
-Foundation
-
-- @ripa_pepperipa: Richard Stallman: principale esponente del software
-libero --&gt;https://t.co/g4mUbXsU6D
-
-- @FabioVallone: Stallman: Free software è una questione di libertà
-e non di prezzo !
-
-- @DavidePalermo2: CCLeft mi ricorda un Tweet di @bassosimone to
-@omerovitali
-
-- @LucaLiuzzi: Software libero.si comincia dal 1985 con Stallman
 
 - @paolopopolizio: Copyleft: diritto di copia di sinistra
 
