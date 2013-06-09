@@ -32,6 +32,8 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 ## 2013-06-07
 
+@DEMARTIN
+
 ### Precisazioni Su licenze software libero
 
 - @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
@@ -59,17 +61,11 @@ modifica (se non per uso privato). CC 6 licenze tra cui scegliere
 - @FabioVallone: Grazie alla licenza GNU/GPL, si sono creati centinaia
 e centinai di progetti di software libero
 
-- @ripa_pepperipa: RT "Allarme patent troll, finti inventori: brevettano
-l'hi-tech e fanno causa http://t.co/h93Q68M8cF via @repubblicait "
-
 - @Carrattrezzi: Non solo le grandi aziende possono produrre SO, tante
 persone, lavorando insieme, hanno sviluppato linux
 
 - @MartinoMensio: OpenSource: diverso da software libero
 https://t.co/4THvb0FNXV
-
-- @DavidePalermo2: È open /ˡsɔːs/ non open surs alla piemontese
-cit @demartin
 
 - @SabryKarate: opersource, codice sorgente aperto. Take a look on
 http://t.co/b9VTjMD0oz
@@ -102,24 +98,26 @@ il significato di software libero, che invece ha una def. più precisa
 altre 4 libertà al contrario del software libero
 
 - @MartinoMensio: Open source: più vago del software libero; garantisce
-solamente che si può vedere il codice sorgente
+solamente la visione del codice sorgente
 
 - @PieMarzio: "Commons": gruppo di individui che rispettano in generale
 delle norme (gourodiche, sociali)
+
+
+### Autoregolamentazione sociale : Wikipedia,I Commons 
+
 
 - @DavidePalermo2: La pagina di Wikipedia su Wikipedia
 http://t.co/oh5J4TT2nF ;-)
 
 - @LolloCler: su wikipedia gruppo volontario di individui collabora
-rispettando norme sociali imposte dai wikipediani oltre a leggi
+rispettando norme sociali imposte dai wikipediani
 
-- @SoFranchy: Open Source < SW libero: SW libero include le 4 libertà;
+- @SoFranchy: Open Source < SW libero. SW libero include le 4 libertà;
 Open Source include almeno la possibilità di vedere il codice
 
-- @Ale_Cannone:  nè privato (mercato) nè lo stato ---> anarchia,
-dove ognuno si può autorganizzare ---> Commons
-
-- @SimoneBleynat: OT Gran cosa Wikipedia /OT
+- @Ale_Cannone:  nè privato (mercato) nè lo stato --> anarchia,
+dove ognuno si può autorganizzare --> Commons
 
 - @SabryKarate: "Commons" non dipendono da privati o dallo stato. Spazio
 auto-organizzato, regole definite (non leggi imposte!).
@@ -145,9 +143,6 @@ per l'Economia (nel 2009)
 casi di commons fisici ed il loro funzionamento
 
 - @ripa_pepperipa: Elinor Ostrom --> http://t.co/VavtbZItvG
-
-- @AstoriPietro: Elinor Ostrom, Nobel per l'economia nel 2009 ha studiato
-moltissimi casi di commons fisici
 
 - @LolloCler: Ostrom,nobel per economia,studia common fisici e come le
 comunità si gestiscono e conclude che é falso che falliscono
@@ -183,15 +178,11 @@ http://t.co/05pY8i3zgT
 - @Ale_Cannone: Sogno di una biblioteca universale accedibile a tutti
 è possibile tramite il digitale con un costo relativamente basso
 
-- @ripa_pepperipa: la Pirateria --> http://t.co/AWB5A6yIkD
-
 - @SabryKarate: Problema di incentivi economici: vendita di libro fisico
 permette di sostenere lo scrittore. La distribuzione gratuita no.
 
 - @Ale_Cannone: Libri accessibili a tutti: mancano gli incentivi per
 poter organizzare tutto in digitale (questioni di interesse economico)
-
-- @DavidePalermo2: .@demartin cita @balaitous e VolkerGrassmuck
 
 - @Carrattrezzi: Circa il 6% del prezzo di copertina di un libro va
 all'autore
@@ -205,14 +196,17 @@ modo. Come incentivare gli autori? Idee da P. Aigrain e V. Grassmuck
 - @venadavide: Un autore medio riceve circa il 6/7 % dal ricavato di
 una pubblicazione
 
+
 - @ripa_pepperipa: Philippe Aigrain e Volker Grassmuck hanno provato a
 disaccoppiare la visione del tantigibile e intangibile
 
 - @AstoriPietro: Solo il 6% del costo del libro è destinato all'autore,
 se è bravo contratta fino al 10-12%
 
-- @paolopopolizio: si vuole dare agli autori il 10 % del guadagno sulla
-copia fisica venduta
+
+### La Pirateria
+
+- @ripa_pepperipa: la Pirateria --> http://t.co/AWB5A6yIkD
 
 - @DavidePalermo2: Pirati e Pirateria dall'antichità ad oggi, con
 diverse accezioni
@@ -241,9 +235,6 @@ di diventare un Pirata
 - @ripa_pepperipa: La pirateria non è furto, ma si danneggia il
 produttore.
 
-- @Carrattrezzi: La mia batteria è al di sotto della percentuale di
-guadagno degli autori sulle vendite del loro libri. Alla prossima
-
 - @AstoriPietro: Pc, permette a tutti di essere "pirata"
 
 - @SabryKarate: Secondo alcuni: La copia digitale personale non
@@ -257,36 +248,7 @@ economicamente i produttori
 
 - @SabryKarate: Condivisione non a scopo di lucro.
 
-- @SabryKarate: Thanks to @demartin for this interesting lesson!
-
-- @DavidePalermo2: @bassosimone anzi...petizione su Twitter! AAA Cercasi
-volenterosi di con tempo e voglia di fare! Salario: fama e cultura!
-
-- @LorenzoCutelle: .@Treccani potrebbe essere una logical fallacy! Aspetto
-la spiegazione che il prof @demartin farà a per esserne sicuro :)
-
-- @DavidePalermo2: Ho letto http://t.co/gaW4TBulAV di @m_caccialupi per
-@Cine_Revolution di su starwars Unica cosa:Star Wars VII nel 2015 ;)
-
-- @EricaAcire19: pronti per una nuova lezione di @bassosimone ...
-
-- @DavidePalermo2: Happy Birthday prof. @demartin dai ragazzi di
-! http://t.co/MfoXqYPsUc
-
-- @DavidePalermo2: @bassosimone introduce il lavoro "volontario" fatto
-sul l'indice di github File Index.md http://t.co/kBOdqCRlRa
-
-- @SabryKarate: Running from Alenia to !!! (@ Metro Marche (M1))
-http://t.co/O7IITD75Ly
-
-- @DavidePalermo2: da: informazioni strumenti concettuali (storici,
-tecnici, giuridici,etc) e operativi (blog,ml,etc)
-
-- @FabioVallone: Riassunto: cos'è
-ICANN? Strumenti->concettuali(storici, tecnici, giuridici) e
-operativi(blog, mailing list,...)
-
-- @FabioVallone: L'esperienza digitale da circa il 60% del voto
+### Logical fallacies e Integrity
 
 - @DavidePalermo2: serve ad avere un'esperienza digitale Ci ricolleghiamo
 alla netiquette
@@ -295,6 +257,10 @@ alla netiquette
 
 - @EmaParrinello: un corso completo che ci sta fornendo informazioni,
 strumenti, esperienza e netiquette
+
+- @EmaParrinello: Internet facilita la possibilità di riportare
+riferimenti attendibili, cose che era molto più difficile prima di
+internet
 
 - @Clerish: L'obiettivo finale del corso è quello di farci diventare
 migliori "cittadini digitali"
@@ -306,13 +272,6 @@ migliori "cittadini digitali"
 
 - @_FedericoConte: "Cosa dici?" : quando ci si rivolge online è
 importante chiarire la natura di ciò che si scrive
-
-- @Carrattrezzi:  http://t.co/0AaaLj4eeN
-
-- @SabryKarate: è un corso molto utile, infatti permette di imparare
-ad utilizzare Internet in maniera più costruttiva ed oculata.
-
-- @Clerish: Non fa caldo, fa molto caldo!
 
 - @SoFranchy: Oggi si parla di Netiquette --> diventare migliori
 cittadini (digitali): "Cosa dici?", "integrità", "logical fallacies"
@@ -382,16 +341,6 @@ possibile per cercare di aumentare la nostra credibilità
 
 - @SabryKarate: wikipedia: bene comune, è fondamentale che i dati siano
 verificati. La conoscenza è un bene Non Escludibile e Non Rivale!
-
-- @Antonio_Langiu: @annamasera venerdì prossimo a
-
-- @DavidePalermo2: Crap detector - Il sensore di boiate:
-http://t.co/rbchnp1GPl di @lucadebiase Per anticipare la lezione di
-@bassosimone
-
-- @EmaParrinello: Internet facilita la possibilità di riportare
-riferimenti attendibili, cose che era molto più difficile prima di
-internet
 
 - @Antonio_Langiu: Si parla di Michael C.Jensen - professore alla Harvard
 Business School
@@ -775,15 +724,26 @@ in casa, bisogna pensare che un fatto non è la causa dell'altro
 - @SabryKarate: Non si può ottenere tutta la conoscenza solo comprando
 una carrellata di libri. Possesso di libri non implica conoscenza.
 
+
+@BASSOSIMONE
+
+
+### Approfondimenti :BIT.LY,Crap detection e Tor
+
+- @EricaAcire19: pronti per una nuova lezione di @bassosimone ...
+
+- @DavidePalermo2: @bassosimone introduce il lavoro "volontario" fatto
+sul l'indice di github File Index.md http://t.co/kBOdqCRlRa
+
+
+- @Carrattrezzi:  http://t.co/0AaaLj4eeN
+
+- @DavidePalermo2: Crap detector - Il sensore di boiate:
+http://t.co/rbchnp1GPl di @lucadebiase Per anticipare la lezione di
+@bassosimone
+
 - @SabryKarate: Dopo la pausa, @bassosimone parlerà di Crap detection
 ed altro.
-
-- @DavidePalermo2: @demartin ci lascia nelle mani di @bassosimone e
-preannuncia lezione di mercoledì con @annamasera :-) pausa
-
-- @LucaLiuzzi: https://t.co/fxX8JUb9aV @demartin
-
-- @Carrattrezzi: fine pausa, inizio pioggia ehm volevo dire lezione
 
 - @FabioVallone: e @bassosimone disse: "Pioggia!" ... e pioggia fù...
 
@@ -824,19 +784,11 @@ fido della persona?
 - @EmaParrinello: @bassosimone ci parlerà a breve di: -bit.ly -phishing
 -crap detection -Tor
 
-- @Clerish: Ci si sta allagando l'aula...
-
 - @Ale_Cannone:  di chi mi devo fidare in internet? Parliamo di: 1. Bit.ly
 2. Email e phishing 3. Crap detection 4. Tor
 
-- @Carrattrezzi: @bassosimone alle prese con la Physical User Interface
-delle finestre del poli (o meglio delle segrete del poli)
-
 - @SoFranchy: Di chi ti fidi? In relazione a bit.ly & link, e-mail
 & phishing, pagine web & fonti, Tor
-
-- @SabryKarate: Ecco cosa ci aspetta all'uscita da . Ma speriamo che
-alle 19,00 sia l'arcobaleno ad accoglierci... http://t.co/f4fMi40roI
 
 - @LucaLiuzzi: @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete
 alla crapdetection.
@@ -911,8 +863,6 @@ origine) - click stats CONS: - non è chiaro dove ci porta!
 
 - @SabryKarate: Non serve utilizzare URL corti su Twitter, perché come
 abbiamo visto il link viene accorciato automaticamente. :)
-
-- @SoFranchy: Che riflessi @bassosimone! "No, no, noo.."
 
 - @Clerish: Il rasoio di Occam: http://t.co/6N7FD7ZXS1
 
@@ -1038,6 +988,10 @@ il destinatario il primo conosce invece il mittente
 
 - @SabryKarate: Tor è un software che si può installare sul pc. Puoi
 scegliere tra varie opzioni: essere solo client, nodo della rete,...
+
+
+
+
 
 ## 2013-06-05
 
