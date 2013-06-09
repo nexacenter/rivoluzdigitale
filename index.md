@@ -9,8 +9,8 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 - 12 Giugno 2013
 - [07 Giugno 2013](#2013-06-07)
 - [05 Giugno 2013](#2013-06-05)
-- [31 Maggio 2013](#2013-05-31) {Sebastiano Franchina}
-- [29 Maggio 2013](#2013-05-29) {Davide Palermo}
+- [31 Maggio 2013](#2013-05-31) {work in progress: Sebastiano Franchina}
+- [29 Maggio 2013](#2013-05-29) {work in progress: Davide Palermo}
 - [24 Maggio 2013](#2013-05-24)
 - [22 Maggio 2013](#2013-05-22)
 - [17 Maggio 2013](#2013-05-17)
@@ -24,7 +24,7 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 - [17 Aprile 2013](#2013-04-17)
 - [12 Aprile 2013](#2013-04-12)
 - 10 Aprile 2013
-- [05 Aprile 2013](#2013-04-05)
+- [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
 - [27 Marzo 2013](#2013-03-27)
 - 22 Marzo 2013
 - [20 Marzo 2013](#2013-03-20)
