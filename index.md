@@ -8,7 +8,7 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 - 14 Giugno 2013
 - 12 Giugno 2013
 - [07 Giugno 2013](#2013-06-07)
-- [05 Giugno 2013](#2013-06-05)
+- [05 Giugno 2013](#2013-06-05) {work in progress: Fausto Conigliaro}
 - [31 Maggio 2013](#2013-05-31) {work in progress: Sebastiano Franchina}
 - [29 Maggio 2013](#2013-05-29) {work in progress: Davide Palermo}
 - [24 Maggio 2013](#2013-05-24)
