@@ -17,7 +17,7 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 - [15 Maggio 2013](#2013-05-15)
 - [10 Maggio 2013](#2013-05-10)
 - [08 Maggio 2013](#2013-05-08)
-- [03 Maggio 2013](#2013-05-03)
+- [03 Maggio 2013](#2013-05-03) {work in progress: Lorenzo Cutelle'}
 - [26 Aprile 2013](#2013-04-26)
 - [24 Aprile 2013](#2013-04-24)
 - [19 Aprile 2013](#2013-04-19)
