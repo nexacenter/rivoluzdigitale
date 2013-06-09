@@ -32,7 +32,7 @@ Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
 
 ## 2013-06-07
 
-Precisazioni Su licenze software libero:
+### Precisazioni Su licenze software libero
 
 - @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
 
