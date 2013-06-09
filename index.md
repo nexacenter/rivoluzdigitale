@@ -648,7 +648,7 @@ di sfumature tra la propria tesi e quella rivale
 - @Carrattrezzi: 1) Ad hominem attack 2) Spaventapasseri 3) Anedottica 4)
 China pericolosa 5) Bianco e nero (There Is No Alternative)
 
-- @FabioVallone: TINA -> There Is No Alternative
+- @FabioVallone, @AntonioLangiu: TINA -> There Is No Alternative
 
 - @Clerish: TINA: There Is No Alternative
 
