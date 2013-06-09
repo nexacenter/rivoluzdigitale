@@ -1891,167 +1891,86 @@ non vuole dare a Stallman la possibilità di ritoccare il software
 della stampante. Si licenzia dal MIT e un nuovo sistema operativo: 
 GNU = “GNU is Not Unix”. 
 
+- @paolopopolizio, @ripa_pepperipa, @FabioVallone: Si parla di tipi di 
+licenze software. Si va da software nel pubblico dominio a software 
+proprietari. Vie di mezzo sono il copyleft e il copyright.
 
-- @paolopopolizio: Copyleft: diritto di copia di sinistra
+- @DavidePalermo2, @FabioBussi, @venadavide, @LucaLiuzzi, @paolopopolizio, 
+@SoFranchy: Nel 1991 Linus Torvalds, studente di 
+Helsinki, crea GNU Linux, come piace chiamarlo a Stallman, sistema 
+operativo completamente libero che, ancora oggi, molti contribuiscono 
+a migliorare. 
 
-- @ripa_pepperipa: il pacchetto delle licenze copylefted in
-contrapposizione al copyright
+- @EricaAcire19, @EmaParrinello, @DavidePalermo2: Il Prof. Meo 
+confida agli studenti di rivoluzione digitale dettagli della vita di 
+Stallman, della sua eccentricità, delle sue “fissazioni”.
 
-- @FabioVallone: Copylefted: Diritto di copia di sinistra al contrario
-di copyright-&gt; diritto di copia di destra...
+- @FabioBussi, @enricoiucci, @MarcoViccica, @paolopopolizio, 
+@SoFranchy: Internet e il SW libero sono uno un capitolo dell’altro
 
-- @DavidePalermo2: Linus Torvald + Unix = Linux http://t.co/vIg7lq3Mpr
+- @DavidePalermo2, @SoFranchy, @FabioBussi, @FabioVallone: Meo fa un 
+parallelismo tra Internet e la pesca miracolosa del Vangelo di 
+Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo 
+socio-economico perché funziona grazie alla collaborazione di più 
+persone ed alimenta la diffusione e la crescita della conoscenza. 
+(Foto http://t.co/WOLQyMMutq)
 
-- @FabioBussi: nel 1991 viene prodotto la prima versione di linux come
-software libero
 
-- @FabioVallone: nel 1991 nasce GNU/linux, così come piace chiamarlo
-il suo fondatore Stallman
+- @paolopopolizio, @enricoiucci, @SoFranchy, @_FedericoConte,
+@DavidePalermo2, @Ale_Cannone, @ripa_pepperipa, @BoggioMattia, 
+@EmaParrinello, @_FedericoConte: Meo: “Se il DNA è la più grande 
+scoperta dell’uomo, Internet è la sua più grande invenzione”. 
+Internet realizza la diffusione della conoscenza in modo libero 
+(liberi devono essere la partecipazione, le idee, il codice), regola 
+principale della IETF (Internet Engineering Task Force) 
+http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ.
 
-- @venadavide: Nel 1991 uno studente di Helsinki diede la nascita al
-software linux
+- @FabioVallone Internet è basato su documenti scientifici chiamati 
+RFC (Request For Comments. Messaggio “scriveteli nel cesso, ma 
+scriveteli precisi e chiari”.
 
-- @LucaLiuzzi: 1991 Linus Torwalds rilascia la prima versione di Linux.Il
-primo OS totalmente free.
+- @FabioBussi, @paolopopolizio, @LorenzoCutelle, @Clerish: Perchè 
+costruire tanti bit e poi pubblicarli gratis? Per far crescere la 
+conoscenza, questa deve essere libera. Bisogna pensare alla parola 
+libero come “free spech” non come “free beer”.
+- Qualche tempo fa Google decise di aprire un capitolo dedicato al 
+software libero e si accorse di dover creare 100 milioni di pagine.
 
-- @paolopopolizio: 1991 Linus crea il primo sistema operativo gratuito
-chiamato in suo onore Linux
+- @DavidePalermo2, @paolopopolizio, @Carrattrezzi, @VadimCujba: 
+Source Forge: il primo sito in ambito di distribuzione di software 
+libero. 2,7 milioni di sviluppatori si impegnano a creare nuovi 
+software liberi ed al giorno vengono effettuati 2 milioni di download 
+degli stessi.
 
-- @SoFranchy: Agli albori della storia del software libero Unix e
-conseguentemente GNU Linux di Linus Torvals.
+- @LucaLiuzzi, @SabryKarate: Sicuramente si andrà a dare un'occhiata 
+al corso di software libero del professore A. Meo. Si possono trovare 
+le slides "Software libero" by A. Meo usate nell'anno precedente sul 
+sito http://t.co/rru0WO1BcO
 
-- @EricaAcire19: Gli anatemi di Stallman contro microsoft e altre
-aziende..
+- @MatteoMonta93: Software libero italiano: nel 2002 Luigi Stanca 
+formo una commissione, con a capo Meo, per indagare sui vantaggi del 
+software libero. 
+- @FabioVallone, @ripa_pepperipa, @FabioBussi, @paolopopolizio, 
+@Carrattrezzi, @Ale_Cannone: Microsoft disse che i costi di 
+manutenzione del software libero superavano quelli di licenza del 
+software proprietario. Si rispose dicendo che i soldi delle licenze 
+andavano all’estero mentre quelli di manutenzione restavano in
+Italia. Inoltre, secondo il TCO (Total Cost of Ownership 
+http://t.co/ukTPuVV6Wg), la Microsoft affermava il falso.
 
-- @EmaParrinello: "Berlusconi non ha il diritto di sapere dove sta
-Stallman" cit. Stallman
+- @FabioVallone, @_FedericoConte, @Rexsimo893, @enricoiucci, 
+@paolopopolizio: Microsoft disse che rendendo disponibili i sorgenti 
+avrebbe comportato meno sicurezza. Falso perché STO (Security
+Through Obscurity) basava la sicurezza su chiavi che gli hacker, in 
+un tempo più o meno lungo, riescono a decifrare (I.E. Enigma tedesca 
+decriptata da Alan Touring http://t.co/hLDvltlTYh facendo durare la 
+guerra 6 mesi in meno). Sapendo come sono fatte, le serrature si 
+possono migliorare.
 
-- @DavidePalermo2: Berlusconi non ha diritto di sapere dov'è Stallman !
-
-- @FabioBussi: Internet è la madre e figlia del software libero
-
-- @enricoiucci: internet é madre e figlia del software libero
-
-- @MarcoViccica: Internet e stata la madre del software libero
-
-- @paolopopolizio: internet: "madre e figlia" del sofrware libero
-
-- @DavidePalermo2: Questa CIT andava bene quando gli host erano pochi,
-non 2 mld http://t.co/OfFjD4BjVO
-
-- @SoFranchy: Meo: parallelismo tra rete Internet e rete della pesca
-miracolosa del Vangelo di Giovanni. Internet realizza un miracolo.
-
-- @FabioBussi: Internet funziona solo grazie ad uno spirito di
-collaborazione tra molte persone
-
-- @venadavide: A.Meo's lesson http://t.co/WOLQyMMutq
-
-- @FabioVallone: Internet realizza un miracolo socio economico, perchè
-è uno strumento molto efficace per la diffusione del sapere
-
-- @DavidePalermo2: Internet è la più grande invenzione dell'uomo,
-per la diffusione e la crescita della conoscenza!
-
-- @_FedericoConte: Internet è la più importante invenzione dell'uomo
-
-- @SoFranchy: Meo: "DNA più grande scoperta dell'uomo, Internet la più
-grande invenzione"
-
-- @enricoiucci: internet--&gt; piú importante invenzione dell'uomo
-
-- @paolopopolizio: "internet": la più grande scoperta per la diffusione
-del sapere e della conoscenza
-
-- @Ale_Cannone: se il DNA è stata la più grande scoperta, internet è
-stata la più grande invenzione dell'uomo
-
-- @ripa_pepperipa: Internet realizza la più importante invenzione quale
-diffusione del sapere e della crescita, in modo "free"
-
-- @BoggioMattia: In internet tutto deve essere free
-
-- @DavidePalermo2: Internet Engineering Task Force (IETF)
-http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ
-
-- @EmaParrinello: La regola principale di IETF: tutto "free"
-
-- @FabioVallone: RFC: scriveteli nel cesso, ma scrivetevi precisi e chiari
-
-- @_FedericoConte: In internet tutto dovrebbe essere libero: i principi,
-la partecipazione, le idee, il codice
-
-- @FabioBussi: dilemma del professore ma perchè costruire tanti bit e
-poi devolverlo gratis?
-
-- @paolopopolizio: per far crescere la conoscenza, la conoscenza deve
-essere libera
-
-- @LorenzoCutelle: Software free: è una questione di libertà, non di
-prezzo. Come "free spech", e non "free beer"!
-
-- @venadavide: "A volte il mio padrone sembra arrivare dalla Bocconi"
-
-- @DavidePalermo2: Angelo Raffaele Meo spiega il software libero e
-SourceForge http://t.co/ekfyG1ZbOf
-
-- @Clerish: Stallman: "FREE as in free speech, not as in free beer."
-
-- @paolopopolizio: SourceForce :"con gli strumenti che noi forniamo 2,7
-milioni di sviluppatori creano nuovi software"
-
-- @LucaLiuzzi: Sicuramente si andrà a dare un'occhiata al corso di
-software libero del professore A.Meo
-
-- @Carrattrezzi: 2.7 milioni di programmatori opensource, e 2 milioni
-di download di programmi opensource al giorno
-
-- @MatteoMonta93: Lucio Stanca lesse il "libretto rosso" di Meo
-
-- @FabioVallone: TCO: Total Cost Ownership
-
-- @ripa_pepperipa: Il Prof. Meo ci parla di TCO http://t.co/ukTPuVV6Wg
-
-- @FabioBussi: Il TCO (Total Cost Owner) afferma che i costi della
-licenza sono minori dei costi per assistenza e manutenzione. Non vero!
-
-- @paolopopolizio: anche se i costi delle licenze fossero minori dei
-costi di manutenzione converrebbe sempre il software libero
-
-- @VadimCujba: Sourceforge: sorgente di software libero
-
-- @SabryKarate: Si possono trovare le slides "Software libero" by A. Meo
-usate nell'anno precedente sul sito di : http://t.co/rru0WO1BcO
-
-- @FabioVallone: Microsoft mise in giro che era meglio STO (Security
-Through Obscurity) rispetto al software libero
-
-- @DavidePalermo2: Principio di Kerckhoffs - Wikipedia
+- @DavidePalermo2: Meo cita il principio di Kerckhoffs per un 
+parallelismo con STO: tentare di nascondere le cose agli hacker è 
+come tentare di farlo con le donne. 
 http://t.co/fdnHzXAuj7 http://t.co/xtCewRmO3g
-
-- @Carrattrezzi: Le licenza portano capitali all'estero mentre investire
-in manutenzione dei sistemi open source porta occupazione qui
-
-- @_FedericoConte: "1883 - Sapendo come sono fatte le serrature si
-possono migliorare"
-
-- @DavidePalermo2: Macchina Enigma (crittografia) - Wikipedia
-http://t.co/hLDvltlTYh
-
-- @Ale_Cannone: cosa è meglio per l'economia italiana: assistenza svolta
-da italiani o licenze comprate all'estero?
-
-- @FabioVallone: Alain Turing riuscì a decriptare le informazioni
-inviate dalla "enigma", ciò evidenziò che anche i STO sono "hackerabili"
-
-- @Rexsimo893: Alcuni storici: se Turing non fosse riuscito a decriptare
-messaggi dei tedeschi la guerra sarebbe durata 6 mesi in più
-
-- @enricoiucci: la criptografia tedesca (enigma) fu violata dagli USA
-durante la guerra, la violazione permise accorciamento di 6 mesi
-
-- @paolopopolizio: Enigma: machina usata dai tedeschi nella 2° guerra
-mondiale, fu decifrato da Alan Turing a favore degli americani
 
 - @BoggioMattia: Il software custom appartiene alla pubblica
 amministrazione
