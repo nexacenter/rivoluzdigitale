@@ -1933,6 +1933,7 @@ scriveteli precisi e chiari”.
 costruire tanti bit e poi pubblicarli gratis? Per far crescere la 
 conoscenza, questa deve essere libera. Bisogna pensare alla parola 
 libero come “free spech” non come “free beer”.
+
 - Qualche tempo fa Google decise di aprire un capitolo dedicato al 
 software libero e si accorse di dover creare 100 milioni di pagine.
 
@@ -1947,9 +1948,10 @@ al corso di software libero del professore A. Meo. Si possono trovare
 le slides "Software libero" by A. Meo usate nell'anno precedente sul 
 sito http://t.co/rru0WO1BcO
 
-- @MatteoMonta93: Software libero italiano: nel 2002 Luigi Stanca 
+- @MatteoMonta93: Software libero italiano: nel 2002 Lucio Stanca 
 formo una commissione, con a capo Meo, per indagare sui vantaggi del 
 software libero. 
+
 - @FabioVallone, @ripa_pepperipa, @FabioBussi, @paolopopolizio, 
 @Carrattrezzi, @Ale_Cannone: Microsoft disse che i costi di 
 manutenzione del software libero superavano quelli di licenza del 
@@ -1962,14 +1964,14 @@ http://t.co/ukTPuVV6Wg), la Microsoft affermava il falso.
 @paolopopolizio: Microsoft disse che rendendo disponibili i sorgenti 
 avrebbe comportato meno sicurezza. Falso perché STO (Security
 Through Obscurity) basava la sicurezza su chiavi che gli hacker, in 
-un tempo più o meno lungo, riescono a decifrare (I.E. Enigma tedesca 
+un tempo più o meno lungo, riescono a decifrare (i.e. Enigma tedesca 
 decriptata da Alan Touring http://t.co/hLDvltlTYh facendo durare la 
 guerra 6 mesi in meno). Sapendo come sono fatte, le serrature si 
 possono migliorare.
 
 - @DavidePalermo2: Meo cita il principio di Kerckhoffs per un 
 parallelismo con STO: tentare di nascondere le cose agli hacker è 
-come tentare di farlo con le donne. 
+come tentare di farlo con le donne.
 http://t.co/fdnHzXAuj7 http://t.co/xtCewRmO3g
 
 - @BoggioMattia: Il software custom appartiene alla pubblica
@@ -1979,13 +1981,12 @@ amministrazione
 and the value of nothing (O.Wilde)
 
 - @FabioVallone: Dentro Windows NT c'erano due chiavi crittografiche:
-Mskey, Nmsakey; C'era paura di una backdoor
+Mskey, Nsakey; C'era paura di una backdoor
 
 - @DavidePalermo2: XML http://t.co/AFtIA783Ut
 
 - @DavidePalermo2: @SabryKarate ci fa notare come le slide che
 ora visualizziamo siano disponibili qui http://t.co/YGIsXY1aVi
-@RivoluzDigitale
 
 - @MorenoLaQuatra: Il nostro è un paese di leggi severissime temperate
 dalla loro inosservanza. cit. Prof. Meo
@@ -2056,8 +2057,6 @@ http://t.co/tNXTsIqeO6
 
 - @GiuliaPancaro: L'intelligenza collettiva sviluppa il mondo degli
 hardware
-
-- @DavidePalermo2: OT Il Router Free non è il Rutto Libero /OT
 
 - @BoggioMattia: Arduino è un'architettura Hardware free
 
