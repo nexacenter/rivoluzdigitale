@@ -381,3 +381,60 @@ Infine, nella correzione della lista ho inserito anche altri aspetti (e.g.
 `List-Address-in-To`) perche' possono essere rilevanti su alcune liste
 piu' di puristi. Si tratta, comunque, di aspetti minori rispetto a
 quelli menzionati nel paragrafo precedente.
+
+1.9. Come posso gestire l'indirizzo email del Politecnico usando un mio client di posta?
+----------------------------------------------------------------------------------------
+
+0 - Si consiglia l'utilizzo di 'Mozilla Thunderbird', poichè questo preciso
+client permette una gestione friendly delle email e risulta particolarmente
+efficace se si fa parte di una mailing list
+
+1 - Una volta installato Mozilla Thunderbird devi aprire la finestra di 
+gestione degli account di posta elettronica selezionando la voce 
+"Impostazioni account" nel menù "Strumenti" (se usi sistema operativo Windows;
+"Modifica" invece per un sistema operativo GNU/Linux).
+
+2 - Seleziona "Aggiungi account di posta" nel menù a tendina "Azioni account"
+e inserisci il tuo nome e cognome nel campo "Nome:"
+
+3 - Specifica il tuo indirizzo di posta elettronica nella forma 
+s<numero matricola>@studenti.polito.it, oppure, se attivo, il tuo
+alias di posta elettronica nella forma <nome>.<cognome>@studenti.polito.it
+nel campo "Indirizzo email:"
+
+4 - Inserisci in seguito la tua password (la stessa che utilizzi per 
+accedere ai box self-service) nel campo "Password:".
+Metti infine la spunta su "Ricorda password", se lo desideri, e premi
+il pulsante "Continua".
+
+5 - Nella riga "In entrata:" seleziona "POP3" nel primo menù a tendina;
+nel campo "Nome server" inserisci "pop.studenti.polito.it".
+Nel menù a tendina "Porta" seleziona "995", nel menù a tendina "SSL" seleziona
+"SSL/TLS" e nel menu a tendina "Autenticazione" seleziona "Password normale".
+
+6 - Nella riga "In uscita:" inserisci "smtp.studenti.polito.it" nel campo 
+"Nome server", nel menù a tendina "Porta" seleziona "465", nel menù a 
+tendina "SSL" seleziona "SSL/TLS" e nel menù a tendina "Autenticazione"
+seleziona "Password normale"
+
+7 - Specifica poi il tuo indirizzo di posta elettronica nella forma 
+s<numero matricola>@studenti.polito.it, oppure, se attivo, il tuo
+alias di posta elettronica nella forma <nome>.<cognome>@studenti.polito.it
+nel campo "Nome utente:"
+
+8 - Premi infine il pulsante "Riesaminare" e verifica che le impostazioni 
+inserite siano corrette: in caso di errore, procedi ad una correzione.
+Premi il pulsante "Fatto" per terminare la procedura di configurazione.
+
+9 - Goditi la semplicità di Mozilla Thunderbird
+
+10 - Puoi seguire gli stessi passaggi per la configurazione della posta 
+elettronica del Politecnico di Torino su Smartphone e/o Tablet seguendo
+gli stessi passaggi nei configuratori di account email del tuo dispositivo
+
+
+FAQ contribuita da [Davide Palermo] basandosi sulla guida online presente
+sul portale della didattica del Politecnico di Torino
+https://didattica.polito.it/mail/pop3/thunderbird.html
+
+[Davide Palermo]: https://twitter.com/DavidePalermo2
