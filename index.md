@@ -1356,7 +1356,7 @@ lesson! RivoluzDigitale
 
 #### Software libero
 
--  @demartin presenta il Prof. Angelo Raffaele Meo (http://t.co/xfCf0yVnAG) che ci parlerà di software libero e di Open Source.
+- @demartin presenta il Prof. Angelo Raffaele Meo (http://t.co/xfCf0yVnAG) che ci parlerà di software libero e di Open Source.
 
 - Software libero e opensource di A. Meo File PDF http://t.co/ROn21rK02N
 
@@ -1379,13 +1379,13 @@ operativo completamente libero che, ancora oggi, molti contribuiscono a migliora
 
 - Internet e il SW libero sono uno un capitolo dell’altro
 
--Meo fa un parallelismo tra Internet e la pesca miracolosa del Vangelo di Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo socio-economico perché funziona grazie alla collaborazione di più persone ed alimenta la diffusione e la crescita della conoscenza. (Foto http://t.co/WOLQyMMutq)
+- Meo fa un parallelismo tra Internet e la pesca miracolosa del Vangelo di Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo socio-economico perché funziona grazie alla collaborazione di più persone ed alimenta la diffusione e la crescita della conoscenza. (Foto http://t.co/WOLQyMMutq)
 
 - Meo: “Se il DNA è la più grande scoperta dell’uomo, Internet è la sua più grande invenzione”. Internet realizza la diffusione della conoscenza in modo libero (liberi devono essere la partecipazione, le idee, il codice), regola principale della IETF (Internet Engineering Task Force) http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ.
 
 - Internet è basato su documenti scientifici chiamati RFC (Request For Comments). Messaggio “scriveteli nel cesso, ma scriveteli precisi e chiari”.
 
--Perchè costruire tanti bit e poi pubblicarli gratis? Per far crescere la conoscenza, questa deve essere libera. Bisogna pensare alla parola libero come “free spech” non come “free beer”.
+- Perchè costruire tanti bit e poi pubblicarli gratis? Per far crescere la conoscenza, questa deve essere libera. Bisogna pensare alla parola libero come “free spech” non come “free beer”.
 
 - Qualche tempo fa Google decise di aprire un capitolo dedicato al software libero e si accorse di dover creare 100 milioni di pagine.
 
