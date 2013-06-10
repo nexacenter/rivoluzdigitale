@@ -4591,328 +4591,96 @@ mondiale (13 DNS base sono protetti dal governo americano)
 
 ### @VonGomben
 
-- @DavidePalermo2:  ShapeSmith è una web app per
-creare oggetti 3D - presente nei computer del FabLab
-
-- @Xfox1:  quasi quasi un pensiero sulla creazione
-di una stampante 3D lo faccio
-
-- @DavidePalermo2:  rimossi i file che permettevano
-la stampa della pistola 3D http://t.co/hzINMI38UG
-
-- @DavidePalermo2:  presto ci saranno i "negozi di
-materiali" @VonGomben
-
-- @SimoneBleynat: Che tamarro il ragazzino con lo scanner 3D
-
-
-- @Xfox1:  bel video!
-
-- @SabryKarate: Full printed, video in vimeo: http://t.co/CExj75Wrfv
-
-
-- @Xfox1:  sembra quasi fantascienza!
-
-- @Xfox1:  le migliori tecnologie utilizzate sempre
-a scopo militare, per il frenetico bisogno dell'uomo di essere
-"potente"
-
-- @DavidePalermo2:  http://t.co/DmpxtpM6iZ - Disseny
-Hub Barcelona
-
-- @DavidePalermo2:  futura possibilità di stampare
-tessuti, cucinare! DavideGomba FabLab
-
-- @Xfox1:  i rumori che vengono da dietro stuzzicano
-il mio interesse!
-
-- @SabryKarate: La lunga coda. Da un mercato di massa a una massa
-di mercati  Pure digital retailers Hybrid retailers Physical retailers
-
-
-- @DavidePalermo2:  Coda lunga - Wikipedia
-http://t.co/nRJbHar2Ej L'espressione coda lunga, in inglese The
-Long Tail
-
-- @Xfox1:  arduino &lt;3
-
-- @SabryKarate: Arduino: una delle prime schede rilasciate con
-Creative Commons.  
-
-- @DavidePalermo2:  ora si parla di Arduino
-DavideGomba
-
-- @AstoriPietro: Arduino è un progetto che nasce a Ivrea all'interno
-dell'Interaction Design Institute of Ivrea. @RivoluzDigitale
-
-
-- @DavidePalermo2:  Arduino è licenza Creative
-Commons Sviluppato presso l'Interaction Design Institute, con sede
-a Ivrea DavideGomba FabLab
-
-- @DavidePalermo2:  parliamo di OfficineArduino
-http://t.co/Xkht1Z04Hu @VonGomben
-
-- @Xfox1:  ecco cosa faccio io con arduino e raspberry
-pi: http://t.co/qz0DvNjGtL
-
-- @SabryKarate: Arduino è interamente Open Source.  
-DavideGomba
-
-- @DavidePalermo2:  Arduino , Cloni e Derivati
-FabLabTorino DavideGomba
-
-- @DavidePalermo2:  esistono prodotti con Arduino
-inside! DavideGomba
-
-- @AstoriPietro: I soliti cinesi, capaci solo a copiare! @RivoluzDigitale
- arduino
-
-- @DavidePalermo2:  Arduino - Sito Ufficiale
-http://t.co/TQ95pfQgLL - @VonGomben
-
-- @DavidePalermo2: http://t.co/ZubOKAfmcB Il Blog di Silvia
- Arduino DavideGomba
-
-- @SimoneBleynat: Mi sento quasi in colpa per aver passato la mia
-infanzia a giocare ai Pokémon invece che a smanettare con l'elettronica.
-Quasi.
-
-- @DavidePalermo2: L'anti paparazzi... Uno dei progetti più Pop
-creato con Arduino - @VonGomben
-
-- @SabryKarate: Anti paparazzi device, costruito grazie ad Arduino
- @VonGomben http://t.co/WAgaB3oyeL
-
-- @DavidePalermo2:  Safecast and Arduino  Safecast
-http://t.co/zGmrJVLf9N – Ardupilot (an open sourced arduino based
-system) DavideGomba
-
-- @DavidePalermo2:  DIY Drones http://t.co/IFMUJZl2jf
-di Chris Anderson Arduino DavideGomba
-
-- @DavidePalermo2:  oltre Arduino ... La foglia
-Arduino che ti avvisa sullo Status della tua Pianta! DavideGomba
-
-- @Cine_Revolution: Al FabLab!! Ready, nerd, go!! Schermo
-antipaparazzi!!!  @m_caccialupi  @BrayGabriele
-http://t.co/KTEsIMvfbM
-
-- @DavidePalermo2:  ricostruire e riprodurre oggetti
-e utilità con Arduino costa meno! DavideGomba
-
-- @ripa_pepperipa:  - FabLab: applicazione di una
-scheda Arduino su una foglia al fine di fornire i dati di umidità
-del terreno!
-
-- @DavidePalermo2:  Diversified Biotech - Home of
-Cryo- Tags® and Tough-Tags http://t.co/d7YqBjSnhe
-
-- @Cine_Revolution: Le nuove frontiere del DoItYourself!! Le giornate
-Make!!@m_caccialupi @BrayGabriele @sakiu92
-
-- @DavidePalermo2:  Instructables - Make, How To,
-and DIY http://t.co/PXt0Ox9XAJ Arduino @VonGomben
-
-- @doublewisp: Lezione per @RivoluzDigitale, FabLab di Torino.
-Fantastico ma allo stesso tempo inquietante: immense potenzialità!
-arduino
-
-- @Clerish: Il motto di MAKE: "If you don't open it, you don't own
-it." Il mio stile di vita! @rivoluzdigitale
-
-- @DavidePalermo2:  Vuoi fare Scouting di Fabbriche?
-Usa http://t.co/Qc338Mu5yU http://t.co/1PA6ZUHGQ7 @VonGomben
-
-- @93_checco: Sms di Cavour a Garibaldi "grazie mille! " 
-
-- @DavidePalermo2:  DavideGomba parla anche di e
-commerce FabLabTorino
-
-- @venadavide: Sms di Cavour a Garibaldi "Grazie Mille" 
-
-- @SabryKarate: Makerspaces, FabLab: posti dove si può andare per
-stampare oggetti ideati virtualmente.  
-
-- @SabryKarate: Abbiamo ben 2 FabLab  a Torino!  
-
-- @DavidePalermo2:  Lezione di @VonGomben at
-FabLabTorino Arduino http://t.co/LMWLgRtclX
-
-- @DavidePalermo2:  Ci stiamo lentamente avviando
-alla fine dell' intervento di @VonGomben FabLabTorino
-
-- @DavidePalermo2: “@Tecno_Corriere: YouTube, ecco i primi canali
-a pagamento http://t.co/4u8tNcsthS” @BlogTDW
-
-- @m_caccialupi: Lezione al FabLab di via Egeo:-) Il futuro è
-qui:-)  tecnologia futuro
-
-- @SabryKarate: Lezione di  presso FabLab con
-@VonGomben http://t.co/NeM8Gdv7cR
-
-- @DavidePalermo2: Torino capitale makers italiani: FabLab di via
-Egeo, FabLab a Chieri e presto FabLab anche a Settimo T.se
- Via @demartin
-
-- @SabryKarate: Lezione di  presso FabLab con
-@VonGomben riguardo ad Arduino http://t.co/YMswbjASnz
-
-- @SimoneBleynat: RT @demartin: Torino, capitale dei makers italiani:
-FabLab di via Egeo, FabLab a Chieri e presto FabLab anche a Settimo
-T.se @VonGomben @Ri…
-
-- @DavidePalermo2:  Ora esaminiamo nuovi progetti
-o progetti bizzarri FabLabTorino DavideGomba
-
-- @SabryKarate: "Personal customization madness" Personalizzare un
-oggetto molto comune per renderlo unico ed originale. 
-@VanGomben
-
-- @DavidePalermo2:  Finito l'intervento di @VonGomben
-al FabLabTorino Iniziamo ora un Tour! sapevatelo
-
-- @m_caccialupi:  stampanti 3d ... il teletrasporto?
-Perché no!! fablab @vonbomgen
-
-- @DavidePalermo2: NOTA: distinzione tra OfficineArduino e
-FabLabTorino 
-
-- @SabryKarate: Stampante 3D, strumento di prototipazione virtuale.
-
-
-- @ripa_pepperipa: : Oggi come oggi non c'è alcun
-FabLab inattivo al mondo! fablabTo
-
-- @BrayGabriele: Una cosa può essere tua e basta! Bisogna solo
-scegliere come farla!  VonGomben
-
-- @DavidePalermo2:  @FedericoPistono parla di Crowd
-Funding qui! http://t.co/QzxIsqwqc0 ;) sapevatelo
-
-- @DavidePalermo2: Pausa domande durante la lezione di 
-con @VonGomben
-
-- @doublewisp: "In un certo senso un FabLab è paragonabile ad un
-centro sociale tecnologico" @SalvatoriEnric ma in senso positivo!
-
-
-- @DavidePalermo2:  Maker Faire Rome |
-http://t.co/qjuEmA8p1c DavideGomba
-
-- @DavidePalermo2:  pausa 3 minuti poi finalmente
-il Tour! ;-) DavideGomba sapevatelo
-
-- @SabryKarate: Lezione di  fablab http://t.co/SkwCoMgXkF
-
-- @DavidePalermo2:  "la bici a 3 ruote" FabLabTorino
-@VonGomben http://t.co/VLenSaYoJ2
-
-- @SabryKarate: Lezione di  : stampante3d nel
-fablab http://t.co/YrkWcY4t5u
-
-- @DavidePalermo2:  Lezione al FabLab di Torino
-con @VonGomben @RivoluzDigitale http://t.co/JQZAe4WkmG
-
-- @SabryKarate: Lezione di  : stampante3d
-http://t.co/E9fEV9yxef
-
-- @_Celeritas: In verità non ho sbagliato, è solo il PC che mi ama
-&lt;3 http://t.co/K1vrhzEkq6
-
-- @DavidePalermo2:  ToolBox near to FabLabTorino
-! http://t.co/4UJmItBXHb
-
-- @SabryKarate:  stampante3d  incredibile vedere
-come crea piccoli oggetti! http://t.co/V0Z9VN9DLX
-
-- @vitalethomas: Lezione al fablab di Torino e visita al toolbox
-con il corso . Il futuro arriva anche in Italia :)
-officinearduino
-
-- @SabryKarate:  stampante3d  Amazing Photo
-http://t.co/21SxCKiJEN
-
-- @ripa_pepperipa: : stampante in 3D at fablabTo
-http://t.co/B0B2jRF037
-
-- @DavidePalermo2:  SCOOP! Arduino in vendita alle
-macchinette! FabLabTorino http://t.co/YhoyZhUbHb
-
-- @DavidePalermo2:  "La struttura del FabLabTorino
-ricorda il Lingotto" @VonGomben
-
-- @DavidePalermo2:  Just a Picture of Us @RivoluzDigitale
-http://t.co/6SXSUlAVIi
-
-- @vitalethomas: stampanti3d in azione al FabLab di Torino nel
-Toolbox, con il corso del Politecnico .
-http://t.co/zGp5GOjpFH
-
-- @DavidePalermo2: RT @demartin: Visita al FabLab/Toolbox @vongomben
-@rivoluzdigitale http://t.co/Mext36f0pH
-
-- @CaracciFabio: Lezione di  presso il fabiolab e
-toobox di torino.
-
-- @SabryKarate: @VonGomben conferma l'importanza dell'uso di Internet
-e dei computer: mailing list e blog sono strumenti utili.
-
-
-- @CaracciFabio: Stampanti 3D: le stampanti del futuro. 
-
-- @Gare_1993: Grazie per questa lezione che apre un po' gli occhi
-su un futuro imprevedibile ma decisamente interessante a @VonGomben
-e @RivoluzDigitale
-
-- @SabryKarate: Grazie a @VonGomben per la stupenda lezione di
- i presso FabLabTorino ! http://t.co/WcUE88u2Xb
-
-- @ripa_pepperipa: : at fablabTo http://t.co/wpQxPvPIYn
-
-- @SoFranchy: RT @demartin: Visita al FabLab/Toolbox @vongomben
-@rivoluzdigitale http://t.co/Mext36f0pH
-
-- @ripa_pepperipa: : at fablabTo http://t.co/Q5oErYwvFv
-
-- @vitalethomas: Grazie @VonGomben per la lezione appassionante e
-interessante al fablab di torino, toolbox, per il corso
- del Politecnico
-
-- @SoFranchy: RT @SabryKarate: Anti paparazzi device, costruito
-grazie ad Arduino    @VonGomben http://t.co/WAgaB3oyeL
-
-- @arduinoallinclu: RT @SabryKarate: Anti paparazzi device, costruito
-grazie ad Arduino    @VonGomben http://t.co/WAgaB3oyeL
-
-- @SoFranchy: Grazie @VonGomben per la lezione presso il Fablab
-di Torino, stimolante verso l'idea del making. Grazie a @demartin.
-http://t.co/chw8JK058Y
-
-- @ManuelGuarino93: RT @demartin: Tra pochi minuti inizia la lezione
-di @RivoluzDigitale al FabLab Torino con @VonGomben http://t.co/v8QcgftBrg
-
-- @DavidePalermo2: @VonGomben You've been quoted in my Storify
-"Lezione al Fab Lab con Davide Gomba - Corso di Rivoluzione Digitale"
-http://t.co/lvmkUKGwFx
-
-- @FlavioGiobergia: RT @demartin: Visita al FabLab/Toolbox @vongomben
-@rivoluzdigitale http://t.co/Mext36f0pH
-
-- @Clerish: RT @SabryKarate: Grazie a @VonGomben per la stupenda
-lezione di  i presso FabLabTorino ! http://t.co/WcUE88u2Xb
-
-- @SoFranchy: Grazie @DavidePalermo2. Molto di ciò che ha detto
-@VonGomben nell'articolo sull'intervista a @Diego_Zeppegno
-http://t.co/qnFatDGoH4
-
-- @arduinoallinclu:  Molto di ciò che ha detto
-@VonGomben su Arduino è nell'articolo sull'intervista a @Diego_Zeppegno
-http://t.co/tzQuJfDlUI
-
-- @Antonio_Langiu: RT @demartin: Tra pochi minuti inizia la lezione
-di @RivoluzDigitale al FabLab Torino con @VonGomben http://t.co/v8QcgftBrg
-
+La lezione è stata tenuta da @VonGomben al Fablab di Torino. 
+
+Introduzione: 
+
+- le migliori tecnologie utilizzate sempre a scopo militare, per il frenetico bisogno dell'uomo di essere "potente"
+- La lunga coda. Da un mercato di massa a una massa di mercati Pure digital retailers Hybrid retailers Physical retailers
+- L'espressione coda lunga, in inglese The Long Tail Wikipedia http://t.co/nRJbHar2Ej 
+
+Arduino:
+
+- Arduino è un progetto che nasce a Ivrea all'interno dell'Interaction Design Institute of Ivrea.
+- Arduino è una delle prime schede rilasciata con licenza Creative Commons.
+- Link ad articolo di Davide Gomba sulle Officine Arduino http://t.co/Xkht1Z04Hu
+- Esempio di progetto creato con arduino da un ragazzo del corso RD: http://t.co/qz0DvNjGtL
+- Arduino è interamente Open Source
+- Si parla dei derivati e cloni di Arduino illustrando il tutto con un infografica
+- In cina diverse fabbriche producono cloni di Arduino!
+- Esistono prodotti commerciali con Arduino inside!
+- Arduino - Sito Ufficiale http://t.co/TQ95pfQgLL
+- http://t.co/ZubOKAfmcB Il Blog di Silvia Arduino 
+- L'anti paparazzi... Uno dei progetti più Pop creato con Arduino http://t.co/WAgaB3oyeL http://t.co/KTEsIMvfbM ttp://t.co/WAgaB3oyeL
+- Safecast and Arduino Safecast http://t.co/zGmrJVLf9N – Ardupilot (an open sourced arduino based system)
+- DIY Drones http://t.co/IFMUJZl2jf di Chris Anderson
+- Ricostruire e riprodurre oggetti e utilità con Arduino costa meno!
+- Applicazione di una scheda Arduino su una foglia al fine di fornire i dati di umidità del terreno!
+- Diversified Biotech - Home of Cryo- Tags® and Tough-Tags http://t.co/d7YqBjSnhe
+- NOTA: distinzione tra OfficineArduino e FabLabTorino
+- SCOOP! Arduino in vendita alle macchinette! FabLabTorino http://t.co/YhoyZhUbHb
+
+ 
+Cultura Maker:
+
+- Le nuove frontiere del DoItYourself!! Le giornate Make!
+- Instructables - Make, How To, and DIY http://t.co/PXt0Ox9XAJ 
+- Il motto di MAKE: "If you don't open it, you don't own it."
+- Vuoi fare Scouting di Fabbriche? Usa http://t.co/Qc338Mu5yU http://t.co/1PA6ZUHGQ7
+- @VonGomben parla anche di e commerce FabLabTorino
+- Makerspaces, FabLab: posti dove si può andare per stampare oggetti ideati virtualmente.
+- Abbiamo ben 2 FabLab a Torino!
+- Torino capitale makers italiani: FabLab di via Egeo, FabLab a Chieri e presto FabLab anche a Settimo Torinese
+- Ora esaminiamo nuovi progetti o progetti bizzarri.
+- Spirito Maker: "Personal customization madness" Personalizzare un oggetto molto comune per renderlo unico ed originale.
+- Oggi come oggi non c'è alcun FabLab inattivo al mondo! fablabTo
+- "In un certo senso un FabLab è paragonabile ad un centro sociale tecnologico" ma in senso positivo!
+- @DavideGomba ci propone di andare al Maker Faire Rome | http://t.co/qjuEmA8p1c
+- ToolBox near to FabLabTorino ! http://t.co/4UJmItBXHb
+
+
+Stampante 3d:
+
+- Stampanti 3d ... primo concetto di teletrasporto! 
+- Stampante 3D, strumento di prototipazione virtuale.
+- Una cosa può essere tua e basta! Bisogna solo scegliere come farla!
+- stampante3d incredibile vedere come crea piccoli oggetti! 
+- stampante3d Amazing Photo http://t.co/21SxCKiJEN
+- stampante in 3D at fablabTo http://t.co/B0B2jRF037
+- ShapeSmith è una web app per creare oggetti 3D - presente nei computer del FabLab http://shapesmith.net/
+- @VonGomben parla di una futura possibilità di stampare tessuti, cucinare!
+- stampanti3d in azione al FabLab di Torino nel Toolbox, con il corso del Politecnico. http://t.co/zGp5GOjpFH
+- Si è parlato del progetto Ultimaker, di come esso sia partito in open-source e abbia finito per cambiare le licenze del suo progetto
+- Video fatto vedere a lezione da @davidegomba sul futuro della stampa 3d: http://t.co/CExj75Wrfv
+- Presto ci saranno i "negozi di materiali" dove si va ad acquistare i vari materiali da stampare. 
+- Problema delle armi stampate in 3d: Rimossi i file che permettevano la stampa della pistola 3D http://t.co/hzINMI38UG (la stampa) 
+
+
+Crowd-Funding:
+
+- Vengono presentate le maggiori piattaforme di Crowd Funding come Kickstarter
+- Si parla di come questo sia diffuso negli USA e si presentano diverse piattaforme 
+
+
+Tour Fablab:
+ 
+- "La struttura del FabLabTorino ricorda il Lingotto" 
+- @VonGomben conferma l'importanza dell'uso di Internet e dei computer: mailing list e blog sono strumenti utili.
+- Ecco un progetto sviluppato al Fablab: la bici a 3 ruote" FabLabTorino http://t.co/VLenSaYoJ2
+- Macchina per taglio laser: http://t.co/YrkWcY4t5u
+
+Foto della lezione:
+
+- http://t.co/LMWLgRtclX http://t.co/YMswbjASnz http://t.co/SkwCoMgXkF http://t.co/6SXSUlAVIi 
+- http://t.co/WcUE88u2Xb http://t.co/wpQxPvPIYn http://t.co/Mext36f0pH http://t.co/Q5oErYwvFv 
+- http://t.co/chw8JK058Y http://t.co/v8QcgftBrg http://t.co/V0Z9VN9DLX http://t.co/JQZAe4WkmG
+
+Hanno partecipato al live-tweet:
+
+- @DavidePalermo2 @Xfox1 @SimoneBleynat @SabryKarate @SabryKarate @AstoriPietro @AstoriPietro 
+- @Cine_Revolution @ripa_pepperipa @doublewisp @Clerish @93_checco @venadavide @m_caccialupi 
+- @m_caccialupi @BrayGabriele @_Celeritas @vitalethomas @vitalethomas @CaracciFabio @CaracciFabio 
+- @Gare_1993 @SoFranchy @SoFranchy @arduinoallinclu @ManuelGuarino93 
 
 
 ## 2013-05-08
