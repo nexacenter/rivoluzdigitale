@@ -1419,81 +1419,54 @@ operativo completamente libero che, ancora oggi, molti contribuiscono a migliora
 
 - Ultima pillola di Meo sul software libero: “I deputati che vanno a donnine sono meno dannosi della scelta di un software proprietario”: i 3 miliardi di dollari che si risparmierebbero sui costi delle licenze per i software proprietari sono 10 volte di più di quanto si risparmierebbe con il taglio dei parlamentari. Purtroppo bisognerebbe insegnare alle segretarie, ad esempio, la nuova posizione della X per chiudere le finestre.
 
-- @DavidePalermo2: Esiste l' hardware libero Io non lo sapevo, e
-voi? http://t.co/Nk8Tur4pRU
+#### Hardware libero
 
-- @paolopopolizio: Hardware Design: progetto che può essere
-copiato,distribuito e modificato
+- Il Prof. Meo introduce il concetto di Hardware libero (Wikipedia 
+http://t.co/tNXTsIqeO6) e parla delle varie licenze per l’hardware: 
+Free Hardware Design, Open Source Hardware, Open Hardware. 
+http://t.co/Nk8Tur4pRU
 
-- @SimoneBleynat: "I deputati che vanno a donnine sono meno dannosi
-della scelta di un software proprietario" cit. Prof. Meo
+- Free Hardware Design: può essere liberamente copiato, distribuito, 
+modificato e materializzato su silicio.
 
-- @ripa_pepperipa: l'importanza dell' hardware libero
-http://t.co/tNXTsIqeO6
+- Open Source Hardware: tutta l’informazione di progetto è disponibile 
+ma esistono restrizioni.
 
-- @paolopopolizio: le api hanno un piccolo corpo ma una grandissima anima
+- Open Hardware: la documentazione deve consentire la programmazione 
+del device, ma non sono presenti dettagli su firmware e hardware.
 
-- @ripa_pepperipa: Software e Hardware sempre più dotati di intelligenza
+- Il concetto di hardware libero si lega alla vita delle api: “queste 
+hanno un piccolo corpo ma una grande anima”, cosa che permette 
+loro di contribuire, nel loro piccolo, a qualcosa di grande. Allo stesso 
+modo gli sviluppatori possono mettersi  insieme per creare qualcosa 
+di migliore.
 
-- @GiuliaPancaro: L'intelligenza collettiva sviluppa il mondo degli
-hardware
+- Si parla di Arduino. “Esempio clamoroso di open-hardware” lo definisce 
+Meo. http://t.co/P2Y9vkNul3
 
-- @BoggioMattia: Arduino è un'architettura Hardware free
+- Meo accenna al concetto di Terza rivoluzione industriale, citando 
+l’Economist, durante la quale diventa sempre più importante il disegno 
+rispetto all’applicazione. Con i nuovi fabbricatori universali, come le 
+stampanti 3D, "sono più importanti i bit che non gli atomi", dice il Prof.
 
-- @DavidePalermo2: Parliamo di @arduino at con A. R. Meo
-http://t.co/P2Y9vkNul3
+#### Domande
 
-- @SoFranchy: Arduino. Prof Meo: esempio clamoroso di open hardware.
+- Definizione stringata di software libero: Software con codice sorgente 
+pubblico distribuibile, replicabile senza termini di tempo, e utilizzabile 
+in qualunque ambito e per qualunque scopo. http://t.co/fFeYIHZ0Rm
 
-- @DavidePalermo2: Sul portale della Didattica c'è molto materiale utile
-ai ragazzi di e dell'intero PoliTO A. Meo lo renderà disp per tutti!
+- Perché conviene il software libero: la cultura open è utile al fine di 
+abbassare i costi (mediamente di 8 volte) soprattutto per i paesi meno 
+ricchi.
 
-- @Rexsimo893: "Sono più importanti i bit che non gli atomi"
-cit. Prof. Meo
+- Quanto ha influito l’essere open per la diffusione di Arduino: Arduino 
+deve il suo successo all'essere Open. Una delle conseguenze è ancora la 
+riduzione drastica dei costi.
+- Ancora una volta si presenta il concetto di tecnologia non deterministica 
+in relazione al perché il software libero, avendo tanti vantaggi, non si sia 
+ancora affermato: nella tecnologia non sempre ciò che è meglio viene più 
+utilizzato, ci sono molte variabili che entrano in gioco.
 
-- @DavidePalermo2: Citiamo i fabbricatori universali Tipo @Fablabtorino
-
-- @Ale_Cannone: il disegno è più importante della materializzazione
-nella terza rivoluzione industriale
-
-- @SoFranchy: Prof Meo parla di terza rivoluzione industriale,
-fabbricatori universali e Arduino. http://t.co/RivbyBiebg
-
-- @EricaAcire19: La terza rivoluzione industriale secondo
-l'economist.. http://t.co/rqT17VYv0x
-
-- @Carrattrezzi: La cultura open per abbassare i costi (mediamente di
-8 volte) soprattutto per i paesi meno ricchi
-
-- @paolopopolizio: sul portale della didattica si puo accedere ad un
-sacco di materiale sul software libero
-
-- @Rexsimo893: Chi utilizza biofuel = chi brucia un pezzo di casa per
-scaldarsi, non una grande invenzione quindi
-
-- @Carrattrezzi: Replicabile all'infinito, con codice sorgente libero,
-usabile per qualunque uso, That's free software
-
-- @ripa_pepperipa: Software libero: Software distribuibile, repricabile
-indefinitivamente, con codice sorgente e usabile in qualunque ambito!
-
-- @Ale_Cannone: Software libero: prodotto software distribuibile, con
-codice sorgente pubblico, modificabile
-
-- @DavidePalermo2: software libero by Meo Prodotto distribuibile con
-cod sorgente replicabile no vincolo per tutti http://t.co/fFeYIHZ0Rm
-
-- @Rexsimo893: Software libero: distribuibile, codice sorgente,
-replicabile infinite volte, usabile per qualunque cosa.
-
-- @SoFranchy: Prof Meo: Arduino deve il suo successo all'essere Open. Una
-delle conseguenze è la riduzione drastica dei costi.
-
-- @DavidePalermo2: Question Time at con i prof A. Meo e @demartin Software
-libero http://t.co/qCZ0gdQuj9
-
-- @Rexsimo893: Nella tecnologia non sempre ciò che è meglio è più
-utilizzato, ci sono molte variabili che entrano in gioco
 
 ### @demartin
 
