@@ -438,3 +438,52 @@ sul portale della didattica del Politecnico di Torino
 https://didattica.polito.it/mail/pop3/thunderbird.html
 
 [Davide Palermo]: https://twitter.com/DavidePalermo2
+
+1.10. Sono un neofita di Twitter. Che fare? Tre info su come comportarsi. 
+-------------------------------------------------------------------------
+
+### Retweet
+
+Se qualcuno retwitta un tuo Tweet significa il più delle volte che lo 
+si reputa degno di essere diffuso, in quanto i seguaci di colui che retwitta,
+lo vedranno nella propria timeline (DEF: sequenza dei messaggi di coloro che 
+seguiamo su Twitter) e potranno a loro volta essere tentati di retwittarlo.
+
+Attenzione però perchè non è detto che tutti i retweet rappresentino stima
+(il cosiddetto endorsement): potrebbero retwittare il tuo tweet perché
+degno di essere dileggiato in maniera possibilmente virale.
+Per es: Se parli di quello che fai (a pranzo, in bagno, la sera).
+
+Vi è anche il retweet furbo: si cita il tuo tweet invece di retwittarlo,
+il computo dei retweet così è a vantaggio della tua autostima.
+La citazione pura e semplice è sconsigliata, meglio aggiungere un commento
+strettamente personale (battuta, aggiunta,...).
+
+### Preferito
+
+Altro gesto di apprezzamento è sicuramente la "stellina" nota come Preferito.
+Il valore della stellina è minore rispetto al retweet dal punto di vista della
+'visibilità'. Il tuo tweet con stellina non risulta ai follower,
+ma è comunque visibile nell'elenco dei "tweet favoriti".
+
+La stellina vale anche come gesto di assenso, un “grazie” virtuale.
+
+### Rispondi
+
+Interazione diretta è invece la risposta.
+Puoi così, rispondendo ad un tweet, iniziare un "dialogo".
+
+Una curiosità:
+Se il tuo tweet inizia con il nome utente (es: @barackobama) questo verrà letto solo 
+da tale utente e dai suoi follower, che seguono entrambi voi.
+Se invece aggiungi un carattere, come ad esempio un punto, (.@barackobama)
+allora il tuo tweet verrà letto da tutti i tuoi follower, anche quelli
+che non seguono l'utente a cui replicate.
+
+
+FAQ contribuita da [Davide Palermo] basandosi sulla guida online di [Riccardo Puglisi] 
+sul sito Linkiesta
+http://www.linkiesta.it/twitter-come-funziona
+
+[Davide Palermo]: https://twitter.com/DavidePalermo2 
+[Riccardo Puglisi]: https://twitter.com/ricpuglisi 
