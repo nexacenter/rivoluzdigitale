@@ -4960,9 +4960,14 @@ La lezione è stata tenuta da @VonGomben al Fablab di Torino.
 
 Introduzione: 
 
-- le migliori tecnologie utilizzate sempre a scopo militare, per il frenetico bisogno dell'uomo di essere "potente"
-- La lunga coda. Da un mercato di massa a una massa di mercati Pure digital retailers Hybrid retailers Physical retailers
-- L'espressione coda lunga, in inglese The Long Tail Wikipedia http://t.co/nRJbHar2Ej 
+- le migliori tecnologie utilizzate sempre a scopo militare, per il
+frenetico bisogno dell'uomo di essere "potente"
+
+- La lunga coda. Da un mercato di massa a una massa di mercati Pure
+digital retailers Hybrid retailers Physical retailers
+
+- L'espressione coda lunga, in inglese The Long Tail Wikipedia
+http://t.co/nRJbHar2Ej
 
 Arduino:
 
