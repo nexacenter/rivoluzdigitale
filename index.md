@@ -2042,323 +2042,206 @@ utilizzato, ci sono molte variabili che entrano in gioco.
 
 
 ### @demartin
+- Definizione completa di software libero sul sito della Free Software 
+Foundation (http://t.co/sw0yB3Ldje). Si dice di quel software che ha le
+seguenti proprietà: libertà di eseguire il programma per qualsiasi motivo, 
+libertà di modificare il software e studiarlo, libertà di ridistribuire copie 
+così che si possa aiutare il proprio vicino, libertà di modificarlo, 
+migliorarlo e distribuire copie con le proprie modifiche. 
 
-- @Carrattrezzi: Le 4 proprietà del software libero (@demartin ) : 1)
-La libertà di eseguire il programma per qualsiasi motivo
-
-- @DavidePalermo2: Definizione di software libero sul sito della Free
-Software Foundation http://t.co/sw0yB3Ldje http://t.co/YxBp9DyoIf
-
-- @Carrattrezzi: 2)Libertà di modificare il software e studiarlo (c'è
-bisogno del codice sorgente)
-
-- @Carrattrezzi: 3) libertà di ridistribuire copie così che si possa
-aiutare il proprio vicino 4)Distribuire copie con tue modifiche
-
-- @bassosimone: la licenza GNU GPL aggiunge il copyleft alla definizione
-di software libero
+- la licenza GNU GPL aggiunge il copyleft alla definizione di software 
+libero
 
 ### @CBlengio
 
-- @Carrattrezzi: @CBlengio risponde alle nostre domande di ieri+2 arrivate
-su twitter
+- @CBlengio risponderà alle domande postegli durante la lezione 
+precente. 
 
-- @DavidePalermo2: diffamazione Non si può dire ladro al ladro
+#### Diffamazione e ingiuria
 
-- @bassosimone: .@CBlengio ingiuria e' diretta a una persona singola
-(aggravante se ci sono piu' persone)
+- Si ha diffamazione se si dice qualcosa su una persona non presente 
+davanti ad almeno 2 persone oltre al diffamante. 
 
-- @venadavide: Diffamazione: non si può dire ladro al ladro. @CBlengio
+- Si ha ingiuria quando è presente la persona a cui è diretta la frase. La 
+presenza di altre persone è un’aggravante.
 
-- @enricoiucci: la diffamazione (mal parlare) é un offesa su qualcuno
-non presenta detta ad almeno 2 persone
+- Sia per ingiuria che per diffamazione, la frase pronunciata può ledere 
+l’onore indipendentemente dalla verità o notorietà di ciò che si sta 
+dicendo: non si può dire ladro al ladro. http://t.co/JYcZHTKDM6
 
-- @Ale_Cannone: differenze: ingiuria: se è presente la persona a cui
-è rivolta diffamazione: si offende la reputazione altrui
+- la pena aumenta se l'offesa si procura attraverso fatti precisi privi di 
+fondamento e/o se divulgata tramite mezzi con grande portata 
+pubblicitaria (come la stampa).
 
-- @DavidePalermo2: diffamazione slide by @CBlengio http://t.co/JYcZHTKDM6
+- La Cassazione nel 2008 si dice contraria all’accusa di diffamazione per 
+chi ha detto “buffone” a un politico: perché nell’ambito politico si tratta 
+di polemiche giustificabili dal contesto.
 
-- @bassosimone: .@CBlengio se "@bassosimone e' un ladro" e @bassosimone
-non c'e' e' diffamazione (anche fosse @bassosimone un ladro)
+- Nella diffamazione non è sempre facile dire quando è lecito e quando no.
 
-- @paolopopolizio: 1) libertà di studiare il programma; 2) libertà di
-ridistribuire copie; 3)libertà di distribuire la versione modificata
+- Non è facile capire i limiti della diffamazione: non si può dire buffone a 
+nessuno né ladro al ladro ma si ha diritto a manifestare il proprio 
+pensiero (Art 21 della Costituzione) e di ricevere e/o comunicare 
+informazioni e/o idee (Art. 11 Carta dei diritti fondamentali U.E. molto
+più forte della Costituzione su Internet).
 
-- @enricoiucci: la pena aumenta se l'offesa é relativi a falsi fatti
-precisi e se divulgata tramite mezzi pubblicitari (quali internet)
+- Dai due articoli nascono i diritti di cronaca, critica, satira, che sono diritti 
+“uti cives” (per tutti): importante oggi poiché ognuno di noi è un hub 
+informatico, ognuno di noi diffonde notizie come i giornalisti. Questi 
+mitigano il fatto che non si possa dire ladro al ladro.
 
-- @Carrattrezzi: Se la persona in questione è presente è ingiuria,
-Se non lo è e ci sono più di due testimoni è diffamazione.
+- Per ogni reato ci sono scriminanti: il reato può essere commesso in loro 
+presenza (i.e. legittima difesa). Ciò vale anche per la diffamazione.
 
-- @bassosimone: tanto per ingiuria quanto diffamazione la verita'
-o notorieta' del fatto non conta
+- @CBlengio "scherza" sui trattamenti illeciti rispetto alla diffusione di 
+immagini personali sui social. 
 
-- @bassosimone: by the way, in Italia la stampa e' solo roba meccanica,
-quindi i blog non sono stampa (no aggravante x diffamazione)
+- Le foto dell'avv. @CBlengio non si possono twittare (dato personale) a 
+meno che non si vuol criticare, o fare cronaca, oppure si ha il profilo 
+chiuso ai soli amici: comunicazione ad amici != diffusione (discriminanti).
 
-- @Carrattrezzi: Indipendentemente dalla veridicità della
-cosa. Aggravante: mezzo stampa o con grande portata.
+- ad esempio, si discute se apertura ad amici degli amici di Facebook sia 
+comunicazione o diffusione
 
-- @Carrattrezzi: Gli ospiti continuano a prendersela con @bassosimone
+- Morale della storia: qui a siamo tutti denunciabili per un motivo o per 
+l'altro
 
-- @bassosimone: non e' facile capire perche' la diffamazione dipende
-molto dal contesto - parametro: Art. 21 Cost su liberta' di espr.
+- I diritti di critica, cronaca e satira hanno dei limiti
 
-- @ripa_pepperipa: si parla di diritti di cronica, Critica e Satira. Con
-@CBlengio
+- limiti del diritto di cronaca: il fatto deve essere vero, detto in modo 
+continente (non volgare), e utile alla collettivita'.
 
-- @Carrattrezzi: Diritti di cronaca, critica e satira
+- I limiti del diritto di satira sono: i fatti non devono necessariamente 
+essere veri, il modo in cui sono riferiti deve essere continente, la loro 
+diffusione deve essere utile alla collettività.
 
-- @bassosimone: da Art. 21 Cost e carta dei diritti =&gt; diritto di
-cronaca, critica, satira
+- Quando si fa satira ci si avvale del diritto di critica, sottratto al 
+parametro della verità: nella satira non bisogna dimostrare che una cosa 
+è vera mentre se si critica qualcuno lo si deve fare.
 
-- @DavidePalermo2: Diritto di cronaca, critica, satira sono uti cives
-(dei cittadini)
+- Satira: manifestazione del diritto di critica che mediante paradosso e 
+metafora esprime il giudizio ironico su un fatto
 
-- @bassosimone: puoi dare del ladro al ladro, e' un reato scriminato
-dal diritto di cronaca, satira, critica
+- Si parla di @Nonciclopedia in relazione al diritto di satira.
 
-- @Rexsimo893: Diritti di: cronaca, critica, satira -&gt; diritti che
-ci dà la Costituzione
+- parliamo di Internet Service Provider http://t.co/UGGcAEo6fi
 
-- @paolopopolizio: Diritto di critica, di cronaca e di satira sono
-diritti Uti Cives @CBlengio
+- intermediari della comunicazione e dell'informazione sono: Access 
+(Telecom,Skype), Caching (Google)  e Hosting (Fb,Twitter,Youtube).
 
-- @Rexsimo893: Io twittando esercito il diritto di cronaca perchè informo
+- Access, Caching e Hosting provider non sono responsabili dei contenuti; 
+Content provider invece sono responsabili
 
-- @DavidePalermo2: Mi sento preso in causa... Discorso sulle immagini
-di @CBlengio
+- Se sono Content Provider sono responsabile, ma se ho spazio per 
+commenti divento Hosting Provider
 
-- @venadavide: Non pubblicate foto degli ospiti...rischiate la denuncia :)
+- al blog è applicata la legge di YouTube ed inoltre permette la 
+pubblicazione di interventi da parte di altri
 
-- @paolopopolizio: noi che twittiamo non siamo molto diversi dai
-giornalisti che diffondono notizie
+- il prestatore del Blog non è tenuto a verificare cosa posta in un articoli 
+un altro prestatore sul suo blog: non siamo responsabili dei contenuti 
+pubblicati da terzi (commenti) sui nostri blog
 
-- @ripa_pepperipa: @CBlengio "scherza" sui trattamenti illeciti di
-diffusione di immagini personali!
+- Differenza tra chi fa contenuto e chi è fornitore di servizi i primi 
+possono essere accusati.
 
-- @bassosimone: foto dell'avv. @CBlengio non si possono twittare (dato
-personale) a meno che non vuoi criticare, o fare cronaca
+- La Commissione Europea si pone una domanda: dobbiamo proteggere i 
+contenuti che ospitano terzi o no?
 
-- @Ale_Cannone: diritto di cronaca, critica e satira sono diritti uti
-cives, di tutti i cittadini--&gt; siamo nella società dell'informazione
+- In relazione a un commento palesemente diffamatorio il proprietario 
+dell’hosting provider (passato da content ad hosting perché c’è 
+possibilità di commentare) come deve comportarsi?
 
-- @DavidePalermo2: Volevo comunicare che la lezione di @cblengio era
-interessante per tutti :-) speriamononcisianodenunce :-)
+- Il fornitore del servizio non è responsabile se: A)non è a conoscenza 
+dell'attività illecita B) appena lo vede provvede cancellandolo previa 
+comunicazione dalle autorità.
 
-- @SimoneBleynat: Morale della storia: qui a siamo tutti denunciabili
-per un motivo o per l'altro
+- Notice and take down? Si, se me lo dice un giudice, stabilirlo 
+indipendentemente è troppo difficile
 
-- @bassosimone: su Facebook seconda possibilita' di difesa, se profilo
-chiuso: comunicazione a amici != diffusione
+- Bisogna trovare un bilanciamento tra liberta' di espressione di chi 
+commenta, responsabilita' dell’hosting e interesse a che i commenti 
+illegali siano celermente rimossi.
 
-- @Ale_Cannone: per Facebook è possibile pubblicare foto di altre
-persone senza consenso se il profilo non è aperto
+- Esempio: thepiratebay. Come avrebbero potuto sapere i gestori di 
+pirate bay che venivano pubblicati file infrangenti il copyright?
 
-- @bassosimone: ad esempio, si discute se apertura ad amici degli amici
-di Facebook sia comunicazione o diffusione
+- Sintesi scherzosa: pirlate bay.
 
-- @ripa_pepperipa: I diritti di critica, cronaca e satira hanno dei
-limiti....
+- Al Service Provider che ha pochi interventi esterni può venir difficile 
+dimostrare che non si era accorto di un illecito.
 
-- @bassosimone: limiti di cronaca: il fatto deve essere vero, detto in
-modo continente, e utile alla collettivita'
+- @CBlengio: "badate, parlo per esperienza personale" - i.e. comunicare 
+cosa pensi vs. cosa sai
 
-- @paolopopolizio: i limiti della satira sono: -i fatti devono essere
-veri -il modo in cui detto continente -la motivazione -utile a comunità
-
-- @ripa_pepperipa: DIRITTO DI CRONACA: fatto vero, comunicarlo in modo
-continente, utile alla comunità!
-
-- @bassosimone: satira e' sottratta dal perimetro della verita' ma rimane
-assoggettata alla continenza e all'utilita' per collettivita'
-
-- @ripa_pepperipa: quando faccio satira manifesto il diritto di critica,
-sottratto al parametro della verità
-
-- @Rexsimo893: Nella satira non devo dimostrare che una cosa è vera
-mentra se critico qualcuno lo devo fare
-
-- @bassosimone: MT @venadavide Satira [...] mediante paradosso e metafora
-esprime il giudizio ironico su un fatto
-
-- @SimoneBleynat: Si è parlato di @Nonciclopedia al corso di
-
-- @ripa_pepperipa: al blog è applicata la legge di YouTube ed inoltre
-permette la pubblicazione di interventi da parte di altri
-
-- @93Levante: Nella diffamazione non è sempre facile dire quando è
-lecito e quando no
-
-- @ripa_pepperipa: parliamo di Internet Sercice Provider --&gt;
-http://t.co/UGGcAEo6fi
-
-- @paolopopolizio: il prestatore del Blog non è tenuto a verificare
-cosa posta in un articoli un altro prestatore sul suo blog
-
-- @bassosimone: intermediari della comunicazione e dell'informazione:
-access, caching e hosting
-
-- @Rexsimo893: Internet Service Provider: 1.Access(Telecom,Skype)
-2.Caching(Google) 3.Hosting(Fb,Twitter,Youtube)
-
-- @bassosimone: access, caching e hosting provider non sono responsabili;
-content provider invece sono responsabili
-
-- @venadavide: Satira, manifestazione del diritto di critica che mediante
-paradosso e metafora esprime il giudizio ironico su un fatto
-
-- @Rexsimo893: Se sono Content Provider sono responsabile → se ho
-spazio per commenti divento Hosting Provider
-
-- @_FedericoConte: Internet Service Provider : Intermediari della
-comunicazione, Intermediari dell'informazione
-
-- @Carrattrezzi: Non siamo responsabili dei contenuti pubblicati da terzi
-(commenti) sui nostri blog
-
-- @paolopopolizio: se si apre un blog a terzi non si è responsabili di
-ciò che viene scritto da loro
-
-- @bassosimone: bilanciamento tra liberta' di espressione, responsabilita'
-e interesse a che info illegali siano celermente rimosse
-
-- @ripa_pepperipa: la Commissione Europea si pone una domanda: dobbiamo
-proteggere i contenuti che ospitano terzi o no?
-
-- @bassosimone: due condizioni, pero', (a) fornitori non siano a
-conoscenza e (b) agiscano tempestivamente
-
-- @bassosimone: Sintesi scherzosa: pirlate bay
-
-- @MartinoMensio: Il fornitore del servizio non è responsabile se: A)
-non è a conoscenza dell'attività illecita B) appena lo vede provvede
-
-- @Ale_Cannone: differenza tra chi fa contenuto e chi è fornitore di
-servizi ---&gt; i primi possono essere accusati
-
-- @Carrattrezzi: Come avrebbero potuto sapere i gestori di pirate bay
-che venivano pubblicati file (venivano xD) infrangenti il copyright?
-
-- @Ale_Cannone: caso degli Internet service provider: diventa responsabili
-se viene segnalato qualcosa che non viene subito controllata
-
-- @bassosimone: by the way, vi faccio notare il "badate, parlo per
-esperienza personale" - i.e. comunicare cosa pensi vs. cosa sai
-
-- @MartinoMensio: Il fornitore di servizi è costretto ad intervenire
-solo se gli viene comunicato da autorità competente
-
-- @Carrattrezzi: Notice and take down? Si, se me lo dice un giudice,
-stabilirlo indipendentemente è troppo difficile
-
-- @bassosimone: come fanno le Internet company a rispettare le leggi di
-204 paesi? Not so simple
-
-- @EricaAcire19: Se FB dagli USA viene a conoscenza di un post in italiano
-diffamatorio, cosa fa? @CBlengio
-
-- @SimoneBleynat: È molto meglio che i big di Internet non siano
-responsabili! Meglio star senza guardiani della libertà di espressione
-
-- @MartinoMensio: Licra vs Yahoo: http://t.co/gvQrY8CDOz!
-
-- @bassosimone: caso LICRA vs YAHOO relativo a vendita di cimeli
-neo-nazisti (2000)
-
-- @Ale_Cannone: Licra vs Yahoo: causa che ha fatto scuola
-
-- @EmaParrinello: se dessimo responsabilità agli internet provider
-creeremmo dei guardiani della libera espressione, che è negativo
-
-- @Ale_Cannone: Licra vs Yahoo risolta con IP mapping
-
-- @EmaParrinello: il problema della territorialità in internet è un
+- Domanda: come fanno le Internet company a rispettare le leggi di 204 
+paesi? Not so simple: il problema della territorialità in internet è un 
 problema grossissimo da risolvere
 
-- @Ale_Cannone: è solo impressione mia o riguardo internet spunteranno
-sempre nuove controversie e cause?
+- Se FBI dagli USA viene a conoscenza di un post in italiano diffamatorio, 
+cosa fa? 
 
-- @Ale_Cannone: peer-to-pee:r nessun rapporto tra client e server ma
-tra i computer stessi
+- È molto meglio che i big di Internet non siano responsabili! Meglio star 
+senza guardiani della libertà di espressione
 
-- @paolopopolizio: nel Peer To Peer non ho un rapporto client e server,
-ma il mio pc diffonde informazioni in condivisione complessiva
+- @CBlengio cita il caso Licra vs. Yahoo relativo a vendita di cimeli 
+- neo-nazisti (2000): causa che ha fatto scuola, risolta con IP mapping. 
+http://t.co/gvQrY8CDOz (Wikipedia)
 
-- @DavidePalermo2: @omerovitali parliamo di P2P e del tuo post :-)
+- Ci si chiede: riguardo internet spunteranno sempre nuove controversie 
+e cause?
 
-- @EmaParrinello: con il P2P è difficilissimo trovare chi viola il
-diritto d'autore
+####P2P
 
-- @ripa_pepperipa: su Peer to Peer gira molta "roba stra-lecita". Non
-si riesce a beccare però chi viola il diritto d'autore!
+- peer-to-peer: tra i nodi non c’è un rapporto client e server ma ogni 
+nodo diffonde informazioni in condivisione complessiva.
 
-- @DavidePalermo2: @omerovitali for You :-) http://t.co/U4xmn9hGx9
+- Sulle Peer to Peer gira molta "roba stra-lecita". E’ difficilissimo trovare 
+chi viola il diritto d'autore. 
 
-- @bassosimone: sicuramente lo streaming non e' un reato, ma non lo e'
-neanche scaricare, lo e' uploadare pero' - cc: @omerovitali
+- Sicuramente lo streaming non e' un reato, ma non lo e' neanche 
+scaricare, lo e' uploadare pero'. http://t.co/U4xmn9hGx9 (Slide 
+@CBlengio) http://t.co/Sva3JzwPWB (corriere.it)
 
-- @paolopopolizio: se scarico una musica in peer to peer o da un server
-non commetto reato, solo se lo condivido, anche per scopo personale
+- Il download è reato solo se lo faccio per lucrare o per fini non personali: 
+in tal caso si incorre in una pena dai 6 mesi ai 3 anni 
+http://t.co/fORyDT5epp (Slide @CBlengio)
 
-- @DavidePalermo2: @CBlengio Il download non è
-illegale! http://t.co/Sva3JzwPWB http://t.co/fORyDT5epp
+- Nel P2P chi commette il reato è solamente chi condivide per diffondere 
+ma non chi fa il download per uso proprio
 
-- @EmaParrinello: Nel P2P chi commette il reato è solamente chi condivide
-per diffondere ma non chi fa il download per uso proprio
+- @CBlengio ci parla del caso Peppermint in cui la tutela dei dati 
+personali venne ritenuto un bene superiore rispetto al copyright
 
-- @bassosimone: se scarico commetto un reato solo se lo faccio per
-lucrare o per fini non personali
+####Tracciamento e filtraggio traffico
 
-- @bassosimone: @CBlengio ci parla del caso peppermint
+- Il traffico mobile può essere filtrato attraverso gli indirizzi IP che sono  
+dati personali. 
 
-- @ripa_pepperipa: viene punito chi mette in condivisione. Chi scarica
-per fini non personali o per lucrare, solo in tale caso commette reato
+- Se si sottoscrive contratto telco si dà l’autorizzazione anche a filtrare il 
+proprio traffico
 
-- @bassosimone: la tutela dei dati personali venne ritenuto un bene
-superiore rispetto al copyright nel caso peppermint
+- Trasparenza. @CBlengio: "accettereste voi ad avere delle case di vetro 
+anche se non menate vostra moglie?" 
 
-- @Ale_Cannone: indirizzo IP --&gt; dato personale --&gt; privacy
-
-- @bassosimone: quando sottoscrivi contratto telco dai autorizzazione
-privacy anche a filtrare tuo traffico
-
-- @ripa_pepperipa: il traffico mobile può essere filtrato attraverso
-gli indirizzi IP
-
-- @venadavide: Le compagnie tlf si assicurano la possibilità di filtrare
-il traffico del cliente...
-
-- @Ale_Cannone: mi sbaglio o è casey del telefilm chuck quello nella
-slide?
-
-- @Carrattrezzi: Non c'è neanche bisogno dell'autorizzazione di un
+- @Carrattrezzi: Non c'è neanche bisogno dell'autorizzazione di un 
 giudice per tracciarti con il gps. sembra di essere in thewire
 
-- @bassosimone: "accettereste voi ad avere delle case di vetro anche se
-non menate vostra moglie?" &lt;&lt; @CBlengio LOL
+####Domande
 
-- @Ale_Cannone: cadono piume in aula xD
+- Fine lezione : @CBlengio risponde alle domande
 
-- @paolopopolizio: fine lezione rivoluz digitale, momento di risposta
-alle domande da parte di @CBlengio
+- Aprire una fan page citando un marchio famoso? Richiede 
+autorizzazione, ma chiuderla va contro gli interessi del marchio stesso.
 
-- @Ale_Cannone: aprire una fan page citando il marchio? richiede
-autorizzazione ma chiuderla va contro gli interessi del marchio stesso
+- Si parla del caso “Nutella e fan day” http://t.co/ty11xWyuzF 
+(repubblica.it)
 
-- @ripa_pepperipa: spazio a domande e commenti a con @CBlengio
+- Vi fidate della vostra cronologia del browser tanto da portarla in 
+tribunale? “Usare CCleaner”
 
-- @Ale_Cannone: caso nutella e fan day http://t.co/ty11xWyuzF
+- Ultima pillola di @CBlengio: “Occhio alle 50enni mature”
 
-- @Carrattrezzi: @CBlengio ha skippato la mia domanda sulla sospensione
-copyright
-
-- @Ale_Cannone: occhio alle 50enni mature lol divertimento a
-
-- @EmaParrinello: bellissima lezione! A mercoledì prossimo
-
-- @Carrattrezzi: Vi fidate della vostra cronologia del browser tanto da
-portarla in tribunale? ccleaner
 
 ## 2013-05-29
 
