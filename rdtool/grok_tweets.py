@@ -131,8 +131,10 @@ def process_tweet(accounts, timest, account, text):
     """ Process a tweet """
 
     links = []
-    handles = [account]
+    handles = []
     tags = []
+    if account in accounts:
+        handles.append(account)
     analyze_tweet(accounts, text, links, handles, tags)
 
     index = subr_prompt.select_one("handle", handles)
@@ -161,7 +163,7 @@ def process_tweet(accounts, timest, account, text):
 def filter_tweet(accounts, tweet):
     """ Filter a tweet """
 
-    sys.stdout.write("\n")
+    sys.stdout.write("\n\n\n")
     for line in textwrap.wrap(tweet):
         sys.stdout.write("    %s\n" % line)
     sys.stdout.write("\n")
