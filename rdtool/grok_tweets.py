@@ -80,7 +80,7 @@ def tweet_text(tweet):
         return
     return tweet[index + 1:].strip()
 
-def analyze_tweet(accounts, text, links, handles, tags):
+def analyze_tweet(students, text, links, handles, tags):
     """ Analyze tweet text and fill links, handles and tags """
 
     text = text.replace("http://t.co/", "__t_c_o__")
@@ -99,7 +99,7 @@ def analyze_tweet(accounts, text, links, handles, tags):
             links.append(elem)
         elif elem.startswith("@"):
             elem = elem.lower()
-            if elem[1:] in accounts:
+            if elem[1:] in students:
                 handles.append(elem)
         elif elem.startswith("#"):
             elem = elem.lower()
@@ -127,22 +127,22 @@ def save_tweet(timest, student, real_link, bodyvec):
         filep.write(chunk)
     filep.close()
 
-def process_tweet(accounts, timest, account, text):
+def process_tweet(students, timest, account, text):
     """ Process a tweet """
 
     links = []
     handles = []
     tags = []
-    if account in accounts:
+    if account in students:
         handles.append(account)
-    analyze_tweet(accounts, text, links, handles, tags)
+    analyze_tweet(students, text, links, handles, tags)
 
     index = subr_prompt.select_one("handle", handles)
     if index < 0:
         return
     handle = handles[index]
     handle = handle[1:]  # Skip either @ or #
-    student = accounts[handle]
+    student = students[handle]
 
     index = subr_prompt.select_one("link", links)
     if index < 0:
@@ -160,7 +160,7 @@ def process_tweet(accounts, timest, account, text):
 
     save_tweet(timest, student, real_link, bodyvec)
 
-def filter_tweet(accounts, tweet):
+def filter_tweet(students, tweet):
     """ Filter a tweet """
 
     sys.stdout.write("\n\n\n")
@@ -189,7 +189,7 @@ def filter_tweet(accounts, tweet):
     if not subr_prompt.prompt_yes_no("Process this tweet?"):
         return
 
-    process_tweet(accounts, timest, account, text)
+    process_tweet(students, timest, account, text)
 
 def main():
     """ Main function """
@@ -208,8 +208,8 @@ def main():
     logging.basicConfig(level=level, format="%(message)s")
 
     logging.info("grok_tweets: open config file...")
-    filep = open("etc/twitter.json", "r")
-    accounts = json.load(filep)
+    filep = open("etc/twitter/students.json", "r")
+    students = json.load(filep)
     filep.close()
     logging.info("grok_tweets: open config file... done")
 
@@ -222,7 +222,7 @@ def main():
                 if not vector:
                     continue
                 tweet = " ".join(vector)
-                filter_tweet(accounts, tweet)
+                filter_tweet(students, tweet)
                 vector = []
                 continue
             vector.append(line)
