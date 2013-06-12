@@ -23,9 +23,11 @@ import getopt
 import json
 import logging
 import os
+import random
 import re
 import sys
 import textwrap
+import time
 
 if __name__ == "__main__":
     sys.path.insert(0, ".")
@@ -134,6 +136,9 @@ def analyze_tweet(students, text, links, handles, tags):
 def save_tweet(timest, student, real_link, bodyvec):
     """ Save a tweet """
 
+    # Pause a bit before the download so we sleep in any case
+    time.sleep(random.random() + 0.5)
+
     bitlink = subr_bitly.shorten(real_link[0])
     bitlink = bitlink.replace("http://bit.ly/", "")
     bitlink = bitlink.replace("https://bit.ly/", "")
@@ -182,6 +187,9 @@ def process_tweet(students, blogs, timest, account, text):
         return
     link = links[index]
 
+    # Pause a bit before the download so we sleep in any case
+    time.sleep(random.random() + 0.5)
+
     bodyvec = []
     real_link = []
     result = subr_http.retrieve("http", "t.co", link, bodyvec, real_link)
@@ -201,8 +209,8 @@ def process_tweet(students, blogs, timest, account, text):
     if index >= 0:
         real_link[0] = real_link[0][:index]
 
-    if not subr_prompt.prompt_yes_no("Save content of <%s>?" % real_link[0]):
-        return
+#   if not subr_prompt.prompt_yes_no("Save content of <%s>?" % real_link[0]):
+#       return
 
     save_tweet(timest, student, real_link, bodyvec)
 
@@ -223,8 +231,8 @@ def really_filter_tweet(students, blogs, timest, account, text):
         logging.warning("grok_tweets: skip old tweet")
         return
 
-    if not subr_prompt.prompt_yes_no("Process this tweet?"):
-        return
+#   if not subr_prompt.prompt_yes_no("Process this tweet?"):
+#       return
 
     process_tweet(students, blogs, timest, account, text)
 
