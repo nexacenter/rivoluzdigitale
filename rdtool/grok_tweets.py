@@ -131,19 +131,19 @@ def analyze_tweet(students, text, links, handles, tags):
 def save_tweet(timest, student, real_link, bodyvec):
     """ Save a tweet """
 
-    dirpath = os.sep.join(["blog", student, "%04d-%02d-%02d" % (
-      timest[0], timest[1], timest[2])])
-    subr_misc.mkdir_recursive_idempotent(dirpath)
-
     bitlink = subr_bitly.shorten(real_link[0])
     bitlink = bitlink.replace("http://bit.ly/", "")
     bitlink = bitlink.replace("https://bit.ly/", "")
 
-    filepath = os.sep.join([dirpath, bitlink + ".html"])
-
-    if os.path.exists(filepath):
-        logging.warning("grok_tweets: filepath already exists")
+    dirpath = os.sep.join(["blog", student, bitlink])
+    if os.path.isdir(dirpath):
+        logging.warning("grok_tweets: dup <%s>; skip", dirpath)
         return
+
+    subr_misc.mkdir_recursive_idempotent(dirpath)
+
+    filepath = os.sep.join([dirpath, "%04d-%02d-%02d.html" % (
+      timest[0], timest[1], timest[2])])
 
     filep = open(filepath, "w")
     for chunk in bodyvec:
