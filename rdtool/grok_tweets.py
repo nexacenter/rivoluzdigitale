@@ -55,6 +55,28 @@ def tweet_ctime(tweet):
     when = tweet[1:index]
     return email.utils.parsedate(when)
 
+def tweet_id(tweet):
+    """ Get the identifier of the tweet """
+    index = tweet.find("<")
+    if index == -1:
+        logging.warning("grok_tweets: invalid tweet: %s", tweet)
+        return
+    tweet = tweet[index + 1:]
+    index = tweet.find(">")
+    if index == -1:
+        logging.warning("grok_tweets: invalid tweet: %s", tweet)
+        return
+    tweet = tweet[:index]
+    if not tweet.startswith("https://twitter.com/"):
+        logging.warning("grok_tweets: invalid tweet: %s", tweet)
+        return
+    index = tweet.find("/status/")
+    if index == -1:
+        logging.warning("grok_tweets: invalid tweet: %s", tweet)
+        return
+    tweet = tweet[index + len("/status/"):]
+    return int(tweet)
+
 def tweet_account(tweet):
     """ Get the account that generated the tweet """
     index = tweet.find(">")
@@ -181,8 +203,36 @@ def filter_tweet(students, blogs, tweet):
     sys.stdout.write("\n")
 
     timest = tweet_ctime(tweet)
+    twid = tweet_id(tweet)
     account = tweet_account(tweet)
     text = tweet_text(tweet)
+
+    statedir = os.sep.join([os.environ.get("HOME", "/"), ".grok_tweets"])
+    statefile = os.sep.join([statedir, account[1:]])
+
+    prev = 0
+    if os.path.isfile(statefile):
+        filep = open(statefile, "r")
+        data = filep.read()
+        filep.close()
+        try:
+            prev = int(data.strip())
+        except ValueError:
+            pass
+
+    if twid > prev:
+        really_filter_tweet(students, blogs, timest, account, text)
+
+        if os.path.isdir(statedir):
+            filep = open(statefile, "w")
+            data = filep.write(str(twid))
+            filep.close()
+
+    else:
+        logging.warning("grok_tweets: old tweet <%d>; skip", twid)
+
+def really_filter_tweet(students, blogs, timest, account, text):
+    """ Really filter a tweet """
 
     if text.startswith("RT "):
         logging.warning("grok_tweets: skip RT")
