@@ -13,7 +13,7 @@ License: CC BY-SA 3.0 Unported
 - [05 Giugno 2013](#2013-06-05) {work in progress: Fausto Conigliaro}
 - [31 Maggio 2013](#2013-05-31) {work in progress: Sebastiano Franchina}
 - [29 Maggio 2013](#2013-05-29) {rivista da: Davide Palermo}
-- [24 Maggio 2013](#2013-05-24)
+- [24 Maggio 2013](#2013-05-24) {work in progress: Sebastiano Franchina}
 - [22 Maggio 2013](#2013-05-22) {rivista da: Cristian Quadro}
 - [17 Maggio 2013](#2013-05-17)
 - [15 Maggio 2013](#2013-05-15)
