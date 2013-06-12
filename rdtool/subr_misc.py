@@ -52,7 +52,7 @@ def mkdir_recursive_idempotent(path):
     while pathv:
         entry = pathv.popleft()
         if not entry:
-            continue
+            entry = "/"  # XXX
         if curpath:
             curpath += os.sep
         curpath += entry
