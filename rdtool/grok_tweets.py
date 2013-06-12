@@ -156,7 +156,7 @@ def process_tweet(students, blogs, timest, account, text):
     links = []
     handles = []
     tags = []
-    if account in students:
+    if account[1:] in students:  # handles do not start with @
         handles.append(account)
     analyze_tweet(students, text, links, handles, tags)
 
