@@ -108,6 +108,9 @@ def analyze_tweet(students, text, links, handles, tags):
 
     text = text.replace("http://t.co/", "__t_c_o__")
     text = text.replace("https://t.co/", "__t_c_o__")
+    text = text.replace("(", " ")
+    text = text.replace(")", " ")
+    text = text.replace(";", " ")
     text = text.replace(",", " ")
     text = text.replace(".", " ")
     text = text.replace(":", " ")
