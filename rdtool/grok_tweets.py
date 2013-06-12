@@ -28,6 +28,7 @@ import re
 import sys
 import textwrap
 import time
+import urlparse
 
 if __name__ == "__main__":
     sys.path.insert(0, ".")
@@ -212,6 +213,11 @@ def process_tweet(prefix, students, blogs, timest, account, text):
         return
     if base_url not in real_link[0]:
         logging.warning("grok_tweets: foreign link <%s>; skip", real_link[0])
+        return
+
+    parsed = urlparse.urlsplit(real_link[0])
+    if not parsed[2] or parsed[2] == "/":
+        logging.warning("grok_tweets: homepage link <%s>; skip", real_link[0])
         return
 
     # Otherwise there are cases of duplicate posts
