@@ -210,9 +210,6 @@ def process_tweet(students, blogs, timest, account, text):
     if index >= 0:
         real_link[0] = real_link[0][:index]
 
-#   if not subr_prompt.prompt_yes_no("Save content of <%s>?" % real_link[0]):
-#       return
-
     save_tweet(timest, student, real_link, bodyvec)
 
 def really_filter_tweet(students, blogs, timest, account, text):
@@ -231,9 +228,6 @@ def really_filter_tweet(students, blogs, timest, account, text):
     if timest[0] != 2013 or timest[1] != 6:
         logging.warning("grok_tweets: skip old tweet")
         return
-
-#   if not subr_prompt.prompt_yes_no("Process this tweet?"):
-#       return
 
     process_tweet(students, blogs, timest, account, text)
 
