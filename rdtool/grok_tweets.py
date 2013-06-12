@@ -234,10 +234,6 @@ def really_filter_tweet(prefix, students, blogs, timest, account, text):
         logging.warning("grok_tweets: does not include links; skip")
         return
 
-    if timest[0] != 2013 or timest[1] != 6:
-        logging.warning("grok_tweets: skip old tweet")
-        return
-
     process_tweet(prefix, students, blogs, timest, account, text)
 
 def filter_tweet(prefix, students, blogs, tweet):
