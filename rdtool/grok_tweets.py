@@ -172,6 +172,7 @@ def process_tweet(students, blogs, timest, account, text):
         handles.append(account)
     analyze_tweet(students, text, links, handles, tags)
 
+    handles = list(set(handles))  # collapse duplicates, if needed
     index = subr_prompt.select_one("handle", handles)
     if index < 0:
         return
