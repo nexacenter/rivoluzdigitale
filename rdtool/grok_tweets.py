@@ -189,6 +189,11 @@ def process_tweet(students, blogs, timest, account, text):
         logging.warning("grok_tweets: foreign link <%s>; skip", real_link[0])
         return
 
+    # Otherwise there are cases of duplicate posts
+    index = real_link[0].rfind("?")
+    if index >= 0:
+        real_link[0] = real_link[0][:index]
+
     if not subr_prompt.prompt_yes_no("Save content of <%s>?" % real_link[0]):
         return
 
