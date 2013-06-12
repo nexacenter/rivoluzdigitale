@@ -26,7 +26,7 @@ def prompt_range(prompt, minimum, maximum):
 
     while True:
         sys.stdout.write(prompt)
-        sys.stdout.write(" (%d-%d)? [%d] " % (minimum, maximum, minimum))
+        sys.stdout.write(" (%d-%d)? [skip] " % (minimum, maximum))
         sys.stdout.flush()
 
         line = sys.stdin.readline()
@@ -36,7 +36,7 @@ def prompt_range(prompt, minimum, maximum):
 
         line = line.strip()
         if not line:
-            return minimum
+            return -1
 
         try:
             number = int(line)

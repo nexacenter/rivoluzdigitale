@@ -37,6 +37,8 @@ from rdtool import subr_http
 from rdtool import subr_misc
 from rdtool import subr_prompt
 
+DEFERRED_TWEETS = []
+
 #
 # [Wed May 15 14:18:49 +0000 2013]
 # <https://twitter.com/arduinoallinclu/status/334674230635548672>
@@ -176,6 +178,9 @@ def process_tweet(students, blogs, timest, account, text):
     handles = list(set(handles))  # collapse duplicates, if needed
     index = subr_prompt.select_one("handle", handles)
     if index < 0:
+        logging.warning("grok_tweets: deferring decision")
+        tweet = ": ".join([account, text])
+        DEFERRED_TWEETS.append(tweet)
         return
     handle = handles[index]
     handle = handle[1:]  # Skip either @ or #
@@ -186,6 +191,9 @@ def process_tweet(students, blogs, timest, account, text):
 
     index = subr_prompt.select_one("link", links)
     if index < 0:
+        logging.warning("grok_tweets: deferring decision")
+        tweet = ": ".join([account, text])
+        DEFERRED_TWEETS.append(tweet)
         return
     link = links[index]
 
@@ -319,6 +327,14 @@ def main():
                 vector = []
                 continue
             vector.append(line)
+
+    if DEFERRED_TWEETS:
+        sys.stdout.write("\n\n\n====== BEGIN DEFERRED TWEETS ======\n\n")
+        for tweet in DEFERRED_TWEETS:
+            for line in textwrap.wrap(tweet):
+                sys.stdout.write("    %s\n" % line)
+            sys.stdout.write("\n")
+        sys.stdout.write("====== END DEFERRED TWEETS ======\n\n")
 
 if __name__ == "__main__":
     main()
