@@ -352,12 +352,13 @@ func (self TwitterBot) GetFollowers() ([]byte, error) {
     return body, nil
 }
 
-func (self TwitterBot) GetTweets() ([]byte, error) {
+func (self TwitterBot) GetTweets(user string) ([]byte, error) {
     const uri = "https://api.twitter.com/1.1/statuses/user_timeline.json"
     params := map[string]string{
         "count": "200",
-        "screen_name": self.config["twitterHandle"],
-        "trim_user": "1",
+        "screen_name": user,
+        //"trim_user": "1",
+        //"max_id": "315451926944833537",
     }
     accessToken := &oauth.AccessToken{
         Token: self.config["accessToken"],
@@ -460,7 +461,6 @@ func (TwitterBot) JsonProcessTweets(data []byte) error {
         created_at := ""
         id_str := ""
         text:= ""
-        userid := ""
         screen_name := ""
 
         tweet := slice[i].(map[string]interface{})
@@ -476,7 +476,7 @@ func (TwitterBot) JsonProcessTweets(data []byte) error {
                 user := opaque.(map[string]interface{})
                 for ukey, uopaque := range user {
                     if ukey == "id_str" {
-                        userid = uopaque.(string)  /* XXX Unsafe cast */
+                        //userid = uopaque.(string)  /* XXX Unsafe cast */
                     } else if ukey == "screen_name" {
                         screen_name = uopaque.(string)  /* XXX Unsafe cast */
                     }
@@ -484,7 +484,7 @@ func (TwitterBot) JsonProcessTweets(data []byte) error {
             }
         }
 
-        if true {
+        if false {
             if strings.Contains(text, "RT @") {
                 continue
             }
@@ -497,8 +497,7 @@ func (TwitterBot) JsonProcessTweets(data []byte) error {
             }
             _, err = fmt.Printf("- @%s: %s\n\n", screen_name, text)
         } else {
-            _, err = fmt.Printf("[%s] <%s> by (%s) - @%s: %s\n\n", created_at,
-                                id_str, userid, screen_name, text)
+            _, err = fmt.Printf("[%s] <https://twitter.com/%s/status/%s> @%s: %s\n\n", created_at, screen_name, id_str, screen_name, text)
         }
         if err != nil {
             return err
@@ -580,7 +579,7 @@ func (self TwitterBot) SearchRealtime() ([]byte, error) {
 
 func usage() {
     fmt.Fprintf(os.Stderr, "usage: twitter_bot --get-friends\n")
-    fmt.Fprintf(os.Stderr, "       twitter_bot --get-tweets\n")
+    fmt.Fprintf(os.Stderr, "       twitter_bot --get-tweets handle\n")
     fmt.Fprintf(os.Stderr, "       twitter_bot --get-mentions\n")
     fmt.Fprintf(os.Stderr, "       twitter_bot --follow handle...\n")
     fmt.Fprintf(os.Stderr, "       twitter_bot --search [--realtime]\n")
@@ -623,7 +622,7 @@ func main() {
         }
 
     } else if os.Args[1] == "--get-tweets" {
-        body, err := twitterbot.GetTweets()
+        body, err := twitterbot.GetTweets(os.Args[2])
         if err != nil {
             log.Fatal(err)
         }
