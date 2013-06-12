@@ -171,17 +171,17 @@ def filter_tweet(accounts, tweet):
     text = tweet_text(tweet)
 
     if text.startswith("RT "):
-        logging.info("grok_tweets: skip RT")
+        logging.warning("grok_tweets: skip RT")
         return
     if "@rivoluzdigitale" not in text.lower():
-        logging.info("grok_tweets: does not mention @RivoluzDigitale; skip")
+        logging.warning("grok_tweets: does not mention @RivoluzDigitale; skip")
         return
     if not "t.co/" in text.lower():
-        logging.info("grok_tweets: does not include links; skip")
+        logging.warning("grok_tweets: does not include links; skip")
         return
 
     if timest[0] != 2013 or timest[1] != 6:
-        logging.info("grok_tweets: skip old tweet")
+        logging.warning("grok_tweets: skip old tweet")
         return
 
     if not subr_prompt.prompt_yes_no("Process this tweet?"):
