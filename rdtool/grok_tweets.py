@@ -135,6 +135,10 @@ def save_tweet(timest, student, real_link, bodyvec):
     bitlink = bitlink.replace("http://bit.ly/", "")
     bitlink = bitlink.replace("https://bit.ly/", "")
 
+    if not re.search("^[A-Za-z0-9]+$", bitlink):
+        logging.warning("grok_tweets: invalid bitlink <%s>; skip", bitlink)
+        return
+
     dirpath = os.sep.join(["blog", student, bitlink])
     if os.path.isdir(dirpath):
         logging.warning("grok_tweets: dup <%s>; skip", dirpath)
