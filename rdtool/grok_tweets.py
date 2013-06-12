@@ -203,6 +203,15 @@ def filter_tweet(students, blogs, tweet):
 
     process_tweet(students, blogs, timest, account, text)
 
+def filter_tweet_safe(students, blogs, tweet):
+    """ Filter a tweet """
+    try:
+        filter_tweet(students, blogs, tweet)
+    except KeyboardInterrupt:
+        sys.exit(1)
+    except:
+        raise
+
 def main():
     """ Main function """
 
@@ -239,7 +248,7 @@ def main():
                 tweet = " ".join(vector)
                 tweet = re.sub(r"[\0-\31]", " ", tweet)
                 tweet = re.sub(r"[\x7f-\xff]", " ", tweet)
-                filter_tweet(students, blogs, tweet)
+                filter_tweet_safe(students, blogs, tweet)
                 vector = []
                 continue
             vector.append(line)
