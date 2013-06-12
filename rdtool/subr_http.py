@@ -152,7 +152,7 @@ def retrieve(schema, site, page, bodyvec, real_link, noisy=0):
 
         logging.info("* reading body...")
         total = 0
-        bodyvec = []
+        del bodyvec[:]
         while total <= MAXBODY:
             piece = response.read(MAXPIECE)
             if not piece:
