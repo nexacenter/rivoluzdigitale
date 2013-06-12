@@ -121,14 +121,86 @@ def parse_content_type(ctype):
         encoding = None
     return ctype, encoding
 
+def retrieve(schema, site, page, bodyvec, real_link, noisy=0):
+    """ Retrieve page from site using schema and saving the body chunks
+        into bodyvec, possibly being noisy """
+
+    for _ in range(10):
+        del real_link[:]
+        real_link.append(schema + "://" + site + page)
+
+        logging.info("")
+        logging.info("* Connect %s using %s...", site, schema)
+        if schema == "https":
+            connection = httplib.HTTPSConnection(site)
+        else:
+            connection = httplib.HTTPConnection(site)
+        connection.set_debuglevel(noisy)
+
+        logging.info("> GET %s HTTP/1.1", page)
+        connection.putrequest("GET", page)
+        logging.info("> Connection: close")
+        connection.putheader("Connection", "close")
+        logging.info(">")
+        connection.endheaders()
+
+        response = connection.getresponse()
+        logging.info("< HTTP/1.1 %d %s", response.status, response.reason)
+        for header, value in response.getheaders():
+            logging.info("< %s: %s", header, value)
+        logging.info("<")
+
+        logging.info("* reading body...")
+        total = 0
+        bodyvec = []
+        while total <= MAXBODY:
+            piece = response.read(MAXPIECE)
+            if not piece:
+                break
+            bodyvec.append(piece)
+            total += len(piece)
+        connection.close()
+        if total > MAXBODY:
+            logging.warning("subr_http: reading body... too large")
+            return -1
+        logging.info("* reading body... %d bytes", total)
+
+        if response.status == 301 or response.status == 302:
+            location = response.getheader("Location")
+            if not location:
+                logging.warning("subr_http: missing location header")
+                return -1
+            logging.info("subr_http: redirected to %s", location)
+            parsed = urlparse.urlsplit(location)
+            schema = parsed[0]
+            if parsed[1]:
+                site = parsed[1]
+            if parsed[2]:
+                page = parsed[2]
+                if parsed[4]:
+                    page += "?"
+                    page += parsed[4]
+            continue
+
+        if response.status != 200:
+            logging.warning("subr_http: bad status: %d", response.status)
+        return response.status
+
+    logging.warning("subr_http: too many redirections")
+    return -1
+
 if __name__ == "__main__":
-    logging.getLogger().setLevel(logging.DEBUG)
+    logging.basicConfig(level=logging.DEBUG, format="%(message)s")
+    if len(sys.argv) == 4:
+        retrieve(sys.argv[1], sys.argv[2], sys.argv[3], [], [])
+        sys.exit(0)
     if len(sys.argv) == 3:
-        fetch(sys.argv[1], sys.argv[2], noisy=1)
+        fetch(sys.argv[1], sys.argv[2])
         sys.exit(0)
     if len(sys.argv) == 2:
-        fetch_url(sys.argv[1], noisy=1)
+        fetch_url(sys.argv[1])
         sys.exit(0)
-    sys.stderr.write("usage: subr_http site path\n")
+    sys.stderr.write("usage: subr_http schema site page\n")
+    sys.stderr.write("       subr_http site path\n")
     sys.stderr.write("       subr_http url\n")
     sys.exit(1)
