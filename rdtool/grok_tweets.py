@@ -127,7 +127,7 @@ def save_tweet(timest, student, real_link, bodyvec):
         filep.write(chunk)
     filep.close()
 
-def process_tweet(students, timest, account, text):
+def process_tweet(students, blogs, timest, account, text):
     """ Process a tweet """
 
     links = []
@@ -142,7 +142,10 @@ def process_tweet(students, timest, account, text):
         return
     handle = handles[index]
     handle = handle[1:]  # Skip either @ or #
-    student = students[handle]
+    student = students.get(handle)
+    if not student:
+        logging.warning("grok_tweets: cannot find student from %s", handle)
+        return
 
     index = subr_prompt.select_one("link", links)
     if index < 0:
@@ -155,12 +158,20 @@ def process_tweet(students, timest, account, text):
     if result != 200:
         return
 
+    base_url = blogs[handle]
+    if not base_url:
+        logging.warning("grok_tweets: cannot find url from %s", handle)
+        return
+    if base_url not in real_link[0]:
+        logging.warning("grok_tweets: foreign link <%s>; skip", real_link[0])
+        return
+
     if not subr_prompt.prompt_yes_no("Save content of <%s>?" % real_link[0]):
         return
 
     save_tweet(timest, student, real_link, bodyvec)
 
-def filter_tweet(students, tweet):
+def filter_tweet(students, blogs, tweet):
     """ Filter a tweet """
 
     sys.stdout.write("\n\n\n")
@@ -189,7 +200,7 @@ def filter_tweet(students, tweet):
     if not subr_prompt.prompt_yes_no("Process this tweet?"):
         return
 
-    process_tweet(students, timest, account, text)
+    process_tweet(students, blogs, timest, account, text)
 
 def main():
     """ Main function """
@@ -207,11 +218,14 @@ def main():
 
     logging.basicConfig(level=level, format="%(message)s")
 
-    logging.info("grok_tweets: open config file...")
+    logging.info("grok_tweets: open config files...")
     filep = open("etc/twitter/students.json", "r")
     students = json.load(filep)
     filep.close()
-    logging.info("grok_tweets: open config file... done")
+    filep = open("etc/twitter/blogs.json", "r")
+    blogs = json.load(filep)
+    filep.close()
+    logging.info("grok_tweets: open config files... done")
 
     for argument in arguments:
         filep = open(argument, "r")
@@ -222,7 +236,7 @@ def main():
                 if not vector:
                     continue
                 tweet = " ".join(vector)
-                filter_tweet(students, tweet)
+                filter_tweet(students, blogs, tweet)
                 vector = []
                 continue
             vector.append(line)
