@@ -267,7 +267,8 @@ def filter_tweet(students, blogs, tweet):
 
         if os.path.isdir(statedir):
             filep = open(statefile, "w")
-            data = filep.write(str(twid))
+            filep.write(str(twid))
+            filep.write("\n")
             filep.close()
 
     else:
