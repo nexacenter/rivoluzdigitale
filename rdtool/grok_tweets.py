@@ -197,6 +197,8 @@ def main():
         options, arguments = getopt.getopt(sys.argv[1:], "v")
     except getopt.error:
         sys.exit("usage: grok_tweets [-v] file...")
+    if not arguments:
+        sys.exit("usage: grok_tweets [-v] file...")
     for name, _ in options:
         if name == "-v":
             level = logging.DEBUG
