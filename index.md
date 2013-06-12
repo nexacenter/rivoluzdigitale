@@ -1848,7 +1848,7 @@ ancora oggi, molti contribuiscono a migliorare.
 - Il Prof. Meo confida agli studenti di rivoluzione digitale dettagli della 
 vita di Stallman, della sua eccentricità, delle sue “fissazioni”.
  
--Meo fa un parallelismo tra Internet e la pesca miracolosa del Vangelo di 
+- Meo fa un parallelismo tra Internet e la pesca miracolosa del Vangelo di 
 Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo socio-
 economico perché funziona grazie alla collaborazione di più persone ed 
 alimenta la diffusione e la crescita della conoscenza. (Foto 
@@ -1864,7 +1864,7 @@ http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ.
 Comments). Messaggio “scriveteli nel cesso, ma scriveteli precisi e 
 chiari”.
  
--Perchè costruire tanti bit e poi pubblicarli gratis? Per far crescere la 
+- Perchè costruire tanti bit e poi pubblicarli gratis? Per far crescere la 
 conoscenza, questa deve essere libera. Bisogna pensare alla parola libero
 come “free spech” non come “free beer”.
  
