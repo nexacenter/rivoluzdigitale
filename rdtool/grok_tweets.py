@@ -23,6 +23,7 @@ import getopt
 import json
 import logging
 import os
+import re
 import sys
 import textwrap
 
@@ -236,6 +237,8 @@ def main():
                 if not vector:
                     continue
                 tweet = " ".join(vector)
+                tweet = re.sub(r"[\0-\31]", " ", tweet)
+                tweet = re.sub(r"[\x7f-\xff]", " ", tweet)
                 filter_tweet(students, blogs, tweet)
                 vector = []
                 continue
