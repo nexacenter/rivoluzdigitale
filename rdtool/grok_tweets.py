@@ -136,7 +136,7 @@ def analyze_tweet(students, text, links, handles, tags):
             elem = elem.lower()
             tags.append(elem)
 
-def save_tweet(timest, student, real_link, bodyvec):
+def save_tweet(prefix, timest, student, real_link, bodyvec):
     """ Save a tweet """
 
     # Pause a bit before the download so we sleep in any case
@@ -150,7 +150,7 @@ def save_tweet(timest, student, real_link, bodyvec):
         logging.warning("grok_tweets: invalid bitlink <%s>; skip", bitlink)
         return
 
-    dirpath = os.sep.join(["blog", student, bitlink])
+    dirpath = os.sep.join([prefix, student, bitlink])
     if os.path.isdir(dirpath):
         logging.warning("grok_tweets: dup <%s>; skip", dirpath)
         return
@@ -165,7 +165,7 @@ def save_tweet(timest, student, real_link, bodyvec):
         filep.write(chunk)
     filep.close()
 
-def process_tweet(students, blogs, timest, account, text):
+def process_tweet(prefix, students, blogs, timest, account, text):
     """ Process a tweet """
 
     links = []
@@ -219,9 +219,9 @@ def process_tweet(students, blogs, timest, account, text):
     if index >= 0:
         real_link[0] = real_link[0][:index]
 
-    save_tweet(timest, student, real_link, bodyvec)
+    save_tweet(prefix, timest, student, real_link, bodyvec)
 
-def really_filter_tweet(students, blogs, timest, account, text):
+def really_filter_tweet(prefix, students, blogs, timest, account, text):
     """ Really filter a tweet """
 
     if text.startswith("RT "):
@@ -238,9 +238,9 @@ def really_filter_tweet(students, blogs, timest, account, text):
         logging.warning("grok_tweets: skip old tweet")
         return
 
-    process_tweet(students, blogs, timest, account, text)
+    process_tweet(prefix, students, blogs, timest, account, text)
 
-def filter_tweet(students, blogs, tweet):
+def filter_tweet(prefix, students, blogs, tweet):
     """ Filter a tweet """
 
     sys.stdout.write("\n\n\n")
@@ -267,7 +267,7 @@ def filter_tweet(students, blogs, tweet):
             pass
 
     if twid > prev:
-        really_filter_tweet(students, blogs, timest, account, text)
+        really_filter_tweet(prefix, students, blogs, timest, account, text)
 
         if os.path.isdir(statedir):
             filep = open(statefile, "w")
@@ -278,10 +278,10 @@ def filter_tweet(students, blogs, tweet):
     else:
         logging.warning("grok_tweets: old tweet <%d>; skip", twid)
 
-def filter_tweet_safe(students, blogs, tweet):
+def filter_tweet_safe(prefix, students, blogs, tweet):
     """ Filter a tweet """
     try:
-        filter_tweet(students, blogs, tweet)
+        filter_tweet(prefix, students, blogs, tweet)
     except KeyboardInterrupt:
         sys.exit(1)
     except:
@@ -292,13 +292,16 @@ def main():
 
     level = logging.WARNING
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "v")
+        options, arguments = getopt.getopt(sys.argv[1:], "d:v")
     except getopt.error:
-        sys.exit("usage: grok_tweets [-v] file...")
+        sys.exit("usage: grok_tweets [-v] [-d directory] file...")
     if not arguments:
-        sys.exit("usage: grok_tweets [-v] file...")
-    for name, _ in options:
-        if name == "-v":
+        sys.exit("usage: grok_tweets [-v] [-d directory] file...")
+    prefix = "."
+    for name, value in options:
+        if name == "-d":
+            prefix = value
+        elif name == "-v":
             level = logging.DEBUG
 
     logging.basicConfig(level=level, format="%(message)s")
@@ -323,7 +326,7 @@ def main():
                 tweet = " ".join(vector)
                 tweet = re.sub(r"[\0-\31]", " ", tweet)
                 tweet = re.sub(r"[\x7f-\xff]", " ", tweet)
-                filter_tweet_safe(students, blogs, tweet)
+                filter_tweet_safe(prefix, students, blogs, tweet)
                 vector = []
                 continue
             vector.append(line)
