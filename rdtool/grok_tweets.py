@@ -118,6 +118,7 @@ def analyze_tweet(students, text, links, handles, tags):
     text = text.replace(":", " ")
     text = text.replace("!", " ")
     text = text.replace("\"", " ")
+    text = text.replace("/", " ")
     text = text.replace("__t_c_o__", "http://t.co/")  # Force http
     text = text.split()
 
