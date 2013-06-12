@@ -1808,189 +1808,143 @@ lesson! RivoluzDigitale
 
 ### Prof. Meo
 
-- @DavidePalermo2, @SoFranchy, @paolopopolizio, @andryamadio, 
-@EmaParrinello, @VadimCujba, @_FedericoConte, @BoggioMattia, 
-@venadavide: @demartin presenta il Prof. Angelo Raffaele Meo 
-(http://t.co/xfCf0yVnAG) che ci parlerà di software libero e di Open Source.
-
-- @DavidePalermo2: Software libero e opensource di A. Meo File PDF
+#### Software libero
+ 
+-  @demartin presenta il Prof. Angelo Raffaele Meo 
+(http://t.co/xfCf0yVnAG) che ci parlerà di software libero e di Open 
+Source.
+ 
+- Software libero e opensource di A. Meo File PDF 
 http://t.co/ROn21rK02N
-
-- @DavidePalermo2, @SoFranchy, @MorenoLaQuatra: Il Prof. Meo ha 
-contribuito all’introduzione dell’Informatica in Italia.
-
-- @FabioBussi, @EmaParrinello, @paolopopolizio, @ripa_pepperipa, 
-@EmaParrinello: la storia del software libero affonda le sue radici
-nella storia della cultura Hacker. Un hacker è colui che accede ai
-sistemi informativi allo scopo di conoscere e non di rubare 
-informazioni o fare danni.
-
-- @venadavide, @ripa_pepperipa, @paolopopolizio, @FabioVallone: Si 
-parla di comunicazione tra hacker. Suit= ”abito da lavoro 
+ 
+- Il Prof. Meo ha contribuito all’introduzione dell’Informatica in Italia.
+ 
+- La storia del software libero affonda le sue radici nella storia della 
+cultura Hacker. Un hacker è colui che accede ai sistemi informativi allo 
+scopo di conoscere e non di rubare informazioni o fare danni.
+ 
+- Si parla di comunicazione tra hacker. Suit= ”abito da lavoro 
 generalmente scuro e scomodo”; SNAFU= “Va tutto bene” per non dire ai 
 capi, distanti dalla realtà, che “tutto va a puttane” 
 (http://t.co/iqRZaBehq5)
-
-- @DavidePalermo2, @FabioBussi, @ripa_pepperipa, @LucaLiuzzi, 
-@FabioVallone: Prof. Meo parla di Richard Stallman 
-http://t.co/5HTesSKvvH, fondatore della Free Software
-Foundation e principale esponente della parrocchia, dice Meo, del 
-software libero dal 1985: “Free software è una questione di libertà
-e non di prezzo” sostiene Stallman.
-
-- @FabioVallone, @venadavide, @DavidePalermo2, @_FedericoConte: Xerox 
-non vuole dare a Stallman la possibilità di ritoccare il software 
-della stampante. Si licenzia dal MIT e un nuovo sistema operativo: 
-GNU = “GNU is Not Unix”. 
-
-- @paolopopolizio, @ripa_pepperipa, @FabioVallone: Si parla di tipi di 
-licenze software. Si va da software nel pubblico dominio a software 
-proprietari. Vie di mezzo sono il copyleft e il copyright.
-
-- @DavidePalermo2, @FabioBussi, @venadavide, @LucaLiuzzi, @paolopopolizio, 
-@SoFranchy: Nel 1991 Linus Torvalds, studente di 
-Helsinki, crea GNU Linux, come piace chiamarlo a Stallman, sistema 
-operativo completamente libero che, ancora oggi, molti contribuiscono 
-a migliorare. 
-
-- @EricaAcire19, @EmaParrinello, @DavidePalermo2: Il Prof. Meo 
-confida agli studenti di rivoluzione digitale dettagli della vita di 
-Stallman, della sua eccentricità, delle sue “fissazioni”.
-
-- @FabioBussi, @enricoiucci, @MarcoViccica, @paolopopolizio, 
-@SoFranchy: Internet e il SW libero sono uno un capitolo dell’altro
-
-- @DavidePalermo2, @SoFranchy, @FabioBussi, @FabioVallone: Meo fa un 
-parallelismo tra Internet e la pesca miracolosa del Vangelo di 
-Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo 
-socio-economico perché funziona grazie alla collaborazione di più 
-persone ed alimenta la diffusione e la crescita della conoscenza. 
-(Foto http://t.co/WOLQyMMutq)
-
-
-- @paolopopolizio, @enricoiucci, @SoFranchy, @_FedericoConte,
-@DavidePalermo2, @Ale_Cannone, @ripa_pepperipa, @BoggioMattia, 
-@EmaParrinello, @_FedericoConte: Meo: “Se il DNA è la più grande 
-scoperta dell’uomo, Internet è la sua più grande invenzione”. 
-Internet realizza la diffusione della conoscenza in modo libero 
-(liberi devono essere la partecipazione, le idee, il codice), regola 
-principale della IETF (Internet Engineering Task Force) 
+ 
+- Prof. Meo parla di Richard Stallman http://t.co/5HTesSKvvH, fondatore 
+della Free Software Foundation e principale esponente della parrocchia, 
+dice Meo, del software libero dal 1985: “Free software è una questione 
+di libertà e non di prezzo” sostiene Stallman.
+ 
+- Xerox non vuole dare a Stallman la possibilità di ritoccare il software 
+della stampante. Si licenzia dal MIT e un nuovo sistema operativo: GNU = 
+“GNU is Not Unix”. 
+ 
+- Si parla di tipi di licenze software. Si va da software nel pubblico 
+dominio a software proprietari. Vie di mezzo sono il copyleft e il 
+copyright.
+ 
+- Nel 1991 Linus Torvalds, studente di Helsinki, crea GNU Linux, come 
+piace chiamarlo a Stallman, sistema operativo completamente libero che,
+ancora oggi, molti contribuiscono a migliorare. 
+ 
+- Il Prof. Meo confida agli studenti di rivoluzione digitale dettagli della 
+vita di Stallman, della sua eccentricità, delle sue “fissazioni”.
+ 
+-Meo fa un parallelismo tra Internet e la pesca miracolosa del Vangelo di 
+Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo socio-
+economico perché funziona grazie alla collaborazione di più persone ed 
+alimenta la diffusione e la crescita della conoscenza. (Foto 
+http://t.co/WOLQyMMutq)
+ 
+- Meo: “Se il DNA è la più grande scoperta dell’uomo, Internet è la sua 
+più grande invenzione”. Internet realizza la diffusione della conoscenza in
+modo libero (liberi devono essere la partecipazione, le idee, il codice), 
+regola principale della IETF (Internet Engineering Task Force) 
 http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ.
-
-- @FabioVallone Internet è basato su documenti scientifici chiamati 
-RFC (Request For Comments. Messaggio “scriveteli nel cesso, ma 
-scriveteli precisi e chiari”.
-
-- @FabioBussi, @paolopopolizio, @LorenzoCutelle, @Clerish: Perchè 
-costruire tanti bit e poi pubblicarli gratis? Per far crescere la 
-conoscenza, questa deve essere libera. Bisogna pensare alla parola 
-libero come “free spech” non come “free beer”.
-
+ 
+- Internet è basato su documenti scientifici chiamati RFC (Request For 
+Comments). Messaggio “scriveteli nel cesso, ma scriveteli precisi e 
+chiari”.
+ 
+-Perchè costruire tanti bit e poi pubblicarli gratis? Per far crescere la 
+conoscenza, questa deve essere libera. Bisogna pensare alla parola libero
+come “free spech” non come “free beer”.
+ 
 - Qualche tempo fa Google decise di aprire un capitolo dedicato al 
 software libero e si accorse di dover creare 100 milioni di pagine.
-
-- @DavidePalermo2, @paolopopolizio, @Carrattrezzi, @VadimCujba: 
-Source Forge: il primo sito in ambito di distribuzione di software 
-libero. 2,7 milioni di sviluppatori si impegnano a creare nuovi 
-software liberi ed al giorno vengono effettuati 2 milioni di download 
-degli stessi.
-
-- @LucaLiuzzi, @SabryKarate: Sicuramente si andrà a dare un'occhiata 
-al corso di software libero del professore A. Meo. Si possono trovare 
-le slides "Software libero" by A. Meo usate nell'anno precedente sul 
-sito http://t.co/rru0WO1BcO
-
-- @MatteoMonta93: Software libero italiano: nel 2002 Lucio Stanca 
-formo una commissione, con a capo Meo, per indagare sui vantaggi del 
-software libero. 
-
-- @FabioVallone, @ripa_pepperipa, @FabioBussi, @paolopopolizio, 
-@Carrattrezzi, @Ale_Cannone: Microsoft disse che il costo totale di
-gestione del software (TCO - Total Cost of Ownership, http://t.co/ukTPuVV6Wg)
-era minore per il software proprietario rispetto al software libero.
-Si rispose dicendo che, fosse anche stato vero, i soldi delle licenze 
-andavano all’estero mentre quelli di manutenzione restavano in Italia.
-
-- @FabioVallone, @_FedericoConte, @Rexsimo893, @enricoiucci, 
-@paolopopolizio: Microsoft disse che rendendo disponibili i sorgenti 
-avrebbe comportato meno sicurezza. In realta', la STO (Security
-Through Obscurity) e' una tecnica per garantire la sicurezza abbastanza
-deprecata. Nella comnunita' crittografica, infatti, l'idea di base
-e' quella di avere algoritmi pubblici e codice pubblico, e sicurezza
-che si realizza tenendo segrete le chiavi. L'idea di base e' che un
-algoritmo e' tanto piu' robusto quanti piu' esperti crittoanalisti
-lo hanno rivisto e hanno provato ad attaccarlo; cosa che non e'
-possibile fare se il sorgente e' chiuso.
-
-- @DavidePalermo2: Meo cita il principio di Kerckhoffs per un 
-parallelismo con STO: tentare di nascondere le cose agli hacker è 
-come tentare di farlo con le donne.
+ 
+- Source Forge: il primo sito in ambito di distribuzione di software libero. 
+2,7 milioni di sviluppatori si impegnano a creare nuovi software liberi ed 
+al giorno vengono effettuati 2 milioni di download degli stessi.
+ 
+- Sicuramente si andrà a dare un'occhiata al corso di software libero del 
+professore A. Meo. Si possono trovare le slides "Software libero" by A. 
+Meo usate nell'anno precedente sul sito http://t.co/rru0WO1BcO
+ 
+- Software libero italiano: nel 2002 Lucio Stanca, ministro del governo 
+Berlusconi,  formo’ una commissione, con a capo Meo, per indagare sui 
+vantaggi del software libero. 
+ 
+- Microsoft disse che il costo totale di gestione del software (TCO - Total 
+Cost of Ownership, http://t.co/ukTPuVV6Wg) era minore per il software 
+proprietario rispetto al software libero. Si rispose dicendo che, fosse 
+anche stato vero, i soldi delle licenze andavano all’estero mentre quelli di
+manutenzione restavano in Italia. 
+ 
+- Microsoft disse che rendendo disponibili i sorgenti avrebbe comportato 
+meno sicurezza. In realta', la STO (Security Through Obscurity) e' una 
+tecnica per garantire la sicurezza abbastanza deprecata. Nella comnunita'
+crittografica, infatti, l'idea di base e' quella di avere algoritmi pubblici e 
+codice pubblico, e sicurezza che si realizza tenendo segrete le chiavi. 
+L'idea di base e' che un algoritmo e' tanto piu' robusto quanti piu' esperti
+crittoanalisti lo hanno rivisto e hanno provato ad attaccarlo; cosa che non 
+e' possibile fare se il sorgente e' chiuso.
+ 
+- Meo cita il principio di Kerckhoffs per un parallelismo con STO: tentare 
+di nascondere le cose agli hacker è come tentare di farlo con le donne. 
 http://t.co/fdnHzXAuj7 http://t.co/xtCewRmO3g
+ 
+- Era emerso, intanto, che dentro Windows NT c’erano due chiavi 
+crittografiche: MS-key e NSA-key. Si temeva ci fosse una backdoor.
+ 
+- Altro punto era organizzare progetti per la scuola e per la ricerca, 
+riguardanti il software libero.
+ 
+- Stanca indice una direttiva - dalla quale, in seguito , scaturì una legge 
+molto più addolcita - che prevedeva l’uso del software libero nella 
+pubblica amministrazione ed il salvataggio dei documenti e dei dati in più
+formati, dei quali almeno uno aperto.
+ 
+- Considerazioni sull’Italia: citando Wilde, “We live in a society who 
+knows the price of everything and the value of nothing”. “Il nostro è un 
+paese di leggi severissime temperate dalla loro inosservanza” Prof. Meo
+ 
+- Nella Pubblica Amministrazione, nonostante si pagassero 3 miliardi di 
+dollari (3G$) per le licenze dei software proprietari,  vere e proprie gare 
+comunitarie limitano l’uso del software libero: un esempio sono i vari siti 
+chiusi rispetto al browser.
+ 
+- Sale al governo Prodi e Luigi Nicolais istituisce una nuova commissione, 
+sempre presieduta dal Prof. Meo, ma il governo Prodi cade e “la 
+maledizione di B. Tutankhamon”, cosi’ piace definirla a Meo, fa 
+scomparire uomini e progetti dedicati alla ricerca per il software libero: il 
+ministro Brunetta si rifiuta di ricevere la commissione istituita dal suo 
+predecessore. http://t.co/9lDqTQXk50
+ 
+- Nell’estate del 2012 il Parlamento approva una legge secondo la quale 
+di “default” la Pubblica Amministrazione deve scegliere il software libero.
 
-- @BoggioMattia: Il software custom appartiene alla pubblica
-amministrazione
+ 
+- Ultimo atto del governo Monti, legato all’Agenda Italia Digitale, è 
+ripristinare la STO, rivedere il TCO e stabilire l’uso di formati aperti, 
+nonché degli standard in grado di garantire l’interoperabilità. 
 
-- @Carrattrezzi: We live in a society who knows the price of everything
-and the value of nothing (O.Wilde)
+- Ultima pillola di Meo sul software libero: “I deputati che vanno a 
+donnine sono meno dannosi della scelta di un software proprietario”: i 3 
+miliardi di dollari che si risparmierebbero sui costi delle licenze per i 
+software proprietari sono 10 volte di più di quanto si risparmierebbe con 
+il taglio dei parlamentari. Purtroppo bisognerebbe insegnare alle 
+segretarie, ad esempio, la nuova posizione della X per chiudere le 
+finestre.
 
-- @FabioVallone: Dentro Windows NT c'erano due chiavi crittografiche:
-Mskey, Nsakey; C'era paura di una backdoor
-
-- @DavidePalermo2: XML http://t.co/AFtIA783Ut
-
-- @DavidePalermo2: @SabryKarate ci fa notare come le slide che
-ora visualizziamo siano disponibili qui http://t.co/YGIsXY1aVi
-
-- @MorenoLaQuatra: Il nostro è un paese di leggi severissime temperate
-dalla loro inosservanza. cit. Prof. Meo
-
-- @FabioVallone: Ogni anno vengono persi circa 3 miliardi di $ per
-le licenze
-
-- @SimoneBleynat: I gigadollari (G$) sono geniali
-
-- @Rexsimo893: Alcuni siti sono chiusi anche rispetto al browser
-utilizzato per visualizzare le pagine -&gt; poca libertà
-
-- @PieMarzio: Si parla di software libero. Prof. Angelo Raffaele Meo
-http://t.co/6SSJOtHnhS
-
-- @DavidePalermo2: Si auto-commenta ;-) http://t.co/9lDqTQXk50
-
-- @FabioVallone: Con l'arrivo di "Brunetta" è arrivata la maledizione
-di Bill Tutancamon
-
-- @venadavide: http://t.co/NcfQDxuAmM
-
-- @Rexsimo893: Nell'estate scorsa il Parlamento ha approvato una legge
-che la scelta di default del software deve essere quello libero
-
-- @Carrattrezzi: La scelta di "default" della pubblica amministrazione
-deve essere il software libero. Legge dell'estate scorsa
-
-- @FabioVallone: A Brunetta non interessa il software libero e quindi
-non ha ricevuto la comunità del software libero...
-
-- @DavidePalermo2: http://t.co/3XLq8mtHKE Diventa Timeo Catricalam er
-dona ferentes :-)
-
-- @Ale_Cannone: 2012: con la legge 134/2012 la P.A. doveva adottare il
-software libero di default
-
-- @_FedericoConte: Legge 134/2012 : Nella Pubblica Amministrazione si
-adotti il software libero "by default"
-
-- @DavidePalermo2: I doni dei "Dona ferentes" legge 221/2012 by Monti
-http://t.co/36CO4zGGSw
-
-- @FabioBussi: con la legge 221 del 2012 il P.A. deve adottare per
-default il software libero
-
-- @FabioVallone: ...formati aperti...nonchè standard in grado di
-garantire l'interoperabilità... STO TCO questo prevede legge 221/2012
-
-- @Rexsimo893: Legge 221/2012: 1.TCO; 2.formati aperti e
-interoperabilità; 3.STO.
 
 #### Hardware libero
 
