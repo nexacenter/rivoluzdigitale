@@ -194,6 +194,16 @@ def process_tweet(prefix, students, blogs, timest, account, text):
         logging.warning("grok_tweets: cannot find student from %s", handle)
         return
 
+    # Expand links before possibly prompting the operator
+    new_links = []
+    for link in links:
+        expanded_link = []
+        result = subr_http.retrieve("HEAD", "http", "t.co", link, [],
+          expanded_link)
+        if result == 200:
+            new_links.append(expanded_link[0])
+    links = new_links
+
     index = subr_prompt.select_one("link", links)
     if index < 0:
         logging.warning("grok_tweets: deferring decision")
@@ -205,9 +215,11 @@ def process_tweet(prefix, students, blogs, timest, account, text):
     # Pause a bit before the download so we sleep in any case
     time.sleep(random.random() + 0.5)
 
+    parsed = urlparse.urlsplit(link)
     bodyvec = []
     real_link = []
-    result = subr_http.retrieve("GET", "http", "t.co", link, bodyvec, real_link)
+    result = subr_http.retrieve("GET", parsed[0], parsed[1], parsed[2],
+      bodyvec, real_link)
     if result != 200:
         return
 
