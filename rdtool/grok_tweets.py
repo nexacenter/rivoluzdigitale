@@ -181,18 +181,18 @@ def process_tweet(prefix, students, blogs, timest, account, text):
     analyze_tweet(students, text, links, handles, tags)
 
     handles = list(set(handles))  # collapse duplicates, if needed
-    index = subr_prompt.select_one("handle", handles)
-    if index < 0:
-        logging.warning("grok_tweets: deferring decision")
-        tweet = ": ".join([account, text])
-        DEFERRED_TWEETS.append(tweet)
-        return
-    handle = handles[index]
-    handle = handle[1:]  # Skip either @ or #
-    student = students.get(handle)
-    if not student:
-        logging.warning("grok_tweets: cannot find student from %s", handle)
-        return
+    for handle in handles:
+        handle = handle[1:]  # Skip either @ or #
+        student = students.get(handle)
+        if not student:
+            logging.warning("grok_tweets: cannot find student from %s", handle)
+            continue
+        process_student_tweet(prefix, blogs, timest, account, text, links,
+                               handle, student)
+
+def process_student_tweet(prefix, blogs, timest, account, text, links,
+                           handle, student):
+    """ Process a tweet from the point of view of one student """
 
     # Pause a bit before the download so we sleep in any case
     time.sleep(random.random() + 0.5)
