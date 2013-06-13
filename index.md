@@ -21,7 +21,7 @@ License: CC BY-SA 3.0 Unported
 - [08 Maggio 2013](#2013-05-08)
 - [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
 - [26 Aprile 2013](#2013-04-26)
-- [24 Aprile 2013](#2013-04-24) {work in progress: Davide Palermo}
+- [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
 - [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
 - [17 Aprile 2013](#2013-04-17)
 - [12 Aprile 2013](#2013-04-12)
