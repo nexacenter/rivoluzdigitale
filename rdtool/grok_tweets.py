@@ -40,6 +40,10 @@ from rdtool import subr_prompt
 
 DEFERRED_TWEETS = []
 
+SETTINGS = {
+            "force": False,
+           }
+
 #
 # [Wed May 15 14:18:49 +0000 2013]
 # <https://twitter.com/arduinoallinclu/status/334674230635548672>
@@ -259,7 +263,7 @@ def filter_tweet(prefix, students, blogs, tweet):
     statefile = os.sep.join([statedir, account[1:]])
 
     prev = 0
-    if os.path.isfile(statefile):
+    if not SETTINGS["force"] and os.path.isfile(statefile):
         filep = open(statefile, "r")
         data = filep.read()
         filep.close()
@@ -271,7 +275,7 @@ def filter_tweet(prefix, students, blogs, tweet):
     if twid > prev:
         really_filter_tweet(prefix, students, blogs, timest, account, text)
 
-        if os.path.isdir(statedir):
+        if not SETTINGS["force"] and os.path.isdir(statedir):
             filep = open(statefile, "w")
             filep.write(str(twid))
             filep.write("\n")
@@ -294,15 +298,17 @@ def main():
 
     level = logging.WARNING
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "d:v")
+        options, arguments = getopt.getopt(sys.argv[1:], "d:fv")
     except getopt.error:
-        sys.exit("usage: grok_tweets [-v] [-d directory] file...")
+        sys.exit("usage: grok_tweets [-fv] [-d directory] file...")
     if not arguments:
-        sys.exit("usage: grok_tweets [-v] [-d directory] file...")
+        sys.exit("usage: grok_tweets [-fv] [-d directory] file...")
     prefix = "."
     for name, value in options:
         if name == "-d":
             prefix = value
+        elif name == "-f":
+            SETTINGS["force"] = True
         elif name == "-v":
             level = logging.DEBUG
 
