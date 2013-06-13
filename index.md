@@ -4628,106 +4628,179 @@ non diventano troppi e la gestione diventa commerciale
 - @paolopopolizio: : ICANN: gestisce i server root del DNS a livello
 mondiale (13 DNS base sono protetti dal governo americano)
 
-
 ## 2013-05-10
 
 ### @VonGomben
 
-La lezione è stata tenuta da @VonGomben al Fablab di Torino. 
+La lezione è stata tenuta da @vongomben al Fablab di Torino. 
 
 Introduzione: 
 
-- le migliori tecnologie utilizzate sempre a scopo militare, per il
-frenetico bisogno dell'uomo di essere "potente"
+- le migliori tecnologie utilizzate sempre a scopo militare, per 
+il frenetico bisogno dell'uomo di essere "potente"
 
-- La lunga coda. Da un mercato di massa a una massa di mercati Pure
+- La lunga coda. Da un mercato di massa a una massa di mercati Pure 
 digital retailers Hybrid retailers Physical retailers
 
-- L'espressione coda lunga, in inglese The Long Tail Wikipedia
-http://t.co/nRJbHar2Ej
+- L'espressione coda lunga, in inglese The Long Tail Wikipedia 
+http://t.co/nRJbHar2Ej 
 
+ 
 Arduino:
+ 
+- Arduino è un progetto che nasce a Ivrea all'interno dell'Interaction
+ Design Institute of Ivrea.
 
-- Arduino è un progetto che nasce a Ivrea all'interno dell'Interaction Design Institute of Ivrea.
 - Arduino è una delle prime schede rilasciata con licenza Creative Commons.
-- Link ad articolo di Davide Gomba sulle Officine Arduino http://t.co/Xkht1Z04Hu
-- Esempio di progetto creato con arduino da un ragazzo del corso RD: http://t.co/qz0DvNjGtL
+
+- Link ad articolo di Davide Gomba sulle Officine Arduino 
+http://t.co/Xkht1Z04Hu
+
+- Esempio di progetto creato con arduino da un ragazzo del corso
+ RD: http://t.co/qz0DvNjGtL
+
 - Arduino è interamente Open Source
-- Si parla dei derivati e cloni di Arduino illustrando il tutto con un infografica
+
+- Si parla dei derivati e cloni di Arduino illustrando il tutto 
+con un infografica
+
 - In cina diverse fabbriche producono cloni di Arduino!
+
 - Esistono prodotti commerciali con Arduino inside!
+
 - Arduino - Sito Ufficiale http://t.co/TQ95pfQgLL
+
 - http://t.co/ZubOKAfmcB Il Blog di Silvia Arduino 
-- L'anti paparazzi... Uno dei progetti più Pop creato con Arduino http://t.co/WAgaB3oyeL http://t.co/KTEsIMvfbM ttp://t.co/WAgaB3oyeL
-- Safecast and Arduino Safecast http://t.co/zGmrJVLf9N – Ardupilot (an open sourced arduino based system)
+
+- L'anti paparazzi... Uno dei progetti più Pop creato con Arduino 
+http://t.co/WAgaB3oyeL http://t.co/KTEsIMvfbM ttp://t.co/WAgaB3oyeL
+
+- Safecast and Arduino Safecast http://t.co/zGmrJVLf9N – Ardupilot 
+(an open sourced arduino based system)
+
 - DIY Drones http://t.co/IFMUJZl2jf di Chris Anderson
+
 - Ricostruire e riprodurre oggetti e utilità con Arduino costa meno!
-- Applicazione di una scheda Arduino su una foglia al fine di fornire i dati di umidità del terreno!
-- Diversified Biotech - Home of Cryo- Tags® and Tough-Tags http://t.co/d7YqBjSnhe
+
+- Applicazione di una scheda Arduino su una foglia al fine di fornire 
+i dati di umidità del terreno!
+
+- Diversified Biotech - Home of Cryo- Tags® and Tough-Tags 
+ http://t.co/d7YqBjSnhe
 - NOTA: distinzione tra OfficineArduino e FabLabTorino
+
 - SCOOP! Arduino in vendita alle macchinette! FabLabTorino http://t.co/YhoyZhUbHb
 
  
 Cultura Maker:
 
+
 - Le nuove frontiere del DoItYourself!! Le giornate Make!
-- Instructables - Make, How To, and DIY http://t.co/PXt0Ox9XAJ 
+
+- Instructables - Make, How To, and DIY http://t.co/PXt0Ox9XAJ
+ 
 - Il motto di MAKE: "If you don't open it, you don't own it."
-- Vuoi fare Scouting di Fabbriche? Usa http://t.co/Qc338Mu5yU http://t.co/1PA6ZUHGQ7
-- @VonGomben parla anche di e commerce FabLabTorino
-- Makerspaces, FabLab: posti dove si può andare per stampare oggetti ideati virtualmente.
+
+- Vuoi fare Scouting di Fabbriche? Usa http://t.co/Qc338Mu5yU 
+http://t.co/1PA6ZUHGQ7
+
+- @DavideGomba parla anche di e commerce FabLabTorino
+
+- Makerspaces, FabLab: posti dove si può andare per stampare 
+oggetti ideati virtualmente.
+
 - Abbiamo ben 2 FabLab a Torino!
-- Torino capitale makers italiani: FabLab di via Egeo, FabLab a Chieri e presto FabLab anche a Settimo Torinese
+
+- Torino capitale makers italiani: FabLab di via Egeo, FabLab 
+a Chieri e presto FabLab anche a Settimo Torinese
+
 - Ora esaminiamo nuovi progetti o progetti bizzarri.
-- Spirito Maker: "Personal customization madness" Personalizzare un oggetto molto comune per renderlo unico ed originale.
+
+- Spirito Maker: "Personal customization madness" Personalizzare
+ un oggetto molto comune per renderlo unico ed originale.
+
 - Oggi come oggi non c'è alcun FabLab inattivo al mondo! fablabTo
-- "In un certo senso un FabLab è paragonabile ad un centro sociale tecnologico" ma in senso positivo!
-- @DavideGomba ci propone di andare al Maker Faire Rome | http://t.co/qjuEmA8p1c
+
+- "In un certo senso un FabLab è paragonabile ad un centro sociale
+ tecnologico" ma in senso positivo!
+
+- @DavideGomba ci propone di andare al Maker Faire Rome
+http://t.co/qjuEmA8p1c
+
 - ToolBox near to FabLabTorino ! http://t.co/4UJmItBXHb
 
 
 Stampante 3d:
 
 - Stampanti 3d ... primo concetto di teletrasporto! 
+
 - Stampante 3D, strumento di prototipazione virtuale.
+
 - Una cosa può essere tua e basta! Bisogna solo scegliere come farla!
+
 - stampante3d incredibile vedere come crea piccoli oggetti! 
+
 - stampante3d Amazing Photo http://t.co/21SxCKiJEN
+
 - stampante in 3D at fablabTo http://t.co/B0B2jRF037
-- ShapeSmith è una web app per creare oggetti 3D - presente nei computer del FabLab http://shapesmith.net/
-- @VonGomben parla di una futura possibilità di stampare tessuti, cucinare!
-- stampanti3d in azione al FabLab di Torino nel Toolbox, con il corso del Politecnico. http://t.co/zGp5GOjpFH
-- Si è parlato del progetto Ultimaker, di come esso sia partito in open-source e abbia finito per cambiare le licenze del suo progetto
-- Video fatto vedere a lezione da @davidegomba sul futuro della stampa 3d: http://t.co/CExj75Wrfv
-- Presto ci saranno i "negozi di materiali" dove si va ad acquistare i vari materiali da stampare. 
-- Problema delle armi stampate in 3d: Rimossi i file che permettevano la stampa della pistola 3D http://t.co/hzINMI38UG (la stampa) 
+
+- ShapeSmith è una web app per creare oggetti 3D - presente nei 
+computer del FabLab http://shapesmith.net/
+
+- @DavideGomba parla di una futura possibilità di stampare 
+tessuti, cucinare!
+
+- stampanti3d in azione al FabLab di Torino nel Toolbox, con 
+il corso del Politecnico. http://t.co/zGp5GOjpFH
+
+- Si è parlato del progetto Ultimaker, di come esso sia partito 
+in open-source e abbia finito per cambiare le licenze del suo progetto
+
+- Video fatto vedere a lezione da @davidegomba sul futuro della
+ stampa 3d: http://t.co/CExj75Wrfv
+
+- Presto ci saranno i "negozi di materiali" dove si va ad acquistare
+ i vari materiali da stampare. 
+
+- Problema delle armi stampate in 3d: Rimossi i file che permettevano 
+la stampa della pistola 3D http://t.co/hzINMI38UG (la stampa) 
 
 
 Crowd-Funding:
 
-- Vengono presentate le maggiori piattaforme di Crowd Funding come Kickstarter
-- Si parla di come questo sia diffuso negli USA e si presentano diverse piattaforme 
+- Vengono presentate le maggiori piattaforme di Crowd Funding 
+come Kickstarter
+
+- Si parla di come questo sia diffuso negli USA e si presentano 
+diverse piattaforme 
 
 
 Tour Fablab:
  
 - "La struttura del FabLabTorino ricorda il Lingotto" 
-- @VonGomben conferma l'importanza dell'uso di Internet e dei computer: mailing list e blog sono strumenti utili.
-- Ecco un progetto sviluppato al Fablab: la bici a 3 ruote" FabLabTorino http://t.co/VLenSaYoJ2
+
+- @VonGomben conferma l'importanza dell'uso di Internet e 
+dei computer: mailing list e blog sono strumenti utili.
+
+- Ecco un progetto sviluppato al Fablab: la bici a 3 ruote"
+ FabLabTorino http://t.co/VLenSaYoJ2
+
 - Macchina per taglio laser: http://t.co/YrkWcY4t5u
 
 Foto della lezione:
 
-- http://t.co/LMWLgRtclX http://t.co/YMswbjASnz http://t.co/SkwCoMgXkF http://t.co/6SXSUlAVIi 
-- http://t.co/WcUE88u2Xb http://t.co/wpQxPvPIYn http://t.co/Mext36f0pH http://t.co/Q5oErYwvFv 
-- http://t.co/chw8JK058Y http://t.co/v8QcgftBrg http://t.co/V0Z9VN9DLX http://t.co/JQZAe4WkmG
+- http://t.co/LMWLgRtclX http://t.co/YMswbjASnz http://t.co/SkwCoMgXkF
+ http://t.co/6SXSUlAVIi http://t.co/WcUE88u2Xb http://t.co/wpQxPvPIYn 
+http://t.co/Mext36f0pH http://t.co/Q5oErYwvFv http://t.co/chw8JK058Y 
+http://t.co/v8QcgftBrg http://t.co/V0Z9VN9DLX http://t.co/JQZAe4WkmG
 
 Hanno partecipato al live-tweet:
 
-- @DavidePalermo2 @Xfox1 @SimoneBleynat @SabryKarate @SabryKarate @AstoriPietro @AstoriPietro 
-- @Cine_Revolution @ripa_pepperipa @doublewisp @Clerish @93_checco @venadavide @m_caccialupi 
-- @m_caccialupi @BrayGabriele @_Celeritas @vitalethomas @vitalethomas @CaracciFabio @CaracciFabio 
-- @Gare_1993 @SoFranchy @SoFranchy @arduinoallinclu @ManuelGuarino93 
+- @DavidePalermo2 @Xfox1 @SimoneBleynat @SabryKarate @SabryKarate 
+@AstoriPietro @AstoriPietro @Cine_Revolution @ripa_pepperipa @doublewisp
+ @Clerish @93_checco @venadavide @m_caccialupi @m_caccialupi 
+@BrayGabriele @_Celeritas @vitalethomas @vitalethomas @CaracciFabio
+ @CaracciFabio @Gare_1993 @SoFranchy @SoFranchy @arduinoallinclu @ManuelGuarino93 
 
 
 ## 2013-05-08
