@@ -191,8 +191,13 @@ def process_tweet(prefix, students, blogs, timest, account, text):
                                handle, student)
 
 def process_student_tweet(prefix, blogs, timest, account, text, links,
-                           handle, student):
+                          handle, student):
     """ Process a tweet from the point of view of one student """
+
+    base_url = blogs[handle]
+    if not base_url:
+        logging.warning("grok_tweets: cannot find url from %s", handle)
+        return
 
     # Pause a bit before the download so we sleep in any case
     time.sleep(random.random() + 0.5)
@@ -203,8 +208,27 @@ def process_student_tweet(prefix, blogs, timest, account, text, links,
         expanded_link = []
         result = subr_http.retrieve("HEAD", "http", "t.co", link, [],
           expanded_link)
-        if result == 200:
-            new_links.append(expanded_link[0])
+        if result != 200:
+            logging.warning("grok_tweets: broken link")
+            continue
+
+        if base_url not in expanded_link[0]:
+            logging.warning("grok_tweets: foreign link <%s>; skip",
+                            expanded_link[0])
+            continue
+
+        parsed = urlparse.urlsplit(expanded_link[0])
+        if not parsed[2] or parsed[2] == "/":
+            logging.warning("grok_tweets: homepage link <%s>; skip",
+                            expanded_link[0])
+            continue
+
+        # Otherwise there are cases of duplicate posts
+        index = expanded_link[0].rfind("?")
+        if index >= 0:
+            expanded_link[0] = expanded_link[0][:index]
+
+        new_links.append(expanded_link[0])
     links = new_links
 
     index = subr_prompt.select_one("link", links)
@@ -225,24 +249,6 @@ def process_student_tweet(prefix, blogs, timest, account, text, links,
       bodyvec, real_link)
     if result != 200:
         return
-
-    base_url = blogs[handle]
-    if not base_url:
-        logging.warning("grok_tweets: cannot find url from %s", handle)
-        return
-    if base_url not in real_link[0]:
-        logging.warning("grok_tweets: foreign link <%s>; skip", real_link[0])
-        return
-
-    parsed = urlparse.urlsplit(real_link[0])
-    if not parsed[2] or parsed[2] == "/":
-        logging.warning("grok_tweets: homepage link <%s>; skip", real_link[0])
-        return
-
-    # Otherwise there are cases of duplicate posts
-    index = real_link[0].rfind("?")
-    if index >= 0:
-        real_link[0] = real_link[0][:index]
 
     save_tweet(prefix, timest, student, real_link, bodyvec)
 
