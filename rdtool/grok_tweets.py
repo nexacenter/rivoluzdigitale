@@ -39,6 +39,7 @@ from rdtool import subr_misc
 
 SETTINGS = {
             "force": False,
+            "prefix": ".",
            }
 
 #
@@ -138,7 +139,7 @@ def analyze_tweet(students, text, links, handles, tags):
             elem = elem.lower()
             tags.append(elem)
 
-def save_tweet(prefix, timest, student, link):
+def save_tweet(timest, student, link):
     """ Save a tweet """
 
     # Pause a bit before the download so we sleep in any case
@@ -152,7 +153,7 @@ def save_tweet(prefix, timest, student, link):
         logging.warning("grok_tweets: invalid bitlink <%s>; skip", bitlink)
         return
 
-    dirpath = os.sep.join([prefix, student, bitlink])
+    dirpath = os.sep.join([SETTINGS["prefix"], student, bitlink])
     if os.path.isdir(dirpath):
         logging.warning("grok_tweets: dup <%s>; skip", dirpath)
         return
@@ -177,7 +178,7 @@ def save_tweet(prefix, timest, student, link):
         filep.write(chunk)
     filep.close()
 
-def process_tweet(prefix, students, blogs, timest, account, text):
+def process_tweet(students, blogs, timest, account, text):
     """ Process a tweet """
 
     links = []
@@ -194,9 +195,9 @@ def process_tweet(prefix, students, blogs, timest, account, text):
         if not student:
             logging.warning("grok_tweets: cannot find student from %s", handle)
             continue
-        process_student_tweet(prefix, blogs, timest, links, handle, student)
+        process_student_tweet(blogs, timest, links, handle, student)
 
-def process_student_tweet(prefix, blogs, timest, links, handle, student):
+def process_student_tweet(blogs, timest, links, handle, student):
     """ Process a tweet from the point of view of one student """
 
     base_url = blogs[handle]
@@ -232,9 +233,9 @@ def process_student_tweet(prefix, blogs, timest, links, handle, student):
         if index >= 0:
             expanded_link[0] = expanded_link[0][:index]
 
-        save_tweet(prefix, timest, student, expanded_link[0])
+        save_tweet(timest, student, expanded_link[0])
 
-def really_filter_tweet(prefix, students, blogs, timest, account, text):
+def really_filter_tweet(students, blogs, timest, account, text):
     """ Really filter a tweet """
 
     if text.startswith("RT "):
@@ -247,9 +248,9 @@ def really_filter_tweet(prefix, students, blogs, timest, account, text):
         logging.warning("grok_tweets: does not include links; skip")
         return
 
-    process_tweet(prefix, students, blogs, timest, account, text)
+    process_tweet(students, blogs, timest, account, text)
 
-def filter_tweet(prefix, students, blogs, tweet):
+def filter_tweet(students, blogs, tweet):
     """ Filter a tweet """
 
     sys.stdout.write("\n\n\n")
@@ -276,7 +277,7 @@ def filter_tweet(prefix, students, blogs, tweet):
             pass
 
     if twid > prev:
-        really_filter_tweet(prefix, students, blogs, timest, account, text)
+        really_filter_tweet(students, blogs, timest, account, text)
 
         if not SETTINGS["force"] and os.path.isdir(statedir):
             filep = open(statefile, "w")
@@ -287,10 +288,10 @@ def filter_tweet(prefix, students, blogs, tweet):
     else:
         logging.warning("grok_tweets: old tweet <%d>; skip", twid)
 
-def filter_tweet_safe(prefix, students, blogs, tweet):
+def filter_tweet_safe(students, blogs, tweet):
     """ Filter a tweet """
     try:
-        filter_tweet(prefix, students, blogs, tweet)
+        filter_tweet(students, blogs, tweet)
     except KeyboardInterrupt:
         sys.exit(1)
     except:
@@ -306,10 +307,9 @@ def main():
         sys.exit("usage: grok_tweets [-fv] [-d directory] file...")
     if not arguments:
         sys.exit("usage: grok_tweets [-fv] [-d directory] file...")
-    prefix = "."
     for name, value in options:
         if name == "-d":
-            prefix = value
+            SETTINGS["prefix"] = value
         elif name == "-f":
             SETTINGS["force"] = True
         elif name == "-v":
@@ -337,7 +337,7 @@ def main():
                 tweet = " ".join(vector)
                 tweet = re.sub(r"[\0-\31]", " ", tweet)
                 tweet = re.sub(r"[\x7f-\xff]", " ", tweet)
-                filter_tweet_safe(prefix, students, blogs, tweet)
+                filter_tweet_safe(students, blogs, tweet)
                 vector = []
                 continue
             vector.append(line)
