@@ -194,6 +194,9 @@ def process_tweet(prefix, students, blogs, timest, account, text):
         logging.warning("grok_tweets: cannot find student from %s", handle)
         return
 
+    # Pause a bit before the download so we sleep in any case
+    time.sleep(random.random() + 0.5)
+
     # Expand links before possibly prompting the operator
     new_links = []
     for link in links:
