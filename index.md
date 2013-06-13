@@ -6265,7 +6265,7 @@ Minicomputer 10 milioni Personal Computer 100 milioni
 
 - 2,5 miliardi di utenti connessi a Internet entro fine anno
  
--"Angry Birds: lanciare con una fionda degli uccellini
+- "Angry Birds: lanciare con una fionda degli uccellini
 incazzati su dei maiali verdi, questa è cultura!" 
 
 - Grazie all'interfaccia assai intuitiva, molti device
@@ -6314,6 +6314,10 @@ reputazione su twitter
 
 - Lezione molto interessante a @RivoluzDigitale  con
 un mitico Marco Zamperini "imparate facendo!" cit @funkysurfer
+
+- Per chi volesse integrare questo live tweeting, c'è a disposizione
+lo storify generato dallo stesso @funkysurfer, a questo indirizzo
+sfy.co/cHOw
 
 
 ## 2013-04-17
