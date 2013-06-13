@@ -54,8 +54,8 @@ def fetch(site, path, secure=0, noisy=0):
 
     cnt = 10
     while cnt > 0:
-        logging.info("subr_http: GET %s from %s (#redirs: %d, secure: %d)",
-                     path, site, cnt, secure)
+        logging.debug("subr_http: GET %s from %s (#redirs: %d, secure: %d)",
+                      path, site, cnt, secure)
 
         connection = connect(site, secure)
         #connection.set_debuglevel(noisy)
@@ -78,7 +78,7 @@ def fetch(site, path, secure=0, noisy=0):
             return
 
         if response.getheader("Connection") == "close":
-            logging.info("subr_http: disconnecting on server request")
+            logging.debug("subr_http: disconnecting on server request")
             disconnect(site, secure)
 
         if response.status == 301 or response.status == 302:
@@ -87,7 +87,7 @@ def fetch(site, path, secure=0, noisy=0):
             if not location:
                 logging.warning("subr_http: missing location header")
                 return
-            logging.info("subr_http: redirected to %s", location)
+            logging.debug("subr_http: redirected to %s", location)
             parsed = urlparse.urlsplit(location)
             secure = (parsed[0] == "https")
             if parsed[1]:
@@ -101,7 +101,7 @@ def fetch(site, path, secure=0, noisy=0):
             return
 
         body = "".join(vector)
-        logging.info("subr_http: %s from %s is %d bytes", path, site, len(body))
+        logging.debug("subr_http: %s from %s is %d bytes", path, site, len(body))
         return response, body
 
     logging.warning("subr_http: too many redirections")
@@ -129,28 +129,28 @@ def retrieve(method, schema, site, page, bodyvec, real_link, noisy=0):
         del real_link[:]
         real_link.append(schema + "://" + site + page)
 
-        logging.info("")
-        logging.info("* Connect %s using %s...", site, schema)
+        logging.debug("")
+        logging.debug("* Connect %s using %s...", site, schema)
         if schema == "https":
             connection = httplib.HTTPSConnection(site)
         else:
             connection = httplib.HTTPConnection(site)
         connection.set_debuglevel(noisy)
 
-        logging.info("> %s %s HTTP/1.1", method, page)
+        logging.debug("> %s %s HTTP/1.1", method, page)
         connection.putrequest(method, page)
-        logging.info("> Connection: close")
+        logging.debug("> Connection: close")
         connection.putheader("Connection", "close")
-        logging.info(">")
+        logging.debug(">")
         connection.endheaders()
 
         response = connection.getresponse()
-        logging.info("< HTTP/1.1 %d %s", response.status, response.reason)
+        logging.debug("< HTTP/1.1 %d %s", response.status, response.reason)
         for header, value in response.getheaders():
-            logging.info("< %s: %s", header, value)
-        logging.info("<")
+            logging.debug("< %s: %s", header, value)
+        logging.debug("<")
 
-        logging.info("* reading body...")
+        logging.debug("* reading body...")
         total = 0
         del bodyvec[:]
         while total <= MAXBODY:
@@ -163,14 +163,14 @@ def retrieve(method, schema, site, page, bodyvec, real_link, noisy=0):
         if total > MAXBODY:
             logging.warning("subr_http: reading body... too large")
             return -1
-        logging.info("* reading body... %d bytes", total)
+        logging.debug("* reading body... %d bytes", total)
 
         if response.status == 301 or response.status == 302:
             location = response.getheader("Location")
             if not location:
                 logging.warning("subr_http: missing location header")
                 return -1
-            logging.info("subr_http: redirected to %s", location)
+            logging.debug("subr_http: redirected to %s", location)
             parsed = urlparse.urlsplit(location)
             schema = parsed[0]
             if parsed[1]:

@@ -214,6 +214,7 @@ def process_student_tweet(blogs, timest, links, handle, student):
         if index >= 0:
             expanded_link[0] = expanded_link[0][:index]
 
+        logging.info("grok_tweets: process link %s", expanded_link[0])
         save_tweet(timest, student, expanded_link[0])
 
 def process_tweet(students, blogs, timest, account, text):
@@ -233,6 +234,7 @@ def process_tweet(students, blogs, timest, account, text):
         if not student:
             logging.warning("grok_tweets: cannot find student from %s", handle)
             continue
+        logging.info("grok_tweets: process student %s (@%s)", student, handle)
         process_student_tweet(blogs, timest, links, handle, student)
 
 def really_filter_tweet(students, blogs, timest, account, text):
@@ -253,10 +255,10 @@ def really_filter_tweet(students, blogs, timest, account, text):
 def filter_tweet(students, blogs, tweet):
     """ Filter a tweet """
 
-    sys.stdout.write("\n\n\n")
+    logging.info("\n\n")
     for line in textwrap.wrap(tweet):
-        sys.stdout.write("    %s\n" % line)
-    sys.stdout.write("\n")
+        logging.info("    %s", line)
+    logging.info("")
 
     timest = tweet_ctime(tweet)
     twid = tweet_id(tweet)
@@ -313,18 +315,21 @@ def main():
         elif name == "-f":
             SETTINGS["force"] = True
         elif name == "-v":
-            level = logging.DEBUG
+            if level == logging.WARNING:
+                level = logging.INFO
+            else:
+                level = logging.DEBUG
 
-    logging.basicConfig(level=level, format="%(message)s")
+    logging.basicConfig(level=level, format="%(message)s", stream=sys.stdout)
 
-    logging.info("grok_tweets: open config files...")
+    logging.debug("grok_tweets: open config files...")
     filep = open("etc/twitter/students.json", "r")
     students = json.load(filep)
     filep.close()
     filep = open("etc/twitter/blogs.json", "r")
     blogs = json.load(filep)
     filep.close()
-    logging.info("grok_tweets: open config files... done")
+    logging.debug("grok_tweets: open config files... done")
 
     for argument in arguments:
         filep = open(argument, "r")
