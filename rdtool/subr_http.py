@@ -121,7 +121,7 @@ def parse_content_type(ctype):
         encoding = None
     return ctype, encoding
 
-def retrieve(schema, site, page, bodyvec, real_link, noisy=0):
+def retrieve(method, schema, site, page, bodyvec, real_link, noisy=0):
     """ Retrieve page from site using schema and saving the body chunks
         into bodyvec, possibly being noisy """
 
@@ -137,8 +137,8 @@ def retrieve(schema, site, page, bodyvec, real_link, noisy=0):
             connection = httplib.HTTPConnection(site)
         connection.set_debuglevel(noisy)
 
-        logging.info("> GET %s HTTP/1.1", page)
-        connection.putrequest("GET", page)
+        logging.info("> %s %s HTTP/1.1", method, page)
+        connection.putrequest(method, page)
         logging.info("> Connection: close")
         connection.putheader("Connection", "close")
         logging.info(">")
@@ -191,8 +191,8 @@ def retrieve(schema, site, page, bodyvec, real_link, noisy=0):
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG, format="%(message)s")
-    if len(sys.argv) == 4:
-        retrieve(sys.argv[1], sys.argv[2], sys.argv[3], [], [])
+    if len(sys.argv) == 5:
+        retrieve(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], [], [])
         sys.exit(0)
     if len(sys.argv) == 3:
         fetch(sys.argv[1], sys.argv[2])
@@ -200,7 +200,7 @@ if __name__ == "__main__":
     if len(sys.argv) == 2:
         fetch_url(sys.argv[1])
         sys.exit(0)
-    sys.stderr.write("usage: subr_http schema site page\n")
+    sys.stderr.write("usage: subr_http method schema site page\n")
     sys.stderr.write("       subr_http site path\n")
     sys.stderr.write("       subr_http url\n")
     sys.exit(1)

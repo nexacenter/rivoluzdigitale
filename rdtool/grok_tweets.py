@@ -203,7 +203,7 @@ def process_tweet(prefix, students, blogs, timest, account, text):
 
     bodyvec = []
     real_link = []
-    result = subr_http.retrieve("http", "t.co", link, bodyvec, real_link)
+    result = subr_http.retrieve("GET", "http", "t.co", link, bodyvec, real_link)
     if result != 200:
         return
 
