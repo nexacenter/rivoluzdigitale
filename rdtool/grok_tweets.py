@@ -141,13 +141,13 @@ def analyze_tweet(students, text, links, handles, tags):
             elem = elem.lower()
             tags.append(elem)
 
-def save_tweet(prefix, timest, student, real_link, bodyvec):
+def save_tweet(prefix, timest, student, link):
     """ Save a tweet """
 
     # Pause a bit before the download so we sleep in any case
     time.sleep(random.random() + 0.5)
 
-    bitlink = subr_bitly.shorten(real_link[0])
+    bitlink = subr_bitly.shorten(link)
     bitlink = bitlink.replace("http://bit.ly/", "")
     bitlink = bitlink.replace("https://bit.ly/", "")
 
@@ -158,6 +158,16 @@ def save_tweet(prefix, timest, student, real_link, bodyvec):
     dirpath = os.sep.join([prefix, student, bitlink])
     if os.path.isdir(dirpath):
         logging.warning("grok_tweets: dup <%s>; skip", dirpath)
+        return
+
+    # Pause a bit before the download so we sleep in any case
+    time.sleep(random.random() + 0.5)
+
+    parsed = urlparse.urlsplit(link)
+    bodyvec = []
+    result = subr_http.retrieve("GET", parsed[0], parsed[1], parsed[2],
+      bodyvec, [])
+    if result != 200:
         return
 
     subr_misc.mkdir_recursive_idempotent(dirpath)
@@ -239,18 +249,7 @@ def process_student_tweet(prefix, blogs, timest, account, text, links,
         return
     link = links[index]
 
-    # Pause a bit before the download so we sleep in any case
-    time.sleep(random.random() + 0.5)
-
-    parsed = urlparse.urlsplit(link)
-    bodyvec = []
-    real_link = []
-    result = subr_http.retrieve("GET", parsed[0], parsed[1], parsed[2],
-      bodyvec, real_link)
-    if result != 200:
-        return
-
-    save_tweet(prefix, timest, student, real_link, bodyvec)
+    save_tweet(prefix, timest, student, link)
 
 def really_filter_tweet(prefix, students, blogs, timest, account, text):
     """ Really filter a tweet """
