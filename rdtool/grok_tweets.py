@@ -178,25 +178,6 @@ def save_tweet(timest, student, link):
         filep.write(chunk)
     filep.close()
 
-def process_tweet(students, blogs, timest, account, text):
-    """ Process a tweet """
-
-    links = []
-    handles = []
-    tags = []
-    if account[1:] in students:  # handles do not start with @
-        handles.append(account)
-    analyze_tweet(students, text, links, handles, tags)
-
-    handles = list(set(handles))  # collapse duplicates, if needed
-    for handle in handles:
-        handle = handle[1:]  # Skip either @ or #
-        student = students.get(handle)
-        if not student:
-            logging.warning("grok_tweets: cannot find student from %s", handle)
-            continue
-        process_student_tweet(blogs, timest, links, handle, student)
-
 def process_student_tweet(blogs, timest, links, handle, student):
     """ Process a tweet from the point of view of one student """
 
@@ -234,6 +215,25 @@ def process_student_tweet(blogs, timest, links, handle, student):
             expanded_link[0] = expanded_link[0][:index]
 
         save_tweet(timest, student, expanded_link[0])
+
+def process_tweet(students, blogs, timest, account, text):
+    """ Process a tweet """
+
+    links = []
+    handles = []
+    tags = []
+    if account[1:] in students:  # handles do not start with @
+        handles.append(account)
+    analyze_tweet(students, text, links, handles, tags)
+
+    handles = list(set(handles))  # collapse duplicates, if needed
+    for handle in handles:
+        handle = handle[1:]  # Skip either @ or #
+        student = students.get(handle)
+        if not student:
+            logging.warning("grok_tweets: cannot find student from %s", handle)
+            continue
+        process_student_tweet(blogs, timest, links, handle, student)
 
 def really_filter_tweet(students, blogs, timest, account, text):
     """ Really filter a tweet """
