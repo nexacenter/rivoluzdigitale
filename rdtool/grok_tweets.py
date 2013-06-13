@@ -36,9 +36,6 @@ if __name__ == "__main__":
 from rdtool import subr_bitly
 from rdtool import subr_http
 from rdtool import subr_misc
-from rdtool import subr_prompt
-
-DEFERRED_TWEETS = []
 
 SETTINGS = {
             "force": False,
@@ -197,11 +194,9 @@ def process_tweet(prefix, students, blogs, timest, account, text):
         if not student:
             logging.warning("grok_tweets: cannot find student from %s", handle)
             continue
-        process_student_tweet(prefix, blogs, timest, account, text, links,
-                               handle, student)
+        process_student_tweet(prefix, blogs, timest, links, handle, student)
 
-def process_student_tweet(prefix, blogs, timest, account, text, links,
-                          handle, student):
+def process_student_tweet(prefix, blogs, timest, links, handle, student):
     """ Process a tweet from the point of view of one student """
 
     base_url = blogs[handle]
@@ -213,7 +208,6 @@ def process_student_tweet(prefix, blogs, timest, account, text, links,
     time.sleep(random.random() + 0.5)
 
     # Expand links before possibly prompting the operator
-    new_links = []
     for link in links:
         expanded_link = []
         result = subr_http.retrieve("HEAD", "http", "t.co", link, [],
@@ -238,18 +232,7 @@ def process_student_tweet(prefix, blogs, timest, account, text, links,
         if index >= 0:
             expanded_link[0] = expanded_link[0][:index]
 
-        new_links.append(expanded_link[0])
-    links = new_links
-
-    index = subr_prompt.select_one("link", links)
-    if index < 0:
-        logging.warning("grok_tweets: deferring decision")
-        tweet = ": ".join([account, text])
-        DEFERRED_TWEETS.append(tweet)
-        return
-    link = links[index]
-
-    save_tweet(prefix, timest, student, link)
+        save_tweet(prefix, timest, student, expanded_link[0])
 
 def really_filter_tweet(prefix, students, blogs, timest, account, text):
     """ Really filter a tweet """
@@ -358,14 +341,6 @@ def main():
                 vector = []
                 continue
             vector.append(line)
-
-    if DEFERRED_TWEETS:
-        sys.stdout.write("\n\n\n====== BEGIN DEFERRED TWEETS ======\n\n")
-        for tweet in DEFERRED_TWEETS:
-            for line in textwrap.wrap(tweet):
-                sys.stdout.write("    %s\n" % line)
-            sys.stdout.write("\n")
-        sys.stdout.write("====== END DEFERRED TWEETS ======\n\n")
 
 if __name__ == "__main__":
     main()
