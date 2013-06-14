@@ -3527,688 +3527,368 @@ licenza deve essere uguale per non limitare la libertà
 
 #### IAB (Internet Architecture Board)
 
-- @DavidePalermo2: Parliamo di IAB: Internet Architecture Board 
+- Parliamo di IAB: Internet Architecture Board si occupa di 
+supervisione allo sviluppo tecnico e ingegneristico di internet 
 
-- @93_checco: Iab (internet architecture board) supervisione allo sviluppo
-tecnico e ingegneristico di internet 
+- Riprendiamo discorso su ISOC, IETF, IRTF e IANA 
 
-- @SabryKarate: IAB: Internet Architecture Board Supervisione dello
-sviluppo tecnico-ingegneristico della rete Internet
+- IAB su Wikipedia http://t.co/lgfxoP22vD 
 
-- @DavidePalermo2: Riprendiamo discorso su ISOC, IETF, IRTF e IANA 
+- IAB: gestisce la pubblicazione delle RFC (Request For Comment)
 
-- @FabioVallone: IAB(Internet Architecture Board) supervisione dello
-sviluppo tecnico e ingegneristico di internet.
-
-- @DavidePalermo2: IAB in Wikipedia http://t.co/lgfxoP22vD 
-
-- @Ale_Cannone: IAB: gestisce la pubblicazione delle RFC
-
-- @FabioVallone: IAB Gestisce la pubblicazione delle RFC (Request For Comment) 
-
-- @EricaAcire19: Pronti per un altro live-twitting.. 
-
-- @93_checco: Ietf (internet engineering task force ) per chi non se lo
-ricordasse dalla lezione scorsa 
-
-- @SabryKarate: Internet Drafts: bozze di Internet su IETF Quando queste
+- Internet Drafts: bozze di Internet su IETF. Quando queste
 vengono approvate, diventano RFC: standard di Internet
 
-- @FabioBussi: Dopo il processo di commento gli Internet Draft diventano RFC 
+- Gli RFC sono i protocolli già definitivi! Anche se il
+nome sembra un po' ambiguo...
 
-- @ripa_pepperipa: IAB (Internet Architecture Board http://t.co/u92nUp22Lg
+- Dopo il processo di commento gli Internet Draft diventano RFC 
 
-- @FabioVallone: Gli Internet Draft (le proposte per lo sviluppo di
-internet) diventano RFC (standard) una volta che sono stati approvati
-
-- @DavidePalermo2: http://t.co/SXHb7YKsbP Sito ufficiale IETF Su Wikipedia
-http://t.co/0xGvp5cWHJ
-
-- @GiGirgenti: IAB: Internet Architecture Board 
-
-- @LucaLiuzzi: IAB - internet architecture board IETF - manager delle
-RTF IRTF. Tutte agency tecnicomanageriali di internet.
-
-- @Rexsimo893: IETF gestisce la pubblicazione delle RFC 
+- IAB - internet architecture board dipendente da IETF - manager 
+delle RTF IRTF. Tutte agency tecnicomanageriali di internet.
 
 #### ICANN (Internet Corporation for Assigned Names and Numbers)
 
-- @SabryKarate: ICANN: Internet Corporation for Assigned Names and
+- ICANN: Internet Corporation for Assigned Names and
 Numbers Fondata nel settembre 1998 sito: http://t.co/PMXO4NoBPa
 
-- @DavidePalermo2: http://t.co/hlGpmtw2Eg (Internet Corporation for
-Assigned Names and Numbers)
+- ICANN http://t.co/hlGpmtw2Eg (wiki)
 
-- @FabioVallone: Corporations: Termine americano per indicare una azienda
+- Corporations: Termine americano per indicare una azienda
 non governativa e no profit
 
-- @DavidePalermo2: Corporations è il termine americano che indica una
-associazione no profit
+- La ICANN a "NGO" di diritto Californiano 
 
-- @93_checco: Icann (internet corporation for assigned names and numbers)
-associazione no profit 
-
-- @FabioVallone: La ICANN a "NGO" di diritto Californiano 
-
-- @EricaAcire19: Gli RFC sono i protocolli già definitivi! Anche se il
-nome sembra un po' ambiguo...
-
-- @ripa_pepperipa: Si parla di ICANN http://t.co/fYq5zGXelt ... Ente
-che gestisce i nomi a dominio!
-
-- @Ale_Cannone: ICANN: gestisce i nomi a dominio
-
-- @FabioBussi: ICANN gestisce tutti i nomi a dominio di Internet 
-
-- @GiGirgenti: ICANN gestisce i nomi a dominio 
-
-- @DavidePalermo2: ICANN delega i domini .it delegato a una sede di Pisa 
-
-- @SoFranchy: ICANN gestisce domini di primo livello e delega strutture
+- ICANN gestisce domini di primo livello e delega strutture
 nazionali o regionali per la gestione dei nomi a dominio.
 
-- @FabioVallone: ICANN gestisce i nomi a dominio, anche con strutture
-territoriali. Invece Top Level Domains(TLD)sono gestisci direttamente
+- Esempio: delega i domini .it delegato a una sede di Pisa 
 
-- @Rexsimo893: ICANN gestisce i nomi a dominio 
+- ICANN gestisce i nomi a dominio, anche con strutture
+territoriali. Invece i Top Level Domains(TLD)sono gestisci direttamente.
 
-- @DavidePalermo2: http://t.co/7uwGRA5eyr TLD Top Level Domains o Domini
+- http://t.co/7uwGRA5eyr TLD Top Level Domains o Domini
 di Primo Livello
 
-- @FabioBussi: Top Level Domain (TLD) gestiti da ICANN sono tutti i
+- Alcuni dei Top Level Domain (TLD) gestiti da ICANN sono tutti i
 "country codes"
 
-- @Ale_Cannone: non fatevi ingannare dal .tv nei siti ----&gt; non
-riguarda la televisione
+- non fatevi ingannare dal .tv nei siti ----&gt; non
+riguarda la televisione ma stati
 
-- @SabryKarate: C'è per ora un numero limitato di TLD, Top Level
-Domanins. Hanno 2 lettere, ce n'è uno per ogni stato, esempi: .uk,
-.it,...
+- I "country codes" possono anche essere cedute sotto
+pagamento per usi non nazionali (es: .tv  che appartiene 
+allo stato del Tuvalu)
 
-- @FabioBussi: I "country codes" possono anche essere cedute sotto
-pagamento per usi non nazionali
+- TLD:Country Codes (.it, .fr, .de,... sono circa 200).Il più diffuso è .com 
 
-- @Ale_Cannone: ogni signolo paese ha il proprio "country code" anche
-se certe volte viene usato non per indicare lo stato
+- .com : commerciale. Circal'80% dei domini di tutto il mondo.
 
-- @FabioBussi: TDL più diffuso è .com 
+- Il TLD .org è per le associazioni no profit, con
+obiettivi sociali e non a scopo di lucro.È stato
+uno dei domini di primo livello originali creati nel gennaio 1985
 
-- @Xfox1: perché per i ".it" fino a tempo fa si dovevano inviate
-documenti via fax? E per gli altri no?
+- TDL .edu utilizzato per siti a scopo formativo 
 
-- @FabioVallone: TLD:Country Codes (.it, .fr, .de,... sono circa 200).I
-country Codes sono spesso"storpiati"nel significato.tv-&gt;isole Tuvalu
+- Dominio Educational principalmente U.S.A. http://t.co/KE9sGlgBP9
 
-- @DavidePalermo2: Esempi di Country Codes .it, .fr, etc Domini distorti
-.tv legato allo stato del Tuvalu, ma concessi a siti legati alle TV
-
-- @SabryKarate: Il più diffuso tra i TLD è .com : commerciale. Circa
-l'80% dei domini di tutto il mondo. Il TLD .edu è per educazione.
-
-- @FabioBussi: TDL .edu utilizzato per siti a scopo formativo 
-
-- @DavidePalermo2: Dominio Educational principalmente
-U.S.A. http://t.co/KE9sGlgBP9
-
-- @SoFranchy: TLD sono quelli nazionali (country code) come .it o
-.fr. Altri sono: .com, .edu, .org, .net 
-
-- @LucaLiuzzi: ICANN - Internet Corporation for assigned names and
-numbers.
-
-- @Ale_Cannone: .org ----&gt; indica il mondo del no profit
-
-- @93_checco: .org ( organizzazioni e no profit ) 
-
-- @SabryKarate: Il TLD .org è per le associazioni no profit, con
-obiettivi sociali e non a scopo di lucro.
-
-- @DavidePalermo2: .org è un dominio di primo livello generico. È stato
-uno dei domini di primo livello originali creati nel gennaio 1985 wiki
-
-- @EmaParrinello: Top Level Domain: .com sta per commerciale, .edu sta
-per educativo, .org indica il mondo del no profit 
-
-- @FabioBussi: TLD .org usato per organizzazioni non commerciali
-
-- @FabioBussi: TLD .gov usato esclusivamente dal governo americano
+- TLD .gov usato esclusivamente dal governo americano
 (in italia .gov.it)
 
-- @FabioVallone: I TDL: com-&gt;fini commerciali edu-&gt;educazione
-org-&gt;ass. no profit;$$-&gt;ISOC; mil-&gt;esercito americano
-gov-&gt;governo americano
+- TLD .int utilizzati da siti internazionali 
 
-- @93_checco: .int organizzazione internazionale 
-
-- @GiGirgenti: I TLD più comuni sono: .com .edu .org .mil .int
-
-- @FabioBussi: TLD .int utilizzati da siti internazionali 
-
-- @Rexsimo893: Top Level Domains(TLD): country codes, .com (commerciale),
+- Top Level Domains(TLD): country codes, .com (commerciale),
 .edu (educativo), .org (no-profit), .mil, .gov, .int, .info,.net
 
-- @ripa_pepperipa: Top Level Domains (TDL) rilevanti: .com .edu. org
-.net .mil .gov .int .it .info http://t.co/RCg9iPVv1b
-
-- @DavidePalermo2: Domini di primo livello generici .biz .com .edu .gov
+- Domini di primo livello generici .biz .com .edu .gov
 .info .int .mil .name .net .org
 
-- @FabioVallone: Altri TDL: .int-&gt;Ass. internazionale .biz .net .info
-
-- @LorenzoCutelle: Il dominio .org viene usato dalle organizzazioni
-no-profit, senza nessun fine commerciale. I profitti vanno alla ISOC
-
-- @LucaLiuzzi: Gestione nomi e dominio (top level domain): .com -
-commercial .gov - usa government .edu - education .org - per NGO
-
-- @Carrattrezzi: ICANN gestisce i Top Level Domains. Inizialmente country
-codes (.it) e altri come .com .net .org .edu .gov
-
-- @93_checco: Icann ha deciso come strutturare il mercato dei nomi a
-dominio.
-
-- @SoFranchy: La distribuzione, il mercato, dei nomi a dominio viene
+- Icann ha deciso come strutturare il mercato dei nomi a
+dominio. La distribuzione, il mercato, dei nomi a dominio viene
 gestita dai cosiddetti Registry, aziende in competizione
 
-- @FabioVallone: ICANN: 1-Come strutturare il mercato domini: -molti
-attori in competizione tra loro 2-Risoluzione conflitti
+- ICANN ha scelto una policy per decidere come distribuire
+i nomi a dominio: "First come, first serve". Questa viene usata
+per la risoluzione dei conflitti.
 
-- @GiGirgenti: ICANN ha deciso come strutturare il mercato dei nomi a
-dominio
-
-- @SabryKarate: ICANN ha scelto una policy per decidere come distribuire
-i nomi a dominio: "First come, first serve"
-
-- @93_checco: Risoluzione conflitti? "First come, first serve"
-
-- @EmaParrinello: ICANN è l'organo che ha deciso come sfruttare il
-mercato dei nomi a dominio e come risolvere i conflitti per tali nomi
-
-- @ripa_pepperipa: come gestire i conflitti tra i vari nomi a dominio? -
-"First come, first serve"
-
-- @FabioBussi: gestione "first come, first served" per i nomi a dominio,
+- gestione "first come, first served" per i nomi a dominio,
 ma con i "Trade Marks" esistono molti problemi
 
-- @PhotoRevo: La funzione primaria dei marchi è di mandare al consumatore
+- La funzione primaria dei marchi è di mandare al consumatore
 una garanzia di qualità
 
-- @ripa_pepperipa: i conflitti tra i nomi a dominio nascono dai marchi!
-
-- @LucaLiuzzi: Risoluzioni conflitti? -"first come,first serve" -
-Conflitti -&gt; marchi,trademarks
-
-- @bassosimone: by the way, a proposito del caso Armani:
+-Esempio di conflitto per un marchio: caso Armani:
 http://t.co/tKE7jyZvs4
 
-- @PhotoRevo: Ogni marchio ha un settore es. Automobili vini
-
-- @SabryKarate: Controversia su Trademarks: si potrebbe indurre in
+- Controversia su Trademarks: si potrebbe indurre in
 inganno il consumatore usando un nome di marca. Es. Ferrari, Armani,...
 
-- @MorenoLaQuatra: ICANN sviluppa una propria politica di risoluzione
+- Ogni marchio ha un settore es. Automobili, Vini
+
+- ICANN sviluppa una propria politica di risoluzione
 conflitti, UDRP
 
-- @PhotoRevo: Udrp uniform dispute resolution policy
+- Udrp uniform dispute resolution policy
 
-- @FabioBussi: Le cause per "Trade Marks" vegono gestite dalla UDRP
+- Le cause per "Trade Marks" vegono gestite dalla UDRP
 (Uniform Dispute Resolution Policy)
 
-- @FabioVallone: Filosofia ICANN: -"First come,first serve"(concessione
+- Filosofia ICANN: -"First come,first serve"(concessione
 senza controlli) -Conflitti-&gt;UDP(Uniform Dispute Resolution Policy)
 
-- @Carrattrezzi: ICANN gestisce l'assegnazione tramite agenzie locali
+- ICANN gestisce l'assegnazione tramite agenzie locali
 favorendo la libera concorrenza. Policy: first come,first serve
 
-- @Clerish: Per risolvere le dispute l'ICANN sviluppa l'UDRP: Uniform
+- Per risolvere le dispute l'ICANN sviluppa l'UDRP: Uniform
 Dispute Resolution Policy
 
-- @omerovitali: @demartin cita marchio #NIKE pronunciando
+- @demartin cita marchio #NIKE pronunciando
 [Naik]. Successivamente pronuncia [Naiki]. La pronuncia corretta è
 la seconda.
 
-- @LucaLiuzzi: ICANN ha sviluppato un metodo di risoluzione dei conflitti
+- ICANN ha sviluppato un metodo di risoluzione dei conflitti
 sui domini: URDP - uniform dispute resolution policy
 
-- @SabryKarate: UDRP: Uniform Dispute Resolution Policy Documento su
+- UDRP: Uniform Dispute Resolution Policy Documento su
 http://t.co/PMXO4NoBPa che parla della risoluzione dei conflitti.
 
-- @Rexsimo893: ICANN ha sviluppato l'UDRP(Uniform Dispute Resolution
-Policy) per la risoluzione dei conflitti legati ai marchi per esempio
+- Di recente l'ICANN ha introdotto la possibilità di usare
+alfabeti non occidentali nei nomi a dominio, con codice UNICODE
 
-- @ripa_pepperipa: ICANN ha sviluppato l'UDRP (Uniform Dispute Resolution
-Policy)
+- Egitto lancia primo nome di dominio in arabo 
+| Reuters 06/mag/2010 http://t.co/UKIaFRUsi1
 
-- @FabioVallone: Solo da poco è possibile avere siti con UNICODE e
-quindi nome dominio con vari alfabeti
-
-- @Clerish: Di recente l'ICANN ha introdotto la possibilità di usare
-alfabeti non standard nei nomi a dominio, con codice UNICODE
-
-- @FabioBussi: Di recente è possibile utilizzare nomi a dominio con
-alfabeti non occidentali
-
-- @EricaAcire19: è possibile usare un alfabeto diverso da quello inglese
-(caratteri arabi, cirillici ma anche lettere accentate)per TLD
-
-- @SabryKarate: Per leggere qualcosa in più riguardo ai nomi di dominio
+- Per leggere qualcosa in più riguardo ai nomi di dominio
 internazionalizzati: http://t.co/KJw5bGPd2W
 
-- @EmaParrinello: Recentemente ICANN ha deciso che sono possibili nomi
-a dominio in tutti gli alfabeti attraverso l'UNICODE
-
-- @Carrattrezzi: Nel caso di conflitti Uniform Dispute Resolution
-Policy. Adesso nomi a dominio in tutti gli alfabeti e nuovi TLD
-
-- @FabioVallone: Si è passati anche a creare nuovi TLD. La procedure
+- Si è passati anche a creare nuovi TLD. La procedure
 è costosa ma permette di creare, ad esempio: .polito
 
-- @DavidePalermo2: Riporto: Internet, Egitto lancia primo nome di dominio
-in arabo | Reuters 06/mag/2010 http://t.co/UKIaFRUsi1
-
-- @MorenoLaQuatra: 150.000 $ per la nascita di un TOP LEVEL DOMAIN,
+- 150.000 $ per la nascita di un TOP LEVEL DOMAIN,
 recentemente con la nuova procedura ICANN
 
-- @Clerish: In teoria creare nuovi TLD sarebbe facile: è tutto
-software. In pratica la questione è costosa.
+- In teoria creare nuovi TLD sarebbe facile: è tutto
+software. Ma la questione è molto costosa.
 
-- @Rexsimo893: In corso creazione di procedura per definire nuovi
-TLD. Molte complicazioni.
+- In corso creazione di procedura per definire nuovi
+TLDn ma ci sono molte complicazioni.
 
-- @FabioVallone: Come democratizzare ICANN? -inizio anni '00, members
-at large del Board (ogni 3 mesi) --&gt; Larry Lessig
+- Come democratizzare ICANN? -inizio anni 2000, members
+at large del Board (ogni 3 mesi) #Larry Lessig
 
-- @FabioVallone: ICANN crea GAC (Goverment Advisory Council) che serve
+- ICANN crea GAC (Goverment Advisory Council) che serve
 per dare dei pareri (puramente consultivi) sul lavoro di ICANN
+Nel GAC vengono rappresentati i vari governi
 
-- @Rexsimo893: Funzione del GAC puramente consultiva dove vengono
-rappresentati i vari governi
-
-- @Carrattrezzi: Board ICANN ogni 3 mesi con membri eletti+ Government
+- Board ICANN ogni 3 mesi con membri eletti + Government
 Advisory Council per suggerimenti dei governi
 
-- @ripa_pepperipa: @demartin ci propone un disegnino riassuntivo ;-)
-
-- @EricaAcire19: Gli stati sovrani vorrebbero un potere più forte del
+- Gli stati sovrani vorrebbero un potere più forte del
 GAC, allo status quo questa assemblea è puramente consultiva.
 
-- @Clerish: IANA svolge un lavoro fondamentale: controlla la locazione
+- IANA svolge un lavoro fondamentale: controlla la locazione
 degli indirizzi IP e i root server DNS
 
-- @DavidePalermo2: "ICANN dovrebbe avere un corso solo per sè stesso"
-+ schema riassuntivo by @demartin http://t.co/Ablu8mh7ZK
+- Schema riassuntivo Struttura di governance Internet
+ http://t.co/Ablu8mh7ZK http://t.co/5GbtT5joHY http://t.co/oAbopFaGqM
 
-- @FabioBussi: ICANN gestisce IANA che però è controllata anche
+- ICANN gestisce IANA che però è controllata anche
 direttamente da Dept. of Trade
 
-- @SabryKarate: ISOC controlla IAB, che gestisce IRTF e IETF (IETF anche
+- ISOC controlla IAB, che gestisce IRTF e IETF (IETF anche
 sotto diretto controllo di ISOC) ICANN gestisce IANA.
 
-- @EricaAcire19: Di fatto intenet è ancora fortemente influenzata dagli
+- Di fatto intenet è ancora fortemente influenzata dagli
 USA. Del resto non ci sono alternative (o se ci sono peggio).
 
-- @Ale_Cannone: Contratto ICANN con il dept. of TRADE: è questo il
-cuore del controllo di internet
+- Contratto ICANN con il dept. of TRADE: è questo il
+cuore del controllo di internet che è un'infrastruttura 
+globale ma è influenzata dagli americani
 
-- @Xfox1: @bassosimone questa? http://t.co/6qccvcEVyf
-
-- @Ale_Cannone: internet è un'infrastruttura globale ma influenzata
-dagli americani
-
-- @FabioVallone: ISOC ICANN-&gt;IANA(Contratto | | ICANN-DEPT. of V V
-TRADE) IAB--&gt;IETF | V IRTF
-
-- @LorenzoCutelle: Schema riassuntivo sulla struttura di governance di
-Internet. http://t.co/5GbtT5joHY
-
-- @ripa_pepperipa: La struttura di governance c'è ma non coincide con
-quella americana!
-
-- @SoFranchy: Esiste una struttura di governance di internet
+- Esiste una struttura di governance di internet
 che, quindi, non è un'anarchia e non è governata da Facebook o
 Microsoft.
 
-- @FabioBussi: Esiste una struttura di governance di Internet non è
-l'anarchia e non gestita da grandi come Microsoft o Apple!!!
+- La struttura di Governance di Internet non è sottomessa ad 
+alcuna azienda privata. Inoltre: Organizzazione != Anarchia 
 
-- @SabryKarate: La struttura di Governance di Internet non è sottomessa ad alcuna azienda privata. Inoltre: Organizzazione != Anarchia 
-
-- @LucaLiuzzi: Grafico temporale sulla governance di
+- Grafico temporale sulla governance di
 internet. http://t.co/Jmpkixa3Q4
 
-- @SimoneBleynat: Effettivamente a chi vorresti far gestire Internet,
-alla Cina?
 
 #### Rudimenti di diritto d'autore
 
-- @Ale_Cannone: Ora nozioni preliminari per l'ospite di oggi 
+- Proprietà Intellettuale http://t.co/TIuB3efYRe
 
-- @ripa_pepperipa: ospite a sorpresa!! :)
+- Il marchio è importante per impedire la confusione ma
+anche per favorire la diffusione 
 
-- @Carrattrezzi: http://t.co/oAbopFaGqM
-
-- @EricaAcire19: e ora rudimenti sui diritti d'autore.. 
-
-- @SabryKarate: Oggi ospite al corso di : Maria Chiara Pievatolo
-
-- @FabioVallone: I marchi servono per dare la certezza della produzione
-della merce
-
-- @DavidePalermo2: Proprietà Intellettuale http://t.co/TIuB3efYRe
-
-- @SabryKarate: Tra circa 30 minuti, @MCPievatolo
-
-- @Clerish: Chiunque può copiare Arduino, ma non può chiamare la
+- Esempio: Chiunque può copiare Arduino, ma non può chiamare la
 copia Arduino
 
-- @FabioVallone: Il marchio è importante per impedire la confusione ma
-anche per favorire la diffusione (vd Arduino: copia ma con tuo nome)
+- Proprietà intellettuale: strumenti differenti per gestione
+materiali intangibili
 
-- @FabioBussi: I marchi servono per poter favorire la condivisione ma
-non la confusione
+- Brevetti (lo Stato tutela l'idea) 
 
-- @ripa_pepperipa: I #marchi consentono la condivisione ma non la
-confusione! Controllano l'origine della merce!
+-Diritto d'Autore (lo Stato tutela la forma espressiva)
 
-- @DavidePalermo2: http://t.co/vIg7lq3Mpr Ideatore Linux 
-
-- @Rexsimo893: Proprietà intellettuale: strumenti differenti per gestione
-materiali intangibili -&gt; marchi, brevetti, diritto d'autore
-
-- @FabioBussi: Nei brevetti si tutela l'idea, nel diritto d'autore si
-tutela la forma espressiva
-
-- @SabryKarate: Proprietà intellettuale -Brevetti (lo Stato tutela
-l'idea) -Diritto d'Autore (lo Stato tutela la forma espressiva) -Marchi
-
-- @FabioBussi: Per tutelarti lo stato utilizza tutta la sua forza
+- Per tutelarti lo stato utilizza tutta la sua forza
 attraverso tribunali e forze di polizia
 
-- @ripa_pepperipa: nel caso dei BREVETTI viene tutelata l'idea; quando
-invece parliamo di DIRITTO D'AUTORE, si tutela la forma espressiva!
-
-- @Clerish: Il brevetto svela ogni segreto: viene pubblicata l'idea. Per
+- Il brevetto svela ogni segreto: viene pubblicata l'idea. Per
 questo la formula Coca Cola non è stata brevettata
 
-- @FabioBussi: La Coca Cola ha scelto di non brevettare la formula della
-Coca Cola per non divulgarla
+- Brevettare = Si richiede la tutela e l'idea diventa
+pubblica => Perciò non si brevetta un'idea che si vuole tenere segreta.
 
-- @SabryKarate: Brevettare -----&gt; Si richiede la tutela, idea diventa
-pubblica Perciò non si brevetta un'idea che si vuole tenere segreta.
-
-- @FabioVallone: Proprietà Intellettuale | | | V V V Brevetti Dir
-autore Marchi
-
-- @VadimCujba: La richiesta di un brevetto implica la pubblicazione
-dell`idea
-
-- @SabryKarate: Se il brevetto viene concesso, l'inventore ha l'esclusiva
+- Se il brevetto viene concesso, l'inventore ha l'esclusiva
 sugli impieghi per 20 anni.
 
-- @Rexsimo893: Risultato ottenimento brevetto: esclusiva su impiego per
-20 anni
+- Lo stato ha deciso di tutelare la "proprietà intellettuale" 
+per dare l'esclusiva di produzione
 
-- @FabioBussi: La spiegazione del perchè lo stato ha deciso di tutelare
-la "proprietà intellettuale" per dare l'esclusiva di produzione
+- L'idea di dare l'esclusiva a chi brevetta 
+deriva dalla repubblica di venezia.
 
-- @DavidePalermo2: Schemino (scrivo male, lo so ;D) http://t.co/jFKX4HiZNN
-
-- @EricaAcire19: L'idea di dare l'esclusiva a chi brevetta e non dei
-premi in $, deriva dalla repubblica di venezia.
-
-- @bassosimone: morale: siete liberi di fare reverse engineering della
-formula della coca cola :-)
-
-- @DavidePalermo2: USA dice di aver scoperto la formula segreta della
-Coca Cola e tenta di venderla su eBay http://t.co/XuOcJWZ9M7 @Corriereit
-
-- @FabioVallone: Fino agli anni '70 in Italia non c'erano i brevetti
+- Fino agli anni '70 in Italia non c'erano i brevetti
 sui farmaci
 
-- @bassosimone: fino agli '70 in Italia non c'erano brevetti sui farmaci
-
-- @Clerish: I brevetti durano venti anni in tutto il mondo, salvo
+- I brevetti durano venti anni in tutto il mondo, salvo
 eccezioni
 
-- @ripa_pepperipa: Se si vuole la copertura internazionale si deve fare
-un brevetto internazionale! I costi sono dirett prop all'estensione!
+- Se si vuole la copertura internazionale si deve fare
+un brevetto internazionale! I costi sono direttamente 
+proporzionali all'estensione!
 
-- @Clerish: Il diritto d'autore non richiede formalità: scatta
-automaticamente 
-
-- @FabioVallone: Il Diritto d'autore riguarda l'espressione e non
-l'idea.Le opere vengono protette appene prodotte
-
-- @Rexsimo893: Diritto d'autore: riguarda la specifica espressione
-artistica e non richiede nessuna formalità
-
-- @Ale_Cannone: diritto d'autore: non ha bisogno di formalità.. nel
-momento in cui si finisce un lavoro questo gode dei diritti d'autore
-
-- @FabioBussi: Il diritto d'Autore si applica da quando noi abbiamo
+- Il diritto d'Autore si applica da quando noi abbiamo
 finito l'opera e non richiede formalità
 
-- @ripa_pepperipa: come si ottiene il Diritto d'Autore? Automaticamente
-viene assegnato non appena viene completata l'"opera"!
-
-- @Carrattrezzi: I brevetti sono gestiti da enti nazionali o
-internazionali. Possono essere rifiutati ed implicano la pubblicazione
-
-- @DavidePalermo2: Protezione del diritto d'autore e di altri diritti
-connessi al suo esercizio http://t.co/Z7hdyLe9cD - Legge del 1941
-
-- @FabioVallone: Per il diritto d'autore ci sono diversi metodi per
+- Per il diritto d'autore ci sono diversi metodi per
 riuscire a certificare la paternità della mia opera
 
-- @Ale_Cannone: certificazione di paternità: vari modi per provare che
-l'opera è propria (es. mandare una raccomandata ai parenti)
+- Certificazione di paternità es: mandare una raccomandata ai parenti
 
-- @FabioVallone: L'Angelo del Copyright vede tutto!!
+- Il problema del diritto d'autore è dimostrare di avere
+eseguito l'opera d'arte per primi
 
-- @Clerish: Il problema del diritto d'autore è dimostrare di avere
-eseguito l'opera d'arte per primi 
-
-- @SabryKarate: Brevetto --&gt; richiede formalità a livello giuridico
-Diritto d'autore --&gt; scatta in automatico su ogni opera
-
-- @FabioVallone: Diritto d'autore 1941: -Tutelata la Forma -Nessuna
-Formalità
-
-- @Rexsimo893: Diritto d'autore: tutelati diritti morali e economici
-
-- @Clerish: L'opera d'arte è espressione della personalità dell'autore,
+- L'opera d'arte è espressione della personalità dell'autore,
 che ha diritto quindi a essere protetto
 
-- @Clerish: Arriva la nostra gentile speaker :-)
-
-- @EmaParrinello: Le 2 categorie dei diritti d'autore: diritti morali
+- Le 2 categorie dei diritti d'autore: diritti morali
 ed economici
 
-- @FabioVallone: I diritti sono Morali(posso decidere di ritirare
+- I diritti sono Morali(posso decidere di ritirare
 l'opera,indennizzando l'editore) Economici(posso decidere come sfruttarla)
 
-- @Ale_Cannone: diritti d'autore: i diritti morali riguardano
-l'espressione della moralità dell'autore nell'opera
+- I diritti morali riguardano l'espressione della moralità
+dell'autore nell'opera
 
-- @EmaParrinello: A breve la lezione continuerá con l'ospite del giorno:
-la professoressa Mariachiara Pievatolo
-
-- @Ale_Cannone: diritti d'autore: i diritti economici riguardano il modo
+- I diritti economici riguardano il modo
 in cui l'autore decide di sfruttare l'opera
 
-- @Carrattrezzi: Il diritto d'autore interviene automaticamente
-sull'opera, da all'autore della forma espressiva diritti morali ed
-economici
 
 ### @MCPievatolo
 
-- @SabryKarate: Un benvenuto a @MCPievatolo alla lezione di venerdì 17
-maggio 2013 al corso di RivoluzDigitale
+- "Rivoluzione digitale e comunicazione scientifica":
 
-- @Clerish: "Rivoluzione digitale e comunicazione scientifica":
-presentazione di Maria Chiara Pievatolo 
-
-- @DavidePalermo2: @MCPievatolo lezione al Corso di @RivoluzDigitale
-http://t.co/eZpdZ1wN4i
-
-- @VadimCujba: Maria Chiara Pievatolo a RivoluzDigitale
-
-- @SabryKarate: Effetto della rivoluzione digitale sulla divulgazione
-scientifica by #MCPievatolo
-
-- @SabryKarate: Molti scienziati danno per scontato l'ambiente in cui
+- Molti scienziati danno per scontato l'ambiente in cui
 si trovano... cit. @MCPievatolo
 
-- @FabioVallone: Molti scienziati danno per scontato l'ambiente in cui
-si trovano
+- Platone, il mito di Teuth dal Fedro Affidandosi alla
+scrittura l'uomo tralascia la cura della propria mente.
 
-- @ripa_pepperipa: MCPievatolo, docente di #filosofia di Pisa, ci parla
-degli effetti della rivoluzione digitale!
-
-- @DavidePalermo2: Platone era un Ingegnere! #MCPievatolo
-
-- @SabryKarate: Platone, il mito di Teuth dal Fedro Affidandosi alla
-scrittura l'uomo tralascia la cura della propria mente. @MCPievatolo
-
-- @FabioVallone: La scrittura deve trasmettere anche conoscenza. Può
+- La scrittura deve trasmettere anche conoscenza. Può
 essere copiata solo mano.
 
-- @ripa_pepperipa: la stampa si può copiare solo
-artigianalmente! @MCPievatolo
+- la stampa si può copiare solo artigianalmente!
 
-- @DavidePalermo2: Scrittura serve a trasmettere conoscenza e non solo
-informazione! #Platone #Fedro @MCPievatolo
+- Scrittura serve a trasmettere conoscenza e non solo
+informazione!
 
-- @Clerish: Secondo @MCPievatolo al giorno d'oggi gli scienziati si
+- Secondo @MCPievatolo al giorno d'oggi gli scienziati si
 autovalutano basandosi solo su dove sono pubblicati i loro articoli
 
-- @DavidePalermo2: @MCPievatolo Invenzione della stampa è rivoluzionaria
+- Grazie alla stampa c'è stata una maggiore divulgazione,
+ma attenzione all'affidabilità delle fonti! 
 
-- @Antonio_Langiu: La professoressa Mariachiara Pievatolo a RivoluzDigitale
-
-- @SabryKarate: Reminiscenze filosofiche del liceo classico grazie a
-@MCPievatolo :-)
-
-- @ripa_pepperipa: @MCPievatolo, docente di #filosofia di Pisa, ci parla
-degli effetti della rivoluzione digitale!
-
-- @SabryKarate: Grazie alla stampa c'è stata una maggiore divulgazione,
-ma attenzione all'affidabilità delle fonti! @MCPievatolo
-
-- @FabioVallone: Prima del Sidereus Nuncius la ricerca scientifica
-era segreta
-
-- @DavidePalermo2: C'erano già problemi di libertà poco dopo
+- C'erano già problemi di libertà poco dopo
 l'invenzione di #Gutenberg con #Lutero e le versioni della #Bibbia
 
-- @SabryKarate: Galileo Galilei pubblica nel 1610 il Siderius Nuncius:
-nasce la scienza moderna @MCPievatolo
+- Galileo Galilei pubblica nel 1610 il Siderius Nuncius: 
+nasce la scienza moderna. Prima del Sidereus Nuncius la 
+ricerca scientifica era segreta
 
-- @ripa_pepperipa: durante l'età della stampa, esattamente nel 1665,
-nasce la prima rivista scientifica @MCPievatolo
+- durante l'età della stampa, esattamente nel 1665,
+nasce la prima rivista scientifica.
 
-- @Ale_Cannone: privilegio (antenato del diritto d'autore): veniva
+- privilegio (antenato del diritto d'autore): veniva
 concesso il diritto di stampare in cambio del controllo delle stampe
+da parte dello stato.
 
-- @Clerish: Ai tempi dell'invenzione della stampa era il re a concedere
+- Ai tempi dell'invenzione della stampa era il re a concedere
 "graziosamente" la stampa di testi
 
-- @FabioVallone: Il sistema della stampa scientifica si basa sul sistema
-della pubblicità
+- Kant, cos'è l'illuminismo? Uso pubblico della ragione
+verso l'intero pubblico dei lettori.
 
-- @SabryKarate: Kant, cos'è l'illuminismo? Uso pubblico della ragione
-verso l'intero pubblico dei lettori. @MCPievatolo
+- Concetto di Proletario secondo Marx ed
+Alienazione. Chaplin in "Tempi moderni"
 
-- @ripa_pepperipa: Weber ---&gt;padre della tecnologia
-moderna! @MCPievatolo
-
-- @SabryKarate: Concetto di Proletario secondo Marx ed
-Alienazione. Chaplin in "Tempi moderni" http://t.co/JECZr1M8Dg
-@MCPievatolo
-
-- @Clerish: L'Impact Factor misura la influenza di una rivista scientifica
+- L'Impact Factor misura la influenza di una rivista scientifica
 all'interno di un database chiuso
 
-- @CaracciFabio: La popolarità viene misurata tramite un coefficiente
-chiamato "impact factor".
-
-- @Clerish: In realtà l'IF non misura la vera competenza scientifica
+- In realtà l'IF non misura la vera competenza scientifica
 e finisce per interferire con la ricerca
 
-- @venadavide: Impact factor: indice sintetico che misura il numero di
-citazioni ricevute in un anno da articoli dei due anni precedenti
-
-- @EricaAcire19: La ricerca pioneristica diventa pericolosa in termini
+- La ricerca pioneristica diventa pericolosa in termini
 di carriera, l’importante per uno studioso è di essere citato.
 
-- @SabryKarate: La letteratura Open Access è digitale, online, gratuita
-e libera da molte restrizioni. @MCPievatolo
+- La letteratura Open Access è digitale, online, gratuita
+e libera da molte restrizioni. http://t.co/pj33CaU3IV 
 
-- @FabioVallone: Letteratura Open Access è digitale, online, gratuita
-e libera
+- Chi paga le pubblicazioni online? Readers, Authors and Institution
 
-- @ripa_pepperipa: la letteratura ad accesso aperto è digitale, online,
-gratuita e libera @MCPievatolo
+- Modelli economici: Readers, accesso chiuso Author,
+accesso aperto Institution, accesso aperto (via platino)
 
-- @VadimCujba: OA: letteratura ad acceso aperto, digitale e gratuita
+- Filter, then publish: Prima c'è selezione. Publish,
+then filter: Su Internet si può pubblicare prima.
 
-- @LucaLiuzzi: OpenAccess. http://t.co/pj33CaU3IV 
+- Internet facilità il rapporto autore/lettore
 
-- @ripa_pepperipa: ci chiediamo: chi paga le pubblicazioni online? ---&gt;
-Readers, Authors and Institution @MCPievatolo
+- Nell'aprile 2012 la biblioteca di Harvard invita i
+suoi docenti a passare all’accesso aperto.
 
-- @SabryKarate: Modelli economici: Readers, accesso chiuso Author,
-accesso aperto Institution, accesso aperto (via platino) @MCPievatolo
+- Il sistema di pubblicazione scientifica mainstream è
+anglosassone.
 
-- @SabryKarate: Filter, then publish: Prima c'è selezione. Publish,
-then filter: Su Internet si può pubblicare prima. @MCPievatolo
+- #Google Scholar sembra aperto ma è privato e non motiva
+pubblicamente le sue scelte...
 
-- @VadimCujba: Internet facilità il rapporto autore/lettore
+- Per promuovere la scienza, gli scienziati devono espandere
+il proprio pubblico.
 
-- @LorenzoCutelle: Nell'aprile 2012 la biblioteca di Harvard invita i
-suoi docenti a passare all’accesso aperto. @MCPievatolo
+- Se qualcosa è controproducente ai fini della scienza, 
+bisogna lasciarlo da parte.
 
-- @SabryKarate: "Gli editori sono i capitalisti più spietati del mondo
-occidentale" @MCPievatolo
+- L'impatto della rivoluzione digitale impiega più tempo
+di quanto pensiamo. La divulgazione non è immediata.
 
-- @SabryKarate: Il sistema di pubblicazione scientifica mainstream è
-anglosassone. @MCPievatolo
+- Sono cambiati gli strumenti di diffusione, è più
+semplice pubblicare. Tuttavia è rimasto un profondo gap.
 
-- @SabryKarate: Accademia dei morti viventi, Fitzpatrick Rete -&gt;
-Medium universale studiosi rischiano di diventare irrilevanti @MCPievatolo
+- Accesso aperto al materiale didattico, "open educational
+resources" 
 
-- @MesserPala: Gli editori scientifici sono i latifondisti della
-conoscenza
-
-- @EricaAcire19: #Google Scholar sembra aperto ma è privato e non motiva
-pubblicamente le sue scelte... @MCPievatolo
-
-- @SabryKarate: Per promuovere la scienza, gli scienziati devono espandere
-il proprio pubblico. @MCPievatolo
-
-- @SabryKarate: Protagora di Platone Se qualcosa è controproducente ai
-fini della scienza, bisogna lasciarlo da parte. @MCPievatolo
-
-- @SabryKarate: Bisogna usare la propria libertà nel modo migliore:
-liberi di provare, di sbagliare,... @MCPievatolo
-
-- @SabryKarate: L'impatto della rivoluzione digitale impiega più tempo
-di quanto pensiamo. La divulgazione non è immediata. @demartin
-
-- @EricaAcire19: L’impatto della rd, anche laddove sembra dover accadere
-in poco tempo in realtà occupa più tempo del previsto. @MCPievatolo
-
-- @SabryKarate: Sono cambiati gli strumenti di diffusione, è più
-semplice pubblicare. Tuttavia è rimasto un profondo gap. @MCPievatolo
-
-- @SabryKarate: Accesso aperto al materiale didattico, "open educational
-resources" @demartin
-
-- @SabryKarate: Patto tra potere politico e scienza: ricerca scientifica
+- Patto tra potere politico e scienza: ricerca scientifica
 pagata ma limitata (iniziato in Germania alla fine dell'Ottocento)
 
-- @SabryKarate: Per lungo tempo gli scienziati stanno nella "torre
-d'avorio", compiono ricerche ma non diffondono i risultati. @MCPievatolo
+- Per lungo tempo gli scienziati stanno nella "torre
+d'avorio", compiono ricerche ma non diffondono i risultati.
+
+
+Foto della lezione: http://t.co/6qccvcEVyf http://t.co/eZpdZ1wN4i
 
 
 ## 2013-05-15
