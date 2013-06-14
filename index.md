@@ -2509,809 +2509,358 @@ Si prospetta una seconda parte interessante :)
 
 #### Regole Esame
 
-- @DavidePalermo2: MEMENTO: Alle 24 del 14/06 si chiude la parte online
-del Corso di Prossimo Bus a Marzo 2014 scherza (o forse no) @demartin
+- MEMENTO: “Alle 24.00 del 14/06 si chiude la parte online del corso. Il 
+prossimo Bus passa a marzo 2014”, scherza (o forse no) @demartin
 
-- @Ale_Cannone: a mezzanotte del 14 giugno si chiudono le porte della
-parte online ricordate!
+- Modalità d'esame rivoluzdigitale http://t.co/lGIICks0UN
 
-- @EricaAcire19: Nuova lezione al corso di RD... oggi si apre con un
-memento: la parte online del corso si chiude il 06/14/2013...
+- Pesi valutazione: Blog 65% Mailing List 20% Twitter 15%. Le 3 parti 
+insieme corrispondono al 60% del voto finale. 
 
-- @DavidePalermo2: Pesi valutazione: Blog 65% Mailing List 20% Twitter
-15% Le 3 parti insieme corrispondono al 60% del Voto Finale
+Il restante 40% dipende dalla valutazione dell’esame scritto in due parti. 
+Parte A: 12 domande a risposta multipla o aperta breve in 40 minuti, 6 
+punti max; Parte B: 3h20' per 2 saggi brevi  e un saggio medio
 
-- @DavidePalermo2: Restante 40% del Voto Finale ESAME SCRITTO Parte A:
-40', 12 dom, 6 p.ti max Parte B: 3h20', 2 saggi brevi + saggio medio
+- Il voto della parte Online deve essere > 10/30. Il voto della parte scritta 
+>= 6/30
 
-- @FabioBussi: l'esame scritto comporta il 40% del voto e comprende 12
-domande, 2 saggi brevi e 1 saggio lungo
+- Mailinglist: l'abbiamo usata(non facendo spam)? Siamo stati capaci ad 
+usarla? [20%]
 
-- @DavidePalermo2: Voto parte OnLine DEVE essere &gt;10 Voto parte
-Scritta &gt;= 6
+- Twitter: l'abbiamo usato? se si, correttamente? (handle e hashtag al 
+posto e al momento giusto)
 
-- @StefanoFranz20: Modalità d'esame rivoluzdigitale http://t.co/lGIICks0UN
+- Parte A della prova scritta: risposte a casaccio e non date vengono 
+regolate da un algoritmo: risposta sbagliata penalizzata (-0.5 pt), meglio
+non rispondere (0 pt)!
 
-- @DavidePalermo2: Mailinglist: l'abbiamo usata? (NO Spam dice @demartin)
-siamo stati capaci ad usarla? [20%]
+- Esempio di breve saggio da esame: "differenza tra Internet e web"
 
-- @fabioricca93: Soglie per l' esame scritto: 10 punti almeno nella
-parte online e almeno 6 punti per la parte scritta
 
-- @DavidePalermo2: Twitter: l'abbiamo usato? correttamente? (handle,
-hashtag)
+- I saggi devono essere scritti in periodi completi, no grafici, no schemi. I 
+primi 2 brevi, l'ultimo un po' più lungo e articolato.
 
-- @DavidePalermo2: Risposte a casaccio e Non-Risposta vengono regolate
-da un algoritmo: risp sbagliata penalizzata; meglio non rispondere!
+- @bassosimone e @demartin correggeranno circa 300 "temini" (saggi). Il 
+corso tende a incentivare la scrittura nella scuola pubblica.
 
-- @bassosimone: esempio di breve saggio da esame: "differenza tra Internet
-e web"
+- Allo scritto sono ammessi i vocabolari ma non appunti e materiale 
+extra!
 
-- @DavidePalermo2: Saggi scritti in periodi completi, No grafici,
-No schemi. I primi 2 brevi, l'ultimo un po' più lungo e articolato.
+- Video di gruppo. Consiglio: meglio fare l'editing video.
 
-- @DavidePalermo2: @bassosimone &amp; @demartin correggeranno ca 300
-"temini" (saggi) Vogliono incentivare la scrittura nella scuola pubblica
 
-- @93_checco: Pesi della valutazione del lavoro svolto a casa: blog 65%
-twitter 15% mailing list 20%
-
-- @DavidePalermo2: Risposta sbagliata -0,5 pt Risposta non data 0 pt
-Nel quiz a risposta multipla
-
-- @_FedericoConte: il 14 giugno finisce la parte online
-
-- @93_checco: L' esame scritto sarà composto da 12 "quiz" da svolgere in
-40 minuti max 6 punti, e da 3 saggetti e si avranno 3h e 20m
-
-- @_FedericoConte: pesi della valutazione parte online: blog 65%,
-Mailing list 20%, Twitter 15%
-
-- @Ale_Cannone: allo scritto sono ammessi i vocabolari ma non appunti e
-materiale extra!
-
-- @BoggioMattia: La parte online del corso finisce il 14 giugno
-
-- @BoggioMattia: La valutazione per la parte on line di si divide in:
-blog(60%), mailing list(20%) e twitter(15%)
-
-- @BoggioMattia: La parte scritta del corso si divide in: parte A
-(12 domande) e parte B (2 saggi brevi e 1 medio)
-
-- @_FedericoConte: esame scritto 40% voto finale: Parte A - 40', 12
-domande Parte B - 3'' 20', 2 saggi brevi 1 saggio medio
-
-- @Carrattrezzi: Ricapitolazione esami, voto: 65% blog 20% mailing list
-15% Twitter costituiscono con questo peso il 60% del voto (18/30)
-
-- @Carrattrezzi: 40% esame scritto (12/30). Parte A: 40', 12 domande 6
-punti. Parte B: 3h20', 2 saggi brevi, 1 saggio medio, 6 punti.
-
-- @Ale_Cannone: consiglio sul video: meglio fare un po di editing video
-
-- @Clerish: È consigliabile fare l'editing sul video del blog. Che ne
-dite di un po'di alieni ed esplosioni? 
-
-- @DavidePalermo2: "Video pres deve avere del video editing, Max 2h per
-un video di 2m30' " @demartin Contando tempistiche @YouTube invece?
-
-- @bassosimone: @DavidePalermo2 un video per gruppo non per persona
+- "Servono al massimo 2h per un video di 2m30' " Ci si chiede: tenendo in 
+considerazione le tempistiche di @Youtube??
 
 #### Prossime tappe corso
 
-- @DavidePalermo2: Fine memento di @demartin Ora analizziamo le prossime
-Tappe del corso
+- Fine memento di @demartin. Ora analizziamo le prossime tappe del 
+corso
 
-- @EricaAcire19: prossimi argomenti= brevetti/diritto d'autore, creative
-commons, collaborazione, pirateria, culture hacker...
-
-- @DavidePalermo2: Prossime Tappe del Corso: brevetti e dirittodautore
-(continua) CC collaborazione pirateriainformatica Cultura hacker
-
-- @websocialblog: A rivoluzdigitale si parla di Brevetti, Creative
-commons, Pirateria..
-
-- @FabioBussi: Argomenti delle prossime lezioni: - brevetti/diritto
-d'autore; - creative commons; - collaborazione; - "pirateria" - hacker
-
-- @DavidePalermo2: E ancora Software Libero con il prof. Angelo Raffaele
-Meo http://t.co/X5Nme58eY5
-
-- @StefanoFranz20: Argomenti che tratteremo nelle lezioni a seguire:
-brevetti-creative commons-collaborazione-pirateria- cultura hacker
-
-- @FabioBussi: e prosegue con. -software libero con prof Meo; -
-"logical fallace"/integrità;
-
-- @EmaParrinello: prossimi argomenti: brevetti/diritto d'autore, creative
-commons, collaborazione, pirateria, cultura hacker, open source
-
-- @DavidePalermo2: Logica Fallace su Wikipedia http://t.co/WI8R1lqi82
-
-- @LucaLiuzzi: Next subject: - Brevetti/Diritto d'autore - Creative
-Commons (CC) - Collaborazione - Pirateria - Cultura Hacker
+- prossimi argomenti= brevetti/diritto d'autore, creative commons, 
+collaborazione, pirateria, culture hacker...
 
 - @DavidePalermo2: CreativeCommons: il diritto d'autore all'epoca di
-Internet spiegato dal docente @demartin http://t.co/Z0BSmlCcsJ
+Internet spiegato dal docente @demartin http://t.co/Z0BSmlCcsJ 
+(Youtube)
 
-- @websocialblog: Che strumenti critici mettiamo in campo per controllare
-l'attendibilità della fonte?
+- Si parlerà di Software Libero con il prof. Angelo Raffaele Meo 
+http://t.co/X5Nme58eY5
 
-- @DavidePalermo2: Crap Detection Mini-Course | Howard Rheingold
-http://t.co/gr9qLSx1Mc
+- Tratteremo "logical fallace" (Wikipedia http://t.co/WI8R1lqi82) e
+integrità
 
-- @DavidePalermo2: Di chi è un dato dominio? Ad esempio si può scoprire
-con siti come questo http://t.co/hwKyhFSkHu
+- Parleremo di “crap detection”: che strumenti critici mettiamo in campo 
+per controllare l'attendibilità della fonte?
 
-- @LucaLiuzzi: @DavidePalermo2 "siti come questo". Cioè i siti degli
-host provider del sito a cui fa riferimento l'url.
+- Crap Detection Mini-Course | Howard Rheingold 
+http://t.co/gr9qLSx1Mc 
 
-- @venadavide: Possibilità di risalire al proprietario di un certo IP
+- Di chi è un dato dominio? Ad esempio si può scoprire con servizi come 
+questo http://t.co/hwKyhFSkHu, database nei quali vengono raccolte le 
+informazioni relative ai titolari dei nomi a dominio.
 
-- @EricaAcire19: Tra i prossimi argomenti di un approfondimento sul
-giornalismo e sul suo rapporto con il web...
+- Tra i prossimi argomenti un approfondimento sul giornalismo e sul suo 
+rapporto con il web.
 
-- @LorenzoCutelle: Ecco la lista dei principali argomenti che tratteremo
-nel corso (scusate la pessima scrittura!). http://t.co/ivdG50UF7G
+- Ecco la lista dei principali argomenti che tratteremo nel corso (scusate 
+la pessima scrittura). http://t.co/ivdG50UF7G
 
-- @DavidePalermo2: Conclusioni: Il futuro di Internet Tema d'esame
-Festival di celebrazione di arduino al @Fablabtorino
+- Conclusioni: Il futuro di Internet potrebbe essere un tema d'esame.
 
-- @FeFallace: il 14 giugno alle 19:30 il Festival Arduino e dei makers
-al @Fablabtorino
-
-- @AndreaCugusi: 14/6 alle 19:30 Festival Arduino + Makers
-
-- @venadavide: 14/06/13 alle 19 e 30 Festival Arduino
+- @demartin ci informa del festival di celebrazione di @Arduino e dei 
+makers al @Fablabtorino il 14 giugno alle 19:30
 
 #### Proprieta' intellettuale (termine controverso)
 
-- @Ale_Cannone: rivoluzdigitale lo stato protegge la proprietà
-fisica....inizialmente la più importante era le terra
-
-- @russomatteo93: la parola "proprietà" era riferito solo ad oggetti fisici,
+- La parola "proprietà" era riferito solo ad oggetti fisici, materiali, 
 specificamente alla proprietà terriera
 
-- @FabioBussi: per proprietà si intendeva proprietà materiale (terriera)
+- Con lo sviluppo dell’agricoltura s’inizia a passare dalla proprietà 
+collettiva a quella delle singole famiglie.
 
-- @CarolPizzutto: Inizialmente si parlava solo di proprietà di oggetti
-(es. Proprietà terriera), oggi anche di "Proprietà intellettuale"
+- La terra come proprietà conferiva prestigio, potere politico e ricchezza
+alla persona
 
-- @EricaAcire19: Con lo sviluppo dell’agricoltura s’inizia a passare
-dalla proprietà collettiva a quella delle singole famiglie.
+- In diritto, la proprietà (in latino proprietas, da priolurius) è un diritto 
+reale https://t.co/ncghzVr8RK (Wikipedia)
 
-- @EmaParrinello: Fino a poco tempo fa il termine proprietá era
-legato a oggetti fisici e in particolare alla terra, oggi é diverso
+- Al concetto di proprietà fisica si lega il concetto di furto
 
-- @Ale_Cannone: la terra come proprietà conferiva prestigio, potere politico
-e ricchezza alla persona
+- Il furto è un atto di prevaricazione, in genere impossessamento indebito 
+di un bene di proprietà altrui https://t.co/zRNGGnbH0D (Wikipedia)
 
-- @enricoiucci: PROPRIETÁ nasce in ambito terriero
+- "Proprietà intellettuale" termine molto usato ma anche molto 
+dibattuto: dalla terra a qualcosa di non materiale.
 
-- @FabioBussi: con il concetto di proprietà si definisce anche il
-concetto di furto
+- Il brevetto è il primo caso in cui si inizia a parlare di "proprietá" 
+riferendosi a qualcosa di intangibile: col brevetto si tutela l’idea.
 
-- @SoFranchy: "Proprietà intellettuale" termine molto usato ma anche
-molto dibattuto: dalla terra a qualcosa di non materiale.
+- Proprietà: da qualcosa di solamente tangibile e materiale a qualcosa
+che può essere anche intangibile e non materiale
 
-- @DavidePalermo2: In diritto, la proprietà (in latino proprietas, da
-priolurius) è un diritto reale https://t.co/ncghzVr8RK
+- Proprietà: anni fa si riferiva al solo possesso di oggetti fisici; oggi è un 
+termine associato anche a invenzioni e metodi frutto dell'ingegno.
 
-- @DavidePalermo2: furto è atto di prevaricazione In genere
-impossessamento indebito di un bene di proprietà altrui
-https://t.co/zRNGGnbH0D
-
-- @enricoiucci: brevetto= primo caso in cui si iniziò a parlare di
-"proprietá" relativo a qualcosa di intangibile
-
-- @Ale_Cannone: i brevetti sono delle proprietà particolari in quanto non
-direttamente fisiche
-
-- @SoFranchy: La proprietà di qualcosa di intangibile inizia ad essere
-garantita con i primissimi brevetti
-
-- @FabioBussi: per la prima volta si associa la "proprietà" a qualcosa
-di intangibile, come un'idea
-
-- @_FedericoConte: Proprietà: da qualcosa di solamente tangibile e
-materiale a qualcosa che può essere anche intangibile e non materiale
-
-- @Gian_Cirillo: Proprietà di oggetti fisici e proprietà intellettuale,
-connessione al concetto di furto
-
-- @FeFallace: Per le invenzioni c'è una concessione di un monopolio per
-"compensare" l'inventore in cambio di pubblicità
-
-- @Rexsimo893: Proprietà: anni fa -&gt; solo possesso di oggetti fisici;
-ora -&gt; associato anche a invenzioni e metodi frutto dell'ingegno
-
-- @DavidePalermo2: Concessione monopolio temporaneo per "compensare"
-l'inventore in cambio di pubblciità
-
-- @BoggioMattia: Concessioni di un monopolio temporaneo per compensare
-l'inventore in cambio di pubblicità
+- Per le invenzioni c'è una concessione di un monopolio temporaneo per 
+"compensare" l'inventore in cambio di pubblicità (la conoscenza può 
+circolare).
 
 #### Brevetti
 
-- @CarolPizzutto: Concetto di brevetto diverso da quello di proprietà:
-il primo è temporaneo, il secondo perpetuo.
+- Il concetto di brevetto, o di proprietà intangibile, è diverso da quello di
+proprietà materiale: il primo è temporaneo, il secondo perpetuo e 
+tramandabile.
 
-- @SoFranchy: Proprietà materiale perpetua - proprietà intangibile
-dell'idea limitata.
+- Si è scelto di non premiare le invenzioni per la loro importanza e/o 
+originalità, ma invece assicurare all’inventore l’autorità esclusiva di 
+concedere o negare l’utilizzo dell’invenzione.
 
-- @FabioBussi: si è scelto di non premiare le invenzione, ma invece
-assicurare l'utilizzo esclusivo all'inventore a scadenza
-
-- @Ale_Cannone: brevetti---&gt; monopolio temporaneo Proprietà
-fisiche----&gt; beni perpetui e tramandabili
-
-- @Rexsimo893: Invenzione: concessione monopolio temporaneo in cambio
-di pubblicità (la conoscenza può circolare)
-
-- @BoggioMattia: Stato tutela il monopolio temporaneo
-
-- @DavidePalermo2: Stato tutela il monopolio temporaneo, così come
-accade nel Diritto d'autore (a grandi linee)
-
-- @FabioBussi: si obbliga a divulgare pubblicamente le scoperte delle
-invenzioni
-
-- @Gian_Cirillo: brevetto:concessione di un monopolio temporaneo per
-compensare l'inventore in cambio di pubblicità (la conoscenza circola)
-
-- @DavidePalermo2: Diritto d'autore è concessione monopolio temporaneo
-(morte + 70 anni)
-
-- @BoggioMattia: Il diritto d'autore è un esempio di concessione di
+- In cambio della pubblicità dell’idea o della scoperta, lo Stato tutela il
 monopolio temporaneo
-
-- @EmaParrinello: la "proprietá intellettuale" é diversa da quella fisica
-perchè é una concessione di monopolio temporaneo e non perpetuo
 
 #### Diritto d'autore
 
-- @russomatteo93: il diritto d'autore è comunque una concessione temporanea
-(morte + 70 anni)
+- Il diritto d'autore è un altro esempio di concessione di monopolio 
+temporaneo che vale fino alla data di morte dell’autore + 70 anni
 
-- @_FedericoConte: Diritto d'autore: concessione di un monopolio
-temporaneo
+- Dopo la fine della concessione chiunque può manipolare l'opera o 
+l'invenzione che diventa di pubblico dominio
 
-- @BoggioMattia: Il diritto d'autore vale per 70 anni dopo la morte
-dell'autore
+- esempio di opera di dominio pubblico è Il grande Gatsby, diventata 
+libera l'anno scorso.
 
-- @russomatteo93: dopo la fine della concessione chiunque può manipolare
-l'opera o l'invenzione
+- Per saperne di più: proprietà e invenzioni http://t.co/Z3NIavnVLi
 
-- @LucaLiuzzi: Diritto d'autore. - è una concessione di un monopolio. -
-temporaneo (morte + 70anni),poi di pubblico dominio.
+- Proprietà, brevetti, Diritto d'autore http://t.co/slm66GhxPS 
 
-- @fabioricca93: Dopo la cessazione del diritto temporaneo, invenzioni
-e opere confluiscono nel pubblico dominio
+####Durate e diritti
 
-- @Ale_Cannone: sia diritti d'autore che brevetti dopo la scadenza entrano
-nel pubblico dominio
+- Alcuni economisti affermano che bisognerebbe diminuire la soglia di 70
+anni dopo la morte del diritto d'autore
 
-- @venadavide: Al termine della concessione temporanea l'invenzione
-"torna" nel pubblico dominio
+-  La durata del monopolio deve essere scelta facendo un bilanciamento 
+tra diritti degli inventori/autori e diritti dei cittadini/collettività. Al 
+momento si ha uno sbilanciamento verso i primi
 
-- @FabioBussi: la soglia di 70 anni dopo la morte del diritto d'autore
-gli economisti affermano che bisognerebbe diminuirla
+- Contrapposizione: incentivo e diritti per l'autore VS diritti degli altri a
+usufruire dell'invenzione
 
-- @Clerish: esempio di opera di dominio pubblico è Il grande Gatsby,
-diventata libera l'anno scorso.
+- Il monopolio temporaneo difende in primo luogo gli inventori/autori 
+(ma più spesso le case editrici), poi la collettività
 
-- @FeFallace: La proprietà di oggetti è perpetua, mentre per le
-invenzioni e il diritto d'autore il monopolio è solo temporaneo
 
-- @CarolPizzutto: Anche il diritto d'autore é concessione
-temporanea. Cessato il periodo di dominio, diventa tutto di pubblico
-dominio.
+- Non si può parlare di furto fisico: se io uso l'idea di qualcuno non la 
+sottraggo a livello fisico. A rigor di logica il furto delle idee non esiste
 
-- @giuli93: DIRITTO D'AUTORE--&gt; concessione di un monopolio temporaneo
-(morte +70 anni), dopo di che diventano di pubblico dominio
 
-- @ripa_pepperipa: per saperne di più: proprietà e invenzioni ----&gt;
-http://t.co/Z3NIavnVLi
+- L’idea tutelata dal brevetto è pubblica e “si comporta” come una 
+candela accesa che diffonde luce e ne accende altre 
 
-- @Antonio_Langiu: bilanciamento tra diritti inventori/autori e
-cittadini/collettività..
+####Tutela dell’intangibile
 
-- @LucaLiuzzi: Invenzioni - è una concessione di un monopolio. -
-temporaneo.
+- Dopo l'invenzione della stampa di Gutemberg sorge il problema di come 
+tutelare il contenuto intangibile del libro e non libro stesso: stampe 
+abusive.
 
-- @BoggioMattia: Bilanciamento tra diritti inventori/autori e
-cittadini/collettività
+- Prime cause legali sui libri, dopo averlo comprato, posso copiarlo per
+una nuova edizione?
 
-- @Rexsimo893: Contrapposizione: incentivo e diritti per l'autore VS
-diritti degli altri a usufruire dell'invenzione
+- Oggetto fisico lo possiamo proteggere: per la proprietà fisica si può 
+definire il furto. Ma come evitiamo la copia dell'intangibile? 
 
-- @FeFallace: Il monopolio temporaneo difende in primo luogo gli
-inventori/autori (ma più spesso le case editrici), poi la collettività
+- Inizia a sorgere una differenza tra possesso dell'oggetto fisico e 
+possesso del suo contenuto
 
-- @Gian_Cirillo: durata brevetto/diritto d'autore decisa per bilanciare
-i diritti di inventore/autore e collettività/cittadini
+- Gli stampatori chiedono la tutela del contenuto allo Stato
 
-- @russomatteo93: se io uso l'idea di qualcuno non la sottraggo a livello
-fisico e quindi è del tutto lecito
+- Lo Stato pur di poter “controllare” le stampe concorda dei termini con 
+gli stampatori secondo i quali in cambio della tutela sarebbe stata
+introdotta la censura.
 
-- @ripa_pepperipa: deve esserci un bilanciamento tra i diritti
-inventori/autori e cittadini/collettività
+- Gli interessi di Stato e stampatori si fondono. Nasce la censura e, con la 
+censura, il privilegio: veniva apposto sulle stame “cum privilegio”
 
-- @FabioBussi: nell'ambito dell'idea il concetto di furto materiale
-perde di senso
+- Esempi di "cum privilegio", tutela del contenuto metafisico,
+http://t.co/ir93PH2o1L http://t.co/fG03lQLdGv 
 
-- @Ale_Cannone: con i diritti d'autore il bilancio tra gli autori/inventori
-e collettività è a favore dei primi
+- Gli Stati forniscono protezione agli stampatori in cambio del controllo 
+sulle stampe: alcuni stampatori sono privilegiati rispetto ad altri ma lo 
+Stato limita i contenuti.
 
-- @LorenzoCutelle: I 70 anni post mortem vogliono essere un "BILANCIAMENTO"
-tra i diritti degli inventori/autori e cittadini/collettività
+- Nel 1710 (Illuminismo), in Inghilterra, lo "Statuto della Regina Anna" si
+presenta come prima legge sul copyright (Copyright act), prima legge 
+moderna sul diritto d’autore.
 
-- @Antonio_Langiu: A rigor di logica il furto delle idee non esiste
+- Gli stampatori inglesi vorrebbero monopolio perpetuo dei contenuti, Lo
+“Statuto della regina Anna” stabilisce condizioni di monopolio 
+temporaneo: 14 anni dalla pubblicazione, previa registrazione.
 
-- @DavidePalermo2: Esiste il "furto di idee?"
+- I 14 anni potevano essere estesi a pagamento. Al termine le opere 
+entravano nel pubblico dominio.
 
-- @Rexsimo893: Idea come candela accesa che si diffonde e ne accende
-altre -&gt; diffusione ma NO concetto di furto come per cosa materiale
+- Nel 1786 nasce il “Copyright Act” americano che sancisce come durata
+del copyright 50 dalla morte del creatore. 
+http://it.wikipedia.org/wiki/Copyright_Act
 
-- @EmaParrinello: l'uso di un'idea altrui non puó essere definita un furto
+- Copyright http://t.co/kdslV4SV7U (Wikipedia)
 
-- @SoFranchy: Si può parlare di furto di idee? No, perché l'idea non
-viene fisicamente sottratta
+- Il 90% delle opere finiva in pubblico dominio dopo 14 anni: la maggior 
+parte delle opere ha un ritorno economico concentrato nei primi sei mesi
 
-- @venadavide: Metafora della candela di Ennio per esprimere la
-collettività di un idea
 
-- @Antonio_Langiu: Come facciamo a tutelare il contenuto intangibile
-del libro?
+- All'inizio della creazione del "copyright" poche opere venivano 
+registrate: l’elevato costo e la presenza di formalità trattenevano gli 
+autori.
 
-- @BoggioMattia: Dopo l'invenzione della stampa sorge il problema di
-come tutelare il contenuto intangibile del libro
+- Con il Trattato di Berna del 1886 si ha la prima evoluzione del copyright: 
+non ci sono formalità per la registrazione e la tutela dura minimo 50 anni 
+dopo la morte dell’autore. http://t.co/p0ydHDBnbD (Wikipedia)
 
-- @FabioBussi: prime cause legali sui libri, dopo averlo comprato
-legittimamente posso copiarlo per una nuova edizione?
+- Riassumendo i passi della tutela delle idee: 1. "Cum Privilegio" 2. 
+Statuto della regina Anna 3. Copyright Act 4. Trattato di Berna
 
-- @DavidePalermo2: Oggetto fisico lo possiamo proteggere: proprietà e
-furto Ma come evitiamo la copia dell'intangibile? gutenberg
+- Sui farmaci, fino agli anni 70, era proibito applicare il copyright
 
-- @venadavide: Metafora della candela di Ennio per esprimere la
-collettività di un'idea
+- Il DdA è un così vasto argomento che Wikipedia gli dedica una serie 
+intera http://t.co/sPvqqJyzVJ 
 
-- @FeFallace: Post Gutemberg, come difendersi dalle stampe "abusive"
-di libri?
+- Gli interessi degli autori sembrano prevalere su quelli della collettività: 
+le tutele aumentano sempre il periodo di validità
 
-- @SoFranchy: Dopo Gutemberg nasce l'esigenza di salvaguardare contenuto
-del libro e non libro stesso: stampe abusive.
-
-- @Rexsimo893: Dopo Gutemberg -&gt; problema: come si fa a tutelare
-parte intangibile dell'oggetto? (es. Stampe abusive)
-
-- @DavidePalermo2: Già con gutenberg esisteva la problematica delle
-copie abusive di libri (problematicità di mercato)
-
-- @SimoneBleynat: Differenza tra possesso dell'oggetto fisico e possesso
-del suo contenuto
-
-- @russomatteo93: dopo Gutemberg ci si pone il problema delle stampe
-"abusive" di libri
-
-- @_FedericoConte: Dopo Gutenberg, problema delle stampe "abusive"
-di libri. Problema di come tutelare il contenuto intangibile del libro.
-
-- @BoggioMattia: Stampatori chiedono tutela
-
-- @Carrattrezzi: Per superare l'esame punteggi: parte online: &gt;10
-parte scritta: &gt;= 6
-
-- @StefanoFranz20: Dopo Gutemberg sorse il problema delle stampe "abusive"
-di libri
-
-- @DavidePalermo2: Interesse stampatori Vs Interessi dello stato
-
-- @BoggioMattia: Gli stati introducono la censura
-
-- @_FedericoConte: In cambio della tutela lo stato vuole l'introduzione
-della censura
-
-- @Ale_Cannone: dopo Gutemberg gli stampatori erano diffidenti riguardo gli
-investimenti nella stampa a causa delle stampe abusive
-
-- @Carrattrezzi: Sempre in questa stagione: Software libero Logical
-fallacies/integrità Crap Detection Diritto Giornalismo Futuro rete
-
-- @Antonio_Langiu: Interesse stampatori e interesse stati si
-unisce.. Nasce la censura..
-
-- @LorenzoCutelle: Se copio il contenuto di un libro acquistato
-regolarmente commetto un furto? Dubbi Amletici Post Gutenberg
-
-- @Carrattrezzi: Ultima lezione prova con temi d'esame e il 14/06 alle
-19.30 evento festival di Arduino e dei makers al fablab
-
-- @MarcoViccica: dopo Gutenberg si introducono le prime forme di censura
-
-- @enricoiucci: con la stampa nasce l'accordo tra stati che fornivano
-protezione agli stmpatori in cambio di controllo --&gt; censura
-
-- @Ale_Cannone: lo stato era preoccupato dalla forza sovversiva della stampa
-e si accorda con gli stampatori fornendo protezione
-
-- @VadimCujba: Dopo Gutenberg, emerse il problema delle stampe "abusive"
-di libri
-
-- @SoFranchy: Preoccupazione degli Stati per imprevedibilità stampa
-+ tutela dei diritti degli stampatori = censura. Nasce il privilegio
-
-- @Carrattrezzi: Proprietà, brevetti, "Diritto d'autore"
-http://t.co/slm66GhxPS
-
-- @Clerish: Viene introdotto il privilegio, integrato nella censura,
-per difendere gli stampatori 
-
-- @Gian_Cirillo: Dopo Gutemberg: problema stampe abusive. Come tutelare
-gli interessi degli stampatori? Censura e privilegio
-
-- @BoggioMattia: Dopo gutenberg problema delle stampe abusive dei libri
-
-- @FeFallace: Lo Stato protegge gli stampatori dalla competizione
-selvaggia ma in cambio della Censura, il controllo su ciò che si stampa
-
-- @FabioBussi: si decide di tutelare gli stampatori da altri stampatori
-ma si stampa solo ciò che i tutelatori vogliono
-
-- @BoggioMattia: Si saldano due elementi: interesse dei stampatori e
-interesse degli stati
-
-- @DavidePalermo2: Esempio di "cum privilegio" di Aldo Manuzio
-http://t.co/ir93PH2o1L
-
-- @fabioricca93: "Cum privilegio" = tutela del contenuto metafisico
-
-- @BoggioMattia: 1710 in Inghilterra prima legge sul copyright
-
-- @StefanoFranz20: "Cum privilegio" sistema utilizzato ai fini della
-tutela del contenuto e non dell'oggetto fisico http://t.co/fG03lQLdGv
-
-- @enricoiucci: Inghilterra, 1710. "Statuto della Regina
-Anna" --&gt; prima forma di copyright
-
-- @russomatteo93: gli stampatori inglesi vogliono la proprietà perpetua
-
-- @GiGirgenti: Gli stampatori inglesi vogliono una proprietà perpetua
-
-- @_FedericoConte: 1710 prima legge sul copyright (diritti d'autore)
-in inghilterra
-
-- @Ale_Cannone:  gli stampatori inglesi volevano la proprietà perpetua per
-la stampa ma questo era un potere troppo grande
-
-- @VadimCujba: Gli stampatori inglesi volevano la proprietà perpetua...
-
-- @FabioBussi: "cum privilegio" prima tutela del contenuto scritto dei
-libri, non dell'oggetto fisico
-
-- @GiGirgenti: Lo statuto della regina Anna stabilisce il monopolio
-temporaneo. Da questo momento quasi nessuno si lamenta 
-
-- @SoFranchy: Stampatori inglesi vorrebbero monopolio perpetuo
-dei contenuti, statuto della regina Anna stabilisce monopolio
-temporaneo.
-
-- @russomatteo93:  la regina Anna in periodo illuministico
-(1710) stabilisce il monopolio temporaneo
-
-- @bassosimone: RT "@Carrattrezzi "Brandy Nan" e la liberalizzazione
-del mercato degli stampatori-&gt; monopolio temporaneo"
-
-- @FeFallace: 1710 Statuto della Regina Anna stabilisce il monopolio
-temporaneo per gli stampatori
-
-- @Gian_Cirillo: 1* legge moderna su diritto d'autore=statuto della
-regina Anna(1710, illuminismo) che sancisce il monopolio temporaneo
-
-- @VadimCujba: 1710&gt; Lo statuto della regina Anna stabilisce il
-monopolio temporaneo
-
-- @bassosimone: @Antonio_Langiu no, tranquillo, conta anche Wikipedia,
-che viene inserita nel capitolo "blog"
-
-- @Ale_Cannone: statuto della regina Anna: la protezione durava 14 anni
-dalla pubblicazione previa registrazione
-
-- @Gian_Cirillo: Il 'Copyright Act' (1786) torna per affrontare il
-digitale
-
-- @Antonio_Langiu: @bassosimone grazie #sapevatelo Wikipedia viene
-contato nel 65% inerente al blog
-
-- @ripa_pepperipa: Copyright Act (1786)---&gt; http://t.co/kdslV4SV7U
-
-- @VadimCujba: Copyright Act&gt; 1786
-
-- @Rexsimo893: Copyright Act(1786): citato anche adesso in relazione al
-digitale. Prevedeva monopolio temporaneo -&gt; 14 anni da pubblicaz.
-
-- @Carrattrezzi: Pubblico annuncio di tutela da copyright. Durata 14 anni
-(con possibilità di estensione).
-
-- @Ale_Cannone: il 90% delle opere finiva in pubblico
-dominio, gli altri dopo 14 anni oppure 28 con l'estensione
-
-- @bassosimone: la maggior parte delle opere ha ritorno economico
-concentrato nei primi sei mesi
-
-- @FabioBussi: all'inizio della creazione del "copyright" poche opere
-venivano registrate
-
-- @FabioBussi: prima evoluzione del copyright: no formalità
-
-- @russomatteo93: Trattato di Berna 1886 --&gt; non ci sono formalità
-per la registrazione 
-
-- @DavidePalermo2: Fino a poco tempo fa si parlava di editori pirati,
-non di utenti pirati
-
-- @FabioBussi: seconda evoluzione copyright: la tutela dura minimo 50
-anni dopo la morte
-
-- @DavidePalermo2: Favorisco la Non formalità e aggiungo morte + 50
-anni Berna 1886 - http://t.co/p0ydHDBnbD
-
-- @Carrattrezzi: Aumento del termine di tutela, per intercessione della
-forte lobby degli stampatori.
-
-- @bassosimone: @Antonio_Langiu @LucaLiuzzi si', anche traduzioni,
-video sottotitolati, etc (vedila come: www, ml, twitter)
-
-- @Ale_Cannone: I passi della tutela delle idee: 1. "Cum Privilegio"
-2. Statuto della regina Anna 3. Copyright Act 4. Trattato di Berna
-
-- @Gian_Cirillo: Trattato di Berna sul diritto d'autore (1886): -no
-formalità; -durata tutela=morte+70anni
-
-- @_FedericoConte: Trattato di Berna 1886: -no formalità -minimo durata
-diritti d'autore: morte + 50 anni
-
-- @BoggioMattia: Trattato di Berna 1886: no formalità e diritto d'autore
-50 anni dopo la morte
-
-- @DavidePalermo2: Diritto d'autore così vasto come argomento che
-Wikipedia gli dedica una serie intera http://t.co/sPvqqJyzVJ
-
-- @enricoiucci: la tutela della proprietà intellettuale dopo la morte é
-a beneficio esclusivo dei "pochi" (famiglia, editori)
-
-- @Carrattrezzi: L'utente non si accorgeva delle contrattazioni dietro
-la pubblicazione, problema nato con la
-
-- @FabioBussi: nei farmaci fino agli anni 70 era proibito devolvere
-copyright
-
-- @Ale_Cannone: gli interessi degli autori prevalgono su quelli della
-collettività (le tutele aumentano sempre il periodo di validità)
-
-- @_FedericoConte: Col digitale la tendenza a tutelare l'intangibile
-diventa a portata di tutti
-
-- @FabioBussi: con il digitale noi abbiamo la possibilità di creare
-opere prima esclusive agli editori
-
-- @EricaAcire19: La separazione fra oggetto fisico e contenuto diventa
-alla portata di tutti. (no azienda vs azienda, ma people vs azienda).
-
-- @Gian_Cirillo: Tutela dell'intangibile incontra il digitale: crisi
-sistema monopolio aziendale
-
-- @LorenzoCutelle: Ecco perché esce adesso "Il grande Gatsby": Fitzgerald
-muore nel 1940. 2013-1940: 73 anni post mortem! tuttotorna
-
-- @DavidePalermo2: Proprietà intellettuale è: 1) diritto d'autore 2)
-brevetti 3) marchi
+- Fino a poco tempo fa si parlava di editori pirati, non di utenti pirati:
+l’utente non si accorgeva delle contrattazioni dietro la pubblicazione
 
 #### Digitale e crisi della proprieta' intellettuale
 
-- @DavidePalermo2: L'incontro Digitale &amp; Proprietà Intellettuale
-è esplosivo! mette in crisi il 'sistema'
+- Col digitale l’interesse a tutelare (o meno) l'intangibile diventa di tutti: 
+chiunque ha la possibilità di creare opere. La separazione fra oggetto
+fisico e contenuto diventa alla portata di tutti. (no azienda vs azienda, ma 
+people vs azienda).
 
-- @Antonio_Langiu: Personal Computer sotto il controllo dell'utente che
-manipolano bit
+- Tutela dell'intangibile incontra il digitale crisi del sistema di 
+monopolio aziendale
 
-- @Ale_Cannone: Personal computer: macchina per copiare 
+- 3 anni fa terminava il periodo di tutela de "Il grande Gatsby": Fitzgerald 
+muore nel 1940. 2013-1940: 73 anni post mortem! 
 
-- @Clerish: I personal computer sono macchine digitali "general purpose"
-fatte per manipolare i Bit 
+- @DavidePalermo2: Proprietà intellettuale è: 1) diritto d'autore 2) 
+brevetti 3) marchi
 
-- @Antonio_Langiu: PC + internet + web = contenuti che possono essere
-manipolati, copiati etc..
+- L'incontro Digitale-Proprietà Intellettuale è esplosivo! Ognuno di noi ha 
+la possibilità di manipolare e copiare bit tramite i computer, che non 
+sono altro che macchine "general purpose" per copiare.
 
-- @FeFallace: La proprietà intellettuale è l'insieme degli strumenti
-per controllare la proprietà: diritto d'autore, brevetti e marchi.
+- L'avvento di PC, Internet e Web porta alla separazione tra contenuto e 
+contenitore alla portata di chiunque
 
-- @Antonio_Langiu: Separazione tra contenuto e contenitore alla portata
-di chiunque..
+####Tutela delle copie digitali
 
-- @ripa_pepperipa: distaccare il contenuto dal contenitore, con l'avvento
-del digitale, diventa alla portata di chiunque
+- Il digitale si è trovato a essere sottoposto alle leggi preesistenti anche se 
+non erano state pensate per questo
 
-- @venadavide: General Purpose, computers sotto il controllo dell'utente
-che manipolano (copiano) bit
+- Copiare è considerato atto illecito. Oggi tale legge, col digitale, viene 
+applicata a tutti noi cittadini
 
-- @SoFranchy: Con il digitale separazione tra contenuto e contenitore alla
-portata di chiunque. La copia è all'ordine del giorno 
+- L’idea di alcuni è: accesso a tutti contenuti, a costo molto più basso! Per 
+esempio una biblioteca universale OnLine accessibile a tutti
 
-- @EmaParrinello:  l'avvento dei PC, internet e web porta
-alla separszione tra contenuto e contenitore alla portata di chiunque
+- Ci si chied:e qual è il giusto bilanciamento tra i diritti degli autori e quelli 
+degli utenti con il digitale? Possono restare le regole 800esche applicate 
+a tutto il resto? 
 
-- @Ale_Cannone: Internet (e web)---&gt; i contenuti sono manipolati,
-copiati e distribuiti... es. Gli articoli copiati presenti nei vari
-siti? 
+- @bassosimone: <<Il video che faremo in questo corso sara' tutelato 
+come l'ultimo film di Hollywood: "morte + 70">>
+- @demartin “Un blog di ricette è tutelato per legge come l'ultimo film di 
+Hollywood”
 
-- @DavidePalermo2: E' forse la quinta volta in tutto il corso di che
-sento il termine Stiamo entrando nel vivo del Corso!
+- Da una decina d’anni vengono fatte diverse proposte per la riforma del 
+Copyright sul digitale, riconosciuta necessaria da molti. Per farla bisogna 
+arrivare ad un accordo internazionale.
 
-- @Rexsimo893: Il digitale si è trovato a essere sottoposto alle leggi
-preesistenti anche se non erano state pensate per questo
+- Considerare: Il mondo digitale permette di prestare qualcosa agli altri 
+senza rinunciarvi. Una copia digitale è utile alla libera condivisione (senza 
+perdite)
 
-- @Carrattrezzi: Con nuovo rapporto contenuto e contenitore e la si
-rompe il paradigma legislativo del diritto d'autore, ancora inadadeguato
+####Creative commons
 
-- @ripa_pepperipa: copiare è considerato atto illecito. Oggi tale legge,
-col digitale, viene applicata a tutti noi cittadini
+- In attesa di una riforma del Copyright ci si inventa delle licenze standard 
+da esporre, con le quali si rinuncia ad alcuni diritti di tutela garantiti per 
+legge: Creative Commons http://t.co/i1D6d1RPd2  (Wikipedia)
 
-- @DavidePalermo2: Accesso ai contenuti molto diffuso, a costo molto
-più basso! Per es. una biblioteca universale OnLine accessibile a tutti
+- Commons è diverso sia da privato che da pubblico.. e' un qualcosa di 
+gestito collettivamente, a meta' tra pubblico e privato
 
-- @bassosimone: quale bilanciamento tra i diritti degli autori e quello
-degli utenti? Anche considerando i vostri blog, etc.
+- Rif. a "La Condivisione della Conoscenza - BDEM13 - De Martin, Donolo, 
+Mattei" http://t.co/7v74cfLiK0
 
-- @ripa_pepperipa: ciascuno di noi diventa autore pubblicando su internet!
+- @demartin: se vi serve un video di una ragazza che cammina sulla 
+spiaggia, non serve andare ad Albenga a filmare: basta trovare un video 
+tra i beni “commons”
 
-- @bassosimone: il video che farete in questo corso sara' tutelato come
-l'ultimo film di Hollywood: "morte + 70"
+- Creative Commons di default sarebbe rivoluzionario
 
-- @Carrattrezzi: Ormai gli utenti producono contenuti. Il sogno di
-Berners-Lee? Se non regalassimo i diritti a Facebook, youtube &amp;
-co. EULA
+- Le licenze CC: http://t.co/ZBSttR1gPl 
 
-- @Rexsimo893: Noi autori (produttori di contenuti su Internet) siamo
-tutelati dalla stessa legge che controlla le grandi aziende
+- Le licenze Creative Commons sono 6, combinazione delle proprietà di 
+“Attribuzione”, “Non commerciale”, “Non opere derivate”, “Condividi 
+allo stesso modo”.
 
-- @Ale_Cannone:  nuovo bilanciamento? Si, se si creasse
-ad esempio la biblioteca universale che favorisce la conoscenza della
-collettività
+- Occhio: non commerciale vuole dire “non ti autorizzo *a priori* all'uso 
+commerciale, ma possiamo fare un accordo”
 
-- @Antonio_Langiu: Riforma del copyright..da una decina di anni ci sono
-diverse proposte..
+-@bassosimone: il non-commerciale puo' essere boomerang: vuol dire 
+che la RAI non puo' usare un vostro video, cosa che magari voi vorreste.
 
-- @EmaParrinello:  inizialmente ciò che veniva pubblicato
-sul web veniva tutelato con la stessa legge del diritto d'autore
+- Non opere derivate: non si ha il permesso per fare un'opera basata su 
+quella coperta da tale licenza (traduzioni).
 
-- @DavidePalermo2: computer K.O. senza neanche avvisare, ma il Live
-Tweeting continua! Le vie del Digitale sono infinite! Cit.
+- Se prendo un'opera e cambio una virgola, è opera derivata? NO! È 
+plagio!
 
-- @SoFranchy: Le leggi 800esche si applicano anche ai miliardi di
-produttori di contenuti su internet. Serve una riforma copyright
+Condividi allo stesso modo: anche la licenza deve essere uguale per non 
+limitare la libertà di ri-condividere.
 
-- @Clerish: Oggi è mainstream ritenere che ci sia bisogno di una riforma
-del copyright 
+- Nota: in Italia sono pochi gli autori che vivono solo di diritto d'autore. 
+Inoltre, meta' degli autori riceve dalla SIAE meno della quota associativa 
+SIAE (fonte: ex presidente SIAE)
 
-- @SimoneBleynat: "Un blog di ricette è tutelato per legge come l'ultimo
-film di Hollywood" cit. @demartin
+- Wikipedia, che è un commons, ha un valore economico di miliardi di 
+euro
 
-- @Antonio_Langiu: Riforma del copyright riconosciuta necessaria da
-molti..
-
-- @StefanoFranz20: Work in progress. L'obiettivo è riformare
-il copyright ma per fare ció bisogna arrivare ad un accordo
-internazionale.
-
-- @Rexsimo893: Riforma del copyright riconosciuta necessaria da molti
-ma difficile da cambiare per numerosi accordi internazionali
-
-- @Antonio_Langiu: Il copyright non fa distinzione tra le opere.. Sono
-tutte tutelate..
-
-- @DavidePalermo2:  Licenze standardizzate servono a
-proteggere trilioni e trilioni di progetti creati ogni giorno Non all
-rights reserved...
-
-- @Antonio_Langiu: Il mondo digitale mi permette di prestare qualcosa
-senza rinunciarne io..
-
-- @DavidePalermo2: Copia digitale è copia utile
-alla libera condivisione (senza perdite), in base alle 6 licenze
-@creativecommons
-
-- @Clerish: Se voglio prestarti un martello non posso farne una
-copia... oppure si? stampa3d 
-
-- @SoFranchy: 2002: CC: dispongo dei diritti della legge ma rinuncio ad alcuni
-di essi in attesa che la normativa sia modificata
-
-- @LorenzoCutelle: Se voglio "rinunciare" alla tutela che lo Stato in
-automatico applica alla mia opera? Licenze Creative Commons!
-
-- @FeFallace: Per "liberare" dal diritto d'autore alcuni contenuti
-pubblicati ogni giorno vengono create le sei licenze Creative Commons
-
-- @ripa_pepperipa: le licenze "Creative Commons" =&gt;
-http://t.co/i1D6d1RPd2
-
-- @Antonio_Langiu: Commons è diverso sia da privato che da pubblico..
-
-- @DavidePalermo2:  Rif. a "La Condivisione della
-Conoscenza - BDEM13 - De Martin, Donolo, Mattei" http://t.co/7v74cfLiK0
-
-- @bassosimone: commons e' un qualcosa di gestito collettivamente,
-a meta' tra pubblico e privato (i.e. di qualcuno)
-
-- @Ale_Cannone:  bene comune (Commons) va oltre il
-privato ed oltre lo stato...
-
-- @bassosimone: "commons" di opere che tutti possono riutilizzare (se
-nn avete tempo di andare ad Albenga a filmare ragazze su spiaggia :)
-
-- @ripa_pepperipa: Commons vuol dire qualcosa di collettivo, diverso sia
-da privato che da pubblico. No Stato =&gt; è un qualcosa di intermedio!
-
-- @conwused: Il CreativeCommons di default sarebbe rivoluzionario
-
-- @Antonio_Langiu: Le licenze CreativeCommons sono 6..1)Attribuzione..
-
-- @DavidePalermo2: Ora parliamo di Licenze CC http://t.co/ZBSttR1gPl
-@cc_italy
-
-- @Ale_Cannone: CC ---&gt; regole per preservare il Commons (bene comune)
-Ne esistono sei! 
-
-- @bassosimone: occhio: non commerciale vuole dire: non ti autorizzo *a
-priori* all'uso non commerciale (possiamo fare accordi separati)
-
-- @bassosimone: il non-commerciale puo' essere boomerang: vuol dire che
-RAI non puo' usare vs. video (cosa che magari voi vorreste)
-
-- @ripa_pepperipa: Licenze CC: 1. Attribuzione (Libero dominio) --&gt;
-più liberale; 2. Attribuzione-non commerciale; ...
-
-- @bassosimone: Nota: in Italia sono pochi gli autori che vivono solo
-di diritto d'autore (fonte: ex presidente SIAE)
-
-- @bassosimone: (cont...) inoltre meta' degli autori riceve dalla SIAE
-meno della quota associativa SIAE (sempre ex presidnte SIAE)
-
-- @Clerish: Wikipedia ha un valore economico di miliardi di euro
-
-- @ripa_pepperipa: "@Clerish: Wikipedia ha un valore economico di miliardi
-di euro " ---&gt; è un Commons
-
-- @bassosimone: Su input studenti, discussione su come trovare nuove
+- @bassosimone: Su input studenti, discussione su come trovare nuove 
 forme di finanziamento di, e.g., giornalismo, fotografia
 
-- @DavidePalermo2: Completiamo l'elenco di Licenze CC
-http://t.co/ZBSttR1gPl @cc_italy
+- Opinione: il CC se lo si sa utilizzare è comunque uno strumento di lucro. 
+Ci si fa conoscere e poi si fa lucro grazie alla notorietà.
 
-- @Ale_Cannone: 3. Non opere derivate ---&gt; no permesso per fare
-un'opera basata su quella in CC ND 
+- CC più liberale= “Attribuzione. CC più restrittiva=”Attribuzione-non 
+commerciale-non opere derivate
 
-- @DavidePalermo2: Prendo un'opera, cambio una virgola, è opera
-derivata? NO! È plagio!
+- Concetto di "copyleft", detto anche scherzosamente "diritto di copia di 
+sinistra".
 
-- @LucaLiuzzi: Il CC se lo si sa utilizzare è cmq uno strumento di
-lucro.Ci si fa conoscere e poi si fa lucro grazie alla notorietà.
-
-- @ripa_pepperipa: ...3. Attribuzione-non commerciale-non opere derivate
-(Licenza CC più restrittiva!)
-
-- @bassosimone: "copyleft" detto anche scherzosamente "diritto di copia
-di sinistra" cc: @omerovitali
-
-- @DavidePalermo2: Attribuzione Attr-Non op der Attr-Non comm-Non op
-der Attr-Non comm Attr-Non comm-Cond stesso modo Attr-Cond stesso modo
-
-- @Clerish: Grazie a @demartin per la lezione, molto
-interessante. 
-
-- @Ale_Cannone: Copyleft---&gt; condividi allo stesso modo, anche la
-licenza deve essere uguale per non limitare la libertà 
+- Grazie a @demartin per la lezione, molto interessante. 
 
 
 ## 2013-05-22
