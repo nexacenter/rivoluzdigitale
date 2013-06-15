@@ -4694,686 +4694,359 @@ la caption delle immagini.
 
 ### @demartin
 
-- @SabryKarate: E' apprezzata, anche per nostra utilità, la
-live-tweeting della lezione, scrivendo una frase rappresentativa e
+- Il live-tweeting della lezione, e' apprezzato anche
+per la nostra utilià, scrivendo una frase rappresentativa e
 l'hashtag …
 
-- @stufi93: Inizio live tweeting RivoluzDigitale
-
-- @SabryKarate: Non c'è un determinismo tecnologico, la società
+- Non c'è un determinismo tecnologico, la società
 ed il contesto storico influenzano la nascita e diffusione delle
-invenzion…
+invenzioni
 
-- @a_loffreda: Noi oggi siamo nella fase della "diffusione di
-internet" RivoluzDigitale
+- Noi oggi siamo nella fase della "diffusione di
+internet" --> Rivoluzione Digitale
 
-- @EricaAcire19: Competenza scientifica=&gt; idea=&gt; invenzione=&gt;
-necessità sociale &amp;&amp; soppressione del potenziale radicale=&…
+- Competenza scientifica --> idea --> invenzione -->
+necessità sociale --> Diffusione <-- soppressione del potenziale radicale
 
-- @stufi93: La società influenza la diffusione di nuove tecnologie
-RivoluzDigitale
+- La necessità sociale influenza la diffusione di nuove tecnologie
 
-- @RivoluzDigitale: MT "@stufi93 Computer e internet, quali differenze
-a quali paralleli con telegrafo, radio, telefono, TV, etc...?
-RivoluzDigitale"
+- Iter seguito pressapoco da tutte le tecnologie,
+compresi computer e internet! --> http://t.co/d8swx4ypNJ
 
-- @LucaLiuzzi: Le tecnologie in passato sono state strettamente
-centralizzate.Con il computer e internet le cose cambiano.
-RivoluzDi…
+- Computer e internet: quali differenze
+e quali paralleli con telegrafo, radio, telefono, TV, etc...?
 
-- @FabioBussi: Con i computer e internet le regole del gioco non
-cambiano RivoluzDigitale
+- Le tecnologie in passato sono state strettamente
+centralizzate. Con il computer e internet le cose cambiano
 
-- @LorenzoCutelle: Iter seguito pressapoco da tutte le tecnologie,
-compresi computer e internet! RivoluzDigitale http://t.co/d8swx4ypNJ
+- Prima di parlare di computer, bisogna però introdurre il concetto di
+calcolatore, due tecnologie diverse tra loro
 
-- @RivoluzDigitale: @LorenzoCutelle bravo!
+- Gli sviluppi applicativi riguardavano il campo industriale.
 
-- @stufi93: Computer e calcolatori elettronici sono differenti.
-I primi calcolatori meccanici risalgono al '600 RivoluzDigitale
+- I primi calcolatori meccanici, intesi come macchine per fare calcoli, risalgono al '600
+e vengono usate fino all'800
 
-- @russomatteo93: Calcolatore: macchina per fare calcoli
-rivoluzdigitale
+- Gli antenati sono Pascal (al quale attribuiamo il primo calcolatore - '600 - anni della
+rivoluzione scientifica) e Leibniz, celebri filosofi/matematici
 
-- @Ale_Cannone: rivoluzdigitale calcolatore: macchina meccanicha
-per fare calcoli
+- Una delle prime necessità sociali proviene dal fatto che fare calcoli è noioso
 
-- @a_loffreda: per parlare di computer bisogna prima parlare del
-calcolatore, di cui si comincia a parlare nel XVII secolo RivoluzDigitale
+- Successivamente Nepier (Nepero) introduce le tavole di logaritmi nel
+1615
 
-- @ripa_pepperipa: RivoluzDigitale: I primi calcolatori, intesi
-come macchine per fare calcoli, risalgono al '600
+- Del 1805 ricordiamo il telaio di Jacquard, nel quale vengono usate per
+la prima volta le schede perforate
 
-- @MorenoLaQuatra: Pascal e il primo calcolatore del 1600, anni
-della prima rivoluzione scientifica RivoluzDigitale
+- In Inghilterra ciò scaturisce un interesse per il calcolo delle tavole nautiche
 
-- @RivoluzDigitale: MT "@a_loffreda Una delle prime necessità sociali
-proviene dal fatto che fare calcoli è noioso RivoluzDigitale"
+- George Boole (1815-1864) formalizza la logica
+umana con un metodo matematico. Chiarisce che i simboli usati non rappresentano
+per forza numeri, ma qualunque cosa riconducibile a numeri
 
-- @a_loffreda: Una delle prime necessità proviene dal fatto che
-fare calcoli è noioso RivoluzDigitale
+- Nel 1854, il libro "The laws of thought" (Le leggi del pensiero) di Boole da inizio alla
+logica algebrica, dalla quale successivamente, verra' sviluppata (non da Boole ma
+da suoi successori) la logica Booleana, oggi usata dai compiler
 
-- @SabryKarate: Nascono nel Seicento i calcolatori per "evitare
-il tedio di fare calcoli" RivoluzDigitale
-
-- @russomatteo93: Nepier introduce le tavole dei logaritmi nel
-1615 rivoluzdigitale
-
-- @LucaLiuzzi: Cos'è un computer?I primi calcolatori nel 600 con
-Pascal. RivoluzDigitale
-
-- @RivoluzDigitale: P.S. MT = modified tweet
-
-- @a_loffreda: Gli antenati??? Pascal e Leibniz! RivoluzDigitale
-
-- @russomatteo93: Pascal e Leibniz inventano macchine per fare
-calcoli che vengono usate fino al'800 rivoluzdigitale
-
-- @stufi93: Nel 1805 il telaio di Jacquard utilizza la scheda
-perforata RivoluzDigitale
-
-- @EricaAcire19: 1805 telaio di Jacquard con schede perforate.
-RivoluzDigitale
-
-- @MorenoLaQuatra: 1805, primo utilizzo di schede perforate con
-il Telaio di Jaquard RivoluzDigitale
-
-- @EmaParrinello: 1805..nel talaio di Jacquard vengono usate per
-la prima volta le schede perforate rivoluzdigitale
-
-- @SabryKarate: Nell'Ottocento, necessità di migliori calcoli
-delle tavole nautiche in Inghilterra RivoluzDigitale
-
-- @LucaLiuzzi: I primi calcolatori erano meccanici.Gli sviluppi
-applicativi erano nel campo industriale. RivoluzDigitale
-
-- @SoFranchy: All'inizio dell'800 si arriva a telai di Jacquard:
-usano schede perforate. Interesse inglese per calcolare tavole
-nautiche …
-
-- @ripa_pepperipa: RivoluzDigitale: nel 1805---&gt; Telaio di
-Jacquard (schede perforate)
-
-- @EricaAcire19: Boole chiarisce che i simboli usati non sono
-rappresentano per forza numeri, ma qualunque cosa riconducibile poi
-dei nume…
-
-- @LucaLiuzzi: George Boole (1815-1864) formalizza la logica
-umana con un metodo matematico.RivoluzDigitale
-
-- @stufi93: La logica booleana utilizzata oggi dai compiler viene
-sviluppata successivamente alla logica algebrica RivoluzDigitale
-
-- @bassosimone: Babbage: "I'm not able to apprehend the kind of
-confusion that could provoke such a question." RivoluzDigitale
+- Charles Babbage (1791-1871): "I'm not able to apprehend the kind of
+confusion that could provoke such a question."
 http://t.c…
 
-- @stufi93: Nel 1854 "the laws of thought" di Boole da inizio
-alla logica algebrica
+- Nel 1840, Babbage fu invitato a Torino, da Giovanni Plana, all'accademia delle
+scienze per presentare la sua macchina
 
-- @russomatteo93: George Boole 1854 scrive "The Laws of Throught"
-=&gt; logica algebrica da cui viene sviluppata la logica booleana
-rivol…
+- Egli voleva calcolare funzioni polinomiali molto
+velocemente e con precisione
 
-- @EmaParrinello: La logica booleana in realtà è stata sviluppata
-dai successori di Boole rivoluzdigitale
+- Per questo creò un calcolatore puramente meccanico, il Difference Engine (1822).
+Tale non venne mai costruito
 
-- @FabioVallone: RivoluzDigitale nel 1854 Boole pubblica un libro
-chiamato "The Laws of Thaught" che riguarda la logica algebrica
+- Il dispositivo era di una notevole complessità e di grandi dimensioni strutturali:
+basti pensare che richiedeva l'assemblaggio di 25.000 parti, e la macchina completa
+sarebbe stata alta circa due metri e mezzo, larga due metri e profonda uno, con un peso di varie tonnellate.
 
-- @EmaParrinello: Il computer si differenzia dal calcolatore
-perchè è in grado di manipolare non solo numeri ma simbolirivoluzdigitale
+- Il passaggio avviene quando non si cercano più macchine per fare solo
+calcoli su numeri ma macchine che elaborino anche simboli. E' proprio per
+questo che il computer si differenzia dal calcolatore
 
-- @stufi93: Il passaggio avviene quando non si cercano più
-macchine per fare solo calcoli ma macchine che elaborino simboli
-RivoluzDigita…
+- Da Boole a Turing: i simboli iniziano ad essere
+associati a informazioni rappresentabili con numeri
 
-- @FabioVallone: Il passaggio successivo è di creare computer
-che non manipola solo numeri ma anche dei simboli RivoluzDigitale
-
-- @a_loffreda: Il passaggio successivo è quello di poter manipolare
-dei simboli RivoluzDigitale
-
-- @stufi93: Babbage fu invitato a Torino all'accademia delle
-scienze per presentare la sua macchina RivoluzDigitale
-
-- @stufi93: Babbage vuole calcolare funzioni polinomiali molto
-velocemente e con precisione RivoluzDigitale
-
-- @SabryKarate: Charles Babbage creò un calcolatore puramente
-meccanico, il Difference Engine: calcolo funzioni polinomiali
-RivoluzDigita…
-
-- @a_loffreda: Charles Babbage (1791-1871) presenta la sua
-macchina a Torino RivoluzDigitale
-
-- @LucaLiuzzi: Charles Babbage (1791-1871).La sua prima creatura
-è il Difference Engine per calcolare funzioni polinomiali.
-RivoluzDigita…
-
-- @SimoneBleynat: Da Boole a Turing: i simboli iniziano ad essere
-associati a informazioni rappresentabili con numeri RivoluzDigitale
-
-- @StefanoFranz20: Charles Babbage(1792-1871) la sua prima
-creazione fu il "difference engine" del 1822  rivoluzdigitale
-
-- @russomatteo93: Charles Babbage progetta la "Difference Engine"
-(1822) che effettua calcoli di funzioni polimoniali (non fu mai
-costruit…
-
-- @a_loffreda: Babbage scrive il  "Difference Engine" (1822)
-ideaizza un calcolatore per funzioni polinomiali RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: l'obiettivo di Charles Babbage
-era di creare una macchina in grado di calcolare funzioni polinomiali.
-
-- @SabryKarate: Poi Babbage ideò l'Analytical Engine, calcolatore
-general pourpose, programmabile con schede perforate RivoluzDigitale
-
-- @a_loffreda: Successivamente Babbage propone il "Analitic
+- Successivamente Babbage propone l' "Analitic
 Engine"  primo calcolatore general-purpose, programmabile con schede
-perforate…
+perforate dall'utente dedicato, a una sola applicazione
 
-- @stufi93: Babbage idealizza anche l'Analytical Engine, calcolatore
-general-purpose programmabile con schede perforate RivoluzDigitale
+- I vantaggi erano: controllo sequenziale, looping,
+branching (if, else). La novità era la distinzione netta tra dati e istruzioni
 
-- @FabioVallone: La macchina di Babbage chiamata Difference
-Engine per calcoli polinomiali fu costruita tardi a causa della sua
-complessit…
+- Prima programmatrice della storia? --> Ada Lovelace (1815 -1852), figlia legittima del poeta
+Lord Byron
 
-- @LucaLiuzzi: Analytical Engine.la seconda creazione di
-Bubbage.Programmabile con schede perforate (quindi general purpose).
-RivoluzDigi…
+- Nel 1936 Alan Turing pubblica un articolo: "On computable numbers"
 
-- @EricaAcire19: Analytical Engine, general-purpose, schede
-perforabili, controllo sequenziale, branching (if, else), looping.
-RivoluzDig…
-
-- @bassosimone: RivoluzDigitale Analytical engine: fondamentale
-la distinzione tra dati e programma
-
-- @a_loffreda: Un calcolatore "general-purpose"  è un calcolatore
-riprogrammabile dall'utente dedicato a una sola applicazione
-RivoluzDig…
-
-- @stufi93: Il vantaggio erano: controllo sequenziale, looping,
-branching. La novità era la distinzione netta tra dati e istruzioni
-Rivol…
-
-- @russomatteo93: Con l'Analitical Engine si ha una distinzione
-netta tra dati e istruzioni rivoluzdigitale
-
-- @FabioVallone: Le caratteristiche di Analiytical Engine sono:
-Programmabile Controllo seq. branching, looping, distinzione
-dati-istruzio…
-
-- @RivoluzDigitale: @StefanoFranz20 usa RivoluzDigitale non
-@RivoluzDigitale
-
-- @RivoluzDigitale: @stufi93 non sono sicuro si possa dire elettroniche;
-meglio elettrico + schede perforate
-
-- @Ale_Cannone: rivoluzdigitale 1936: Alan Turing pubblica un
-articolo "On computable numbers"
-
-- @RivoluzDigitale: @stufi93 sono andato a cercare su Wikipedia,
-dice che l'elettronica si sviluppa dopo WWI con le valvole e la
+- Parentesi: Quando si sviluppa l'elettronica? --> dopo la I Guerra Mondiale con le valvole e la
 radio (http://t.co/NeJ8bKZo17)
 
-- @RivoluzDigitale: @StefanoFranz20 no problem ;-)
+- Negli anni '30 con la parola computer si intendeva
+una persona  fisica in grado di fare calcoli a mano per scopi balistici
 
-- @FabioVallone: Negli anni '30 con la parola computer si intendeva
-una persona  fisica che fa calcoli a mano per scopi balistici
-Rivoluz…
-
-- @FabioVallone: Nessuno prima di Turing aveva pensato una
+- Nessuno prima di Turing aveva pensato una
 macchina che reagisca in modo diverso a secondo dello stato dei
-dati che legge …
+dati che legg
 
-- @RivoluzDigitale: @EricaAcire19 Turing :-)
+- Egli immagina una macchina capace di eseguire istruzioni
+elementari leggendo dati ed istruzioni in sequenza sulla base del suo
+stato
 
-- @SabryKarate: Turing immagina una maccjina che esegue istruzioni
-elementari leggendo dati ed istruzioni in sequenza su base del suo
-stat…
+-Tale calcolatore era una macchina molto più versatile: non si tratta
+solo di un calcolatore, ma anche di un operatore di simboli
 
-- @SabryKarate: Nuova necessità sociale:  Seconda Guerra Mondiale,
-nel 1940 necessità di tavole balistiche per l'esercito americano
-Rivol…
+- Nuova necessità sociale: a) Seconda Guerra Mondiale,
+nel 1940 necessità di tavole balistiche per l'esercito americano;
+b) Crittografia
 
-- @SabryKarate: Claude Shannon inventa la TEORIA DELL'INFORMAZIONE
-RivoluzDigitale
+- Claude Shannon, matematico, inventa la TEORIA DELL'INFORMAZIONE, basata sulla 
+quantificazione di quest'ultima.
 
-- @EricaAcire19: Claude Shannon, matematico , inventa teoria
-dell’informazione. rivoluzDigitale
+- La nuova necessità sociale per il computer, dopo la Seconda Guerra Mondiale,
+non riguardava le aziende ma motivi di sicurezza nazionale:
+---> 1948 calcoli per bomba H e guerra fredda. Ciò ne aumentò il suo sviluppo!
 
-- @stufi93: Viene inventata "la teoria dell'informazione" da
-Claude Shannon RivoluzDigitale
-
-- @RivoluzDigitale: @FabioVallone Shannon
-
-- @Rexsimo893: Nuova necessità sociale per il computer dopo la
-guerra: 1948 bomba H e guerra fredda RivoluzDigitale
-
-- @EricaAcire19: Finisce WW II, il computer si sviluppano molto
-per calcoli bomba a H (motivi di sicurezza nazionale, guerra fredda).
-Riv…
-
-- @FabioVallone: Nella MIT fanno un gruppo di ricerca interdisciplinare
-per riuscire a sviluppare armi più sofisticate RivoluzDigitale
-
-- @stufi93: Nasce il Laboratorio Radar presso l'MIT, formato da
+- Nasce il Laboratorio Radar presso l'MIT, formato da
 gruppi interdisciplinari. Ottengono risultati straordinari
-RivoluzDigitale
 
-- @FabioVallone: Dopo l'esperienza della MIT si diffondo in tutta
-l'America gruppi di studi interdisciplinare RivoluzDigitale
+- RAD LAB http://t.co/rhwbfTzB80  RivoluzDigitale
 
-- @stufi93: RAD LAB http://t.co/rhwbfTzB80  RivoluzDigitale
+- Per questo, dopo l'esperienza della MIT si diffondo in tutta
+l'America gruppi di ricerca interdisciplinare per riuscire a sviluppare armi 
+più sofisticate
 
-- @SabryKarate: Norbert Wiener, inventore della cibernetica
-RivoluzDigitale
+- Norbert Wiener, da vita ad un sistema in cui un modello matematico 
+prende in considerazione anche l'uomo. (rapporto macchina-uomo-società)
 
-- @FabioVallone: Norbert Wierner fa un sistema di puntamento in
-cui c'è un modello matematico che prende in considerazione anche
-l'uomo. …
+- Con l'esperienza di Wierner si pongono le basi per un nuovo campo 
+di ricerca: la cibernetica 
 
-- @FabioVallone: Con l'espperienza di wierner si pongono le basi
-della cibernetica (rapporto uomo-macchina-società) RivoluzDigitale
+- Inizialmente i computer si presentano come Mainframe: grossi, 
+costosi (per scelta politica) e difficili da usare (scelta tecnica) 
+(Anni '40 - '60). In questo modo l'utilizzo veniva permesso solo a grandi aziende
 
-- @giuli93: Norbert Wiener crea un nuovo campo di ricerca: la
-Cibernetica RivoluzDigitale
+- Era possibile averne di più piccoli e meno potenti, ma vennero rifiutati 
+per definizione
 
-- @CaracciFabio: RivoluzDigitale  Norbert Wiener fondatore della
-cibernetica
+- Le caratteristiche dei MainFrame hanno contribuito
+a tenere tale tecnologia poco sviluppata
 
-- @ripa_pepperipa: RivoluzDigitale: Norbert Wiener inaugura una
-riflessione tra macchina, uomo e società!
+- "Insegniamo a programmare a tutti" frase status
 
-- @SabryKarate: Inizialmente i computer si presentano come
-Mainframe, grossi, difficili da usare e costosi RivoluzDigitale
+- Gli ingegneri iniziano a scrivere in binario ('40-'60). Opponendosi ai linguaggi
+di programmazione. Tale decisione implica la non accessibilità alla tecnologia 
+per molti.
 
-- @FabioVallone: Anni '40- '60 il computer si diffonde com
-MainFrame = Grossi, costosi, difficili da usare RivoluzDigitale
+- a proposito di programmare sul
+"nudo metallo" - http://t.co/4pbshpC1Vl
+    
+- In Estonia si insegna a programmare ai bambini,
+antitesi rispetto all'approccio degli anni '40-'60
 
-- @stufi93: Negli anni '40-'60 il computer si diffonde come
-Mainframe. Computer molto potenti, grossi e costosi RivoluzDigitale
+- I computer moderni nascono con le valvole, sostituite poi dai transistor discreti 
+e rimpiazzati da circuiti integrati.
 
-- @ripa_pepperipa: RivoluzDigitale: Mainframe = computer molto
-potente, grosso, costoso e difficile da usare!
-
-- @stufi93: Mainframe difficile da usare, era possibile averne
-di più piccoli e meno potenti, ma vengono rifiutati per definizione
-Rivolu…
-
-- @FabioVallone: I mainframe sono stati fatti grossi e costosi
-per scelta. In questo modo se lo potevano permettere solo grandi
-aziende R…
-
-- @stufi93: "Insegniamo a programmare a tutti" frase status
-RivoluzDigitale
-
-- @FabioVallone: I MainFrame fu difficile da utilizzare in modo
-da tenere la possibilità di utilizzo solo in una stretta cerchia
-di person…
-
-- @EricaAcire19: ingegneri scrivono in binario,si oppongono ai
-linguaggi di programmazione, le competenze rimangono nel loro
-circoloRivol…
-
-- @bassosimone: RivoluzDigitale: a proposito di programmare sul
-"nudo metallo" :-) - http://t.co/4pbshpC1Vl
-
-- @FabioVallone: Le caratteristiche dei MainFrame hanno contribuito
-a tenere tale tecnologia poco sviluppata RivoluzDigitale
-
-- @LucaLiuzzi: Anni '40 e '60.La decisione di programmare in
-binario implica la non accessibilità alla tecnologia per molti.
-RivoluzDigit…
-
-- @EricaAcire19: La prima tecnologia per costruire i computer
-sono le valvole, poi transistor discreti e poi circuiti integrati.
-RivoluzD…
-
-- @FabioVallone: Tecnologie dei computer: Valvole -&gt; Transistor
--&gt; Circuito integrato (+ transistor assieme) -&gt; Microprocessore
-…
-
-- @SimoneBleynat: In Estonia si insegna a programmare ai bambini,
-antitesi rispetto all'approccio degli anni '40-'60 RivoluzDigitale
-
-- @stufi93: Dal punto di vista tecnologico le innovazioni sono
-le valvole, sostituite dai transistor, rimpiazzati da circuiti
-integrati R…
-
-- @FabioVallone: IBM rimane sempre un passo indietro nelle
+- IBM rimane sempre un passo indietro nelle
 tecnologie dei pc, in quanto continua a vendere le vecchie tecnologie
-RivoluzD…
 
-- @SabryKarate: Microprocessore: unisce ALU e CPU RivoluzDigitale
+- Alla fine degli anni '60, si sviluppa interesse per calcolatrici basate su 
+circuiti integrati, per farne un uso personale
 
-- @stufi93: L'ultimo step sono i microprocessori, che costituiscono
-i computer di oggi! RivoluzDigitale
+- Circuiti integrati + transistor -&gt; Microprocessori che costituiscono 
+i computer di oggi.
 
-- @stufi93: I microprocessori inglobavano le unità logiche
-aritmetiche (ALU) RivoluzDigitale
+- I microprocessori inglobano le unità logiche
+aritmetiche (ALU) e i registri
 
-- @FabioVallone: Con lo sviluppo dei circuiti integrati si iniziò
-a produrre macchine calcolatrici per uso "personale" RivoluzDigitale
+- RAM, ROM, Input e Output vengono inglobati in un unico
+circuito integrato
 
-- @stufi93: RAM, ROM Input e Output vengono inglobato in un unico
-circuito integrato RivoluzDigitale
+- necessità sociale del microprocessore:
+la portabilità dei calcolatori
 
-- @EricaAcire19: Com’è nato il microprocessore? Necessità:
-calcolatrice portabile con RAM, ROM, I/O, microprocessore (ALU+registri),
-1969 …
-
-- @Ale_Cannone: rivoluzdigitale necessità sociale del microprocessore:
-la portabilità dei calcolatori che cosí venivano utilizzati anche
-…
-
-- @StefanoFranz20: Intel Fondata da Gordon Moore famoso per la
+- Intel: Fondata da Gordon Moore famoso per la
 legge sull'evoluzione del numero di transistor integrati nei
-microprocessor…
+microprocessori
 
-- @stufi93: 1969 sono 4 anni che in USA gli studenti protestano
-contro il computer, oggetto considerato del sistema RivoluzDigitale
+- 1969 sono 4 anni che in USA gli studenti protestano
+contro il computer, in quanto vedono in questo il simbolo
+del sistema
 
-- @EricaAcire19: Gli studenti del 1969 criticano il computer
-come parte del sistema rivoluzDigitale
+- Gli studenti girano con al collo una scheda perforata
+esclamando "io non sono un numero"
 
-- @stufi93: Gli studenti girano con al collo una scheda perforata
-esclamando "io non sono un numero" RivoluzDigitale
+- Il computer veniva visto come una macchina fondamentale
+per il controllo sociale.
 
-- @FabioVallone: Gli studenti degli anni '60 vedono nel computer
-il simbolo del "sistema" e perciò la criticano RivoluzDigitale
+- Dello stesso anno, ricordiamo la nasciata della calcolatrice
+Giapponese: IC
 
-- @RivoluzDigitale: RivoluzDigitale: idea di strumento di calcolo
-a disposizione dell'individuo, e non del sistema.
+- L'idea era quella di creare uno strumento di calcolo
+a disposizione dell'individuo, e non del sistema. Per questo si
+inizia ad avere il desiderio per i computer
 
-- @FabioVallone: Si inizia ad avere il desiderio per un computer
-(come altri strumenti) al servizio dell'individuo RivoluzDigitale
+- Uno dei primi personal computer: Olivetti P101,
+anno 1966 http://t.co/2CiD67M9yS
+    
+- Per chi fosse interessato al programma 101 Olivetti
+--&gt; http://t.co/HNUCCmn5tE
 
-- @StefanoFranz20: Uno dei primi personal computer Olivetti P101
-anno 1966 RivoluzDigitale http://t.co/2CiD67M9yS
+- "The whole Earth Catalogue" by Stewart Brand è una
+raccolta di strumenti personali che pubblicizza anche l'utilizzo
+del computer http://t.co/JXpGAmtDnf
 
-- @FabioVallone: S. Brand fa "The Whole Earth Catalogue" in cui
-ci sono tutti gli strumenti personali. Tra questi c'è anche il
-computer R…
+- "Desidero uno strumento per esprimermi, per fare ciò
+che voglio" - nuova mentalità
 
-- @stufi93: "the whole earth catalogue" by Stewart Brand è una
-raccolta di strumenti personali e ne pubblicizza l'utilizzo
+- Ivan Illich parla della "convivialità". Egli immagina
+strumenti al servizio dell'uomo per realizzare i suoi
+desideri (e non viceversa)
 
-- @FabioVallone: S. Brand fa "The Whole Earth Catalogue" in cui ci
-sono tutti gli strumenti personali. Tra questi c'è anche il computer
-
-- @stufi93: "Desidero uno strumenti per esprimermi, per fare ciò
-che voglio" - nuova mentalità 
-
-- @stefano_bitto: Per chi fosse interessato al programma 101 Olivetti
---&gt; http://t.co/HNUCCmn5tE 
-
-- @FabioVallone: Ivan Illich parla della "convivialità". Si immagina
-strumenti che sono al servizio dell'uomo per realizzare i suoi
-desideri 
-
-- @EricaAcire19: Ivan Illich immagina strumenti al servizio dell’uomo
-per realizzare i suoi desideri di convivialità. 
-
-- @SabryKarate: Ivan Illich immagina strumenti conviviali: macchine
-al servizio dell'uomo (e non viceversa) 
-
-- @stufi93: Ivan Illich si immagina strumenti conviviali che siano
-al servizio dell'uomo, e non viceversa 
-
-- @FabioVallone: Strumenti conviviali = macchine al servizio dell'uomo
-( e non viceversa ) 
-
-- @EricaAcire19: In pochi anni il prezzo di un microprocessore
-crolla. #rivoluzDigitale
-
-- @FabioVallone: Nel giro di pochi anni il costo dei microprocessori
+- Nel giro di pochi anni il costo dei microprocessori
 si abbassa notevolmente, permettendo la diffusione dei calcolatori
+permettendo la diffusione di massa di congegni elettronici
 
-
-- @StefanoFranz20: l'uscita di microprocessori economici ha permesso
-la diffusione di massa di congegni elettronici 
-
-- @stufi93: Nuovo contesto culturale + microprocessori sempre più
+- Questo nuovo contesto culturale + microprocessori sempre più
 economici = aziende amatoriali iniziano ad assemblare computer
 
-- @FabioVallone: Altair fu un'azienda che permise di costruire i
-pc a casa propria tramite l'invio dei pezzi necessari e a bassi
-costi 
+- Altair ad esempio, fu un'azienda che permise di costruire i
+pc a casa propria tramite l'invio dei pezzi necessari e i bassi
+costi
 
-- @SimoneBleynat: Rimane il classico dubbio: sono le macchine al
+- Rimane il classico dubbio: sono le macchine al
 nostro servizio o siamo noi ad essere al servizio delle macchine?
 
-- @stufi93: In questo clima culturale Steve Jobs e Steve Wozniak
-@stevewoz fondano la Apple in un garage 
+- In questo clima culturale Steve Jobs e Steve Wozniak eRonald Wayne 
+fondano la Apple nel 1976, a Cupertino, nella Silicon Valley, in
+California
 
-- @FabioVallone: I primi Hacker nacquero nell'ambito della telefonia
+- "Mai fidarsi di un computer che non si può gettare
+dalla finestra" cit. #SteveWozniak
 
-- @SimoneBleynat: "Mai fidarsi di un computer che non si può gettare
-dalla finestra" cit. #SteveWozniak 
+- I primi Hacker nacquero nell'ambito della rete telefonica
 
-- @SabryKarate: Apple venne fondata da Steve Jobs, Steve Wozniak e
-Ronald Wayne nel 1976, a Cupertino, nella Silicon Valley, in
-California 
-
-- @FabioVallone: Tramite un fischietto si poteva far entrare la
+- Tramite un fischietto si poteva far entrare la
 centrale dei telefoni in modalità libera, riuscendo a fare telefonate
-gratis 
+gratis
 
-- @FlavioGiobergia: E si parla di Captain Crunch a 
-:-) E comunque son 2600Hz, non 2400
+- Cereali del fischietto "magico" per le telefonate!!
+http://t.co/4djqbKphvL
 
-- @Rexsimo893: Telefonate gratuite utilizzando un fischietto nelle
-confezioni dei cereali 
+- Dopo il protezionismo, con lo stesso clima s’iniziano a costruire computer
+DIY
 
-- @stufi93: I primi hacker nascono dalla rete telefonica 
+- Jobs e Wozniak intuiscono che il computer deve essere
+una macchina intuitiva e accessibile a tutti
 
-- @FabioVallone: Cereali del fischietto "magico" per le telefonate!!
-http://t.co/4djqbKphvL 
-
-- @EricaAcire19: Reintrodotto diritto al fare la birra in casa dopo
-protezionismo, con lo stesso clima s’iniziano a costruire computer
-DIY #rivoluzDigitale
-
-- @stufi93: Jobs e Wozniak intuiscono che il computer deve essere
-una macchina intuitiva e accessibile a tutti 
-
-- @stufi93: Questa filosofia farà la fortuna della Apple 
+- Questa filosofia farà la fortuna della Apple
 #apple
 
-- @FabioVallone: Apple 2 come macchina conviviale? 
+- L'Apple II viene considerata come macchina conviviale
 
-- @EricaAcire19: Apple II come macchina conviviale? #rivoluzDigitale
-
-- @StefanoFranz20: Oltre ad essere il primo pc prodotto da Apple
-fu anche il primo ad avere successo industriale 
+- Oltre ad essere il primo pc prodotto da Apple
+fu anche il primo ad avere successo industriale
 http://t.co/LeNEdumlnu
 
-- @FabioVallone: Jobs + Wozniak = Apple 
+- Dietro a Jobs e Wozniak ci fu qualcuno che finanziò
+il progetto Apple e ne rese possibile lo sviluppo. Favorevole anche
+a tale sviluppo il contesto culturale!
 
-- @stufi93: L'Apple II viene considerato come macchina conviviale
+- Un’azienda non è solo l’idea, ma anche immagine,
+gestione azienda, etc.
 
-- @FabioVallone: Dietro a Jobs e Wozniak ci fu qualcuno che finanziò
-il progetto Apple e ne rese possibile lo sviluppo 
-
-- @stufi93: Wozniak e Jobs sono riuscì a creare un'azienda così
-giovani grazie ad un contesto culturale che glielo ha permesso
-
-- @EricaAcire19: Un’azienda non è solo l’idea, ma anche immagine,
-gestione azienda, etc. #rivoluzDigitale
-
-- @SimoneBleynat: NB: #BillGates e #SteveJobs non hanno fatto fortuna
+- NB: #BillGates e #SteveJobs non hanno fatto fortuna
 dal niente: c'era chi staccava gli assegni dietro di loro
 
-- @FabioVallone: I micro computer diventano mini computer e infine
-Personal Computer 
+- L'evoluzione: Mainframe --> Minicomputer --> Microcomputer --> Personal
+computer (per l'individuo)
 
-- @SabryKarate: Mainframe - Minicomputer - Microcomputer - Personal
-computer 
-
-- @stefano_bitto: A Stanford negli anni '60 ci si chiede come
+- A Stanford negli anni '60 ci si chiede come
 utilizzare i computer a scopo educativo. In Italia si comincia nel
-2010 
+2010
 
-- @stufi93: Dai mini computer si passa ai micro computer per poi
-arrivare ai personal computer! L'evoluzione correva veloce
+- Il computer diventa meno costoso e può anche essere
+utilizzato da personale non specializzato
 
-- @FabioVallone: Personal Computer = per l'individuo 
-
-- @SabryKarate: Il computer diventa meno costoso e può anche essere
-utilizzato da personale non specializzato 
-
-- @ripa_pepperipa: : Gli studenti degli anni '60
-vedevano il computer come una macchina fondamentale per il controllo
-sociale!
-
-- @Ale_Cannone:  sono il contesto favorevole e i
+- sono il contesto favorevole e i
 30 anni di cultura del computer che danno il via alla nascita di
 aziende come Apple
 
-- @stufi93: "Perché non abbiamo nessuna foto della terra nella sua
-interezza"Frase che contribuirà alla nascita del think ambientalista
+- "Perché non abbiamo nessuna foto della terra nella sua interezza?"
+Frase che contribuirà alla nascita del think ambientalista
 
-- @SabryKarate: The Whole Earth Catalog: http://t.co/JXpGAmtDnf
+- Wozniak da gli schemi hardware dei computer Apple,
+ritenuti accessibili a tutti
 
-- @stufi93: Wozniak da gli schemi hardware dei computer Apple,
-ritenuti accessibili a tutti 
+- L'IBM compra il software da un ragazzo chiamato Bill
+Gates
 
-- @stufi93: L'IBM compra il software da un ragazzo chiamato Bill
-Gates 
+- Il modello fondamentale del PC: compra l'Hardware
+conoscibile e il Sistema Operativo. Poi fai girare qualsiasi 
+applicativo che sia stato scritto per esso"
 
-- @FabioVallone: modello fondamentale PC: io compro Hardware
-conoscibile, Sistema Operativo e gli applicativi 
+- L'aspetto negativo dell'Open Software fu il lato sicurezza: 
+posso installare software con intenti maliziosi,virus senza volerlo -->
+diffusione di virus e malware
 
-- @stefano_bitto: Chi era colui che si era chiesto perché non si
-possedeva nessuna foto delle Terra? 
+- L'aspetto positivo è la libertà dell'utente e la generativita' (Johnaatan Zittrain),
+ ovvero chiunque può programmare
 
-- @stufi93: Viene presa una decisione fondamentale: compri il
-pacchetto hardware+software e puoi installarci sopra tutti i programmi
+- Oggi per la Apple non è più così (con IOS/OSX): su iDevices si possono
+installare solo applicazioni provenienti dall'App Store
 
-- @FabioVallone: La filosofia è:"Compri l'Hardware con Sistema
-Operativo e fai girare qualsiasi applicativo che sia stato scritto
-per esso" 
-
-- @EricaAcire19: si compra hardware+sistema operativo, e poi si fa
-girare tutto il software che si vuole (Apple non è più così con
-IOS/OSX). 
-
-- @stufi93: Oggi per la Apple non è più così: su iDevices si possono
-installare solo applicazioni provenienti dall'App Store 
-
-- @FabioVallone: Con lo sviluppo dell'Open Source Linux, ci fù la
-disacoppiazione tra hardware e software 
-
-- @stefano_bitto: @bassosimone Grazie :-)
-
-- @stufi93: L'aspetto negativo è il lato sicurezza: inizia la
-diffusione di virus e malware 
-
-- @FabioVallone: Il lato negativo dell'Open Software è la sicurezza:posso
-installare software con intenti maliziosi,virus senza volerlo
-
-- @stufi93: L'aspetto positivo è la libertà dell'utente 
-
-- @SabryKarate: La libertà negli applicativi ha aspetti - Negativi:
-sicurezza, virus,... - Positivi: libertà dell'utente 
-
-- @stufi93: Fine live tweeting, il treno mi attende 
-
-- @CaracciFabio: La apple vuole mantenere il controllo sulle
+- La apple vuole mantenere il controllo sulle
 applicazioni installabili limitando chiaramente la libertà degli
-utenti 
+utenti
 
-- @FabioVallone: Lati positivi Open Software: Libertà utente,
-generatività (Johnaatan Zittrain) ovvero chiunque può programmare
+- Con lo sviluppo dell'Open Source Linux, ci fù la
+disacoppiazione tra hardware e software
 
-- @FabioVallone: La prima applicazione di successo ("Killer
-application") fu il fogli di calcolo(VisiCalc) ma anche Word
-Processing 
+- La prima applicazione di successo ("Killer
+application") fu il foglio di calcolo(VisiCalc) ma anche Word
+Processing
 
-- @SabryKarate: Prima applicazione di successo il foglio di calcolo
-(Visi Calc) ma anche word processing 
+- Il Word Processing sul PC è molto più flessibile
+rispetto alla macchina da scrivere elettrica
 
-- @FabioVallone: Il Word Processing sul PC è molto più flessibile
-rispetto alla macchina da scrivere elettrica 
+- Piattaforme mobile attuali: i gatekeeper sono Apple
+e Google che decidono cosa può girare sui dispositivi
 
-- @FabioVallone: Piattaforme mobile attuali: i gatekeeper sono Apple
-e Google che decidono cosa può girare sui dispositivi 
+- I personal computer sono general Purpose Computer = Computer costruiti per
+un uso non specifico
 
-- @SabryKarate: Piattaforma mobile attuali: specchio di come poteva
-nascere il computer 
+- Sistema operativo:  MS-DOS e poi Windows per PC IBM e
+MAC OS per Apple
 
-- @FabioVallone: General Purpose Computer = Computer costruiti per
-un uso non specifico 
+- Linux per tutto...la libertà incrementa
+esponenzialmente! --> (software libero)
 
-- @SabryKarate: Sistema operativo:  MS-DOS e poi Windows per PC IBM
-MAC OS per Apple 
+- "Linux" viene creato da Linus Torvald. Consiste in un sistema operativo
+molto flessibile in quanto si adatta a qualsiasi hardware con
+microprocessore
 
-- @EricaAcire19: -MS-DOS e poi Windows per PC-IBM.  -MAC OS per
-Apple #rivoluzDigitale
+- Per un lungo periodo i computer rimasero "sconnessi"
+tra loro(erano come delle macchine da scrivere in quanto erano "isolati")
 
-- @Ale_Cannone:  ms-dos e poi windows per IBM mentre
-mac os per Apple
+- Questi computer si diffondono con lentezza e attraverso una lunga
+campagna pubblicitaria
 
-- @ripa_pepperipa: : I gatekeeper sono Apple e
-Google che decidono cosa può girare sui dispositivi!
+- L'idea era quella di connetterli tra di loro
+--> Networking, nasce quasi subito dopo
+l'invenzione dei primi PC
 
-- @FabioVallone: Sistemi Operativi: MS-DOS e poi Windows per PC
-IBM; MAC OS per Apple; Linux per tutto... (software libero)
+- Internet è nato per connettere tra di loro i Mainframe
+ma poi venne utilizzato anche per interconnettere i PC tra
+loro
 
-- @conwused: @bassosimone mi hanno detto che sono due persone
-diverse, peccato.
-
-- @LorenzoCutelle: MC-DOC (poi Windows) per PC IBM, MAC OS per
-Apple, LINUX per tutti! 
-
-- @FabioVallone: Linus Torvald crea "Linux" un sistema operativo
-molto flessibile perchè si adatta a qualsiasi hardware con
-microprocessore 
-
-- @ripa_pepperipa: : con Linux la libertà incrementa
-esponenzialmente!
-
-- @SabryKarate: All'inizio i computer sono però isolati tra di loro,
-non hanno un legame 
-
-- @EricaAcire19: Questi computer si diffondono con lentezza, lunga
-campagna pubblicitaria, ma per lungo periodo sono sconnessi fra
-loro. #rivoluzDigitale
-
-- @FabioVallone: Per un lungo periodo i computer rimasero "sconnessi"
-tra loro(erano come le macchine da scrivere in quanto erano "isolati")
-
-- @FabioVallone: L'idea del Networking nasce quasi subito dopo
-l'invenzione dei computer 
-
-- @EricaAcire19: il networking (come idea) nasce con i primi
-computer... #rivoluzDigitale
-
-- @SabryKarate: Networking: idea nasce presto, per interconnettere
-i computer 
-
-- @Ale_Cannone:  L'idea del networking nasce quasi
-subito dopo l'invenzione del PC
-
-- @SabryKarate: Internet è nato per connettere tra di loro i Mainframe
-
-- @FabioVallone: Internet è nata per connettere i MainFrame tra
-loro, ma poi venne utilizzate anche per interconnettere i PC tra
-loro 
-
-- @EricaAcire19: Quando s’intersecano il networking e i milioni di
+- Quando s’intersecano il networking e i milioni di
 computer presenti , si può parlare di rivoluzione digitale.
-
-- @SabryKarate: Rivoluzione digitale: negli ultimi 10 anni, in
-seguito a nuovi dispositivi digitali interconnessi tra di loro
-
-- @Ale_Cannone:  quando si parla di dispositivi
-interconnessi tra loro si può parlare di rivoluzione digitale
+(ultimi 10 anni, in seguito a nuovi dispositivi digitali interconnessi tra di loro)
 
 
 ## 2013-04-24
