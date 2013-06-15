@@ -38,143 +38,89 @@ License: CC BY-SA 3.0 Unported
 
 ### Precisazioni su licenze software libero
 
-- @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
+Libertà del software libero:
 
-- @Ale_Cannone: General public license: 4 libertà del software libero
-più il copyleft
+Libertà 0: Libertà di eseguire il programma per qualsiasi scopo.
+Libertà 1: Libertà di studiare il programma e modificarlo[3].
+Libertà 2: Libertà di ridistribuire copie del programma in modo da aiutare il prossimo.
+Libertà 3: Libertà di migliorare il programma e di distribuirne pubblicamente i miglioramenti, in modo tale che tutta la comunità ne tragga beneficio.
 
-- @93Levante: Il quarto principio, su cui si basa il software libero,
-diventa un OBBLIGO x il bene della comunità
+- Tra le licenze disponibili per il s.l. : GPL o GNU (General Public License con obbligo di rilascio e modifica sempre sotto forma di so libero)
 
-- @DavidePalermo2: Allarme patent troll, finti inventori: brevettano
-l'hi-tech e fanno causa http://t.co/109jk41Z24 via @repubblicait
-
-- @paolopopolizio: @russomatteo93 allora mi osservi invece di seguire :P
-
-- @StefanoFranz20: "General public licence" tipo di licenza finalizzata
+- General public license: 4 libertà del software libero
+più il copyleft, la licenza infatti è finalizzata
 alla condivisione delle modifiche sul codice dei software
 
-- @Ale_Cannone: Copyleft --> obbligo di rendere disponibile il codice
+Copyleft = obbligo di rendere disponibile il codice
 sorgente modificato se diffondo il sorgente modificato
 
-- @SoFranchy: Stallman: una licenza, condizione di pubblicità della
-modifica (se non per uso privato). CC 6 licenze tra cui scegliere
+- Il quarto principio, su cui si basa il software libero,
+diventa un obbligo per il bene della comunità
 
-- @FabioVallone: Grazie alla licenza GNU/GPL, si sono creati centinaia
+- Stallman: una licenza, condizione di pubblicità della
+modifica (se non per uso privato). CC, 6 licenze tra cui scegliere
+
+- Grazie alla licenza GNU/GPL, si sono creati centinaia
 e centinai di progetti di software libero
 
-- @Carrattrezzi: Non solo le grandi aziende possono produrre SO, tante
-persone, lavorando insieme, hanno sviluppato linux
+- Non solo le grandi aziende possono produrre SO, tante
+persone, lavorando insieme, hanno dato vita grazie ad esse a Linux
 
-- @MartinoMensio: OpenSource: diverso da software libero
-https://t.co/4THvb0FNXV
+- OpenSource non è la stessa di cio che si intende per software libero
+   https://t.co/4THvb0FNXV
 
-- @SabryKarate: opersource, codice sorgente aperto. Take a look on
+- opensource = codice sorgente aperto. Take a look on
 http://t.co/b9VTjMD0oz
 
-- @Clerish: Il termine "Open source" fu coniato per distaccarsi dalle
-stranezze di Stallman e rendere più moderato "Software libero"
+- Il termine "Open source" fu coniato per distaccarsi dalle
+stranezze di Stallman e rendere più moderato il concetto di "Software libero".
 
-- @MartinoMensio: Free BSD non impone il copyleft
+- Attenzione!Free BSD non impone il copyleft!
 
-- @FabioVallone: open source non è un sinonimo di software libero...
+- Licenze BSD http://t.co/d2Mhb2BdfW
 
-- @MartinoMensio: Licenze BSD http://t.co/d2Mhb2BdfW
+- La differenza open source/software libero è basata puramente su aspetti di
+marketing e atteggiamento.
 
-- @LolloCler: differenza open source-software libero puramente di
-marketing e atteggiamento
-
-- @PieMarzio: Open source: codice accessibile ma senza le 4 libertà
+- Opensource: codice accessibile ma senza le 4 libertà
 del software libero.
 
-- @SabryKarate: software libero: ha le 4 libertà opensource permette
-di accedere al codice sorgente, ma non necessariamente modificabile
-
-- @paolopopolizio: differenza tra open source e software libero:
-rispettivamente accesso libero al codice e rispetto delle 4 libertà
-
-- @Rexsimo893: Open source -> operazione di marketing che rimodula
-il significato di software libero, che invece ha una def. più precisa
-
-- @LolloCler: opensource consente codice accessibile e magari non le
-altre 4 libertà al contrario del software libero
-
-- @MartinoMensio: Open source: più vago del software libero; garantisce
-solamente la visione del codice sorgente
-
-- @PieMarzio: "Commons": gruppo di individui che rispettano in generale
-delle norme (gourodiche, sociali)
-
+- La definizione dell'Opensource è quindi un operazione di marketing che rimodula il significato di software libero, che invece ha una definizione più precisa.
 
 ### Autoregolamentazione sociale: Wikipedia, i Commons 
 
-- @DavidePalermo2: La pagina di Wikipedia su Wikipedia
-http://t.co/oh5J4TT2nF ;-)
+- I "Commons", gruppo di individui che rispettano in generale
+delle norme (giuridiche, sociali)
 
-- @LolloCler: su wikipedia gruppo volontario di individui collabora
-rispettando norme sociali imposte dai wikipediani
+- Ad esempio Wikipedia.Link : http://t.co/oh5J4TT2nF ;-)
 
-- @SoFranchy: Open Source < SW libero. SW libero include le 4 libertà;
-Open Source include almeno la possibilità di vedere il codice
+- Su wikipedia un gruppo volontario di individui collabora
+rispettando norme sociali imposte dai wikipediani.
 
-- @Ale_Cannone:  nè privato (mercato) nè lo stato --> anarchia,
-dove ognuno si può autorganizzare --> Commons
+- Senza il privato (mercato) nè lo stato si parla di anarchia,ma
+dove ognuno si può autorganizzare si parla di "Commons".
+I "Commons" non dipendono da privati o dallo stato.Vivono in uno spazio
+auto-organizzato, di regole definite (non leggi imposte!).
 
-- @SabryKarate: "Commons" non dipendono da privati o dallo stato. Spazio
-auto-organizzato, regole definite (non leggi imposte!).
+- Elinor Ostrom ha studiato casi di commons fisici ed il loro funzionamento,
+Elinor Ostrom è la prima donna a vincere il Premio Nobel
+per l'Economia (nel 2009). http://t.co/VavtbZItvG
 
-- @Antonio_Langiu: Il concetto di Commons é legato all' auto
-organizzazione..
+- Ella conclude che è un falso il fatto che le società autorganizzate e autogestite siano destinate a fallire.
 
-- @PieMarzio: "Commons" strettamente legato al concetto di
-auto-organizzazione
-
-- @EmaParrinello: il concetto di "commons" è legato al concetto di
-auto-organizzazione
-
-- @Carrattrezzi: Commons autoregolamentati con diversi gradi di anarchismo
-
-- @ripa_pepperipa: “Commons”: Spazi dove ci si può auto-organizzare
-(non c’è legge di marcato-->Anarchia) né privato(mercato) né Stato
-
-- @SabryKarate: Elinor Ostrom, prima donna a vincere il Premio Nobel
-per l'Economia (nel 2009)
-
-- @FabioVallone: Elinor Ostrom (premio Nobel Economia 2009) ha studiato
-casi di commons fisici ed il loro funzionamento
-
-- @ripa_pepperipa: Elinor Ostrom --> http://t.co/VavtbZItvG
-
-- @LolloCler: Ostrom,nobel per economia,studia common fisici e come le
-comunità si gestiscono e conclude che é falso che falliscono
-
-- @Carrattrezzi: I commons non sono solo quelli degli anni '70, ci sono
+- I "Commons" non sono solo quelli degli anni '70, ci sono
 casi molto più antichi e che hanno invece funzionato.
 
-- @LolloCler: la visione fallimentare dei commons é di Hardin "the
-tragedy of the commons"
+- La visione fallimentare dei commons é di Hardin "the
+tragedy of the commons", ovvero "La tragedia dei commons" : 
+http://t.co/Neku7yjK7L
+ScienceMagazine : http://t.co/05pY8i3zgT
 
-- @SabryKarate: Elinor Ostrom ha dimostrato che i Commons non sono
-necessariamente destinati a fallire, possono funzionare efficientemente
+- Elinor Ostrom ha dimostrato che in alcuni casi il commons
+è addirittura più efficiente di altre strade.
 
-- @MartinoMensio: La tragedia dei commons: http://t.co/Neku7yjK7L
-
-- @ripa_pepperipa: La visione dei Commons che falliscono è catturata
-dalla frase: “The tragedy of the Commons” .. cit Hardin
-
-- @SoFranchy: Si deve a E. Ostrom (Nobel Economia 2009) gran parte dello
-studio sui commons fisici: contrapposizione "tradedia dei c."
-
-- @DavidePalermo2: "The Tragedy of the Commons" ScienceMagazine
-http://t.co/05pY8i3zgT
-
-- @Carrattrezzi: pirateria not at
-
-- @Ale_Cannone: Elinor Ostrom ha dimostrato che in alcuni casi il commons
-è più efficiente di altre strade
-
-- @SabryKarate: Il sogno delle biblioteche: avere tutti i libri. Tuttavia
-è molto costoso e difficile da realizzare. Ma nel digitale...
+- Il sogno delle biblioteche: avere tutti i libri. Tuttavia
+è molto costoso e difficile da realizzare. Ma nel digitale le opportunità si allargano.
 
 - @Ale_Cannone: Sogno di una biblioteca universale accedibile a tutti
 è possibile tramite il digitale con un costo relativamente basso
