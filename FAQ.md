@@ -515,5 +515,3 @@ Usato spesso in risposta a Tweet di carattere ironico.
 Usato spesso in risposta a Tweet di carattere ironico; ha valore maggiore di LOL.
 
 FAQ contribuita da [Davide Palermo]
-
-[Davide Palermo]: https://twitter.com/DavidePalermo2 
