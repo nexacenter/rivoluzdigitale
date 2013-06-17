@@ -18,7 +18,7 @@ License: CC BY-SA 3.0 Unported
 - [17 Maggio 2013](#2013-05-17) {work in progress: Antonio Langiu}
 - [15 Maggio 2013](#2013-05-15) {rivista da: Lorenzo Cutelle'}
 - [10 Maggio 2013](#2013-05-10) {rivista da: Antonio Langiu}
-- [08 Maggio 2013](#2013-05-08)
+- [08 Maggio 2013](#2013-05-08) {work in progress: Lorenzo Cutelle'}
 - [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
 - [26 Aprile 2013](#2013-04-26) {rivista da: Giuseppe Ripa}
 - [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
