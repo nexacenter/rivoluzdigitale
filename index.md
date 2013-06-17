@@ -15,7 +15,7 @@ License: CC BY-SA 3.0 Unported
 - [29 Maggio 2013](#2013-05-29) {rivista da: Davide Palermo}
 - [24 Maggio 2013](#2013-05-24) {rivista da: Sebastiano Franchina}
 - [22 Maggio 2013](#2013-05-22) {rivista da: Cristian Quadro}
-- [17 Maggio 2013](#2013-05-17) {work in progress: Antonio Langiu}
+- [17 Maggio 2013](#2013-05-17) {rivista da: Antonio Langiu}
 - [15 Maggio 2013](#2013-05-15) {rivista da: Lorenzo Cutelle'}
 - [10 Maggio 2013](#2013-05-10) {rivista da: Antonio Langiu}
 - [08 Maggio 2013](#2013-05-08) {work in progress: Lorenzo Cutelle'}
@@ -24,7 +24,7 @@ License: CC BY-SA 3.0 Unported
 - [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
 - [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
 - [17 Aprile 2013](#2013-04-17) /* skipped */
-- [12 Aprile 2013](#2013-04-12)
+- [12 Aprile 2013](#2013-04-12) {work in progress: Antonio Langiu}
 - 10 Aprile 2013
 - [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
 - [27 Marzo 2013](#2013-03-27) {work in progress: Davide Palermo}
