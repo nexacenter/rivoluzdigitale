@@ -23,13 +23,13 @@ License: CC BY-SA 3.0 Unported
 - [26 Aprile 2013](#2013-04-26) {rivista da: Giuseppe Ripa}
 - [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
 - [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
-- [17 Aprile 2013](#2013-04-17) {work in progres: Davide Palermo}
+- [17 Aprile 2013](#2013-04-17) /* skipped */
 - [12 Aprile 2013](#2013-04-12)
 - 10 Aprile 2013
 - [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
 - [27 Marzo 2013](#2013-03-27)
 - 22 Marzo 2013
-- [20 Marzo 2013](#2013-03-20)
+- [20 Marzo 2013](#2013-03-20) {work in progress: Davide Palermo}
 
 
 ## 2013-06-07
