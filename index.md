@@ -27,9 +27,9 @@ License: CC BY-SA 3.0 Unported
 - [12 Aprile 2013](#2013-04-12)
 - 10 Aprile 2013
 - [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
-- [27 Marzo 2013](#2013-03-27)
+- [27 Marzo 2013](#2013-03-27) {work in progress: Davide Palermo}
 - 22 Marzo 2013
-- [20 Marzo 2013](#2013-03-20) {work in progress: Davide Palermo}
+- [20 Marzo 2013](#2013-03-20) {rivista da: Davide Palermo}
 
 
 ## 2013-06-07
