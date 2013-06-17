@@ -2598,7 +2598,7 @@ ma con i "Trade Marks" esistono molti problemi
 - La funzione primaria dei marchi è di mandare al consumatore
 una garanzia di qualità
 
--Esempio di conflitto per un marchio: caso Armani:
+- Esempio di conflitto per un marchio: caso Armani:
 http://t.co/tKE7jyZvs4
 
 - Controversia su Trademarks: si potrebbe indurre in
@@ -2712,7 +2712,7 @@ materiali intangibili
 
 - Brevetti (lo Stato tutela l'idea) 
 
--Diritto d'Autore (lo Stato tutela la forma espressiva)
+- Diritto d'Autore (lo Stato tutela la forma espressiva)
 
 - Per tutelarti lo stato utilizza tutta la sua forza
 attraverso tribunali e forze di polizia
@@ -2800,10 +2800,10 @@ l'invenzione di #Gutenberg con #Lutero e le versioni della #Bibbia
 nasce la scienza moderna. Prima del Sidereus Nuncius la 
 ricerca scientifica era segreta
 
-- durante l'età della stampa, esattamente nel 1665,
+- Durante l'età della stampa, esattamente nel 1665,
 nasce la prima rivista scientifica.
 
-- privilegio (antenato del diritto d'autore): veniva
+- Privilegio (antenato del diritto d'autore): veniva
 concesso il diritto di stampare in cambio del controllo delle stampe
 da parte dello stato.
 
@@ -2844,7 +2844,7 @@ suoi docenti a passare all’accesso aperto.
 - Il sistema di pubblicazione scientifica mainstream è
 anglosassone.
 
-- #Google Scholar sembra aperto ma è privato e non motiva
+- Google Scholar sembra aperto ma è privato e non motiva
 pubblicamente le sue scelte...
 
 - Per promuovere la scienza, gli scienziati devono espandere
@@ -2870,6 +2870,7 @@ d'avorio", compiono ricerche ma non diffondono i risultati.
 
 
 Foto della lezione: http://t.co/6qccvcEVyf http://t.co/eZpdZ1wN4i
+
 
 
 ## 2013-05-15
