@@ -487,3 +487,33 @@ http://www.linkiesta.it/twitter-come-funziona
 
 [Davide Palermo]: https://twitter.com/DavidePalermo2 
 [Riccardo Puglisi]: https://twitter.com/ricpuglisi 
+
+1.11. Termini usati di frequente come abbreviazioni (Email o Tweet)
+-------------------------------------------------------------------
+
+### Glossario
+
+- By the way è un'espressione inglese tradotta in italiano con a proposito, 
+tra l'altro, comunque, ... 
+
+- ACK è un termine usato in ambito informatico come simbolo che identifica un
+segnale di Acknowledge emesso in risposta alla ricezione di un'informazione.
+Usato in risposta a email o Tweet identifica consenso o recezione del messaggio.
+
+- IMHO è una abbreviazione della frase inglese "In My Humble (Honest) Opinion"
+ovvero ha significato in italiano di "A mio modesto parere".
+Viene utilizzato specialmente nelle email per anticipare una proposta.
+
+- LOL: acronimo dell'espressione inglese "Laughing Out Loud" o "Lots Of Laughs"
+tradotto come "sto ridendo sonoramente" o "un sacco di risate" [in Italiano è 
+ACR ovvero "Assai Copiose Risa"]
+Meno diffuso il valore di LOL come "Lot Of Love" ("tanto amore")
+Usato spesso in risposta a Tweet di carattere ironico.
+
+- ROTFL (o ROFL): acronimo dell'espressione iperbolica inglese
+"Rolling On The Floor Laughing" ovvero "sto rotolando per terra dal ridere"
+Usato spesso in risposta a Tweet di carattere ironico; ha valore maggiore di LOL.
+
+FAQ contribuita da [Davide Palermo]
+
+[Davide Palermo]: https://twitter.com/DavidePalermo2 
