@@ -993,816 +993,248 @@ scegliere tra varie opzioni: essere solo client, nodo della rete,...
 
 ### @bassosimone
 
-- @DavidePalermo2, @EmaParrinello: NEWS @bassosimone è vivo dopo esser 
-sopravvissuto all'annegamento!  @funkysurfer è avvisato :-)
-http://t.co/p8Q2w43iJM
 
-- @PhotoRevo: Un ricordo dell' incredibile @funkysurfer
-http://t.co/ACuPPJcHnj
+È vivo dopo esser sopravvissuto all'annegamento!  @funkysurfer è avvisato 
+:-)
+http://t.co/p8Q2w43iJM (a proposito ricordate? http://t.co/ACuPPJcHnj)
 
-- @SabryKarate: Per mailinglist deve essere chiaro il Subject, inoltre
-non bisogna scrivere blocchi di testo unici! Niente SPAM. RivoluzDigitale
+Quando si scrive in mailinglist deve essere chiaro il Subject, inoltre
+non bisogna scrivere blocchi di testo unici! E niente SPAM. 
+Chi è interessato ad ottenere consigli e feedback può
+contattare @bassosimone.
 
-- @Ale_Cannone:  chi è interessato ad ottenere consigli e feedback
-contatti @bassosimone
+La prossima lezione di  sarà divisa a metà tra @bassosimone e @demartin. 
+Si parlerà di logical fallacies, Integrità, crap detection & Ultimi argomenti
 
-- @DavidePalermo2: Prossima lezione di RivoluzDigitale divisa a metà
-tra @bassosimone e @demartin Analisi critica & Ultimi argomenti
-(logica fallacies,...)
+Nell'ultima lezione ci sarà anche una simulazione d'esame.
+Il voto della parte online verrà comunque reso disponibile prima
+dell'esame. 
 
-- @paolopopolizio: RivoluzDigitale: nella prox lezione si parlerà di
-logical fallacies
+Scopriamo che @bassosimone si fa aiutare dai "programmini" per velocizzare 
+la correzione!
 
-- @paolopopolizio: RivoluzDigitale: nella prox lezione si parlerà anche
-di integrità
-
-- @Ale_Cannone:  nell'ultima lezione ci sarà una simulazione d'esame
-
-- @EricaAcire19: RivoluzDigitale: nell'ultima lezione simulazione esame...
-
-- @SabryKarate: Il voto della parte online verrà reso disponibile prima
-dell'esame. RivoluzDigitale
-
-- @Ale_Cannone:  il voto della parte online sarà reso noto prima dello
-scritto
-
-- @DavidePalermo2: Remind delle modalità d'esame  RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: @bassosimone si fa aiutare dai
-"programmini" per velocizzare la correzione!
-
-- @CarolPizzutto: Ultima lezione, simulazione d'esame! Mi raccomando,
-tutti presenti :) RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: sempre nelle prox lezioni analizzeremo
+Sempre nelle prossime lezioni analizzeremo
 l'impatto della rivoluzione digitale sulla stampa e il giornalismo
 
-- @Antonio_Langiu: RT @ripa_pepperipa: RivoluzDigitale: @bassosimone si
-fa aiutare dai "programmini" per velocizzare la correzione!
+Nel caso in cui tu non abbia mai scritto in mailing list moltiplica il voto 
+della mailing list per 0 e sommalo al totale.
 
-- @Ale_Cannone:  chiude il @bassosimone 's moment
-
-- @LucaLiuzzi: Brutta cosa o no?Non saprei “@ripa_pepperipa:
-RivoluzDigitale: @bassosimone si fa aiutare dai "programmini" per
-velocizzare la correzione!”
-
-- @Antonio_Langiu: Moltiplica il voto della mailing list per 0 e sommalo
-al totale.. LOL RivoluzDigitale
-
-- @EricaAcire19: RT @Antonio_Langiu: Moltiplica il voto della mailing
-list per 0 e sommalo al totale.. LOL RivoluzDigitale
 
 
 ### @demartin
 
-- @SabryKarate: Grazie a @bassosimone per l'immenso lavoro che fa
-online! RivoluzDigitale
+Un Grazie a @bassosimone per l'immenso lavoro che fa
+online! 
+Iniziamo ora a connettere i fili e completare i ragionamenti
 
-- @DavidePalermo2: Un grazie a @bassosimone da tutti i ragazzi di
-RivoluzDigitale !
 
-- @Ale_Cannone:  il prof. @demartin valorizza il grande lavoro di
-@bassosimone
+Il diritto d'autore protegge la forma espressiva e non l'idea
+Il brevetto è invece un atto formale con durata molto minore del 
+diritto d'autore
 
-- @DavidePalermo2: Iniziamo a connettere i fili e completare i ragionamenti
-RivoluzDigitale
+Nel diritto d’autore c’è una soglia di originalità molto bassa, legata 
+alla non banalità. Nei brevetti tale soglia è molto più elevata, 
+deve essere qualcosa di significativo nel settore
 
-- @paolopopolizio: RivoluzDigitale: diritto d'autore protegge la forma
-espressiva e non l'idea
+I brevetti sui farmaci erano prima vietati, a causa di
+un interesse maggiore.
+Ultimamente però il sistema brevettuale ha permesso di creare brevetti 
+su farmaci e Business methods, alcuni dei quali quasi ovvi..vedi "one clic
+di Amazon" 
 
-- @Carrattrezzi: Onore e gloria da @demartin ( da noi) a @bassosimone
-
-- @paolopopolizio: RivoluzDigitale: brevetto atto formale con durata
-molto minore del diritto d'autore
-
-- @FeFallace: RivoluzDigitale Onore a @bassosimone !
-
-- @DavidePalermo2: - Diritto d'autore Richiede comunque una certa
-originalità  RivoluzDigitale
-
-- @FabioVallone: RT @FeFallace: RivoluzDigitale Onore a @bassosimone !
-
-- @AstoriPietro: Il diritto d'autore tutela l'originalità ma c'è
-una soglia minima. Per quanto riguarda i brevetti la soglia è più
-elevata. RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: Nel diritto d’autore c’è una
-soglia di originalità molto bassa. Nei brevetti tale soglia è molto
-più elevata
-
-- @Antonio_Langiu: Per i brevetti devo inventare qualcosa non
-ovvia..qualcosa di significativo nel settore.. RivoluzDigitale
-
-- @stufi93: La soglia di originalità dei brevetti è più elevata di
-quella del diritto d'autore RivoluzDigitale
-
-- @Clerish: I brevetti hanno una soglia di originalità più elevata
-rispetto al diritto d'autore
-
-- @EricaAcire19: RivoluzDigitale brevetto: deve essere qualcosa di non
-ovvio agli esperti del settore .
-
-- @AstoriPietro: Progressivo abbassamento della soglia minima per quanto
-riguarda i brevetti, negli ultimi decenni. RivoluzDigitale
-
-- @Ale_Cannone:  il diritto d'autore scatta nel momento in cui la frase
-non è banale. Per il brevetto soglia di originalità più alta
-
-- @Antonio_Langiu: Il sistema brevettuale ha permesso ultimamente di
-creare brevetti quasi ovvi..vedi "one clic di Amazon" RivoluzDigitale
-
-- @stufi93: @bassosimone honorem et gloriam RivoluzDigitale!
-
-- @DavidePalermo2: Diritto d'autore esteso ai software RivoluzDigitale
-
-- @_FedericoConte: nel brevetto c'è una soglia più alta, soprattutto
-in passato RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: il brevetto ha sempre avuto una
-soglia di originalità più alta rispetto al diritto d'autore soprattutto
-in passato
-
-- @Carrattrezzi: a proposito di brevetti, avete visto la notizia di oggi
+A proposito di brevetti, avete visto la notizia di oggi
 riguardo apple-samsung? http://t.co/E8EJ6Og9ex
 
-- @Antonio_Langiu: Fino agli anni 70 i farmaci non erano brevettabili
-sapevatelo RivoluzDigitale
+Business method patent - Wikipedia Eng http://t.co/LH6sgTY0Wx 
+Software patent - Wikipedia Eng http://t.co/bjSm8U0NC3 
 
-- @FabioVallone: Fino agli anni 70 non si poteva brevettare i
-farmaci,perchè avevano paura che medicine si potessero produrre a minor
-prezzo RivoluzDigitale
-
-- @Carrattrezzi: I brevetti sui farmaci erano prima vietati, a causa di
-un interesse maggiore.
-
-- @SabryKarate: Il diritto d'autore tutela la forma espressiva ed ha
-effetto duraturo ed immediato. La soglia di originalità è molto bassa
-RivoluzDigitale
-
-- @DavidePalermo2: Copyright -> Copy Right -> Diritto di (protezione
-dalla) Copia RivoluzDigitale
-
-- @FabioVallone: Il software non è brevettabile... mentre le idee dietro
-ad esso sì (Business methods) RivoluzDigitale
-
-- @AstoriPietro: A partire dagli anni '80-'90, hai il diritto d'autore
-sul software, ma anche il diritto di proteggere l'idea. RivoluzDigitale
-
-- @stufi93: A partire dagli anni 90 puoi avere la tutela delle idee
-incorporate nel software - Business Methods RivoluzDigitale
-
-- @Rexsimo893: Allargamento del brevettabile (es. farmaci) nel corso degli
-anni RivoluzDigitale
-
-- @SabryKarate: I brevetti concedono una tutela temporanea da parte dello
-stato su un'invenzione. La soglia di originalità è alta. RivoluzDigitale
-
-- @AstoriPietro: Protezione del business method per 20 anni RivoluzDigitale
-
-- @Antonio_Langiu: Si possono brevettate i Business Methods.. esempio il
-"One Clic di Ama on" RivoluzDigitale
-
-- @DavidePalermo2: Business method patent - Wikipedia Eng
-http://t.co/LH6sgTY0Wx  RivoluzDigitale
-
-- @DavidePalermo2: Software patent - Wikipedia Eng http://t.co/bjSm8U0NC3
-RivoluzDigitale
-
-- @InesGraells: Grazie @bassosimone per fare il corso più interessante
-RivoluzDigitale
-
-- @Ale_Cannone:  software coperti sia da diritti d'autore che da brevetto
-
-- @Clerish: Il software è protetto da diritto d'autore, ma la idea
-strutturale può essere brevettata
-
-- @ripa_pepperipa: RivoluzDigitale: business methods e software ... per
-saperne di più -->http://t.co/KMOGMlnSKA
-
-- @EmaParrinello: RivoluzDigitale Soltanto recentemente i brevetti sono
-stati estesi a:  -farmaci -business methods -software
-
-- @SabryKarate: Anche per il software vale il diritto d'autore. I
-brevetti si sono espansi pure su farmaci, business methods,
-software,... RivoluzDigitale
-
-- @StefanoFranz20: Brevetti -farmaci -business methods -software
-
-- @LolloCler: RivoluzDigitale software protetti da due livelli di tutela:
-diritto d'autore e brevetti!
-
-- @_FedericoConte: farmaci, buisness methods e software sono estensioni
-del brevetto RivoluzDigitale
-
-- @FabioVallone: Anche mettendosi in una Clean Room c'è il rischio di
-incorrere in problemi brevettuali RivoluzDigitale
-
-- @Clerish: L'applicazione dei brevetti ai software distruggono l'idea di
-"clean room" (mettersi a programmare da zero)
-
-- @SabryKarate: Scrivere un software uguale a quello di qualcun
+Il software è protetto da diritto d'autore, ma la idea
+strutturale può essere brevettata -->http://t.co/KMOGMlnSKA
+Scrivere un software uguale a quello di qualcun
 altro. Hai le stesse probabilità di scrivere un libro uguale ad un
-altro... RivoluzDigitale
+altro... 
 
-- @Carrattrezzi: Le analisi brevettuali sono molto costose e difficilmente
-piccoli imprenditori e liberi professionisti possono accedervi
+Le analisi brevettuali sono molto costose e difficilmente piccoli
+imprenditori e liberi professionisti possono accedervi
 
-- @stufi93: Il piccolo programmatore è in svantaggio rispetto alla
-azienda perché non può permettersi un'analisi brevettuale accurata
-RivoluzDigitale
+Software brevetti e diritti d'autore: ancora oggi una questione 
+aperta, ma è una questione europea, non nazionale
 
-- @Ale_Cannone: Software brevetti e diritti d'autore: ancora oggi una
-questione aperta
+Secondo la convenzione di Monaco, il software non è
+brevettabile  http://t.co/RmIVTh3SRO  
 
-- @FabioVallone: Le direttive le possono proporre solo la commissione
-europea RivoluzDigitale
+I brevetti software rallentano il progresso tecnologico
 
-- @LolloCler: Cleanroom é impossibile, si rischia di colpire i brevetti!
-non si riesce a fare un'analisi brevettuale approfondita
+Quando si parla di tutela dell'intangibile:
 
-- @FeFallace: RivoluzDigitale Per i software è facile violare un brevetto
-inconsapevolmente ma molto improbabile violare il copyright
+- : Beni rivali= se ne usufruisco io, tu ne usufruisci meno.
 
-- @Rexsimo893: Mondo della "clean room" viene distrutto dal modello dei
-brevetti -> più facile violarne qualcuno anche involontariamente
-RivoluzDigitale
+- : Bene rivale: io uso una cosa quindi l'altro non lo può
+    usare 
 
-- @SoFranchy: In Europa si tentò di fare una direttiva per rendere
-illegali brevetti software: l’unica direttiva europea bocciata.
+-Rivalità: usufruendo di un certo bene, si limita ad altri
+ l'uso di ciò. 
 
-- @andryamadio: Parlamento europea boccia direttiva sul software libero
+-Escludibilità: impedire l'uso di un certo bene. 
+ L'aria per esempio è un bene non escludibile
 
-- @FabioVallone: Secondo la convenzione di Monaco, il software non è
-brevettabile RivoluzDigitale
+Un bene rivale ed escludibile è un bene privato. (es. auto,cibo)
 
-- @SabryKarate: I brevetti software sono un ostacolo allo
-sviluppo. RivoluzDigitale
+Un bene rivale e non escludibile è definito come "common good": 
+chiunque può usufruirne ma prima o poi finirà.   
 
-- @AstoriPietro: I brevetti software sono un'ostacolo all'innovazione
-RivoluzDigitale
+@brattfrishman uno dei prossimi ospiti (del centro NEXA) con lezione in inglese
 
-- @stufi93: Apple vs Samsung -> i brevetti software sono una pessima
-idea, un'ostacolo all'innovazione. RivoluzDigitale
+Bene non rivale ma escludibile: "beni di club" (es.cinema,tv satellitare)
+Non rivali e Non escludibili: beni pubblici es.aria,difesa
 
-- @Carrattrezzi: I brevetti software rallentano il progresso tecnologico
+Per ricapitolare: rivali-escludibili->privati 
+                  rivali-non escludibili->common
+                  non rivali-escludibili->club 
+                  non rivali-non escludibili->pubblic 
+                  http://t.co/Ppg6XScMJH                  
+                  http://t.co/4Q2iqmEwSN
+                  http://t.co/EdxYS9Fs21
+                  http://t.co/hUA4XX36J3
 
-- @Antonio_Langiu: Si parla di tutela dell'intangibile..  RivoluzDigitale
+Tra i beni pubblici, è anche inclusa la conoscenza. Il diritto all'informazione 
+è un bene non rivale e non escludibile. 
 
-- @SimoneBleynat: RT @Antonio_Langiu: Fino agli anni 70 i farmaci non
-erano brevettabili sapevatelo RivoluzDigitale
+Per chi vuole approfondire sul tema della conoscenza, leggere Joseph Stiglitz,
+premio Nobel per economia http://t.co/6dQXsrbvTm 
+Un tempo la conoscenza era meno diffusa: era legata a supporti fisici. 
+Il digitale ha permesso una maggiore divulgazione; grazie ad esso infatti
+la non-escludibilità della conoscenza viene estremamente ampliata.
 
-- @DavidePalermo2: Convenzione di Monaco sul brevetto europeo - Wikipedia
-IT http://t.co/RmIVTh3SRO  RivoluzDigitale
-
-- @Ale_Cannone:  brevetti software ---> si oppongono all'innovazione
-
-- @SimoneBleynat: RT @EmaParrinello: RivoluzDigitale Soltanto recentemente
-i brevetti sono stati estesi a:  -farmaci -business methods -software
-
-- @SimoneBleynat: RT @Clerish: L'applicazione dei brevetti ai software
-distruggono l'idea di "clean room" (mettersi a programmare da zero)
-
-- @stufi93: Rivalità ed escludibilità RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: rivalità: per beni rivale si intende
-un bene per cui se ne usufruisco io, l'altro ne usufruisce meno
-
-- @CarolPizzutto: Beni rivali= se ne usufruisco io, tu ne usufruisci meno.
-RivoluzDigitale
-
-- @Antonio_Langiu: Due termini: Rivalità ed Escludibilità dei beni
-RivoluzDigitale
-
-- @InesGraells: Bene rivale: io uso una cosa quindi l'altro non lo può
-usare RivoluzDigitale
-
-- @FabioVallone: @FabioVallone RivoluzDigitale
-
-- @SabryKarate: Rivalità: usufruendo di un certo bene, si limita
-ad altri l'uso di ciò. Escludibilità: impedire l'uso di un certo
-bene. RivoluzDigitale
-
-- @stufi93: Escludibilità: è possibile impedire a qualcuno di utilizzare
-qualcosa? RivoluzDigitale
-
-- @MartinoMensio: RT @InesGraells: Bene rivale: io uso una cosa quindi
-l'altro non lo può usare RivoluzDigitale
-
-- @MartinoMensio: RT @Antonio_Langiu: Due termini: Rivalità ed
-Escludibilità dei beni RivoluzDigitale
-
-- @SabryKarate: L'aria è un bene non escludibile. Non possono costringerti
-a non respirare... RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: escludibilità: possibilità di
-impedire a qualcn qualcosa(es un panino); bene non escludibile(es aria)
-
-- @CarolPizzutto: Un bene rivale ed escludibile è un bene
-privato. RivoluzDigitale
-
-- @MartinoMensio: Beni privati: rivali ed escludibili RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: beni rivali ed escludibili: "beni
-privati" (es. auto,cibo)
-
-- @Ale_Cannone:  un bene escludibile si ha quando a qualcuno è vietato
-l'accesso a quel determinato bene
-
-- @MartinoMensio: Common good: rivali e non escludibili RivoluzDigitale
-
-- @EmaParrinello: RivoluzDigitale I "common goods" ovvero i beni comuni
-(pesci legna ecc) sono dei beni rivali non escludibili
-
-- @SabryKarate: Rivali ed Escludibili: beni privati es.auto, vestiti,
-cibo,... Rivali e Non escludibili: common goods es. legna, pesci,...
-RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: beni rivali e non escludibili:
-"common good" (es.pesci,legna)
-
-- @CarolPizzutto: Un bene rivale e non escludibile è definito come "common
-good": chiunque può usufruirne ma prima o poi finirà.   RivoluzDigitale
-
-- @FeFallace: RivoluzDigitale Bene rivale (=il mio usufrutto del bene non
-limita il tuo). Bene escludibile (=bene di cui puoi impedire l'usufrutto).
-
-- @LolloCler: RivoluzDigitale quattro categorie di beni: 1)beni rivali
-ed escludibili cioè beni privati (auto,cibi,vestiti)
-
-- @SimoneBleynat: RT @CarolPizzutto: Un bene rivale ed escludibile è un
-bene privato. RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale beni privati non escludibili cioè common
-good (prodotti naturali)
-
-- @paolopopolizio: RivoluzDigitale: @brattfrishman uno dei prossimi ospiti
-con lezione in inglese
-
-- @MartinoMensio: "Beni di club": beni non rivali ed escludibili
-RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: bene non rivale ma escludibile:
-"beni di club" (es.cinema,tv satellitare)
-
-- @andryamadio: beni non rivali ma escludibili cinema
-
-- @FabioVallone: rivali-escludibili->privati rivali-non
-escludibili->common non rivali-escludibili->club non rivali-non
-escludibili->pubblic RivoluzDigitale
-
-- @SabryKarate: Non rivali e Escludibili: beni di club es.cinema,parchi
-privati Non rivali e Non escludibili: beni pubblici es.aria,difesa
-RivoluzDigitale
-
-- @Ale_Cannone:  http://t.co/4Q2iqmEwSN
-
-- @paolopopolizio: RivoluzDigitale: "bene pubblico": bene non rivale e
-non escludibili (es. Aria,difesa nazionale)
-
-- @LolloCler: RivoluzDigitale beni non rivali escludibili cioè "beni di
-club" tipo il cinema tvsatellitare
-
-- @MartinoMensio: Beni pubblici: beni non rivali e non escludibili
-RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale beni non rivali non escludibili cioè
-"beni pubblici" aria tvfreetoair difesanazionale esercito
-
-- @MartinoMensio: Beni pubblici globali: disponibili in tutto il mondo
-(ad esempio la conoscenza) RivoluzDigitale
-
-- @SabryKarate: Tra i beni pubblici, è anche inclusa la
-conoscenza. Il diritto all'informazione è un bene non rivale e non
-escludibile. RivoluzDigitale
-
-- @MartinoMensio: Joseph Stiglitz http://t.co/6dQXsrbvTm RivoluzDigitale
-
-- @_FedericoConte: Beni Rivali: io usufruisco di un bene e qualcun'altro
-no RivoluzDigitale
-
-- @EmaParrinello: La conoscenza è un bene pubblico globale non rivale e
-non escludibile anche se abbiamo il copyright e i brevetti RivoluzDigitale
-
-- @_FedericoConte: Beni escludibili: se si può escludere qualcuno
-dall'utilizzo di un bene RivoluzDigitale
-
-- @FabioVallone: non rivale, non escludibile --> Copyright e brevetti
-RivoluzDigitale
-
-- @EricaAcire19: RivoluzDigitale Per chi vuole approfondire sul tema
-della conoscenza, leggere Joseph Stiglitz, premio Nobel per economia...
-
-- @Antonio_Langiu: La conoscenza: un bene rivale e non escludibile ma..con
-il copyright e i brevetti essa diventa escludibile.. RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale copyright e brevetti bene non rivale
-escludibile!ciò incentiva la produzione
-
-- @SoFranchy: Conoscenza: bene pubblico globale: non escludibile
-(condivisibile senza Brevetti e DdA) e non rivale (l'uso non nuoce)
-
-- @ripa_pepperipa: RivoluzDigitale: La conoscenza: bene pubblico
-globale(Joseph Stiglitz). No rivale e non escludibile. Si Copyright
-e Brevetti
-
-- @andryamadio: RT @LolloCler: RivoluzDigitale copyright e brevetti bene
-non rivale escludibile!ciò incentiva la produzione
-
-- @Carrattrezzi:  http://t.co/Ppg6XScMJH
-
-- @SabryKarate: Un tempo la conoscenza era meno diffusa: era
-legata a supporti fisici. Il digitale ha permesso una maggiore
-divulgazione. RivoluzDigitale
-
-- @EricaAcire19: RivoluzDigitale grazie al digitale la non-escludibilità
-della conoscenza viene estremamente ampliata.
-
-- @MartinoMensio: RT @Carrattrezzi:  http://t.co/Ppg6XScMJH
-
-- @DavidePalermo2: RivoluzDigitale  Schema sui beni Rivali, NonRivali,
-Escludibili, NonEscludibili http://t.co/EdxYS9Fs21
-
-- @paolopopolizio: RT @Carrattrezzi:  http://t.co/Ppg6XScMJH
-
-- @Antonio_Langiu: Digitale: la conoscenza si separa dal supporto e
-diventa perfettamente non escludibile.. RivoluzDigitale
-
-- @EmaParrinello: I brevetti e il copyright rendono la conoscenza un bene
-escludibile ma grazie al "digitale" diviene un bene non escludibile
-RivoluzDigitale
-
-- @FabioVallone: Digitale: la conoscenza si separa dal supporto fisico e
-diventa "perfettamente" non escludibile RivoluzDigitale
-
-- @SabryKarate: In una delle prossime lezioni, la giornalista @annamasera
-ospite del corso di RivoluzDigitale!
-
-- @FeFallace: RivoluzDigitale Con il digitale la conoscenza si separa
-dal supporto fisico e diventa non escludibile (praticamente, anche
+Con il Digitale: la conoscenza si separa dal supporto fisico e
+diventa "perfettamente" non escludibile (praticamente, anche
 se illegalmente)
 
-- @SabryKarate: RT @DavidePalermo2: RivoluzDigitale  Schema sui beni
-Rivali, NonRivali, Escludibili, NonEscludibili http://t.co/EdxYS9Fs21
+In una delle prossime lezioni, la giornalista @annamasera ospite del corso.
 
-- @LorenzoCutelle: Pre-digitale: opere escludibili
-(supporto fisico). Post-digitale: opere (tecnicamente)
-non-escludibili! RivoluzDigitale
+La Condivisione della Conoscenza - @demartin, Donolo,Mattei at BDEM13 
+http://t.co/d0hvWxgpLV 
 
-- @SoFranchy: Con il digitale si esalta la non escludibilità della
-conoscenza: si separa dal supporto fisico e diventa non escludibile
-
-- @paolopopolizio: RT @SabryKarate: In una delle prossime lezioni,
-la giornalista @annamasera ospite del corso di RivoluzDigitale!
-
-- @_FedericoConte: RT @SabryKarate: In una delle prossime lezioni,
-la giornalista @annamasera ospite del corso di RivoluzDigitale!
-
-- @MartinoMensio: RT @SabryKarate: In una delle prossime lezioni, la
-giornalista @annamasera ospite del corso di RivoluzDigitale!
-
-- @InesGraells: I beni privati sono rivali e escludibili (es. gli auto,
-il cibo, i vestiti) RivoluzDigitale
-
-- @MartinoMensio: RT @FeFallace: RivoluzDigitale Con il digitale la
-conoscenza si separa dal supporto fisico e diventa non escludibile
-(praticamente, anche …
-
-- @DavidePalermo2: La Condivisione della Conoscenza - @demartin, Donolo,
-Mattei at BDEM13 http://t.co/d0hvWxgpLV RivoluzDigitale
-
-- @omerovitali: Tabella dei beni del prof @demartin sulla lavagna.
-RivoluzDigitale http://t.co/hUA4XX36J3
-
-- @paolopopolizio: RivoluzDigitale: Digitale: la conoscenza si separa
-dal supporto fisico e diventa perfettamente non escludibile
-
-- @LolloCler: RivoluzDigitale Stallman "condivido software senza perderlo
+Stallman: "condivido software senza perderlo
 e senza costi, perciò ho obbligo morale di farlo perché porto beneficio"
+Se il software libero è modificato in positivo, è un "obbligo" condividerlo 
+con gli altri. 
 
-- @SoFranchy: Richard Stallman: dal punto di vista etico copia software
-è obbligo morale. Non si perde nulla e altri traggono beneficio.
+General Public License http://t.co/6XXIb4XYwp
+Essa prevede,oltre alle quattro libertà, anche l'obbligo di rendere
+disponibile il sorgente se software viene migliorato
 
-- @LolloCler: RivoluzDigitale scrive "emax"
+Emacs by Stallman: http://t.co/dCZCjGQ9Xt
 
-- @stufi93: RT @DavidePalermo2: RivoluzDigitale  Schema sui beni Rivali,
-NonRivali, Escludibili, NonEscludibili http://t.co/EdxYS9Fs21
+Il quarto principio, su cui si basa il software libero,
+diventa un OBBLIGO x il bene della comunità 
 
-- @ripa_pepperipa: RT "«Licenziato perché sostituito da un iPhone»
-http://t.co/zS7dAC20rp" RivoluzDigitale @Tecno_Corriere
-
-- @PieMarzio: Se il software libero è modificato in positivo, è un
-"obbligo" condividerlo con gli altri. Stallman RivoluzDigitale
-
-- @MartinoMensio: General Public License http://t.co/6XXIb4XYwp
-RivoluzDigitale
-
-- @FabioVallone: La gpl prevede,oltre alle quattro libertà, anche
-l'obbligo di rendere disponibile il sorgente se software viene migliiorato
-RivoluzDigitale
-
-- @DavidePalermo2: GNU General Public License - Wikipedia
-http://t.co/72dmqLiBXl  RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale Stallman scrive "emacs"
-
-- @FabioVallone: GPL= 4 libertà + Copyleft (obbligo di rendere disponibile
-il codice sorgente modificato se diffondo il software migliorato)
-RivoluzDigitale
-
-- @SabryKarate: 4 libertà + condizione copyleft (disponibile sorgente
-modificato)  General public licence = GNU http://t.co/eaHivK0eCY
-RivoluzDigitale
-
-- @LucaLiuzzi: RT @SabryKarate: In una delle prossime lezioni, la
-giornalista @annamasera ospite del corso di RivoluzDigitale!
-
-- @AstoriPietro: Copyleft. Prendere un software, migliorarlo e rimentterlo
-a disposizione in modo che possa essere migliorato ancora RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: GPL General Public Licence
-
-- @Rexsimo893: Stallman fa nascere la cultura del software libero
-aggiungendo alle 4 libertà il copyleft -> si ottiene licenza GNU
-RivoluzDigitale
-
-- @AstoriPietro: Licenza GPL è una licenza General Public License
-RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale General Public License:(GPL) 4
-libertà+copyleft  grande analogia con CreativeCommons
-
-- @FabioVallone: GPL o GNU GPL --> General Public License  o anche
-GNU RivoluzDigitale
-
-- @Ale_Cannone: General public license: 4 libertà del software libero
-più il copyleft
-
-- @93Levante: Il quarto principio, su cui si basa il software libero,
-diventa un OBBLIGO x il bene della comunità RivoluzDigitale
-
-- @DavidePalermo2: Allarme patent troll, finti inventori: brevettano
+Allarme patent troll, finti inventori: brevettano
 l'hi-tech e fanno causa http://t.co/109jk41Z24 via @repubblicait
-RivoluzDigitale
 
-- @paolopopolizio: RivoluzDigitale: @russomatteo93 allora mi osservi
-invece di seguire :P
-
-- @Clerish: Emacs by Stallman: http://t.co/dCZCjGQ9Xt
-
-- @StefanoFranz20: "General public licence" tipo di licenza finalizzata
-alla condivisione delle modifiche sul codice dei software
-
-- @Ale_Cannone: Copyleft --> obbligo di rendere disponibile il codice
-sorgente modificato se diffondo il sorgente modificato
-
-- @SoFranchy: Stallman: una licenza, condizione di pubblicità della
+Stallman: una licenza, condizione di pubblicità della
 modifica (se non per uso privato). CC 6 licenze tra cui scegliere
 
-- @FabioVallone: Grazie alla licenza GNU/GPL, si sono creati centinaia e
-centinai di progetti di software libero RivoluzDigitale
-
-- @ripa_pepperipa: RT "Allarme patent troll, finti inventori: brevettano
-l'hi-tech e fanno causa http://t.co/h93Q68M8cF via @repubblicait
-RivoluzDigitale"
-
-- @Carrattrezzi: Non solo le grandi aziende possono produrre SO, tante
+Grazie alla licenza GNU/GPL, si sono creati centinaia e
+centinai di progetti di software libero 
+Infatti non solo le grandi aziende possono produrre SO, tante
 persone, lavorando insieme, hanno sviluppato linux
 
-- @MartinoMensio: OpenSource: diverso da software libero
-https://t.co/4THvb0FNXV RivoluzDigitale
+OpenSource: diverso da software libero
+https://t.co/4THvb0FNXV 
 
-- @DavidePalermo2: È open /ˡsɔːs/ non open surs alla piemontese cit
-@demartin RivoluzDigitale
+Si pronuncia open /ˡsɔːs/ non open surs alla piemontese cit
+@demartin 
 
-- @SabryKarate: opersource, codice sorgente aperto.  Take a look on
-http://t.co/b9VTjMD0oz  RivoluzDigitale
-
-- @Clerish: Il termine "Open source" fu coniato per distaccarsi dalle
+Il termine "Open source" fu coniato per distaccarsi dalle
 stranezze di Stallman e rendere più moderato "Software libero"
+http://t.co/b9VTjMD0oz  
 
-- @MartinoMensio: Free BSD non impone il copyleft RivoluzDigitale
+Free BSD non impone il copyleft 
+ http://t.co/d2Mhb2BdfW 
 
-- @SimoneBleynat: RT @DavidePalermo2: È open /ˡsɔːs/ non open surs
-alla piemontese cit @demartin RivoluzDigitale
+Open source: codice accessibile ma senza le 4 libertà del
+software libero. 
 
-- @FabioVallone: open source non è un sinonimo di software
-libero... RivoluzDigitale
-
-- @SimoneBleynat: RT @SabryKarate: opersource, codice sorgente aperto.
-Take a look on http://t.co/b9VTjMD0oz  RivoluzDigitale
-
-- @MartinoMensio: Licenze BSD http://t.co/d2Mhb2BdfW RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale differenza open source-software libero
-puramente di marketing e atteggiamento
-
-- @PieMarzio: Open source: codice accessibile ma senza le 4 libertà del
-software libero. RivoluzDigitale
-
-- @SabryKarate: software libero: ha le 4 libertà opensource permette
+Software libero: ha le 4 libertà opensource permette
 di accedere al codice sorgente, ma non necessariamente modificabile
-RivoluzDigitale
 
-- @paolopopolizio: RivoluzDigitale: differenza tra open source e software
-libero: rispettivamente accesso libero al codice e rispetto delle
-4 libertà
-
-- @Rexsimo893: Open source -> operazione di marketing che rimodula
+Quindi Open source -> operazione di marketing che rimodula
 il significato di software libero, che invece ha una def. più precisa
-RivoluzDigitale
+e garantisce solamente che si possa vedere il codice sorgente 
 
-- @LolloCler: RivoluzDigitale opensource consente codice accessibile e
-magari non le altre 4 libertà al contrario del software libero
-
-- @MartinoMensio: Open source: più vago del software libero; garantisce
-solamente che si può vedere il codice sorgente RivoluzDigitale
-
-- @PieMarzio: "Commons": gruppo di individui che rispettano in generale
-delle norme (gourodiche, sociali) RivoluzDigitale
-
-- @DavidePalermo2: La pagina di Wikipedia su Wikipedia
-http://t.co/oh5J4TT2nF ;-)
-
-- @LolloCler: RivoluzDigitale su wikipedia gruppo volontario di individui
-collabora rispettando norme sociali imposte dai wikipediani oltre a leggi
-
-- @SimoneBleynat: RT @MartinoMensio: Open source: più vago del software
-libero; garantisce solamente che si può vedere il codice sorgente
-RivoluzDigitale
-
-- @SoFranchy: Open Source < SW libero: SW libero include le 4 libertà;
-Open Source include almeno la possibilità di vedere il codice
-
-- @Ale_Cannone:  nè privato (mercato)  nè lo stato ---> anarchia,
+"Commons": gruppo di individui che rispettano in generale
+delle norme (gourodiche, sociali) 
+nè privato (mercato)  nè lo stato ---> anarchia,
 dove ognuno si può autorganizzare ---> Commons
 
-- @SimoneBleynat: OT Gran cosa Wikipedia /OT
+Commons autoregolamentati con diversi gradi di anarchismo
 
-- @SabryKarate: "Commons" non dipendono da privati o dallo stato. Spazio
-auto-organizzato, regole definite (non leggi imposte!).  RivoluzDigitale
+Ad esempio  su wikipedia gruppo volontario di individui
+collabora rispettando norme sociali imposte dai wikipediani oltre a leggi
 
-- @Antonio_Langiu: Il concetto di Commons é legato all' auto
-organizzazione.. RivoluzDigitale
+La pagina di Wikipedia su Wikipedia http://t.co/oh5J4TT2nF ;-)
 
-- @PieMarzio: "Commons" strettamente legato al concetto di
-auto-organizzazione RivoluzDigitale
+Elinor Ostrom, prima donna a vincere il Premio Nobel per
+l'Economia (nel 2009) ha studiato
+casi di commons fisici ed il loro funzionamento http://t.co/VavtbZItvG
 
-- @EmaParrinello: il concetto di "commons" è legato al concetto di
-auto-organizzazione RivoluzDigitale
-
-- @MartinoMensio: RT @Antonio_Langiu: Il concetto di Commons é legato all'
-auto organizzazione.. RivoluzDigitale
-
-- @Carrattrezzi: Commons autoregolamentati con diversi gradi di anarchismo
-
-- @Antonio_Langiu: RT @PhotoRevo: Un ricordo dell' incredibile @funkysurfer
-http://t.co/ACuPPJcHnj
-
-- @ripa_pepperipa: RivoluzDigitale: “Commons”:  Spazi dove ci si
-può auto-organizzare (non c’è legge di marcato-->Anarchia) né
-privato(mercato) né Stato
-
-- @SabryKarate: Elinor Ostrom, prima donna a vincere il Premio Nobel per
-l'Economia (nel 2009) RivoluzDigitale
-
-- @FabioVallone: Elinor Ostrom (premio Nobel Economia 2009) ha studiato
-casi di commons fisici ed il loro funzionamento RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: Elinor Ostrom -->
-http://t.co/VavtbZItvG
-
-- @AstoriPietro: Elinor Ostrom, Nobel per l'economia nel 2009 ha studiato
-moltissimi casi di commons fisici RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale Ostrom,nobel per economia,studia common fisici
-e come le comunità si gestiscono e conclude che é falso che falliscono
-
-- @Carrattrezzi: I commons non sono solo quelli degli anni '70, ci sono
+I commons non sono solo quelli degli anni '70, ci sono
 casi molto più antichi e che hanno invece funzionato.
 
-- @LolloCler: RivoluzDigitale la visione fallimentare dei commons é di
-Hardin "the tragedy of the commons"
+La visione fallimentare dei commons é di Hardin "the tragedy of the commons"
+http://t.co/Neku7yjK7L
+http://t.co/05pY8i3zgT 
 
-- @SabryKarate: Elinor Ostrom ha dimostrato che i Commons non sono
-necessariamente destinati a fallire, possono funzionare efficientemente
-RivoluzDigitale
-
-- @MartinoMensio: La tragedia dei commons: http://t.co/Neku7yjK7L
-RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: La visione dei Commons che falliscono
-è catturata dalla frase: “The tragedy of the Commons” .. cit Hardin
-
-- @SoFranchy: Si deve a E. Ostrom (Nobel Economia 2009) gran parte dello
-studio sui commons fisici: contrapposizione "tradedia dei c."
-
-- @DavidePalermo2: "The Tragedy of the Commons" ScienceMagazine
-http://t.co/05pY8i3zgT RivoluzDigitale
-
-- @Carrattrezzi: pirateria not at
-
-- @SimoneBleynat: RT @FabioVallone: Elinor Ostrom (premio Nobel Economia
-2009) ha studiato casi di commons fisici ed il loro funzionamento
-RivoluzDigitale
-
-- @Ale_Cannone: Elinor Ostrom ha dimostrato che in alcuni casi il commons
-è più efficiente di altre strade
-
-- @SabryKarate: Il sogno delle biblioteche: avere tutti
-i libri. Tuttavia è molto costoso e difficile da realizzare. Ma nel
-digitale... RivoluzDigitale
-
-- @Ale_Cannone: Sogno di una biblioteca universale accedibile a tutti è
-possibile tramite il digitale con un costo relativamente basso
-
-- @ripa_pepperipa: RivoluzDigitale: la Pirateria -->
+pirateria now at rivoluzdigitale
 http://t.co/AWB5A6yIkD
 
-- @SabryKarate: Problema di incentivi economici: vendita di libro
+Il sogno delle biblioteche: avere tutti
+i libri. Tuttavia è molto costoso e difficile da realizzare. Ma nel
+digitale... 
+
+Problema di incentivi economici: vendita di libro
 fisico permette di sostenere lo scrittore. La distribuzione gratuita
-no. RivoluzDigitale
+no. 
 
-- @Ale_Cannone: Libri accessibili a tutti: mancano gli incentivi per
-poter organizzare tutto in digitale (questioni di interesse economico)
-
-- @DavidePalermo2: .@demartin cita @balaitous e VolkerGrassmuck
-
-- @Carrattrezzi: Circa il 6% del prezzo di copertina di un libro va
+Circa il 6% del prezzo di copertina di un libro va
 all'autore
 
-- @SabryKarate: Del guadagno ricavato dalle copie fisiche vendute, allo
-scrittore vanno tra il 6% ed un massimo di 12%... RivoluzDigitale  libri
-
-- @SoFranchy: Rendere disponibile la conoscenza a tutti allo stesso
+Rendere disponibile la conoscenza a tutti allo stesso
 modo. Come incentivare gli autori? Idee da P. Aigrain e V. Grassmuck
 
-- @venadavide: Un autore medio riceve circa il 6/7 % dal ricavato di una
-pubblicazione RivoluzDigitale
+Philippe Aigrain e Volker Grassmuck hanno provato a disaccoppiare 
+la visione del tantigibile e intangibile
 
-- @ripa_pepperipa: RivoluzDigitale: Philippe Aigrain e Volker Grassmuck
-hanno provato a disaccoppiare la visione del tantigibile e intangibile
+Pirati e Pirateria dall'antichità ad oggi, con diverse
+accezioni 
 
-- @AstoriPietro: Solo il 6% del costo del libro è destinato all'autore,
-se è bravo contratta fino al 10-12% RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: si vuole dare agli autori il 10 %
-del guadagno sulla copia fisica venduta
-
-- @DavidePalermo2: Pirati e Pirateria dall'antichità ad oggi, con diverse
-accezioni RivoluzDigitale
-
-- @AstoriPietro: I corsari, espediente della corona inglese per boicottare
-la flotta spagnola RivoluzDigitale
-
-- @SabryKarate: pirateria, termine molto utilizzato già a partire
-da Gutenberg.  N.B. si parla di pirati già prima del Seicento.
-RivoluzDigitale
-
-- @MartinoMensio: Pirateria nella cultura: nasce nel 600 con la copia
-illegale di libri RivoluzDigitale
-
-- @SimoneBleynat: La Regina Elisabetta I reinventa i pirati, ma dà loro
+I corsari, espediente della corona inglese per boicottare
+la flotta spagnola. 
+Infatti La Regina Elisabetta I reinventa i pirati, ma dà loro
 una patente che legittima il loro operato e li chiama corsari
-
-- @Carrattrezzi: I pirati nel periodo della diffusione della stampa erano
+ 
+Pirateria nella cultura: nasce nel 600. 
+I pirati nel periodo della diffusione della stampa erano
 gli editori che stampavano clandestinamente senza autorizzazione
 
-- @venadavide: Recentemente il termine "pirata" viene attribuito all'utente
-RivoluzDigitale
+Recentemente il termine "pirata" viene attribuito all'utente
+Il computer è una "fabbrica" che permette a tutti di
+diventare un Pirata  
 
-- @DavidePalermo2: Il computer è una "fabbrica" che permette a tutti di
-diventare un Pirata  RivoluzDigitale
+La pirateria non è furto, ma si danneggia il produttore.
 
-- @AstoriPietro: RT @MartinoMensio: Pirateria nella cultura: nasce nel
-600 con la copia illegale di libri RivoluzDigitale
+[La mia batteria è al di sotto della percentuale di
+guadagno degli autori sulle vendite del loro libri. Alla prossima 
+(@carrattrezzi)]
 
-- @ripa_pepperipa: RivoluzDigitale: La pirateria non è furto, ma si
-danneggia il produttore.
+Secondo alcuni: La copia digitale personale non commerciale
+dovrebbe essere legale.Non permessa però la vendita. 
+Condivisione non a scopo di lucro. 
 
-- @Carrattrezzi: La mia batteria è al di sotto della percentuale di
-guadagno degli autori sulle vendite del loro libri. Alla prossima
+Thanks to @demartin for this interesting
+lesson! 
 
-- @AstoriPietro: Pc, permette a tutti di essere "pirata" RivoluzDigitale
-
-- @AstoriPietro: RT @ripa_pepperipa: RivoluzDigitale: La pirateria non
-è furto, ma si danneggia il produttore.
-
-- @SabryKarate: Secondo alcuni: La copia digitale personale non commerciale
-dovrebbe essere legale.Non permessa però la vendita. RivoluzDigitale
-
-- @MartinoMensio: La pirateria su internet non è furto, ma danneggia
-economicamente i produttori RivoluzDigitale
-
-- @Ale_Cannone:  pirati moderni ---> mirano al "furto" di quello che
-è la copia digitale
-
-- @SabryKarate: Condivisione non a scopo di lucro. RivoluzDigitale
-
-- @SimoneBleynat: RT @MartinoMensio: La pirateria su internet non è furto,
-ma danneggia economicamente i produttori RivoluzDigitale
-
-- @SabryKarate: Thanks to @demartin for this interesting
-lesson! RivoluzDigitale
 
 ## 2013-05-31
 
