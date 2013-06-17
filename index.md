@@ -16,7 +16,7 @@ License: CC BY-SA 3.0 Unported
 - [24 Maggio 2013](#2013-05-24) {rivista da: Sebastiano Franchina}
 - [22 Maggio 2013](#2013-05-22) {rivista da: Cristian Quadro}
 - [17 Maggio 2013](#2013-05-17) {work in progress: Antonio Langiu}
-- [15 Maggio 2013](#2013-05-15) {work in progress: Lorenzo Cutelle'}
+- [15 Maggio 2013](#2013-05-15) {rivista da: Lorenzo Cutelle'}
 - [10 Maggio 2013](#2013-05-10) {rivista da: Antonio Langiu}
 - [08 Maggio 2013](#2013-05-08)
 - [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
@@ -2876,53 +2876,125 @@ Foto della lezione: http://t.co/6qccvcEVyf http://t.co/eZpdZ1wN4i
 
 ### @bassosimone
 
-- Simone Basso spiega che sarebbe opportuno scrivere un titolo che sia a metà tra originale e descrittivo. La cosa più importante è che si capisca l'argomento del post. Inoltre, ci ricorda che ogni blog sarà controllato fino al 14 di giugno, dopodiché ognuno potrà decidere se tenerlo in vita oppure abbandonarlo.
+- Simone Basso spiega che sarebbe opportuno scrivere un titolo che
+sia a metà tra originale e descrittivo. La cosa più importante è
+che si capisca l'argomento del post. Inoltre, ci ricorda che ogni
+blog sarà controllato fino al 14 di giugno, dopodiché ognuno potrà
+decidere se tenerlo in vita oppure abbandonarlo.
 
-- Piccolo OT: secondo l’algoritmo di Google, una pagina è importante in base a quante persone la citano. SEO (Search Engine Optimization) serve per ottimizzare il ranking delle proprie pagine nei motori di ricerca.
+- Piccolo OT: secondo l’algoritmo di Google, una pagina è importante
+in base a quante persone la citano. SEO (Search Engine Optimization)
+serve per ottimizzare il ranking delle proprie pagine nei motori
+di ricerca.
 
 ### @demartin
 
-- Bel momento di dialogo col prof De Martin. Finalmente un prof che ascolta il parere degli studenti. Si discute su quali argomenti ci piacerebbe approfondire durante il corso.
+- Bel momento di dialogo col prof De Martin. Finalmente un prof che
+ascolta il parere degli studenti. Si discute su quali argomenti ci
+piacerebbe approfondire durante il corso.
 
-- Si passa alla lezione vera e propria.  Riassunto di ciò di cui si è discusso nella penultima lezione: TCP/IP (possibile domanda di esame) e DNS (Domain Name System), che serve per assegnare dei domini agli indirizzi IP.
+- Si passa alla lezione vera e propria.  Riassunto di ciò di cui
+si è discusso nella penultima lezione: TCP/IP (possibile domanda
+di esame) e DNS (Domain Name System), che serve per assegnare dei
+domini agli indirizzi IP.
 
-- Chi decide su Internet? Chi ha potere su Internet? Fermo restando che online valgono le stesse regole del mondo reale (offline), chi decide sulle questioni "tecniche"? (DNS, IPv6 ecc..)
+- Chi decide su Internet? Chi ha potere su Internet? Fermo restando
+che online valgono le stesse regole del mondo reale (offline), chi
+decide sulle questioni "tecniche"? (DNS, IPv6 ecc..)
 
-- Internet ha una struttura di governance sofisticata (creata da chi ha inventato Internet), poco conosciuta e per questo, in alcuni casi, criticata. Le decisioni su internet vengono prese da organismi specifici.
+- Internet ha una struttura di governance sofisticata (creata da
+chi ha inventato Internet), poco conosciuta e per questo, in alcuni
+casi, criticata. Le decisioni su internet vengono prese da organismi
+specifici.
 
-- Per esempio, all'inizio gli indirizzi IP venivano dati a "mano". Ora ci sono infrastrutture preposte per fare ciò. 
+- Per esempio, all'inizio gli indirizzi IP venivano dati a "mano".
+Ora ci sono infrastrutture preposte per fare ciò.
 
-- È negli anni '80 che la mole di decisioni tecniche diventa troppa. Con la crescita di internet, si creano, quindi, delle strutture decisionali per risolvere il problema. 
+- È negli anni '80 che la mole di decisioni tecniche diventa troppa.
+Con la crescita di internet, si creano, quindi, delle strutture
+decisionali per risolvere il problema.
 
-- Le scelte tecniche e "politiche" (domini) vengono affidate a NGO (Organizzazioni Non Governative http://it.wikipedia.org/wiki/Organizzazione_non_governativa) e non allo Stato. Gli enti preposti per governare internet non sono gestiti da alcun governo.
+- Le scelte tecniche e "politiche" (domini) vengono affidate a NGO
+(Organizzazioni Non Governative
+http://it.wikipedia.org/wiki/Organizzazione_non_governativa) e non
+allo Stato. Gli enti preposti per governare internet non sono gestiti
+da alcun governo.
 
-- Internet: l'unico sistema di comunicazione che non è gestito da un ente governativo.
+- Internet: l'unico sistema di comunicazione che non è gestito da
+un ente governativo.
 
-- Gli enti decidono come fare internet, mentre il governo può censurare alcune funzioni. Ad es. La Cina ha messo un grande filtro (articolo dell’Economist | “Internet in China: A giant cage” http://t.co/vWVgthVTDT). Tuttavia, c’è da dire che, se molti governi condannano questo sistema, molti altri lo vorrebbero imitare.
+- Gli enti decidono come fare internet, mentre il governo può
+censurare alcune funzioni. Ad es. La Cina ha messo un grande filtro
+(articolo dell’Economist | “Internet in China: A giant cage”
+http://t.co/vWVgthVTDT). Tuttavia, c’è da dire che, se molti governi
+condannano questo sistema, molti altri lo vorrebbero imitare.
 
-- ISOC (sigla per ‘Internet Society’: http://it.wikipedia.org/wiki/Internet_Society ): organizzazione no profit, fondata nel 1992 in Virginia, con obiettivi formativi, caritatevoli ed educativi. Si occupa di diffondere la cultura delle nuove tecnologie e di Internet.
+- ISOC (sigla per ‘Internet Society’:
+http://it.wikipedia.org/wiki/Internet_Society ): organizzazione no
+profit, fondata nel 1992 in Virginia, con obiettivi formativi,
+caritatevoli ed educativi. Si occupa di diffondere la cultura delle
+nuove tecnologie e di Internet.
 
-- Society viene usato nell’accezione di ‘accademia’, ovvero gruppo di persone con un interesse comune (come la Royal Society e la Lunar Society).
+- Society viene usato nell’accezione di ‘accademia’, ovvero gruppo
+di persone con un interesse comune (come la Royal Society e la Lunar
+Society).
 
-- L’Internet Society è stata fondata da Vint Cerf e Bob Khan. Conta 50.000 membri. Si sono sviluppate, inoltre, delle sezioni locali che si riconoscono nei principi di ISOC, dette “chapter nazionali/tematici”.
+- L’Internet Society è stata fondata da Vint Cerf e Bob Khan. Conta
+50.000 membri. Si sono sviluppate, inoltre, delle sezioni locali
+che si riconoscono nei principi di ISOC, dette “chapter
+nazionali/tematici”.
 
-- IETF (sigla per ‘Internet Engineering Task Force’: http://www.ietf.org/ ): organizzazione fondata nel 1986, prima di ISOC. Ora fa parte di ISOC. "The goal of the IETF is to make the Internet work better".
+- IETF (sigla per ‘Internet Engineering Task Force’: http://www.ietf.org/
+): organizzazione fondata nel 1986, prima di ISOC. Ora fa parte di
+ISOC. "The goal of the IETF is to make the Internet work better".
 
-- Già dal 1986, IETF prendeva decisioni sugli standard, un po’ come ISO (International Standardization Organazation) e ITU (International Telecomunication Union). Ma, diversamente da ISO E ITU, chiunque può partecipare alle sue riunioni, con il pagamento di una quota per coprire le spese. 
+- Già dal 1986, IETF prendeva decisioni sugli standard, un po’ come
+ISO (International Standardization Organazation) e ITU (International
+Telecomunication Union). Ma, diversamente da ISO E ITU, chiunque
+può partecipare alle sue riunioni, con il pagamento di una quota
+per coprire le spese.
 
-- Non c'è una procedura decisionale ufficiale nelle riunioni di IETF. Si decide sulla base di: "Running Code" (mostrare se il codice funziona) e "Rough Consensus" (mailing list per discutere, convincere sui propri progetti). Quindi, generalmente, chi ha più esperienza, ha più influenza sul giudizio altrui e riesce a deviare la soluzione a suo favore. 
+- Non c'è una procedura decisionale ufficiale nelle riunioni di
+IETF. Si decide sulla base di: "Running Code" (mostrare se il codice
+funziona) e "Rough Consensus" (mailing list per discutere, convincere
+sui propri progetti). Quindi, generalmente, chi ha più esperienza,
+ha più influenza sul giudizio altrui e riesce a deviare la soluzione
+a suo favore.
 
-- Nell’IETF si utilizza il "muggitometro": i membri emettono un suono molto simile a un muggito. È, quindi, una votazione qualitativa e non quantitativa. Questo evita molti problemi di natura pratica o eventuali contestazioni. È evidente quanto questa sia una concezione non gerarchica, ma paritaria.
+- Nell’IETF si utilizza il "muggitometro": i membri emettono un
+suono molto simile a un muggito. È, quindi, una votazione qualitativa
+e non quantitativa. Questo evita molti problemi di natura pratica
+o eventuali contestazioni. È evidente quanto questa sia una concezione
+non gerarchica, ma paritaria.
 
 - La standardizzazione avviene attraverso l'RFC. 
 
-- RFC (Request For Comments http://it.wikipedia.org/wiki/Request_for_Comments ): è un documento in cui vengono esposte nuove idee o informazioni che, dopo essere state vagliate dall’IETF, possono diventare degli standard su Internet. 
+- RFC (Request For Comments
+http://it.wikipedia.org/wiki/Request_for_Comments ): è un documento
+in cui vengono esposte nuove idee o informazioni che, dopo essere
+state vagliate dall’IETF, possono diventare degli standard su
+Internet.
 
-- Gli RFC diventano gli standard di Internet dopo un periodo di 6 mesi, in cui vengono commentati e discussi. Questi mesi possono portare o all'abbandono dell'idea oppure a modifiche. No obiezioni --> Standard
+- Gli RFC diventano gli standard di Internet dopo un periodo di 6
+mesi, in cui vengono commentati e discussi. Questi mesi possono
+portare o all'abbandono dell'idea oppure a modifiche. No obiezioni
+--> Standard
 
-- IANA (Internet Assigned Numbers Authority = autorità internet per i numeri assegnati http://it.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority ): nasce nel 1988, dipende da ICANN. Inizialmente è rappresentata dalla persona fisica di Joe Postel. Il compito dell’organizzazione è il ‘global IP address allocation’ (allocazione globale degli indirizzi IP). Joe Postel gestisce gli indirizzi IP finché non diventano troppi e la gestione diventa commerciale.
+- IANA (Internet Assigned Numbers Authority = autorità internet per
+i numeri assegnati
+http://it.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority
+): nasce nel 1988, dipende da ICANN. Inizialmente è rappresentata
+dalla persona fisica di Joe Postel. Il compito dell’organizzazione
+è il ‘global IP address allocation’ (allocazione globale degli
+indirizzi IP). Joe Postel gestisce gli indirizzi IP finché non
+diventano troppi e la gestione diventa commerciale.
 
-- IANA gestisce anche i server root del DNS. I server root sono le infrastrutture base che contengono gli indirizzi IP dei server. Sono 13 e sono protetti dal governo americano in quanto fondamentali per il collegamento a internet. Infatti, se dovessero essere fuori uso i server root del DNS, solo chi conosce l'indirizzo IP dei siti potrebbe usare Internet.
+- IANA gestisce anche i server root del DNS. I server root sono le
+infrastrutture base che contengono gli indirizzi IP dei server.
+Sono 13 e sono protetti dal governo americano in quanto fondamentali
+per il collegamento a internet. Infatti, se dovessero essere fuori
+uso i server root del DNS, solo chi conosce l'indirizzo IP dei siti
+potrebbe usare Internet.
 
 Foto: http://t.co/lrfOwZlDSC
 
