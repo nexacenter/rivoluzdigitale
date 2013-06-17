@@ -10,7 +10,7 @@ License: CC BY-SA 3.0 Unported
 - 14 Giugno 2013
 - 12 Giugno 2013
 - [07 Giugno 2013](#2013-06-07) {work in progress: Luca Liuzzi}
-- [05 Giugno 2013](#2013-06-05) {work in progress: Fausto Conigliaro}
+- [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
 - [31 Maggio 2013](#2013-05-31) {rivista da: Sebastiano Franchina}
 - [29 Maggio 2013](#2013-05-29) {rivista da: Davide Palermo}
 - [24 Maggio 2013](#2013-05-24) {rivista da: Sebastiano Franchina}
@@ -20,7 +20,7 @@ License: CC BY-SA 3.0 Unported
 - [10 Maggio 2013](#2013-05-10) {rivista da: Antonio Langiu}
 - [08 Maggio 2013](#2013-05-08)
 - [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
-- [26 Aprile 2013](#2013-04-26) {work in progress: Giuseppe Ripa}
+- [26 Aprile 2013](#2013-04-26) {rivista da: Giuseppe Ripa}
 - [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
 - [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
 - [17 Aprile 2013](#2013-04-17) {work in progres: Davide Palermo}
