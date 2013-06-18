@@ -144,12 +144,17 @@ def analyze_tweet(students, text, links, handles, tags):
 
 def rss_cache_find(bitlink):
     """ Search bitlink in RSS cache """
+    # XXX could be written to be O(N) rather than to be O(N^2)
     for dirname in os.listdir(SETTINGS["rss_cache"]):
         fullpath = os.sep.join([SETTINGS["rss_cache"], dirname])
         if not os.path.isdir(fullpath):
             continue
-        if dirname == bitlink:
-            return fullpath
+        for inner_dirname in os.listdir(fullpath):
+            inner_fullpath = os.sep.join([fullpath, inner_dirname])
+            if not os.path.isdir(inner_fullpath):
+                continue
+            if inner_dirname == bitlink:
+                return inner_fullpath
 
 def rss_cache_filename(dirpath):
     """ Given the dirpath, returns the file name """
