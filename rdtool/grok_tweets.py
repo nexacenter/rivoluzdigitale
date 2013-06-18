@@ -161,6 +161,10 @@ def save_tweet(timest, student, link):
     time.sleep(random.random() + 0.5)
 
     bitlink = subr_bitly.shorten(link)
+    if not bitlink:
+        logging.warning("grok_tweets: bitlink API failed")
+        return
+
     bitlink = bitlink.replace("http://bit.ly/", "")
     bitlink = bitlink.replace("https://bit.ly/", "")
 
