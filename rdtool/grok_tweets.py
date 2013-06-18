@@ -144,17 +144,22 @@ def analyze_tweet(students, text, links, handles, tags):
 
 def rss_cache_find(bitlink):
     """ Search bitlink in RSS cache """
-    bitlink += ".html"
     for dirname in os.listdir(SETTINGS["rss_cache"]):
         fullpath = os.sep.join([SETTINGS["rss_cache"], dirname])
         if not os.path.isdir(fullpath):
             continue
-        for filename in os.listdir(fullpath):
-            if filename == bitlink:
-                fullpath = os.sep.join([fullpath, filename])
-                return fullpath
+        if dirname == bitlink:
+            return fullpath
 
-def save_tweet(timest, student, link):
+def rss_cache_filename(dirpath):
+    """ Given the dirpath, returns the file name """
+    for filename in os.listdir(dirpath):
+        filepath = os.sep.join([dirpath, filename])
+        if not os.path.isfile(filepath):
+            continue
+        return filename
+
+def save_tweet(student, link):
     """ Save a tweet """
 
     # Pause a bit before the download so we sleep in any case
@@ -177,20 +182,25 @@ def save_tweet(timest, student, link):
         logging.warning("grok_tweets: dup <%s>; skip", dirpath)
         return
 
-    cached_filepath = rss_cache_find(bitlink)
-    if not cached_filepath:
+    cached_dirpath = rss_cache_find(bitlink)
+    if not cached_dirpath:
         logging.warning("grok_tweets: can't find %s in RSS cache", bitlink)
         return
+    cached_filename = rss_cache_filename(cached_dirpath)
+    if not cached_filename:
+        logging.warning("grok_tweets: empty %s", cached_dirpath)
+        return
+    cached_filepath = os.sep.join([cached_dirpath, cached_filename])
 
     subr_misc.mkdir_recursive_idempotent(dirpath)
 
-    filepath = os.sep.join([dirpath, "%04d-%02d-%02d.html" % (
-      timest[0], timest[1], timest[2])])
+    # Note: we use the time from RSS, which is more accurate
+    filepath = os.sep.join([dirpath, cached_filename])
 
     logging.info("grok_tweets: cp '%s' '%s'", cached_filepath, filepath)
     shutil.copy(cached_filepath, filepath)
 
-def process_student_tweet(blogs, timest, links, handle, student):
+def process_student_tweet(blogs, links, handle, student):
     """ Process a tweet from the point of view of one student """
 
     base_url = blogs[handle]
@@ -229,9 +239,9 @@ def process_student_tweet(blogs, timest, links, handle, student):
             expanded_link[0] = expanded_link[0].replace("https://", "http://")
 
         logging.info("grok_tweets: process link %s", expanded_link[0])
-        save_tweet(timest, student, expanded_link[0])
+        save_tweet(student, expanded_link[0])
 
-def process_tweet(students, blogs, timest, account, text):
+def process_tweet(students, blogs, account, text):
     """ Process a tweet """
 
     links = []
@@ -253,9 +263,9 @@ def process_tweet(students, blogs, timest, account, text):
         logging.warning("grok_tweets: cannot find student from %s", handle)
         return
     logging.info("grok_tweets: process student %s (@%s)", student, handle)
-    process_student_tweet(blogs, timest, links, handle, student)
+    process_student_tweet(blogs, links, handle, student)
 
-def really_filter_tweet(students, blogs, timest, account, text):
+def really_filter_tweet(students, blogs, account, text):
     """ Really filter a tweet """
 
     if text.startswith("RT "):
@@ -268,7 +278,7 @@ def really_filter_tweet(students, blogs, timest, account, text):
         logging.warning("grok_tweets: does not include links; skip")
         return
 
-    process_tweet(students, blogs, timest, account, text)
+    process_tweet(students, blogs, account, text)
 
 def filter_tweet(students, blogs, tweet):
     """ Filter a tweet """
@@ -278,7 +288,7 @@ def filter_tweet(students, blogs, tweet):
         logging.info("    %s", line)
     logging.info("")
 
-    timest = tweet_ctime(tweet)
+    #timest = tweet_ctime(tweet)  # commented out because it's unused
     twid = tweet_id(tweet)
     account = tweet_account(tweet)
     text = tweet_text(tweet)
@@ -297,7 +307,7 @@ def filter_tweet(students, blogs, tweet):
             pass
 
     if twid > prev:
-        really_filter_tweet(students, blogs, timest, account, text)
+        really_filter_tweet(students, blogs, account, text)
 
         if not SETTINGS["force"] and os.path.isdir(statedir):
             filep = open(statefile, "w")
