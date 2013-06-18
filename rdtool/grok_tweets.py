@@ -297,7 +297,7 @@ def filter_tweet_safe(students, blogs, tweet):
     except KeyboardInterrupt:
         sys.exit(1)
     except:
-        raise
+        logging.warning("unhandled exception", exc_info=1)
 
 def main():
     """ Main function """

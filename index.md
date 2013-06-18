@@ -10,26 +10,26 @@ License: CC BY-SA 3.0 Unported
 - 14 Giugno 2013
 - 12 Giugno 2013
 - [07 Giugno 2013](#2013-06-07) {work in progress: Luca Liuzzi}
-- [05 Giugno 2013](#2013-06-05) {work in progress: Fausto Conigliaro}
+- [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
 - [31 Maggio 2013](#2013-05-31) {rivista da: Sebastiano Franchina}
 - [29 Maggio 2013](#2013-05-29) {rivista da: Davide Palermo}
-- [24 Maggio 2013](#2013-05-24) {work in progress: Sebastiano Franchina}
+- [24 Maggio 2013](#2013-05-24) {rivista da: Sebastiano Franchina}
 - [22 Maggio 2013](#2013-05-22) {rivista da: Cristian Quadro}
-- [17 Maggio 2013](#2013-05-17) {work in progress: Antonio Langiu}
-- [15 Maggio 2013](#2013-05-15) {work in progress: Lorenzo Cutelle'}
+- [17 Maggio 2013](#2013-05-17) {rivista da: Antonio Langiu}
+- [15 Maggio 2013](#2013-05-15) {rivista da: Lorenzo Cutelle'}
 - [10 Maggio 2013](#2013-05-10) {rivista da: Antonio Langiu}
-- [08 Maggio 2013](#2013-05-08)
+- [08 Maggio 2013](#2013-05-08) {work in progress: Lorenzo Cutelle'}
 - [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
-- [26 Aprile 2013](#2013-04-26) {work in progress: Giuseppe Ripa}
+- [26 Aprile 2013](#2013-04-26) {rivista da: Giuseppe Ripa}
 - [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
 - [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
-- [17 Aprile 2013](#2013-04-17) {work in progres: Davide Palermo}
-- [12 Aprile 2013](#2013-04-12)
+- [17 Aprile 2013](#2013-04-17) /* skipped */
+- [12 Aprile 2013](#2013-04-12) {work in progress: Antonio Langiu}
 - 10 Aprile 2013
 - [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
-- [27 Marzo 2013](#2013-03-27)
+- [27 Marzo 2013](#2013-03-27) {work in progress: Davide Palermo}
 - 22 Marzo 2013
-- [20 Marzo 2013](#2013-03-20)
+- [20 Marzo 2013](#2013-03-20) {rivista da: Davide Palermo}
 
 
 ## 2013-06-07
@@ -993,816 +993,248 @@ scegliere tra varie opzioni: essere solo client, nodo della rete,...
 
 ### @bassosimone
 
-- @DavidePalermo2, @EmaParrinello: NEWS @bassosimone è vivo dopo esser 
-sopravvissuto all'annegamento!  @funkysurfer è avvisato :-)
-http://t.co/p8Q2w43iJM
 
-- @PhotoRevo: Un ricordo dell' incredibile @funkysurfer
-http://t.co/ACuPPJcHnj
+È vivo dopo esser sopravvissuto all'annegamento!  @funkysurfer è avvisato 
+:-)
+http://t.co/p8Q2w43iJM (a proposito ricordate? http://t.co/ACuPPJcHnj)
 
-- @SabryKarate: Per mailinglist deve essere chiaro il Subject, inoltre
-non bisogna scrivere blocchi di testo unici! Niente SPAM. RivoluzDigitale
+Quando si scrive in mailinglist deve essere chiaro il Subject, inoltre
+non bisogna scrivere blocchi di testo unici! E niente SPAM. 
+Chi è interessato ad ottenere consigli e feedback può
+contattare @bassosimone.
 
-- @Ale_Cannone:  chi è interessato ad ottenere consigli e feedback
-contatti @bassosimone
+La prossima lezione di  sarà divisa a metà tra @bassosimone e @demartin. 
+Si parlerà di logical fallacies, Integrità, crap detection & Ultimi argomenti
 
-- @DavidePalermo2: Prossima lezione di RivoluzDigitale divisa a metà
-tra @bassosimone e @demartin Analisi critica & Ultimi argomenti
-(logica fallacies,...)
+Nell'ultima lezione ci sarà anche una simulazione d'esame.
+Il voto della parte online verrà comunque reso disponibile prima
+dell'esame. 
 
-- @paolopopolizio: RivoluzDigitale: nella prox lezione si parlerà di
-logical fallacies
+Scopriamo che @bassosimone si fa aiutare dai "programmini" per velocizzare 
+la correzione!
 
-- @paolopopolizio: RivoluzDigitale: nella prox lezione si parlerà anche
-di integrità
-
-- @Ale_Cannone:  nell'ultima lezione ci sarà una simulazione d'esame
-
-- @EricaAcire19: RivoluzDigitale: nell'ultima lezione simulazione esame...
-
-- @SabryKarate: Il voto della parte online verrà reso disponibile prima
-dell'esame. RivoluzDigitale
-
-- @Ale_Cannone:  il voto della parte online sarà reso noto prima dello
-scritto
-
-- @DavidePalermo2: Remind delle modalità d'esame  RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: @bassosimone si fa aiutare dai
-"programmini" per velocizzare la correzione!
-
-- @CarolPizzutto: Ultima lezione, simulazione d'esame! Mi raccomando,
-tutti presenti :) RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: sempre nelle prox lezioni analizzeremo
+Sempre nelle prossime lezioni analizzeremo
 l'impatto della rivoluzione digitale sulla stampa e il giornalismo
 
-- @Antonio_Langiu: RT @ripa_pepperipa: RivoluzDigitale: @bassosimone si
-fa aiutare dai "programmini" per velocizzare la correzione!
+Nel caso in cui tu non abbia mai scritto in mailing list moltiplica il voto 
+della mailing list per 0 e sommalo al totale.
 
-- @Ale_Cannone:  chiude il @bassosimone 's moment
-
-- @LucaLiuzzi: Brutta cosa o no?Non saprei “@ripa_pepperipa:
-RivoluzDigitale: @bassosimone si fa aiutare dai "programmini" per
-velocizzare la correzione!”
-
-- @Antonio_Langiu: Moltiplica il voto della mailing list per 0 e sommalo
-al totale.. LOL RivoluzDigitale
-
-- @EricaAcire19: RT @Antonio_Langiu: Moltiplica il voto della mailing
-list per 0 e sommalo al totale.. LOL RivoluzDigitale
 
 
 ### @demartin
 
-- @SabryKarate: Grazie a @bassosimone per l'immenso lavoro che fa
-online! RivoluzDigitale
+Un Grazie a @bassosimone per l'immenso lavoro che fa
+online! 
+Iniziamo ora a connettere i fili e completare i ragionamenti
 
-- @DavidePalermo2: Un grazie a @bassosimone da tutti i ragazzi di
-RivoluzDigitale !
 
-- @Ale_Cannone:  il prof. @demartin valorizza il grande lavoro di
-@bassosimone
+Il diritto d'autore protegge la forma espressiva e non l'idea
+Il brevetto è invece un atto formale con durata molto minore del 
+diritto d'autore
 
-- @DavidePalermo2: Iniziamo a connettere i fili e completare i ragionamenti
-RivoluzDigitale
+Nel diritto d’autore c’è una soglia di originalità molto bassa, legata 
+alla non banalità. Nei brevetti tale soglia è molto più elevata, 
+deve essere qualcosa di significativo nel settore
 
-- @paolopopolizio: RivoluzDigitale: diritto d'autore protegge la forma
-espressiva e non l'idea
+I brevetti sui farmaci erano prima vietati, a causa di
+un interesse maggiore.
+Ultimamente però il sistema brevettuale ha permesso di creare brevetti 
+su farmaci e Business methods, alcuni dei quali quasi ovvi..vedi "one clic
+di Amazon" 
 
-- @Carrattrezzi: Onore e gloria da @demartin ( da noi) a @bassosimone
-
-- @paolopopolizio: RivoluzDigitale: brevetto atto formale con durata
-molto minore del diritto d'autore
-
-- @FeFallace: RivoluzDigitale Onore a @bassosimone !
-
-- @DavidePalermo2: - Diritto d'autore Richiede comunque una certa
-originalità  RivoluzDigitale
-
-- @FabioVallone: RT @FeFallace: RivoluzDigitale Onore a @bassosimone !
-
-- @AstoriPietro: Il diritto d'autore tutela l'originalità ma c'è
-una soglia minima. Per quanto riguarda i brevetti la soglia è più
-elevata. RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: Nel diritto d’autore c’è una
-soglia di originalità molto bassa. Nei brevetti tale soglia è molto
-più elevata
-
-- @Antonio_Langiu: Per i brevetti devo inventare qualcosa non
-ovvia..qualcosa di significativo nel settore.. RivoluzDigitale
-
-- @stufi93: La soglia di originalità dei brevetti è più elevata di
-quella del diritto d'autore RivoluzDigitale
-
-- @Clerish: I brevetti hanno una soglia di originalità più elevata
-rispetto al diritto d'autore
-
-- @EricaAcire19: RivoluzDigitale brevetto: deve essere qualcosa di non
-ovvio agli esperti del settore .
-
-- @AstoriPietro: Progressivo abbassamento della soglia minima per quanto
-riguarda i brevetti, negli ultimi decenni. RivoluzDigitale
-
-- @Ale_Cannone:  il diritto d'autore scatta nel momento in cui la frase
-non è banale. Per il brevetto soglia di originalità più alta
-
-- @Antonio_Langiu: Il sistema brevettuale ha permesso ultimamente di
-creare brevetti quasi ovvi..vedi "one clic di Amazon" RivoluzDigitale
-
-- @stufi93: @bassosimone honorem et gloriam RivoluzDigitale!
-
-- @DavidePalermo2: Diritto d'autore esteso ai software RivoluzDigitale
-
-- @_FedericoConte: nel brevetto c'è una soglia più alta, soprattutto
-in passato RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: il brevetto ha sempre avuto una
-soglia di originalità più alta rispetto al diritto d'autore soprattutto
-in passato
-
-- @Carrattrezzi: a proposito di brevetti, avete visto la notizia di oggi
+A proposito di brevetti, avete visto la notizia di oggi
 riguardo apple-samsung? http://t.co/E8EJ6Og9ex
 
-- @Antonio_Langiu: Fino agli anni 70 i farmaci non erano brevettabili
-sapevatelo RivoluzDigitale
+Business method patent - Wikipedia Eng http://t.co/LH6sgTY0Wx 
+Software patent - Wikipedia Eng http://t.co/bjSm8U0NC3 
 
-- @FabioVallone: Fino agli anni 70 non si poteva brevettare i
-farmaci,perchè avevano paura che medicine si potessero produrre a minor
-prezzo RivoluzDigitale
-
-- @Carrattrezzi: I brevetti sui farmaci erano prima vietati, a causa di
-un interesse maggiore.
-
-- @SabryKarate: Il diritto d'autore tutela la forma espressiva ed ha
-effetto duraturo ed immediato. La soglia di originalità è molto bassa
-RivoluzDigitale
-
-- @DavidePalermo2: Copyright -> Copy Right -> Diritto di (protezione
-dalla) Copia RivoluzDigitale
-
-- @FabioVallone: Il software non è brevettabile... mentre le idee dietro
-ad esso sì (Business methods) RivoluzDigitale
-
-- @AstoriPietro: A partire dagli anni '80-'90, hai il diritto d'autore
-sul software, ma anche il diritto di proteggere l'idea. RivoluzDigitale
-
-- @stufi93: A partire dagli anni 90 puoi avere la tutela delle idee
-incorporate nel software - Business Methods RivoluzDigitale
-
-- @Rexsimo893: Allargamento del brevettabile (es. farmaci) nel corso degli
-anni RivoluzDigitale
-
-- @SabryKarate: I brevetti concedono una tutela temporanea da parte dello
-stato su un'invenzione. La soglia di originalità è alta. RivoluzDigitale
-
-- @AstoriPietro: Protezione del business method per 20 anni RivoluzDigitale
-
-- @Antonio_Langiu: Si possono brevettate i Business Methods.. esempio il
-"One Clic di Ama on" RivoluzDigitale
-
-- @DavidePalermo2: Business method patent - Wikipedia Eng
-http://t.co/LH6sgTY0Wx  RivoluzDigitale
-
-- @DavidePalermo2: Software patent - Wikipedia Eng http://t.co/bjSm8U0NC3
-RivoluzDigitale
-
-- @InesGraells: Grazie @bassosimone per fare il corso più interessante
-RivoluzDigitale
-
-- @Ale_Cannone:  software coperti sia da diritti d'autore che da brevetto
-
-- @Clerish: Il software è protetto da diritto d'autore, ma la idea
-strutturale può essere brevettata
-
-- @ripa_pepperipa: RivoluzDigitale: business methods e software ... per
-saperne di più -->http://t.co/KMOGMlnSKA
-
-- @EmaParrinello: RivoluzDigitale Soltanto recentemente i brevetti sono
-stati estesi a:  -farmaci -business methods -software
-
-- @SabryKarate: Anche per il software vale il diritto d'autore. I
-brevetti si sono espansi pure su farmaci, business methods,
-software,... RivoluzDigitale
-
-- @StefanoFranz20: Brevetti -farmaci -business methods -software
-
-- @LolloCler: RivoluzDigitale software protetti da due livelli di tutela:
-diritto d'autore e brevetti!
-
-- @_FedericoConte: farmaci, buisness methods e software sono estensioni
-del brevetto RivoluzDigitale
-
-- @FabioVallone: Anche mettendosi in una Clean Room c'è il rischio di
-incorrere in problemi brevettuali RivoluzDigitale
-
-- @Clerish: L'applicazione dei brevetti ai software distruggono l'idea di
-"clean room" (mettersi a programmare da zero)
-
-- @SabryKarate: Scrivere un software uguale a quello di qualcun
+Il software è protetto da diritto d'autore, ma la idea
+strutturale può essere brevettata -->http://t.co/KMOGMlnSKA
+Scrivere un software uguale a quello di qualcun
 altro. Hai le stesse probabilità di scrivere un libro uguale ad un
-altro... RivoluzDigitale
+altro... 
 
-- @Carrattrezzi: Le analisi brevettuali sono molto costose e difficilmente
-piccoli imprenditori e liberi professionisti possono accedervi
+Le analisi brevettuali sono molto costose e difficilmente piccoli
+imprenditori e liberi professionisti possono accedervi
 
-- @stufi93: Il piccolo programmatore è in svantaggio rispetto alla
-azienda perché non può permettersi un'analisi brevettuale accurata
-RivoluzDigitale
+Software brevetti e diritti d'autore: ancora oggi una questione 
+aperta, ma è una questione europea, non nazionale
 
-- @Ale_Cannone: Software brevetti e diritti d'autore: ancora oggi una
-questione aperta
+Secondo la convenzione di Monaco, il software non è
+brevettabile  http://t.co/RmIVTh3SRO  
 
-- @FabioVallone: Le direttive le possono proporre solo la commissione
-europea RivoluzDigitale
+I brevetti software rallentano il progresso tecnologico
 
-- @LolloCler: Cleanroom é impossibile, si rischia di colpire i brevetti!
-non si riesce a fare un'analisi brevettuale approfondita
+Quando si parla di tutela dell'intangibile:
 
-- @FeFallace: RivoluzDigitale Per i software è facile violare un brevetto
-inconsapevolmente ma molto improbabile violare il copyright
+- : Beni rivali= se ne usufruisco io, tu ne usufruisci meno.
 
-- @Rexsimo893: Mondo della "clean room" viene distrutto dal modello dei
-brevetti -> più facile violarne qualcuno anche involontariamente
-RivoluzDigitale
+- : Bene rivale: io uso una cosa quindi l'altro non lo può
+    usare 
 
-- @SoFranchy: In Europa si tentò di fare una direttiva per rendere
-illegali brevetti software: l’unica direttiva europea bocciata.
+-Rivalità: usufruendo di un certo bene, si limita ad altri
+ l'uso di ciò. 
 
-- @andryamadio: Parlamento europea boccia direttiva sul software libero
+-Escludibilità: impedire l'uso di un certo bene. 
+ L'aria per esempio è un bene non escludibile
 
-- @FabioVallone: Secondo la convenzione di Monaco, il software non è
-brevettabile RivoluzDigitale
+Un bene rivale ed escludibile è un bene privato. (es. auto,cibo)
 
-- @SabryKarate: I brevetti software sono un ostacolo allo
-sviluppo. RivoluzDigitale
+Un bene rivale e non escludibile è definito come "common good": 
+chiunque può usufruirne ma prima o poi finirà.   
 
-- @AstoriPietro: I brevetti software sono un'ostacolo all'innovazione
-RivoluzDigitale
+@brattfrishman uno dei prossimi ospiti (del centro NEXA) con lezione in inglese
 
-- @stufi93: Apple vs Samsung -> i brevetti software sono una pessima
-idea, un'ostacolo all'innovazione. RivoluzDigitale
+Bene non rivale ma escludibile: "beni di club" (es.cinema,tv satellitare)
+Non rivali e Non escludibili: beni pubblici es.aria,difesa
 
-- @Carrattrezzi: I brevetti software rallentano il progresso tecnologico
+Per ricapitolare: rivali-escludibili->privati 
+                  rivali-non escludibili->common
+                  non rivali-escludibili->club 
+                  non rivali-non escludibili->pubblic 
+                  http://t.co/Ppg6XScMJH                  
+                  http://t.co/4Q2iqmEwSN
+                  http://t.co/EdxYS9Fs21
+                  http://t.co/hUA4XX36J3
 
-- @Antonio_Langiu: Si parla di tutela dell'intangibile..  RivoluzDigitale
+Tra i beni pubblici, è anche inclusa la conoscenza. Il diritto all'informazione 
+è un bene non rivale e non escludibile. 
 
-- @SimoneBleynat: RT @Antonio_Langiu: Fino agli anni 70 i farmaci non
-erano brevettabili sapevatelo RivoluzDigitale
+Per chi vuole approfondire sul tema della conoscenza, leggere Joseph Stiglitz,
+premio Nobel per economia http://t.co/6dQXsrbvTm 
+Un tempo la conoscenza era meno diffusa: era legata a supporti fisici. 
+Il digitale ha permesso una maggiore divulgazione; grazie ad esso infatti
+la non-escludibilità della conoscenza viene estremamente ampliata.
 
-- @DavidePalermo2: Convenzione di Monaco sul brevetto europeo - Wikipedia
-IT http://t.co/RmIVTh3SRO  RivoluzDigitale
-
-- @Ale_Cannone:  brevetti software ---> si oppongono all'innovazione
-
-- @SimoneBleynat: RT @EmaParrinello: RivoluzDigitale Soltanto recentemente
-i brevetti sono stati estesi a:  -farmaci -business methods -software
-
-- @SimoneBleynat: RT @Clerish: L'applicazione dei brevetti ai software
-distruggono l'idea di "clean room" (mettersi a programmare da zero)
-
-- @stufi93: Rivalità ed escludibilità RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: rivalità: per beni rivale si intende
-un bene per cui se ne usufruisco io, l'altro ne usufruisce meno
-
-- @CarolPizzutto: Beni rivali= se ne usufruisco io, tu ne usufruisci meno.
-RivoluzDigitale
-
-- @Antonio_Langiu: Due termini: Rivalità ed Escludibilità dei beni
-RivoluzDigitale
-
-- @InesGraells: Bene rivale: io uso una cosa quindi l'altro non lo può
-usare RivoluzDigitale
-
-- @FabioVallone: @FabioVallone RivoluzDigitale
-
-- @SabryKarate: Rivalità: usufruendo di un certo bene, si limita
-ad altri l'uso di ciò. Escludibilità: impedire l'uso di un certo
-bene. RivoluzDigitale
-
-- @stufi93: Escludibilità: è possibile impedire a qualcuno di utilizzare
-qualcosa? RivoluzDigitale
-
-- @MartinoMensio: RT @InesGraells: Bene rivale: io uso una cosa quindi
-l'altro non lo può usare RivoluzDigitale
-
-- @MartinoMensio: RT @Antonio_Langiu: Due termini: Rivalità ed
-Escludibilità dei beni RivoluzDigitale
-
-- @SabryKarate: L'aria è un bene non escludibile. Non possono costringerti
-a non respirare... RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: escludibilità: possibilità di
-impedire a qualcn qualcosa(es un panino); bene non escludibile(es aria)
-
-- @CarolPizzutto: Un bene rivale ed escludibile è un bene
-privato. RivoluzDigitale
-
-- @MartinoMensio: Beni privati: rivali ed escludibili RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: beni rivali ed escludibili: "beni
-privati" (es. auto,cibo)
-
-- @Ale_Cannone:  un bene escludibile si ha quando a qualcuno è vietato
-l'accesso a quel determinato bene
-
-- @MartinoMensio: Common good: rivali e non escludibili RivoluzDigitale
-
-- @EmaParrinello: RivoluzDigitale I "common goods" ovvero i beni comuni
-(pesci legna ecc) sono dei beni rivali non escludibili
-
-- @SabryKarate: Rivali ed Escludibili: beni privati es.auto, vestiti,
-cibo,... Rivali e Non escludibili: common goods es. legna, pesci,...
-RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: beni rivali e non escludibili:
-"common good" (es.pesci,legna)
-
-- @CarolPizzutto: Un bene rivale e non escludibile è definito come "common
-good": chiunque può usufruirne ma prima o poi finirà.   RivoluzDigitale
-
-- @FeFallace: RivoluzDigitale Bene rivale (=il mio usufrutto del bene non
-limita il tuo). Bene escludibile (=bene di cui puoi impedire l'usufrutto).
-
-- @LolloCler: RivoluzDigitale quattro categorie di beni: 1)beni rivali
-ed escludibili cioè beni privati (auto,cibi,vestiti)
-
-- @SimoneBleynat: RT @CarolPizzutto: Un bene rivale ed escludibile è un
-bene privato. RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale beni privati non escludibili cioè common
-good (prodotti naturali)
-
-- @paolopopolizio: RivoluzDigitale: @brattfrishman uno dei prossimi ospiti
-con lezione in inglese
-
-- @MartinoMensio: "Beni di club": beni non rivali ed escludibili
-RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: bene non rivale ma escludibile:
-"beni di club" (es.cinema,tv satellitare)
-
-- @andryamadio: beni non rivali ma escludibili cinema
-
-- @FabioVallone: rivali-escludibili->privati rivali-non
-escludibili->common non rivali-escludibili->club non rivali-non
-escludibili->pubblic RivoluzDigitale
-
-- @SabryKarate: Non rivali e Escludibili: beni di club es.cinema,parchi
-privati Non rivali e Non escludibili: beni pubblici es.aria,difesa
-RivoluzDigitale
-
-- @Ale_Cannone:  http://t.co/4Q2iqmEwSN
-
-- @paolopopolizio: RivoluzDigitale: "bene pubblico": bene non rivale e
-non escludibili (es. Aria,difesa nazionale)
-
-- @LolloCler: RivoluzDigitale beni non rivali escludibili cioè "beni di
-club" tipo il cinema tvsatellitare
-
-- @MartinoMensio: Beni pubblici: beni non rivali e non escludibili
-RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale beni non rivali non escludibili cioè
-"beni pubblici" aria tvfreetoair difesanazionale esercito
-
-- @MartinoMensio: Beni pubblici globali: disponibili in tutto il mondo
-(ad esempio la conoscenza) RivoluzDigitale
-
-- @SabryKarate: Tra i beni pubblici, è anche inclusa la
-conoscenza. Il diritto all'informazione è un bene non rivale e non
-escludibile. RivoluzDigitale
-
-- @MartinoMensio: Joseph Stiglitz http://t.co/6dQXsrbvTm RivoluzDigitale
-
-- @_FedericoConte: Beni Rivali: io usufruisco di un bene e qualcun'altro
-no RivoluzDigitale
-
-- @EmaParrinello: La conoscenza è un bene pubblico globale non rivale e
-non escludibile anche se abbiamo il copyright e i brevetti RivoluzDigitale
-
-- @_FedericoConte: Beni escludibili: se si può escludere qualcuno
-dall'utilizzo di un bene RivoluzDigitale
-
-- @FabioVallone: non rivale, non escludibile --> Copyright e brevetti
-RivoluzDigitale
-
-- @EricaAcire19: RivoluzDigitale Per chi vuole approfondire sul tema
-della conoscenza, leggere Joseph Stiglitz, premio Nobel per economia...
-
-- @Antonio_Langiu: La conoscenza: un bene rivale e non escludibile ma..con
-il copyright e i brevetti essa diventa escludibile.. RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale copyright e brevetti bene non rivale
-escludibile!ciò incentiva la produzione
-
-- @SoFranchy: Conoscenza: bene pubblico globale: non escludibile
-(condivisibile senza Brevetti e DdA) e non rivale (l'uso non nuoce)
-
-- @ripa_pepperipa: RivoluzDigitale: La conoscenza: bene pubblico
-globale(Joseph Stiglitz). No rivale e non escludibile. Si Copyright
-e Brevetti
-
-- @andryamadio: RT @LolloCler: RivoluzDigitale copyright e brevetti bene
-non rivale escludibile!ciò incentiva la produzione
-
-- @Carrattrezzi:  http://t.co/Ppg6XScMJH
-
-- @SabryKarate: Un tempo la conoscenza era meno diffusa: era
-legata a supporti fisici. Il digitale ha permesso una maggiore
-divulgazione. RivoluzDigitale
-
-- @EricaAcire19: RivoluzDigitale grazie al digitale la non-escludibilità
-della conoscenza viene estremamente ampliata.
-
-- @MartinoMensio: RT @Carrattrezzi:  http://t.co/Ppg6XScMJH
-
-- @DavidePalermo2: RivoluzDigitale  Schema sui beni Rivali, NonRivali,
-Escludibili, NonEscludibili http://t.co/EdxYS9Fs21
-
-- @paolopopolizio: RT @Carrattrezzi:  http://t.co/Ppg6XScMJH
-
-- @Antonio_Langiu: Digitale: la conoscenza si separa dal supporto e
-diventa perfettamente non escludibile.. RivoluzDigitale
-
-- @EmaParrinello: I brevetti e il copyright rendono la conoscenza un bene
-escludibile ma grazie al "digitale" diviene un bene non escludibile
-RivoluzDigitale
-
-- @FabioVallone: Digitale: la conoscenza si separa dal supporto fisico e
-diventa "perfettamente" non escludibile RivoluzDigitale
-
-- @SabryKarate: In una delle prossime lezioni, la giornalista @annamasera
-ospite del corso di RivoluzDigitale!
-
-- @FeFallace: RivoluzDigitale Con il digitale la conoscenza si separa
-dal supporto fisico e diventa non escludibile (praticamente, anche
+Con il Digitale: la conoscenza si separa dal supporto fisico e
+diventa "perfettamente" non escludibile (praticamente, anche
 se illegalmente)
 
-- @SabryKarate: RT @DavidePalermo2: RivoluzDigitale  Schema sui beni
-Rivali, NonRivali, Escludibili, NonEscludibili http://t.co/EdxYS9Fs21
+In una delle prossime lezioni, la giornalista @annamasera ospite del corso.
 
-- @LorenzoCutelle: Pre-digitale: opere escludibili
-(supporto fisico). Post-digitale: opere (tecnicamente)
-non-escludibili! RivoluzDigitale
+La Condivisione della Conoscenza - @demartin, Donolo,Mattei at BDEM13 
+http://t.co/d0hvWxgpLV 
 
-- @SoFranchy: Con il digitale si esalta la non escludibilità della
-conoscenza: si separa dal supporto fisico e diventa non escludibile
-
-- @paolopopolizio: RT @SabryKarate: In una delle prossime lezioni,
-la giornalista @annamasera ospite del corso di RivoluzDigitale!
-
-- @_FedericoConte: RT @SabryKarate: In una delle prossime lezioni,
-la giornalista @annamasera ospite del corso di RivoluzDigitale!
-
-- @MartinoMensio: RT @SabryKarate: In una delle prossime lezioni, la
-giornalista @annamasera ospite del corso di RivoluzDigitale!
-
-- @InesGraells: I beni privati sono rivali e escludibili (es. gli auto,
-il cibo, i vestiti) RivoluzDigitale
-
-- @MartinoMensio: RT @FeFallace: RivoluzDigitale Con il digitale la
-conoscenza si separa dal supporto fisico e diventa non escludibile
-(praticamente, anche …
-
-- @DavidePalermo2: La Condivisione della Conoscenza - @demartin, Donolo,
-Mattei at BDEM13 http://t.co/d0hvWxgpLV RivoluzDigitale
-
-- @omerovitali: Tabella dei beni del prof @demartin sulla lavagna.
-RivoluzDigitale http://t.co/hUA4XX36J3
-
-- @paolopopolizio: RivoluzDigitale: Digitale: la conoscenza si separa
-dal supporto fisico e diventa perfettamente non escludibile
-
-- @LolloCler: RivoluzDigitale Stallman "condivido software senza perderlo
+Stallman: "condivido software senza perderlo
 e senza costi, perciò ho obbligo morale di farlo perché porto beneficio"
+Se il software libero è modificato in positivo, è un "obbligo" condividerlo 
+con gli altri. 
 
-- @SoFranchy: Richard Stallman: dal punto di vista etico copia software
-è obbligo morale. Non si perde nulla e altri traggono beneficio.
+General Public License http://t.co/6XXIb4XYwp
+Essa prevede,oltre alle quattro libertà, anche l'obbligo di rendere
+disponibile il sorgente se software viene migliorato
 
-- @LolloCler: RivoluzDigitale scrive "emax"
+Emacs by Stallman: http://t.co/dCZCjGQ9Xt
 
-- @stufi93: RT @DavidePalermo2: RivoluzDigitale  Schema sui beni Rivali,
-NonRivali, Escludibili, NonEscludibili http://t.co/EdxYS9Fs21
+Il quarto principio, su cui si basa il software libero,
+diventa un OBBLIGO x il bene della comunità 
 
-- @ripa_pepperipa: RT "«Licenziato perché sostituito da un iPhone»
-http://t.co/zS7dAC20rp" RivoluzDigitale @Tecno_Corriere
-
-- @PieMarzio: Se il software libero è modificato in positivo, è un
-"obbligo" condividerlo con gli altri. Stallman RivoluzDigitale
-
-- @MartinoMensio: General Public License http://t.co/6XXIb4XYwp
-RivoluzDigitale
-
-- @FabioVallone: La gpl prevede,oltre alle quattro libertà, anche
-l'obbligo di rendere disponibile il sorgente se software viene migliiorato
-RivoluzDigitale
-
-- @DavidePalermo2: GNU General Public License - Wikipedia
-http://t.co/72dmqLiBXl  RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale Stallman scrive "emacs"
-
-- @FabioVallone: GPL= 4 libertà + Copyleft (obbligo di rendere disponibile
-il codice sorgente modificato se diffondo il software migliorato)
-RivoluzDigitale
-
-- @SabryKarate: 4 libertà + condizione copyleft (disponibile sorgente
-modificato)  General public licence = GNU http://t.co/eaHivK0eCY
-RivoluzDigitale
-
-- @LucaLiuzzi: RT @SabryKarate: In una delle prossime lezioni, la
-giornalista @annamasera ospite del corso di RivoluzDigitale!
-
-- @AstoriPietro: Copyleft. Prendere un software, migliorarlo e rimentterlo
-a disposizione in modo che possa essere migliorato ancora RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: GPL General Public Licence
-
-- @Rexsimo893: Stallman fa nascere la cultura del software libero
-aggiungendo alle 4 libertà il copyleft -> si ottiene licenza GNU
-RivoluzDigitale
-
-- @AstoriPietro: Licenza GPL è una licenza General Public License
-RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale General Public License:(GPL) 4
-libertà+copyleft  grande analogia con CreativeCommons
-
-- @FabioVallone: GPL o GNU GPL --> General Public License  o anche
-GNU RivoluzDigitale
-
-- @Ale_Cannone: General public license: 4 libertà del software libero
-più il copyleft
-
-- @93Levante: Il quarto principio, su cui si basa il software libero,
-diventa un OBBLIGO x il bene della comunità RivoluzDigitale
-
-- @DavidePalermo2: Allarme patent troll, finti inventori: brevettano
+Allarme patent troll, finti inventori: brevettano
 l'hi-tech e fanno causa http://t.co/109jk41Z24 via @repubblicait
-RivoluzDigitale
 
-- @paolopopolizio: RivoluzDigitale: @russomatteo93 allora mi osservi
-invece di seguire :P
-
-- @Clerish: Emacs by Stallman: http://t.co/dCZCjGQ9Xt
-
-- @StefanoFranz20: "General public licence" tipo di licenza finalizzata
-alla condivisione delle modifiche sul codice dei software
-
-- @Ale_Cannone: Copyleft --> obbligo di rendere disponibile il codice
-sorgente modificato se diffondo il sorgente modificato
-
-- @SoFranchy: Stallman: una licenza, condizione di pubblicità della
+Stallman: una licenza, condizione di pubblicità della
 modifica (se non per uso privato). CC 6 licenze tra cui scegliere
 
-- @FabioVallone: Grazie alla licenza GNU/GPL, si sono creati centinaia e
-centinai di progetti di software libero RivoluzDigitale
-
-- @ripa_pepperipa: RT "Allarme patent troll, finti inventori: brevettano
-l'hi-tech e fanno causa http://t.co/h93Q68M8cF via @repubblicait
-RivoluzDigitale"
-
-- @Carrattrezzi: Non solo le grandi aziende possono produrre SO, tante
+Grazie alla licenza GNU/GPL, si sono creati centinaia e
+centinai di progetti di software libero 
+Infatti non solo le grandi aziende possono produrre SO, tante
 persone, lavorando insieme, hanno sviluppato linux
 
-- @MartinoMensio: OpenSource: diverso da software libero
-https://t.co/4THvb0FNXV RivoluzDigitale
+OpenSource: diverso da software libero
+https://t.co/4THvb0FNXV 
 
-- @DavidePalermo2: È open /ˡsɔːs/ non open surs alla piemontese cit
-@demartin RivoluzDigitale
+Si pronuncia open /ˡsɔːs/ non open surs alla piemontese cit
+@demartin 
 
-- @SabryKarate: opersource, codice sorgente aperto.  Take a look on
-http://t.co/b9VTjMD0oz  RivoluzDigitale
-
-- @Clerish: Il termine "Open source" fu coniato per distaccarsi dalle
+Il termine "Open source" fu coniato per distaccarsi dalle
 stranezze di Stallman e rendere più moderato "Software libero"
+http://t.co/b9VTjMD0oz  
 
-- @MartinoMensio: Free BSD non impone il copyleft RivoluzDigitale
+Free BSD non impone il copyleft 
+ http://t.co/d2Mhb2BdfW 
 
-- @SimoneBleynat: RT @DavidePalermo2: È open /ˡsɔːs/ non open surs
-alla piemontese cit @demartin RivoluzDigitale
+Open source: codice accessibile ma senza le 4 libertà del
+software libero. 
 
-- @FabioVallone: open source non è un sinonimo di software
-libero... RivoluzDigitale
-
-- @SimoneBleynat: RT @SabryKarate: opersource, codice sorgente aperto.
-Take a look on http://t.co/b9VTjMD0oz  RivoluzDigitale
-
-- @MartinoMensio: Licenze BSD http://t.co/d2Mhb2BdfW RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale differenza open source-software libero
-puramente di marketing e atteggiamento
-
-- @PieMarzio: Open source: codice accessibile ma senza le 4 libertà del
-software libero. RivoluzDigitale
-
-- @SabryKarate: software libero: ha le 4 libertà opensource permette
+Software libero: ha le 4 libertà opensource permette
 di accedere al codice sorgente, ma non necessariamente modificabile
-RivoluzDigitale
 
-- @paolopopolizio: RivoluzDigitale: differenza tra open source e software
-libero: rispettivamente accesso libero al codice e rispetto delle
-4 libertà
-
-- @Rexsimo893: Open source -> operazione di marketing che rimodula
+Quindi Open source -> operazione di marketing che rimodula
 il significato di software libero, che invece ha una def. più precisa
-RivoluzDigitale
+e garantisce solamente che si possa vedere il codice sorgente 
 
-- @LolloCler: RivoluzDigitale opensource consente codice accessibile e
-magari non le altre 4 libertà al contrario del software libero
-
-- @MartinoMensio: Open source: più vago del software libero; garantisce
-solamente che si può vedere il codice sorgente RivoluzDigitale
-
-- @PieMarzio: "Commons": gruppo di individui che rispettano in generale
-delle norme (gourodiche, sociali) RivoluzDigitale
-
-- @DavidePalermo2: La pagina di Wikipedia su Wikipedia
-http://t.co/oh5J4TT2nF ;-)
-
-- @LolloCler: RivoluzDigitale su wikipedia gruppo volontario di individui
-collabora rispettando norme sociali imposte dai wikipediani oltre a leggi
-
-- @SimoneBleynat: RT @MartinoMensio: Open source: più vago del software
-libero; garantisce solamente che si può vedere il codice sorgente
-RivoluzDigitale
-
-- @SoFranchy: Open Source < SW libero: SW libero include le 4 libertà;
-Open Source include almeno la possibilità di vedere il codice
-
-- @Ale_Cannone:  nè privato (mercato)  nè lo stato ---> anarchia,
+"Commons": gruppo di individui che rispettano in generale
+delle norme (gourodiche, sociali) 
+nè privato (mercato)  nè lo stato ---> anarchia,
 dove ognuno si può autorganizzare ---> Commons
 
-- @SimoneBleynat: OT Gran cosa Wikipedia /OT
+Commons autoregolamentati con diversi gradi di anarchismo
 
-- @SabryKarate: "Commons" non dipendono da privati o dallo stato. Spazio
-auto-organizzato, regole definite (non leggi imposte!).  RivoluzDigitale
+Ad esempio  su wikipedia gruppo volontario di individui
+collabora rispettando norme sociali imposte dai wikipediani oltre a leggi
 
-- @Antonio_Langiu: Il concetto di Commons é legato all' auto
-organizzazione.. RivoluzDigitale
+La pagina di Wikipedia su Wikipedia http://t.co/oh5J4TT2nF ;-)
 
-- @PieMarzio: "Commons" strettamente legato al concetto di
-auto-organizzazione RivoluzDigitale
+Elinor Ostrom, prima donna a vincere il Premio Nobel per
+l'Economia (nel 2009) ha studiato
+casi di commons fisici ed il loro funzionamento http://t.co/VavtbZItvG
 
-- @EmaParrinello: il concetto di "commons" è legato al concetto di
-auto-organizzazione RivoluzDigitale
-
-- @MartinoMensio: RT @Antonio_Langiu: Il concetto di Commons é legato all'
-auto organizzazione.. RivoluzDigitale
-
-- @Carrattrezzi: Commons autoregolamentati con diversi gradi di anarchismo
-
-- @Antonio_Langiu: RT @PhotoRevo: Un ricordo dell' incredibile @funkysurfer
-http://t.co/ACuPPJcHnj
-
-- @ripa_pepperipa: RivoluzDigitale: “Commons”:  Spazi dove ci si
-può auto-organizzare (non c’è legge di marcato-->Anarchia) né
-privato(mercato) né Stato
-
-- @SabryKarate: Elinor Ostrom, prima donna a vincere il Premio Nobel per
-l'Economia (nel 2009) RivoluzDigitale
-
-- @FabioVallone: Elinor Ostrom (premio Nobel Economia 2009) ha studiato
-casi di commons fisici ed il loro funzionamento RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: Elinor Ostrom -->
-http://t.co/VavtbZItvG
-
-- @AstoriPietro: Elinor Ostrom, Nobel per l'economia nel 2009 ha studiato
-moltissimi casi di commons fisici RivoluzDigitale
-
-- @LolloCler: RivoluzDigitale Ostrom,nobel per economia,studia common fisici
-e come le comunità si gestiscono e conclude che é falso che falliscono
-
-- @Carrattrezzi: I commons non sono solo quelli degli anni '70, ci sono
+I commons non sono solo quelli degli anni '70, ci sono
 casi molto più antichi e che hanno invece funzionato.
 
-- @LolloCler: RivoluzDigitale la visione fallimentare dei commons é di
-Hardin "the tragedy of the commons"
+La visione fallimentare dei commons é di Hardin "the tragedy of the commons"
+http://t.co/Neku7yjK7L
+http://t.co/05pY8i3zgT 
 
-- @SabryKarate: Elinor Ostrom ha dimostrato che i Commons non sono
-necessariamente destinati a fallire, possono funzionare efficientemente
-RivoluzDigitale
-
-- @MartinoMensio: La tragedia dei commons: http://t.co/Neku7yjK7L
-RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: La visione dei Commons che falliscono
-è catturata dalla frase: “The tragedy of the Commons” .. cit Hardin
-
-- @SoFranchy: Si deve a E. Ostrom (Nobel Economia 2009) gran parte dello
-studio sui commons fisici: contrapposizione "tradedia dei c."
-
-- @DavidePalermo2: "The Tragedy of the Commons" ScienceMagazine
-http://t.co/05pY8i3zgT RivoluzDigitale
-
-- @Carrattrezzi: pirateria not at
-
-- @SimoneBleynat: RT @FabioVallone: Elinor Ostrom (premio Nobel Economia
-2009) ha studiato casi di commons fisici ed il loro funzionamento
-RivoluzDigitale
-
-- @Ale_Cannone: Elinor Ostrom ha dimostrato che in alcuni casi il commons
-è più efficiente di altre strade
-
-- @SabryKarate: Il sogno delle biblioteche: avere tutti
-i libri. Tuttavia è molto costoso e difficile da realizzare. Ma nel
-digitale... RivoluzDigitale
-
-- @Ale_Cannone: Sogno di una biblioteca universale accedibile a tutti è
-possibile tramite il digitale con un costo relativamente basso
-
-- @ripa_pepperipa: RivoluzDigitale: la Pirateria -->
+pirateria now at rivoluzdigitale
 http://t.co/AWB5A6yIkD
 
-- @SabryKarate: Problema di incentivi economici: vendita di libro
+Il sogno delle biblioteche: avere tutti
+i libri. Tuttavia è molto costoso e difficile da realizzare. Ma nel
+digitale... 
+
+Problema di incentivi economici: vendita di libro
 fisico permette di sostenere lo scrittore. La distribuzione gratuita
-no. RivoluzDigitale
+no. 
 
-- @Ale_Cannone: Libri accessibili a tutti: mancano gli incentivi per
-poter organizzare tutto in digitale (questioni di interesse economico)
-
-- @DavidePalermo2: .@demartin cita @balaitous e VolkerGrassmuck
-
-- @Carrattrezzi: Circa il 6% del prezzo di copertina di un libro va
+Circa il 6% del prezzo di copertina di un libro va
 all'autore
 
-- @SabryKarate: Del guadagno ricavato dalle copie fisiche vendute, allo
-scrittore vanno tra il 6% ed un massimo di 12%... RivoluzDigitale  libri
-
-- @SoFranchy: Rendere disponibile la conoscenza a tutti allo stesso
+Rendere disponibile la conoscenza a tutti allo stesso
 modo. Come incentivare gli autori? Idee da P. Aigrain e V. Grassmuck
 
-- @venadavide: Un autore medio riceve circa il 6/7 % dal ricavato di una
-pubblicazione RivoluzDigitale
+Philippe Aigrain e Volker Grassmuck hanno provato a disaccoppiare 
+la visione del tantigibile e intangibile
 
-- @ripa_pepperipa: RivoluzDigitale: Philippe Aigrain e Volker Grassmuck
-hanno provato a disaccoppiare la visione del tantigibile e intangibile
+Pirati e Pirateria dall'antichità ad oggi, con diverse
+accezioni 
 
-- @AstoriPietro: Solo il 6% del costo del libro è destinato all'autore,
-se è bravo contratta fino al 10-12% RivoluzDigitale
-
-- @paolopopolizio: RivoluzDigitale: si vuole dare agli autori il 10 %
-del guadagno sulla copia fisica venduta
-
-- @DavidePalermo2: Pirati e Pirateria dall'antichità ad oggi, con diverse
-accezioni RivoluzDigitale
-
-- @AstoriPietro: I corsari, espediente della corona inglese per boicottare
-la flotta spagnola RivoluzDigitale
-
-- @SabryKarate: pirateria, termine molto utilizzato già a partire
-da Gutenberg.  N.B. si parla di pirati già prima del Seicento.
-RivoluzDigitale
-
-- @MartinoMensio: Pirateria nella cultura: nasce nel 600 con la copia
-illegale di libri RivoluzDigitale
-
-- @SimoneBleynat: La Regina Elisabetta I reinventa i pirati, ma dà loro
+I corsari, espediente della corona inglese per boicottare
+la flotta spagnola. 
+Infatti La Regina Elisabetta I reinventa i pirati, ma dà loro
 una patente che legittima il loro operato e li chiama corsari
-
-- @Carrattrezzi: I pirati nel periodo della diffusione della stampa erano
+ 
+Pirateria nella cultura: nasce nel 600. 
+I pirati nel periodo della diffusione della stampa erano
 gli editori che stampavano clandestinamente senza autorizzazione
 
-- @venadavide: Recentemente il termine "pirata" viene attribuito all'utente
-RivoluzDigitale
+Recentemente il termine "pirata" viene attribuito all'utente
+Il computer è una "fabbrica" che permette a tutti di
+diventare un Pirata  
 
-- @DavidePalermo2: Il computer è una "fabbrica" che permette a tutti di
-diventare un Pirata  RivoluzDigitale
+La pirateria non è furto, ma si danneggia il produttore.
 
-- @AstoriPietro: RT @MartinoMensio: Pirateria nella cultura: nasce nel
-600 con la copia illegale di libri RivoluzDigitale
+[La mia batteria è al di sotto della percentuale di
+guadagno degli autori sulle vendite del loro libri. Alla prossima 
+(@carrattrezzi)]
 
-- @ripa_pepperipa: RivoluzDigitale: La pirateria non è furto, ma si
-danneggia il produttore.
+Secondo alcuni: La copia digitale personale non commerciale
+dovrebbe essere legale.Non permessa però la vendita. 
+Condivisione non a scopo di lucro. 
 
-- @Carrattrezzi: La mia batteria è al di sotto della percentuale di
-guadagno degli autori sulle vendite del loro libri. Alla prossima
+Thanks to @demartin for this interesting
+lesson! 
 
-- @AstoriPietro: Pc, permette a tutti di essere "pirata" RivoluzDigitale
-
-- @AstoriPietro: RT @ripa_pepperipa: RivoluzDigitale: La pirateria non
-è furto, ma si danneggia il produttore.
-
-- @SabryKarate: Secondo alcuni: La copia digitale personale non commerciale
-dovrebbe essere legale.Non permessa però la vendita. RivoluzDigitale
-
-- @MartinoMensio: La pirateria su internet non è furto, ma danneggia
-economicamente i produttori RivoluzDigitale
-
-- @Ale_Cannone:  pirati moderni ---> mirano al "furto" di quello che
-è la copia digitale
-
-- @SabryKarate: Condivisione non a scopo di lucro. RivoluzDigitale
-
-- @SimoneBleynat: RT @MartinoMensio: La pirateria su internet non è furto,
-ma danneggia economicamente i produttori RivoluzDigitale
-
-- @SabryKarate: Thanks to @demartin for this interesting
-lesson! RivoluzDigitale
 
 ## 2013-05-31
 
@@ -2509,809 +1941,358 @@ Si prospetta una seconda parte interessante :)
 
 #### Regole Esame
 
-- @DavidePalermo2: MEMENTO: Alle 24 del 14/06 si chiude la parte online
-del Corso di Prossimo Bus a Marzo 2014 scherza (o forse no) @demartin
+- MEMENTO: “Alle 24.00 del 14/06 si chiude la parte online del corso. Il 
+prossimo Bus passa a marzo 2014”, scherza (o forse no) @demartin
 
-- @Ale_Cannone: a mezzanotte del 14 giugno si chiudono le porte della
-parte online ricordate!
+- Modalità d'esame rivoluzdigitale http://t.co/lGIICks0UN
 
-- @EricaAcire19: Nuova lezione al corso di RD... oggi si apre con un
-memento: la parte online del corso si chiude il 06/14/2013...
+- Pesi valutazione: Blog 65% Mailing List 20% Twitter 15%. Le 3 parti 
+insieme corrispondono al 60% del voto finale. 
 
-- @DavidePalermo2: Pesi valutazione: Blog 65% Mailing List 20% Twitter
-15% Le 3 parti insieme corrispondono al 60% del Voto Finale
+Il restante 40% dipende dalla valutazione dell’esame scritto in due parti. 
+Parte A: 12 domande a risposta multipla o aperta breve in 40 minuti, 6 
+punti max; Parte B: 3h20' per 2 saggi brevi  e un saggio medio
 
-- @DavidePalermo2: Restante 40% del Voto Finale ESAME SCRITTO Parte A:
-40', 12 dom, 6 p.ti max Parte B: 3h20', 2 saggi brevi + saggio medio
+- Il voto della parte Online deve essere > 10/30. Il voto della parte scritta 
+>= 6/30
 
-- @FabioBussi: l'esame scritto comporta il 40% del voto e comprende 12
-domande, 2 saggi brevi e 1 saggio lungo
+- Mailinglist: l'abbiamo usata(non facendo spam)? Siamo stati capaci ad 
+usarla? [20%]
 
-- @DavidePalermo2: Voto parte OnLine DEVE essere &gt;10 Voto parte
-Scritta &gt;= 6
+- Twitter: l'abbiamo usato? se si, correttamente? (handle e hashtag al 
+posto e al momento giusto)
 
-- @StefanoFranz20: Modalità d'esame rivoluzdigitale http://t.co/lGIICks0UN
+- Parte A della prova scritta: risposte a casaccio e non date vengono 
+regolate da un algoritmo: risposta sbagliata penalizzata (-0.5 pt), meglio
+non rispondere (0 pt)!
 
-- @DavidePalermo2: Mailinglist: l'abbiamo usata? (NO Spam dice @demartin)
-siamo stati capaci ad usarla? [20%]
+- Esempio di breve saggio da esame: "differenza tra Internet e web"
 
-- @fabioricca93: Soglie per l' esame scritto: 10 punti almeno nella
-parte online e almeno 6 punti per la parte scritta
 
-- @DavidePalermo2: Twitter: l'abbiamo usato? correttamente? (handle,
-hashtag)
+- I saggi devono essere scritti in periodi completi, no grafici, no schemi. I 
+primi 2 brevi, l'ultimo un po' più lungo e articolato.
 
-- @DavidePalermo2: Risposte a casaccio e Non-Risposta vengono regolate
-da un algoritmo: risp sbagliata penalizzata; meglio non rispondere!
+- @bassosimone e @demartin correggeranno circa 300 "temini" (saggi). Il 
+corso tende a incentivare la scrittura nella scuola pubblica.
 
-- @bassosimone: esempio di breve saggio da esame: "differenza tra Internet
-e web"
+- Allo scritto sono ammessi i vocabolari ma non appunti e materiale 
+extra!
 
-- @DavidePalermo2: Saggi scritti in periodi completi, No grafici,
-No schemi. I primi 2 brevi, l'ultimo un po' più lungo e articolato.
+- Video di gruppo. Consiglio: meglio fare l'editing video.
 
-- @DavidePalermo2: @bassosimone &amp; @demartin correggeranno ca 300
-"temini" (saggi) Vogliono incentivare la scrittura nella scuola pubblica
 
-- @93_checco: Pesi della valutazione del lavoro svolto a casa: blog 65%
-twitter 15% mailing list 20%
-
-- @DavidePalermo2: Risposta sbagliata -0,5 pt Risposta non data 0 pt
-Nel quiz a risposta multipla
-
-- @_FedericoConte: il 14 giugno finisce la parte online
-
-- @93_checco: L' esame scritto sarà composto da 12 "quiz" da svolgere in
-40 minuti max 6 punti, e da 3 saggetti e si avranno 3h e 20m
-
-- @_FedericoConte: pesi della valutazione parte online: blog 65%,
-Mailing list 20%, Twitter 15%
-
-- @Ale_Cannone: allo scritto sono ammessi i vocabolari ma non appunti e
-materiale extra!
-
-- @BoggioMattia: La parte online del corso finisce il 14 giugno
-
-- @BoggioMattia: La valutazione per la parte on line di si divide in:
-blog(60%), mailing list(20%) e twitter(15%)
-
-- @BoggioMattia: La parte scritta del corso si divide in: parte A
-(12 domande) e parte B (2 saggi brevi e 1 medio)
-
-- @_FedericoConte: esame scritto 40% voto finale: Parte A - 40', 12
-domande Parte B - 3'' 20', 2 saggi brevi 1 saggio medio
-
-- @Carrattrezzi: Ricapitolazione esami, voto: 65% blog 20% mailing list
-15% Twitter costituiscono con questo peso il 60% del voto (18/30)
-
-- @Carrattrezzi: 40% esame scritto (12/30). Parte A: 40', 12 domande 6
-punti. Parte B: 3h20', 2 saggi brevi, 1 saggio medio, 6 punti.
-
-- @Ale_Cannone: consiglio sul video: meglio fare un po di editing video
-
-- @Clerish: È consigliabile fare l'editing sul video del blog. Che ne
-dite di un po'di alieni ed esplosioni? 
-
-- @DavidePalermo2: "Video pres deve avere del video editing, Max 2h per
-un video di 2m30' " @demartin Contando tempistiche @YouTube invece?
-
-- @bassosimone: @DavidePalermo2 un video per gruppo non per persona
+- "Servono al massimo 2h per un video di 2m30' " Ci si chiede: tenendo in 
+considerazione le tempistiche di @Youtube??
 
 #### Prossime tappe corso
 
-- @DavidePalermo2: Fine memento di @demartin Ora analizziamo le prossime
-Tappe del corso
+- Fine memento di @demartin. Ora analizziamo le prossime tappe del 
+corso
 
-- @EricaAcire19: prossimi argomenti= brevetti/diritto d'autore, creative
-commons, collaborazione, pirateria, culture hacker...
-
-- @DavidePalermo2: Prossime Tappe del Corso: brevetti e dirittodautore
-(continua) CC collaborazione pirateriainformatica Cultura hacker
-
-- @websocialblog: A rivoluzdigitale si parla di Brevetti, Creative
-commons, Pirateria..
-
-- @FabioBussi: Argomenti delle prossime lezioni: - brevetti/diritto
-d'autore; - creative commons; - collaborazione; - "pirateria" - hacker
-
-- @DavidePalermo2: E ancora Software Libero con il prof. Angelo Raffaele
-Meo http://t.co/X5Nme58eY5
-
-- @StefanoFranz20: Argomenti che tratteremo nelle lezioni a seguire:
-brevetti-creative commons-collaborazione-pirateria- cultura hacker
-
-- @FabioBussi: e prosegue con. -software libero con prof Meo; -
-"logical fallace"/integrità;
-
-- @EmaParrinello: prossimi argomenti: brevetti/diritto d'autore, creative
-commons, collaborazione, pirateria, cultura hacker, open source
-
-- @DavidePalermo2: Logica Fallace su Wikipedia http://t.co/WI8R1lqi82
-
-- @LucaLiuzzi: Next subject: - Brevetti/Diritto d'autore - Creative
-Commons (CC) - Collaborazione - Pirateria - Cultura Hacker
+- prossimi argomenti= brevetti/diritto d'autore, creative commons, 
+collaborazione, pirateria, culture hacker...
 
 - @DavidePalermo2: CreativeCommons: il diritto d'autore all'epoca di
-Internet spiegato dal docente @demartin http://t.co/Z0BSmlCcsJ
+Internet spiegato dal docente @demartin http://t.co/Z0BSmlCcsJ 
+(Youtube)
 
-- @websocialblog: Che strumenti critici mettiamo in campo per controllare
-l'attendibilità della fonte?
+- Si parlerà di Software Libero con il prof. Angelo Raffaele Meo 
+http://t.co/X5Nme58eY5
 
-- @DavidePalermo2: Crap Detection Mini-Course | Howard Rheingold
-http://t.co/gr9qLSx1Mc
+- Tratteremo "logical fallace" (Wikipedia http://t.co/WI8R1lqi82) e
+integrità
 
-- @DavidePalermo2: Di chi è un dato dominio? Ad esempio si può scoprire
-con siti come questo http://t.co/hwKyhFSkHu
+- Parleremo di “crap detection”: che strumenti critici mettiamo in campo 
+per controllare l'attendibilità della fonte?
 
-- @LucaLiuzzi: @DavidePalermo2 "siti come questo". Cioè i siti degli
-host provider del sito a cui fa riferimento l'url.
+- Crap Detection Mini-Course | Howard Rheingold 
+http://t.co/gr9qLSx1Mc 
 
-- @venadavide: Possibilità di risalire al proprietario di un certo IP
+- Di chi è un dato dominio? Ad esempio si può scoprire con servizi come 
+questo http://t.co/hwKyhFSkHu, database nei quali vengono raccolte le 
+informazioni relative ai titolari dei nomi a dominio.
 
-- @EricaAcire19: Tra i prossimi argomenti di un approfondimento sul
-giornalismo e sul suo rapporto con il web...
+- Tra i prossimi argomenti un approfondimento sul giornalismo e sul suo 
+rapporto con il web.
 
-- @LorenzoCutelle: Ecco la lista dei principali argomenti che tratteremo
-nel corso (scusate la pessima scrittura!). http://t.co/ivdG50UF7G
+- Ecco la lista dei principali argomenti che tratteremo nel corso (scusate 
+la pessima scrittura). http://t.co/ivdG50UF7G
 
-- @DavidePalermo2: Conclusioni: Il futuro di Internet Tema d'esame
-Festival di celebrazione di arduino al @Fablabtorino
+- Conclusioni: Il futuro di Internet potrebbe essere un tema d'esame.
 
-- @FeFallace: il 14 giugno alle 19:30 il Festival Arduino e dei makers
-al @Fablabtorino
-
-- @AndreaCugusi: 14/6 alle 19:30 Festival Arduino + Makers
-
-- @venadavide: 14/06/13 alle 19 e 30 Festival Arduino
+- @demartin ci informa del festival di celebrazione di @Arduino e dei 
+makers al @Fablabtorino il 14 giugno alle 19:30
 
 #### Proprieta' intellettuale (termine controverso)
 
-- @Ale_Cannone: rivoluzdigitale lo stato protegge la proprietà
-fisica....inizialmente la più importante era le terra
-
-- @russomatteo93: la parola "proprietà" era riferito solo ad oggetti fisici,
+- La parola "proprietà" era riferito solo ad oggetti fisici, materiali, 
 specificamente alla proprietà terriera
 
-- @FabioBussi: per proprietà si intendeva proprietà materiale (terriera)
+- Con lo sviluppo dell’agricoltura s’inizia a passare dalla proprietà 
+collettiva a quella delle singole famiglie.
 
-- @CarolPizzutto: Inizialmente si parlava solo di proprietà di oggetti
-(es. Proprietà terriera), oggi anche di "Proprietà intellettuale"
+- La terra come proprietà conferiva prestigio, potere politico e ricchezza
+alla persona
 
-- @EricaAcire19: Con lo sviluppo dell’agricoltura s’inizia a passare
-dalla proprietà collettiva a quella delle singole famiglie.
+- In diritto, la proprietà (in latino proprietas, da priolurius) è un diritto 
+reale https://t.co/ncghzVr8RK (Wikipedia)
 
-- @EmaParrinello: Fino a poco tempo fa il termine proprietá era
-legato a oggetti fisici e in particolare alla terra, oggi é diverso
+- Al concetto di proprietà fisica si lega il concetto di furto
 
-- @Ale_Cannone: la terra come proprietà conferiva prestigio, potere politico
-e ricchezza alla persona
+- Il furto è un atto di prevaricazione, in genere impossessamento indebito 
+di un bene di proprietà altrui https://t.co/zRNGGnbH0D (Wikipedia)
 
-- @enricoiucci: PROPRIETÁ nasce in ambito terriero
+- "Proprietà intellettuale" termine molto usato ma anche molto 
+dibattuto: dalla terra a qualcosa di non materiale.
 
-- @FabioBussi: con il concetto di proprietà si definisce anche il
-concetto di furto
+- Il brevetto è il primo caso in cui si inizia a parlare di "proprietá" 
+riferendosi a qualcosa di intangibile: col brevetto si tutela l’idea.
 
-- @SoFranchy: "Proprietà intellettuale" termine molto usato ma anche
-molto dibattuto: dalla terra a qualcosa di non materiale.
+- Proprietà: da qualcosa di solamente tangibile e materiale a qualcosa
+che può essere anche intangibile e non materiale
 
-- @DavidePalermo2: In diritto, la proprietà (in latino proprietas, da
-priolurius) è un diritto reale https://t.co/ncghzVr8RK
+- Proprietà: anni fa si riferiva al solo possesso di oggetti fisici; oggi è un 
+termine associato anche a invenzioni e metodi frutto dell'ingegno.
 
-- @DavidePalermo2: furto è atto di prevaricazione In genere
-impossessamento indebito di un bene di proprietà altrui
-https://t.co/zRNGGnbH0D
-
-- @enricoiucci: brevetto= primo caso in cui si iniziò a parlare di
-"proprietá" relativo a qualcosa di intangibile
-
-- @Ale_Cannone: i brevetti sono delle proprietà particolari in quanto non
-direttamente fisiche
-
-- @SoFranchy: La proprietà di qualcosa di intangibile inizia ad essere
-garantita con i primissimi brevetti
-
-- @FabioBussi: per la prima volta si associa la "proprietà" a qualcosa
-di intangibile, come un'idea
-
-- @_FedericoConte: Proprietà: da qualcosa di solamente tangibile e
-materiale a qualcosa che può essere anche intangibile e non materiale
-
-- @Gian_Cirillo: Proprietà di oggetti fisici e proprietà intellettuale,
-connessione al concetto di furto
-
-- @FeFallace: Per le invenzioni c'è una concessione di un monopolio per
-"compensare" l'inventore in cambio di pubblicità
-
-- @Rexsimo893: Proprietà: anni fa -&gt; solo possesso di oggetti fisici;
-ora -&gt; associato anche a invenzioni e metodi frutto dell'ingegno
-
-- @DavidePalermo2: Concessione monopolio temporaneo per "compensare"
-l'inventore in cambio di pubblciità
-
-- @BoggioMattia: Concessioni di un monopolio temporaneo per compensare
-l'inventore in cambio di pubblicità
+- Per le invenzioni c'è una concessione di un monopolio temporaneo per 
+"compensare" l'inventore in cambio di pubblicità (la conoscenza può 
+circolare).
 
 #### Brevetti
 
-- @CarolPizzutto: Concetto di brevetto diverso da quello di proprietà:
-il primo è temporaneo, il secondo perpetuo.
+- Il concetto di brevetto, o di proprietà intangibile, è diverso da quello di
+proprietà materiale: il primo è temporaneo, il secondo perpetuo e 
+tramandabile.
 
-- @SoFranchy: Proprietà materiale perpetua - proprietà intangibile
-dell'idea limitata.
+- Si è scelto di non premiare le invenzioni per la loro importanza e/o 
+originalità, ma invece assicurare all’inventore l’autorità esclusiva di 
+concedere o negare l’utilizzo dell’invenzione.
 
-- @FabioBussi: si è scelto di non premiare le invenzione, ma invece
-assicurare l'utilizzo esclusivo all'inventore a scadenza
-
-- @Ale_Cannone: brevetti---&gt; monopolio temporaneo Proprietà
-fisiche----&gt; beni perpetui e tramandabili
-
-- @Rexsimo893: Invenzione: concessione monopolio temporaneo in cambio
-di pubblicità (la conoscenza può circolare)
-
-- @BoggioMattia: Stato tutela il monopolio temporaneo
-
-- @DavidePalermo2: Stato tutela il monopolio temporaneo, così come
-accade nel Diritto d'autore (a grandi linee)
-
-- @FabioBussi: si obbliga a divulgare pubblicamente le scoperte delle
-invenzioni
-
-- @Gian_Cirillo: brevetto:concessione di un monopolio temporaneo per
-compensare l'inventore in cambio di pubblicità (la conoscenza circola)
-
-- @DavidePalermo2: Diritto d'autore è concessione monopolio temporaneo
-(morte + 70 anni)
-
-- @BoggioMattia: Il diritto d'autore è un esempio di concessione di
+- In cambio della pubblicità dell’idea o della scoperta, lo Stato tutela il
 monopolio temporaneo
-
-- @EmaParrinello: la "proprietá intellettuale" é diversa da quella fisica
-perchè é una concessione di monopolio temporaneo e non perpetuo
 
 #### Diritto d'autore
 
-- @russomatteo93: il diritto d'autore è comunque una concessione temporanea
-(morte + 70 anni)
+- Il diritto d'autore è un altro esempio di concessione di monopolio 
+temporaneo che vale fino alla data di morte dell’autore + 70 anni
 
-- @_FedericoConte: Diritto d'autore: concessione di un monopolio
-temporaneo
+- Dopo la fine della concessione chiunque può manipolare l'opera o 
+l'invenzione che diventa di pubblico dominio
 
-- @BoggioMattia: Il diritto d'autore vale per 70 anni dopo la morte
-dell'autore
+- esempio di opera di dominio pubblico è Il grande Gatsby, diventata 
+libera l'anno scorso.
 
-- @russomatteo93: dopo la fine della concessione chiunque può manipolare
-l'opera o l'invenzione
+- Per saperne di più: proprietà e invenzioni http://t.co/Z3NIavnVLi
 
-- @LucaLiuzzi: Diritto d'autore. - è una concessione di un monopolio. -
-temporaneo (morte + 70anni),poi di pubblico dominio.
+- Proprietà, brevetti, Diritto d'autore http://t.co/slm66GhxPS 
 
-- @fabioricca93: Dopo la cessazione del diritto temporaneo, invenzioni
-e opere confluiscono nel pubblico dominio
+####Durate e diritti
 
-- @Ale_Cannone: sia diritti d'autore che brevetti dopo la scadenza entrano
-nel pubblico dominio
+- Alcuni economisti affermano che bisognerebbe diminuire la soglia di 70
+anni dopo la morte del diritto d'autore
 
-- @venadavide: Al termine della concessione temporanea l'invenzione
-"torna" nel pubblico dominio
+-  La durata del monopolio deve essere scelta facendo un bilanciamento 
+tra diritti degli inventori/autori e diritti dei cittadini/collettività. Al 
+momento si ha uno sbilanciamento verso i primi
 
-- @FabioBussi: la soglia di 70 anni dopo la morte del diritto d'autore
-gli economisti affermano che bisognerebbe diminuirla
+- Contrapposizione: incentivo e diritti per l'autore VS diritti degli altri a
+usufruire dell'invenzione
 
-- @Clerish: esempio di opera di dominio pubblico è Il grande Gatsby,
-diventata libera l'anno scorso.
+- Il monopolio temporaneo difende in primo luogo gli inventori/autori 
+(ma più spesso le case editrici), poi la collettività
 
-- @FeFallace: La proprietà di oggetti è perpetua, mentre per le
-invenzioni e il diritto d'autore il monopolio è solo temporaneo
 
-- @CarolPizzutto: Anche il diritto d'autore é concessione
-temporanea. Cessato il periodo di dominio, diventa tutto di pubblico
-dominio.
+- Non si può parlare di furto fisico: se io uso l'idea di qualcuno non la 
+sottraggo a livello fisico. A rigor di logica il furto delle idee non esiste
 
-- @giuli93: DIRITTO D'AUTORE--&gt; concessione di un monopolio temporaneo
-(morte +70 anni), dopo di che diventano di pubblico dominio
 
-- @ripa_pepperipa: per saperne di più: proprietà e invenzioni ----&gt;
-http://t.co/Z3NIavnVLi
+- L’idea tutelata dal brevetto è pubblica e “si comporta” come una 
+candela accesa che diffonde luce e ne accende altre 
 
-- @Antonio_Langiu: bilanciamento tra diritti inventori/autori e
-cittadini/collettività..
+####Tutela dell’intangibile
 
-- @LucaLiuzzi: Invenzioni - è una concessione di un monopolio. -
-temporaneo.
+- Dopo l'invenzione della stampa di Gutemberg sorge il problema di come 
+tutelare il contenuto intangibile del libro e non libro stesso: stampe 
+abusive.
 
-- @BoggioMattia: Bilanciamento tra diritti inventori/autori e
-cittadini/collettività
+- Prime cause legali sui libri, dopo averlo comprato, posso copiarlo per
+una nuova edizione?
 
-- @Rexsimo893: Contrapposizione: incentivo e diritti per l'autore VS
-diritti degli altri a usufruire dell'invenzione
+- Oggetto fisico lo possiamo proteggere: per la proprietà fisica si può 
+definire il furto. Ma come evitiamo la copia dell'intangibile? 
 
-- @FeFallace: Il monopolio temporaneo difende in primo luogo gli
-inventori/autori (ma più spesso le case editrici), poi la collettività
+- Inizia a sorgere una differenza tra possesso dell'oggetto fisico e 
+possesso del suo contenuto
 
-- @Gian_Cirillo: durata brevetto/diritto d'autore decisa per bilanciare
-i diritti di inventore/autore e collettività/cittadini
+- Gli stampatori chiedono la tutela del contenuto allo Stato
 
-- @russomatteo93: se io uso l'idea di qualcuno non la sottraggo a livello
-fisico e quindi è del tutto lecito
+- Lo Stato pur di poter “controllare” le stampe concorda dei termini con 
+gli stampatori secondo i quali in cambio della tutela sarebbe stata
+introdotta la censura.
 
-- @ripa_pepperipa: deve esserci un bilanciamento tra i diritti
-inventori/autori e cittadini/collettività
+- Gli interessi di Stato e stampatori si fondono. Nasce la censura e, con la 
+censura, il privilegio: veniva apposto sulle stame “cum privilegio”
 
-- @FabioBussi: nell'ambito dell'idea il concetto di furto materiale
-perde di senso
+- Esempi di "cum privilegio", tutela del contenuto metafisico,
+http://t.co/ir93PH2o1L http://t.co/fG03lQLdGv 
 
-- @Ale_Cannone: con i diritti d'autore il bilancio tra gli autori/inventori
-e collettività è a favore dei primi
+- Gli Stati forniscono protezione agli stampatori in cambio del controllo 
+sulle stampe: alcuni stampatori sono privilegiati rispetto ad altri ma lo 
+Stato limita i contenuti.
 
-- @LorenzoCutelle: I 70 anni post mortem vogliono essere un "BILANCIAMENTO"
-tra i diritti degli inventori/autori e cittadini/collettività
+- Nel 1710 (Illuminismo), in Inghilterra, lo "Statuto della Regina Anna" si
+presenta come prima legge sul copyright (Copyright act), prima legge 
+moderna sul diritto d’autore.
 
-- @Antonio_Langiu: A rigor di logica il furto delle idee non esiste
+- Gli stampatori inglesi vorrebbero monopolio perpetuo dei contenuti, Lo
+“Statuto della regina Anna” stabilisce condizioni di monopolio 
+temporaneo: 14 anni dalla pubblicazione, previa registrazione.
 
-- @DavidePalermo2: Esiste il "furto di idee?"
+- I 14 anni potevano essere estesi a pagamento. Al termine le opere 
+entravano nel pubblico dominio.
 
-- @Rexsimo893: Idea come candela accesa che si diffonde e ne accende
-altre -&gt; diffusione ma NO concetto di furto come per cosa materiale
+- Nel 1786 nasce il “Copyright Act” americano che sancisce come durata
+del copyright 50 dalla morte del creatore. 
+http://it.wikipedia.org/wiki/Copyright_Act
 
-- @EmaParrinello: l'uso di un'idea altrui non puó essere definita un furto
+- Copyright http://t.co/kdslV4SV7U (Wikipedia)
 
-- @SoFranchy: Si può parlare di furto di idee? No, perché l'idea non
-viene fisicamente sottratta
+- Il 90% delle opere finiva in pubblico dominio dopo 14 anni: la maggior 
+parte delle opere ha un ritorno economico concentrato nei primi sei mesi
 
-- @venadavide: Metafora della candela di Ennio per esprimere la
-collettività di un idea
 
-- @Antonio_Langiu: Come facciamo a tutelare il contenuto intangibile
-del libro?
+- All'inizio della creazione del "copyright" poche opere venivano 
+registrate: l’elevato costo e la presenza di formalità trattenevano gli 
+autori.
 
-- @BoggioMattia: Dopo l'invenzione della stampa sorge il problema di
-come tutelare il contenuto intangibile del libro
+- Con il Trattato di Berna del 1886 si ha la prima evoluzione del copyright: 
+non ci sono formalità per la registrazione e la tutela dura minimo 50 anni 
+dopo la morte dell’autore. http://t.co/p0ydHDBnbD (Wikipedia)
 
-- @FabioBussi: prime cause legali sui libri, dopo averlo comprato
-legittimamente posso copiarlo per una nuova edizione?
+- Riassumendo i passi della tutela delle idee: 1. "Cum Privilegio" 2. 
+Statuto della regina Anna 3. Copyright Act 4. Trattato di Berna
 
-- @DavidePalermo2: Oggetto fisico lo possiamo proteggere: proprietà e
-furto Ma come evitiamo la copia dell'intangibile? gutenberg
+- Sui farmaci, fino agli anni 70, era proibito applicare il copyright
 
-- @venadavide: Metafora della candela di Ennio per esprimere la
-collettività di un'idea
+- Il DdA è un così vasto argomento che Wikipedia gli dedica una serie 
+intera http://t.co/sPvqqJyzVJ 
 
-- @FeFallace: Post Gutemberg, come difendersi dalle stampe "abusive"
-di libri?
+- Gli interessi degli autori sembrano prevalere su quelli della collettività: 
+le tutele aumentano sempre il periodo di validità
 
-- @SoFranchy: Dopo Gutemberg nasce l'esigenza di salvaguardare contenuto
-del libro e non libro stesso: stampe abusive.
-
-- @Rexsimo893: Dopo Gutemberg -&gt; problema: come si fa a tutelare
-parte intangibile dell'oggetto? (es. Stampe abusive)
-
-- @DavidePalermo2: Già con gutenberg esisteva la problematica delle
-copie abusive di libri (problematicità di mercato)
-
-- @SimoneBleynat: Differenza tra possesso dell'oggetto fisico e possesso
-del suo contenuto
-
-- @russomatteo93: dopo Gutemberg ci si pone il problema delle stampe
-"abusive" di libri
-
-- @_FedericoConte: Dopo Gutenberg, problema delle stampe "abusive"
-di libri. Problema di come tutelare il contenuto intangibile del libro.
-
-- @BoggioMattia: Stampatori chiedono tutela
-
-- @Carrattrezzi: Per superare l'esame punteggi: parte online: &gt;10
-parte scritta: &gt;= 6
-
-- @StefanoFranz20: Dopo Gutemberg sorse il problema delle stampe "abusive"
-di libri
-
-- @DavidePalermo2: Interesse stampatori Vs Interessi dello stato
-
-- @BoggioMattia: Gli stati introducono la censura
-
-- @_FedericoConte: In cambio della tutela lo stato vuole l'introduzione
-della censura
-
-- @Ale_Cannone: dopo Gutemberg gli stampatori erano diffidenti riguardo gli
-investimenti nella stampa a causa delle stampe abusive
-
-- @Carrattrezzi: Sempre in questa stagione: Software libero Logical
-fallacies/integrità Crap Detection Diritto Giornalismo Futuro rete
-
-- @Antonio_Langiu: Interesse stampatori e interesse stati si
-unisce.. Nasce la censura..
-
-- @LorenzoCutelle: Se copio il contenuto di un libro acquistato
-regolarmente commetto un furto? Dubbi Amletici Post Gutenberg
-
-- @Carrattrezzi: Ultima lezione prova con temi d'esame e il 14/06 alle
-19.30 evento festival di Arduino e dei makers al fablab
-
-- @MarcoViccica: dopo Gutenberg si introducono le prime forme di censura
-
-- @enricoiucci: con la stampa nasce l'accordo tra stati che fornivano
-protezione agli stmpatori in cambio di controllo --&gt; censura
-
-- @Ale_Cannone: lo stato era preoccupato dalla forza sovversiva della stampa
-e si accorda con gli stampatori fornendo protezione
-
-- @VadimCujba: Dopo Gutenberg, emerse il problema delle stampe "abusive"
-di libri
-
-- @SoFranchy: Preoccupazione degli Stati per imprevedibilità stampa
-+ tutela dei diritti degli stampatori = censura. Nasce il privilegio
-
-- @Carrattrezzi: Proprietà, brevetti, "Diritto d'autore"
-http://t.co/slm66GhxPS
-
-- @Clerish: Viene introdotto il privilegio, integrato nella censura,
-per difendere gli stampatori 
-
-- @Gian_Cirillo: Dopo Gutemberg: problema stampe abusive. Come tutelare
-gli interessi degli stampatori? Censura e privilegio
-
-- @BoggioMattia: Dopo gutenberg problema delle stampe abusive dei libri
-
-- @FeFallace: Lo Stato protegge gli stampatori dalla competizione
-selvaggia ma in cambio della Censura, il controllo su ciò che si stampa
-
-- @FabioBussi: si decide di tutelare gli stampatori da altri stampatori
-ma si stampa solo ciò che i tutelatori vogliono
-
-- @BoggioMattia: Si saldano due elementi: interesse dei stampatori e
-interesse degli stati
-
-- @DavidePalermo2: Esempio di "cum privilegio" di Aldo Manuzio
-http://t.co/ir93PH2o1L
-
-- @fabioricca93: "Cum privilegio" = tutela del contenuto metafisico
-
-- @BoggioMattia: 1710 in Inghilterra prima legge sul copyright
-
-- @StefanoFranz20: "Cum privilegio" sistema utilizzato ai fini della
-tutela del contenuto e non dell'oggetto fisico http://t.co/fG03lQLdGv
-
-- @enricoiucci: Inghilterra, 1710. "Statuto della Regina
-Anna" --&gt; prima forma di copyright
-
-- @russomatteo93: gli stampatori inglesi vogliono la proprietà perpetua
-
-- @GiGirgenti: Gli stampatori inglesi vogliono una proprietà perpetua
-
-- @_FedericoConte: 1710 prima legge sul copyright (diritti d'autore)
-in inghilterra
-
-- @Ale_Cannone:  gli stampatori inglesi volevano la proprietà perpetua per
-la stampa ma questo era un potere troppo grande
-
-- @VadimCujba: Gli stampatori inglesi volevano la proprietà perpetua...
-
-- @FabioBussi: "cum privilegio" prima tutela del contenuto scritto dei
-libri, non dell'oggetto fisico
-
-- @GiGirgenti: Lo statuto della regina Anna stabilisce il monopolio
-temporaneo. Da questo momento quasi nessuno si lamenta 
-
-- @SoFranchy: Stampatori inglesi vorrebbero monopolio perpetuo
-dei contenuti, statuto della regina Anna stabilisce monopolio
-temporaneo.
-
-- @russomatteo93:  la regina Anna in periodo illuministico
-(1710) stabilisce il monopolio temporaneo
-
-- @bassosimone: RT "@Carrattrezzi "Brandy Nan" e la liberalizzazione
-del mercato degli stampatori-&gt; monopolio temporaneo"
-
-- @FeFallace: 1710 Statuto della Regina Anna stabilisce il monopolio
-temporaneo per gli stampatori
-
-- @Gian_Cirillo: 1* legge moderna su diritto d'autore=statuto della
-regina Anna(1710, illuminismo) che sancisce il monopolio temporaneo
-
-- @VadimCujba: 1710&gt; Lo statuto della regina Anna stabilisce il
-monopolio temporaneo
-
-- @bassosimone: @Antonio_Langiu no, tranquillo, conta anche Wikipedia,
-che viene inserita nel capitolo "blog"
-
-- @Ale_Cannone: statuto della regina Anna: la protezione durava 14 anni
-dalla pubblicazione previa registrazione
-
-- @Gian_Cirillo: Il 'Copyright Act' (1786) torna per affrontare il
-digitale
-
-- @Antonio_Langiu: @bassosimone grazie #sapevatelo Wikipedia viene
-contato nel 65% inerente al blog
-
-- @ripa_pepperipa: Copyright Act (1786)---&gt; http://t.co/kdslV4SV7U
-
-- @VadimCujba: Copyright Act&gt; 1786
-
-- @Rexsimo893: Copyright Act(1786): citato anche adesso in relazione al
-digitale. Prevedeva monopolio temporaneo -&gt; 14 anni da pubblicaz.
-
-- @Carrattrezzi: Pubblico annuncio di tutela da copyright. Durata 14 anni
-(con possibilità di estensione).
-
-- @Ale_Cannone: il 90% delle opere finiva in pubblico
-dominio, gli altri dopo 14 anni oppure 28 con l'estensione
-
-- @bassosimone: la maggior parte delle opere ha ritorno economico
-concentrato nei primi sei mesi
-
-- @FabioBussi: all'inizio della creazione del "copyright" poche opere
-venivano registrate
-
-- @FabioBussi: prima evoluzione del copyright: no formalità
-
-- @russomatteo93: Trattato di Berna 1886 --&gt; non ci sono formalità
-per la registrazione 
-
-- @DavidePalermo2: Fino a poco tempo fa si parlava di editori pirati,
-non di utenti pirati
-
-- @FabioBussi: seconda evoluzione copyright: la tutela dura minimo 50
-anni dopo la morte
-
-- @DavidePalermo2: Favorisco la Non formalità e aggiungo morte + 50
-anni Berna 1886 - http://t.co/p0ydHDBnbD
-
-- @Carrattrezzi: Aumento del termine di tutela, per intercessione della
-forte lobby degli stampatori.
-
-- @bassosimone: @Antonio_Langiu @LucaLiuzzi si', anche traduzioni,
-video sottotitolati, etc (vedila come: www, ml, twitter)
-
-- @Ale_Cannone: I passi della tutela delle idee: 1. "Cum Privilegio"
-2. Statuto della regina Anna 3. Copyright Act 4. Trattato di Berna
-
-- @Gian_Cirillo: Trattato di Berna sul diritto d'autore (1886): -no
-formalità; -durata tutela=morte+70anni
-
-- @_FedericoConte: Trattato di Berna 1886: -no formalità -minimo durata
-diritti d'autore: morte + 50 anni
-
-- @BoggioMattia: Trattato di Berna 1886: no formalità e diritto d'autore
-50 anni dopo la morte
-
-- @DavidePalermo2: Diritto d'autore così vasto come argomento che
-Wikipedia gli dedica una serie intera http://t.co/sPvqqJyzVJ
-
-- @enricoiucci: la tutela della proprietà intellettuale dopo la morte é
-a beneficio esclusivo dei "pochi" (famiglia, editori)
-
-- @Carrattrezzi: L'utente non si accorgeva delle contrattazioni dietro
-la pubblicazione, problema nato con la
-
-- @FabioBussi: nei farmaci fino agli anni 70 era proibito devolvere
-copyright
-
-- @Ale_Cannone: gli interessi degli autori prevalgono su quelli della
-collettività (le tutele aumentano sempre il periodo di validità)
-
-- @_FedericoConte: Col digitale la tendenza a tutelare l'intangibile
-diventa a portata di tutti
-
-- @FabioBussi: con il digitale noi abbiamo la possibilità di creare
-opere prima esclusive agli editori
-
-- @EricaAcire19: La separazione fra oggetto fisico e contenuto diventa
-alla portata di tutti. (no azienda vs azienda, ma people vs azienda).
-
-- @Gian_Cirillo: Tutela dell'intangibile incontra il digitale: crisi
-sistema monopolio aziendale
-
-- @LorenzoCutelle: Ecco perché esce adesso "Il grande Gatsby": Fitzgerald
-muore nel 1940. 2013-1940: 73 anni post mortem! tuttotorna
-
-- @DavidePalermo2: Proprietà intellettuale è: 1) diritto d'autore 2)
-brevetti 3) marchi
+- Fino a poco tempo fa si parlava di editori pirati, non di utenti pirati:
+l’utente non si accorgeva delle contrattazioni dietro la pubblicazione
 
 #### Digitale e crisi della proprieta' intellettuale
 
-- @DavidePalermo2: L'incontro Digitale &amp; Proprietà Intellettuale
-è esplosivo! mette in crisi il 'sistema'
+- Col digitale l’interesse a tutelare (o meno) l'intangibile diventa di tutti: 
+chiunque ha la possibilità di creare opere. La separazione fra oggetto
+fisico e contenuto diventa alla portata di tutti. (no azienda vs azienda, ma 
+people vs azienda).
 
-- @Antonio_Langiu: Personal Computer sotto il controllo dell'utente che
-manipolano bit
+- Tutela dell'intangibile incontra il digitale crisi del sistema di 
+monopolio aziendale
 
-- @Ale_Cannone: Personal computer: macchina per copiare 
+- 3 anni fa terminava il periodo di tutela de "Il grande Gatsby": Fitzgerald 
+muore nel 1940. 2013-1940: 73 anni post mortem! 
 
-- @Clerish: I personal computer sono macchine digitali "general purpose"
-fatte per manipolare i Bit 
+- @DavidePalermo2: Proprietà intellettuale è: 1) diritto d'autore 2) 
+brevetti 3) marchi
 
-- @Antonio_Langiu: PC + internet + web = contenuti che possono essere
-manipolati, copiati etc..
+- L'incontro Digitale-Proprietà Intellettuale è esplosivo! Ognuno di noi ha 
+la possibilità di manipolare e copiare bit tramite i computer, che non 
+sono altro che macchine "general purpose" per copiare.
 
-- @FeFallace: La proprietà intellettuale è l'insieme degli strumenti
-per controllare la proprietà: diritto d'autore, brevetti e marchi.
+- L'avvento di PC, Internet e Web porta alla separazione tra contenuto e 
+contenitore alla portata di chiunque
 
-- @Antonio_Langiu: Separazione tra contenuto e contenitore alla portata
-di chiunque..
+####Tutela delle copie digitali
 
-- @ripa_pepperipa: distaccare il contenuto dal contenitore, con l'avvento
-del digitale, diventa alla portata di chiunque
+- Il digitale si è trovato a essere sottoposto alle leggi preesistenti anche se 
+non erano state pensate per questo
 
-- @venadavide: General Purpose, computers sotto il controllo dell'utente
-che manipolano (copiano) bit
+- Copiare è considerato atto illecito. Oggi tale legge, col digitale, viene 
+applicata a tutti noi cittadini
 
-- @SoFranchy: Con il digitale separazione tra contenuto e contenitore alla
-portata di chiunque. La copia è all'ordine del giorno 
+- L’idea di alcuni è: accesso a tutti contenuti, a costo molto più basso! Per 
+esempio una biblioteca universale OnLine accessibile a tutti
 
-- @EmaParrinello:  l'avvento dei PC, internet e web porta
-alla separszione tra contenuto e contenitore alla portata di chiunque
+- Ci si chied:e qual è il giusto bilanciamento tra i diritti degli autori e quelli 
+degli utenti con il digitale? Possono restare le regole 800esche applicate 
+a tutto il resto? 
 
-- @Ale_Cannone: Internet (e web)---&gt; i contenuti sono manipolati,
-copiati e distribuiti... es. Gli articoli copiati presenti nei vari
-siti? 
+- @bassosimone: <<Il video che faremo in questo corso sara' tutelato 
+come l'ultimo film di Hollywood: "morte + 70">>
+- @demartin “Un blog di ricette è tutelato per legge come l'ultimo film di 
+Hollywood”
 
-- @DavidePalermo2: E' forse la quinta volta in tutto il corso di che
-sento il termine Stiamo entrando nel vivo del Corso!
+- Da una decina d’anni vengono fatte diverse proposte per la riforma del 
+Copyright sul digitale, riconosciuta necessaria da molti. Per farla bisogna 
+arrivare ad un accordo internazionale.
 
-- @Rexsimo893: Il digitale si è trovato a essere sottoposto alle leggi
-preesistenti anche se non erano state pensate per questo
+- Considerare: Il mondo digitale permette di prestare qualcosa agli altri 
+senza rinunciarvi. Una copia digitale è utile alla libera condivisione (senza 
+perdite)
 
-- @Carrattrezzi: Con nuovo rapporto contenuto e contenitore e la si
-rompe il paradigma legislativo del diritto d'autore, ancora inadadeguato
+####Creative commons
 
-- @ripa_pepperipa: copiare è considerato atto illecito. Oggi tale legge,
-col digitale, viene applicata a tutti noi cittadini
+- In attesa di una riforma del Copyright ci si inventa delle licenze standard 
+da esporre, con le quali si rinuncia ad alcuni diritti di tutela garantiti per 
+legge: Creative Commons http://t.co/i1D6d1RPd2  (Wikipedia)
 
-- @DavidePalermo2: Accesso ai contenuti molto diffuso, a costo molto
-più basso! Per es. una biblioteca universale OnLine accessibile a tutti
+- Commons è diverso sia da privato che da pubblico.. e' un qualcosa di 
+gestito collettivamente, a meta' tra pubblico e privato
 
-- @bassosimone: quale bilanciamento tra i diritti degli autori e quello
-degli utenti? Anche considerando i vostri blog, etc.
+- Rif. a "La Condivisione della Conoscenza - BDEM13 - De Martin, Donolo, 
+Mattei" http://t.co/7v74cfLiK0
 
-- @ripa_pepperipa: ciascuno di noi diventa autore pubblicando su internet!
+- @demartin: se vi serve un video di una ragazza che cammina sulla 
+spiaggia, non serve andare ad Albenga a filmare: basta trovare un video 
+tra i beni “commons”
 
-- @bassosimone: il video che farete in questo corso sara' tutelato come
-l'ultimo film di Hollywood: "morte + 70"
+- Creative Commons di default sarebbe rivoluzionario
 
-- @Carrattrezzi: Ormai gli utenti producono contenuti. Il sogno di
-Berners-Lee? Se non regalassimo i diritti a Facebook, youtube &amp;
-co. EULA
+- Le licenze CC: http://t.co/ZBSttR1gPl 
 
-- @Rexsimo893: Noi autori (produttori di contenuti su Internet) siamo
-tutelati dalla stessa legge che controlla le grandi aziende
+- Le licenze Creative Commons sono 6, combinazione delle proprietà di 
+“Attribuzione”, “Non commerciale”, “Non opere derivate”, “Condividi 
+allo stesso modo”.
 
-- @Ale_Cannone:  nuovo bilanciamento? Si, se si creasse
-ad esempio la biblioteca universale che favorisce la conoscenza della
-collettività
+- Occhio: non commerciale vuole dire “non ti autorizzo *a priori* all'uso 
+commerciale, ma possiamo fare un accordo”
 
-- @Antonio_Langiu: Riforma del copyright..da una decina di anni ci sono
-diverse proposte..
+-@bassosimone: il non-commerciale puo' essere boomerang: vuol dire 
+che la RAI non puo' usare un vostro video, cosa che magari voi vorreste.
 
-- @EmaParrinello:  inizialmente ciò che veniva pubblicato
-sul web veniva tutelato con la stessa legge del diritto d'autore
+- Non opere derivate: non si ha il permesso per fare un'opera basata su 
+quella coperta da tale licenza (traduzioni).
 
-- @DavidePalermo2: computer K.O. senza neanche avvisare, ma il Live
-Tweeting continua! Le vie del Digitale sono infinite! Cit.
+- Se prendo un'opera e cambio una virgola, è opera derivata? NO! È 
+plagio!
 
-- @SoFranchy: Le leggi 800esche si applicano anche ai miliardi di
-produttori di contenuti su internet. Serve una riforma copyright
+Condividi allo stesso modo: anche la licenza deve essere uguale per non 
+limitare la libertà di ri-condividere.
 
-- @Clerish: Oggi è mainstream ritenere che ci sia bisogno di una riforma
-del copyright 
+- Nota: in Italia sono pochi gli autori che vivono solo di diritto d'autore. 
+Inoltre, meta' degli autori riceve dalla SIAE meno della quota associativa 
+SIAE (fonte: ex presidente SIAE)
 
-- @SimoneBleynat: "Un blog di ricette è tutelato per legge come l'ultimo
-film di Hollywood" cit. @demartin
+- Wikipedia, che è un commons, ha un valore economico di miliardi di 
+euro
 
-- @Antonio_Langiu: Riforma del copyright riconosciuta necessaria da
-molti..
-
-- @StefanoFranz20: Work in progress. L'obiettivo è riformare
-il copyright ma per fare ció bisogna arrivare ad un accordo
-internazionale.
-
-- @Rexsimo893: Riforma del copyright riconosciuta necessaria da molti
-ma difficile da cambiare per numerosi accordi internazionali
-
-- @Antonio_Langiu: Il copyright non fa distinzione tra le opere.. Sono
-tutte tutelate..
-
-- @DavidePalermo2:  Licenze standardizzate servono a
-proteggere trilioni e trilioni di progetti creati ogni giorno Non all
-rights reserved...
-
-- @Antonio_Langiu: Il mondo digitale mi permette di prestare qualcosa
-senza rinunciarne io..
-
-- @DavidePalermo2: Copia digitale è copia utile
-alla libera condivisione (senza perdite), in base alle 6 licenze
-@creativecommons
-
-- @Clerish: Se voglio prestarti un martello non posso farne una
-copia... oppure si? stampa3d 
-
-- @SoFranchy: 2002: CC: dispongo dei diritti della legge ma rinuncio ad alcuni
-di essi in attesa che la normativa sia modificata
-
-- @LorenzoCutelle: Se voglio "rinunciare" alla tutela che lo Stato in
-automatico applica alla mia opera? Licenze Creative Commons!
-
-- @FeFallace: Per "liberare" dal diritto d'autore alcuni contenuti
-pubblicati ogni giorno vengono create le sei licenze Creative Commons
-
-- @ripa_pepperipa: le licenze "Creative Commons" =&gt;
-http://t.co/i1D6d1RPd2
-
-- @Antonio_Langiu: Commons è diverso sia da privato che da pubblico..
-
-- @DavidePalermo2:  Rif. a "La Condivisione della
-Conoscenza - BDEM13 - De Martin, Donolo, Mattei" http://t.co/7v74cfLiK0
-
-- @bassosimone: commons e' un qualcosa di gestito collettivamente,
-a meta' tra pubblico e privato (i.e. di qualcuno)
-
-- @Ale_Cannone:  bene comune (Commons) va oltre il
-privato ed oltre lo stato...
-
-- @bassosimone: "commons" di opere che tutti possono riutilizzare (se
-nn avete tempo di andare ad Albenga a filmare ragazze su spiaggia :)
-
-- @ripa_pepperipa: Commons vuol dire qualcosa di collettivo, diverso sia
-da privato che da pubblico. No Stato =&gt; è un qualcosa di intermedio!
-
-- @conwused: Il CreativeCommons di default sarebbe rivoluzionario
-
-- @Antonio_Langiu: Le licenze CreativeCommons sono 6..1)Attribuzione..
-
-- @DavidePalermo2: Ora parliamo di Licenze CC http://t.co/ZBSttR1gPl
-@cc_italy
-
-- @Ale_Cannone: CC ---&gt; regole per preservare il Commons (bene comune)
-Ne esistono sei! 
-
-- @bassosimone: occhio: non commerciale vuole dire: non ti autorizzo *a
-priori* all'uso non commerciale (possiamo fare accordi separati)
-
-- @bassosimone: il non-commerciale puo' essere boomerang: vuol dire che
-RAI non puo' usare vs. video (cosa che magari voi vorreste)
-
-- @ripa_pepperipa: Licenze CC: 1. Attribuzione (Libero dominio) --&gt;
-più liberale; 2. Attribuzione-non commerciale; ...
-
-- @bassosimone: Nota: in Italia sono pochi gli autori che vivono solo
-di diritto d'autore (fonte: ex presidente SIAE)
-
-- @bassosimone: (cont...) inoltre meta' degli autori riceve dalla SIAE
-meno della quota associativa SIAE (sempre ex presidnte SIAE)
-
-- @Clerish: Wikipedia ha un valore economico di miliardi di euro
-
-- @ripa_pepperipa: "@Clerish: Wikipedia ha un valore economico di miliardi
-di euro " ---&gt; è un Commons
-
-- @bassosimone: Su input studenti, discussione su come trovare nuove
+- @bassosimone: Su input studenti, discussione su come trovare nuove 
 forme di finanziamento di, e.g., giornalismo, fotografia
 
-- @DavidePalermo2: Completiamo l'elenco di Licenze CC
-http://t.co/ZBSttR1gPl @cc_italy
+- Opinione: il CC se lo si sa utilizzare è comunque uno strumento di lucro. 
+Ci si fa conoscere e poi si fa lucro grazie alla notorietà.
 
-- @Ale_Cannone: 3. Non opere derivate ---&gt; no permesso per fare
-un'opera basata su quella in CC ND 
+- CC più liberale= “Attribuzione. CC più restrittiva=”Attribuzione-non 
+commerciale-non opere derivate
 
-- @DavidePalermo2: Prendo un'opera, cambio una virgola, è opera
-derivata? NO! È plagio!
+- Concetto di "copyleft", detto anche scherzosamente "diritto di copia di 
+sinistra".
 
-- @LucaLiuzzi: Il CC se lo si sa utilizzare è cmq uno strumento di
-lucro.Ci si fa conoscere e poi si fa lucro grazie alla notorietà.
-
-- @ripa_pepperipa: ...3. Attribuzione-non commerciale-non opere derivate
-(Licenza CC più restrittiva!)
-
-- @bassosimone: "copyleft" detto anche scherzosamente "diritto di copia
-di sinistra" cc: @omerovitali
-
-- @DavidePalermo2: Attribuzione Attr-Non op der Attr-Non comm-Non op
-der Attr-Non comm Attr-Non comm-Cond stesso modo Attr-Cond stesso modo
-
-- @Clerish: Grazie a @demartin per la lezione, molto
-interessante. 
-
-- @Ale_Cannone: Copyleft---&gt; condividi allo stesso modo, anche la
-licenza deve essere uguale per non limitare la libertà 
+- Grazie a @demartin per la lezione, molto interessante. 
 
 
 ## 2013-05-22
@@ -3527,1106 +2508,496 @@ licenza deve essere uguale per non limitare la libertà
 
 #### IAB (Internet Architecture Board)
 
-- @DavidePalermo2: Parliamo di IAB: Internet Architecture Board 
+- Parliamo di IAB: Internet Architecture Board si occupa di 
+supervisione allo sviluppo tecnico e ingegneristico di internet 
 
-- @93_checco: Iab (internet architecture board) supervisione allo sviluppo
-tecnico e ingegneristico di internet 
+- Riprendiamo discorso su ISOC, IETF, IRTF e IANA 
 
-- @SabryKarate: IAB: Internet Architecture Board Supervisione dello
-sviluppo tecnico-ingegneristico della rete Internet
+- IAB su Wikipedia http://t.co/lgfxoP22vD 
 
-- @DavidePalermo2: Riprendiamo discorso su ISOC, IETF, IRTF e IANA 
+- IAB: gestisce la pubblicazione delle RFC (Request For Comment)
 
-- @FabioVallone: IAB(Internet Architecture Board) supervisione dello
-sviluppo tecnico e ingegneristico di internet.
-
-- @DavidePalermo2: IAB in Wikipedia http://t.co/lgfxoP22vD 
-
-- @Ale_Cannone: IAB: gestisce la pubblicazione delle RFC
-
-- @FabioVallone: IAB Gestisce la pubblicazione delle RFC (Request For Comment) 
-
-- @EricaAcire19: Pronti per un altro live-twitting.. 
-
-- @93_checco: Ietf (internet engineering task force ) per chi non se lo
-ricordasse dalla lezione scorsa 
-
-- @SabryKarate: Internet Drafts: bozze di Internet su IETF Quando queste
+- Internet Drafts: bozze di Internet su IETF. Quando queste
 vengono approvate, diventano RFC: standard di Internet
 
-- @FabioBussi: Dopo il processo di commento gli Internet Draft diventano RFC 
+- Gli RFC sono i protocolli già definitivi! Anche se il
+nome sembra un po' ambiguo...
 
-- @ripa_pepperipa: IAB (Internet Architecture Board http://t.co/u92nUp22Lg
+- Dopo il processo di commento gli Internet Draft diventano RFC 
 
-- @FabioVallone: Gli Internet Draft (le proposte per lo sviluppo di
-internet) diventano RFC (standard) una volta che sono stati approvati
-
-- @DavidePalermo2: http://t.co/SXHb7YKsbP Sito ufficiale IETF Su Wikipedia
-http://t.co/0xGvp5cWHJ
-
-- @GiGirgenti: IAB: Internet Architecture Board 
-
-- @LucaLiuzzi: IAB - internet architecture board IETF - manager delle
-RTF IRTF. Tutte agency tecnicomanageriali di internet.
-
-- @Rexsimo893: IETF gestisce la pubblicazione delle RFC 
+- IAB - internet architecture board dipendente da IETF - manager 
+delle RTF IRTF. Tutte agency tecnicomanageriali di internet.
 
 #### ICANN (Internet Corporation for Assigned Names and Numbers)
 
-- @SabryKarate: ICANN: Internet Corporation for Assigned Names and
+- ICANN: Internet Corporation for Assigned Names and
 Numbers Fondata nel settembre 1998 sito: http://t.co/PMXO4NoBPa
 
-- @DavidePalermo2: http://t.co/hlGpmtw2Eg (Internet Corporation for
-Assigned Names and Numbers)
+- ICANN http://t.co/hlGpmtw2Eg (wiki)
 
-- @FabioVallone: Corporations: Termine americano per indicare una azienda
+- Corporations: Termine americano per indicare una azienda
 non governativa e no profit
 
-- @DavidePalermo2: Corporations è il termine americano che indica una
-associazione no profit
+- La ICANN a "NGO" di diritto Californiano 
 
-- @93_checco: Icann (internet corporation for assigned names and numbers)
-associazione no profit 
-
-- @FabioVallone: La ICANN a "NGO" di diritto Californiano 
-
-- @EricaAcire19: Gli RFC sono i protocolli già definitivi! Anche se il
-nome sembra un po' ambiguo...
-
-- @ripa_pepperipa: Si parla di ICANN http://t.co/fYq5zGXelt ... Ente
-che gestisce i nomi a dominio!
-
-- @Ale_Cannone: ICANN: gestisce i nomi a dominio
-
-- @FabioBussi: ICANN gestisce tutti i nomi a dominio di Internet 
-
-- @GiGirgenti: ICANN gestisce i nomi a dominio 
-
-- @DavidePalermo2: ICANN delega i domini .it delegato a una sede di Pisa 
-
-- @SoFranchy: ICANN gestisce domini di primo livello e delega strutture
+- ICANN gestisce domini di primo livello e delega strutture
 nazionali o regionali per la gestione dei nomi a dominio.
 
-- @FabioVallone: ICANN gestisce i nomi a dominio, anche con strutture
-territoriali. Invece Top Level Domains(TLD)sono gestisci direttamente
+- Esempio: delega i domini .it delegato a una sede di Pisa 
 
-- @Rexsimo893: ICANN gestisce i nomi a dominio 
+- ICANN gestisce i nomi a dominio, anche con strutture
+territoriali. Invece i Top Level Domains(TLD)sono gestisci direttamente.
 
-- @DavidePalermo2: http://t.co/7uwGRA5eyr TLD Top Level Domains o Domini
+- http://t.co/7uwGRA5eyr TLD Top Level Domains o Domini
 di Primo Livello
 
-- @FabioBussi: Top Level Domain (TLD) gestiti da ICANN sono tutti i
+- Alcuni dei Top Level Domain (TLD) gestiti da ICANN sono tutti i
 "country codes"
 
-- @Ale_Cannone: non fatevi ingannare dal .tv nei siti ----&gt; non
-riguarda la televisione
+- non fatevi ingannare dal .tv nei siti ----&gt; non
+riguarda la televisione ma stati
 
-- @SabryKarate: C'è per ora un numero limitato di TLD, Top Level
-Domanins. Hanno 2 lettere, ce n'è uno per ogni stato, esempi: .uk,
-.it,...
+- I "country codes" possono anche essere cedute sotto
+pagamento per usi non nazionali (es: .tv  che appartiene 
+allo stato del Tuvalu)
 
-- @FabioBussi: I "country codes" possono anche essere cedute sotto
-pagamento per usi non nazionali
+- TLD:Country Codes (.it, .fr, .de,... sono circa 200).Il più diffuso è .com 
 
-- @Ale_Cannone: ogni signolo paese ha il proprio "country code" anche
-se certe volte viene usato non per indicare lo stato
+- .com : commerciale. Circal'80% dei domini di tutto il mondo.
 
-- @FabioBussi: TDL più diffuso è .com 
+- Il TLD .org è per le associazioni no profit, con
+obiettivi sociali e non a scopo di lucro.È stato
+uno dei domini di primo livello originali creati nel gennaio 1985
 
-- @Xfox1: perché per i ".it" fino a tempo fa si dovevano inviate
-documenti via fax? E per gli altri no?
+- TDL .edu utilizzato per siti a scopo formativo 
 
-- @FabioVallone: TLD:Country Codes (.it, .fr, .de,... sono circa 200).I
-country Codes sono spesso"storpiati"nel significato.tv-&gt;isole Tuvalu
+- Dominio Educational principalmente U.S.A. http://t.co/KE9sGlgBP9
 
-- @DavidePalermo2: Esempi di Country Codes .it, .fr, etc Domini distorti
-.tv legato allo stato del Tuvalu, ma concessi a siti legati alle TV
-
-- @SabryKarate: Il più diffuso tra i TLD è .com : commerciale. Circa
-l'80% dei domini di tutto il mondo. Il TLD .edu è per educazione.
-
-- @FabioBussi: TDL .edu utilizzato per siti a scopo formativo 
-
-- @DavidePalermo2: Dominio Educational principalmente
-U.S.A. http://t.co/KE9sGlgBP9
-
-- @SoFranchy: TLD sono quelli nazionali (country code) come .it o
-.fr. Altri sono: .com, .edu, .org, .net 
-
-- @LucaLiuzzi: ICANN - Internet Corporation for assigned names and
-numbers.
-
-- @Ale_Cannone: .org ----&gt; indica il mondo del no profit
-
-- @93_checco: .org ( organizzazioni e no profit ) 
-
-- @SabryKarate: Il TLD .org è per le associazioni no profit, con
-obiettivi sociali e non a scopo di lucro.
-
-- @DavidePalermo2: .org è un dominio di primo livello generico. È stato
-uno dei domini di primo livello originali creati nel gennaio 1985 wiki
-
-- @EmaParrinello: Top Level Domain: .com sta per commerciale, .edu sta
-per educativo, .org indica il mondo del no profit 
-
-- @FabioBussi: TLD .org usato per organizzazioni non commerciali
-
-- @FabioBussi: TLD .gov usato esclusivamente dal governo americano
+- TLD .gov usato esclusivamente dal governo americano
 (in italia .gov.it)
 
-- @FabioVallone: I TDL: com-&gt;fini commerciali edu-&gt;educazione
-org-&gt;ass. no profit;$$-&gt;ISOC; mil-&gt;esercito americano
-gov-&gt;governo americano
+- TLD .int utilizzati da siti internazionali 
 
-- @93_checco: .int organizzazione internazionale 
-
-- @GiGirgenti: I TLD più comuni sono: .com .edu .org .mil .int
-
-- @FabioBussi: TLD .int utilizzati da siti internazionali 
-
-- @Rexsimo893: Top Level Domains(TLD): country codes, .com (commerciale),
+- Top Level Domains(TLD): country codes, .com (commerciale),
 .edu (educativo), .org (no-profit), .mil, .gov, .int, .info,.net
 
-- @ripa_pepperipa: Top Level Domains (TDL) rilevanti: .com .edu. org
-.net .mil .gov .int .it .info http://t.co/RCg9iPVv1b
-
-- @DavidePalermo2: Domini di primo livello generici .biz .com .edu .gov
+- Domini di primo livello generici .biz .com .edu .gov
 .info .int .mil .name .net .org
 
-- @FabioVallone: Altri TDL: .int-&gt;Ass. internazionale .biz .net .info
-
-- @LorenzoCutelle: Il dominio .org viene usato dalle organizzazioni
-no-profit, senza nessun fine commerciale. I profitti vanno alla ISOC
-
-- @LucaLiuzzi: Gestione nomi e dominio (top level domain): .com -
-commercial .gov - usa government .edu - education .org - per NGO
-
-- @Carrattrezzi: ICANN gestisce i Top Level Domains. Inizialmente country
-codes (.it) e altri come .com .net .org .edu .gov
-
-- @93_checco: Icann ha deciso come strutturare il mercato dei nomi a
-dominio.
-
-- @SoFranchy: La distribuzione, il mercato, dei nomi a dominio viene
+- Icann ha deciso come strutturare il mercato dei nomi a
+dominio. La distribuzione, il mercato, dei nomi a dominio viene
 gestita dai cosiddetti Registry, aziende in competizione
 
-- @FabioVallone: ICANN: 1-Come strutturare il mercato domini: -molti
-attori in competizione tra loro 2-Risoluzione conflitti
+- ICANN ha scelto una policy per decidere come distribuire
+i nomi a dominio: "First come, first serve". Questa viene usata
+per la risoluzione dei conflitti.
 
-- @GiGirgenti: ICANN ha deciso come strutturare il mercato dei nomi a
-dominio
-
-- @SabryKarate: ICANN ha scelto una policy per decidere come distribuire
-i nomi a dominio: "First come, first serve"
-
-- @93_checco: Risoluzione conflitti? "First come, first serve"
-
-- @EmaParrinello: ICANN è l'organo che ha deciso come sfruttare il
-mercato dei nomi a dominio e come risolvere i conflitti per tali nomi
-
-- @ripa_pepperipa: come gestire i conflitti tra i vari nomi a dominio? -
-"First come, first serve"
-
-- @FabioBussi: gestione "first come, first served" per i nomi a dominio,
+- gestione "first come, first served" per i nomi a dominio,
 ma con i "Trade Marks" esistono molti problemi
 
-- @PhotoRevo: La funzione primaria dei marchi è di mandare al consumatore
+- La funzione primaria dei marchi è di mandare al consumatore
 una garanzia di qualità
 
-- @ripa_pepperipa: i conflitti tra i nomi a dominio nascono dai marchi!
-
-- @LucaLiuzzi: Risoluzioni conflitti? -"first come,first serve" -
-Conflitti -&gt; marchi,trademarks
-
-- @bassosimone: by the way, a proposito del caso Armani:
+-Esempio di conflitto per un marchio: caso Armani:
 http://t.co/tKE7jyZvs4
 
-- @PhotoRevo: Ogni marchio ha un settore es. Automobili vini
-
-- @SabryKarate: Controversia su Trademarks: si potrebbe indurre in
+- Controversia su Trademarks: si potrebbe indurre in
 inganno il consumatore usando un nome di marca. Es. Ferrari, Armani,...
 
-- @MorenoLaQuatra: ICANN sviluppa una propria politica di risoluzione
+- Ogni marchio ha un settore es. Automobili, Vini
+
+- ICANN sviluppa una propria politica di risoluzione
 conflitti, UDRP
 
-- @PhotoRevo: Udrp uniform dispute resolution policy
+- Udrp uniform dispute resolution policy
 
-- @FabioBussi: Le cause per "Trade Marks" vegono gestite dalla UDRP
+- Le cause per "Trade Marks" vegono gestite dalla UDRP
 (Uniform Dispute Resolution Policy)
 
-- @FabioVallone: Filosofia ICANN: -"First come,first serve"(concessione
+- Filosofia ICANN: -"First come,first serve"(concessione
 senza controlli) -Conflitti-&gt;UDP(Uniform Dispute Resolution Policy)
 
-- @Carrattrezzi: ICANN gestisce l'assegnazione tramite agenzie locali
+- ICANN gestisce l'assegnazione tramite agenzie locali
 favorendo la libera concorrenza. Policy: first come,first serve
 
-- @Clerish: Per risolvere le dispute l'ICANN sviluppa l'UDRP: Uniform
+- Per risolvere le dispute l'ICANN sviluppa l'UDRP: Uniform
 Dispute Resolution Policy
 
-- @omerovitali: @demartin cita marchio #NIKE pronunciando
+- @demartin cita marchio #NIKE pronunciando
 [Naik]. Successivamente pronuncia [Naiki]. La pronuncia corretta è
 la seconda.
 
-- @LucaLiuzzi: ICANN ha sviluppato un metodo di risoluzione dei conflitti
+- ICANN ha sviluppato un metodo di risoluzione dei conflitti
 sui domini: URDP - uniform dispute resolution policy
 
-- @SabryKarate: UDRP: Uniform Dispute Resolution Policy Documento su
+- UDRP: Uniform Dispute Resolution Policy Documento su
 http://t.co/PMXO4NoBPa che parla della risoluzione dei conflitti.
 
-- @Rexsimo893: ICANN ha sviluppato l'UDRP(Uniform Dispute Resolution
-Policy) per la risoluzione dei conflitti legati ai marchi per esempio
+- Di recente l'ICANN ha introdotto la possibilità di usare
+alfabeti non occidentali nei nomi a dominio, con codice UNICODE
 
-- @ripa_pepperipa: ICANN ha sviluppato l'UDRP (Uniform Dispute Resolution
-Policy)
+- Egitto lancia primo nome di dominio in arabo 
+| Reuters 06/mag/2010 http://t.co/UKIaFRUsi1
 
-- @FabioVallone: Solo da poco è possibile avere siti con UNICODE e
-quindi nome dominio con vari alfabeti
-
-- @Clerish: Di recente l'ICANN ha introdotto la possibilità di usare
-alfabeti non standard nei nomi a dominio, con codice UNICODE
-
-- @FabioBussi: Di recente è possibile utilizzare nomi a dominio con
-alfabeti non occidentali
-
-- @EricaAcire19: è possibile usare un alfabeto diverso da quello inglese
-(caratteri arabi, cirillici ma anche lettere accentate)per TLD
-
-- @SabryKarate: Per leggere qualcosa in più riguardo ai nomi di dominio
+- Per leggere qualcosa in più riguardo ai nomi di dominio
 internazionalizzati: http://t.co/KJw5bGPd2W
 
-- @EmaParrinello: Recentemente ICANN ha deciso che sono possibili nomi
-a dominio in tutti gli alfabeti attraverso l'UNICODE
-
-- @Carrattrezzi: Nel caso di conflitti Uniform Dispute Resolution
-Policy. Adesso nomi a dominio in tutti gli alfabeti e nuovi TLD
-
-- @FabioVallone: Si è passati anche a creare nuovi TLD. La procedure
+- Si è passati anche a creare nuovi TLD. La procedure
 è costosa ma permette di creare, ad esempio: .polito
 
-- @DavidePalermo2: Riporto: Internet, Egitto lancia primo nome di dominio
-in arabo | Reuters 06/mag/2010 http://t.co/UKIaFRUsi1
-
-- @MorenoLaQuatra: 150.000 $ per la nascita di un TOP LEVEL DOMAIN,
+- 150.000 $ per la nascita di un TOP LEVEL DOMAIN,
 recentemente con la nuova procedura ICANN
 
-- @Clerish: In teoria creare nuovi TLD sarebbe facile: è tutto
-software. In pratica la questione è costosa.
+- In teoria creare nuovi TLD sarebbe facile: è tutto
+software. Ma la questione è molto costosa.
 
-- @Rexsimo893: In corso creazione di procedura per definire nuovi
-TLD. Molte complicazioni.
+- In corso creazione di procedura per definire nuovi
+TLDn ma ci sono molte complicazioni.
 
-- @FabioVallone: Come democratizzare ICANN? -inizio anni '00, members
-at large del Board (ogni 3 mesi) --&gt; Larry Lessig
+- Come democratizzare ICANN? -inizio anni 2000, members
+at large del Board (ogni 3 mesi) #Larry Lessig
 
-- @FabioVallone: ICANN crea GAC (Goverment Advisory Council) che serve
+- ICANN crea GAC (Goverment Advisory Council) che serve
 per dare dei pareri (puramente consultivi) sul lavoro di ICANN
+Nel GAC vengono rappresentati i vari governi
 
-- @Rexsimo893: Funzione del GAC puramente consultiva dove vengono
-rappresentati i vari governi
-
-- @Carrattrezzi: Board ICANN ogni 3 mesi con membri eletti+ Government
+- Board ICANN ogni 3 mesi con membri eletti + Government
 Advisory Council per suggerimenti dei governi
 
-- @ripa_pepperipa: @demartin ci propone un disegnino riassuntivo ;-)
-
-- @EricaAcire19: Gli stati sovrani vorrebbero un potere più forte del
+- Gli stati sovrani vorrebbero un potere più forte del
 GAC, allo status quo questa assemblea è puramente consultiva.
 
-- @Clerish: IANA svolge un lavoro fondamentale: controlla la locazione
+- IANA svolge un lavoro fondamentale: controlla la locazione
 degli indirizzi IP e i root server DNS
 
-- @DavidePalermo2: "ICANN dovrebbe avere un corso solo per sè stesso"
-+ schema riassuntivo by @demartin http://t.co/Ablu8mh7ZK
+- Schema riassuntivo Struttura di governance Internet
+ http://t.co/Ablu8mh7ZK http://t.co/5GbtT5joHY http://t.co/oAbopFaGqM
 
-- @FabioBussi: ICANN gestisce IANA che però è controllata anche
+- ICANN gestisce IANA che però è controllata anche
 direttamente da Dept. of Trade
 
-- @SabryKarate: ISOC controlla IAB, che gestisce IRTF e IETF (IETF anche
+- ISOC controlla IAB, che gestisce IRTF e IETF (IETF anche
 sotto diretto controllo di ISOC) ICANN gestisce IANA.
 
-- @EricaAcire19: Di fatto intenet è ancora fortemente influenzata dagli
+- Di fatto intenet è ancora fortemente influenzata dagli
 USA. Del resto non ci sono alternative (o se ci sono peggio).
 
-- @Ale_Cannone: Contratto ICANN con il dept. of TRADE: è questo il
-cuore del controllo di internet
+- Contratto ICANN con il dept. of TRADE: è questo il
+cuore del controllo di internet che è un'infrastruttura 
+globale ma è influenzata dagli americani
 
-- @Xfox1: @bassosimone questa? http://t.co/6qccvcEVyf
-
-- @Ale_Cannone: internet è un'infrastruttura globale ma influenzata
-dagli americani
-
-- @FabioVallone: ISOC ICANN-&gt;IANA(Contratto | | ICANN-DEPT. of V V
-TRADE) IAB--&gt;IETF | V IRTF
-
-- @LorenzoCutelle: Schema riassuntivo sulla struttura di governance di
-Internet. http://t.co/5GbtT5joHY
-
-- @ripa_pepperipa: La struttura di governance c'è ma non coincide con
-quella americana!
-
-- @SoFranchy: Esiste una struttura di governance di internet
+- Esiste una struttura di governance di internet
 che, quindi, non è un'anarchia e non è governata da Facebook o
 Microsoft.
 
-- @FabioBussi: Esiste una struttura di governance di Internet non è
-l'anarchia e non gestita da grandi come Microsoft o Apple!!!
+- La struttura di Governance di Internet non è sottomessa ad 
+alcuna azienda privata. Inoltre: Organizzazione != Anarchia 
 
-- @SabryKarate: La struttura di Governance di Internet non è sottomessa ad alcuna azienda privata. Inoltre: Organizzazione != Anarchia 
-
-- @LucaLiuzzi: Grafico temporale sulla governance di
+- Grafico temporale sulla governance di
 internet. http://t.co/Jmpkixa3Q4
 
-- @SimoneBleynat: Effettivamente a chi vorresti far gestire Internet,
-alla Cina?
 
 #### Rudimenti di diritto d'autore
 
-- @Ale_Cannone: Ora nozioni preliminari per l'ospite di oggi 
+- Proprietà Intellettuale http://t.co/TIuB3efYRe
 
-- @ripa_pepperipa: ospite a sorpresa!! :)
+- Il marchio è importante per impedire la confusione ma
+anche per favorire la diffusione 
 
-- @Carrattrezzi: http://t.co/oAbopFaGqM
-
-- @EricaAcire19: e ora rudimenti sui diritti d'autore.. 
-
-- @SabryKarate: Oggi ospite al corso di : Maria Chiara Pievatolo
-
-- @FabioVallone: I marchi servono per dare la certezza della produzione
-della merce
-
-- @DavidePalermo2: Proprietà Intellettuale http://t.co/TIuB3efYRe
-
-- @SabryKarate: Tra circa 30 minuti, @MCPievatolo
-
-- @Clerish: Chiunque può copiare Arduino, ma non può chiamare la
+- Esempio: Chiunque può copiare Arduino, ma non può chiamare la
 copia Arduino
 
-- @FabioVallone: Il marchio è importante per impedire la confusione ma
-anche per favorire la diffusione (vd Arduino: copia ma con tuo nome)
+- Proprietà intellettuale: strumenti differenti per gestione
+materiali intangibili
 
-- @FabioBussi: I marchi servono per poter favorire la condivisione ma
-non la confusione
+- Brevetti (lo Stato tutela l'idea) 
 
-- @ripa_pepperipa: I #marchi consentono la condivisione ma non la
-confusione! Controllano l'origine della merce!
+-Diritto d'Autore (lo Stato tutela la forma espressiva)
 
-- @DavidePalermo2: http://t.co/vIg7lq3Mpr Ideatore Linux 
-
-- @Rexsimo893: Proprietà intellettuale: strumenti differenti per gestione
-materiali intangibili -&gt; marchi, brevetti, diritto d'autore
-
-- @FabioBussi: Nei brevetti si tutela l'idea, nel diritto d'autore si
-tutela la forma espressiva
-
-- @SabryKarate: Proprietà intellettuale -Brevetti (lo Stato tutela
-l'idea) -Diritto d'Autore (lo Stato tutela la forma espressiva) -Marchi
-
-- @FabioBussi: Per tutelarti lo stato utilizza tutta la sua forza
+- Per tutelarti lo stato utilizza tutta la sua forza
 attraverso tribunali e forze di polizia
 
-- @ripa_pepperipa: nel caso dei BREVETTI viene tutelata l'idea; quando
-invece parliamo di DIRITTO D'AUTORE, si tutela la forma espressiva!
-
-- @Clerish: Il brevetto svela ogni segreto: viene pubblicata l'idea. Per
+- Il brevetto svela ogni segreto: viene pubblicata l'idea. Per
 questo la formula Coca Cola non è stata brevettata
 
-- @FabioBussi: La Coca Cola ha scelto di non brevettare la formula della
-Coca Cola per non divulgarla
+- Brevettare = Si richiede la tutela e l'idea diventa
+pubblica => Perciò non si brevetta un'idea che si vuole tenere segreta.
 
-- @SabryKarate: Brevettare -----&gt; Si richiede la tutela, idea diventa
-pubblica Perciò non si brevetta un'idea che si vuole tenere segreta.
-
-- @FabioVallone: Proprietà Intellettuale | | | V V V Brevetti Dir
-autore Marchi
-
-- @VadimCujba: La richiesta di un brevetto implica la pubblicazione
-dell`idea
-
-- @SabryKarate: Se il brevetto viene concesso, l'inventore ha l'esclusiva
+- Se il brevetto viene concesso, l'inventore ha l'esclusiva
 sugli impieghi per 20 anni.
 
-- @Rexsimo893: Risultato ottenimento brevetto: esclusiva su impiego per
-20 anni
+- Lo stato ha deciso di tutelare la "proprietà intellettuale" 
+per dare l'esclusiva di produzione
 
-- @FabioBussi: La spiegazione del perchè lo stato ha deciso di tutelare
-la "proprietà intellettuale" per dare l'esclusiva di produzione
+- L'idea di dare l'esclusiva a chi brevetta 
+deriva dalla repubblica di venezia.
 
-- @DavidePalermo2: Schemino (scrivo male, lo so ;D) http://t.co/jFKX4HiZNN
-
-- @EricaAcire19: L'idea di dare l'esclusiva a chi brevetta e non dei
-premi in $, deriva dalla repubblica di venezia.
-
-- @bassosimone: morale: siete liberi di fare reverse engineering della
-formula della coca cola :-)
-
-- @DavidePalermo2: USA dice di aver scoperto la formula segreta della
-Coca Cola e tenta di venderla su eBay http://t.co/XuOcJWZ9M7 @Corriereit
-
-- @FabioVallone: Fino agli anni '70 in Italia non c'erano i brevetti
+- Fino agli anni '70 in Italia non c'erano i brevetti
 sui farmaci
 
-- @bassosimone: fino agli '70 in Italia non c'erano brevetti sui farmaci
-
-- @Clerish: I brevetti durano venti anni in tutto il mondo, salvo
+- I brevetti durano venti anni in tutto il mondo, salvo
 eccezioni
 
-- @ripa_pepperipa: Se si vuole la copertura internazionale si deve fare
-un brevetto internazionale! I costi sono dirett prop all'estensione!
+- Se si vuole la copertura internazionale si deve fare
+un brevetto internazionale! I costi sono direttamente 
+proporzionali all'estensione!
 
-- @Clerish: Il diritto d'autore non richiede formalità: scatta
-automaticamente 
-
-- @FabioVallone: Il Diritto d'autore riguarda l'espressione e non
-l'idea.Le opere vengono protette appene prodotte
-
-- @Rexsimo893: Diritto d'autore: riguarda la specifica espressione
-artistica e non richiede nessuna formalità
-
-- @Ale_Cannone: diritto d'autore: non ha bisogno di formalità.. nel
-momento in cui si finisce un lavoro questo gode dei diritti d'autore
-
-- @FabioBussi: Il diritto d'Autore si applica da quando noi abbiamo
+- Il diritto d'Autore si applica da quando noi abbiamo
 finito l'opera e non richiede formalità
 
-- @ripa_pepperipa: come si ottiene il Diritto d'Autore? Automaticamente
-viene assegnato non appena viene completata l'"opera"!
-
-- @Carrattrezzi: I brevetti sono gestiti da enti nazionali o
-internazionali. Possono essere rifiutati ed implicano la pubblicazione
-
-- @DavidePalermo2: Protezione del diritto d'autore e di altri diritti
-connessi al suo esercizio http://t.co/Z7hdyLe9cD - Legge del 1941
-
-- @FabioVallone: Per il diritto d'autore ci sono diversi metodi per
+- Per il diritto d'autore ci sono diversi metodi per
 riuscire a certificare la paternità della mia opera
 
-- @Ale_Cannone: certificazione di paternità: vari modi per provare che
-l'opera è propria (es. mandare una raccomandata ai parenti)
+- Certificazione di paternità es: mandare una raccomandata ai parenti
 
-- @FabioVallone: L'Angelo del Copyright vede tutto!!
+- Il problema del diritto d'autore è dimostrare di avere
+eseguito l'opera d'arte per primi
 
-- @Clerish: Il problema del diritto d'autore è dimostrare di avere
-eseguito l'opera d'arte per primi 
-
-- @SabryKarate: Brevetto --&gt; richiede formalità a livello giuridico
-Diritto d'autore --&gt; scatta in automatico su ogni opera
-
-- @FabioVallone: Diritto d'autore 1941: -Tutelata la Forma -Nessuna
-Formalità
-
-- @Rexsimo893: Diritto d'autore: tutelati diritti morali e economici
-
-- @Clerish: L'opera d'arte è espressione della personalità dell'autore,
+- L'opera d'arte è espressione della personalità dell'autore,
 che ha diritto quindi a essere protetto
 
-- @Clerish: Arriva la nostra gentile speaker :-)
-
-- @EmaParrinello: Le 2 categorie dei diritti d'autore: diritti morali
+- Le 2 categorie dei diritti d'autore: diritti morali
 ed economici
 
-- @FabioVallone: I diritti sono Morali(posso decidere di ritirare
+- I diritti sono Morali(posso decidere di ritirare
 l'opera,indennizzando l'editore) Economici(posso decidere come sfruttarla)
 
-- @Ale_Cannone: diritti d'autore: i diritti morali riguardano
-l'espressione della moralità dell'autore nell'opera
+- I diritti morali riguardano l'espressione della moralità
+dell'autore nell'opera
 
-- @EmaParrinello: A breve la lezione continuerá con l'ospite del giorno:
-la professoressa Mariachiara Pievatolo
-
-- @Ale_Cannone: diritti d'autore: i diritti economici riguardano il modo
+- I diritti economici riguardano il modo
 in cui l'autore decide di sfruttare l'opera
 
-- @Carrattrezzi: Il diritto d'autore interviene automaticamente
-sull'opera, da all'autore della forma espressiva diritti morali ed
-economici
 
 ### @MCPievatolo
 
-- @SabryKarate: Un benvenuto a @MCPievatolo alla lezione di venerdì 17
-maggio 2013 al corso di RivoluzDigitale
+- "Rivoluzione digitale e comunicazione scientifica":
 
-- @Clerish: "Rivoluzione digitale e comunicazione scientifica":
-presentazione di Maria Chiara Pievatolo 
-
-- @DavidePalermo2: @MCPievatolo lezione al Corso di @RivoluzDigitale
-http://t.co/eZpdZ1wN4i
-
-- @VadimCujba: Maria Chiara Pievatolo a RivoluzDigitale
-
-- @SabryKarate: Effetto della rivoluzione digitale sulla divulgazione
-scientifica by #MCPievatolo
-
-- @SabryKarate: Molti scienziati danno per scontato l'ambiente in cui
+- Molti scienziati danno per scontato l'ambiente in cui
 si trovano... cit. @MCPievatolo
 
-- @FabioVallone: Molti scienziati danno per scontato l'ambiente in cui
-si trovano
+- Platone, il mito di Teuth dal Fedro Affidandosi alla
+scrittura l'uomo tralascia la cura della propria mente.
 
-- @ripa_pepperipa: MCPievatolo, docente di #filosofia di Pisa, ci parla
-degli effetti della rivoluzione digitale!
-
-- @DavidePalermo2: Platone era un Ingegnere! #MCPievatolo
-
-- @SabryKarate: Platone, il mito di Teuth dal Fedro Affidandosi alla
-scrittura l'uomo tralascia la cura della propria mente. @MCPievatolo
-
-- @FabioVallone: La scrittura deve trasmettere anche conoscenza. Può
+- La scrittura deve trasmettere anche conoscenza. Può
 essere copiata solo mano.
 
-- @ripa_pepperipa: la stampa si può copiare solo
-artigianalmente! @MCPievatolo
+- la stampa si può copiare solo artigianalmente!
 
-- @DavidePalermo2: Scrittura serve a trasmettere conoscenza e non solo
-informazione! #Platone #Fedro @MCPievatolo
+- Scrittura serve a trasmettere conoscenza e non solo
+informazione!
 
-- @Clerish: Secondo @MCPievatolo al giorno d'oggi gli scienziati si
+- Secondo @MCPievatolo al giorno d'oggi gli scienziati si
 autovalutano basandosi solo su dove sono pubblicati i loro articoli
 
-- @DavidePalermo2: @MCPievatolo Invenzione della stampa è rivoluzionaria
+- Grazie alla stampa c'è stata una maggiore divulgazione,
+ma attenzione all'affidabilità delle fonti! 
 
-- @Antonio_Langiu: La professoressa Mariachiara Pievatolo a RivoluzDigitale
-
-- @SabryKarate: Reminiscenze filosofiche del liceo classico grazie a
-@MCPievatolo :-)
-
-- @ripa_pepperipa: @MCPievatolo, docente di #filosofia di Pisa, ci parla
-degli effetti della rivoluzione digitale!
-
-- @SabryKarate: Grazie alla stampa c'è stata una maggiore divulgazione,
-ma attenzione all'affidabilità delle fonti! @MCPievatolo
-
-- @FabioVallone: Prima del Sidereus Nuncius la ricerca scientifica
-era segreta
-
-- @DavidePalermo2: C'erano già problemi di libertà poco dopo
+- C'erano già problemi di libertà poco dopo
 l'invenzione di #Gutenberg con #Lutero e le versioni della #Bibbia
 
-- @SabryKarate: Galileo Galilei pubblica nel 1610 il Siderius Nuncius:
-nasce la scienza moderna @MCPievatolo
+- Galileo Galilei pubblica nel 1610 il Siderius Nuncius: 
+nasce la scienza moderna. Prima del Sidereus Nuncius la 
+ricerca scientifica era segreta
 
-- @ripa_pepperipa: durante l'età della stampa, esattamente nel 1665,
-nasce la prima rivista scientifica @MCPievatolo
+- durante l'età della stampa, esattamente nel 1665,
+nasce la prima rivista scientifica.
 
-- @Ale_Cannone: privilegio (antenato del diritto d'autore): veniva
+- privilegio (antenato del diritto d'autore): veniva
 concesso il diritto di stampare in cambio del controllo delle stampe
+da parte dello stato.
 
-- @Clerish: Ai tempi dell'invenzione della stampa era il re a concedere
+- Ai tempi dell'invenzione della stampa era il re a concedere
 "graziosamente" la stampa di testi
 
-- @FabioVallone: Il sistema della stampa scientifica si basa sul sistema
-della pubblicità
+- Kant, cos'è l'illuminismo? Uso pubblico della ragione
+verso l'intero pubblico dei lettori.
 
-- @SabryKarate: Kant, cos'è l'illuminismo? Uso pubblico della ragione
-verso l'intero pubblico dei lettori. @MCPievatolo
+- Concetto di Proletario secondo Marx ed
+Alienazione. Chaplin in "Tempi moderni"
 
-- @ripa_pepperipa: Weber ---&gt;padre della tecnologia
-moderna! @MCPievatolo
-
-- @SabryKarate: Concetto di Proletario secondo Marx ed
-Alienazione. Chaplin in "Tempi moderni" http://t.co/JECZr1M8Dg
-@MCPievatolo
-
-- @Clerish: L'Impact Factor misura la influenza di una rivista scientifica
+- L'Impact Factor misura la influenza di una rivista scientifica
 all'interno di un database chiuso
 
-- @CaracciFabio: La popolarità viene misurata tramite un coefficiente
-chiamato "impact factor".
-
-- @Clerish: In realtà l'IF non misura la vera competenza scientifica
+- In realtà l'IF non misura la vera competenza scientifica
 e finisce per interferire con la ricerca
 
-- @venadavide: Impact factor: indice sintetico che misura il numero di
-citazioni ricevute in un anno da articoli dei due anni precedenti
-
-- @EricaAcire19: La ricerca pioneristica diventa pericolosa in termini
+- La ricerca pioneristica diventa pericolosa in termini
 di carriera, l’importante per uno studioso è di essere citato.
 
-- @SabryKarate: La letteratura Open Access è digitale, online, gratuita
-e libera da molte restrizioni. @MCPievatolo
+- La letteratura Open Access è digitale, online, gratuita
+e libera da molte restrizioni. http://t.co/pj33CaU3IV 
 
-- @FabioVallone: Letteratura Open Access è digitale, online, gratuita
-e libera
+- Chi paga le pubblicazioni online? Readers, Authors and Institution
 
-- @ripa_pepperipa: la letteratura ad accesso aperto è digitale, online,
-gratuita e libera @MCPievatolo
+- Modelli economici: Readers, accesso chiuso Author,
+accesso aperto Institution, accesso aperto (via platino)
 
-- @VadimCujba: OA: letteratura ad acceso aperto, digitale e gratuita
+- Filter, then publish: Prima c'è selezione. Publish,
+then filter: Su Internet si può pubblicare prima.
 
-- @LucaLiuzzi: OpenAccess. http://t.co/pj33CaU3IV 
+- Internet facilità il rapporto autore/lettore
 
-- @ripa_pepperipa: ci chiediamo: chi paga le pubblicazioni online? ---&gt;
-Readers, Authors and Institution @MCPievatolo
+- Nell'aprile 2012 la biblioteca di Harvard invita i
+suoi docenti a passare all’accesso aperto.
 
-- @SabryKarate: Modelli economici: Readers, accesso chiuso Author,
-accesso aperto Institution, accesso aperto (via platino) @MCPievatolo
+- Il sistema di pubblicazione scientifica mainstream è
+anglosassone.
 
-- @SabryKarate: Filter, then publish: Prima c'è selezione. Publish,
-then filter: Su Internet si può pubblicare prima. @MCPievatolo
+- #Google Scholar sembra aperto ma è privato e non motiva
+pubblicamente le sue scelte...
 
-- @VadimCujba: Internet facilità il rapporto autore/lettore
+- Per promuovere la scienza, gli scienziati devono espandere
+il proprio pubblico.
 
-- @LorenzoCutelle: Nell'aprile 2012 la biblioteca di Harvard invita i
-suoi docenti a passare all’accesso aperto. @MCPievatolo
+- Se qualcosa è controproducente ai fini della scienza, 
+bisogna lasciarlo da parte.
 
-- @SabryKarate: "Gli editori sono i capitalisti più spietati del mondo
-occidentale" @MCPievatolo
+- L'impatto della rivoluzione digitale impiega più tempo
+di quanto pensiamo. La divulgazione non è immediata.
 
-- @SabryKarate: Il sistema di pubblicazione scientifica mainstream è
-anglosassone. @MCPievatolo
+- Sono cambiati gli strumenti di diffusione, è più
+semplice pubblicare. Tuttavia è rimasto un profondo gap.
 
-- @SabryKarate: Accademia dei morti viventi, Fitzpatrick Rete -&gt;
-Medium universale studiosi rischiano di diventare irrilevanti @MCPievatolo
+- Accesso aperto al materiale didattico, "open educational
+resources" 
 
-- @MesserPala: Gli editori scientifici sono i latifondisti della
-conoscenza
-
-- @EricaAcire19: #Google Scholar sembra aperto ma è privato e non motiva
-pubblicamente le sue scelte... @MCPievatolo
-
-- @SabryKarate: Per promuovere la scienza, gli scienziati devono espandere
-il proprio pubblico. @MCPievatolo
-
-- @SabryKarate: Protagora di Platone Se qualcosa è controproducente ai
-fini della scienza, bisogna lasciarlo da parte. @MCPievatolo
-
-- @SabryKarate: Bisogna usare la propria libertà nel modo migliore:
-liberi di provare, di sbagliare,... @MCPievatolo
-
-- @SabryKarate: L'impatto della rivoluzione digitale impiega più tempo
-di quanto pensiamo. La divulgazione non è immediata. @demartin
-
-- @EricaAcire19: L’impatto della rd, anche laddove sembra dover accadere
-in poco tempo in realtà occupa più tempo del previsto. @MCPievatolo
-
-- @SabryKarate: Sono cambiati gli strumenti di diffusione, è più
-semplice pubblicare. Tuttavia è rimasto un profondo gap. @MCPievatolo
-
-- @SabryKarate: Accesso aperto al materiale didattico, "open educational
-resources" @demartin
-
-- @SabryKarate: Patto tra potere politico e scienza: ricerca scientifica
+- Patto tra potere politico e scienza: ricerca scientifica
 pagata ma limitata (iniziato in Germania alla fine dell'Ottocento)
 
-- @SabryKarate: Per lungo tempo gli scienziati stanno nella "torre
-d'avorio", compiono ricerche ma non diffondono i risultati. @MCPievatolo
+- Per lungo tempo gli scienziati stanno nella "torre
+d'avorio", compiono ricerche ma non diffondono i risultati.
+
+
+Foto della lezione: http://t.co/6qccvcEVyf http://t.co/eZpdZ1wN4i
 
 
 ## 2013-05-15
 
+### @bassosimone
+
+- Simone Basso spiega che sarebbe opportuno scrivere un titolo che
+sia a metà tra originale e descrittivo. La cosa più importante è
+che si capisca l'argomento del post. Inoltre, ci ricorda che ogni
+blog sarà controllato fino al 14 di giugno, dopodiché ognuno potrà
+decidere se tenerlo in vita oppure abbandonarlo.
+
+- Piccolo OT: secondo l’algoritmo di Google, una pagina è importante
+in base a quante persone la citano. SEO (Search Engine Optimization)
+serve per ottimizzare il ranking delle proprie pagine nei motori
+di ricerca.
+
 ### @demartin
 
-- @FabioVallone: @bassosimone che utilizza windows??!?!? :-P
+- Bel momento di dialogo col prof De Martin. Finalmente un prof che
+ascolta il parere degli studenti. Si discute su quali argomenti ci
+piacerebbe approfondire durante il corso.
 
-- @Ale_Cannone: titolo descrittivo&lt;-------------------&gt;titolo
-troppo creativo....meglio restare in mezzo tra le due
+- Si passa alla lezione vera e propria.  Riassunto di ciò di cui
+si è discusso nella penultima lezione: TCP/IP (possibile domanda
+di esame) e DNS (Domain Name System), che serve per assegnare dei
+domini agli indirizzi IP.
 
-- @SabryKarate: Scrivere un titolo che sia originale e non troppo
-descrittivo ma al contempo permetta di capire l'argomento del post.
+- Chi decide su Internet? Chi ha potere su Internet? Fermo restando
+che online valgono le stesse regole del mondo reale (offline), chi
+decide sulle questioni "tecniche"? (DNS, IPv6 ecc..)
 
-- @Cine_Revolution: Comincia la lezione!!!  @m_caccialupi @BrayGabriele
+- Internet ha una struttura di governance sofisticata (creata da
+chi ha inventato Internet), poco conosciuta e per questo, in alcuni
+casi, criticata. Le decisioni su internet vengono prese da organismi
+specifici.
 
-- @SabryKarate: Siam giunti nel mezzo del cammin del corso di
-
-- @SimoneBleynat: UBERFACEPALM
-
-- @Xfox1:  pagina importante se molti la citano
-
-- @Ale_Cannone: algoritmo di google: una pagina è importante in
-base a quante persone la citano
-
-- @Cine_Revolution: Nuovi argomenti? ? Diciamo la nostra:-) che
-corso ! ! @m_caccialupi @BrayGabriele http://t.co/lrfOwZlDSC
-
-- @FabioVallone: SEO (Search Engine Optimization) serve per ottimizzare
-il ranking delle proprie pagine nei motori di ricerca
-
-- @LucaLiuzzi: @demartin sarebbe interessante tracciare i comportamenti
-sbagliati dell'utente medio e analizzarli.
-
-- @Xfox1:  comunque a me ha colpito molto il fablab
-
-- @toni_marvelli:  finalmente un prof ascolta cio' che gli studenti
-vogliono sapere.
-
-- @DavidePalermo2: Bel momento di dialogo col prof @demartin a
-domande proposte commenti
-
-- @VadimCujba: Questo non è un corso di tecniche web!
-
-- @SabryKarate: Ogni blog sarà controllato fino al 15 di giugno,
-dopodiché ognuno potrà decidere se tenerlo in vita oppure abbandonarlo...
-
-- @SabryKarate: @VadimCujba  By the way, su Internet si possono
-trovare un sacco di risorse interessanti riguardo al linguaggio
-HTML :)
-
-- @FabioVallone: DNS (Domain Name System) serve per assegnare dei
-domini agli indirizzi IP
-
-- @Carrattrezzi: Riassunto di ciò di cui si è discusso nella penultima
-lezione: TCP/IP (possibile domanda di esame) e DNS
-
-- @DavidePalermo2: TCP/IP , DNS, Domini, Internet... Argomenti
-trattati ora a
-
-- @LucaLiuzzi: Chi decide cosa su internet?
-
-- @DavidePalermo2: Chi decide su internet? Chi ha potere su internet?
-
-- @VadimCujba: Chi è che ha potere su internet?
-
-- @Carrattrezzi: Regolamentazione di Internet: stesse regole del
-mondo "reale" ma chi decide sulle questioni "tecniche"? (DNS, IPv6
-ecc..)
-
-- @MesserPala: Chi decide cosa su internet?
-
-- @ripa_pepperipa: : Tutte le leggi presenti nel codice penale
-valgono anche per Internet---&gt;Aspetto Giuridico
-
-- @FabioVallone: Le decisioni su internet vengono prese da organismi
-specifici
-
-- @Rexsimo893: Internet ha una struttura di governance sofisticata,
-poco conosciuta e per questo, in alcuni casi, criticata
-
-- @FabioVallone: Internet è governata da una struttura di "Governance"
-distribuita in tutto il mondo.E' nata da chi ha inventato internet
-
-- @DavidePalermo2: La Governance di Internet esiste!
-
-- @EmaParrinello: Internet ha una struttura di governance molto
-complicata che i politici non riescono a comprendere.
-
-- @LucaNaldo4RD:  Internet, troppe decisioni da prendere dobbiamo
-strutturarci per gestirlo!
-
-- @FabioVallone: All'inizio gli indirizzi IP venivano dati a "mano".
+- Per esempio, all'inizio gli indirizzi IP venivano dati a "mano".
 Ora ci sono infrastrutture preposte per fare ciò.
 
-- @LucaLiuzzi: Negli anni '80 la mole di decisioni tecniche diventa
-troppa.Si creano delle strutture decisionali per risolvere il
-problema
+- È negli anni '80 che la mole di decisioni tecniche diventa troppa.
+Con la crescita di internet, si creano, quindi, delle strutture
+decisionali per risolvere il problema.
 
-- @FabioVallone: Gli enti preposti per governare internet non sono
-gestiti dallo stato
+- Le scelte tecniche e "politiche" (domini) vengono affidate a NGO
+(Organizzazioni Non Governative
+http://it.wikipedia.org/wiki/Organizzazione_non_governativa) e non
+allo Stato. Gli enti preposti per governare internet non sono gestiti
+da alcun governo.
 
-- @ripa_pepperipa: : Chi governa internet non è lo Stato!
+- Internet: l'unico sistema di comunicazione che non è gestito da
+un ente governativo.
 
-- @DavidePalermo2:  È esistita un'età della pietra anche nella
-storia di Internet (riferimenti a fatti, cose, persone, eventi non
-sono voluti)
+- Gli enti decidono come fare internet, mentre il governo può
+censurare alcune funzioni. Ad es. La Cina ha messo un grande filtro
+(articolo dell’Economist | “Internet in China: A giant cage”
+http://t.co/vWVgthVTDT). Tuttavia, c’è da dire che, se molti governi
+condannano questo sistema, molti altri lo vorrebbero imitare.
 
-- @Carrattrezzi: Con la crescita di internet le scelte sia tecniche
-che "politiche" (domini) sono affidate a NGO( http://t.co/dlT60R9EDB
-)
+- ISOC (sigla per ‘Internet Society’:
+http://it.wikipedia.org/wiki/Internet_Society ): organizzazione no
+profit, fondata nel 1992 in Virginia, con obiettivi formativi,
+caritatevoli ed educativi. Si occupa di diffondere la cultura delle
+nuove tecnologie e di Internet.
 
-- @SabryKarate: Gli organismi che gestiscono Internet non sono
-Ministeri, le scelte tecniche e politiche non sono controllate da
-un governo
+- Society viene usato nell’accezione di ‘accademia’, ovvero gruppo
+di persone con un interesse comune (come la Royal Society e la Lunar
+Society).
 
-- @FabioVallone: Certi governi cercano di copiare da internet. Altri
-rifiutano nettamente tale infrastruttura
+- L’Internet Society è stata fondata da Vint Cerf e Bob Khan. Conta
+50.000 membri. Si sono sviluppate, inoltre, delle sezioni locali
+che si riconoscono nei principi di ISOC, dette “chapter
+nazionali/tematici”.
 
-- @LucaLiuzzi: A decidere quindi sono NGO. http://t.co/AxsgZj8FYb
+- IETF (sigla per ‘Internet Engineering Task Force’: http://www.ietf.org/
+): organizzazione fondata nel 1986, prima di ISOC. Ora fa parte di
+ISOC. "The goal of the IETF is to make the Internet work better".
 
-- @Antonio_Langiu: Internet non è governata da nessun governo e da
-nessuno stato..
+- Già dal 1986, IETF prendeva decisioni sugli standard, un po’ come
+ISO (International Standardization Organazation) e ITU (International
+Telecomunication Union). Ma, diversamente da ISO E ITU, chiunque
+può partecipare alle sue riunioni, con il pagamento di una quota
+per coprire le spese.
 
-- @MorenoLaQuatra: Perché per parlare del cambiamento degli organismi
-di gestione internet si va a Dubai? Troppi interessi economici di
-mezzo
+- Non c'è una procedura decisionale ufficiale nelle riunioni di
+IETF. Si decide sulla base di: "Running Code" (mostrare se il codice
+funziona) e "Rough Consensus" (mailing list per discutere, convincere
+sui propri progetti). Quindi, generalmente, chi ha più esperienza,
+ha più influenza sul giudizio altrui e riesce a deviare la soluzione
+a suo favore.
 
-- @93Levante: Internet: l'unico sistema di comunicazione che non è
-gestito da un ente governativo
+- Nell’IETF si utilizza il "muggitometro": i membri emettono un
+suono molto simile a un muggito. È, quindi, una votazione qualitativa
+e non quantitativa. Questo evita molti problemi di natura pratica
+o eventuali contestazioni. È evidente quanto questa sia una concezione
+non gerarchica, ma paritaria.
 
-- @Xfox1:  dunque potremmo vedere internet come un ente a se stante!
+- La standardizzazione avviene attraverso l'RFC. 
 
-- @FabioVallone: Gli enti decidono come fare internet, mentre il
-governo può censurare alcune funzioni. Ad es Cina ha messo un grande
-filtro
-
-- @MesserPala: RT @DavidePalermo2:  È esistita un'età della pietra
-anche nella storia di Internet (riferimenti a fatti, cose, persone,
-eve…
-
-- @LucaNaldo4RD:  internet controllato dalle NGO e non dallo Stato!
-Alcuni governi vorrebbero imitare altri condannano.
-
-- @VadimCujba: In passato le comunicazioni erano gestite dai governi,
-lo sono anche ora!
-
-- @LucaNaldo4RD:  in Inghilterra le Accademie prendono il nome di
-Society .
-
-- @Antonio_Langiu: Internet in China: A giant cage | The Economist
-http://t.co/vWVgthVTDT
-
-- @LucaNaldo4RD:   Lunar Society perché si trovavano nelle notti
-di luna piena.
-
-- @SabryKarate: Internet Society: organizzazione no profit, attivata
-per obiettivi formativi, caritatevoli ed educativi.
-
-- @Carrattrezzi: Cina ed altri stati premono per un controllo
-statale. Come la Cina censura internet? Articolo dell'economist.
-
-- @FabioVallone: Internet Society: obiettivi formativi,
-caricatevoli,scientifici,facilitare l'evoluzione.Inoltre educare
-all'uso di internet
-
-- @SimoneBleynat: RT @FabioVallone: Internet Society: obiettivi
-formativi, caricatevoli,scientifici,facilitare l'evoluzione.Inoltre
-educare all'uso di intern…
-
-- @ripa_pepperipa: : Internet Society http://t.co/Q9D6PcKOkk
-
-- @SabryKarate: L'Internet Society, fondata nel 1992 in Virginia,
-si occupa di diffondere la cultura delle nuove tecnologie e di
+- RFC (Request For Comments
+http://it.wikipedia.org/wiki/Request_for_Comments ): è un documento
+in cui vengono esposte nuove idee o informazioni che, dopo essere
+state vagliate dall’IETF, possono diventare degli standard su
 Internet.
 
-- @Antonio_Langiu: Discussione su Internet society  (wiki page)
-http://t.co/QEXv3UHoz4
+- Gli RFC diventano gli standard di Internet dopo un periodo di 6
+mesi, in cui vengono commentati e discussi. Questi mesi possono
+portare o all'abbandono dell'idea oppure a modifiche. No obiezioni
+--> Standard
+
+- IANA (Internet Assigned Numbers Authority = autorità internet per
+i numeri assegnati
+http://it.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority
+): nasce nel 1988, dipende da ICANN. Inizialmente è rappresentata
+dalla persona fisica di Joe Postel. Il compito dell’organizzazione
+è il ‘global IP address allocation’ (allocazione globale degli
+indirizzi IP). Joe Postel gestisce gli indirizzi IP finché non
+diventano troppi e la gestione diventa commerciale.
+
+- IANA gestisce anche i server root del DNS. I server root sono le
+infrastrutture base che contengono gli indirizzi IP dei server.
+Sono 13 e sono protetti dal governo americano in quanto fondamentali
+per il collegamento a internet. Infatti, se dovessero essere fuori
+uso i server root del DNS, solo chi conosce l'indirizzo IP dei siti
+potrebbe usare Internet.
+
+Foto: http://t.co/lrfOwZlDSC
 
-- @Tech_OnTheRoad: Il braccio di ferro tra Apple e Samsung - A
-gestire il monopolio degli smartphone sono sempre di più Apple e...
-http://t.co/HuK6dShYIC
-
-- @FabioVallone: Internet Society:No-profit Fondata 1992 da Vint
-Cerf, Bob Khan.Basata in Virginia.Ha 50000membri.Chapter
-Nazionali/tematici
-
-- @FabioVallone: ISOC --&gt; Internet Society
-
-- @Carrattrezzi: 1992, Internet Society (ISOC) fondata da Vint Cerf,
-Bob Knan, ecc... con 50.000 membri. Mission? http://t.co/Et8DYb2DWn
-
-- @SabryKarate: IETF: Internet Engineering Task Force Fondato nel
-1986 http://t.co/mDlzriIS7i
-
-- @Ale_Cannone: 1986 nasce la IETF (Internet Engineering Task Force)
-
-- @FabioVallone: Prima di ISOC, IETF (Internet Engineering Tak
-Force) 1986 http://t.co/B3Rn9VW86d adesso fa parte di ISOC
-
-- @CaracciFabio: Il governo cinese limita la democrazia limitata
-nel web
-
-- @SabryKarate: "The goal of the IETF is to make the Internet work
-better"
-
-- @FabioVallone: ISO (International Standardization Organazation)
-ITU (International Telecomunication Union) servono per standardizzare
-
-- @ripa_pepperipa: :  http://t.co/sWBeqRw0XQ ... IETF:organizzazione
-intergovernativa nata prima di ISOC ma adesso dipendente da questa
-
-- @Carrattrezzi: Già nel 1986 IETF (http://t.co/GnPpXcZwBG) prendeva
-decisioni sugli standard. Diversamente da ISO E ITU chiunque partecipa
-
-- @FabioVallone: Tutti possono prendere parte a ISO e ITU pagando
-una quota di partecipazione ma solo previo consenso dei membri
-
-- @MesserPala: Ad IETF vanno persone!
-
-- @Ale_Cannone: IETF: alle riunioni può partecipare chiunque (con
-un pagamento di una quota)
-
-- @FabioVallone: By the way,riunioni IETF tutti possono partecipare
-senza dover chiedere il permesso.Viene chiesto di pagare costi
-logistici
-
-- @LucaLiuzzi: Non c'è una procedura ufficiale decisionale nelle
-riunioni di IETF.
-
-- @Rexsimo893: IETF, ormai parte di Internet Society, opera decisioni
-tecniche sulla base di "running code" e "rough consensus"
-
-- @FabioVallone: IETF: "Running Code"(codice funzionante) e "Raf
-Consensus"(mailing list per discutere, senza una vera votazione)
-
-- @SabryKarate: "Running code, rough consensus"  Serve mostrare il
-codice funzionante Si discute tramite mailing list per avere il
-consenso
-
-- @Ale_Cannone:  IETF "running code, rough consensus"
-
-- @Ale_Cannone:  rough consensus: strumento per prendere decisioni
-utilizzando la mailing list
-
-- @Carrattrezzi: Le decisioni di IETF tramite "running code e rough
-consensus" cioè mostrando il codice e con il consenso della mailing
-list
-
-- @FabioVallone: Nel IETF non c'è una vera struttura gerarchica ma
-chi ha più esperienza riuscirà a deviare la soluzione dove vuole
-lui
-
-- @FabioVallone: Nel IETF si utilizza il "muggimtometro" ovvero la
-votazione avviene in modo qualitativo e non quantitativo
-
-- @LucaLiuzzi: @toni_marvelli se qualcuno possieda influenza ha
-automaticamente un potere.Quello di influenzare gli altri.  @demartin
-
-- @SimoneBleynat: Non riuscirò a togliermi dalla mente il MUGGITOMETRO
-per un po'
-
-- @Ale_Cannone:  rough consensus: procedura decisionale quantitativa
-che evita ostacoli dal punto di vista procedurale...
-
-- @LucaNaldo4RD: RT @SimoneBleynat: Non riuscirò a togliermi dalla
-mente il MUGGITOMETRO per un po'
-
-- @MorenoLaQuatra: Rough consensus &amp; running code per l'IETF,
-una concezione non gerarchica ma paritaria.
-
-- @FabioVallone: @FabioVallone Errata corrige: "Rough Consensus",
-scusate per l'errore... XD
-
-- @Rexsimo893: IETF ha procedura decisionale quantitativa (rumore
-e mailing list) che evita problemi di natura pratica (es. contestazioni)
-
-- @FabioVallone: RFC (870 per esempio) = Request For Comments
-
-- @93Levante: RT @Tech_OnTheRoad: Il braccio di ferro tra Apple e
-Samsung - A gestire il monopolio degli smartphone sono sempre di
-più Apple e... http://…
-
-- @ripa_pepperipa: : Request For Comments http://t.co/9BvIdGDGLe
-
-- @FabioVallone: I commenti durante i 6 mesi di RFC possono portare
-o all'abbandono dell'idea oppure a mdifiche. No obiezioni --&gt;
-Standard
-
-- @SabryKarate: RFC: Request for Comments, documento con specifiche
-riguardanti innovazioni e tecniche dell'ambito informatico o Internet.
-
-- @EmaParrinello: La standardizzazione avviene attraverso l'RFC
-(request for comment)
-
-- @Carrattrezzi: Gli standard approvati dalla IETF è il numero della
-"RFC" seguito dal tempo di discussione e dallo stato di approvazione
-
-- @Rexsimo893: RFC( Request For Comments) diventano gli standard
-di Internet dopo che passano un periodo dove possono essere commentati
-
-- @SabryKarate: IANA: Internet Assigned Numbers Authority 1988,
-dipende da ICANN
-
-- @LucaLiuzzi: IANA - internet assigned numbers authority
-
-- @ripa_pepperipa: : Altra entità ---&gt; IANA http://t.co/JTXr2HZWWy
-
-- @venadavide: IANA: Internet Assigned Numbers Authority, 1988,
-dipende da ICANN
-
-- @Rexsimo893: IANA nasce con la persona di Joe Postel che gestiva
-indirizzi IP
-
-- @93Levante: Le prime tre organizzazioni a che gestiscono interne
-sono: ISOC(1992),IETF(1986) e IANA(1988)
-
-- @Ale_Cannone:  Joe Postel gestiva gli indirizzi IP
-
-- @SabryKarate: IANA, primo compito: Global IP address allocation.
-Allocazione degli indirizzi IP.
-
-- @EmaParrinello: Agli albori di internet Joe Postel rappresentava
-l'IANA di oggi
-
-- @ripa_pepperipa: : IANA distribuisce gli indirizzi IP
-
-- @Ale_Cannone: IP con cui ci connettiamo viene dato da --&gt;
-Provider ----&gt; IANA
-
-- @ripa_pepperipa: : IANA gestisce anche i server root del DNS
-
-- @Carrattrezzi: IANA (1988) e Joe Postel allocano gli indirizzi
-IP (prima alle persone poi agli ISP) e gestiscono i server root del
-DNS
-
-- @Rexsimo893: IANA: allocazione indirizzi IP, gestione server root
-del DNS
-
-- @Ale_Cannone:  gerarchia basata su catene di server DNS nella
-quale i pilastri sono i server root (che sono dell'ordine di una
-decina)
-
-- @Ale_Cannone:  i server root sono 13 e sono protetti dal governo
-americano in quanto fondamentali per il collegamento a internet
-
-- @SabryKarate: Se dovessero essere fuori uso i server root fel
-DNS, solo chi conosce l'indirizzo IP dei siti potrebbe usare
-Internet...
-
-- @ripa_pepperipa: : I server root --&gt; http://t.co/rBXogZIQ62
-
-- @Ale_Cannone:  per la prossima volta ICANN e IAB
-
-- @Carrattrezzi: I 13 server DNS contengono tutte le informazioni
-sui server a cui richiedere di risolvere i DNS
-
-- @paolopopolizio: : (aspetto giuridico) le leggi del codice civile
-e codice penale valgono anche per internet.
-
-- @paolopopolizio: : chi ha potere e decide su internet? la struttura
-di Government (inglese-americana)
-
-- @paolopopolizio: : organismi della struttura burocratica di
-Government: -ricercatori(Bob Kahn,Jon Paste) che un ONG organizz.
-non governative
-
-- @paolopopolizio: : Internet Society:1992 società no profit, gestita
-da Vint Cerf, Bob khan, Virginia; con 50000 membri
-
-- @paolopopolizio: : Internet Society: http://t.co/hvYDDqrjR7
-
-- @paolopopolizio: : Internet Society è un'organizzazione di diritto
-americano per la promozione dell'utilizzo e dell'accesso a Internet
-
-- @paolopopolizio: : Accanto a Internet Society si sono sviluppate
-delle sezioni locali (chapter) che si riconoscono nei principi di
-ISOC
-
-- @paolopopolizio: : IETF dipende da ISOC; Internet Engineering
-Task Force (1986) http://t.co/pMFD8YZ0rO
-
-- @paolopopolizio: : La IERTF è un organismo internazionale, libero,
-composto da tecnici interessati all'evoluzione tecnologica di
-Internet.
-
-- @paolopopolizio: : riunioni IETF: può partecipare chiunque previo
-pagamento quota di iscrizione per coprire le spese
-
-- @paolopopolizio: :  Rough consensus: http://t.co/Ai4GCWEAtR
-Consenso approssimativo http://t.co/HuxHkUtVDB
-
-- @paolopopolizio: :  Rough consensus: impone che il luogo di
-discussione sia la maining list
-
-- @paolopopolizio: : RFC: Request For Comments
-
-- @paolopopolizio: : RFC: documento che riporta informazioni
-riguardanti nuove ricerche e metodologie dell'ambito informatico o
-di Internet
-
-- @paolopopolizio: : RFC http://t.co/KC7R3QOmDv
-
-- @paolopopolizio: @RivoluzDigitale: IANA: Internet Assinged Numbers
-Authority=autorità internet per i numeri assegnati (dipende da
-ICANN)
-
-- @paolopopolizio: @RivoluzDigitale: IANA: è un organismo che ha
-responsabilità nell'assegnazione degli indirizzi IP http://t.co/YeTWYMYuIF
-
-- @paolopopolizio: : Joe Postel: gestisce gli indirizzi IP. University
-of Southern California
-
-- @paolopopolizio: : Joe Postel: gestisce gli indirizzi IP finché
-non diventano troppi e la gestione diventa commerciale
-
-- @paolopopolizio: : ICANN: gestisce i server root del DNS a livello
-mondiale (13 DNS base sono protetti dal governo americano)
 
 ## 2013-05-10
 
@@ -5465,686 +3836,359 @@ la caption delle immagini.
 
 ### @demartin
 
-- @SabryKarate: E' apprezzata, anche per nostra utilità, la
-live-tweeting della lezione, scrivendo una frase rappresentativa e
+- Il live-tweeting della lezione, e' apprezzato anche
+per la nostra utilià, scrivendo una frase rappresentativa e
 l'hashtag …
 
-- @stufi93: Inizio live tweeting RivoluzDigitale
-
-- @SabryKarate: Non c'è un determinismo tecnologico, la società
+- Non c'è un determinismo tecnologico, la società
 ed il contesto storico influenzano la nascita e diffusione delle
-invenzion…
+invenzioni
 
-- @a_loffreda: Noi oggi siamo nella fase della "diffusione di
-internet" RivoluzDigitale
+- Noi oggi siamo nella fase della "diffusione di
+internet" --> Rivoluzione Digitale
 
-- @EricaAcire19: Competenza scientifica=&gt; idea=&gt; invenzione=&gt;
-necessità sociale &amp;&amp; soppressione del potenziale radicale=&…
+- Competenza scientifica --> idea --> invenzione -->
+necessità sociale --> Diffusione <-- soppressione del potenziale radicale
 
-- @stufi93: La società influenza la diffusione di nuove tecnologie
-RivoluzDigitale
+- La necessità sociale influenza la diffusione di nuove tecnologie
 
-- @RivoluzDigitale: MT "@stufi93 Computer e internet, quali differenze
-a quali paralleli con telegrafo, radio, telefono, TV, etc...?
-RivoluzDigitale"
+- Iter seguito pressapoco da tutte le tecnologie,
+compresi computer e internet! --> http://t.co/d8swx4ypNJ
 
-- @LucaLiuzzi: Le tecnologie in passato sono state strettamente
-centralizzate.Con il computer e internet le cose cambiano.
-RivoluzDi…
+- Computer e internet: quali differenze
+e quali paralleli con telegrafo, radio, telefono, TV, etc...?
 
-- @FabioBussi: Con i computer e internet le regole del gioco non
-cambiano RivoluzDigitale
+- Le tecnologie in passato sono state strettamente
+centralizzate. Con il computer e internet le cose cambiano
 
-- @LorenzoCutelle: Iter seguito pressapoco da tutte le tecnologie,
-compresi computer e internet! RivoluzDigitale http://t.co/d8swx4ypNJ
+- Prima di parlare di computer, bisogna però introdurre il concetto di
+calcolatore, due tecnologie diverse tra loro
 
-- @RivoluzDigitale: @LorenzoCutelle bravo!
+- Gli sviluppi applicativi riguardavano il campo industriale.
 
-- @stufi93: Computer e calcolatori elettronici sono differenti.
-I primi calcolatori meccanici risalgono al '600 RivoluzDigitale
+- I primi calcolatori meccanici, intesi come macchine per fare calcoli, risalgono al '600
+e vengono usate fino all'800
 
-- @russomatteo93: Calcolatore: macchina per fare calcoli
-rivoluzdigitale
+- Gli antenati sono Pascal (al quale attribuiamo il primo calcolatore - '600 - anni della
+rivoluzione scientifica) e Leibniz, celebri filosofi/matematici
 
-- @Ale_Cannone: rivoluzdigitale calcolatore: macchina meccanicha
-per fare calcoli
+- Una delle prime necessità sociali proviene dal fatto che fare calcoli è noioso
 
-- @a_loffreda: per parlare di computer bisogna prima parlare del
-calcolatore, di cui si comincia a parlare nel XVII secolo RivoluzDigitale
+- Successivamente Nepier (Nepero) introduce le tavole di logaritmi nel
+1615
 
-- @ripa_pepperipa: RivoluzDigitale: I primi calcolatori, intesi
-come macchine per fare calcoli, risalgono al '600
+- Del 1805 ricordiamo il telaio di Jacquard, nel quale vengono usate per
+la prima volta le schede perforate
 
-- @MorenoLaQuatra: Pascal e il primo calcolatore del 1600, anni
-della prima rivoluzione scientifica RivoluzDigitale
+- In Inghilterra ciò scaturisce un interesse per il calcolo delle tavole nautiche
 
-- @RivoluzDigitale: MT "@a_loffreda Una delle prime necessità sociali
-proviene dal fatto che fare calcoli è noioso RivoluzDigitale"
+- George Boole (1815-1864) formalizza la logica
+umana con un metodo matematico. Chiarisce che i simboli usati non rappresentano
+per forza numeri, ma qualunque cosa riconducibile a numeri
 
-- @a_loffreda: Una delle prime necessità proviene dal fatto che
-fare calcoli è noioso RivoluzDigitale
+- Nel 1854, il libro "The laws of thought" (Le leggi del pensiero) di Boole da inizio alla
+logica algebrica, dalla quale successivamente, verra' sviluppata (non da Boole ma
+da suoi successori) la logica Booleana, oggi usata dai compiler
 
-- @SabryKarate: Nascono nel Seicento i calcolatori per "evitare
-il tedio di fare calcoli" RivoluzDigitale
-
-- @russomatteo93: Nepier introduce le tavole dei logaritmi nel
-1615 rivoluzdigitale
-
-- @LucaLiuzzi: Cos'è un computer?I primi calcolatori nel 600 con
-Pascal. RivoluzDigitale
-
-- @RivoluzDigitale: P.S. MT = modified tweet
-
-- @a_loffreda: Gli antenati??? Pascal e Leibniz! RivoluzDigitale
-
-- @russomatteo93: Pascal e Leibniz inventano macchine per fare
-calcoli che vengono usate fino al'800 rivoluzdigitale
-
-- @stufi93: Nel 1805 il telaio di Jacquard utilizza la scheda
-perforata RivoluzDigitale
-
-- @EricaAcire19: 1805 telaio di Jacquard con schede perforate.
-RivoluzDigitale
-
-- @MorenoLaQuatra: 1805, primo utilizzo di schede perforate con
-il Telaio di Jaquard RivoluzDigitale
-
-- @EmaParrinello: 1805..nel talaio di Jacquard vengono usate per
-la prima volta le schede perforate rivoluzdigitale
-
-- @SabryKarate: Nell'Ottocento, necessità di migliori calcoli
-delle tavole nautiche in Inghilterra RivoluzDigitale
-
-- @LucaLiuzzi: I primi calcolatori erano meccanici.Gli sviluppi
-applicativi erano nel campo industriale. RivoluzDigitale
-
-- @SoFranchy: All'inizio dell'800 si arriva a telai di Jacquard:
-usano schede perforate. Interesse inglese per calcolare tavole
-nautiche …
-
-- @ripa_pepperipa: RivoluzDigitale: nel 1805---&gt; Telaio di
-Jacquard (schede perforate)
-
-- @EricaAcire19: Boole chiarisce che i simboli usati non sono
-rappresentano per forza numeri, ma qualunque cosa riconducibile poi
-dei nume…
-
-- @LucaLiuzzi: George Boole (1815-1864) formalizza la logica
-umana con un metodo matematico.RivoluzDigitale
-
-- @stufi93: La logica booleana utilizzata oggi dai compiler viene
-sviluppata successivamente alla logica algebrica RivoluzDigitale
-
-- @bassosimone: Babbage: "I'm not able to apprehend the kind of
-confusion that could provoke such a question." RivoluzDigitale
+- Charles Babbage (1791-1871): "I'm not able to apprehend the kind of
+confusion that could provoke such a question."
 http://t.c…
 
-- @stufi93: Nel 1854 "the laws of thought" di Boole da inizio
-alla logica algebrica
+- Nel 1840, Babbage fu invitato a Torino, da Giovanni Plana, all'accademia delle
+scienze per presentare la sua macchina
 
-- @russomatteo93: George Boole 1854 scrive "The Laws of Throught"
-=&gt; logica algebrica da cui viene sviluppata la logica booleana
-rivol…
+- Egli voleva calcolare funzioni polinomiali molto
+velocemente e con precisione
 
-- @EmaParrinello: La logica booleana in realtà è stata sviluppata
-dai successori di Boole rivoluzdigitale
+- Per questo creò un calcolatore puramente meccanico, il Difference Engine (1822).
+Tale non venne mai costruito
 
-- @FabioVallone: RivoluzDigitale nel 1854 Boole pubblica un libro
-chiamato "The Laws of Thaught" che riguarda la logica algebrica
+- Il dispositivo era di una notevole complessità e di grandi dimensioni strutturali:
+basti pensare che richiedeva l'assemblaggio di 25.000 parti, e la macchina completa
+sarebbe stata alta circa due metri e mezzo, larga due metri e profonda uno, con un peso di varie tonnellate.
 
-- @EmaParrinello: Il computer si differenzia dal calcolatore
-perchè è in grado di manipolare non solo numeri ma simbolirivoluzdigitale
+- Il passaggio avviene quando non si cercano più macchine per fare solo
+calcoli su numeri ma macchine che elaborino anche simboli. E' proprio per
+questo che il computer si differenzia dal calcolatore
 
-- @stufi93: Il passaggio avviene quando non si cercano più
-macchine per fare solo calcoli ma macchine che elaborino simboli
-RivoluzDigita…
+- Da Boole a Turing: i simboli iniziano ad essere
+associati a informazioni rappresentabili con numeri
 
-- @FabioVallone: Il passaggio successivo è di creare computer
-che non manipola solo numeri ma anche dei simboli RivoluzDigitale
-
-- @a_loffreda: Il passaggio successivo è quello di poter manipolare
-dei simboli RivoluzDigitale
-
-- @stufi93: Babbage fu invitato a Torino all'accademia delle
-scienze per presentare la sua macchina RivoluzDigitale
-
-- @stufi93: Babbage vuole calcolare funzioni polinomiali molto
-velocemente e con precisione RivoluzDigitale
-
-- @SabryKarate: Charles Babbage creò un calcolatore puramente
-meccanico, il Difference Engine: calcolo funzioni polinomiali
-RivoluzDigita…
-
-- @a_loffreda: Charles Babbage (1791-1871) presenta la sua
-macchina a Torino RivoluzDigitale
-
-- @LucaLiuzzi: Charles Babbage (1791-1871).La sua prima creatura
-è il Difference Engine per calcolare funzioni polinomiali.
-RivoluzDigita…
-
-- @SimoneBleynat: Da Boole a Turing: i simboli iniziano ad essere
-associati a informazioni rappresentabili con numeri RivoluzDigitale
-
-- @StefanoFranz20: Charles Babbage(1792-1871) la sua prima
-creazione fu il "difference engine" del 1822  rivoluzdigitale
-
-- @russomatteo93: Charles Babbage progetta la "Difference Engine"
-(1822) che effettua calcoli di funzioni polimoniali (non fu mai
-costruit…
-
-- @a_loffreda: Babbage scrive il  "Difference Engine" (1822)
-ideaizza un calcolatore per funzioni polinomiali RivoluzDigitale
-
-- @ripa_pepperipa: RivoluzDigitale: l'obiettivo di Charles Babbage
-era di creare una macchina in grado di calcolare funzioni polinomiali.
-
-- @SabryKarate: Poi Babbage ideò l'Analytical Engine, calcolatore
-general pourpose, programmabile con schede perforate RivoluzDigitale
-
-- @a_loffreda: Successivamente Babbage propone il "Analitic
+- Successivamente Babbage propone l' "Analitic
 Engine"  primo calcolatore general-purpose, programmabile con schede
-perforate…
+perforate dall'utente dedicato, a una sola applicazione
 
-- @stufi93: Babbage idealizza anche l'Analytical Engine, calcolatore
-general-purpose programmabile con schede perforate RivoluzDigitale
+- I vantaggi erano: controllo sequenziale, looping,
+branching (if, else). La novità era la distinzione netta tra dati e istruzioni
 
-- @FabioVallone: La macchina di Babbage chiamata Difference
-Engine per calcoli polinomiali fu costruita tardi a causa della sua
-complessit…
+- Prima programmatrice della storia? --> Ada Lovelace (1815 -1852), figlia legittima del poeta
+Lord Byron
 
-- @LucaLiuzzi: Analytical Engine.la seconda creazione di
-Bubbage.Programmabile con schede perforate (quindi general purpose).
-RivoluzDigi…
+- Nel 1936 Alan Turing pubblica un articolo: "On computable numbers"
 
-- @EricaAcire19: Analytical Engine, general-purpose, schede
-perforabili, controllo sequenziale, branching (if, else), looping.
-RivoluzDig…
-
-- @bassosimone: RivoluzDigitale Analytical engine: fondamentale
-la distinzione tra dati e programma
-
-- @a_loffreda: Un calcolatore "general-purpose"  è un calcolatore
-riprogrammabile dall'utente dedicato a una sola applicazione
-RivoluzDig…
-
-- @stufi93: Il vantaggio erano: controllo sequenziale, looping,
-branching. La novità era la distinzione netta tra dati e istruzioni
-Rivol…
-
-- @russomatteo93: Con l'Analitical Engine si ha una distinzione
-netta tra dati e istruzioni rivoluzdigitale
-
-- @FabioVallone: Le caratteristiche di Analiytical Engine sono:
-Programmabile Controllo seq. branching, looping, distinzione
-dati-istruzio…
-
-- @RivoluzDigitale: @StefanoFranz20 usa RivoluzDigitale non
-@RivoluzDigitale
-
-- @RivoluzDigitale: @stufi93 non sono sicuro si possa dire elettroniche;
-meglio elettrico + schede perforate
-
-- @Ale_Cannone: rivoluzdigitale 1936: Alan Turing pubblica un
-articolo "On computable numbers"
-
-- @RivoluzDigitale: @stufi93 sono andato a cercare su Wikipedia,
-dice che l'elettronica si sviluppa dopo WWI con le valvole e la
+- Parentesi: Quando si sviluppa l'elettronica? --> dopo la I Guerra Mondiale con le valvole e la
 radio (http://t.co/NeJ8bKZo17)
 
-- @RivoluzDigitale: @StefanoFranz20 no problem ;-)
+- Negli anni '30 con la parola computer si intendeva
+una persona  fisica in grado di fare calcoli a mano per scopi balistici
 
-- @FabioVallone: Negli anni '30 con la parola computer si intendeva
-una persona  fisica che fa calcoli a mano per scopi balistici
-Rivoluz…
-
-- @FabioVallone: Nessuno prima di Turing aveva pensato una
+- Nessuno prima di Turing aveva pensato una
 macchina che reagisca in modo diverso a secondo dello stato dei
-dati che legge …
+dati che legg
 
-- @RivoluzDigitale: @EricaAcire19 Turing :-)
+- Egli immagina una macchina capace di eseguire istruzioni
+elementari leggendo dati ed istruzioni in sequenza sulla base del suo
+stato
 
-- @SabryKarate: Turing immagina una maccjina che esegue istruzioni
-elementari leggendo dati ed istruzioni in sequenza su base del suo
-stat…
+-Tale calcolatore era una macchina molto più versatile: non si tratta
+solo di un calcolatore, ma anche di un operatore di simboli
 
-- @SabryKarate: Nuova necessità sociale:  Seconda Guerra Mondiale,
-nel 1940 necessità di tavole balistiche per l'esercito americano
-Rivol…
+- Nuova necessità sociale: a) Seconda Guerra Mondiale,
+nel 1940 necessità di tavole balistiche per l'esercito americano;
+b) Crittografia
 
-- @SabryKarate: Claude Shannon inventa la TEORIA DELL'INFORMAZIONE
-RivoluzDigitale
+- Claude Shannon, matematico, inventa la TEORIA DELL'INFORMAZIONE, basata sulla 
+quantificazione di quest'ultima.
 
-- @EricaAcire19: Claude Shannon, matematico , inventa teoria
-dell’informazione. rivoluzDigitale
+- La nuova necessità sociale per il computer, dopo la Seconda Guerra Mondiale,
+non riguardava le aziende ma motivi di sicurezza nazionale:
+---> 1948 calcoli per bomba H e guerra fredda. Ciò ne aumentò il suo sviluppo!
 
-- @stufi93: Viene inventata "la teoria dell'informazione" da
-Claude Shannon RivoluzDigitale
-
-- @RivoluzDigitale: @FabioVallone Shannon
-
-- @Rexsimo893: Nuova necessità sociale per il computer dopo la
-guerra: 1948 bomba H e guerra fredda RivoluzDigitale
-
-- @EricaAcire19: Finisce WW II, il computer si sviluppano molto
-per calcoli bomba a H (motivi di sicurezza nazionale, guerra fredda).
-Riv…
-
-- @FabioVallone: Nella MIT fanno un gruppo di ricerca interdisciplinare
-per riuscire a sviluppare armi più sofisticate RivoluzDigitale
-
-- @stufi93: Nasce il Laboratorio Radar presso l'MIT, formato da
+- Nasce il Laboratorio Radar presso l'MIT, formato da
 gruppi interdisciplinari. Ottengono risultati straordinari
-RivoluzDigitale
 
-- @FabioVallone: Dopo l'esperienza della MIT si diffondo in tutta
-l'America gruppi di studi interdisciplinare RivoluzDigitale
+- RAD LAB http://t.co/rhwbfTzB80  RivoluzDigitale
 
-- @stufi93: RAD LAB http://t.co/rhwbfTzB80  RivoluzDigitale
+- Per questo, dopo l'esperienza della MIT si diffondo in tutta
+l'America gruppi di ricerca interdisciplinare per riuscire a sviluppare armi 
+più sofisticate
 
-- @SabryKarate: Norbert Wiener, inventore della cibernetica
-RivoluzDigitale
+- Norbert Wiener, da vita ad un sistema in cui un modello matematico 
+prende in considerazione anche l'uomo. (rapporto macchina-uomo-società)
 
-- @FabioVallone: Norbert Wierner fa un sistema di puntamento in
-cui c'è un modello matematico che prende in considerazione anche
-l'uomo. …
+- Con l'esperienza di Wierner si pongono le basi per un nuovo campo 
+di ricerca: la cibernetica 
 
-- @FabioVallone: Con l'espperienza di wierner si pongono le basi
-della cibernetica (rapporto uomo-macchina-società) RivoluzDigitale
+- Inizialmente i computer si presentano come Mainframe: grossi, 
+costosi (per scelta politica) e difficili da usare (scelta tecnica) 
+(Anni '40 - '60). In questo modo l'utilizzo veniva permesso solo a grandi aziende
 
-- @giuli93: Norbert Wiener crea un nuovo campo di ricerca: la
-Cibernetica RivoluzDigitale
+- Era possibile averne di più piccoli e meno potenti, ma vennero rifiutati 
+per definizione
 
-- @CaracciFabio: RivoluzDigitale  Norbert Wiener fondatore della
-cibernetica
+- Le caratteristiche dei MainFrame hanno contribuito
+a tenere tale tecnologia poco sviluppata
 
-- @ripa_pepperipa: RivoluzDigitale: Norbert Wiener inaugura una
-riflessione tra macchina, uomo e società!
+- "Insegniamo a programmare a tutti" frase status
 
-- @SabryKarate: Inizialmente i computer si presentano come
-Mainframe, grossi, difficili da usare e costosi RivoluzDigitale
+- Gli ingegneri iniziano a scrivere in binario ('40-'60). Opponendosi ai linguaggi
+di programmazione. Tale decisione implica la non accessibilità alla tecnologia 
+per molti.
 
-- @FabioVallone: Anni '40- '60 il computer si diffonde com
-MainFrame = Grossi, costosi, difficili da usare RivoluzDigitale
+- a proposito di programmare sul
+"nudo metallo" - http://t.co/4pbshpC1Vl
+    
+- In Estonia si insegna a programmare ai bambini,
+antitesi rispetto all'approccio degli anni '40-'60
 
-- @stufi93: Negli anni '40-'60 il computer si diffonde come
-Mainframe. Computer molto potenti, grossi e costosi RivoluzDigitale
+- I computer moderni nascono con le valvole, sostituite poi dai transistor discreti 
+e rimpiazzati da circuiti integrati.
 
-- @ripa_pepperipa: RivoluzDigitale: Mainframe = computer molto
-potente, grosso, costoso e difficile da usare!
-
-- @stufi93: Mainframe difficile da usare, era possibile averne
-di più piccoli e meno potenti, ma vengono rifiutati per definizione
-Rivolu…
-
-- @FabioVallone: I mainframe sono stati fatti grossi e costosi
-per scelta. In questo modo se lo potevano permettere solo grandi
-aziende R…
-
-- @stufi93: "Insegniamo a programmare a tutti" frase status
-RivoluzDigitale
-
-- @FabioVallone: I MainFrame fu difficile da utilizzare in modo
-da tenere la possibilità di utilizzo solo in una stretta cerchia
-di person…
-
-- @EricaAcire19: ingegneri scrivono in binario,si oppongono ai
-linguaggi di programmazione, le competenze rimangono nel loro
-circoloRivol…
-
-- @bassosimone: RivoluzDigitale: a proposito di programmare sul
-"nudo metallo" :-) - http://t.co/4pbshpC1Vl
-
-- @FabioVallone: Le caratteristiche dei MainFrame hanno contribuito
-a tenere tale tecnologia poco sviluppata RivoluzDigitale
-
-- @LucaLiuzzi: Anni '40 e '60.La decisione di programmare in
-binario implica la non accessibilità alla tecnologia per molti.
-RivoluzDigit…
-
-- @EricaAcire19: La prima tecnologia per costruire i computer
-sono le valvole, poi transistor discreti e poi circuiti integrati.
-RivoluzD…
-
-- @FabioVallone: Tecnologie dei computer: Valvole -&gt; Transistor
--&gt; Circuito integrato (+ transistor assieme) -&gt; Microprocessore
-…
-
-- @SimoneBleynat: In Estonia si insegna a programmare ai bambini,
-antitesi rispetto all'approccio degli anni '40-'60 RivoluzDigitale
-
-- @stufi93: Dal punto di vista tecnologico le innovazioni sono
-le valvole, sostituite dai transistor, rimpiazzati da circuiti
-integrati R…
-
-- @FabioVallone: IBM rimane sempre un passo indietro nelle
+- IBM rimane sempre un passo indietro nelle
 tecnologie dei pc, in quanto continua a vendere le vecchie tecnologie
-RivoluzD…
 
-- @SabryKarate: Microprocessore: unisce ALU e CPU RivoluzDigitale
+- Alla fine degli anni '60, si sviluppa interesse per calcolatrici basate su 
+circuiti integrati, per farne un uso personale
 
-- @stufi93: L'ultimo step sono i microprocessori, che costituiscono
-i computer di oggi! RivoluzDigitale
+- Circuiti integrati + transistor -&gt; Microprocessori che costituiscono 
+i computer di oggi.
 
-- @stufi93: I microprocessori inglobavano le unità logiche
-aritmetiche (ALU) RivoluzDigitale
+- I microprocessori inglobano le unità logiche
+aritmetiche (ALU) e i registri
 
-- @FabioVallone: Con lo sviluppo dei circuiti integrati si iniziò
-a produrre macchine calcolatrici per uso "personale" RivoluzDigitale
+- RAM, ROM, Input e Output vengono inglobati in un unico
+circuito integrato
 
-- @stufi93: RAM, ROM Input e Output vengono inglobato in un unico
-circuito integrato RivoluzDigitale
+- necessità sociale del microprocessore:
+la portabilità dei calcolatori
 
-- @EricaAcire19: Com’è nato il microprocessore? Necessità:
-calcolatrice portabile con RAM, ROM, I/O, microprocessore (ALU+registri),
-1969 …
-
-- @Ale_Cannone: rivoluzdigitale necessità sociale del microprocessore:
-la portabilità dei calcolatori che cosí venivano utilizzati anche
-…
-
-- @StefanoFranz20: Intel Fondata da Gordon Moore famoso per la
+- Intel: Fondata da Gordon Moore famoso per la
 legge sull'evoluzione del numero di transistor integrati nei
-microprocessor…
+microprocessori
 
-- @stufi93: 1969 sono 4 anni che in USA gli studenti protestano
-contro il computer, oggetto considerato del sistema RivoluzDigitale
+- 1969 sono 4 anni che in USA gli studenti protestano
+contro il computer, in quanto vedono in questo il simbolo
+del sistema
 
-- @EricaAcire19: Gli studenti del 1969 criticano il computer
-come parte del sistema rivoluzDigitale
+- Gli studenti girano con al collo una scheda perforata
+esclamando "io non sono un numero"
 
-- @stufi93: Gli studenti girano con al collo una scheda perforata
-esclamando "io non sono un numero" RivoluzDigitale
+- Il computer veniva visto come una macchina fondamentale
+per il controllo sociale.
 
-- @FabioVallone: Gli studenti degli anni '60 vedono nel computer
-il simbolo del "sistema" e perciò la criticano RivoluzDigitale
+- Dello stesso anno, ricordiamo la nasciata della calcolatrice
+Giapponese: IC
 
-- @RivoluzDigitale: RivoluzDigitale: idea di strumento di calcolo
-a disposizione dell'individuo, e non del sistema.
+- L'idea era quella di creare uno strumento di calcolo
+a disposizione dell'individuo, e non del sistema. Per questo si
+inizia ad avere il desiderio per i computer
 
-- @FabioVallone: Si inizia ad avere il desiderio per un computer
-(come altri strumenti) al servizio dell'individuo RivoluzDigitale
+- Uno dei primi personal computer: Olivetti P101,
+anno 1966 http://t.co/2CiD67M9yS
+    
+- Per chi fosse interessato al programma 101 Olivetti
+--&gt; http://t.co/HNUCCmn5tE
 
-- @StefanoFranz20: Uno dei primi personal computer Olivetti P101
-anno 1966 RivoluzDigitale http://t.co/2CiD67M9yS
+- "The whole Earth Catalogue" by Stewart Brand è una
+raccolta di strumenti personali che pubblicizza anche l'utilizzo
+del computer http://t.co/JXpGAmtDnf
 
-- @FabioVallone: S. Brand fa "The Whole Earth Catalogue" in cui
-ci sono tutti gli strumenti personali. Tra questi c'è anche il
-computer R…
+- "Desidero uno strumento per esprimermi, per fare ciò
+che voglio" - nuova mentalità
 
-- @stufi93: "the whole earth catalogue" by Stewart Brand è una
-raccolta di strumenti personali e ne pubblicizza l'utilizzo
+- Ivan Illich parla della "convivialità". Egli immagina
+strumenti al servizio dell'uomo per realizzare i suoi
+desideri (e non viceversa)
 
-- @FabioVallone: S. Brand fa "The Whole Earth Catalogue" in cui ci
-sono tutti gli strumenti personali. Tra questi c'è anche il computer
-
-- @stufi93: "Desidero uno strumenti per esprimermi, per fare ciò
-che voglio" - nuova mentalità 
-
-- @stefano_bitto: Per chi fosse interessato al programma 101 Olivetti
---&gt; http://t.co/HNUCCmn5tE 
-
-- @FabioVallone: Ivan Illich parla della "convivialità". Si immagina
-strumenti che sono al servizio dell'uomo per realizzare i suoi
-desideri 
-
-- @EricaAcire19: Ivan Illich immagina strumenti al servizio dell’uomo
-per realizzare i suoi desideri di convivialità. 
-
-- @SabryKarate: Ivan Illich immagina strumenti conviviali: macchine
-al servizio dell'uomo (e non viceversa) 
-
-- @stufi93: Ivan Illich si immagina strumenti conviviali che siano
-al servizio dell'uomo, e non viceversa 
-
-- @FabioVallone: Strumenti conviviali = macchine al servizio dell'uomo
-( e non viceversa ) 
-
-- @EricaAcire19: In pochi anni il prezzo di un microprocessore
-crolla. #rivoluzDigitale
-
-- @FabioVallone: Nel giro di pochi anni il costo dei microprocessori
+- Nel giro di pochi anni il costo dei microprocessori
 si abbassa notevolmente, permettendo la diffusione dei calcolatori
+permettendo la diffusione di massa di congegni elettronici
 
-
-- @StefanoFranz20: l'uscita di microprocessori economici ha permesso
-la diffusione di massa di congegni elettronici 
-
-- @stufi93: Nuovo contesto culturale + microprocessori sempre più
+- Questo nuovo contesto culturale + microprocessori sempre più
 economici = aziende amatoriali iniziano ad assemblare computer
 
-- @FabioVallone: Altair fu un'azienda che permise di costruire i
-pc a casa propria tramite l'invio dei pezzi necessari e a bassi
-costi 
+- Altair ad esempio, fu un'azienda che permise di costruire i
+pc a casa propria tramite l'invio dei pezzi necessari e i bassi
+costi
 
-- @SimoneBleynat: Rimane il classico dubbio: sono le macchine al
+- Rimane il classico dubbio: sono le macchine al
 nostro servizio o siamo noi ad essere al servizio delle macchine?
 
-- @stufi93: In questo clima culturale Steve Jobs e Steve Wozniak
-@stevewoz fondano la Apple in un garage 
+- In questo clima culturale Steve Jobs e Steve Wozniak eRonald Wayne 
+fondano la Apple nel 1976, a Cupertino, nella Silicon Valley, in
+California
 
-- @FabioVallone: I primi Hacker nacquero nell'ambito della telefonia
+- "Mai fidarsi di un computer che non si può gettare
+dalla finestra" cit. #SteveWozniak
 
-- @SimoneBleynat: "Mai fidarsi di un computer che non si può gettare
-dalla finestra" cit. #SteveWozniak 
+- I primi Hacker nacquero nell'ambito della rete telefonica
 
-- @SabryKarate: Apple venne fondata da Steve Jobs, Steve Wozniak e
-Ronald Wayne nel 1976, a Cupertino, nella Silicon Valley, in
-California 
-
-- @FabioVallone: Tramite un fischietto si poteva far entrare la
+- Tramite un fischietto si poteva far entrare la
 centrale dei telefoni in modalità libera, riuscendo a fare telefonate
-gratis 
+gratis
 
-- @FlavioGiobergia: E si parla di Captain Crunch a 
-:-) E comunque son 2600Hz, non 2400
+- Cereali del fischietto "magico" per le telefonate!!
+http://t.co/4djqbKphvL
 
-- @Rexsimo893: Telefonate gratuite utilizzando un fischietto nelle
-confezioni dei cereali 
+- Dopo il protezionismo, con lo stesso clima s’iniziano a costruire computer
+DIY
 
-- @stufi93: I primi hacker nascono dalla rete telefonica 
+- Jobs e Wozniak intuiscono che il computer deve essere
+una macchina intuitiva e accessibile a tutti
 
-- @FabioVallone: Cereali del fischietto "magico" per le telefonate!!
-http://t.co/4djqbKphvL 
-
-- @EricaAcire19: Reintrodotto diritto al fare la birra in casa dopo
-protezionismo, con lo stesso clima s’iniziano a costruire computer
-DIY #rivoluzDigitale
-
-- @stufi93: Jobs e Wozniak intuiscono che il computer deve essere
-una macchina intuitiva e accessibile a tutti 
-
-- @stufi93: Questa filosofia farà la fortuna della Apple 
+- Questa filosofia farà la fortuna della Apple
 #apple
 
-- @FabioVallone: Apple 2 come macchina conviviale? 
+- L'Apple II viene considerata come macchina conviviale
 
-- @EricaAcire19: Apple II come macchina conviviale? #rivoluzDigitale
-
-- @StefanoFranz20: Oltre ad essere il primo pc prodotto da Apple
-fu anche il primo ad avere successo industriale 
+- Oltre ad essere il primo pc prodotto da Apple
+fu anche il primo ad avere successo industriale
 http://t.co/LeNEdumlnu
 
-- @FabioVallone: Jobs + Wozniak = Apple 
+- Dietro a Jobs e Wozniak ci fu qualcuno che finanziò
+il progetto Apple e ne rese possibile lo sviluppo. Favorevole anche
+a tale sviluppo il contesto culturale!
 
-- @stufi93: L'Apple II viene considerato come macchina conviviale
+- Un’azienda non è solo l’idea, ma anche immagine,
+gestione azienda, etc.
 
-- @FabioVallone: Dietro a Jobs e Wozniak ci fu qualcuno che finanziò
-il progetto Apple e ne rese possibile lo sviluppo 
-
-- @stufi93: Wozniak e Jobs sono riuscì a creare un'azienda così
-giovani grazie ad un contesto culturale che glielo ha permesso
-
-- @EricaAcire19: Un’azienda non è solo l’idea, ma anche immagine,
-gestione azienda, etc. #rivoluzDigitale
-
-- @SimoneBleynat: NB: #BillGates e #SteveJobs non hanno fatto fortuna
+- NB: #BillGates e #SteveJobs non hanno fatto fortuna
 dal niente: c'era chi staccava gli assegni dietro di loro
 
-- @FabioVallone: I micro computer diventano mini computer e infine
-Personal Computer 
+- L'evoluzione: Mainframe --> Minicomputer --> Microcomputer --> Personal
+computer (per l'individuo)
 
-- @SabryKarate: Mainframe - Minicomputer - Microcomputer - Personal
-computer 
-
-- @stefano_bitto: A Stanford negli anni '60 ci si chiede come
+- A Stanford negli anni '60 ci si chiede come
 utilizzare i computer a scopo educativo. In Italia si comincia nel
-2010 
+2010
 
-- @stufi93: Dai mini computer si passa ai micro computer per poi
-arrivare ai personal computer! L'evoluzione correva veloce
+- Il computer diventa meno costoso e può anche essere
+utilizzato da personale non specializzato
 
-- @FabioVallone: Personal Computer = per l'individuo 
-
-- @SabryKarate: Il computer diventa meno costoso e può anche essere
-utilizzato da personale non specializzato 
-
-- @ripa_pepperipa: : Gli studenti degli anni '60
-vedevano il computer come una macchina fondamentale per il controllo
-sociale!
-
-- @Ale_Cannone:  sono il contesto favorevole e i
+- sono il contesto favorevole e i
 30 anni di cultura del computer che danno il via alla nascita di
 aziende come Apple
 
-- @stufi93: "Perché non abbiamo nessuna foto della terra nella sua
-interezza"Frase che contribuirà alla nascita del think ambientalista
+- "Perché non abbiamo nessuna foto della terra nella sua interezza?"
+Frase che contribuirà alla nascita del think ambientalista
 
-- @SabryKarate: The Whole Earth Catalog: http://t.co/JXpGAmtDnf
+- Wozniak da gli schemi hardware dei computer Apple,
+ritenuti accessibili a tutti
 
-- @stufi93: Wozniak da gli schemi hardware dei computer Apple,
-ritenuti accessibili a tutti 
+- L'IBM compra il software da un ragazzo chiamato Bill
+Gates
 
-- @stufi93: L'IBM compra il software da un ragazzo chiamato Bill
-Gates 
+- Il modello fondamentale del PC: compra l'Hardware
+conoscibile e il Sistema Operativo. Poi fai girare qualsiasi 
+applicativo che sia stato scritto per esso"
 
-- @FabioVallone: modello fondamentale PC: io compro Hardware
-conoscibile, Sistema Operativo e gli applicativi 
+- L'aspetto negativo dell'Open Software fu il lato sicurezza: 
+posso installare software con intenti maliziosi,virus senza volerlo -->
+diffusione di virus e malware
 
-- @stefano_bitto: Chi era colui che si era chiesto perché non si
-possedeva nessuna foto delle Terra? 
+- L'aspetto positivo è la libertà dell'utente e la generativita' (Johnaatan Zittrain),
+ ovvero chiunque può programmare
 
-- @stufi93: Viene presa una decisione fondamentale: compri il
-pacchetto hardware+software e puoi installarci sopra tutti i programmi
+- Oggi per la Apple non è più così (con IOS/OSX): su iDevices si possono
+installare solo applicazioni provenienti dall'App Store
 
-- @FabioVallone: La filosofia è:"Compri l'Hardware con Sistema
-Operativo e fai girare qualsiasi applicativo che sia stato scritto
-per esso" 
-
-- @EricaAcire19: si compra hardware+sistema operativo, e poi si fa
-girare tutto il software che si vuole (Apple non è più così con
-IOS/OSX). 
-
-- @stufi93: Oggi per la Apple non è più così: su iDevices si possono
-installare solo applicazioni provenienti dall'App Store 
-
-- @FabioVallone: Con lo sviluppo dell'Open Source Linux, ci fù la
-disacoppiazione tra hardware e software 
-
-- @stefano_bitto: @bassosimone Grazie :-)
-
-- @stufi93: L'aspetto negativo è il lato sicurezza: inizia la
-diffusione di virus e malware 
-
-- @FabioVallone: Il lato negativo dell'Open Software è la sicurezza:posso
-installare software con intenti maliziosi,virus senza volerlo
-
-- @stufi93: L'aspetto positivo è la libertà dell'utente 
-
-- @SabryKarate: La libertà negli applicativi ha aspetti - Negativi:
-sicurezza, virus,... - Positivi: libertà dell'utente 
-
-- @stufi93: Fine live tweeting, il treno mi attende 
-
-- @CaracciFabio: La apple vuole mantenere il controllo sulle
+- La apple vuole mantenere il controllo sulle
 applicazioni installabili limitando chiaramente la libertà degli
-utenti 
+utenti
 
-- @FabioVallone: Lati positivi Open Software: Libertà utente,
-generatività (Johnaatan Zittrain) ovvero chiunque può programmare
+- Con lo sviluppo dell'Open Source Linux, ci fù la
+disacoppiazione tra hardware e software
 
-- @FabioVallone: La prima applicazione di successo ("Killer
-application") fu il fogli di calcolo(VisiCalc) ma anche Word
-Processing 
+- La prima applicazione di successo ("Killer
+application") fu il foglio di calcolo(VisiCalc) ma anche Word
+Processing
 
-- @SabryKarate: Prima applicazione di successo il foglio di calcolo
-(Visi Calc) ma anche word processing 
+- Il Word Processing sul PC è molto più flessibile
+rispetto alla macchina da scrivere elettrica
 
-- @FabioVallone: Il Word Processing sul PC è molto più flessibile
-rispetto alla macchina da scrivere elettrica 
+- Piattaforme mobile attuali: i gatekeeper sono Apple
+e Google che decidono cosa può girare sui dispositivi
 
-- @FabioVallone: Piattaforme mobile attuali: i gatekeeper sono Apple
-e Google che decidono cosa può girare sui dispositivi 
+- I personal computer sono general Purpose Computer = Computer costruiti per
+un uso non specifico
 
-- @SabryKarate: Piattaforma mobile attuali: specchio di come poteva
-nascere il computer 
+- Sistema operativo:  MS-DOS e poi Windows per PC IBM e
+MAC OS per Apple
 
-- @FabioVallone: General Purpose Computer = Computer costruiti per
-un uso non specifico 
+- Linux per tutto...la libertà incrementa
+esponenzialmente! --> (software libero)
 
-- @SabryKarate: Sistema operativo:  MS-DOS e poi Windows per PC IBM
-MAC OS per Apple 
+- "Linux" viene creato da Linus Torvald. Consiste in un sistema operativo
+molto flessibile in quanto si adatta a qualsiasi hardware con
+microprocessore
 
-- @EricaAcire19: -MS-DOS e poi Windows per PC-IBM.  -MAC OS per
-Apple #rivoluzDigitale
+- Per un lungo periodo i computer rimasero "sconnessi"
+tra loro(erano come delle macchine da scrivere in quanto erano "isolati")
 
-- @Ale_Cannone:  ms-dos e poi windows per IBM mentre
-mac os per Apple
+- Questi computer si diffondono con lentezza e attraverso una lunga
+campagna pubblicitaria
 
-- @ripa_pepperipa: : I gatekeeper sono Apple e
-Google che decidono cosa può girare sui dispositivi!
+- L'idea era quella di connetterli tra di loro
+--> Networking, nasce quasi subito dopo
+l'invenzione dei primi PC
 
-- @FabioVallone: Sistemi Operativi: MS-DOS e poi Windows per PC
-IBM; MAC OS per Apple; Linux per tutto... (software libero)
+- Internet è nato per connettere tra di loro i Mainframe
+ma poi venne utilizzato anche per interconnettere i PC tra
+loro
 
-- @conwused: @bassosimone mi hanno detto che sono due persone
-diverse, peccato.
-
-- @LorenzoCutelle: MC-DOC (poi Windows) per PC IBM, MAC OS per
-Apple, LINUX per tutti! 
-
-- @FabioVallone: Linus Torvald crea "Linux" un sistema operativo
-molto flessibile perchè si adatta a qualsiasi hardware con
-microprocessore 
-
-- @ripa_pepperipa: : con Linux la libertà incrementa
-esponenzialmente!
-
-- @SabryKarate: All'inizio i computer sono però isolati tra di loro,
-non hanno un legame 
-
-- @EricaAcire19: Questi computer si diffondono con lentezza, lunga
-campagna pubblicitaria, ma per lungo periodo sono sconnessi fra
-loro. #rivoluzDigitale
-
-- @FabioVallone: Per un lungo periodo i computer rimasero "sconnessi"
-tra loro(erano come le macchine da scrivere in quanto erano "isolati")
-
-- @FabioVallone: L'idea del Networking nasce quasi subito dopo
-l'invenzione dei computer 
-
-- @EricaAcire19: il networking (come idea) nasce con i primi
-computer... #rivoluzDigitale
-
-- @SabryKarate: Networking: idea nasce presto, per interconnettere
-i computer 
-
-- @Ale_Cannone:  L'idea del networking nasce quasi
-subito dopo l'invenzione del PC
-
-- @SabryKarate: Internet è nato per connettere tra di loro i Mainframe
-
-- @FabioVallone: Internet è nata per connettere i MainFrame tra
-loro, ma poi venne utilizzate anche per interconnettere i PC tra
-loro 
-
-- @EricaAcire19: Quando s’intersecano il networking e i milioni di
+- Quando s’intersecano il networking e i milioni di
 computer presenti , si può parlare di rivoluzione digitale.
-
-- @SabryKarate: Rivoluzione digitale: negli ultimi 10 anni, in
-seguito a nuovi dispositivi digitali interconnessi tra di loro
-
-- @Ale_Cannone:  quando si parla di dispositivi
-interconnessi tra loro si può parlare di rivoluzione digitale
+(ultimi 10 anni, in seguito a nuovi dispositivi digitali interconnessi tra di loro)
 
 
 ## 2013-04-24
