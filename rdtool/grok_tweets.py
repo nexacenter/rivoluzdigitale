@@ -25,6 +25,7 @@ import logging
 import os
 import random
 import re
+import shutil
 import sys
 import textwrap
 import time
@@ -41,6 +42,7 @@ from rdtool import subr_prompt
 SETTINGS = {
             "force": False,
             "prefix": ".",
+            "rss_cache": "./RSS_CACHE",
            }
 
 #
@@ -140,6 +142,18 @@ def analyze_tweet(students, text, links, handles, tags):
             elem = elem.lower()
             tags.append(elem)
 
+def rss_cache_find(bitlink):
+    """ Search bitlink in RSS cache """
+    bitlink += ".html"
+    for dirname in os.listdir(SETTINGS["rss_cache"]):
+        fullpath = os.sep.join([SETTINGS["rss_cache"], dirname])
+        if not os.path.isdir(fullpath):
+            continue
+        for filename in os.listdir(fullpath):
+            if filename == bitlink:
+                fullpath = os.sep.join([fullpath, filename])
+                return fullpath
+
 def save_tweet(timest, student, link):
     """ Save a tweet """
 
@@ -159,14 +173,9 @@ def save_tweet(timest, student, link):
         logging.warning("grok_tweets: dup <%s>; skip", dirpath)
         return
 
-    # Pause a bit before the download so we sleep in any case
-    time.sleep(random.random() + 0.5)
-
-    parsed = urlparse.urlsplit(link)
-    bodyvec = []
-    result = subr_http.retrieve("GET", parsed[0], parsed[1], parsed[2],
-      bodyvec, [])
-    if result != 200:
+    cached_filepath = rss_cache_find(bitlink)
+    if not cached_filepath:
+        logging.warning("grok_tweets: can't find %s in RSS cache", bitlink)
         return
 
     subr_misc.mkdir_recursive_idempotent(dirpath)
@@ -174,10 +183,8 @@ def save_tweet(timest, student, link):
     filepath = os.sep.join([dirpath, "%04d-%02d-%02d.html" % (
       timest[0], timest[1], timest[2])])
 
-    filep = open(filepath, "w")
-    for chunk in bodyvec:
-        filep.write(chunk)
-    filep.close()
+    logging.info("grok_tweets: cp '%s' '%s'", cached_filepath, filepath)
+    shutil.copy(cached_filepath, filepath)
 
 def process_student_tweet(blogs, timest, links, handle, student):
     """ Process a tweet from the point of view of one student """
