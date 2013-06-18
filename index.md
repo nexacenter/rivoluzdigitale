@@ -5112,175 +5112,187 @@ pubblicizzare senza problemi e con costi minimizzati
 
 ### @demartin
 
-- Rivoluzione da "revolvere", cioe\` tornare indietro, termine usato
-per primo da Copernico
+#### La Rivoluzione: storia del termine
 
-- Copernico usa "rivoluzione" in ambito astronomico (e non politico)
+- Rivoluzione da "revolvere", cioè tornare indietro, termine usato
+per primo da Copernico ('400) in ambito astronomico (e non politico)
+(Rivoluzione dei Corpi Celesti)
 
-- Nel medioevo e nel Rinascimento la "rivolta" (ancora non si chiamava
-cosi\`) era un ritorno indietro, all' "eta dell'oro"
+- Macchiavelli (2013: 500 anni dalla pubblicazione del Principe) ne parla,
+ma come moti
 
-- Il primo utilizzo politico della parola "rivoluzione" e' la
+- Nel Medioevo e nel Rinascimento la "rivolta" (ancora non si chiamava
+così) era un ritorno indietro, alla cosiddetta "età dell'oro"
+
+- Età dell'Oro: si ritorna ad un periodo della storia in cui si 
+si stava meglio, meno tasse ad es.
+
+- Il primo utilizzo politico della parola "rivoluzione" è la
 rivoluzione inglese (1642-1660); un secolo e mezzo dopo Copernico
 
-- Contrapposizione tra Carlo I, che aveva bisogno di soldi per guerra
-in Francia vs. ugonotti, e classe mercantile (e parlamento)
+- Divisioni dovute a scontri tra Aristocratici e altri gruppi economici
+(contadini, commercianti e popolo) 
+ 
+- Contrapposizione tra Carlo I, che aveva bisogno di soldi per guerra 
+contro la Francia (Ugonotti), e classe mercantile (e parlamento)
+
+- Per avere soldi ci volevano nuove tasse, ma si richiedeva al parlamento
+di accettare questa imposizione, leggi forti che limitavano imposizione
+tasse nel parlamento inglese (il primo creatosi nel senso moderno del termine)
+ 
+- Sempre in inghilterra primi brevetti detti 'patents' dal latino patente
+ovvero 'ovvio', 'pubblico'
+Erano monopoli statali e modi utili al re per ottenere soldi senza richiedere al
+parlamento imposizione nuove tasse
+
+- Re necessita di tanti soldi -> tasse
+Convoca parlamento con cui deve contrattare (tassa in cambio di alcune
+concessioni) - Re vs. Popolo e commercianti
 
 - Rapidamente lo scontro si radicalizza e si arriva a una vera e
-propria guerra civile
+propria guerra civile - Parlamentaristi vs. autorità reale
 
-- Vincono i parlamentari, guidati dal generale cromwell; mettono sotto
-processo il re e lo condannano a morte
+- Crisi civile sottovalutata, vincono i parlamentari, guidati dal generale
+Cromwell; mettono sotto processo il re e lo condannano a morte (per la
+prima volta viene decapitato un re)
 
-- A un certo punto Cromwell dichiara la repubblica (che i realisti
-chiamano, pero\`, "interregno")
+- A un certo punto Cromwell dichiara la Repubblica (che i realisti
+chiamano, però, "periodo dell'interregno")
 
-- Per essere piu\` precisi: il periodo della repubblica e' "il periodo
-del commonwealth" (14 anni)
+- Economist è una rivista repubblicana o per essere più precisi:
+il periodo del "commonwealth" (durata di 14 anni)
 
-- Nota: prendere, tagliare la testa al re e dichiarare la repubblica
+- Recap: prendere, tagliare la testa al re e dichiarare la repubblica
 e' certamente innovativo (oggi diremo, appunto, "rivoluzionario")
 
 - La rivoluzione inglese e’ molto legata alla stampa a caratteri
 mobili (Gutemberg), grazie alla quale si diffondono molto
 velocemente le idee
 
-- Vengono stampati libretti dal contenuto fortemente politico: e'
-anche una guerra civile delle idee
+- Vengono stampati libretti (pamphlets) dal contenuto fortemente politico:
+è anche una guerra civile delle idee; e anche giornali o bollettini periodici
 
-- Per influenzare la pubblica opinione, si cominciano a anche stampare
+- Per influenzare la pubblica opinione, si incomincia anche a stampare
 deliberatamente menzogne
 
-- Esempio: Cromwell sbarca in Irlanda e (banalizzo) fa stragi, ma sui
-pamphlet pro-Cromwell dell'epoca si dice che gli Irlandesi sono
-“brutti e cattivi"
+- Esempio: Cromwell sbarca in Nord Irlanda e (banalizzando) fa stragi, ma sui
+pamphlet pro-Cromwell dell'epoca si dice che gli Irlandesi sono “brutti e cattivi"
 
-- Si formano primi partiti politici, tra cui "dissenters" e "levelers"
-(questi erano i piu\` radicali)
-
-- Nota: in seguito verra\` chiarito: “diggers” vs. “levelers”
+- Si formano i primi partiti politici, tra cui "dissenters" (coloro che dissentono)
+e "levelers" (quelli che livellano - i più radicali [popolo])
 
 - In quel periodo si inizia a discutere se tutti abbiano diritto di
-votare oppure no
-
-- Come anche si parla di abolire la proprieta\` privata
+votare oppure no (una testa un voto? è la prima volta che si propone)
+Come anche si parla di abolire la proprietà privata
 
 - A un certo punto, allora, Cromwell dice "OK parliamone" - e si hanno
-i "dibattiti di Putney" (http://t.co/HMocS6XCss)
+i "dibattiti di Putney" http://it.wikipedia.org/wiki/Dibattiti_di_Putney
+Dopo tre giorni Cromwell suggerisce di smettere di prendere appunti, ma prosegue
+il dibattito
 
-- Nota: dopo tre giorni Cromwell suggerisce di smettere di prendere
-appunti
+- La prima definita in seguito Rivoluzione è questa che abbiamo analizzato così
+a fondo (non lo faremo per tutte!)
 
-- La definitiva \*restaurazione\* della monarchia viene definita
-"Glorious Revolution" (dove revolution = ritorno) ma poco dopo
+- Il definitivo ritorno alla monarchia viene definito
+"Glorious Revolution" (dove revolution significa ritorno), ma poco dopo
 quella del 1642 si comincia a chiamare "The English Revolution"
 
-- Vediamo perche\` si cominciano a chiamare “Revolution” i fatti del
-1942 e anni seguenti
+- Perchè si cominciano a chiamare “Revolution” i fatti dal 1642 in poi?
 
-- Primo motivo
+- 1) Flash back, nel 1215 vengono concesse Magna Charta (ai baroni) e
+Carta de Foresta (ai commoners)
 
-- Flash back, nel 1215 vengono concesse Magna Charta (ai baroni) e
-carta de foresta (ai commoners)
+- More info su Magna Carta (http://it.wikipedia.org/wiki/Magna_Carta)
+e Carta de foresta (http://en.wikipedia.org/wiki/Carta_de_Foresta)
 
 - La carta de foresta sanciva i diritti dei lord, quella de foresta i
 diritti dei commoners (come, ad esempio, pascolare nei campi
 “comuni”, o “commons”)
 
 - La English Revolution viene chiamata “revolution” nel senso di un
-ritorno all’eta\` dell’oro, cioe\` alla Carta de Foresta, in cui i
+ritorno all’età dell’oro, cioè alla Carta de Foresta, in cui i
 commoners avevano ricevuto diritti nuovi e c’erano meno tasse
-(banalizzo: si stava meglio)
+(diciamo banalmente che si stava meglio)
 
-- More info su Magna Carta (http://t.co/1qNzHIbnsV) e Carta de foresta
-(http://t.co/T6kVWPuTUb)
-
-- Secondo motivo
-
-- Gli inglesi del 1640 (anche i monarchici) sapevano di almeno 2
-repubbliche: rep. romana e venezia
-
-- P.S. gli inglesi del 1640 (anche i monarchici) sapevano di almeno 2
-repubbliche: rep. romana e venezia
+- 2) Gli inglesi del 1640 (anche i monarchici) sapevano di almeno 2
+repubbliche: repubblica romana e repubblica di Venezia (fin dal medioevo)
 
 - I concetti della riv. inglese, per vari effetti collaterali, hanno
-echi anche nel new england -- (http://t.co/OTTwA99zTQ)
+echi anche nel 'new england'
+Riferimento alle colonie fondate nel Nord-Est degli attuali USA
+(es. http://it.wikipedia.org/wiki/Colonia_di_Plymouth)
 
-- la Riv. Inglese influenzera\` la Rivoluzione Americana - anch'essa
+- La Rivoluzione Inglese influenzerà la Rivoluzione Americana che è anch'essa
 una rivoluzione di idee
 
-- Per esempio, l'esperienza della rep. romana e' molto presente ai
+- Per esempio, l'esperienza della repubblica romana e' molto nota ai
 padri fondatori US, specialmente a Jefferson
 
 - Anche in questo caso, in breve si passa dalle richieste di autonomia
-a una vera e propria guerra a Re Giorgio III
+(autonomia, meno tasse, regole proprie) a una vera e propria guerra
+contro Re Giorgio III
 
-- 1776 dichiarazione di indipendenza - 1781 costituzione americana
+- 1776 dichiarazione di Indipendenza
 
-- la costituzione americana viene dibattuta lungamente sui giornali
-prima di essere scritta - (http://t.co/j0lZZUZLXa)
+- 1781 costituzione americana (uguale a quella di adesso esclusi i
+numerosi emendamenti)
+Viene dibattuta lungamente sui giornali prima di essere scritta
+Su Il Federalista: http://it.wikipedia.org/wiki/Il_Federalista
 
-- Nota: abbiamo citato le riv. inglese anche xke\` li\` si inizia a
-parlare di liberta\` di espressione -- (http://t.co/buNR9pzjlG) -- concetto
-su cui torneremo diffusamente durante tutto il corso
+- Abbiamo parlaato molto delle rivoluzioni inglesi perchè si inizia a parlare
+di libertà di espressione (http://it.wikipedia.org/wiki/Areopagitica)
 
-- Diamo una def. di rivoluzione politica: breve, violenta,
+- Diamo una definizione di rivoluzione politica: serie di avvenimenti, su un
+arco di tempo limitato, che si sviluppa in maniera violenta, con successiva
 trasformazione radicale della struttura del potere politico
 
-- Beh, ma ovviamente noi in questo corso non parliamo di rivoluzioni
-politiche: c'e\` anche un II significato: stiamo parlando della
-"Rivoluzione Industriale" - impatto su societa\`, commercio
+- Noi però ci rifacciamo ad un secondo significato di rivoluzione:
+stiamo parlando della "Rivoluzione Industriale" con un impatto su
+società e commercio
+https://it.wikipedia.org/wiki/Rivoluzione_industriale
 
-- Il corso Rivoluzione Digitale e' figlio dell'accezione di
-rivoluzione in Rivoluzione Industriale
-
-- Se volete approfondire, ovviamente Wikipedia e' vostra amica:
-https://t.co/haklLnSBbL
-
-- L'anello di congiunzione tra Riv. politica e industriale e' la
-trasformazione radicale
-
-- La "societa\` lunare" e' un esempio di club amatoriale che prepara
-condizioni per Riv. Industr. https://t.co/Q8TbHDTj0u
+- L'anello di congiunzione tra la Rivoluzione politica e industriale
+e' la trasformazione radicale
 
 - A differenza delle rivoluzioni politiche, la Rivoluzione Industriale
 e' una trasformazione tecno-sociale, su tempi lunghi (decenni,
-generazioni)
+generazioni) - che si basa sugli amatori, gente curiosa e pratica
+
+- La "società lunare" e' un esempio di club amatoriale che prepara
+condizioni per Rivoluzione Industriale
+https://en.wikipedia.org/wiki/Lunar_society
 
 - Tecnologie chiave della Rivoluzione Industriale: vapore, telaio
-meccanico (proto-programmazione (https://t.co/VpAsuDCREp))
+meccanico (Es. di Telaio: https://it.wikipedia.org/wiki/Telaio_Jacquard)
 
-- Da questo momento, si comincia a dire "rivoluzione" per nuove
+- Da questo momento, si comincia a dire "Rivoluzione" per nuove
 tecnologie dirompenti, i.e., "rivoluzione elettrica"
+Con magari conseguenze politiche, solo di riflesso
 
 - Retroattivamente (a inizio '900) si inizia a parlare di "Rivoluzione
-di Gutemberg"
-
-- Breve parentesi: definiamo il termine “geek” - (http://t.co/v3L9tQqAMI)
+di Gutemberg" per esempio - Gutemberg è il primo "geek"
+[“geek”: http://it.wikipedia.org/wiki/Geek]
 
 - E' inappropriato dire che uno specifico gadget sia una
-"rivoluzione"; e' chiaramente un iperbole
+"rivoluzione"; e' chiaramente un iperbole del termine
 
 - A noi interessa capire se complessivamente possiamo dire
 "rivoluzione" delle tecnologie digitali nel loro complesso
-
-- Studieremo l'impatto di queste tecnologie su societa\`, cultura,
-universita\` e altri aspetti, per poi trarre le conclusioni
+studiando l'impatto di queste su società, cultura, università
+e altri aspetti, per poi trarre le conclusioni
 
 - Cercheremo anche di capire che cosa innesca una rivoluzione
-tecnologica (tipicamente una scoperta) - Terzo significato:
-rivoluzione scientifica
+tecnologica (tipicamente è una scoperta)
 
-- Thomas Kuhn parla di "rivoluzioni scientifiche" - accezione ancora
-diversa: cambio di paradigma scientifico
+- Altro significato è quello di "rivoluzione scientifica":
+Thomas Kuhn ne parla con un'accezione ancora diversa:
+cambio del paradigma scientifico
 
-- la prima "Rivoluzione Scientifica" e' quella del 1600 (Galileo,
-Newton, Francis Bacon (non il pittore, eh!), etc.)
+- La prima "Rivoluzione Scientifica" e' quella del 1600 (Galileo,
+Newton, Francis Bacon, etc.)
 
 - "la struttura delle rivoluzioni scientifiche" di T. Kuhn studia
 proprio le varie rivoluzioni scientifiche
-
-- Memento: dovete formare i gruppi entro il 5 Aprile
 
 
 ## 2013-03-20
