@@ -21,6 +21,7 @@
 from xml import sax
 
 import getopt
+import json
 import logging
 import os
 import random
@@ -93,9 +94,7 @@ def main():
     try:
         options, arguments = getopt.getopt(sys.argv[1:], "d:v")
     except getopt.error:
-        sys.exit("usage: rss_fetch [-v] [-d dir] site...")
-    if not arguments:
-        sys.exit("usage: rss_fetch [-v] [-d dir] site...")
+        sys.exit("usage: rss_fetch [-v] [-d dir] [site...]")
 
     destdir = None
     level = logging.WARNING
@@ -107,10 +106,15 @@ def main():
             level = logging.INFO
             noisy = 1
 
+    logging.basicConfig(level=level, format="%(message)s")
+
+    if not arguments:
+        filep = open("etc/rss/blogs.json", "r")
+        arguments = json.load(filep)
+        filep.close()
+
     if destdir:
         os.chdir(destdir)
-
-    logging.basicConfig(level=level, format="%(message)s")
 
     for site in arguments:
         try:
