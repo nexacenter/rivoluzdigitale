@@ -59,6 +59,10 @@ def process_site(site, noisy):
     content = zip(handler.links, handler.pub_dates)
     for link, date in content:
 
+        index = link.rfind("?")
+        if index >= 0:
+            link = line[:index]
+
         logging.info("")
         logging.info("- <%s>", link)
         logging.info("")
