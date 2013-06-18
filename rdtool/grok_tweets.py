@@ -284,6 +284,7 @@ def really_filter_tweet(students, blogs, account, text):
         return
 
     process_tweet(students, blogs, account, text)
+    time.sleep(3)
 
 def filter_tweet(students, blogs, tweet):
     """ Filter a tweet """
