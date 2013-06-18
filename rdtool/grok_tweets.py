@@ -337,16 +337,18 @@ def main():
 
     level = logging.WARNING
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "d:fv")
+        options, arguments = getopt.getopt(sys.argv[1:], "d:fR:v")
     except getopt.error:
-        sys.exit("usage: grok_tweets [-fv] [-d directory] file...")
+        sys.exit("usage: grok_tweets [-fv] [-R rss_cache] [-d destdir] file...")
     if not arguments:
-        sys.exit("usage: grok_tweets [-fv] [-d directory] file...")
+        sys.exit("usage: grok_tweets [-fv] [-R rss_cache] [-d destdir] file...")
     for name, value in options:
         if name == "-d":
             SETTINGS["prefix"] = value
         elif name == "-f":
             SETTINGS["force"] = True
+        elif name == "-R":
+            SETTINGS["rss_cache"] = value
         elif name == "-v":
             if level == logging.WARNING:
                 level = logging.INFO
