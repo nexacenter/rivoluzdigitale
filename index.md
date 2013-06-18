@@ -5053,65 +5053,66 @@ proprio le varie rivoluzioni scientifiche
 
 ### @demartin
 
-- punto interrogativo implicito dopo “Rivoluzione Digitale”: obiettivo
-e’ cercare di capire meglio e in modo critico questa trasformazione
+#### Introduzione al corso
 
-- metodologia: parte online e scritto
+- Punto interrogativo implicito dopo “Rivoluzione Digitale(?)”:
+obiettivo e’ cercare di capire meglio e in modo critico questa trasformazione
 
-- Maggiori info: http://rivoluzionedigitale.polito.it/regole
+- Regole del Corso: http://rivoluzionedigitale.polito.it/regole
 
-- I blog dello scorso anno sono disponibili qui:
+- I blog creati nell'A.A. 2011/2012:
 http://rivoluzionedigitale.polito.it/2012-blog-studenti
 
-- vogliamo anche farvi capire cosa sono i canali adatti per quale
-messaggio - un curriculum dove lo mettereste?
+- Must per quanto riguarda la parte onLine:
+come gruppo, e' obbligatorio mettere sul blog un breve video di presentazione:
+sta diventando frequente che chiedano di fare un video di due minuti in cui
+il candidato per un posto di lavoro, si presenta
 
-- come gruppo, e' obbligatorio mettere sul blog un breve video
-sull'argomento del blog: sta diventando frequente che chiedano di
-fare un video di due minuti in cui il candidato una qualche posizione
-si presenta
+- Si cerca di capire quali canali sono adatti a seconda della necessità:
+Curriculum dove lo mettereste?
 
-- a proposito di scrivere bene le email
+- Le mail hanno delle regole di "giusta composizione"
 
 - “se non mandate messaggi email ben scritti, una persona molto
 occupata tipicamente vi ignora”
 
-- “se mi scrive uno sconosciuto e mi scrive male, non sono affatto
+- “se scrive uno sconosciuto e per di più scrive male, non sono affatto
 tenuto a rispondere”
 
-- Blog notevole "Brain Pickings" di Maria Popova (@brainpicker)
-brainpickings.org
+- Un blog che deve essere punto di riferimento è "Brain Pickings"
+di Maria Popova (@brainpicker on Twitter) brainpickings.org
 
-- breve introduzione alle licenze creative commons funzionale ai blog
+#### Introduzione alle licenze Creative Commons
 
-- Brevetti != diritto d’autore
+- Sono strettamente collegate alla creazione dei singoli blog
 
-- i brevetti tutelano l'idea (e bisogna andare all'ufficio brevetti)
+- Brevetti sono diversi dal diritto d’autore
 
-- il diritto d'autore, invece, tutela l'opera (meglio, la specifica
+- Brevetti tutelano l'idea (e bisogna andare all'ufficio brevetti - Azione Formale)
+
+- Il diritto d'autore, invece, tutela l'opera (meglio, la specifica
 forma espressiva) ed e' automatico; con automatico si intende che
-non bisogna fare nulla perche\` si applichi: no ufficio "autori",
-no formalita\`: la SIAE certifica, ma non c'entra nulla col fatto
-che la legge vi tutela automaticamente
+non bisogna fare nulla affinche' si applichi
+Non vi è un "ufficio autori" - No Azione Formale
+SIAE certifica, ma la legge tutela l'opera in automatico.
 
-- il diritto d'autore fornisce una lunga serie di diritti sull'opera
+- Il diritto d'autore fornisce una lunga serie di diritti sull'opera
 che durano fino a (in EU) 70 anni dopo morte autore (i.e., “morte
 + 70”)
+Es.: Autore muore il 20 Gennaio 2000? Il 21 gennaio 2070 l'opera 
+rientra nel pubblico dominio.
+Nel caso di opere in collaborazione, il termine si calcola
+con riferimento al coautore che muore per ultimo.
 
-- chi non e' l'autore puo\` fare pochi usi, e molto ristretti,
+- Chi non e' l'autore puo' fare pochi usi, e molto ristretti,
 dell'opera fino, appunto, a "morte + 70"
 
-- la legge sul diritto d'autore era pensata per l'industria culturale,
-ma ora si applica anche al blog, alla ricetta
+- La legge sul diritto d'autore era pensata per l'industria culturale,
+ma ora si applica anche al blog, alla ricetta,...
 
-- le licenze Creative Commons sono state pensate per permettere agli
+- Le licenze Creative Commons sono state pensate per permettere agli
 autori di rinunciare ad alcuni diritti; per esempio il diritto a
-copiare e modificare l'opera - more info qui:
-
-- http://it.wikipedia.org/wiki/Licenze\_Creative\_Commons
-
-
-
-
-
+copiare e modificare l'opera
+Su wikipedia vi sono maggiori informazioni:
+http://it.wikipedia.org/wiki/Licenze\_Creative\_Commons
 
