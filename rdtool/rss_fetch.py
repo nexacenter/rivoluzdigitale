@@ -61,7 +61,9 @@ def process_site(site, noisy):
 
         index = link.rfind("?")
         if index >= 0:
-            link = line[:index]
+            link = link[:index]
+        if link.startswith("https://"):
+            link = link.replace("https://", "http://")
 
         logging.info("")
         logging.info("- <%s>", link)

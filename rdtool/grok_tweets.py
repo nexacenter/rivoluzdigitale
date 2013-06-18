@@ -225,6 +225,8 @@ def process_student_tweet(blogs, timest, links, handle, student):
         index = expanded_link[0].rfind("?")
         if index >= 0:
             expanded_link[0] = expanded_link[0][:index]
+        if expanded_link[0].startswith("https://"):
+            expanded_link[0] = expanded_link[0].replace("https://", "http://")
 
         logging.info("grok_tweets: process link %s", expanded_link[0])
         save_tweet(timest, student, expanded_link[0])
