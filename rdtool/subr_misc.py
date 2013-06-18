@@ -22,15 +22,8 @@ import collections
 import logging
 import os
 
-def make_post_folder(date, site):
+def make_post_folder(site, bitlink):
     """ From struct time and site, generate post folder """
-
-    if date[2] < 15:
-        month = date[1]
-        day = 15
-    else:
-        month = date[1] + 1
-        day = 1
 
     site = site.split(".")
     if site[0] == "www" and len(site) >= 2:
@@ -38,11 +31,7 @@ def make_post_folder(date, site):
     else:
         site = site[0]
 
-    return os.sep.join([
-                        "b", "post",
-                        "%02d-%02d-%02d" % (date[0], month, day),
-                        site,
-                       ])
+    return os.sep.join([site, bitlink])
 
 def mkdir_recursive_idempotent(path):
     """ Create the directories indicated by path (idempotent) """

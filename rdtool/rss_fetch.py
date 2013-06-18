@@ -25,6 +25,7 @@ import json
 import logging
 import os
 import random
+import re
 import sys
 import time
 import urlparse
@@ -79,23 +80,41 @@ def process_site(site, noisy):
         logging.info("- <%s>", link)
         logging.info("")
 
-        folder = subr_misc.make_post_folder(date, site)
-        subr_misc.mkdir_recursive_idempotent(folder)
-
-        time.sleep(random.randrange(5, 8))
-        link = subr_bitly.shorten(link, noisy=noisy)
-
-        filename = subr_misc.bitlink_to_filename(link)
-        pname = os.sep.join([folder, filename])
-        if os.path.isfile(pname):
-            logging.info("main: file already exists: %s", pname)
+        bitlink = subr_bitly.shorten(link, noisy=noisy)
+        if not bitlink:
+            logging.warning("rss_fetch: bitly API failed")
             continue
 
-        time.sleep(random.randrange(5, 8))
-        _, body = subr_http.fetch_url(link, noisy=noisy)
+        bitlink = bitlink.replace("http://bit.ly/", "")
+        bitlink = bitlink.replace("https://bit.ly/", "")
 
-        filep = open(pname, "w")
-        filep.write(body)
+        if not re.search("^[A-Za-z0-9]+$", bitlink):
+            logging.warning("rss_fetch: invalid bitlink <%s>; skip", bitlink)
+            continue
+
+        dirpath = subr_misc.make_post_folder(site, bitlink)
+        if os.path.isdir(dirpath):
+            logging.warning("rss_fetch: dup <%s>; skip", dirpath)
+            continue
+
+        subr_misc.mkdir_recursive_idempotent(dirpath)
+
+        filename = "%02d-%02d-%02d.html" % (date[0], date[1], date[2])
+        pathname = os.sep.join([dirpath, filename])
+
+        # Pause a bit before the download so we sleep in any case
+        time.sleep(random.random() + 0.5)
+
+        bodyv = []
+        result = subr_http.retrieve("GET", "http", parsed[1], parsed[2],
+                                    bodyv, [])
+        if result != 200:
+            logging.warning("rss_fetch: cannot retrieve page: %s", link)
+        link = real_link[0]
+
+        filep = open(pathname, "w")
+        for chunk in bodyv:
+            filep.write(chunk)
         filep.close()
 
 def main():
@@ -112,7 +131,10 @@ def main():
         if name == "-d":
             destdir = value
         elif name == "-v":
-            level = logging.INFO
+            if level == logging.WARNING:
+                level = logging.INFO
+            else:
+                level = logging.DEBUG
             noisy = 1
 
     logging.basicConfig(level=level, format="%(message)s")
