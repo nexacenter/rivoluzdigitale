@@ -36,6 +36,7 @@ if __name__ == "__main__":
 from rdtool import subr_bitly
 from rdtool import subr_http
 from rdtool import subr_misc
+from rdtool import subr_prompt
 
 SETTINGS = {
             "force": False,
@@ -228,14 +229,18 @@ def process_tweet(students, blogs, timest, account, text):
     analyze_tweet(students, text, links, handles, tags)
 
     handles = list(set(handles))  # collapse duplicates, if needed
-    for handle in handles:
-        handle = handle[1:]  # Skip either @ or #
-        student = students.get(handle)
-        if not student:
-            logging.warning("grok_tweets: cannot find student from %s", handle)
-            continue
-        logging.info("grok_tweets: process student %s (@%s)", student, handle)
-        process_student_tweet(blogs, timest, links, handle, student)
+    index = subr_prompt.select_one("handle", handles)
+    if index == -1:
+        logging.warning("grok_tweets: ignoring the tweet")
+        return
+    handle = handles[index]
+    handle = handle[1:]  # Skip either @ or #
+    student = students.get(handle)
+    if not student:
+        logging.warning("grok_tweets: cannot find student from %s", handle)
+        return
+    logging.info("grok_tweets: process student %s (@%s)", student, handle)
+    process_student_tweet(blogs, timest, links, handle, student)
 
 def really_filter_tweet(students, blogs, timest, account, text):
     """ Really filter a tweet """
