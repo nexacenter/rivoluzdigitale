@@ -27,6 +27,7 @@ import os
 import random
 import sys
 import time
+import urlparse
 
 if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.dirname(
@@ -59,6 +60,14 @@ def process_site(site, noisy):
 
     content = zip(handler.links, handler.pub_dates)
     for link, date in content:
+
+        parsed = urlparse.urlsplit(link)
+        real_link = []
+        result = subr_http.retrieve("HEAD", "http", parsed[1], parsed[2],
+                                    [], real_link)
+        if result != 200:
+            logging.warning("rss_fetch: invalid link: %s", link)
+        link = real_link[0]
 
         index = link.rfind("?")
         if index >= 0:
