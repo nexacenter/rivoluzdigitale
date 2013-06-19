@@ -3932,7 +3932,7 @@ manda il pacchetto di dati al nodo successivo. Ogni nodo ha solo
 informazioni locali sui nodi a lui vicini. Può, quindi, capitare che 
 alcuni pacchetti vengano persi.
 
--La rete in sé si limita a smistare pacchetti, poi sei tu a decidere 
+- La rete in sé si limita a smistare pacchetti, poi sei tu a decidere 
 cosa farne. Rete stupida --> End-to-end.
 
 - Internet è strutturato con un architettura a "strati" ( 
@@ -3948,7 +3948,7 @@ dei dati. Per esempio, cavi e connessioni radio.
 Wi-Fi.
 
 - Internet Layer: Protocollo Internet (IP). Ampiamente discusso 
-nella lezione del 6 maggio.
+nella lezione del 3 maggio.
 
 - Transport Layer: TCP (Transmission Control Protocol 
 http://t.co/FLaB54Ri9t) è un protocollo di rete che: stabilisce una 
@@ -3987,7 +3987,7 @@ accademica/governativa, non come attività commerciale. Sin da
 subito, infatti, viene imposto un ‘divieto di attività commerciale’, in 
 uno spirito del tutto universitario, di ricerca. 
 
-Riflessione: se si parlasse adesso di divieto di attività commerciale 
+- Riflessione: se si parlasse adesso di divieto di attività commerciale 
 online, come reagirebbero Amazon, eBay, iTunes, ecc?
 
 - In pochi anni, ARPANET attraversa un fase di espansione, 
@@ -4126,10 +4126,10 @@ chiusa (non viene detto come funziona), gerarchica (grosse centrali
 telefono, che è un dispositivo in sé stupido, “dumb”). Un sistema
 TOP DOWN.
 
-Piccolo OT: Mubarak provò a “spegnere” rete internet e  telefonica
+- Piccolo OT: Mubarak provò a “spegnere” rete internet e  telefonica
 ma dopo pochi giorni dovette riaccenderla perché il Paese era bloccato.
 
-Tornando alle origini di Internet, siamo in piena Guerra Fredda. Per
+- Tornando alle origini di Internet, siamo in piena Guerra Fredda. Per
 la connessione tra computer si pensa, quindi, ad una struttura non
 gerarchica: una rete interconnessa ha il vantaggio di non avere nodi
 principali, punti critici. A quel tempo, si pensava a una rete di
@@ -4267,10 +4267,10 @@ dal mittente, dal destinatario, dal dispositivo e dall'applicazione. I
 nodi guardano solo l’IP del destinatario e trattano tutti i pacchetti
 allo stesso modo
 
-- Tuttavia, oggi i #router ora sono così potenti da poter sbirciare nei
-pacchetti dati ["deep packet inspection"]. Economicamente e' perfettamente
+- Tuttavia, oggi i router ora sono così potenti da poter sbirciare nei
+pacchetti dati ["deep packet inspection"]. Economicamente è perfettamente
 razionale che un operatore si accordi con altri attori per trattamento
-preferenziale. Ma se gli operatori hanno la facolta` di fare questi
+preferenziale. Ma se gli operatori hanno la facoltà di fare questi
 accordi, Internet diventa un'altra cosa [molto meno generativa]
 
 - Cappuccetto rosso - Storia di un pacchetto perduto
@@ -4283,7 +4283,7 @@ di neutralità della rete
 Internet”, un piccolo opuscolo che fa parte del programma:
 http://t.co/9hqYa5GDHt
 
-- Prossima lezione: chi governa internet? Chi prende le decisioni?
+- Prossime lezioni: chi governa internet? Chi prende le decisioni?
 
 ### @bassosimone
 
