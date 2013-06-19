@@ -892,816 +892,287 @@ ScienceMagazine : http://t.co/05pY8i3zgT
 - Il sogno delle biblioteche: avere tutti i libri. Tuttavia
 è molto costoso e difficile da realizzare. Ma nel digitale le opportunità si allargano.
 
-- @Ale_Cannone: Sogno di una biblioteca universale accedibile a tutti
-è possibile tramite il digitale con un costo relativamente basso
-
-- @SabryKarate: Problema di incentivi economici: vendita di libro fisico
-permette di sostenere lo scrittore. La distribuzione gratuita no.
-
-- @Ale_Cannone: Libri accessibili a tutti: mancano gli incentivi per
-poter organizzare tutto in digitale (questioni di interesse economico)
-
-- @Carrattrezzi: Circa il 6% del prezzo di copertina di un libro va
-all'autore
-
-- @SabryKarate: Del guadagno ricavato dalle copie fisiche vendute,
+- Del guadagno ricavato dalle copie fisiche vendute,
 allo scrittore vanno tra il 6% ed un massimo di 12%... libri
 
-- @SoFranchy: Rendere disponibile la conoscenza a tutti allo stesso
+- Rendere disponibile la conoscenza a tutti allo stesso
 modo. Come incentivare gli autori? Idee da P. Aigrain e V. Grassmuck
 
-- @venadavide: Un autore medio riceve circa il 6/7 % dal ricavato di
-una pubblicazione
-
-
-- @ripa_pepperipa: Philippe Aigrain e Volker Grassmuck hanno provato a
-disaccoppiare la visione del tantigibile e intangibile
-
-- @AstoriPietro: Solo il 6% del costo del libro è destinato all'autore,
-se è bravo contratta fino al 10-12%
 
 
 ### La Pirateria
 
-- @ripa_pepperipa: la Pirateria --> http://t.co/AWB5A6yIkD
+- la Pirateria --> http://t.co/AWB5A6yIkD
 
-- @DavidePalermo2: Pirati e Pirateria dall'antichità ad oggi, con
-diverse accezioni
-
-- @AstoriPietro: I corsari, espediente della corona inglese per boicottare
+- Pirati e Pirateria dall'antichità ad oggi, con
+diverse accezioni,in passato i corsari, espediente della corona inglese per boicottare
 la flotta spagnola
 
-- @SabryKarate: pirateria, termine molto utilizzato già a partire da
-Gutenberg. N.B. si parla di pirati già prima del Seicento.
+- pirateria, termine molto utilizzato già a partire da
+Gutenberg.Si parla di pirati già prima del Seicento, e nel 600 con la copia
+illegale di libri.
 
-- @MartinoMensio: Pirateria nella cultura: nasce nel 600 con la copia
-illegale di libri
-
-- @SimoneBleynat: La Regina Elisabetta I reinventa i pirati, ma dà loro
+- Successivamente La Regina Elisabetta I reinventa i pirati, ma dà loro
 una patente che legittima il loro operato e li chiama corsari
 
-- @Carrattrezzi: I pirati nel periodo della diffusione della stampa
-erano gli editori che stampavano clandestinamente senza autorizzazione
-
-- @venadavide: Recentemente il termine "pirata" viene attribuito
+- Recentemente il termine "pirata" viene attribuito
 all'utente
 
-- @DavidePalermo2: Il computer è una "fabbrica" che permette a tutti
+- Il computer è una "fabbrica" che permette a tutti
 di diventare un Pirata
 
-- @ripa_pepperipa: La pirateria non è furto, ma si danneggia il
+- La pirateria non è furto, ma si danneggia il
 produttore.
 
-- @AstoriPietro: Pc, permette a tutti di essere "pirata"
-
-- @SabryKarate: Secondo alcuni: La copia digitale personale non
-commerciale dovrebbe essere legale.Non permessa però la vendita.
-
-- @MartinoMensio: La pirateria su internet non è furto, ma danneggia
-economicamente i produttori
-
-- @Ale_Cannone:  pirati moderni ---> mirano al "furto" di quello che
-è la copia digitale
-
-- @SabryKarate: Condivisione non a scopo di lucro.
+- Condivisione non a scopo di lucro.
 
 
 ### Logical fallacies e Integrity
 
-- @DavidePalermo2: serve ad avere un'esperienza digitale Ci ricolleghiamo
-alla netiquette
+- Espandiamo il concetto di Netiquette
 
-- @FabioVallone: Oggi espanderemo il concetto di Netiquette
-
-- @EmaParrinello: un corso completo che ci sta fornendo informazioni,
-strumenti, esperienza e netiquette
-
-- @EmaParrinello: Internet facilita la possibilità di riportare
-riferimenti attendibili, cose che era molto più difficile prima di
+- Internet facilita la possibilità di riportare
+riferimenti e notizie, cose che era molto più difficile prima di
 internet
 
-- @Clerish: L'obiettivo finale del corso è quello di farci diventare
-migliori "cittadini digitali"
 
-- @ripa_pepperipa: oggi si parla di 1. "Cosa dici?" 2. Integrità
-3. Logical fallacies
+- 1) "Cosa dici?" : quando ci si rivolge online è
+importante chiarire la natura di ciò che si scrive.
 
-- @DavidePalermo2: 1) "Cosa dici?" 2) integrità 3) Logical Fallacies
 
-- @_FedericoConte: "Cosa dici?" : quando ci si rivolge online è
-importante chiarire la natura di ciò che si scrive
+- Bisogna sempre chiarire se quello che si dice è:
+a)Un'opinione 
+b)Una testimonianza 
+c)Un fatto
 
-- @SoFranchy: Oggi si parla di Netiquette --> diventare migliori
-cittadini (digitali): "Cosa dici?", "integrità", "logical fallacies"
+- nel relazionarsi con le persone bisogna far capire se
+ciò che si dice sia una nostra opinione, testimonianza o un fatto.
 
-- @ripa_pepperipa: E’ fondamentale chiarire se ciò che si dice è:
-1. Un’opinione; 2. Una testimonianza
+- È importante specificare la fonte di ciò che si dice,e nel caso dimostrane la veridicità.
 
-- @Carrattrezzi: La testimonianza non è la verità, è una percezione,
-a lot different
+- La testimonianza non è la verità, è una percezione,
+cose molto diverse.
 
-- @Clerish: Bisogna sempre chiarire se quello che si dice è:
-1)Un'opinione 2)Una testimonianza 3)Un fatto
+- Crap detection:  come capire l'attendibilità di un'informazione
+online?
 
-- @FabioVallone: Online, chiarire se è: 1-Un'opinione 2-Una testimonianza
-3-Riferite una informazione o un fatto
+- Per aver maggiore sicurezza riguardo ad un fatto, è
+bene osservare le info di una fonte ,valutarne la validità e l'affidabilità.
 
-- @Ale_Cannone:  nel relazionarsi con le persone bisogna far capire se
-ciò che si dice sia una nostra opinione, testimonianza o un fatto
-
-- @FeFallace: Nozione di netiquette: chiarire se il contenuto pubblicato
-é un'opinione, una testimonianza o un'informazione, un fatto...
-
-- @SabryKarate: Ciò che ognuno riporta di un certo evento è
-soggettivo. A parte la matematica, tutto il resto è opinabile...
-
-- @SimoneBleynat: Opinione, testimonianza o fatto riportato? È importante
-specificare la fonte di ciò che si dice
-
-- @DavidePalermo2: Parliamo delle informazioni su wikipedia
-
-- @paolopopolizio: chiarire se si dice: -1 opinione -1 testimonianza
--1 informazione
-
-- @SoFranchy: "Cosa dici?": specifica se è una tua opinione, una
-testimonianza, un riferimento o una citazione: dimostrane la veridicità.
-
-- @Carrattrezzi: Ciò che citiamo come fonte, è attendibile?
-
-- @Clerish: Crap detection: capire l'attendibilità di un'informazione
-online
-
-- @_FedericoConte: Bisogna capire l'attendibilità delle informazioni
-online
-
-- @Rexsimo893: Chiarire sempre se ciò che diciamo è: -opinione
--testimonianza -riferimento a un fatto
-
-- @SabryKarate: Per aver maggiore sicurezza riguardo ad un fatto, è
-bene osservare le info di una fonte attendibile. @rd_informazione
-
-- @LorenzoCutelle: Su wikipedia (e non solo) è fondamentale citare
+- Su wikipedia (e non solo) è fondamentale citare
 fonti affidabili.
 
-- @Ale_Cannone:  se si riferisce una informazione bisogna avere dei
-riferimenti e fonti attendibili
+- le fonti attendibili vanno riconosciute dal contesto
 
-- @venadavide: E' necessario valutare la validità delle fonti dalle
-quali prendiamo le informazioni
-
-- @SimoneBleynat: NB: verificare SEMPRE l'affidabilità delle fonti di
-qualsiasi informazione
-
-- @Ale_Cannone:  le fonti attendibili vanno riconosciute dal contesto
-
-- @FabioVallone: Su internet bisogna cercare di essere chiari il più
+- Su internet bisogna cercare di essere chiari il più
 possibile per cercare di aumentare la nostra credibilità
 
-- @SabryKarate: wikipedia: bene comune, è fondamentale che i dati siano
-verificati. La conoscenza è un bene Non Escludibile e Non Rivale!
 
-- @Antonio_Langiu: Si parla di Michael C.Jensen - professore alla Harvard
-Business School
+- 2) Integrità 
 
-- @FabioVallone: Integrità -> concetto morale
 
-- @Carrattrezzi: Cos'è l'integrità?
+- Integrità -> concetto morale
 
-- @FabioVallone: Integrità = rispetto della parola data
+- Cos'è l'integrità?
 
-- @Antonio_Langiu: Integrità: affidabilità e coerenza, come dice Jensen:
+- Integrità: affidabilità e coerenza, come dice Jensen:
 Rispetto della parola data..
 
-- @BoggioMattia: Integrità : rispetto parola data.
-
-- @paolopopolizio: Michael C. Jensen ha promosso un sito che pubblica
+- Michael C. Jensen ha promosso un sito che pubblica
 articoli scientifici accessibili in modo gratuiito
 
-- @LorenzoCutelle: La definizione di "integrità" di Michael C. Jensen
-è: mantenere la parola data.
-
-- @_FedericoConte: Integrità : mantenere la parola data
-
-- @FeFallace: Integrità significa mantenere la parola data.
-
-- @Carrattrezzi: L'integrità è mantere la parola data. Presuppone
+- Mantenere la parola data presuppone
 riflessione prima di parlare, e produce fiducia
 
-- @paolopopolizio: "integrità": sta per affidabilità, mantenere la
-parola data
+- Integrità accresce la reputazione.
 
-- @DavidePalermo2: Aspettiamo con impazienza la lezione di settimana
-prossima di @annamasera, SM Editor de @la_stampa, a @RivoluzDigitale
-
-- @EricaAcire19: mantenere la parola data è molto più difficile del
-previsto...cit. @demartin
-
-- @FabioVallone: Integrità: C'è una richiesta a monte di qualcuno,
-e una nostra considerazione del lavoro da svolgere. Si può accettare o no
-
-- @Carrattrezzi: Per prendere un impegno dobbiamo sapere il tempo che
+- Per prendere un impegno dobbiamo sapere il tempo che
 impieghiamo per farlo e il tempo che abbiamo
 
-- @_FedericoConte: Bisogna fare attenzione a ciò che implica mantenere
+- Bisogna fare attenzione a ciò che implica mantenere
 una parola data, alle sue conseguenze
 
-- @SabryKarate: Bisogna rendersi conto delle proprie capacità per poter
+- Bisogna rendersi conto delle proprie capacità per poter
 mantenere la parola data: invece tendiamo spesso a sovrastimare!
 
-- @Clerish: Prima di dare la propria parola ci vuole un'analisi delle
+- Prima di dare la propria parola ci vuole un'analisi delle
 proprie capacità e risorse di tempo
 
-- @DavidePalermo2: "Guardando l'agenda tendiamo sempre a sovrastimare
-il tempo a nostra disposizione per fare le cose che dobbiamo fare"
+- @bassosimone: 
+"Oh, dopo che avete moltiplicato per due il tempo che ritenete necessario, moltiplicate
+ancora per due consiglio [esperienza personale]"
 
-- @SoFranchy: Integrità: rispettare la parola data, concetto non
-ovvio. Dare propria parola necessita lavoro a monte e conoscenza di sè.
+- Integrità significa quindi una grande conoscenza
+di noi stessi.Solo con l'esperienza si impara a capire di cosa siamo capaci.
 
-- @bassosimone: Oh, dopo che avete moltiplicato per due, moltiplicate
-ancora per due consiglio [esperienza personale]
+- Se c'è un imprevisto: avvisare immediatamente, proporre
+nuovi termini, chiedere se si può attenuare il disagio in qualche modo.
 
-- @EmaParrinello: bisogna imparare a conoscersi bene per poter accettare
-una richiesta e mantenere la parola data
+- le regole sociali su Internet sono le stesse della vita reale.
 
-- @SabryKarate: Attenzione a calcolare bene i tempi, consiglio di
-@demartin: lasciate un piccolo margine di tempo in più per sicurezza.
+- Schemino Riassuntivo http://t.co/t4s63xiUGo
 
-- @Ale_Cannone:  integrità richiede alta conoscenza di se stessi e
-anche prudenza in modo da rispettare la parola data
-
-- @FabioVallone: Integrità può anche voler dire una grande conoscenza
-di noi stessi.Solo con esperienza si impara a capire cosa si può fare
-
-- @bassosimone: Tanto le moltiplicazioni (e le divisioni) per due sono
-molto efficienti
-
-- @fabioricca93: integrità=mantenere la parola data comporta un'attenta
-analisi di se stessi basata su prudenza e coscienza di se
-
-- @BoggioMattia: Per mantenere la parola data bisogna avere un'ottima
-conoscenza dei propri limiti e delle proprie capacità!!
-
-- @StefanoFranz20:  lasciarsi sempre un margine di tempo onde evitare
-di non mantenere la parola data. consiglio
-
-- @Carrattrezzi: Se forza maggiore bisogna dire ciò che succede nel
-momento in cui succede. E deve essere reale ed eccezionale
-
-- @SabryKarate: Ecco perché in genere io parto molto presto al mattino:
-per non arrivare in ritardo a lezione in caso di imprevisti.
-
-- @SimoneBleynat: Se qualcuno ti frega il computer sei giustificato a
-non farmi quelle slides che mi avevi promesso. Sennò no.
-
-- @SoFranchy: Se c'è imprevisto: avvisare immediatamente, proporre
-nuovi termini, chiedere se si può attenuare il disagio in qualche modo
-
-- @Carrattrezzi: Integrità accresce la reputazione
-
-- @LorenzoCutelle: La lezione di oggi di  ci fa capire benissimo come
-le regole su Internet siano le stesse della vita reale.
-
-- @ripa_pepperipa: • La reputazione ha un grandissimo valore
-professionale!
-
-- @BoggioMattia: Reputazione ha un grandissimo valore professionale
-oltre che personale.
-
-- @EmaParrinello: il continuo mantenimento delle "promesse" accresce la
-reputazione dell'individuo in maniera positiva
-
-- @Ale_Cannone:  nel caso di un imprevisto bisogna avvertire colui che
-ci aveva chiesto qualcosa e cercare di attenuare il disagio causato
-
-- @FabioVallone: La parola può non essere rispettata solo in casi
-"estremi". Quando succede bisogna cercare di alleviare i danni creati
-
-- @SabryKarate: La reputazione ha una grande importanza a livello sociale
-e lavorativo. Ci si può affidare a chi ha una buona reputazione.
-
-- @LorenzoCutelle: L'integrità è un valore di immane importanza sia
-su internet che nella vita reale. Un valore sempre più necessario.
-
-- @Ale_Cannone:  integrità vuol dire persona professionale che gode di
-rispetto da parte degli altri grazie alla sua positiva reputazione
-
-- @SoFranchy: Essere integri migliora la reputazione che ha un grande
-impatto professionale e commerciale
-
-- @FabioVallone: Mantenere la parola data aumenta molto la reputazione
-anche a livello professionale
-
-- @SabryKarate: Dopo la valutazione di una richiesta: No, grazie. (niente)
-Sì, però... (negoziazione) Sì. (parola data, va rispettata)
-
-- @DavidePalermo2: Schemino Riassuntivo http://t.co/t4s63xiUGo
-
-- @Carrattrezzi: @demartin ci porta un po' di mentalità anglosassone
-
-- @SabryKarate: In caso di un'emergenza: -Informare
+- In caso di un'emergenza: -Informare
 tempestivamente. -Scusarsi. -Stabilire nuova data. -Cosa si può fare
 per rimediare?
 
-- @paolopopolizio: ad una richiesta corrisponde una valutazione che in
-caso positivo implica la "parola data"
+- In sostanza non cercare di nascondere il problema ma
+prenderne atto e cercare una soluzione.
 
-- @Antonio_Langiu: Se emergenza vera: 1)Informare direttamente 2)Chiedere
-scusa 3)Dire quando si potrà fare 4)Chiedere come attenuare disagio
-
-- @omerovitali: Schema alla lavagna. http://t.co/YeCHaYQDW5
-
-- @StefanoFranz20: In sostanza non cercare di nascondere il problema ma
-prenderne atto e cercare una soluzione
-
-- @Carrattrezzi: Integrità è anche scrupolo nel parlare ed attenzione
-al fatto che sia vero.
-
-- @SabryKarate: Perciò, prima di affermare un fatto bisogna accertarsi
+- prima di affermare un fatto bisogna accertarsi
 che questo sia verificato. Non riferite solo "per sentito dire".
 
-- @FabioVallone: è importante crearsi una buona reputazione e
+- è importante crearsi una buona reputazione e
 attendibilità, quindi una buona Integrità
 
-- @Ale_Cannone:  integrità ---> persona attendibile, efficiente
-e coerente
-
-- @bassosimone: "L-worlds - the curious preference for low quality and
+- "L-worlds - the curious preference for low quality and
 its norms" by D. Gambetta e G.Origgi << [pdf] http://t.co/11nFGzbKgJ
 
-- @SabryKarate: Perché in Italia predomina l'idea: ti offro poco,
+- Perché in Italia predomina l'idea: ti offro poco,
 fai in fretta, non mi interessa il risultato ma basta che sia fatto?
 
-- @DavidePalermo2: Def. di bozzaccia http://t.co/6C5QaFqeTI
+- In Italia sono comuni le richieste impossibili entro tempi
+brevi, che portano a "bozzacce".Def. di bozzaccia http://t.co/6C5QaFqeTI
 
-- @Clerish: In Italia sono comuni le richieste impossibili entro tempi
-brevi, che portano a "bozzacce"
-
-- @FabioVallone: in alcune relazioni esiste anche la "bozzaccia" ovvero
-tempi stretti, ma il lavoro è di scarsissima qualità...
-
-- @EmaParrinello: integrità significa anche rendersi conto che in alcuni
+- integrità significa anche rendersi conto che in alcuni
 casi non si è in grado di poter soddisfare la richiesta
 
-- @FabioVallone: Le aziende dove domina l'integrità, sono 2 volte più
+- Le aziende dove domina l'integrità, sono 2 volte più
 efficienti delle altre
 
-- @SabryKarate: E' meglio prendersi tempi più lunghi, ma eseguire un
-lavoro in maniera più accurata piuttosto che fare tutto "alla carlona"
+- Valutare le richieste con la testa e non con il cuore.Nella valutazione della richiesta, l'autoinganno è un
+rischio pericoloso.
 
-- @FeFallace: L'integritá funziona! Le aziende che la impongono producono
-più del doppio.
+- 3) Logical Fallacies
+   "Thou shall not commit logical fallacies"
 
-- @Carrattrezzi: Valutare le richieste con la testa e non con il cuore
+- What is a Logical fallacy? Take a look on this wiki page:
+  http://t.co/Sh7Alpl6PD
 
-- @Clerish: Le aziende in cui predomina l'integrità sono in media più
-del doppio di efficienti rispetto alle altre
+- https://t.co/fOpWGnzF6B Immagine delle Logical Fallacies
 
-- @FabioVallone: Nella valutazione della richiesta, l'autoinganno è un
-rischio pericoloso
-
-- @ripa_pepperipa: • L’auto-inganno è un rischio particolarmente
-forte nella valutazione della richiesta
-
-- @SabryKarate: "Thou shall not commit logical fallacies"
-
-- @Ale_Cannone:  uno sguardo sull'Italia
-
-- @SabryKarate: What is a Logical fallacy? Take a look on this wiki page:
-http://t.co/Sh7Alpl6PD
-
-- @DavidePalermo2: Thou shalt not commit logical fallacies
-http://t.co/6C5QaFqeTI
-
-- @DavidePalermo2: https://t.co/fOpWGnzF6B Immagine delle Logical
-Fallacies
-
-- @Clerish: La peggiore fallacia logica è "ad hominem attack": attaccare
+a) Ad hominem attack - attacco ad personam 
+- La peggiore fallacia logica è "ad hominem attack": attaccare
 l'opponente invece della sua tesi
 
-- @SabryKarate: 1) Ad hominem attack - attacco ad personam 2) Strawman
-(Spaventapasseri) - deformo l'argomentazione dell'opponente
-
-- @Clerish: La fallacia logica dello "strawman attack" (spaventapasseri)
-può passare inosservata da chi ascolta senza attenzione
-
-- @Ale_Cannone:  logical fallacies: 1. Ad hominem attack
-2. Spaventapasseri (strawman) 3. Anedottica
-
-- @SoFranchy: Logical fallacies, parallelismo inevitabile e frequente
-con la politica italiana e sui "salotti di tribuna politica"
-
-- @bassosimone: - la persona professionale chiede se ha capito bene
-l'argomentazione per esser sicuro appunto di aver capito
-
-- @fabioricca93: È evidente che cicerone nel foro romano non usava le
-logical fallacies (ad hominem attack/spaventapasseri)
-
-- @SabryKarate: Interesting list of logical fallacies:
-http://t.co/in6ZHb2jF8
-
-- @Clerish: La fallacia logica "anedottica" si basa sul generalizzare
-un singolo fatto come se valesse per tutti
-
-- @paolopopolizio: D'AGOSTINI FRANCA https://t.co/46MDWtpKMS
-
-- @Rexsimo893: Anedottica: prendere singolo fatto e generalizzarlo anche
-se non rappresenta la verità
-
-- @Ale_Cannone:  ad hominem attack: quando non si riesce ad attaccare
-un a4gomento altrui si attacca la persona
-
-- @Antonio_Langiu: Fallacce Logiche: 1) ad hominem attack 2) i
-spaventapasseri 3) anedottica
-
-- @Ale_Cannone:  spaventapasseri: presentare la tesi di qualcuno
+b) Strawman (Spaventapasseri) - deformo l'argomentazione dell'opponente
+spaventapasseri: presentare la tesi di qualcuno
 deformandola consciamente (attacco vigliacco)
 
-- @Clerish: Altra fallacia logica è quella della "slippery slope"
+c) Anedottica
+- La fallace logica "anedottica" si basa sul generalizzare
+un singolo fatto come se valesse per tutti,anche
+se non rappresenta la verità.
+
+d)Slippery slope (China pericolosa) - conseguenze non dimostrate
+- Altra fallace logica è quella della "slippery slope"
 (china pericolosa), che esagera i rischi della tesi da attaccare
-
-- @bassosimone: il problema dello slipper slope sta appunto nell'
+- il problema dello slipper slope sta appunto nell'
 "inevitabilmente"
+- Slipper Slope è un "effetto a valanga"
 
-- @LucaLiuzzi: Adesso che conosco bene le logicalfallacies non potrò
-non notarle ogni giorno,ogni min anche sui giornali.damnit
 
-- @EmaParrinello: logical fallacy anedottica consiste nel fare delle
-deduzioni partendo da casi particolari da cui non si può generalizzare
 
-- @paolopopolizio: "china pericolosa": un conseguenza autoevidente,
-senza che sia necessariamente vero
-
-- @SabryKarate: 3)Anedottica - da fatto particolare -> "regola
-generale" 4)Slippery slope (China pericolosa) - conseguenze non dimostrate
-
-- @Ale_Cannone:  anedottica: prendere un singolo dato, anche vero,
-e generalizzarlo come fatto generale
-
-- @_FedericoConte: Slipper Slope è un "effetto a valanga"
-
-- @Ale_Cannone:  china pericolosa (slippery slope) una serie di
-conseguenze successive non dimostrate
-
-- @bassosimone: lo slippery slope e' spesso legato ad argomenti morali
-
-- @SabryKarate: E' molto facile manipolare le informazioni tramite
-appropriati giri di parole o argomentazioni false http://t.co/jgTnXHVTPN
-
-- @DavidePalermo2: Proibizionismo http://t.co/WZ75X4uSKb
-
-- @StefanoFranz20:  logicalfallacies http://t.co/9RfHLlMr7d
-
-- @SoFranchy: Logical fallacies ad hominem attack: attaccare persona,
-non argomento; strawman: deformare opinione altrui per attaccarla
-
-- @FabioVallone: In molti casi si cerca di semplificare al massimo le
-opzioni: una negativa e una positiva
-
-- @SabryKarate: 5) Black & White (bianco e nero) - si presentano
+e)Black&White(bianco e nero) - T.i.n.a. = there is no alternative 
+- si presentano
 solo 2 opzioni, una negativa ed una positiva -> la scelta e' indotta
-
-- @Clerish: Infine, la fallacia logica "Bianco o Nero" esclude l'esistenza
+- Infine, la fallacia logica "Bianco o Nero" esclude l'esistenza
 di sfumature tra la propria tesi e quella rivale
-
-- @Carrattrezzi: 1) Ad hominem attack 2) Spaventapasseri 3) Anedottica 4)
-China pericolosa 5) Bianco e nero (There Is No Alternative)
-
-- @FabioVallone, @AntonioLangiu: TINA -> There Is No Alternative
-
-- @Clerish: TINA: There Is No Alternative
-
-- @SabryKarate: "T.I.N.A." There is no alternative
-
-- @ripa_pepperipa: - La fallacia logica Bianco o Nero: Nello strutturare
-la discussione dicendo o è così o così --> solo 2 opzioni.
-
-- @SoFranchy: Logical fallacies Aneddotica: basarsi su singolo evento
-e generalizzare;
-
-- @paolopopolizio: "TINA" : There Is No Alternative, atto di prepotenza
-e arroganza
-
-- @DavidePalermo2: TINA http://t.co/8FrfARvuum
-
-- @FabioVallone: Di solito chi utilizza il metodo TINA commette un atto
-di prepotenza
-
-- @fabioricca93: LOG.FALL. Bianco o nero=in una discussione dico
-VOLONTARIAMENTE che una cosa o è in un modo o in un'altro\ No altre
-opzioni
-
-- @Clerish: Chi usa l'argomento TINA commette di solito un atto di
-prepotenza
-
-- @Ale_Cannone:  bianco o nero: le opzioni sono solamente due di cui
+- atto di prepotenza e arroganza
+- le opzioni sono solamente due di cui
 una è sicuramente negativa per far apparire l'altra migliore
 
-- @SoFranchy: Logical fallacies slippery slope: addurre "inevitabili"
-(non dimostrate) conseguenze negative a tesi altrui
+f) False cause
 
-- @venadavide: "TINA: There Is No Alternative"
-
-- @Carrattrezzi: 6) False cause
-
-- @Clerish: La fallacia logica "False cause" implica una causalità
+- La fallacia logica "False cause" implica una causalità
 infondata (x è la causa di y)
+- attenzione a non confondere la "causazione" con la
+"correlazione".Correlation does not imply causation | http://t.co/UGu9l1uZqb
+- due fenomeni di cui uno è la causa dell'altro ma ciò è infondato
 
-- @SoFranchy: Logical fallacies: Bianco e nero: far intendere che ci
-sono solo due opinioni e distruggere quella altrui (TINA)
-
-- @EmaParrinello: attenzione a non confondere la "causazione" con la
-"correlazione"
-
-- @bassosimone: - correlation does not imply causation |
-http://t.co/UGu9l1uZqb
-
-- @Ale_Cannone:  false cause: due fenomeni di cui uno è la causa
-dell'altro ma ciò è infondato
-
-- @LucaLiuzzi: Penso che le logicalfallacies sono la causa di molti
-pregiudizi.
-
-- @SabryKarate: 6) False cause - causalità infondata di un fatto
-cit. @demartin: "x è la causa di y"
-
-- @FabioVallone: Faulse Cause "X è la causa di Y" ma
-infondato. Correlazione != Causazione
-
-- @fabioricca93: correlazione != causazione
-
-- @SoFranchy: Logical fallacies False cause: presentare (senza prove)
-la casualità di un fenomeno. Correlazione è diverso da causazione.
-
-- @Carrattrezzi: http://t.co/OsfHAzLsHl e anche http://t.co/KRCIQHmB4c
-
-- @Clerish: Se c'è una correlazione tra risultati scolastici e libri
-in casa, bisogna pensare che un fatto non è la causa dell'altro
-
-- @SabryKarate: Non si può ottenere tutta la conoscenza solo comprando
-una carrellata di libri. Possesso di libri non implica conoscenza.
 
 
 ## @bassosimone
 
 ### Approfondimenti: bitly, Crap detection e Tor
 
-- @EricaAcire19: pronti per una nuova lezione di @bassosimone ...
+- "In viaggio con Narsete: da bit.ly a Tor, passando per
+la crap detection"
 
-- @DavidePalermo2: @bassosimone introduce il lavoro "volontario" fatto
-sul l'indice di github File Index.md http://t.co/kBOdqCRlRa
 
-- @Carrattrezzi:  http://t.co/0AaaLj4eeN
 
-- @DavidePalermo2: Crap detector - Il sensore di boiate:
-http://t.co/rbchnp1GPl di @lucadebiase Per anticipare la lezione di
-@bassosimone
-
-- @SabryKarate: Dopo la pausa, @bassosimone parlerà di Crap detection
-ed altro.
-
-- @FabioVallone: e @bassosimone disse: "Pioggia!" ... e pioggia fù...
-
-- @SabryKarate: "In viaggio con Narsete: da bit.ly a Tor, passando per
-la crap detection" by @bassosimone
-
-- @Carrattrezzi: Argomenti di oggi: -bit.ly -tor -crap detection
-
-- @DavidePalermo2: Parliamo con @bassosimone di bit.ly e Tor OT O
-Thor? http://t.co/rtEwEIt0QW /OT
-
-- @Carrattrezzi: Eunuchi e robustezza bizantina
-
-- @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete alla
-crapdetenction.
-
-- @SabryKarate: Robustezza bizantina: il tutto funziona anche se c'è
-un guasto!
-
-- @Clerish: @EricaAcire19 @SabryKarate E' la maledizione di !
-
-- @Ale_Cannone:  robustezza bizantina: i generali non possono comunicare
+- Robustezza Bizantina: i generali non potevano comunicare
 tra loro e alcuni sono traditori ma l'attacco è vincente
 
-- @DavidePalermo2: Un temporale con poderosi tuoni si abbatte su Torino
-Ma noi siamo con @bassosimone a seguire
+- robustezza bizantina applicata a internet
 
-- @Carrattrezzi: Come stabilire l'affidabilità di persone e siti
-su internet
+- Come stabilire l'affidabilità di persone e siti
+su internet?
 
-- @Ale_Cannone:  robustezza bizantina applicata a internet
 
-- @ripa_pepperipa: come faccio a valutare l'affidabilità dei link? mi
-fido della persona?
+1. Bit.ly
 
-- @FabioVallone: Scrivere sempre Tor e non TOR...
-
-- @EmaParrinello: @bassosimone ci parlerà a breve di: -bit.ly -phishing
--crap detection -Tor
-
-- @Ale_Cannone:  di chi mi devo fidare in internet? Parliamo di: 1. Bit.ly
-2. Email e phishing 3. Crap detection 4. Tor
-
-- @SoFranchy: Di chi ti fidi? In relazione a bit.ly & link, e-mail
-& phishing, pagine web & fonti, Tor
-
-- @LucaLiuzzi: @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete
-alla crapdetection.
-
-- @Carrattrezzi: @bassosimone aveva twittato questo http://t.co/Wqf42N4Y0R
-
-- @venadavide: La magia che sta dietro link lungo e link corto bitly
-
-- @FabioVallone: automatismo bit.ly: PC->DNS (IP di bit.ly)
+- come faccio a valutare l'affidabilità dei link?
+- bit.ly utilizza un processo di Http Redirection
+- automatismo bit.ly: PC->DNS (IP di bit.ly)
 PC->bit.ly(link lungo) PC->sito che mi interessa
-
-- @Clerish: Basta aggiungere un + alla fine di un URL bit.ly per vedere
+- Basta aggiungere un + alla fine di un URL bit.ly per vedere
 dove vi porterà.
-
-- @SoFranchy: URL bit.ly con l'aggiunta di "+" per scoprire a cosa porta
-prima ancora di andarci.
-
-- @FabioVallone: mettendo un + in fondo al link bit.ly, ci permette di
-conoscere dove finiremmo
-
-- @SabryKarate: Possiamo scrivere http://t.co/EUzDrp4l9h per osservare
-in che pagina Web il bitly ci potrebbe portare, prima di entrarvi.
-
-- @venadavide: Per controllare dove ci manda un bitly possiamo aggiungere
-al fondo dell'URL un "+"
-
-- @ripa_pepperipa: se riceviamo un bitly e abbiamo paura, aggiungiamo un
-"+" per verificarene la pagina senza nessun rischio
-
-- @Ale_Cannone:  se in un URL bit.ly vogliamo sapere dove porta basta
-mettere un + alla fine dell'indirizzo
-
-- @CaracciFabio: Con bit.ly tre passaggi in più per essere reindirizzati
-alla pagina cercata.
-
-- @Clerish: Con il tool per command line "curl" il completo processo di
+- Con il tool per command line "curl" il completo processo di
 bit.ly è visualizzato
-
-- @Carrattrezzi: curl è un buon modo per vedere tutto ciò che succede
-ai nostri URL
-
-- @paolopopolizio: aggiungendo "+" al link di bitly ti dice dove finiamo
-se clicchiamo su quel link
-
-- @FabioVallone: bit.ly utilizza un processo di Http Redirection
-
-- @SabryKarate: Modo poco geek: mettere un "+" in fondo a bitly. Modo
-geek: usare un tool come Curl.
-
-- @Ale_Cannone:  http redirection: vai in un indirizzo per essere
-re-indirizzato in un altro sito (moved)
-
-- @EmaParrinello: Per controllare dove andremo a finire con un link
-corto possiamo aggiungere un "+" alla fine dell'URL o usare "curl"
-
-- @SoFranchy: http redirection. Aggiungendo "+" si evita la "redirezione"
-di bit.ly e si ottengono solo info sul'url corta.
-
-- @DavidePalermo2: Provate http://t.co/XqwXzEZw17 ;-)
-
-- @LucaLiuzzi: Per esempio: “@rep_torino: Sei ragazzi del “Poli a
-Pasadena a progettare i robottini per Marte: http://t.co/BJchBzjFzW”
-
-- @SoFranchy: in alternativa si può usare "curl" da riga di comando
-che funziona non solo con bit.ly
-
-- @Ale_Cannone: Le URL corte sono utili nelle mail in quanto certe volte
-le righe vanno a capo automaticamente dopo 80 caratteri
-
-- @SabryKarate: Uso di URL corti PROS: - per email (però descrivendo
-origine) - click stats CONS: - non è chiaro dove ci porta!
-
-- @SabryKarate: Non serve utilizzare URL corti su Twitter, perché come
-abbiamo visto il link viene accorciato automaticamente. :)
-
-- @Clerish: Il rasoio di Occam: http://t.co/6N7FD7ZXS1
-
-- @Ale_Cannone:  bit.ly utile nelle mail ma attenti alla robustezza,
+- bit.ly utile nelle mail ma attenti alla robustezza,
 privacy, sicurezza e okkam
-
-- @SabryKarate: Attenzione, i bitly hanno CONTRO riguardo a: chiarezza
-della fonte, robustezza, privacy, security, okkam,...
-
-- @LucaLiuzzi: 301works http://t.co/fLJkXbPhr9
-
-- @SabryKarate: Il DNS, bitly e simili sono utili, tuttavia può essere
+- Il DNS, bitly e simili sono utili, tuttavia può essere
 un problema se finiscono down.
 
-- @Carrattrezzi: pro e contro di bit.ly  http://t.co/YtuFQwwUXt
+2. Email e phishing 
 
-- @SabryKarate: La Security è l'aspetto più critico di bitly!
-
-- @SabryKarate: Cookie, pezzetti di informazione che vengono memorizzati
+- Le URL corte sono utili nelle mail in quanto certe volte
+le righe vanno a capo automaticamente dopo 80 caratteri
+- Uso di URL corti 
+PROS: - per email (però descrivendo
+origine) 
+CONS: - non è chiaro dove ci portano!
+- Non serve utilizzare URL corti su Twitter, perché come
+abbiamo visto il link viene accorciato automaticamente.
+- Cookie, pezzetti di informazione che vengono memorizzati
 e che possono essere rubati...
-
-- @SabryKarate: Utilizziamo un errore a scopo didattico :)
-
-- @SabryKarate: Funzione di hash on wiki http://t.co/YWzDYxfigM
-
-- @SabryKarate: <script> alert(document.cookie);</script>
-
-- @Carrattrezzi: Phishing (Phracking and fishing) getti delle esche per
-far abboccare dumb users
-
-- @SabryKarate: Parliamo ora di Phishing! Un gioco di parole tra
-"phracking" e "fishing". Senso -> i tonni abboccano.
-
-- @FlavioGiobergia: @bassosimone ci parla di XSS facendomi passare per
-un programmatore di bug :-)
-
-- @Clerish: Il phishing sui "pesci grossi" si dice Wailing (caccia
+- Phishing (Phracking and fishing) getti delle esche per
+far abboccare dumb users.
+- Il phishing sui "pesci grossi" si dice Wailing (caccia
 alla balena)
 
-- @SabryKarate: Phishing fatto su "pesci grossi" ---> Whaling
-http://t.co/TzU00RMV5l
+- i passi del phishing: 
+ 1. Manipolazione dei link 
+ 2. Email credibile 
+ 3. Sito credibile
 
-- @Ale_Cannone:  i passi del phishing: 1. Manipolazione dei link 2. Email
-credibile 3. Sito credibile
-
-- @LucaLiuzzi: Impariamo quanto è importante svuotare la propria cache
-periodicamente e non solo.
-
-- @Ale_Cannone:  manipolazione dei link può essere attuata attraverso
-bit.ly
-
-- @SabryKarate: Si può ingannare un user usando: mail credibile,
-manipolando il link (non troppo lungo) e sfruttando un sito credibile.
-
-- @EmaParrinello: bit.ly ci può essere di aiuto per evitare di essere
-vittima di un phishing attack
-
-- @Carrattrezzi: @bassosimone scrive davvero gli URL a mano O.o
-
-- @SabryKarate: Attenzione alle mail che vi chiedono di inserire dati
-personali! Se non siete sicuri, informatevi e non fatevi imbrogliare
-
-- @Ale_Cannone:  un esempio di manip dei link riguarda il fatto che
-alcune URL sono insolitamente lunghe e finiscono con domini "strani"
-
-- @SoFranchy: E' possibile "sgamare" un phishing se vengono richiesti
-dati personali che l'ente dovrebbe già avere
-
-- @SabryKarate: Per difendere bisogna coprire tutto, senza lasciare
+- Per difendere bisogna coprire tutto, senza lasciare
 talloni di Achille. Per attaccare basta una piccola falla nel sistema.
 
-- @SoFranchy: Miglioramento della sicurezza si ha tramite il Two Factor
-Authentication. I.E. sms oltre a user e pw.
 
-- @Gare_1993: Crap detection time
+3. Crap detection 
 
-- @SabryKarate: "Every man should have a build-in automatic crap detection
+- "Every man should have a build-in automatic crap detection
 operating inside him..." cit. Ernest Hemingway
-
-- @Ale_Cannone: Si parla di sicurezza su interntet a  Qui il caso Prism
-in America http://t.co/yljVN2JrNW @RivoluzDigitale
-
-- @Carrattrezzi: Net smart by Howard Rheingold
-
-- @SoFranchy: Che info dare al lettore crap detector: nome dell’autore
+- Che info dare al lettore crap detector: nome dell’autore
 cosa ha fatto in passato e cosa dicono altri di lui: reputazione
-
-- @SoFranchy: Creiamo una pagina Wikipedia su @bassosimone!
-
-- @SabryKarate: Su Google si possono facilmente trovare dati più precisi
+- Su Google si possono facilmente trovare dati più precisi
 che ci mostrino il contesto culturale dell'autore di un blog post.
-
-- @Ale_Cannone:  whoise: un tool che aiuta a capire di chi è un certo
+- whoise: un tool che aiuta a capire di chi è un certo
 dominio
-
-- @Clerish: Altro tool: "WhoIs" (da usare con cautela)
-
-- @LorenzoCutelle: Per cercare di capire chi è il proprietario del
-dominio, una possibile soluzione è 'whois'
-
-- @Carrattrezzi: @disinformatico
-
-- @ripa_pepperipa: a si parla di Paolo Attivissimo @disinformatico
-
-- @SabryKarate: @disinformatico Giornalista informatico, cacciatore di
-bufale e conduttore Radio
-
-- @Ale_Cannone:  sempre accertarsi delle fonti e non fidarsi sempre
+- sempre accertarsi delle fonti e non fidarsi sempre
 ciecamente della persona
 
-- @SabryKarate: Tor: Routing a cipolla http://t.co/ydTK6HjLp2
+4. Tor
 
-- @Carrattrezzi: The Onion Routing
-
-- @Ale_Cannone:  Tor: i pacchetti vengono cifrati e diventa difficile
+- Tor: Routing a cipolla http://t.co/ydTK6HjLp2
+- Tor: i pacchetti vengono cifrati e diventa difficile
 capire chi è il mittente e chi il destinatario
-
-- @EmaParrinello: Tor: implementazione di "routing a cipolla" in cui i
-pacchetti sono cifrati più volte--> è difficile risalire al mittente
-
-- @Ale_Cannone:  il terzo livello di Tor è chiamato exit node e conosce
+- il terzo livello di Tor è chiamato exit node e conosce
 il destinatario il primo conosce invece il mittente
-
-- @SabryKarate: Tor è un software che si può installare sul pc. Puoi
-scegliere tra varie opzioni: essere solo client, nodo della rete,...
+- Tor è un software che si può installare sul pc. Puoi
+scegliere tra varie opzioni: essere solo client, nodo della rete,ecc.
 
 
 
