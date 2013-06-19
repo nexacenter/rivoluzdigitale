@@ -8,7 +8,7 @@ License: CC BY-SA 3.0 Unported
 ## Elenco lezioni
 
 - 14 Giugno 2013
-- [12 Giugno 2013](#2013-06-12) 
+- [12 Giugno 2013](#2013-06-12) {work in progress: Sebastiano Franchina}
 - [07 Giugno 2013](#2013-06-07) {rivista da: Luca Liuzzi}
 - [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
 - [31 Maggio 2013](#2013-05-31) {rivista da: Sebastiano Franchina}
