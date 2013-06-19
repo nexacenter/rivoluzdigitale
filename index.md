@@ -9,7 +9,7 @@ License: CC BY-SA 3.0 Unported
 
 - 14 Giugno 2013
 - [12 Giugno 2013](#2013-06-12) 
-- [07 Giugno 2013](#2013-06-07) {work in progress: Luca Liuzzi}
+- [07 Giugno 2013](#2013-06-07) {rivista da: Luca Liuzzi}
 - [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
 - [31 Maggio 2013](#2013-05-31) {rivista da: Sebastiano Franchina}
 - [29 Maggio 2013](#2013-05-29) {rivista da: Davide Palermo}
