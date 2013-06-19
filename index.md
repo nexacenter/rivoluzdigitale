@@ -37,791 +37,768 @@ License: CC BY-SA 3.0 Unported
 
 ### Guest Lecturer Anna Masera - @annamasera
 
-- : Giornalismo, digitale e altro tra poco a
+- Giornalismo, digitale e altro tra poco a
 @RivoluzDigitale Guest Lecturer @annamasera , Social Media Editor de
 @la_stampa
 
-- : .@bassosimone: questa lezione in cui io vedo solo il
+- @bassosimone: questa lezione in cui io vedo solo il
 live tweeting e' la prova definitiva delle voste skills
 
-- : Here We Are with @annamasera Social Media Editor de
+- Here We Are with @annamasera Social Media Editor de
 @la_stampa Guest Lecturer di oggi a http://t.co/pDbZ4IFGHl
 
-- : Ospite a @annamasera, prima Social Media editor di un
-giornale nazionale
+- prima Social Media editor di un giornale nazionale
 
-- @AstoriPietro: Anna Masera proverà a spiegare cosa è successo nel
-giornalismo dopo la rivoluzione digitale
+- Anna Masera (@annamasera), Social Media Editor de La Stampa, ci parlerà di come
+la Rivoluzione Digitale abbia influito sul giornalismo
 
-- : @annamasera now at
-
-- : @annamasera ci parlerà di come la rivoluzione digitale
-ha influito sul giornalismo
-
-- : in aula ospite @annamasera, Social Media Editor de La Stampa
-
-- : cos'è successo al giornalismo in seguito alla
-RivoluzioneDigitale by @annamasera @la_stampa
-
-- : Giornalista dal 1984, da prima dei Computer, ho
+- Giornalista dal 1984, da prima dei Computer, ho
 vissuto la sulla mia pelle, studiavo alla Columbia University @annamasera
 
-- : Anche @annamasera ha notato gli effetti della sulla
+- Anche @annamasera ha notato gli effetti della sulla
 propria pelle, infatti ha iniziato la carriera giornalistica nel 1984.
 
-- : Fa giornalismo dal 1984 e ha visto la rivoluzione digitale
+- Fa giornalismo dal 1984 e ha visto la rivoluzione digitale
 sulla sua pelle: da macchine da scrivere ai tablet
 
-- : @annamasera ci racconta della rivoluzione digitale
+- @annamasera ci racconta della rivoluzione digitale
 nel mondo del giornalismo..
 
-- : Dalla macchina da scrivere ai tablet col wifi..
+- Dalla macchina da scrivere ai tablet col wifi..
 
-- : Gran parte di giornalisti si è adeguata alla , altri
+- Gran parte di giornalisti si è adeguata alla , altri
 sono analfabeti sul digitale e si sentono tagliati fuori.
 
-- @Rexsimo893: Anche in ambito giornalistico chi non rimane al passo
+- Anche in ambito giornalistico chi non rimane al passo
 coi tempi è tagliato fuori dalla rivoluzione digitale
 
-- : Dagli anni 80 il mondo del giornalismo è molto cambiato
+- Dagli anni 80 il mondo del giornalismo è molto cambiato
 con la digitalizzazione
 
-- : l' analfabetismo digitale grande piaga italiana
+- l' analfabetismo digitale grande piaga italiana
 
-- @AstoriPietro: I giornali sono sempre stati un luogo dove si davano
+- I giornali sono sempre stati un luogo dove si davano
 le notizie un po' dall'alto al basso.
 
-- @LorenzoCutelle: 'In Italia c'è un grande analfabetismo digitale che
+- 'In Italia c'è un grande analfabetismo digitale che
 taglia fuori da questa rivoluzione un larga fetta di popolazione' A.M.
 
-- : In passato il giornale era la fonte di tutte le notizie
+- In passato il giornale era la fonte di tutte le notizie
 
-- : Giornale era La Fonte di Informazioni, a partire dal
+- Giornale era La Fonte di Informazioni, a partire dal
 fondo (lo sport) fino alla prima pagina
 
-- : Prima dell'avvento di Internet, il giornale era il mezzo
+- Prima dell'avvento di Internet, il giornale era il mezzo
 principale per ottenere le notizie.
 
-- @Rexsimo893: Le notizie vengono a conoscenza della gente ancora prima
+- Le notizie vengono a conoscenza della gente ancora prima
 di uscire sui giornali
 
-- : "twitter è una agenzia stampa continua e gratuita
+- "twitter è una agenzia stampa continua e gratuita
 per tutti" @annamasera
 
-- @AstoriPietro: Il giornale sta cambiando proprio perché deve cercare
+- Il giornale sta cambiando proprio perché deve cercare
 di offrire di più di quello che già si sa..
 
-- : I giornali cambiano per cercare di fornire più
+- I giornali cambiano per cercare di fornire più
 informazioni
 
-- @Ale_Cannone: Il mondo del giornalismo è molto cambiato negli anni
+- Il mondo del giornalismo è molto cambiato negli anni
 '90 quando le informazioni erano solamente presenti nei giornali
 
-- : Siamo sommersi di informazioni
+- Siamo sommersi di informazioni
 
-- : I giornali stanno cambiando, per adeguarsi alle nuove
+- I giornali stanno cambiando, per adeguarsi alle nuove
 necessità sociali. Non ha senso leggere notizie ormai obsolete.
 
-- @Gian_Cirillo: Con il digitale, le notizie arrivano prima dell'uscita
+- Con il digitale, le notizie arrivano prima dell'uscita
 del giornale. Cambia il modo di fare giornalismo
 
-- @Rexsimo893: I giornali fanno fatica a dare su carta notizie per cui
+- I giornali fanno fatica a dare su carta notizie per cui
 valga la pena che lo si acquisti
 
-- @FabioVallone: molti giornali fanno fatica a offrire su carta cose
+- molti giornali fanno fatica a offrire su carta cose
 interessanti da acquistare
 
-- @AstoriPietro: Non c'è tempo per leggere il giornale, quindi i giornali
+- Non c'è tempo per leggere il giornale, quindi i giornali
 sono in crisi.
 
-- : Anni fa i giornali erano la prima fonte di notizie, oggi
+- Anni fa i giornali erano la prima fonte di notizie, oggi
 tutti conoscono già cosa leggono, serve qindi qualcosa in più
 
-- : Crisi del giornalismo e dei giornalisti? E' necessario
+- Crisi del giornalismo e dei giornalisti? E' necessario
 dare un valore aggiunto alle notizie che già sanno tutti
 
-- : Siamo sommersi dalle informazioni, non c'è tempo per
+- Siamo sommersi dalle informazioni, non c'è tempo per
 leggere tutto con attenzione. Si tende a tralasciare ciò che è noto.
 
-- : La fretta e il lag dei giornali nel fornire le notizie
+- La fretta e il lag dei giornali nel fornire le notizie
 rendono i giornali "vecchi" e il loro valore aggiunto è la qualità
 
-- @MorenoLaQuatra: Con @annamasera a , se fate oggi giornalismo, non
+- Con @annamasera a , se fate oggi giornalismo, non
 pensate che i giornali possano assumere crisigiornalistica @Boris_Marchi
 
-- : “Giornalista @la_stampa @annamasera parla
+- “Giornalista @la_stampa @annamasera parla
 dell'impatto del digitale sul giornalismo http://t.co/UmRywPZkqv”
 via @demartin
 
-- @Ale_Cannone:  la crisi del giornale è determinata dalla difficoltà
+-  la crisi del giornale è determinata dalla difficoltà
 di trovare un valore aggiunto nei giornali stessi
 
-- : La permette di scrivere cose dall'estero senza essere
+- La permette di scrivere cose dall'estero senza essere
 "corrispondenti"
 
-- @PieMarzio: "La rivoluzione digitale permette di abbassare i costi,
+- "La rivoluzione digitale permette di abbassare i costi,
 facendo giornalismo da casa" @annamasera
 
-- @Rexsimo893: La rivoluzione digitale permette di risparmiare sui costi
+- La rivoluzione digitale permette di risparmiare sui costi
 facendo per esempio un intervista o un servizio da casa
 
-- @AstoriPietro: Il lavoro del corrispondente sta scomparendo perché
+- Il lavoro del corrispondente sta scomparendo perché
 troppo costoso.
 
-- @FabioVallone: Con l'avvento della i corrispondenti dall'estero sono
+- Con l'avvento della i corrispondenti dall'estero sono
 diminuiti notevolmente
 
-- : La  permette di risparmiare sui costi facendo scrivere
+- La  permette di risparmiare sui costi facendo scrivere
 delle cose dall’estero stando a casa. Questo ha i suoi pro e contro.
 
-- @AstoriPietro: Il digitale permette di scrivere cose sull'estero stando
+- Il digitale permette di scrivere cose sull'estero stando
 a casa.
 
-- : Come si faceva la stampa prima dell'avvento di
+- Come si faceva la stampa prima dell'avvento di
 Internet? Il video a by @annamasera
 
-- : I giornali sono in crisi: le vendite sono
+- I giornali sono in crisi: le vendite sono
 ridotte. Internet ha preso il sopravvento, fornisce le notizie in
 tempo reale.
 
-- @Ale_Cannone:  ci sono molte meno corrispondenze all'estero, molte
+-  ci sono molte meno corrispondenze all'estero, molte
 sedi fuori dallo stato originale del giornale sono state chiuse
 
-- : C'è crisi nei giornali, non si assume, si pre-prensiona,
+- C'è crisi nei giornali, non si assume, si pre-prensiona,
 gli inviati esteri vengono sempre più eliminati.
 
-- @AstoriPietro: Dal '94 Anna Masera si occupa di internet
+- Dal '94 Anna Masera si occupa di internet
 
-- : "Ho iniziato a occuparmi di internet nel 1994 a
+- "Ho iniziato a occuparmi di internet nel 1994 a
 @panorama_it" @annamasera
 
-- : Vediamo ora un video riguardante il giornalismo prima
+- Vediamo ora un video riguardante il giornalismo prima
 e dopo la
 
-- : "Video Storico Time" a con @annamasera
+- "Video Storico Time" a con @annamasera
 http://t.co/tRPsHjiXXp
 
-- @AstoriPietro: Computer portatile M10?!? Fenomenale direi!
+- Computer portatile M10?!? Fenomenale direi!
 
-- : Video sull'evoluzione della stampa: le telescriventi
+- Video sull'evoluzione della stampa: le telescriventi
 permettevano di stampare testi tramite impulsi elettrici a distanza.
 
-- : Ragazzi 10€ a chi trova il link di questo video..
+- Ragazzi 10€ a chi trova il link di questo video..
 
-- @Clerish: I primi pc di La Stampa sembravano delle macchine arcade :-)
+- I primi pc di La Stampa sembravano delle macchine arcade-)
 
-- : Con gli sviluppi successivi ci sono migliori soluzioni
+- Con gli sviluppi successivi ci sono migliori soluzioni
 grafiche: ad un certo punto si inizia anche a formattare il testo.
 
-- : @annamasera ci fa vedere il confronto tra la stampa
+- @annamasera ci fa vedere il confronto tra la stampa
 di 20 anni fa e quella di oggi..
 
-- : Secondo video riguardante La Stampa... molto più figa la
-nuova sede :P
+- Secondo video riguardante La Stampa... molto più figa la
+nuova sedeP
 
-- @Clerish: Video: la nuova sede de La Stampa
+- Video: la nuova sede de La Stampa
 
-- : Ora lastampa oggi
+- Ora lastampa oggi
 
-- @LolloCler: i corrispondenti dall'estero stanno scomparendo per i
+- i corrispondenti dall'estero stanno scomparendo per i
 costi elevati..ora si usa il web,che accorcia le distanze e i tempi!
 
-- @AstoriPietro: Nuova sede de @la_stampa nel video di @annamasera
+- Nuova sede de @la_stampa nel video di @annamasera
 
-- : Dal vivo è molto meglio ;-) SPAZIO La Stampa -
+- Dal vivo è molto meglio ;-) SPAZIO La Stampa -
 An Unexpected Journey http://t.co/zF7rLSoK4A
 
-- @SimoneBleynat: La rivoluzione digitale rende vintage tutto ciò
+- La rivoluzione digitale rende vintage tutto ciò
 che ha a che fare con l'elettronica in una decina di anni appena.  lol
 
-- : "I giornali devono essere sugli schermi!"
+- "I giornali devono essere sugli schermi!"
 
-- @AstoriPietro: I giornali ormai devono essere innanzitutto sugli schermi
+- I giornali ormai devono essere innanzitutto sugli schermi
 
-- @Clerish: Adesso è anche importante la diffusione dei giornali sugli
+- Adesso è anche importante la diffusione dei giornali sugli
 schermi, non solo sulla carta
 
-- : Fantastico video mostra come dal 1968 al 2013 LaStampa
+- Fantastico video mostra come dal 1968 al 2013 LaStampa
 si sia evoluta: dalle telescriventi alle nuove risorse digitali.
 
-- @Ale_Cannone:  i giornali ormai devono stare sugli schermi, non solo
+- I giornali ormai devono stare sugli schermi, non solo
 sulla carta
 
-- @Gian_Cirillo: Un giornale per essere efficace al giorno d'oggi deve
+- Un giornale per essere efficace al giorno d'oggi deve
 essere sullo schermo
 
-- @FabioVallone: La stampa non utilizza più piccoli sottouffici, ma un
+- La stampa non utilizza più piccoli sottouffici, ma un
 grande open space, in questo modo c'è più comunicazione
 
-- : Uffici aperti a @la_stampa, ci viene spiegata
+- Uffici aperti a @la_stampa, ci viene spiegata
 l'importanza degli spazi aperti.
 
-- : La nuova sede de LaStampa è un openspace
+- La nuova sede de LaStampa è un openspace
 
-- @AstoriPietro: La stampa ora è in una sede in affitto e più piccola
+- La stampa ora è in una sede in affitto e più piccola
 per ridurre i costi. Testimonia la crisi dei giornali.
 
-- @SimoneBleynat: I giornali si adattano alla rivoluzione digitale anche
+- I giornali si adattano alla rivoluzione digitale anche
 modificando le proprie sedi
 
-- : Non più uffici ne La Stampa ma un'unico locale dove tutti
+- Non più uffici ne La Stampa ma un'unico locale dove tutti
 si vedono e comunicano costantemente @annamasera per
 
-- @Clerish: Anche quelli del Corriere della Sera si stanno ispirando a
+- Anche quelli del Corriere della Sera si stanno ispirando a
 La Stampa per il loro nuovo edificio
 
-- @FabioVallone: Nell'era del digitale l'integrazione è la carta
+- Nell'era del digitale l'integrazione è la carta
 vincente!
 
-- : Redazione Nazionale de @la_stampa - Open Space 360*
+- Redazione Nazionale de @la_stampa - Open Space 360*
 http://t.co/BVpajBgApH ce ne parla @annamasera
 
-- : Redazione Nazionale de @la_stampa - Sala di Redazione
+- Redazione Nazionale de @la_stampa - Sala di Redazione
 Centrale http://t.co/ceX6auXuV8
 
-- @AstoriPietro: Ne La Stampa c'è una riunione permanente per aggiornare
+- Ne La Stampa c'è una riunione permanente per aggiornare
 in continuazione il sito web.
 
-- : C’è sempre la riunione dove si sceglie cosa mettere in
+- C’è sempre la riunione dove si sceglie cosa mettere in
 prima pagina ma c’è sempre una riunione “Always on” per il Web
 
-- : negli uffici della @la_stampa tutti devono continuare
+- negli uffici della @la_stampa tutti devono continuare
 ad aggiornare le notizie in tempo reale. Il giornale all'ultimo posto
 
-- : Integrazione: con l'era digitale le redazioni sono unite,
+- Integrazione: con l'era digitale le redazioni sono unite,
 per permettere una comunicazione diretta delle notizie.
 
-- @Gian_Cirillo: Con il digitale, il giornale deve aggiornarsi
+- Con il digitale, il giornale deve aggiornarsi
 continuamente per fornire news corrette tramite web
 
-- : Oggi prima del giornale cartaceo priorità alle
+- Oggi prima del giornale cartaceo priorità alle
 notizie sul web
 
-- @FabioVallone: Ormai si produce prima il giornale "digitale" e poi
+- Ormai si produce prima il giornale "digitale" e poi
 quello cartaceo
 
-- : Richiamo continuo tra giornale cartaceo ed il Web,
+- Richiamo continuo tra giornale cartaceo ed il Web,
 il giornale richiede però approfondimenti ulteriori ed innovazioni.
 
-- @MorenoLaQuatra: A lezione di la Sociale Media Editor de
+- A lezione di la Sociale Media Editor de
 @Torino_LaStampa http://t.co/d3LnquFwFv
 
-- @bassosimone: certo che la pipeline delle notizie (e la sua costruzione,
+- certo che la pipeline delle notizie (e la sua costruzione,
 mantenimento) deve essere davvero una figata
 
-- @FabioVallone: Chi scrive per il giornale cartaceo, scrive anche per
+- Chi scrive per il giornale cartaceo, scrive anche per
 la versione digitale
 
-- : @annamasera parla di @martaottaviani, del blog su
+- @annamasera parla di @martaottaviani, del blog su
 @la_stampa e della sua cronaca in tempo reale dalla turchia geziparki
 
-- @Ale_Cannone: Il sito web va aggiornata sempre tutto il giorno -->
+- Il sito web va aggiornata sempre tutto il giorno -->
 differenza col giornale cartaceo
 
-- @PieMarzio: Il liveblogging con audio, video e foto è molto più
+- Il liveblogging con audio, video e foto è molto più
 fruibile rispetto all'articolo di blog standard.
 
-- : "Non si sa se funzionerà il nuovo modo di fare giornalismo"
+- "Non si sa se funzionerà il nuovo modo di fare giornalismo"
 è la frase centrale. La  è in evoluzione
 
-- @AstoriPietro: La Stampa tv serve per attirare utenti interessati a
+- La Stampa tv serve per attirare utenti interessati a
 video e video interviste. Ormai i lettori della carta sono vecchi
 
-- : Un canale Youtube o un buon sito Web può attirare
+- Un canale Youtube o un buon sito Web può attirare
 numerosi utenti che normalmente non comprerebbero un giornale.
 
-- @Ale_Cannone: I video e le immagini sono molto intuitivi ed apprezzati
+- I video e le immagini sono molto intuitivi ed apprezzati
 rispetto al materiale cartaceo
 
-- : I giornali devono reinventarsi e usufruire di tutte
+- I giornali devono reinventarsi e usufruire di tutte
 le vie di sbocco..internet..video..cartaceo..
 
-- @Rexsimo893: Il giornale sta cercando di essere là dove c'è più
+- Il giornale sta cercando di essere là dove c'è più
 richiesta da parte degli utenti, e quindi diverse piattaforme Web
 
-- : l'età media di chi guarda il TG1 è 60
+- l'età media di chi guarda il TG1 è 60
 anni. sapevatelo
 
-- : Gli inviati esteri postano il live tweeting, un blog che
+- Gli inviati esteri postano il live tweeting, un blog che
 viene aggiornato in tempo reale e alla fine gli articoli su carta.
 
-- : Secondo i sondaggi, l'età media di chi legge i giornali
+- Secondo i sondaggi, l'età media di chi legge i giornali
 è di 60 anni!
 
-- @AstoriPietro: L'età media di chi guarda il tg1 è di 60 anni! Lo
+- L'età media di chi guarda il tg1 è di 60 anni! Lo
 stesso vale per chi legge il giornale cartaceo.
 
-- @Clerish: L'età media di chi guarda il TG1 è di 60 anni
+- L'età media di chi guarda il TG1 è di 60 anni
 
-- @Ale_Cannone: Il pubblico è ormai un pubblico digitale
+- Il pubblico è ormai un pubblico digitale
 
-- : Bisogna pensare a quel pubblico che è nativo digitale
+- Bisogna pensare a quel pubblico che è nativo digitale
 oggi e quindi anziano del futuro
 
-- @FabioVallone: L'età media dei lettori dei giornali di carta e del
+- L'età media dei lettori dei giornali di carta e del
 tg1 è di circa 60 anni...
 
-- : L'età media degli utenti del tg1 e del giornale
+- L'età media degli utenti del tg1 e del giornale
 "cartaceo" è di 60 anni. E' necessario un cambio di business model
 
-- @LorenzoCutelle: L'età media di chi legge i giornali cartacei coincide
+- L'età media di chi legge i giornali cartacei coincide
 con quella del pubblico del TG1: 60 anni... E io giovani? @annamasera
 
-- @FabioVallone: Per questo motivo bisogna fare anche la versione digitale
+- Per questo motivo bisogna fare anche la versione digitale
 del giornale se non si vuole perdere i clienti
 
-- : I giornali devono trovare un modello di business che possa
+- I giornali devono trovare un modello di business che possa
 sostenere anche la stampa su carta.
 
-- : Abbiamo perso in cinque anni un milione..che è
-tantissimo..
+- @la_stampa ha perso 1 milione di copie in 5 anni
 
-- : I giornali de @la_stampa in 5 anni hanno perso 1
-milione di copie
-
-- @PieMarzio: lastampa ha perso 1 milione di copie in 5 anni
-
-- : Secondo la FIEG in 5 anni la tiratura è diminuita di
+- Secondo la FIEG in 5 anni la tiratura è diminuita di
 1 milione di copie
 
-- : In 5 anni 1 milione di copie di giornali cartacei in
+- In 5 anni 1 milione di copie di giornali cartacei in
 meno vendute.
 
-- : "Dobbiamo dimostrare che vale la pena leggerci, dobbiamo
+- "Dobbiamo dimostrare che vale la pena leggerci, dobbiamo
 acquisire la fiducia del lettore. Abbiamo un M di copie in meno"
 
-- : Secondo la FIEG, in 5 anni persi un milione di copie di
+- Secondo la FIEG, in 5 anni persi un milione di copie di
 giornali: Read more on: http://t.co/48oN8bxHJQ
 
-- @Rexsimo893: "La carta non riesce a rinnovarsi e piace sempre meno al
+- "La carta non riesce a rinnovarsi e piace sempre meno al
 suo pubblico"
 
-- : oggi la carta piace meno al suo pubblico
+- oggi la carta piace meno al suo pubblico
 
-- @AstoriPietro: Il 2012 si è avuto un tracollo pubblicitario cartaceo. E
+- Il 2012 si è avuto un tracollo pubblicitario cartaceo. E
 nel frattempo si è avuto un calo di copie vendute.
 
-- @PieMarzio: Il calo per tutti i giornali è drastico e costante
+- Il calo per tutti i giornali è drastico e costante
 
-- : -35% dei ricavi pubblicitari per i giornali cartacei
+- -35% dei ricavi pubblicitari per i giornali cartacei
 e contrazione delle vendite
 
-- @paolopopolizio: : @annamasera ci insegna che i giornali su carta
+- @annamasera ci insegna che i giornali su carta
 stanno ormai sparendo e le notizie si diffondono via web
 
-- @FabioVallone: nei giornali c'è anche una crisi strutturale. In pochi
+- nei giornali c'è anche una crisi strutturale. In pochi
 anni ci sono state -22% di copie cartacee vendute
 
-- @AstoriPietro: In un anno i giornali hanno perso oltre un milione e
+- In un anno i giornali hanno perso oltre un milione e
 250 mila copie. Circa -22%
 
-- @Gian_Cirillo: La rivoluzione digitale cambia il business model del
+- La rivoluzione digitale cambia il business model del
 giornale: produrre carta e informare tramite web
 
-- : La pubblicità su internet costa molto meno
+- La pubblicità su internet costa molto meno
 
-- @AstoriPietro: Un investimento di 16 dollari sul cartaceo è diventato
+- Un investimento di 16 dollari sul cartaceo è diventato
 un investimento di 1 dollaro su internet. Colpa della crisi
 
-- : Ogni 16 dollari di pubblcità investiti sulla carta,
+- Ogni 16 dollari di pubblcità investiti sulla carta,
 sul Web soltanto 1 dollaro. La pubblicità su Internet costa meno!
 
-- @Ale_Cannone: La concorrenza nel web ha determinato anche la crisi
+- La concorrenza nel web ha determinato anche la crisi
 del giornale che deve riuscire a conquistare la fiducia dei lettori
 
-- @Clerish: @annamasera parla della crisi del settore giornalistico
+- @annamasera parla della crisi del settore giornalistico
 
-- : Non si puo piu pagare gli stipendi che paghiamo
+- Non si puo piu pagare gli stipendi che paghiamo
 adesso..
 
-- : Solo su internet va meglio. Non sicuro il passaggio da
+- Solo su internet va meglio. Non sicuro il passaggio da
 carta a internet perché gli investitori pubblicitari pagano meno.
 
-- : Internet va bene Ma il passaggio dalla carta al
+- Internet va bene Ma il passaggio dalla carta al
 digitale non è conveniente su tutti i fronti
 
-- @Rexsimo893: Bisogna cambiare modello di giornalismo!
+- Bisogna cambiare modello di giornalismo!
 
-- @AstoriPietro: La pubblicità su internet costa molto meno che sul
+- La pubblicità su internet costa molto meno che sul
 cartaceo. La pubblicità costituisce il finanziamento del giornale
 
-- @EmaParrinello: chi investiva 16$ sulla carta adesso investe un solo
+- chi investiva 16$ sulla carta adesso investe un solo
 dollaro su internet
 
-- @Ale_Cannone: La pubblicità nel web sta alla pubblicità cartacea
+- La pubblicità nel web sta alla pubblicità cartacea
 come 1:16 dollari ricavati
 
-- : Oltre al giornale cartaceo, bisogna gestire Youtube,
+- Oltre al giornale cartaceo, bisogna gestire Youtube,
 Facebook, Twitter,... Ma questo va a discapito della qualità?
 
-- : Servono dipendenti per piattaforme ma ci sono pochi soldi
+- Servono dipendenti per piattaforme ma ci sono pochi soldi
 per pagarli. Il risultato sarebbe una decrescita della qualità.
 
-- : @demartin scusi si può alzare un po il volume
-per favore?
-
-- : Anni fa, il giornale veniva letto solo sul
+- Anni fa, il giornale veniva letto solo sul
 cartaceo. Adesso, prevalentemente su Tablet, Smart Phones e Computer.
 
-- @Clerish: Presentazione di @annamasera sul giornalismo (2012): Tutti
+- Presentazione di @annamasera sul giornalismo (2012): Tutti
 in treno con il portatile. Oggi con il tablet o smartphone
 
-- : Joseph Pulitzer http://t.co/8bBrpf4zyk
+- Joseph Pulitzer http://t.co/8bBrpf4zyk
 
-- : C'è bisogno di buon giornalismo, per difendersi dalle
+- C'è bisogno di buon giornalismo, per difendersi dalle
 informazioni non di qualità. @rd_informazione
 
-- : Non è più una questione di quantità ma di qualità
+- Non è più una questione di quantità ma di qualità
 delle notizie
 
-- @paolopopolizio: : ci vuole un buon "giornalismo" per filtrare le
+- ci vuole un buon "giornalismo" per filtrare le
 informazioni giuste e affidabili
 
-- @AstoriPietro: Esprimi il tuo pensiero in modo conciso perché sia
+- Esprimi il tuo pensiero in modo conciso perché sia
 letto, in modo chiaro perché sia capito,
 
-- @AstoriPietro: in modo pittoresco perché sia ricordato e, soprattutto,
+- in modo pittoresco perché sia ricordato e, soprattutto,
 in modo esatto perché i lettori siano guidati dalla sua luce.
 
-- @Ale_Cannone:  bisogna distinguere il buon giornalismo dal caos
+-  bisogna distinguere il buon giornalismo dal caos
 delle notizie
 
-- : Secondo Pulitzer, bisogna esprimere il pensiero in modo
+- Secondo Pulitzer, bisogna esprimere il pensiero in modo
 conciso, chiaro, pittoresco ed esatto.
 
-- @EmaParrinello: Nell'era digitale è necessario un buon giornalismo
+- Nell'era digitale è necessario un buon giornalismo
 per evitare che si diffondano informazioni errate
 
-- @Gian_Cirillo: Nell'era dell'informazione, quale è la nostra, c'è
+- Nell'era dell'informazione, quale è la nostra, c'è
 bisogno di giornalismo
 
-- : la crisi del giornalismo è dovuta anche alla non
+- la crisi del giornalismo è dovuta anche alla non
 qualità!
 
-- @LorenzoCutelle: Siamo nell'era dell'informazione:il fatto che
+- Siamo nell'era dell'informazione:il fatto che
 i giornali siano in crisi non significa che il giornalismo lo
 sia.Tutt'altro!
 
-- : Joseph Pulitzer ha identificato modelli ancora attuali
+- Joseph Pulitzer ha identificato modelli ancora attuali
 per il buon giornalismo.
 
-- @paolopopolizio: : Joseph Pulitze: una stampa cinica e mercenaria
+- Joseph Pulitze: una stampa cinica e mercenaria
 creera un pubblico ignobile
 
-- @AstoriPietro: Pensiero di Joseph Pulitzer, non mio!
+- Pensiero di Joseph Pulitzer, non mio!
 
-- : Hrant Dink, giornalista e scrittore turco. Il giornalista
+- Hrant Dink, giornalista e scrittore turco. Il giornalista
 è un po' come un messaggero, non deve essere attaccato.
 
-- : Il giornalista secondo Hrant Dink
+- Il giornalista secondo Hrant Dink
 http://t.co/4KtaYTcllx
 
-- @paolopopolizio: : idea di giornalismo di hrant Dink: un giornalista è
+- idea di giornalismo di hrant Dink: un giornalista è
 come un messaggero, ricorda l'immagine di un uomo a cavallo, è sacro
 
-- : Ryszard Kapuscinski http://t.co/Gs4DxmrF7q
+- Ryszard Kapuscinski http://t.co/Gs4DxmrF7q
 
-- : Il giornalismo richiede due qualità: La prima è
+- Il giornalismo richiede due qualità: La prima è
 lo spirito di sacrificio. La seconda è la serietà assoluta.
 
-- @Rexsimo893: Kapuscinski: serietà assoluta qualità del giornalista
+- Kapuscinski: serietà assoluta qualità del giornalista
 -> c'è sempre qualcuno che la sa più lunga di te
 
-- @SimoneBleynat: Il giornalista deve essere umile
+- Il giornalista deve essere umile
 
-- : Ryszard Kapuscinski: il giornalista deve avere spirito
+- Ryszard Kapuscinski: il giornalista deve avere spirito
 di sacrificio, umiltà e serietà assoluta; non deve essere arrogante.
 
-- : Se consenti anche ad una sola persona di scoprire che
+- Se consenti anche ad una sola persona di scoprire che
 menti, che sei stato banale o impreciso allora avrai perduto
 
-- : Il giornalista deve essere un mediatore in grado di
+- Il giornalista deve essere un mediatore in grado di
 divulgare ciò che le persone pensano
 
-- @paolopopolizio: : ryszard Kapuscinscki: un giornalista è un mediatore
+- ryszard Kapuscinscki: un giornalista è un mediatore
 che offre fonti difficili da raggiungere
 
-- @PieMarzio: Con internet tutti possiamo raggiungere le fonti
+- Con internet tutti possiamo raggiungere le fonti
 
-- @CaracciFabio: Il giornale "La Stampa" ha registrato un calo negli
+- Il giornale "La Stampa" ha registrato un calo negli
 ultimi 5 anni di 1 milione di vendite a causa della digitalizzazione
 
-- @AstoriPietro: Con internet tutti possiamo raggiungere le fonti e se
+- Con internet tutti possiamo raggiungere le fonti e se
 siamo bravi possiamo essere in concorrenza con i giornalisti.
 
-- @MorenoLaQuatra: Dalle slides di Anna Masera http://t.co/0qYklbfhOz
+- Dalle slides di Anna Masera http://t.co/0qYklbfhOz
 
-- : Le regole analoghe di fondo: 1 cercare la verità
+- Le regole analoghe di fondo: 1 cercare la verità
 L'unico patto è col lettore, mai con il potere Separare i fatti
 dalle opin
 
-- : Regole "analogiche" del giornalismo: verità, servizio
+- Regole "analogiche" del giornalismo: verità, servizio
 al pubblico, fatto!=opinione, citare fonti, privato!=pubblico.
 
-- : Le regole analoghe di fondo  fai una
+- Le regole analoghe di fondo  fai una
 foto ;-)
 
-- @FabioVallone: Regole Giornalista: Cercare la verità L'unico patto è
+- Regole Giornalista: Cercare la verità L'unico patto è
 col lettore, mai con il potere Separare i fatti dalle opinioni
 
-- : Citare ma anche tutelare le fonti Distinguere tra
+- Citare ma anche tutelare le fonti Distinguere tra
 personaggi pubblici e cittadini privati Rispondere alle 5w
 
-- : Regola delle 5 W: who when where what why
+- Regola delle 5 W: who when where what why
 
-- : Regole di fondo: citare le fonti ma tutelarle, separare
+- Regole di fondo: citare le fonti ma tutelarle, separare
 fatti da opinioni, non scendere a patti col potere, cercare verità.
 
-- : "Le regole analogiche di fondo" con @annamasera a
+- "Le regole analogiche di fondo" con @annamasera a
 http://t.co/nuxJQMAw2d
 
-- @LorenzoCutelle: L'intervento di @annamasera per  Mi sento onorato a
+- L'intervento di @annamasera per  Mi sento onorato a
 esserci! http://t.co/CwULBibH0Z
 
-- @ManuelGuarino93: Per un giornalista, secondo Kapuscinski, è importante
+- Per un giornalista, secondo Kapuscinski, è importante
 essere consapevole che c'è sempre qualcuno che la sa più lunga di te.
 
-- : col web i lettori sono diventati audiance
+- col web i lettori sono diventati audiance
 
-- : Generalmente il lettore tende a leggere da in alto a
+- Generalmente il lettore tende a leggere da in alto a
 sinistra. Perciò la notizia più importante deve essere posizionata lì.
 
-- :  statistiche degli accessi alla stampa
+-  statistiche degli accessi alla stampa
 on-line.. http://t.co/ZpJuheIuf3
 
-- @AstoriPietro: La maggior parte dei lettori sul web scansione le pagine
+- La maggior parte dei lettori sul web scansione le pagine
 per capire se c'è ciò che sta cercando.
 
-- : Picco di letture alle 9 am considerando la giornata,
+- Picco di letture alle 9 am considerando la giornata,
 e il lunedì considerando la settimana.
 
-- @LucaLiuzzi: I giornalisti sono i primi a dover mostrare integrity e
+- I giornalisti sono i primi a dover mostrare integrity e
 diffonderla e a non dover commettere logicalfallacies. @demartin
 
-- @Rexsimo893: Un lettore scansiona in circa 7 secondi un articolo
+- Un lettore scansiona in circa 7 secondi un articolo
 focalizzando il testo a F, concentrandosi sulla parte in alto a sx
 
-- : Generalmente si arriva sui siti dei giornali solo da
+- Generalmente si arriva sui siti dei giornali solo da
 link esterni, ad esempio da Facebook o GoogleNews.
 
-- @EmaParrinello: capire se una notizia ci può interessare o meno è
+- capire se una notizia ci può interessare o meno è
 molto più facile su internet che su un giornale
 
-- @AstoriPietro: La gente va sul sito del giornale perché si imbatte
+- La gente va sul sito del giornale perché si imbatte
 fortuitamente in un link sui social network.
 
-- @paolopopolizio: : un occhio attento sul web legge da dx a sx un
+- un occhio attento sul web legge da dx a sx un
 articolo soffermandosi solo sulle cose che più gli interessano
 
-- : La maggior parte delle persone legge le notizie alle
+- La maggior parte delle persone legge le notizie alle
 9. Pochi quelli che li frequentano di notte
 
-- : Facebook: 900 milioni di utenti attivi, più di 70 lingue
+- Facebook: 900 milioni di utenti attivi, più di 70 lingue
 
-- @FabioVallone: I giornalisti sono legati a Twitter ma l'audience è
+- I giornalisti sono legati a Twitter ma l'audience è
 su facebook
 
-- : Anche le tv hanno una competizione con Youtube.
+- Anche le tv hanno una competizione con Youtube.
 
-- @LolloCler: i siti web dei giornali non vengono quasi più visitati..
+- i siti web dei giornali non vengono quasi più visitati..
 
-- : La francia ha annunciato un intesa con Goggle.. La
+- La francia ha annunciato un intesa con Goggle.. La
 prima al mondo..
 
-- : Si può accedere alle versioni originali (spesso in
+- Si può accedere alle versioni originali (spesso in
 inglese) di articoli interessanti. I giornali devono più tradurre
 
-- @SimoneBleynat: I francesi si sono messi d'accordo con Google e la
+- I francesi si sono messi d'accordo con Google e la
 sua presenza nel mondo delle notizie in Francia
 
-- : La Francia ha ottenuto 60 milioni di euro dalla Google
+- La Francia ha ottenuto 60 milioni di euro dalla Google
 come fondo per la digitalizzazione dell'informazione
 
-- : OT @demartin e @bassosimone non risultano tra i Top
+- OT @demartin e @bassosimone non risultano tra i Top
 Influencer di Twitter /OT
 
-- @paolopopolizio: : google ha fatto un accordo in cambio di milioni di
+- google ha fatto un accordo in cambio di milioni di
 euro paga i diritti sulle informazioni ai giornali francesi
 
-- : Google fa accordo con Hollande in Francia per copyright
+- Google fa accordo con Hollande in Francia per copyright
 editori.  "Da noi non c'è premier che si preoccupa degli editori."
 
-- @FabioVallone: Nei prossimi anni, a causa della crisi e della , molti
+- Nei prossimi anni, a causa della crisi e della , molti
 giornali scompariranno o si alleeranno fra di loro
 
-- @Gian_Cirillo: Giornalismo del futuro? Collaborazione tra diversi
+- Giornalismo del futuro? Collaborazione tra diversi
 editore per sopravvivere, molti più blog
 
-- : E' prevedibile che si ridurrà il numero di testate
+- E' prevedibile che si ridurrà il numero di testate
 giornalistiche, perché i guadagni non sono sufficienti. giornali
 
-- @AstoriPietro: Far pagare i contenuti digitali su internet è molto
+- Far pagare i contenuti digitali su internet è molto
 difficile.
 
-- @Rexsimo893: Internet migliora o peggiora il giornalismo? Il pubblico
+- Internet migliora o peggiora il giornalismo? Il pubblico
 dice che lo migliora.
 
-- : Secondo Nicholas Carr Internet peggiora il
+- Secondo Nicholas Carr Internet peggiora il
 giornalismo. Per Jay Rosen invece lo migliora.
 
-- @Clerish: Giornalismo 2.0: con interventi dal pubblico
+- Giornalismo 2.0: con interventi dal pubblico
 
-- : Internet danneggia il modello di business ma migliora
+- Internet danneggia il modello di business ma migliora
 il giornalismo
 
-- @FabioVallone: Internet peggiora il modello di business, ma migliora
+- Internet peggiora il modello di business, ma migliora
 il giornalismo
 
-- @paolopopolizio: : internet migliora il giornalismo perchè abbassa
+- internet migliora il giornalismo perchè abbassa
 i costi e apre il mercato
 
-- : Internet migliora il giornalismo perchè: Abbassa i
+- Internet migliora il giornalismo perchè: Abbassa i
 costi e apre il mercato Fa arrivare ovunque notizie
 
-- : Sull'Economist un dibattito sul futuro del giornalismo:
+- Sull'Economist un dibattito sul futuro del giornalismo:
 Internet lo migliora o la peggiora?
 
-- @EmaParrinello: Giornalismo 2.0: coinvolgere il pubblico facendolo
+- Giornalismo 2.0: coinvolgere il pubblico facendolo
 diventare "giornalista"
 
-- : Alla fine ha vinto Rosen: danneggia il modello di
+- Alla fine ha vinto Rosen: danneggia il modello di
 business, ma ci sono molti altri vantaggi.
 
-- @SimoneBleynat: NB: sicuramente Internet danneggia il modello di
+- NB: sicuramente Internet danneggia il modello di
 business tradizionale dei giornali, ma migliora il giornalismo
 
-- : Ma internet distrugge anche il modello di business
+- Ma internet distrugge anche il modello di business
 del giornalismo tradizionale..
 
-- : Secondo gli studi Pew/Nielsen il 30% dei visitatori di
+- Secondo gli studi Pew/Nielsen il 30% dei visitatori di
 siti di giornali arriva da aggregatori come GoogleNews.
 
-- @ManuelGuarino93: Uno dei principali motivi del perchè Internet
+- Uno dei principali motivi del perchè Internet
 migliora il giornalismo è che abbassa i costi
 
-- : Al corso di @annamasera ci parla del futuro del
+- Al corso di @annamasera ci parla del futuro del
 giornalismo.. @RobBon Mi ricorda tante cose dette nella sua intervista..
 
-- : Nei giornali nascono nuovi ruoli: Social media editor,
+- Nei giornali nascono nuovi ruoli: Social media editor,
 social media reporter, specialista slideshow, crowdsourcer, etc...
 
-- : Nuovi ruoli di giornalisti sono nati grazie alla
+- Nuovi ruoli di giornalisti sono nati grazie alla
 
-- @AstoriPietro: I giornali adesso investono molto sugli e-book
+- I giornali adesso investono molto sugli e-book
 
-- @AstoriPietro: Le bufale dei giornali sono dovute spesso alle lacune
+- Le bufale dei giornali sono dovute spesso alle lacune
 in campo informatico dei giornalisti.
 
-- : E' necessaria la presenza di ingegneri informatici e di
+- E' necessaria la presenza di ingegneri informatici e di
 hacker: persone esperte di Internet e computer.
 
-- : I giornalisti dovrebbero fare un corso di informatica e
+- I giornalisti dovrebbero fare un corso di informatica e
 di crap detection
 
-- : Social Media Explained http://t.co/Rx8jpjR55B
+- Social Media Explained http://t.co/Rx8jpjR55B
 
-- : Image,Social Media explained: Twitter I'm eating a donut
+- Image,Social Media explained: Twitter I'm eating a donut
 Facebook I like donuts Foursquare this is where I eat a donut
 
-- @paolopopolizio: : G+ si sta diffondendo a vista d'occhio.. sarà
+- G+ si sta diffondendo a vista d'occhio.. sarà
 solo perchè hanno tutti un account gmail??
 
-- @FabioVallone: Ormai nelle testate giornalistiche c'è anche bisogno di
+- Ormai nelle testate giornalistiche c'è anche bisogno di
 "hacker"
 
-- @AstoriPietro: Su Twitter @la_stampa ha 70 mila followers.
+- Su Twitter @la_stampa ha 70 mila followers.
 
-- : La stampa sui social network: Facebook 40k Youtube
+- La stampa sui social network: Facebook 40k Youtube
 1800k
 
-- : Molti non sanno settare le impostazioni sulla privacy
+- Molti non sanno settare le impostazioni sulla privacy
 sui social networks...
 
-- : I giornalisti che hanno un blog devono seguire la
+- I giornalisti che hanno un blog devono seguire la
 linea editoriale!
 
-- : Decalogo di @annamasera per l’uso dei social media. Una
+- Decalogo di @annamasera per l’uso dei social media. Una
 regola ci riguarda: il valore di un blog è la sua continuità
 RIvoluzdigitale
 
-- : 10 minuti finali, Question time at
+- 10 minuti finali, Question time at
 
-- : I blog dei giornalisti nei giornali deve essere in
+- I blog dei giornalisti nei giornali deve essere in
 linea con quanto scelto nel giornale..
 
-- @LolloCler: Social media explained: (scusate ma dal cel non riesco a
+- Social media explained: (scusate ma dal cel non riesco a
 scaricarla) http://t.co/cqAWEsONMv
 
-- : sono molto meno gli abbonati su internet che coloro
+- sono molto meno gli abbonati su internet che coloro
 che acquistano i giornali cartacei
 
-- : Ricordiamoci comunque che il diritto alla conoscenza è
+- Ricordiamoci comunque che il diritto alla conoscenza è
 un bene non rivale e non escludibile...
 
-- @LolloCler: i giornalisti che hanno un blog devono ricordarsi di essere
+- i giornalisti che hanno un blog devono ricordarsi di essere
 giornalisti pagati e non bloggers!seguire la linea editoriale
 
-- : Si parla di Crap detection, valutare quali informazioni
+- Si parla di Crap detection, valutare quali informazioni
 arrivino da fonti attendibili
 
-- : http://t.co/PGYlkmET25
+- http://t.co/PGYlkmET25
 
-- : Attenzione: un buon giornalista prima di divulgare una
+- Attenzione: un buon giornalista prima di divulgare una
 informazione non confermata, deve accertarsi che la notizia sia vera
 
-- : E' fondamentale la trasparenza nell'uso delle fonti!
+- E' fondamentale la trasparenza nell'uso delle fonti!
 
-- : La trasparenza dell'uso delle fonti è fondamentale
+- La trasparenza dell'uso delle fonti è fondamentale
 
-- @Rexsimo893: Prima di pubblicare notizia bisogna fare verifica
+- Prima di pubblicare notizia bisogna fare verifica
 incrociata. Chi ha già citato la fonte?
 
-- @Rexsimo893: Si ha fretta di essere i prima a dare la notizia. Ma
+- Si ha fretta di essere i prima a dare la notizia. Ma
 bisogna avere la verifica e piuttosto arrivare 1 min dopo.
 
-- @Ale_Cannone:  prima di pubblicare un articolo bisogna accertarsi
+-  prima di pubblicare un articolo bisogna accertarsi
 delle fonti.... non bisogna avere fretta, meglio la qualità
 
-- : Nell'era di Twitter, si tende a scrivere molto velocemente
+- Nell'era di Twitter, si tende a scrivere molto velocemente
 per essere i primi a fornire una informazione, senza controllare
 
-- @Cine_Revolution: digicinema: http://t.co/dCvsQi2pY4 Video presentazione
-Blog rivoluzDigitale @BrayGabriele @m_caccialupi @sakiu92
-
-- @EmaParrinello: un buon giornalista deve sempre diffondere le notizie
+- un buon giornalista deve sempre diffondere le notizie
 solo dopo essersi accertato con fonti primarie, certe
 
-- : Voglio provare la caccia alle donne bambi..
+- Voglio provare la caccia alle donne bambi..
 
-- @SimoneBleynat: E adesso tutti a dare la caccia alle donne nude nel
+- E adesso tutti a dare la caccia alle donne nude nel
 deserto! XD
 
-- : I giornali vanno matti per le notizie bomba, ma attenzione
+- I giornali vanno matti per le notizie bomba, ma attenzione
 alle bufale!
 
-- : La Rivoluzione digitale aiuta moltissimo il modo di
+- La Rivoluzione digitale aiuta moltissimo il modo di
 fare giornalismo
 
-- @LolloCler: Precisione, velocità, completezza. La notizia migliora
+- Precisione, velocità, completezza. La notizia migliora
 con la
 
-- : Secondo @annamasera la permette di migliorare la qualità
+- Secondo @annamasera la permette di migliorare la qualità
 dell'informazione: si può comunicare velocemente in tutto il globo
 
-- : come si dice nel mondo dei giornalisti..anche le
+- come si dice nel mondo dei giornalisti..anche le
 bufale fanno notizia..
 
-- : Ll'utente dovrebbe essere in grado di selezionare le
+- Ll'utente dovrebbe essere in grado di selezionare le
 informazioni che desidera.
 
-- @paolopopolizio: : la rivoluzione digitale offre vantaggi ai giornali
+- la rivoluzione digitale offre vantaggi ai giornali
 per essere più veloci ed efficenti, pubblicare a livello globale..
 
-- @paolopopolizio: : un applauso ad @annamasera
+- un applauso ad @annamasera
 
-- : Grazie ad @annamasera per l'interessantissima lezione di
+- Grazie ad @annamasera per l'interessantissima lezione di
 
-- : @annamasera Idea di collaborazione stile Itunes: chiunque
+- @annamasera Idea di collaborazione stile Itunes: chiunque
 si confezioni un giornale prendendo pagine da giornali diversi
 
 
