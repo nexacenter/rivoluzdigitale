@@ -517,4 +517,16 @@ Usato spesso in risposta a Tweet di carattere ironico.
 "Rolling On The Floor Laughing" ovvero "sto rotolando per terra dal ridere"
 Usato spesso in risposta a Tweet di carattere ironico; ha valore maggiore di LOL.
 
+- RTFM: acronimo in inglese di "Read The Fucking Manual" ovvero "Leggiti Il 
+Fottuto Manuale"; usato per esortare l'interlocutore a leggere delle regole già
+scritte o in generale ad informarsi, prima di fare delle domande o delle richieste.
+Per evitare espressioni offensive la lettera F può indicare Fine (ovvero Eccellente),
+Friendly (Amichevole), Fabulous (Favoloso) oppure si provvede a eliminare la F e lasciare RTM.
+
+NOTA: Nello specifico del Corso: prima di richiedere 'aiuto' per qualche cosa in Mailing List
+è opportuno "Googlare" ovvero ricercare su Google soluzioni alla problematica in atto.
+Nel caso di ricerca con esito negativo, conviene indicare la ricerca effettuata nel corpo 
+della email, così da permettere a chi risponde di avere un quadro definito della situazione.
+
+
 FAQ contribuita da [Davide Palermo]
