@@ -7,7 +7,7 @@ License: CC BY-SA 3.0 Unported
 
 ## Elenco lezioni
 
-- 14 Giugno 2013
+- [14 Giugno 2013](#2013-06-14)  
 - [12 Giugno 2013](#2013-06-12) {work in progress: Sebastiano Franchina}
 - [07 Giugno 2013](#2013-06-07) {rivista da: Luca Liuzzi}
 - [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
@@ -31,6 +31,74 @@ License: CC BY-SA 3.0 Unported
 - 22 Marzo 2013
 - [20 Marzo 2013](#2013-03-20) {rivista da: Davide Palermo}
 
+
+
+## 2013-06-14
+
+### Simulazione e Conclusioni
+
+- Chilling Effects Clearinghouse http://www.chillingeffects.org/  
+
+- http://www.chillingeffects.org/org.cgi?OrgID=2 
+Pagina dei componenti della squadra di Berkman su Chilling Effects
+
+- What is "Chilling effect"?
+Take a look on this wiki page: http://en.wikipedia.org/wiki/Chilling_effect_%28law%29 …
+
+- Potete visitare il Blog Prometeo di @maria_serena_ & co., che risale al primo anno del corso:
+http://prometeoplus.blogspot.it/ 
+
+- Studiare bene anche  "Come funziona Internet" e "Logical Fallacies"
+http://nexa.polito.it/nexafiles/ComeFunzionaInternet.pdf …
+http://rivoluzionedigitale.polito.it/rdfiles/LogicalFallacies.pdf
+
+- Oggi la procedura principale per le intercettazioni è "l'intercettazione telematica"
+
+- Stasera al @tlbxcoworking Spazio a chi innova senza permesso
+http://bit.ly/inndalbasso con @riccardowired @demartin @mbanzi
+
+- 11.09.01, la banda larga si è espansa.
+Si inizia ad introdurre il principio della data retention. Raccolta di dati ex-ante.
+
+- La numerosità dei nuovi canali di comunicazione (e la mancanza di norme e protocolli) rende le intercettazioni difficili
+
+- Grazie alle nuove tecnologie i costi per raccogliere ed immagazzinare dati sono assai ridotti.
+
+- Sembra un miscuglio di Crypto e 1984 
+
+- Con questo eccessivo controllo, il mondo moderno ricorda vagamente 1984 di Orwell...Rapporto tra libertà e sicurezza?
+
+- Negli ultimi anni sono nate numerose piattaforme di sharing, perciò è diventato più facile attuare un controllo globale
+
+- Internet (di default) è in chiaro. Non è criptato.
+
+- Con l'abbassamento dei prezzi degli hard disk ed il loro aumento di capacità registrare tutto diventa possibile
+
+- Con l'avvento del digitale è diventato facile copiare dati e carpire informazioni private, senza che nessuno se ne accorga
+
+- La crittografia si diffonde per regolare il commercio elettronico e anche grazie alla grande potenza dei PC
+
+- Lawrence Lessig's blog: http://www.lessig.org/ 
+
+- Se ciascuno avesse un piccolo server a casa i propri dati potrebbero essere non accessibili a persone da noi non desiderate 
+
+- http://freedomboxfoundation.org  
+
+- Diaspora social network https://joindiaspora.com/ Info su http://en.wikipedia.org/wiki/Diaspora_(social_network) …
+
+- Se sul mio server non tengo log allora non posso darli alle autorità che me le chiedono
+
+- Si parla di og http://it.wikipedia.org/wiki/Log 
+
+- Oppure VPN  o crittografia
+
+- Libro di Morozov: "The  Net delusion" tradotto come "L'ingenuità della rete"
+
+- Morozov - The Net Illusion 
+
+- Internet come Panopticon http://it.wikipedia.org/wiki/Panopticon
+
+- Panopticon, idea di carcere del filosofo e giurista Jeremy Bentham
 
 
 ## 2013-06-12
