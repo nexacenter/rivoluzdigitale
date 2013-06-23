@@ -4840,7 +4840,7 @@ SIAE certifica, ma la legge tutela l'opera in automatico.
 
 - Il diritto d'autore fornisce una lunga serie di diritti sull'opera
 che durano, in Europa, fino a 70 anni dopo la morte dell'autore (“morte + 70”)
-Es.: Autore muore il 20 Gennaio 2000? Il 21 gennaio 2070 l'opera 
+Es.: Autore muore il 20 Gennaio 2000? Il 1 gennaio 2070 l'opera 
 rientra nel pubblico dominio.
 Nel caso di opere in collaborazione, il termine si calcola
 con riferimento al coautore che muore per ultimo.
