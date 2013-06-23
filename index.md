@@ -24,7 +24,7 @@ License: CC BY-SA 3.0 Unported
 - [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
 - [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
 - [17 Aprile 2013](#2013-04-17) /* skipped */
-- [12 Aprile 2013](#2013-04-12) {work in progress: Antonio Langiu}
+- [12 Aprile 2013](#2013-04-12) {rivista da: Antonio Langiu}
 - 10 Aprile 2013
 - [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
 - [27 Marzo 2013](#2013-03-27) {rivista da: Davide Palermo}
