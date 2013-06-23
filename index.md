@@ -1938,7 +1938,7 @@ monopolio aziendale
 - 3 anni fa terminava il periodo di tutela de "Il grande Gatsby": Fitzgerald 
 muore nel 1940. 2013-1940: 73 anni post mortem! 
 
-- @DavidePalermo2: Proprietà intellettuale è: 1) diritto d'autore 2) 
+- Proprietà intellettuale è: 1) diritto d'autore 2) 
 brevetti 3) marchi
 
 - L'incontro Digitale-Proprietà Intellettuale è esplosivo! Ognuno di noi ha 
@@ -1963,9 +1963,9 @@ esempio una biblioteca universale OnLine accessibile a tutti
 degli utenti con il digitale? Possono restare le regole 800esche applicate 
 a tutto il resto? 
 
-- @bassosimone: <<Il video che faremo in questo corso sara' tutelato 
+- <<Il video che faremo in questo corso sara' tutelato 
 come l'ultimo film di Hollywood: "morte + 70">>
-- @demartin “Un blog di ricette è tutelato per legge come l'ultimo film di 
+- “Un blog di ricette è tutelato per legge come l'ultimo film di 
 Hollywood”
 
 - Da una decina d’anni vengono fatte diverse proposte per la riforma del 
@@ -1988,7 +1988,7 @@ gestito collettivamente, a meta' tra pubblico e privato
 - Rif. a "La Condivisione della Conoscenza - BDEM13 - De Martin, Donolo, 
 Mattei" http://t.co/7v74cfLiK0
 
-- @demartin: se vi serve un video di una ragazza che cammina sulla 
+- Se serve un video di una ragazza che cammina sulla 
 spiaggia, non serve andare ad Albenga a filmare: basta trovare un video 
 tra i beni “commons”
 
@@ -2003,7 +2003,7 @@ allo stesso modo”.
 - Occhio: non commerciale vuole dire “non ti autorizzo *a priori* all'uso 
 commerciale, ma possiamo fare un accordo”
 
--@bassosimone: il non-commerciale puo' essere boomerang: vuol dire 
+-Il non-commerciale puo' essere boomerang: vuol dire 
 che la RAI non puo' usare un vostro video, cosa che magari voi vorreste.
 
 - Non opere derivate: non si ha il permesso per fare un'opera basata su 
@@ -2022,7 +2022,7 @@ SIAE (fonte: ex presidente SIAE)
 - Wikipedia, che è un commons, ha un valore economico di miliardi di 
 euro
 
-- @bassosimone: Su input studenti, discussione su come trovare nuove 
+- Su input studenti, discussione su come trovare nuove 
 forme di finanziamento di, e.g., giornalismo, fotografia
 
 - Opinione: il CC se lo si sa utilizzare è comunque uno strumento di lucro. 
@@ -2033,8 +2033,6 @@ commerciale-non opere derivate
 
 - Concetto di "copyleft", detto anche scherzosamente "diritto di copia di 
 sinistra".
-
-- Grazie a @demartin per la lezione, molto interessante. 
 
 
 ## 2013-05-22
