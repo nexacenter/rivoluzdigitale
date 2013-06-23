@@ -7,9 +7,9 @@ License: CC BY-SA 3.0 Unported
 
 ## Elenco lezioni
 
-- 14 Giugno 2013
-- 12 Giugno 2013
-- [07 Giugno 2013](#2013-06-07) {work in progress: Luca Liuzzi}
+- [14 Giugno 2013](#2013-06-14)  
+- [12 Giugno 2013](#2013-06-12) {work in progress: Sebastiano Franchina}
+- [07 Giugno 2013](#2013-06-07) {rivista da: Luca Liuzzi}
 - [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
 - [31 Maggio 2013](#2013-05-31) {rivista da: Sebastiano Franchina}
 - [29 Maggio 2013](#2013-05-29) {rivista da: Davide Palermo}
@@ -18,7 +18,7 @@ License: CC BY-SA 3.0 Unported
 - [17 Maggio 2013](#2013-05-17) {rivista da: Antonio Langiu}
 - [15 Maggio 2013](#2013-05-15) {rivista da: Lorenzo Cutelle'}
 - [10 Maggio 2013](#2013-05-10) {rivista da: Antonio Langiu}
-- [08 Maggio 2013](#2013-05-08) {work in progress: Lorenzo Cutelle'}
+- [08 Maggio 2013](#2013-05-08) {rivista da: Lorenzo Cutelle'}
 - [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
 - [26 Aprile 2013](#2013-04-26) {rivista da: Giuseppe Ripa}
 - [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
@@ -27,9 +27,402 @@ License: CC BY-SA 3.0 Unported
 - [12 Aprile 2013](#2013-04-12) {work in progress: Antonio Langiu}
 - 10 Aprile 2013
 - [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
-- [27 Marzo 2013](#2013-03-27) {work in progress: Davide Palermo}
+- [27 Marzo 2013](#2013-03-27) {rivista da: Davide Palermo}
 - 22 Marzo 2013
 - [20 Marzo 2013](#2013-03-20) {rivista da: Davide Palermo}
+
+
+
+## 2013-06-14
+
+### Simulazione e Conclusioni
+
+- Chilling Effects Clearinghouse http://www.chillingeffects.org/  
+
+- http://www.chillingeffects.org/org.cgi?OrgID=2 
+Pagina dei componenti della squadra di Berkman su Chilling Effects
+
+- What is "Chilling effect"?
+Take a look on this wiki page: http://en.wikipedia.org/wiki/Chilling_effect_%28law%29 …
+
+- Potete visitare il Blog Prometeo di @maria_serena_ & co., che risale al primo anno del corso:
+http://prometeoplus.blogspot.it/ 
+
+- Studiare bene anche  "Come funziona Internet" e "Logical Fallacies"
+http://nexa.polito.it/nexafiles/ComeFunzionaInternet.pdf …
+http://rivoluzionedigitale.polito.it/rdfiles/LogicalFallacies.pdf
+
+- Oggi la procedura principale per le intercettazioni è "l'intercettazione telematica"
+
+- Stasera al @tlbxcoworking Spazio a chi innova senza permesso
+http://bit.ly/inndalbasso con @riccardowired @demartin @mbanzi
+
+- 11.09.01, la banda larga si è espansa.
+Si inizia ad introdurre il principio della data retention. Raccolta di dati ex-ante.
+
+- La numerosità dei nuovi canali di comunicazione (e la mancanza di norme e protocolli) rende le intercettazioni difficili
+
+- Grazie alle nuove tecnologie i costi per raccogliere ed immagazzinare dati sono assai ridotti.
+
+- Sembra un miscuglio di Crypto e 1984 
+
+- Con questo eccessivo controllo, il mondo moderno ricorda vagamente 1984 di Orwell...Rapporto tra libertà e sicurezza?
+
+- Negli ultimi anni sono nate numerose piattaforme di sharing, perciò è diventato più facile attuare un controllo globale
+
+- Internet (di default) è in chiaro. Non è criptato.
+
+- Con l'abbassamento dei prezzi degli hard disk ed il loro aumento di capacità registrare tutto diventa possibile
+
+- Con l'avvento del digitale è diventato facile copiare dati e carpire informazioni private, senza che nessuno se ne accorga
+
+- La crittografia si diffonde per regolare il commercio elettronico e anche grazie alla grande potenza dei PC
+
+- Lawrence Lessig's blog: http://www.lessig.org/ 
+
+- Se ciascuno avesse un piccolo server a casa i propri dati potrebbero essere non accessibili a persone da noi non desiderate 
+
+- http://freedomboxfoundation.org  
+
+- Diaspora social network https://joindiaspora.com/ Info su http://en.wikipedia.org/wiki/Diaspora_(social_network) …
+
+- Se sul mio server non tengo log allora non posso darli alle autorità che me le chiedono
+
+- Si parla di og http://it.wikipedia.org/wiki/Log 
+
+- Oppure VPN  o crittografia
+
+- Libro di Morozov: "The  Net delusion" tradotto come "L'ingenuità della rete"
+
+- Morozov - The Net Illusion 
+
+- Internet come Panopticon http://it.wikipedia.org/wiki/Panopticon
+
+- Panopticon, idea di carcere del filosofo e giurista Jeremy Bentham
+
+
+## 2013-06-12
+
+### Guest Lecturer Anna Masera - @annamasera
+
+- Come la Rivoluzione Digitale ha influito sul giornalismo: @annamasera , 
+Social Media Editor de @la_stampa, prima SME di un giornale nazionale 
+http://t.co/pDbZ4IFGHl
+
+- @bassosimone: questa lezione in cui io vedo solo il live tweeting e' la 
+prova definitiva delle voste skills
+
+- “Giornalista dal 1984, da prima dei Computer, ho vissuto la sulla mia 
+pelle la rivoluzione digitale (dalle macchine da scrivere ai tablet). 
+Studiavo alla Columbia University” @annamasera
+
+- Gran parte di giornalisti si è adeguata alla rivoluzione digitale, altri sono 
+digitalmente analfabeti e si sentono tagliati fuori.
+
+- Anche in ambito giornalistico chi non rimane al passo coi tempi è 
+tagliato fuori
+
+- Dagli anni 80 il mondo del giornalismo è molto cambiato con la 
+digitalizzazione
+
+- L’analfabetismo digitale è una grande piaga italiana
+
+- Prima dell'avvento di Internet, i giornali sono sempre stati un luogo 
+dove si davano le notizie un po' dall'alto al basso. Il giornale era la fonte 
+di tutte le notizie
+
+
+- Adesso i giornali sono in crisi perchè la gente viene a conoscenza delle 
+notizie ancor prima che escano sui giornali, siamo sommersi di 
+informazioni
+
+- Inoltre non c'è tempo per leggere il giornale
+
+- "twitter è una agenzia stampa continua e gratuita per tutti" 
+@annamasera
+
+- Il giornale sta cambiando proprio perché deve cercare di dare un valore 
+aggiunto alle notizie che già sanno tutti
+
+- I giornali stanno cambiando per adeguarsi alle nuove necessità sociali: 
+non ha senso leggere notizie ormai obsolete e i giornalisti devono 
+inventarsi qualcosa per invogliare la gente a comprare il giornale 
+(interviste, speciali).
+
+- Il valore aggiunto dei giornali potrebbe essere la qualità
+
+- Se fate oggi giornalismo, non pensate che i giornali possano assumere. 
+Oggi molti adottano il pre-pensionamento. @annamasera
+
+- Foto di @annamasera http://t.co/UmRywPZkqv via @demartin
+
+- La rivoluzione digitale permette di scrivere cose dall'estero senza essere 
+"corrispondenti", “di abbassare i costi, facendo giornalismo da casa" 
+@annamasera
+
+- Il lavoro del corrispondente sta scomparendo perché troppo costoso.
+
+- Ci sono molte meno corrispondenze all'estero, molte sedi fuori dallo 
+stato originale del giornale sono state chiuse
+
+- I giornali sono in crisi: le vendite sono ridotte. Internet ha preso il 
+sopravvento, fornisce le notizie in tempo reale.
+
+- "Ho iniziato a occuparmi di Internet già nel 1994 a @panorama_it" 
+@annamasera
+
+- Come si componeva “La stampa” prima dell'avvento di Internet? Il video 
+by @annamasera http://t.co/tRPsHjiXXp 
+
+- Le telescriventi permettevano di stampare testi tramite impulsi elettrici 
+a distanza.
+
+- Computer portatile M10?!? Fenomenale direi!
+
+- Con gli sviluppi successivi ci sono migliori soluzioni grafiche: ad un certo 
+punto si inizia anche a formattare il testo.
+
+- Secondo video riguardante La Stampa oggi. Come si è evoluta La 
+Stampa dal 1968 al 2013: dalle telescriventi alle nuove risorse digitali.
+
+- SPAZIO La Stampa - An Unexpected Journey http://t.co/zF7rLSoK4A
+
+- La rivoluzione digitale rende vintage tutto ciò che ha a che fare con 
+l'elettronica in una decina di anni appena.
+
+- “I giornali ormai devono essere innanzitutto sugli schermi”
+
+- I giornali si adattano alla rivoluzione digitale anche modificando le 
+proprie sedi: La stampa non utilizza più piccoli sotto-uffici, ma un grande 
+open-space: in questo modo c'è più comunicazione, tutti si vedono e 
+comunicano costantemente, sono costantemente in riunione.
+
+- La Stampa ora è in una sede in affitto e più piccola per ridurre i costi. 
+Testimonia la crisi dei giornali.
+
+- Anche quelli del Corriere della Sera si stanno ispirando a La Stampa per 
+il loro nuovo edificio
+
+- Nell'era del digitale l'integrazione è la carta vincente!
+
+- Redazione Nazionale de @la_stampa - Open Space 360* 
+http://t.co/BVpajBgApH http://t.co/ceX6auXuV8
+
+
+- C’è ancora un incontro per scegliere cosa mettere in prima pagina, ma i 
+giornalisti partecipano adesso a una riunione continua “Always on” per il 
+Web: con il digitale il giornale deve aggiornarsi continuamente per 
+fornire news corrette tramite web
+
+- Ormai si produce prima il giornale "digitale" e poi quello cartaceo
+
+- Il giornale cartaceo richiede però approfondimenti ulteriori ed 
+innovazioni.
+
+- Foto della lezione http://t.co/d3LnquFwFv
+
+- Chi scrive per il giornale cartaceo, scrive anche per la versione digitale
+
+- @annamasera parla di @martaottaviani, del blog su @la_stampa e 
+della sua cronaca in tempo reale dalla turchia geziparki
+
+- Il live-blogging con audio, video e foto è molto più fruibile rispetto 
+all'articolo di blog standard.
+
+- "Non si sa se funzionerà il nuovo modo di fare giornalismo" è la frase 
+centrale. La rivoluzione digitale è in evoluzione
+
+- La Stampa tv serve per attirare utenti interessati a video e video-
+interviste. Ormai i lettori della carta sono in prevalenza gli anziani. L'età 
+media di chi guarda il TG1 è 60 anni.
+
+- Un canale Youtube o un buon sito Web può attirare numerosi utenti 
+che normalmente non comprerebbero un giornale.
+
+- I video e le immagini sono molto intuitivi ed apprezzati rispetto al 
+materiale cartaceo
+
+- Il giornale sta cercando di essere là dove c'è più richiesta da parte degli 
+utenti, e quindi diverse piattaforme Web
+
+- Gli inviati esteri postano intanto il live-tweeting, su un blog che viene 
+aggiornato in tempo reale, e, alla fine, gli articoli su carta.
+
+
+- Bisogna pensare a quel pubblico che è nativo digitale oggi e quindi 
+anziano del futuro E' necessario un cambio di business model
+
+- I giornali devono trovare un modello di business che possa, però, 
+sostenere anche la stampa su carta.
+
+- @la_stampa ha perso 1 milione di copie cartacee vendute in 5 anni 
+Read more on: http://t.co/48oN8bxHJQ
+
+- "Dobbiamo dimostrare che vale la pena leggerci, dobbiamo acquisire la 
+fiducia del lettore."
+
+- "La carta non riesce a rinnovarsi e piace sempre meno al suo pubblico"
+
+- Il 2012 si è avuto un tracollo del -35% dei ricavi pubblicitari dal cartaceo: 
+la pubblicità, che costituisce il finanziamento del giornale, su internet 
+costa molto meno, un investimento di 16 dollari sul cartaceo è diventato 
+un investimento di 1 dollaro su internet.
+
+- Solo su internet va meglio. Non sicuro il passaggio da carta a internet.
+
+- Oltre al giornale cartaceo, bisogna gestire Youtube, Facebook, Twitter,... 
+Ma servono dipendenti e non ci sono soldi per pagar loro gli stipendi. Ciò 
+va a discapito della qualità?
+
+Qualche anno fa in treno si leggeva il giornale, oggi tutti hanno tablet e 
+smart-phones. Foto di @annamasera
+
+- Si parla di Joseph Pulitzer e del buon giornalismo http://t.co/8bBrpf4zyk
+
+- Joseph Pulitzer ha identificato modelli ancora attuali per il buon 
+giornalismo.
+
+- C'è bisogno di buon giornalismo, per difendersi dalle informazioni non 
+di qualità. 
+
+- Non è più una questione di quantità ma di qualità delle notizie
+
+- Esprimi il tuo pensiero in modo conciso perché sia letto, in modo chiaro 
+perché sia capito, in modo pittoresco perché sia ricordato e, soprattutto, 
+in modo esatto perché i lettori siano guidati dalla sua luce.
+
+- Nell'era dell'informazione, quale è la nostra, c'è bisogno di giornalismo. 
+Il fatto che i giornali siano in crisi non  significa che il giornalismo lo sia. 
+Tutt'altro!
+
+- Joseph Pulitzer: una stampa cinica e mercenaria creerà un pubblico 
+ignobile
+
+- Hrant Dink, giornalista e scrittore turco: “Il giornalista è un po' come un 
+messaggero, non deve essere attaccato”. http://t.co/4KtaYTcllx 
+ 
+- Ryszard Kapuscinski: Il giornalismo richiede due qualità: la prima è lo 
+spirito di sacrificio, la seconda è la serietà assoluta 
+http://t.co/Gs4DxmrF7q 
+
+- Se consenti anche ad una sola persona di scoprire che menti, che sei 
+stato banale o impreciso, allora avrai perduto.
+
+- Il giornalista deve essere umile e non arrogante: c'è sempre qualcuno 
+che la sa più lunga di te. Deve essere un mediatore in grado di divulgare 
+ciò che le persone pensano e che offre fonti difficili da raggiungere
+
+- Oggi con internet tutti possiamo raggiungere le fonti e se siamo bravi 
+possiamo essere in concorrenza con i giornalisti.
+
+- Le regole analoghe di fondo: 1 cercare la verità; 2 L'unico patto è col 
+lettore, mai con il potere; 3 Separare i fatti dalle opinioni, 4 Citare, ma 
+tutelare, le fonti; 5 Distinguere tra personaggi pubblici e cittadini privati; 
+6 Rispondere alle 5w (who when where what why) 
+http://t.co/nuxJQMAw2d 
+ 
+- Un lettore scansiona in circa 7 secondi un articolo focalizzando il testo a 
+F, concentrandosi inizialmente sulla parte in alto a sinistra
+
+-  statistiche degli accessi alla stampa on-line.. http://t.co/ZpJuheIuf3
+
+- Picco di letture alle 9 am considerando la giornata, e il lunedì 
+considerando la settimana.
+
+- I giornalisti sono i primi a dover mostrare e difondere integrità ed a non 
+dover commettere logical fallacies. 
+
+- Generalmente si arriva sui siti dei giornali solo da link esterni, ad 
+esempio da Facebook o GoogleNews. Pochi accedono alle notizie dalla 
+home page dei siti dei giornali
+
+- Secondo gli studi Pew/Nielsen il 30% dei visitatori di siti di giornali arriva 
+da aggregatori come GoogleNews.
+
+- capire se una notizia ci può interessare o meno è molto più facile su 
+internet che su un giornale
+
+- Col web i lettori sono diventati audience
+
+- I giornalisti sono legati a Twitter ma l'audience è su Facebook (900 
+milioni di utenti attivi, più di 70 lingue)
+
+- Le tv sono in competizione con Youtube: la Francia 60 milioni di euro da 
+un’intesa con Google per i diritti sui filmati; la prima al mondo.. "Da noi 
+non c'è premier che si preoccupa degli editori."
+
+- Su internet si può accedere alle versioni originali (spesso in inglese) di 
+articoli interessanti. I giornali devono più tradurre
+
+- Nei prossimi anni, a causa della crisi e della , molti giornali 
+scompariranno o si alleeranno fra di loro. Ci saranno molti più blog 
+gestiti, magari, dalle grandi firme che si metteranno in proprio.
+
+- Far pagare i contenuti digitali su internet è molto difficile.
+
+- Internet migliora o peggiora il giornalismo? Secondo Nicholas Carr 
+Internet peggiora il giornalismo. Per Jay Rosen invece lo migliora. Il 
+pubblico è d’accordo con Rosen.
+
+- Internet danneggia il modello di business ma migliora il giornalismo 
+perchè abbassa i costi, apre il mercato e aumenta le fonti
+
+- Giornalismo 2.0: con interventi dal pubblico
+
+- Nei giornali nascono nuovi ruoli: Social media editor, social media 
+reporter, specialista slideshow, crowdsourcer, etc...
+
+- I giornali adesso investono molto sugli e-book
+
+- Le bufale dei giornali sono dovute spesso alle lacune in campo 
+informatico dei giornalisti.
+
+- E' necessaria la presenza di ingegneri informatici e di hacker: persone 
+esperte di Internet e computer. I giornalisti dovrebbero fare un corso di 
+informatica e di crap detection
+
+- Social Media Explained http://t.co/Rx8jpjR55B
+
+- Su Twitter @la_stampa ha 70k followers. Su Facebook 40k utenti attivi. 
+Su Youtube 1800k visualizzazioni
+
+- I giornalisti che hanno un blog deve essere in linea con quanto scelto 
+nel giornale!
+
+- Decalogo di @annamasera per l’uso dei social media. Una regola ci 
+riguarda: il valore di un blog è la sua continuità 
+
+- 10 minuti finali, Question time
+
+- sono molto meno gli abbonati su internet che coloro che acquistano i 
+giornali cartacei
+
+- Ricordiamoci comunque che il diritto alla conoscenza è un bene non 
+rivale e non escludibile...
+
+- Si parla di Crap detection, valutare quali informazioni arrivino da fonti 
+attendibili: un buon giornalista prima di divulgare una informazione non 
+confermata, deve accertarsi che la notizia sia vera. 
+
+- E' fondamentale la trasparenza nell'uso delle fonti! Può essere utile fare 
+una verifica incrociata: chi ha già citato la fonte?
+
+- Nell'era di Twitter si ha fretta di essere i primi a dare la notizia, ma è 
+meglio essere sicuri di ciò che si dice e arrivare 1 minuto dopo.
+
+- I giornali vanno matti per le notizie bomba, ma attenzione alle bufale!
+
+- La Rivoluzione digitale aiuta moltissimo il modo di fare giornalismo: 
+precisione, velocità, completezza. Si può comunicare velocemente in 
+tutto il globo
+
+- Nel mondo dei giornalisti anche le bufale fanno notizia.
+
+- Grazie ad @annamasera per l'interessantissima lezione 
+
+- Un’idea per il futuro: collaborazione dei giornali stile Itunes: chiunque
+si confezioni un giornale prendendo pagine da giornali diversi 
+
 
 
 ## 2013-06-07
@@ -38,954 +431,371 @@ License: CC BY-SA 3.0 Unported
 
 ### Precisazioni su licenze software libero
 
-- @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
+Libertà del software libero:
 
-- @Ale_Cannone: General public license: 4 libertà del software libero
-più il copyleft
+Libertà 0: Libertà di eseguire il programma per qualsiasi scopo.
+Libertà 1: Libertà di studiare il programma e modificarlo[3].
+Libertà 2: Libertà di ridistribuire copie del programma in modo da aiutare il prossimo.
+Libertà 3: Libertà di migliorare il programma e di distribuirne pubblicamente i miglioramenti, in modo tale che tutta la comunità ne tragga beneficio.
 
-- @93Levante: Il quarto principio, su cui si basa il software libero,
-diventa un OBBLIGO x il bene della comunità
+- Tra le licenze disponibili per il s.l. : GPL o GNU (General Public License con obbligo di rilascio e modifica sempre sotto forma di so libero)
 
-- @DavidePalermo2: Allarme patent troll, finti inventori: brevettano
-l'hi-tech e fanno causa http://t.co/109jk41Z24 via @repubblicait
-
-- @paolopopolizio: @russomatteo93 allora mi osservi invece di seguire :P
-
-- @StefanoFranz20: "General public licence" tipo di licenza finalizzata
+- General public license: 4 libertà del software libero
+più il copyleft, la licenza infatti è finalizzata
 alla condivisione delle modifiche sul codice dei software
 
-- @Ale_Cannone: Copyleft --> obbligo di rendere disponibile il codice
+Copyleft = obbligo di rendere disponibile il codice
 sorgente modificato se diffondo il sorgente modificato
 
-- @SoFranchy: Stallman: una licenza, condizione di pubblicità della
-modifica (se non per uso privato). CC 6 licenze tra cui scegliere
+- Il quarto principio, su cui si basa il software libero,
+diventa un obbligo per il bene della comunità
 
-- @FabioVallone: Grazie alla licenza GNU/GPL, si sono creati centinaia
+- Stallman: una licenza, condizione di pubblicità della
+modifica (se non per uso privato). CC, 6 licenze tra cui scegliere
+
+- Grazie alla licenza GNU/GPL, si sono creati centinaia
 e centinai di progetti di software libero
 
-- @Carrattrezzi: Non solo le grandi aziende possono produrre SO, tante
-persone, lavorando insieme, hanno sviluppato linux
+- Non solo le grandi aziende possono produrre SO, tante
+persone, lavorando insieme, hanno dato vita grazie ad esse a Linux
 
-- @MartinoMensio: OpenSource: diverso da software libero
-https://t.co/4THvb0FNXV
+- OpenSource non è la stessa di cio che si intende per software libero
+   https://t.co/4THvb0FNXV
 
-- @SabryKarate: opersource, codice sorgente aperto. Take a look on
+- opensource = codice sorgente aperto. Take a look on
 http://t.co/b9VTjMD0oz
 
-- @Clerish: Il termine "Open source" fu coniato per distaccarsi dalle
-stranezze di Stallman e rendere più moderato "Software libero"
+- Il termine "Open source" fu coniato per distaccarsi dalle
+stranezze di Stallman e rendere più moderato il concetto di "Software libero".
 
-- @MartinoMensio: Free BSD non impone il copyleft
+- Attenzione!Free BSD non impone il copyleft!
 
-- @FabioVallone: open source non è un sinonimo di software libero...
+- Licenze BSD http://t.co/d2Mhb2BdfW
 
-- @MartinoMensio: Licenze BSD http://t.co/d2Mhb2BdfW
+- La differenza open source/software libero è basata puramente su aspetti di
+marketing e atteggiamento.
 
-- @LolloCler: differenza open source-software libero puramente di
-marketing e atteggiamento
-
-- @PieMarzio: Open source: codice accessibile ma senza le 4 libertà
+- Opensource: codice accessibile ma senza le 4 libertà
 del software libero.
 
-- @SabryKarate: software libero: ha le 4 libertà opensource permette
-di accedere al codice sorgente, ma non necessariamente modificabile
-
-- @paolopopolizio: differenza tra open source e software libero:
-rispettivamente accesso libero al codice e rispetto delle 4 libertà
-
-- @Rexsimo893: Open source -> operazione di marketing che rimodula
-il significato di software libero, che invece ha una def. più precisa
-
-- @LolloCler: opensource consente codice accessibile e magari non le
-altre 4 libertà al contrario del software libero
-
-- @MartinoMensio: Open source: più vago del software libero; garantisce
-solamente la visione del codice sorgente
-
-- @PieMarzio: "Commons": gruppo di individui che rispettano in generale
-delle norme (gourodiche, sociali)
-
+- La definizione dell'Opensource è quindi un operazione di marketing che rimodula il significato di software libero, che invece ha una definizione più precisa.
 
 ### Autoregolamentazione sociale: Wikipedia, i Commons 
 
-- @DavidePalermo2: La pagina di Wikipedia su Wikipedia
-http://t.co/oh5J4TT2nF ;-)
+- I "Commons", gruppo di individui che rispettano in generale
+delle norme (giuridiche, sociali)
 
-- @LolloCler: su wikipedia gruppo volontario di individui collabora
-rispettando norme sociali imposte dai wikipediani
+- Ad esempio Wikipedia.Link : http://t.co/oh5J4TT2nF ;-)
 
-- @SoFranchy: Open Source < SW libero. SW libero include le 4 libertà;
-Open Source include almeno la possibilità di vedere il codice
+- Su wikipedia un gruppo volontario di individui collabora
+rispettando norme sociali imposte dai wikipediani.
 
-- @Ale_Cannone:  nè privato (mercato) nè lo stato --> anarchia,
-dove ognuno si può autorganizzare --> Commons
+- Senza il privato (mercato) nè lo stato si parla di anarchia,ma
+dove ognuno si può autorganizzare si parla di "Commons".
+I "Commons" non dipendono da privati o dallo stato.Vivono in uno spazio
+auto-organizzato, di regole definite (non leggi imposte!).
 
-- @SabryKarate: "Commons" non dipendono da privati o dallo stato. Spazio
-auto-organizzato, regole definite (non leggi imposte!).
+- Elinor Ostrom ha studiato casi di commons fisici ed il loro funzionamento,
+Elinor Ostrom è la prima donna a vincere il Premio Nobel
+per l'Economia (nel 2009). http://t.co/VavtbZItvG
 
-- @Antonio_Langiu: Il concetto di Commons é legato all' auto
-organizzazione..
+- Ella conclude che è un falso il fatto che le società autorganizzate e autogestite siano destinate a fallire.
 
-- @PieMarzio: "Commons" strettamente legato al concetto di
-auto-organizzazione
-
-- @EmaParrinello: il concetto di "commons" è legato al concetto di
-auto-organizzazione
-
-- @Carrattrezzi: Commons autoregolamentati con diversi gradi di anarchismo
-
-- @ripa_pepperipa: “Commons”: Spazi dove ci si può auto-organizzare
-(non c’è legge di marcato-->Anarchia) né privato(mercato) né Stato
-
-- @SabryKarate: Elinor Ostrom, prima donna a vincere il Premio Nobel
-per l'Economia (nel 2009)
-
-- @FabioVallone: Elinor Ostrom (premio Nobel Economia 2009) ha studiato
-casi di commons fisici ed il loro funzionamento
-
-- @ripa_pepperipa: Elinor Ostrom --> http://t.co/VavtbZItvG
-
-- @LolloCler: Ostrom,nobel per economia,studia common fisici e come le
-comunità si gestiscono e conclude che é falso che falliscono
-
-- @Carrattrezzi: I commons non sono solo quelli degli anni '70, ci sono
+- I "Commons" non sono solo quelli degli anni '70, ci sono
 casi molto più antichi e che hanno invece funzionato.
 
-- @LolloCler: la visione fallimentare dei commons é di Hardin "the
-tragedy of the commons"
+- La visione fallimentare dei commons é di Hardin "the
+tragedy of the commons", ovvero "La tragedia dei commons" : 
+http://t.co/Neku7yjK7L
+ScienceMagazine : http://t.co/05pY8i3zgT
 
-- @SabryKarate: Elinor Ostrom ha dimostrato che i Commons non sono
-necessariamente destinati a fallire, possono funzionare efficientemente
+- Elinor Ostrom ha dimostrato che in alcuni casi il commons
+è addirittura più efficiente di altre strade.
 
-- @MartinoMensio: La tragedia dei commons: http://t.co/Neku7yjK7L
+- Il sogno delle biblioteche: avere tutti i libri. Tuttavia
+è molto costoso e difficile da realizzare. Ma nel digitale le opportunità si allargano.
 
-- @ripa_pepperipa: La visione dei Commons che falliscono è catturata
-dalla frase: “The tragedy of the Commons” .. cit Hardin
-
-- @SoFranchy: Si deve a E. Ostrom (Nobel Economia 2009) gran parte dello
-studio sui commons fisici: contrapposizione "tradedia dei c."
-
-- @DavidePalermo2: "The Tragedy of the Commons" ScienceMagazine
-http://t.co/05pY8i3zgT
-
-- @Carrattrezzi: pirateria not at
-
-- @Ale_Cannone: Elinor Ostrom ha dimostrato che in alcuni casi il commons
-è più efficiente di altre strade
-
-- @SabryKarate: Il sogno delle biblioteche: avere tutti i libri. Tuttavia
-è molto costoso e difficile da realizzare. Ma nel digitale...
-
-- @Ale_Cannone: Sogno di una biblioteca universale accedibile a tutti
-è possibile tramite il digitale con un costo relativamente basso
-
-- @SabryKarate: Problema di incentivi economici: vendita di libro fisico
-permette di sostenere lo scrittore. La distribuzione gratuita no.
-
-- @Ale_Cannone: Libri accessibili a tutti: mancano gli incentivi per
-poter organizzare tutto in digitale (questioni di interesse economico)
-
-- @Carrattrezzi: Circa il 6% del prezzo di copertina di un libro va
-all'autore
-
-- @SabryKarate: Del guadagno ricavato dalle copie fisiche vendute,
+- Del guadagno ricavato dalle copie fisiche vendute,
 allo scrittore vanno tra il 6% ed un massimo di 12%... libri
 
-- @SoFranchy: Rendere disponibile la conoscenza a tutti allo stesso
+- Rendere disponibile la conoscenza a tutti allo stesso
 modo. Come incentivare gli autori? Idee da P. Aigrain e V. Grassmuck
 
-- @venadavide: Un autore medio riceve circa il 6/7 % dal ricavato di
-una pubblicazione
-
-
-- @ripa_pepperipa: Philippe Aigrain e Volker Grassmuck hanno provato a
-disaccoppiare la visione del tantigibile e intangibile
-
-- @AstoriPietro: Solo il 6% del costo del libro è destinato all'autore,
-se è bravo contratta fino al 10-12%
 
 
 ### La Pirateria
 
-- @ripa_pepperipa: la Pirateria --> http://t.co/AWB5A6yIkD
+- la Pirateria --> http://t.co/AWB5A6yIkD
 
-- @DavidePalermo2: Pirati e Pirateria dall'antichità ad oggi, con
-diverse accezioni
-
-- @AstoriPietro: I corsari, espediente della corona inglese per boicottare
+- Pirati e Pirateria dall'antichità ad oggi, con
+diverse accezioni,in passato i corsari, espediente della corona inglese per boicottare
 la flotta spagnola
 
-- @SabryKarate: pirateria, termine molto utilizzato già a partire da
-Gutenberg. N.B. si parla di pirati già prima del Seicento.
+- pirateria, termine molto utilizzato già a partire da
+Gutenberg.Si parla di pirati già prima del Seicento, e nel 600 con la copia
+illegale di libri.
 
-- @MartinoMensio: Pirateria nella cultura: nasce nel 600 con la copia
-illegale di libri
-
-- @SimoneBleynat: La Regina Elisabetta I reinventa i pirati, ma dà loro
+- Successivamente La Regina Elisabetta I reinventa i pirati, ma dà loro
 una patente che legittima il loro operato e li chiama corsari
 
-- @Carrattrezzi: I pirati nel periodo della diffusione della stampa
-erano gli editori che stampavano clandestinamente senza autorizzazione
-
-- @venadavide: Recentemente il termine "pirata" viene attribuito
+- Recentemente il termine "pirata" viene attribuito
 all'utente
 
-- @DavidePalermo2: Il computer è una "fabbrica" che permette a tutti
+- Il computer è una "fabbrica" che permette a tutti
 di diventare un Pirata
 
-- @ripa_pepperipa: La pirateria non è furto, ma si danneggia il
+- La pirateria non è furto, ma si danneggia il
 produttore.
 
-- @AstoriPietro: Pc, permette a tutti di essere "pirata"
-
-- @SabryKarate: Secondo alcuni: La copia digitale personale non
-commerciale dovrebbe essere legale.Non permessa però la vendita.
-
-- @MartinoMensio: La pirateria su internet non è furto, ma danneggia
-economicamente i produttori
-
-- @Ale_Cannone:  pirati moderni ---> mirano al "furto" di quello che
-è la copia digitale
-
-- @SabryKarate: Condivisione non a scopo di lucro.
+- Condivisione non a scopo di lucro.
 
 
 ### Logical fallacies e Integrity
 
-- @DavidePalermo2: serve ad avere un'esperienza digitale Ci ricolleghiamo
-alla netiquette
+- Espandiamo il concetto di Netiquette
 
-- @FabioVallone: Oggi espanderemo il concetto di Netiquette
-
-- @EmaParrinello: un corso completo che ci sta fornendo informazioni,
-strumenti, esperienza e netiquette
-
-- @EmaParrinello: Internet facilita la possibilità di riportare
-riferimenti attendibili, cose che era molto più difficile prima di
+- Internet facilita la possibilità di riportare
+riferimenti e notizie, cose che era molto più difficile prima di
 internet
 
-- @Clerish: L'obiettivo finale del corso è quello di farci diventare
-migliori "cittadini digitali"
 
-- @ripa_pepperipa: oggi si parla di 1. "Cosa dici?" 2. Integrità
-3. Logical fallacies
+- 1) "Cosa dici?" : quando ci si rivolge online è
+importante chiarire la natura di ciò che si scrive.
 
-- @DavidePalermo2: 1) "Cosa dici?" 2) integrità 3) Logical Fallacies
 
-- @_FedericoConte: "Cosa dici?" : quando ci si rivolge online è
-importante chiarire la natura di ciò che si scrive
+- Bisogna sempre chiarire se quello che si dice è:
+a)Un'opinione 
+b)Una testimonianza 
+c)Un fatto
 
-- @SoFranchy: Oggi si parla di Netiquette --> diventare migliori
-cittadini (digitali): "Cosa dici?", "integrità", "logical fallacies"
+- nel relazionarsi con le persone bisogna far capire se
+ciò che si dice sia una nostra opinione, testimonianza o un fatto.
 
-- @ripa_pepperipa: E’ fondamentale chiarire se ciò che si dice è:
-1. Un’opinione; 2. Una testimonianza
+- È importante specificare la fonte di ciò che si dice,e nel caso dimostrane la veridicità.
 
-- @Carrattrezzi: La testimonianza non è la verità, è una percezione,
-a lot different
+- La testimonianza non è la verità, è una percezione,
+cose molto diverse.
 
-- @Clerish: Bisogna sempre chiarire se quello che si dice è:
-1)Un'opinione 2)Una testimonianza 3)Un fatto
+- Crap detection:  come capire l'attendibilità di un'informazione
+online?
 
-- @FabioVallone: Online, chiarire se è: 1-Un'opinione 2-Una testimonianza
-3-Riferite una informazione o un fatto
+- Per aver maggiore sicurezza riguardo ad un fatto, è
+bene osservare le info di una fonte ,valutarne la validità e l'affidabilità.
 
-- @Ale_Cannone:  nel relazionarsi con le persone bisogna far capire se
-ciò che si dice sia una nostra opinione, testimonianza o un fatto
-
-- @FeFallace: Nozione di netiquette: chiarire se il contenuto pubblicato
-é un'opinione, una testimonianza o un'informazione, un fatto...
-
-- @SabryKarate: Ciò che ognuno riporta di un certo evento è
-soggettivo. A parte la matematica, tutto il resto è opinabile...
-
-- @SimoneBleynat: Opinione, testimonianza o fatto riportato? È importante
-specificare la fonte di ciò che si dice
-
-- @DavidePalermo2: Parliamo delle informazioni su wikipedia
-
-- @paolopopolizio: chiarire se si dice: -1 opinione -1 testimonianza
--1 informazione
-
-- @SoFranchy: "Cosa dici?": specifica se è una tua opinione, una
-testimonianza, un riferimento o una citazione: dimostrane la veridicità.
-
-- @Carrattrezzi: Ciò che citiamo come fonte, è attendibile?
-
-- @Clerish: Crap detection: capire l'attendibilità di un'informazione
-online
-
-- @_FedericoConte: Bisogna capire l'attendibilità delle informazioni
-online
-
-- @Rexsimo893: Chiarire sempre se ciò che diciamo è: -opinione
--testimonianza -riferimento a un fatto
-
-- @SabryKarate: Per aver maggiore sicurezza riguardo ad un fatto, è
-bene osservare le info di una fonte attendibile. @rd_informazione
-
-- @LorenzoCutelle: Su wikipedia (e non solo) è fondamentale citare
+- Su wikipedia (e non solo) è fondamentale citare
 fonti affidabili.
 
-- @Ale_Cannone:  se si riferisce una informazione bisogna avere dei
-riferimenti e fonti attendibili
+- le fonti attendibili vanno riconosciute dal contesto
 
-- @venadavide: E' necessario valutare la validità delle fonti dalle
-quali prendiamo le informazioni
-
-- @SimoneBleynat: NB: verificare SEMPRE l'affidabilità delle fonti di
-qualsiasi informazione
-
-- @Ale_Cannone:  le fonti attendibili vanno riconosciute dal contesto
-
-- @FabioVallone: Su internet bisogna cercare di essere chiari il più
+- Su internet bisogna cercare di essere chiari il più
 possibile per cercare di aumentare la nostra credibilità
 
-- @SabryKarate: wikipedia: bene comune, è fondamentale che i dati siano
-verificati. La conoscenza è un bene Non Escludibile e Non Rivale!
 
-- @Antonio_Langiu: Si parla di Michael C.Jensen - professore alla Harvard
-Business School
+- 2) Integrità 
 
-- @FabioVallone: Integrità -> concetto morale
 
-- @Carrattrezzi: Cos'è l'integrità?
+- Integrità -> concetto morale
 
-- @FabioVallone: Integrità = rispetto della parola data
+- Cos'è l'integrità?
 
-- @Antonio_Langiu: Integrità: affidabilità e coerenza, come dice Jensen:
+- Integrità: affidabilità e coerenza, come dice Jensen:
 Rispetto della parola data..
 
-- @BoggioMattia: Integrità : rispetto parola data.
-
-- @paolopopolizio: Michael C. Jensen ha promosso un sito che pubblica
+- Michael C. Jensen ha promosso un sito che pubblica
 articoli scientifici accessibili in modo gratuiito
 
-- @LorenzoCutelle: La definizione di "integrità" di Michael C. Jensen
-è: mantenere la parola data.
-
-- @_FedericoConte: Integrità : mantenere la parola data
-
-- @FeFallace: Integrità significa mantenere la parola data.
-
-- @Carrattrezzi: L'integrità è mantere la parola data. Presuppone
+- Mantenere la parola data presuppone
 riflessione prima di parlare, e produce fiducia
 
-- @paolopopolizio: "integrità": sta per affidabilità, mantenere la
-parola data
+- Integrità accresce la reputazione.
 
-- @DavidePalermo2: Aspettiamo con impazienza la lezione di settimana
-prossima di @annamasera, SM Editor de @la_stampa, a @RivoluzDigitale
-
-- @EricaAcire19: mantenere la parola data è molto più difficile del
-previsto...cit. @demartin
-
-- @FabioVallone: Integrità: C'è una richiesta a monte di qualcuno,
-e una nostra considerazione del lavoro da svolgere. Si può accettare o no
-
-- @Carrattrezzi: Per prendere un impegno dobbiamo sapere il tempo che
+- Per prendere un impegno dobbiamo sapere il tempo che
 impieghiamo per farlo e il tempo che abbiamo
 
-- @_FedericoConte: Bisogna fare attenzione a ciò che implica mantenere
+- Bisogna fare attenzione a ciò che implica mantenere
 una parola data, alle sue conseguenze
 
-- @SabryKarate: Bisogna rendersi conto delle proprie capacità per poter
+- Bisogna rendersi conto delle proprie capacità per poter
 mantenere la parola data: invece tendiamo spesso a sovrastimare!
 
-- @Clerish: Prima di dare la propria parola ci vuole un'analisi delle
+- Prima di dare la propria parola ci vuole un'analisi delle
 proprie capacità e risorse di tempo
 
-- @DavidePalermo2: "Guardando l'agenda tendiamo sempre a sovrastimare
-il tempo a nostra disposizione per fare le cose che dobbiamo fare"
+- @bassosimone: 
+"Oh, dopo che avete moltiplicato per due il tempo che ritenete necessario, moltiplicate
+ancora per due consiglio [esperienza personale]"
 
-- @SoFranchy: Integrità: rispettare la parola data, concetto non
-ovvio. Dare propria parola necessita lavoro a monte e conoscenza di sè.
+- Integrità significa quindi una grande conoscenza
+di noi stessi.Solo con l'esperienza si impara a capire di cosa siamo capaci.
 
-- @bassosimone: Oh, dopo che avete moltiplicato per due, moltiplicate
-ancora per due consiglio [esperienza personale]
+- Se c'è un imprevisto: avvisare immediatamente, proporre
+nuovi termini, chiedere se si può attenuare il disagio in qualche modo.
 
-- @EmaParrinello: bisogna imparare a conoscersi bene per poter accettare
-una richiesta e mantenere la parola data
+- le regole sociali su Internet sono le stesse della vita reale.
 
-- @SabryKarate: Attenzione a calcolare bene i tempi, consiglio di
-@demartin: lasciate un piccolo margine di tempo in più per sicurezza.
+- Schemino Riassuntivo http://t.co/t4s63xiUGo
 
-- @Ale_Cannone:  integrità richiede alta conoscenza di se stessi e
-anche prudenza in modo da rispettare la parola data
-
-- @FabioVallone: Integrità può anche voler dire una grande conoscenza
-di noi stessi.Solo con esperienza si impara a capire cosa si può fare
-
-- @bassosimone: Tanto le moltiplicazioni (e le divisioni) per due sono
-molto efficienti
-
-- @fabioricca93: integrità=mantenere la parola data comporta un'attenta
-analisi di se stessi basata su prudenza e coscienza di se
-
-- @BoggioMattia: Per mantenere la parola data bisogna avere un'ottima
-conoscenza dei propri limiti e delle proprie capacità!!
-
-- @StefanoFranz20:  lasciarsi sempre un margine di tempo onde evitare
-di non mantenere la parola data. consiglio
-
-- @Carrattrezzi: Se forza maggiore bisogna dire ciò che succede nel
-momento in cui succede. E deve essere reale ed eccezionale
-
-- @SabryKarate: Ecco perché in genere io parto molto presto al mattino:
-per non arrivare in ritardo a lezione in caso di imprevisti.
-
-- @SimoneBleynat: Se qualcuno ti frega il computer sei giustificato a
-non farmi quelle slides che mi avevi promesso. Sennò no.
-
-- @SoFranchy: Se c'è imprevisto: avvisare immediatamente, proporre
-nuovi termini, chiedere se si può attenuare il disagio in qualche modo
-
-- @Carrattrezzi: Integrità accresce la reputazione
-
-- @LorenzoCutelle: La lezione di oggi di  ci fa capire benissimo come
-le regole su Internet siano le stesse della vita reale.
-
-- @ripa_pepperipa: • La reputazione ha un grandissimo valore
-professionale!
-
-- @BoggioMattia: Reputazione ha un grandissimo valore professionale
-oltre che personale.
-
-- @EmaParrinello: il continuo mantenimento delle "promesse" accresce la
-reputazione dell'individuo in maniera positiva
-
-- @Ale_Cannone:  nel caso di un imprevisto bisogna avvertire colui che
-ci aveva chiesto qualcosa e cercare di attenuare il disagio causato
-
-- @FabioVallone: La parola può non essere rispettata solo in casi
-"estremi". Quando succede bisogna cercare di alleviare i danni creati
-
-- @SabryKarate: La reputazione ha una grande importanza a livello sociale
-e lavorativo. Ci si può affidare a chi ha una buona reputazione.
-
-- @LorenzoCutelle: L'integrità è un valore di immane importanza sia
-su internet che nella vita reale. Un valore sempre più necessario.
-
-- @Ale_Cannone:  integrità vuol dire persona professionale che gode di
-rispetto da parte degli altri grazie alla sua positiva reputazione
-
-- @SoFranchy: Essere integri migliora la reputazione che ha un grande
-impatto professionale e commerciale
-
-- @FabioVallone: Mantenere la parola data aumenta molto la reputazione
-anche a livello professionale
-
-- @SabryKarate: Dopo la valutazione di una richiesta: No, grazie. (niente)
-Sì, però... (negoziazione) Sì. (parola data, va rispettata)
-
-- @DavidePalermo2: Schemino Riassuntivo http://t.co/t4s63xiUGo
-
-- @Carrattrezzi: @demartin ci porta un po' di mentalità anglosassone
-
-- @SabryKarate: In caso di un'emergenza: -Informare
+- In caso di un'emergenza: -Informare
 tempestivamente. -Scusarsi. -Stabilire nuova data. -Cosa si può fare
 per rimediare?
 
-- @paolopopolizio: ad una richiesta corrisponde una valutazione che in
-caso positivo implica la "parola data"
+- In sostanza non cercare di nascondere il problema ma
+prenderne atto e cercare una soluzione.
 
-- @Antonio_Langiu: Se emergenza vera: 1)Informare direttamente 2)Chiedere
-scusa 3)Dire quando si potrà fare 4)Chiedere come attenuare disagio
-
-- @omerovitali: Schema alla lavagna. http://t.co/YeCHaYQDW5
-
-- @StefanoFranz20: In sostanza non cercare di nascondere il problema ma
-prenderne atto e cercare una soluzione
-
-- @Carrattrezzi: Integrità è anche scrupolo nel parlare ed attenzione
-al fatto che sia vero.
-
-- @SabryKarate: Perciò, prima di affermare un fatto bisogna accertarsi
+- prima di affermare un fatto bisogna accertarsi
 che questo sia verificato. Non riferite solo "per sentito dire".
 
-- @FabioVallone: è importante crearsi una buona reputazione e
+- è importante crearsi una buona reputazione e
 attendibilità, quindi una buona Integrità
 
-- @Ale_Cannone:  integrità ---> persona attendibile, efficiente
-e coerente
-
-- @bassosimone: "L-worlds - the curious preference for low quality and
+- "L-worlds - the curious preference for low quality and
 its norms" by D. Gambetta e G.Origgi << [pdf] http://t.co/11nFGzbKgJ
 
-- @SabryKarate: Perché in Italia predomina l'idea: ti offro poco,
+- Perché in Italia predomina l'idea: ti offro poco,
 fai in fretta, non mi interessa il risultato ma basta che sia fatto?
 
-- @DavidePalermo2: Def. di bozzaccia http://t.co/6C5QaFqeTI
+- In Italia sono comuni le richieste impossibili entro tempi
+brevi, che portano a "bozzacce".Def. di bozzaccia http://t.co/6C5QaFqeTI
 
-- @Clerish: In Italia sono comuni le richieste impossibili entro tempi
-brevi, che portano a "bozzacce"
-
-- @FabioVallone: in alcune relazioni esiste anche la "bozzaccia" ovvero
-tempi stretti, ma il lavoro è di scarsissima qualità...
-
-- @EmaParrinello: integrità significa anche rendersi conto che in alcuni
+- integrità significa anche rendersi conto che in alcuni
 casi non si è in grado di poter soddisfare la richiesta
 
-- @FabioVallone: Le aziende dove domina l'integrità, sono 2 volte più
+- Le aziende dove domina l'integrità, sono 2 volte più
 efficienti delle altre
 
-- @SabryKarate: E' meglio prendersi tempi più lunghi, ma eseguire un
-lavoro in maniera più accurata piuttosto che fare tutto "alla carlona"
+- Valutare le richieste con la testa e non con il cuore.Nella valutazione della richiesta, l'autoinganno è un
+rischio pericoloso.
 
-- @FeFallace: L'integritá funziona! Le aziende che la impongono producono
-più del doppio.
+- 3) Logical Fallacies
+   "Thou shall not commit logical fallacies"
 
-- @Carrattrezzi: Valutare le richieste con la testa e non con il cuore
+- What is a Logical fallacy? Take a look on this wiki page:
+  http://t.co/Sh7Alpl6PD
 
-- @Clerish: Le aziende in cui predomina l'integrità sono in media più
-del doppio di efficienti rispetto alle altre
+- https://t.co/fOpWGnzF6B Immagine delle Logical Fallacies
 
-- @FabioVallone: Nella valutazione della richiesta, l'autoinganno è un
-rischio pericoloso
-
-- @ripa_pepperipa: • L’auto-inganno è un rischio particolarmente
-forte nella valutazione della richiesta
-
-- @SabryKarate: "Thou shall not commit logical fallacies"
-
-- @Ale_Cannone:  uno sguardo sull'Italia
-
-- @SabryKarate: What is a Logical fallacy? Take a look on this wiki page:
-http://t.co/Sh7Alpl6PD
-
-- @DavidePalermo2: Thou shalt not commit logical fallacies
-http://t.co/6C5QaFqeTI
-
-- @DavidePalermo2: https://t.co/fOpWGnzF6B Immagine delle Logical
-Fallacies
-
-- @Clerish: La peggiore fallacia logica è "ad hominem attack": attaccare
+a) Ad hominem attack - attacco ad personam 
+- La peggiore fallacia logica è "ad hominem attack": attaccare
 l'opponente invece della sua tesi
 
-- @SabryKarate: 1) Ad hominem attack - attacco ad personam 2) Strawman
-(Spaventapasseri) - deformo l'argomentazione dell'opponente
-
-- @Clerish: La fallacia logica dello "strawman attack" (spaventapasseri)
-può passare inosservata da chi ascolta senza attenzione
-
-- @Ale_Cannone:  logical fallacies: 1. Ad hominem attack
-2. Spaventapasseri (strawman) 3. Anedottica
-
-- @SoFranchy: Logical fallacies, parallelismo inevitabile e frequente
-con la politica italiana e sui "salotti di tribuna politica"
-
-- @bassosimone: - la persona professionale chiede se ha capito bene
-l'argomentazione per esser sicuro appunto di aver capito
-
-- @fabioricca93: È evidente che cicerone nel foro romano non usava le
-logical fallacies (ad hominem attack/spaventapasseri)
-
-- @SabryKarate: Interesting list of logical fallacies:
-http://t.co/in6ZHb2jF8
-
-- @Clerish: La fallacia logica "anedottica" si basa sul generalizzare
-un singolo fatto come se valesse per tutti
-
-- @paolopopolizio: D'AGOSTINI FRANCA https://t.co/46MDWtpKMS
-
-- @Rexsimo893: Anedottica: prendere singolo fatto e generalizzarlo anche
-se non rappresenta la verità
-
-- @Ale_Cannone:  ad hominem attack: quando non si riesce ad attaccare
-un a4gomento altrui si attacca la persona
-
-- @Antonio_Langiu: Fallacce Logiche: 1) ad hominem attack 2) i
-spaventapasseri 3) anedottica
-
-- @Ale_Cannone:  spaventapasseri: presentare la tesi di qualcuno
+b) Strawman (Spaventapasseri) - deformo l'argomentazione dell'opponente
+spaventapasseri: presentare la tesi di qualcuno
 deformandola consciamente (attacco vigliacco)
 
-- @Clerish: Altra fallacia logica è quella della "slippery slope"
+c) Anedottica
+- La fallace logica "anedottica" si basa sul generalizzare
+un singolo fatto come se valesse per tutti,anche
+se non rappresenta la verità.
+
+d)Slippery slope (China pericolosa) - conseguenze non dimostrate
+- Altra fallace logica è quella della "slippery slope"
 (china pericolosa), che esagera i rischi della tesi da attaccare
-
-- @bassosimone: il problema dello slipper slope sta appunto nell'
+- il problema dello slipper slope sta appunto nell'
 "inevitabilmente"
+- Slipper Slope è un "effetto a valanga"
 
-- @LucaLiuzzi: Adesso che conosco bene le logicalfallacies non potrò
-non notarle ogni giorno,ogni min anche sui giornali.damnit
 
-- @EmaParrinello: logical fallacy anedottica consiste nel fare delle
-deduzioni partendo da casi particolari da cui non si può generalizzare
 
-- @paolopopolizio: "china pericolosa": un conseguenza autoevidente,
-senza che sia necessariamente vero
-
-- @SabryKarate: 3)Anedottica - da fatto particolare -> "regola
-generale" 4)Slippery slope (China pericolosa) - conseguenze non dimostrate
-
-- @Ale_Cannone:  anedottica: prendere un singolo dato, anche vero,
-e generalizzarlo come fatto generale
-
-- @_FedericoConte: Slipper Slope è un "effetto a valanga"
-
-- @Ale_Cannone:  china pericolosa (slippery slope) una serie di
-conseguenze successive non dimostrate
-
-- @bassosimone: lo slippery slope e' spesso legato ad argomenti morali
-
-- @SabryKarate: E' molto facile manipolare le informazioni tramite
-appropriati giri di parole o argomentazioni false http://t.co/jgTnXHVTPN
-
-- @DavidePalermo2: Proibizionismo http://t.co/WZ75X4uSKb
-
-- @StefanoFranz20:  logicalfallacies http://t.co/9RfHLlMr7d
-
-- @SoFranchy: Logical fallacies ad hominem attack: attaccare persona,
-non argomento; strawman: deformare opinione altrui per attaccarla
-
-- @FabioVallone: In molti casi si cerca di semplificare al massimo le
-opzioni: una negativa e una positiva
-
-- @SabryKarate: 5) Black & White (bianco e nero) - si presentano
+e)Black&White(bianco e nero) - T.i.n.a. = there is no alternative 
+- si presentano
 solo 2 opzioni, una negativa ed una positiva -> la scelta e' indotta
-
-- @Clerish: Infine, la fallacia logica "Bianco o Nero" esclude l'esistenza
+- Infine, la fallacia logica "Bianco o Nero" esclude l'esistenza
 di sfumature tra la propria tesi e quella rivale
-
-- @Carrattrezzi: 1) Ad hominem attack 2) Spaventapasseri 3) Anedottica 4)
-China pericolosa 5) Bianco e nero (There Is No Alternative)
-
-- @FabioVallone, @AntonioLangiu: TINA -> There Is No Alternative
-
-- @Clerish: TINA: There Is No Alternative
-
-- @SabryKarate: "T.I.N.A." There is no alternative
-
-- @ripa_pepperipa: - La fallacia logica Bianco o Nero: Nello strutturare
-la discussione dicendo o è così o così --> solo 2 opzioni.
-
-- @SoFranchy: Logical fallacies Aneddotica: basarsi su singolo evento
-e generalizzare;
-
-- @paolopopolizio: "TINA" : There Is No Alternative, atto di prepotenza
-e arroganza
-
-- @DavidePalermo2: TINA http://t.co/8FrfARvuum
-
-- @FabioVallone: Di solito chi utilizza il metodo TINA commette un atto
-di prepotenza
-
-- @fabioricca93: LOG.FALL. Bianco o nero=in una discussione dico
-VOLONTARIAMENTE che una cosa o è in un modo o in un'altro\ No altre
-opzioni
-
-- @Clerish: Chi usa l'argomento TINA commette di solito un atto di
-prepotenza
-
-- @Ale_Cannone:  bianco o nero: le opzioni sono solamente due di cui
+- atto di prepotenza e arroganza
+- le opzioni sono solamente due di cui
 una è sicuramente negativa per far apparire l'altra migliore
 
-- @SoFranchy: Logical fallacies slippery slope: addurre "inevitabili"
-(non dimostrate) conseguenze negative a tesi altrui
+f) False cause
 
-- @venadavide: "TINA: There Is No Alternative"
-
-- @Carrattrezzi: 6) False cause
-
-- @Clerish: La fallacia logica "False cause" implica una causalità
+- La fallacia logica "False cause" implica una causalità
 infondata (x è la causa di y)
+- attenzione a non confondere la "causazione" con la
+"correlazione".Correlation does not imply causation | http://t.co/UGu9l1uZqb
+- due fenomeni di cui uno è la causa dell'altro ma ciò è infondato
 
-- @SoFranchy: Logical fallacies: Bianco e nero: far intendere che ci
-sono solo due opinioni e distruggere quella altrui (TINA)
-
-- @EmaParrinello: attenzione a non confondere la "causazione" con la
-"correlazione"
-
-- @bassosimone: - correlation does not imply causation |
-http://t.co/UGu9l1uZqb
-
-- @Ale_Cannone:  false cause: due fenomeni di cui uno è la causa
-dell'altro ma ciò è infondato
-
-- @LucaLiuzzi: Penso che le logicalfallacies sono la causa di molti
-pregiudizi.
-
-- @SabryKarate: 6) False cause - causalità infondata di un fatto
-cit. @demartin: "x è la causa di y"
-
-- @FabioVallone: Faulse Cause "X è la causa di Y" ma
-infondato. Correlazione != Causazione
-
-- @fabioricca93: correlazione != causazione
-
-- @SoFranchy: Logical fallacies False cause: presentare (senza prove)
-la casualità di un fenomeno. Correlazione è diverso da causazione.
-
-- @Carrattrezzi: http://t.co/OsfHAzLsHl e anche http://t.co/KRCIQHmB4c
-
-- @Clerish: Se c'è una correlazione tra risultati scolastici e libri
-in casa, bisogna pensare che un fatto non è la causa dell'altro
-
-- @SabryKarate: Non si può ottenere tutta la conoscenza solo comprando
-una carrellata di libri. Possesso di libri non implica conoscenza.
 
 
 ## @bassosimone
 
 ### Approfondimenti: bitly, Crap detection e Tor
 
-- @EricaAcire19: pronti per una nuova lezione di @bassosimone ...
+- "In viaggio con Narsete: da bit.ly a Tor, passando per
+la crap detection"
 
-- @DavidePalermo2: @bassosimone introduce il lavoro "volontario" fatto
-sul l'indice di github File Index.md http://t.co/kBOdqCRlRa
 
-- @Carrattrezzi:  http://t.co/0AaaLj4eeN
 
-- @DavidePalermo2: Crap detector - Il sensore di boiate:
-http://t.co/rbchnp1GPl di @lucadebiase Per anticipare la lezione di
-@bassosimone
-
-- @SabryKarate: Dopo la pausa, @bassosimone parlerà di Crap detection
-ed altro.
-
-- @FabioVallone: e @bassosimone disse: "Pioggia!" ... e pioggia fù...
-
-- @SabryKarate: "In viaggio con Narsete: da bit.ly a Tor, passando per
-la crap detection" by @bassosimone
-
-- @Carrattrezzi: Argomenti di oggi: -bit.ly -tor -crap detection
-
-- @DavidePalermo2: Parliamo con @bassosimone di bit.ly e Tor OT O
-Thor? http://t.co/rtEwEIt0QW /OT
-
-- @Carrattrezzi: Eunuchi e robustezza bizantina
-
-- @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete alla
-crapdetenction.
-
-- @SabryKarate: Robustezza bizantina: il tutto funziona anche se c'è
-un guasto!
-
-- @Clerish: @EricaAcire19 @SabryKarate E' la maledizione di !
-
-- @Ale_Cannone:  robustezza bizantina: i generali non possono comunicare
+- Robustezza Bizantina: i generali non potevano comunicare
 tra loro e alcuni sono traditori ma l'attacco è vincente
 
-- @DavidePalermo2: Un temporale con poderosi tuoni si abbatte su Torino
-Ma noi siamo con @bassosimone a seguire
+- robustezza bizantina applicata a internet
 
-- @Carrattrezzi: Come stabilire l'affidabilità di persone e siti
-su internet
+- Come stabilire l'affidabilità di persone e siti
+su internet?
 
-- @Ale_Cannone:  robustezza bizantina applicata a internet
 
-- @ripa_pepperipa: come faccio a valutare l'affidabilità dei link? mi
-fido della persona?
+1. Bit.ly
 
-- @FabioVallone: Scrivere sempre Tor e non TOR...
-
-- @EmaParrinello: @bassosimone ci parlerà a breve di: -bit.ly -phishing
--crap detection -Tor
-
-- @Ale_Cannone:  di chi mi devo fidare in internet? Parliamo di: 1. Bit.ly
-2. Email e phishing 3. Crap detection 4. Tor
-
-- @SoFranchy: Di chi ti fidi? In relazione a bit.ly & link, e-mail
-& phishing, pagine web & fonti, Tor
-
-- @LucaLiuzzi: @LucaLiuzzi: @bassosimone dietro la cattedra.Da Narsete
-alla crapdetection.
-
-- @Carrattrezzi: @bassosimone aveva twittato questo http://t.co/Wqf42N4Y0R
-
-- @venadavide: La magia che sta dietro link lungo e link corto bitly
-
-- @FabioVallone: automatismo bit.ly: PC->DNS (IP di bit.ly)
+- come faccio a valutare l'affidabilità dei link?
+- bit.ly utilizza un processo di Http Redirection
+- automatismo bit.ly: PC->DNS (IP di bit.ly)
 PC->bit.ly(link lungo) PC->sito che mi interessa
-
-- @Clerish: Basta aggiungere un + alla fine di un URL bit.ly per vedere
+- Basta aggiungere un + alla fine di un URL bit.ly per vedere
 dove vi porterà.
-
-- @SoFranchy: URL bit.ly con l'aggiunta di "+" per scoprire a cosa porta
-prima ancora di andarci.
-
-- @FabioVallone: mettendo un + in fondo al link bit.ly, ci permette di
-conoscere dove finiremmo
-
-- @SabryKarate: Possiamo scrivere http://t.co/EUzDrp4l9h per osservare
-in che pagina Web il bitly ci potrebbe portare, prima di entrarvi.
-
-- @venadavide: Per controllare dove ci manda un bitly possiamo aggiungere
-al fondo dell'URL un "+"
-
-- @ripa_pepperipa: se riceviamo un bitly e abbiamo paura, aggiungiamo un
-"+" per verificarene la pagina senza nessun rischio
-
-- @Ale_Cannone:  se in un URL bit.ly vogliamo sapere dove porta basta
-mettere un + alla fine dell'indirizzo
-
-- @CaracciFabio: Con bit.ly tre passaggi in più per essere reindirizzati
-alla pagina cercata.
-
-- @Clerish: Con il tool per command line "curl" il completo processo di
+- Con il tool per command line "curl" il completo processo di
 bit.ly è visualizzato
-
-- @Carrattrezzi: curl è un buon modo per vedere tutto ciò che succede
-ai nostri URL
-
-- @paolopopolizio: aggiungendo "+" al link di bitly ti dice dove finiamo
-se clicchiamo su quel link
-
-- @FabioVallone: bit.ly utilizza un processo di Http Redirection
-
-- @SabryKarate: Modo poco geek: mettere un "+" in fondo a bitly. Modo
-geek: usare un tool come Curl.
-
-- @Ale_Cannone:  http redirection: vai in un indirizzo per essere
-re-indirizzato in un altro sito (moved)
-
-- @EmaParrinello: Per controllare dove andremo a finire con un link
-corto possiamo aggiungere un "+" alla fine dell'URL o usare "curl"
-
-- @SoFranchy: http redirection. Aggiungendo "+" si evita la "redirezione"
-di bit.ly e si ottengono solo info sul'url corta.
-
-- @DavidePalermo2: Provate http://t.co/XqwXzEZw17 ;-)
-
-- @LucaLiuzzi: Per esempio: “@rep_torino: Sei ragazzi del “Poli a
-Pasadena a progettare i robottini per Marte: http://t.co/BJchBzjFzW”
-
-- @SoFranchy: in alternativa si può usare "curl" da riga di comando
-che funziona non solo con bit.ly
-
-- @Ale_Cannone: Le URL corte sono utili nelle mail in quanto certe volte
-le righe vanno a capo automaticamente dopo 80 caratteri
-
-- @SabryKarate: Uso di URL corti PROS: - per email (però descrivendo
-origine) - click stats CONS: - non è chiaro dove ci porta!
-
-- @SabryKarate: Non serve utilizzare URL corti su Twitter, perché come
-abbiamo visto il link viene accorciato automaticamente. :)
-
-- @Clerish: Il rasoio di Occam: http://t.co/6N7FD7ZXS1
-
-- @Ale_Cannone:  bit.ly utile nelle mail ma attenti alla robustezza,
+- bit.ly utile nelle mail ma attenti alla robustezza,
 privacy, sicurezza e okkam
-
-- @SabryKarate: Attenzione, i bitly hanno CONTRO riguardo a: chiarezza
-della fonte, robustezza, privacy, security, okkam,...
-
-- @LucaLiuzzi: 301works http://t.co/fLJkXbPhr9
-
-- @SabryKarate: Il DNS, bitly e simili sono utili, tuttavia può essere
+- Il DNS, bitly e simili sono utili, tuttavia può essere
 un problema se finiscono down.
 
-- @Carrattrezzi: pro e contro di bit.ly  http://t.co/YtuFQwwUXt
+2. Email e phishing 
 
-- @SabryKarate: La Security è l'aspetto più critico di bitly!
-
-- @SabryKarate: Cookie, pezzetti di informazione che vengono memorizzati
+- Le URL corte sono utili nelle mail in quanto certe volte
+le righe vanno a capo automaticamente dopo 80 caratteri
+- Uso di URL corti 
+PROS: - per email (però descrivendo
+origine) 
+CONS: - non è chiaro dove ci portano!
+- Non serve utilizzare URL corti su Twitter, perché come
+abbiamo visto il link viene accorciato automaticamente.
+- Cookie, pezzetti di informazione che vengono memorizzati
 e che possono essere rubati...
-
-- @SabryKarate: Utilizziamo un errore a scopo didattico :)
-
-- @SabryKarate: Funzione di hash on wiki http://t.co/YWzDYxfigM
-
-- @SabryKarate: <script> alert(document.cookie);</script>
-
-- @Carrattrezzi: Phishing (Phracking and fishing) getti delle esche per
-far abboccare dumb users
-
-- @SabryKarate: Parliamo ora di Phishing! Un gioco di parole tra
-"phracking" e "fishing". Senso -> i tonni abboccano.
-
-- @FlavioGiobergia: @bassosimone ci parla di XSS facendomi passare per
-un programmatore di bug :-)
-
-- @Clerish: Il phishing sui "pesci grossi" si dice Wailing (caccia
+- Phishing (Phracking and fishing) getti delle esche per
+far abboccare dumb users.
+- Il phishing sui "pesci grossi" si dice Wailing (caccia
 alla balena)
 
-- @SabryKarate: Phishing fatto su "pesci grossi" ---> Whaling
-http://t.co/TzU00RMV5l
+- i passi del phishing: 
+ 1. Manipolazione dei link 
+ 2. Email credibile 
+ 3. Sito credibile
 
-- @Ale_Cannone:  i passi del phishing: 1. Manipolazione dei link 2. Email
-credibile 3. Sito credibile
-
-- @LucaLiuzzi: Impariamo quanto è importante svuotare la propria cache
-periodicamente e non solo.
-
-- @Ale_Cannone:  manipolazione dei link può essere attuata attraverso
-bit.ly
-
-- @SabryKarate: Si può ingannare un user usando: mail credibile,
-manipolando il link (non troppo lungo) e sfruttando un sito credibile.
-
-- @EmaParrinello: bit.ly ci può essere di aiuto per evitare di essere
-vittima di un phishing attack
-
-- @Carrattrezzi: @bassosimone scrive davvero gli URL a mano O.o
-
-- @SabryKarate: Attenzione alle mail che vi chiedono di inserire dati
-personali! Se non siete sicuri, informatevi e non fatevi imbrogliare
-
-- @Ale_Cannone:  un esempio di manip dei link riguarda il fatto che
-alcune URL sono insolitamente lunghe e finiscono con domini "strani"
-
-- @SoFranchy: E' possibile "sgamare" un phishing se vengono richiesti
-dati personali che l'ente dovrebbe già avere
-
-- @SabryKarate: Per difendere bisogna coprire tutto, senza lasciare
+- Per difendere bisogna coprire tutto, senza lasciare
 talloni di Achille. Per attaccare basta una piccola falla nel sistema.
 
-- @SoFranchy: Miglioramento della sicurezza si ha tramite il Two Factor
-Authentication. I.E. sms oltre a user e pw.
 
-- @Gare_1993: Crap detection time
+3. Crap detection 
 
-- @SabryKarate: "Every man should have a build-in automatic crap detection
+- "Every man should have a build-in automatic crap detection
 operating inside him..." cit. Ernest Hemingway
-
-- @Ale_Cannone: Si parla di sicurezza su interntet a  Qui il caso Prism
-in America http://t.co/yljVN2JrNW @RivoluzDigitale
-
-- @Carrattrezzi: Net smart by Howard Rheingold
-
-- @SoFranchy: Che info dare al lettore crap detector: nome dell’autore
+- Che info dare al lettore crap detector: nome dell’autore
 cosa ha fatto in passato e cosa dicono altri di lui: reputazione
-
-- @SoFranchy: Creiamo una pagina Wikipedia su @bassosimone!
-
-- @SabryKarate: Su Google si possono facilmente trovare dati più precisi
+- Su Google si possono facilmente trovare dati più precisi
 che ci mostrino il contesto culturale dell'autore di un blog post.
-
-- @Ale_Cannone:  whoise: un tool che aiuta a capire di chi è un certo
+- whoise: un tool che aiuta a capire di chi è un certo
 dominio
-
-- @Clerish: Altro tool: "WhoIs" (da usare con cautela)
-
-- @LorenzoCutelle: Per cercare di capire chi è il proprietario del
-dominio, una possibile soluzione è 'whois'
-
-- @Carrattrezzi: @disinformatico
-
-- @ripa_pepperipa: a si parla di Paolo Attivissimo @disinformatico
-
-- @SabryKarate: @disinformatico Giornalista informatico, cacciatore di
-bufale e conduttore Radio
-
-- @Ale_Cannone:  sempre accertarsi delle fonti e non fidarsi sempre
+- sempre accertarsi delle fonti e non fidarsi sempre
 ciecamente della persona
 
-- @SabryKarate: Tor: Routing a cipolla http://t.co/ydTK6HjLp2
+4. Tor
 
-- @Carrattrezzi: The Onion Routing
-
-- @Ale_Cannone:  Tor: i pacchetti vengono cifrati e diventa difficile
+- Tor: Routing a cipolla http://t.co/ydTK6HjLp2
+- Tor: i pacchetti vengono cifrati e diventa difficile
 capire chi è il mittente e chi il destinatario
-
-- @EmaParrinello: Tor: implementazione di "routing a cipolla" in cui i
-pacchetti sono cifrati più volte--> è difficile risalire al mittente
-
-- @Ale_Cannone:  il terzo livello di Tor è chiamato exit node e conosce
+- il terzo livello di Tor è chiamato exit node e conosce
 il destinatario il primo conosce invece il mittente
-
-- @SabryKarate: Tor è un software che si può installare sul pc. Puoi
-scegliere tra varie opzioni: essere solo client, nodo della rete,...
+- Tor è un software che si può installare sul pc. Puoi
+scegliere tra varie opzioni: essere solo client, nodo della rete,ecc.
 
 
 
@@ -2196,7 +2006,7 @@ monopolio aziendale
 - 3 anni fa terminava il periodo di tutela de "Il grande Gatsby": Fitzgerald 
 muore nel 1940. 2013-1940: 73 anni post mortem! 
 
-- @DavidePalermo2: Proprietà intellettuale è: 1) diritto d'autore 2) 
+- Proprietà intellettuale è: 1) diritto d'autore 2) 
 brevetti 3) marchi
 
 - L'incontro Digitale-Proprietà Intellettuale è esplosivo! Ognuno di noi ha 
@@ -2221,9 +2031,9 @@ esempio una biblioteca universale OnLine accessibile a tutti
 degli utenti con il digitale? Possono restare le regole 800esche applicate 
 a tutto il resto? 
 
-- @bassosimone: <<Il video che faremo in questo corso sara' tutelato 
+- <<Il video che faremo in questo corso sara' tutelato 
 come l'ultimo film di Hollywood: "morte + 70">>
-- @demartin “Un blog di ricette è tutelato per legge come l'ultimo film di 
+- “Un blog di ricette è tutelato per legge come l'ultimo film di 
 Hollywood”
 
 - Da una decina d’anni vengono fatte diverse proposte per la riforma del 
@@ -2246,7 +2056,7 @@ gestito collettivamente, a meta' tra pubblico e privato
 - Rif. a "La Condivisione della Conoscenza - BDEM13 - De Martin, Donolo, 
 Mattei" http://t.co/7v74cfLiK0
 
-- @demartin: se vi serve un video di una ragazza che cammina sulla 
+- Se serve un video di una ragazza che cammina sulla 
 spiaggia, non serve andare ad Albenga a filmare: basta trovare un video 
 tra i beni “commons”
 
@@ -2261,7 +2071,7 @@ allo stesso modo”.
 - Occhio: non commerciale vuole dire “non ti autorizzo *a priori* all'uso 
 commerciale, ma possiamo fare un accordo”
 
--@bassosimone: il non-commerciale puo' essere boomerang: vuol dire 
+-Il non-commerciale puo' essere boomerang: vuol dire 
 che la RAI non puo' usare un vostro video, cosa che magari voi vorreste.
 
 - Non opere derivate: non si ha il permesso per fare un'opera basata su 
@@ -2280,7 +2090,7 @@ SIAE (fonte: ex presidente SIAE)
 - Wikipedia, che è un commons, ha un valore economico di miliardi di 
 euro
 
-- @bassosimone: Su input studenti, discussione su come trovare nuove 
+- Su input studenti, discussione su come trovare nuove 
 forme di finanziamento di, e.g., giornalismo, fotografia
 
 - Opinione: il CC se lo si sa utilizzare è comunque uno strumento di lucro. 
@@ -2291,8 +2101,6 @@ commerciale-non opere derivate
 
 - Concetto di "copyleft", detto anche scherzosamente "diritto di copia di 
 sinistra".
-
-- Grazie a @demartin per la lezione, molto interessante. 
 
 
 ## 2013-05-22
@@ -2324,10 +2132,10 @@ sinistra".
 
 - La rete di reti comunica attraverso i protocolli IP e TCP.
 
-- IETF, IANA, ICANN, ISOC, IAR: enti non ministeriali che
+- IETF, IANA, ICANN, ISOC, IAB: enti non ministeriali che
   governano internet.
 
-- Agli arbori di Internet, per parecchi anni Amministratori
+- Agli albori di Internet, per parecchi anni Amministratori
   e utenti coincidevano. Internet non è gestito da alcun
   Ministero. Perciò non è sottomesso alla politica. 
 
@@ -2598,7 +2406,7 @@ ma con i "Trade Marks" esistono molti problemi
 - La funzione primaria dei marchi è di mandare al consumatore
 una garanzia di qualità
 
--Esempio di conflitto per un marchio: caso Armani:
+- Esempio di conflitto per un marchio: caso Armani:
 http://t.co/tKE7jyZvs4
 
 - Controversia su Trademarks: si potrebbe indurre in
@@ -2712,7 +2520,7 @@ materiali intangibili
 
 - Brevetti (lo Stato tutela l'idea) 
 
--Diritto d'Autore (lo Stato tutela la forma espressiva)
+- Diritto d'Autore (lo Stato tutela la forma espressiva)
 
 - Per tutelarti lo stato utilizza tutta la sua forza
 attraverso tribunali e forze di polizia
@@ -2800,10 +2608,10 @@ l'invenzione di #Gutenberg con #Lutero e le versioni della #Bibbia
 nasce la scienza moderna. Prima del Sidereus Nuncius la 
 ricerca scientifica era segreta
 
-- durante l'età della stampa, esattamente nel 1665,
+- Durante l'età della stampa, esattamente nel 1665,
 nasce la prima rivista scientifica.
 
-- privilegio (antenato del diritto d'autore): veniva
+- Privilegio (antenato del diritto d'autore): veniva
 concesso il diritto di stampare in cambio del controllo delle stampe
 da parte dello stato.
 
@@ -2844,7 +2652,7 @@ suoi docenti a passare all’accesso aperto.
 - Il sistema di pubblicazione scientifica mainstream è
 anglosassone.
 
-- #Google Scholar sembra aperto ma è privato e non motiva
+- Google Scholar sembra aperto ma è privato e non motiva
 pubblicamente le sue scelte...
 
 - Per promuovere la scienza, gli scienziati devono espandere
@@ -2870,6 +2678,7 @@ d'avorio", compiono ricerche ma non diffondono i risultati.
 
 
 Foto della lezione: http://t.co/6qccvcEVyf http://t.co/eZpdZ1wN4i
+
 
 
 ## 2013-05-15
@@ -3178,405 +2987,159 @@ Hanno partecipato al live-tweet:
 
 ### @bassosimone
 
-- @DavidePalermo2: @bassosimone scrive alla lavagna:
-http://t.co/kBOdqCRlRa WiP correzione Blog, Info Varie e FAQ
+- Il link della repository del corso: http://t.co/kBOdqCRlRa Qui 
+troviamo tutta l’attività online (correzione di Blog e Mailing List, 
+FAQ, info varie, indice delle lezioni, ecc).
 
-- @SabryKarate: Per consultare l'indice delle lezioni, basato sul live
-tweeting: https://t.co/Y6zlbb3JxH
+- La Mailing List serve anche a partecipare alle discussioni, non solo 
+a scrivere e segnalare articoli interessanti.
 
-- @DavidePalermo2: Mailing list serve anche a partecipare (senza obbligo),
-non solo a scrivere!
-
-- @Ale_Cannone: mailing list: non solo segnalare articoli interessanti
-ma anche partecipare alle discussioni
-
-- @ripa_pepperipa: titoli creativi. Il titolo del post non deve essere
-banalmente una descrizione!
-
-- @SabryKarate: Il titolo del post non deve essere "psichedelico" nè
-eccessivamente descrittivo.
-
-- @Ale_Cannone: nei titoli dei post è importante sia
-la creatività che la chiarezza
+- Il titolo del post non deve essere né "psichedelico" né 
+eccessivamente descrittivo. È importante sia la creatività che la 
+chiarezza.
 
 ### @demartin
 
 #### Info per lezione presso FabLab
 
-- @DavidePalermo2: Correggere i post dopo la correzione di
-@bassosimone? perchè no! (ma sempre senza obbligo)
-
-- @DavidePalermo2: Lezione di Venerdì 10/05 ore 16-19 presso FabLab
-Torino - http://t.co/Ahr1QXlh8Y - Toolbox con @VonGomben
-
-- @SabryKarate: Lezione di venerdì 10 maggio: presso FabLab / Toolbox
-ore 16 - 19
-
-- @EmaParrinello: prossima lezione venerdì 10/05 ore 16-19 presso
-Fablab/Toolbox
-
-- @pdor93_milano: Lezione di venerdí al FabLab. Cercare indirizzo sul
-sito del FabLab di Torino
-
-- @ripa_pepperipa: Venerdì 10/05 ore 16-19 lezione presso FabLab/Toolbox
-in Via Egeo, 16
-
-- @FeFallace: Venerdi 10/05/13 lezione di al @Fablabtorino (4-7 pm)
-
-- @LorenzoCutelle: Ecco dove si trova il FabLab: http://t.co/endUm8B78E
-http://t.co/ZMjq8vxDEg
-
-- @DavidePalermo2: Toolboxoffice http://t.co/qlo4BzsBNr
-
-- @ripa_pepperipa: La lezione al FabLab sarà inserita nel programma
-d'esame!
-
-- @DavidePalermo2: Lezione al FabLab potrebbe essere verificata in
-sede d'esame!
+- La prossima lezione (venerdì 10 maggio) si terrà presso il FabLab / 
+Toolbox di Torino ore 16 – 19 con Davide Gomba (@VonGomben). 
+Info per arrivarci: http://t.co/ZMjq8vxDEg 
+http://t.co/endUm8B78E 
 
 #### Architettura di Internet
 
-- @DavidePalermo2: Rete best effort (qualità di servizio): wiki info
-http://t.co/pWoQlHu8aX
+- Internet segue la filosofia del ‘best effort’, cioè il sistema 
+garantisce di fare tutto il possibile per portare a termine 
+un'operazione, ma non garantisce affatto che l'operazione verrà 
+compiuta, né in che modo. Non ci sono regole di QoS (‘Quality of 
+Service’, qualità del servizio). Link: http://bit.ly/17SbfQI
 
-- @stufi93: L'operazione di instradamento (roting) è quando un nodo
-manda il pacchetto di dati al nodo successivo
+- Al contrario, il GSM (link: http://bit.ly/9kTxd9 ) non è Best Effort, 
+in quanto deve rispettare alcuni standard che non prevedono che i 
+pacchetti vadano persi.
 
-- @LucaLiuzzi: Ricap.: i nodi e il routing.la strada dei
-dati.
+- Routing: operazione di instradamento, ovvero come un nodo 
+manda il pacchetto di dati al nodo successivo. Ogni nodo ha solo 
+informazioni locali sui nodi a lui vicini. Può, quindi, capitare che 
+alcuni pacchetti vengano persi.
 
-- @bassosimone: routing: ogni nodo ha solo informazioni locali sui nodi
-a lui vicini
+- La rete in sé si limita a smistare pacchetti, poi sei tu a decidere 
+cosa farne. Rete stupida --> End-to-end.
 
-- @FabioVallone: Best Effort = Ogni router fa ciò che può. Ciò vuol
-dire che può capitare che alcuni pacchetti possono essere scartati
+- Internet è strutturato con un architettura a "strati" ( 
+http://t.co/vuLAqfq5KC ), in modo da rendere la progettazione e la 
+gestione della rete più semplice. I livelli sono: ‘Physical Layer’ (per 
+l’hardware) e ‘Link Layer, Internet Layer, Transport Layer e 
+Application Layer’ (per il software).
 
-- @FeFallace: "Best effort"= il meglio che può dare, non ci sono regole
-di QoS (Quality of Service)
+- Phisical Layer: livello fisico. È l’oggetto fisico per la comunicazione 
+dei dati. Per esempio, cavi e connessioni radio.
 
-- @RivoluzDigitale: Internet: come filosofia generale e' best effort,
-i.e. no qualita` del servizio (QoS), la rete fa quel che puo`
+- Link Layer: livello di collegamento dati. Per esempio, Ethernet e 
+Wi-Fi.
 
-- @FabioVallone: Il GSM non è Best Effort, in quanto deve rispettare
-alcuni standard che non prevedono che i pacchetti vadano persi
+- Internet Layer: Protocollo Internet (IP). Ampiamente discusso 
+nella lezione del 3 maggio.
 
-- @DavidePalermo2: Rete Stupida; è End-to-end. Su wikipedia:
-http://t.co/OZsMIudUZi
+- Transport Layer: TCP (Transmission Control Protocol 
+http://t.co/FLaB54Ri9t) è un protocollo di rete che: stabilisce una 
+connessione diretta tra due nodi di una rete, mette in ordine i 
+pacchetti, recupera i pacchetti persi (attraverso la ritrasmissione) e 
+fa un controllo di congestione (“crescita lenta, decrescita veloce” 
+per garantire equità tra flussi).
 
-- @ripa_pepperipa: "Besteffort" = ciascuno dei nodi faccia quel che
-può. Non ci sono regole di qualità o servizio.
+- Controllo di congestione: TCP occupa la banda in modo graduale, 
+ma alla congestione la abbandona in modo repentino.
 
-- @FabioVallone: Internet è strutturato con un architettura a "strati"
+- Avendo tutti questi compiti, da 30 anni TCP è sinonimo di 
+Internet. (Grafico su TCP e uso banda: http://t.co/UQT9o4J6AR 
+Viola = perdite; Pendenza curva = velocità di download) 
 
-- @Ale_Cannone: internet e teoria del "best effort": nessuna regola di
-QoS (quality of services)
+- L’IP, a livello di rete, effettua il routing; il TCP, a livello di 
+trasporto, garantisce la connessione effettiva tra computer di 
+partenza e di arrivo. http://t.co/Vju8FUA74b
 
-- @stufi93: Best effort è una rete progettata per essere end-to-end
+- Il DoD (Dipartimento della Difesa USA) da una certa data compra 
+solo più apparecchiature TCP/IP, decretandone la sua diffusione ed 
+unicità sul mercato.
 
-- @DavidePalermo2: Wiki Page architettura di rete: http://t.co/vuLAqfq5KC
+- Ottobre 1969: consegna del primo pacchetto da UCLA a Stanford.
 
-- @stufi93: Internet è a "livelli"
+- 1982: Definizione protocollo TCP/IP e parola "Internet"
 
-- @stufi93: Il primo requisito per poter comunicare é l'oggetto fisco,
-si chiama Phisical Layer
+- Dal 1° gennaio 1983, ARPAnet deve usare TCP/IP
 
-- @ripa_pepperipa: "Besteffort"---&gt; il secondo concetto fondamentale
-è: Rete End-to-end (rete stupida)
+- 1990: Scompare ARPANET, appare linguaggio HTML 
 
-- @FabioVallone: I protocolli vengono creati a strati in modo da rendere
-la progettazione e la gestione della rete più semplice
+- 1993: nasce il primo browser, ‘Mosaic’
 
-- @SabryKarate: Architettura di Internet divisa in 4 livelli. 1° Livello:
-fisico. Mezzo fisico di comunicazione dei dati.
+- ARPAnet (poi Internet) nasce nel 1969 come iniziativa fortemente 
+accademica/governativa, non come attività commerciale. Sin da 
+subito, infatti, viene imposto un ‘divieto di attività commerciale’, in 
+uno spirito del tutto universitario, di ricerca. 
 
-- @SoFranchy: accenno all'ISO-OSI. Pila di livelli, architettura Internet
+- Riflessione: se si parlasse adesso di divieto di attività commerciale 
+online, come reagirebbero Amazon, eBay, iTunes, ecc?
 
-- @stufi93: A livello di protocollo di comunicazione abbiamo il livello
-Link Layer, Internet Layer, Trasport Layer, Application Layer
+- In pochi anni, ARPANET attraversa un fase di espansione, 
+allargando i suoi nodi oltreoceano. Finalmente nel 1982 DCA e 
+ARPA, definendo il TCP e l’IP, danno il via ufficialmente a Internet.
 
-- @FabioVallone: Strati internet: ----Hardware Physical Layer -------
-Software Link Layer Internet Layer Transport Layer Application Layer
+- Il 30 aprile 1995 viene abrogato il divieto di attività commerciale. 
+Internet non è più rete solamente accademica/governativa.
 
-- @ripa_pepperipa: Struttura degli strumenti di comunicazione detta
-a strati!
-
-- @EmaParrinello: internet layers: physical, link, internet, transport,
-application.
-
-- @SabryKarate: Link Layer: livello di collegamento dati. Per esempio
-Ethernet, Wi-Fi,...
-
-- @LucaLiuzzi: Architettura della rete:Link layer,Internet layer,Transport
-layer e Application layer.
-
-- @SabryKarate: Internet Layer e Transport Layer: Protocollo Internet (IP)
-
-- @FabioVallone: Physical Layer: Cavi e Comunicazioni radio; Link Layer:
-Ethernet, wifi; Transport, Internet Layer: Protocollo Internet(IP)
-
-- @DavidePalermo2: Transmission Control Protocol - Wikipedia
-http://t.co/FLaB54Ri9t
-
-- @DavidePalermo2: Suite di protocolli Internet - TCP/IP - Wikipedia
-http://t.co/Vju8FUA74b
-
-- @stufi93: 12 anni fa il 90% del traffico era TCP 
-
-- @LucaLiuzzi: TCP : stabilisce una connessione tra un pc di partenza
-ed uno di arrivo.
-
-- @SoFranchy: IP, a livello rete, effettua routing. TCP, a livello
-trasporto, stabilisce comunicazione tra nodi di partenza e arrivo
-
-- @Ale_Cannone: TCP: garantisce la connessione effettiva tra computer
-di partenza e arrivo a differenza dell'IP
-
-- @FabioVallone: Nel Trasport e Internet Layer è contenuto il TCP che
-serve a stabilire una connessione diretta tra due computer
-
-- @DavidePalermo2: TCP crea connessione tra due nodi della rete
-
-- @stufi93: TCP inserisce una connessione tra due nodi della rete
-
-- @FeFallace: Internet ha un'architettura a strati: Physical Layer
-&gt;&gt; Link L. &gt; Internet L. &gt; Transport L. &gt; Applicaion L.
-
-- @ripa_pepperipa: TCP stabilisce una connessione effettiva tra un
-computer di partenza e uno di arrivo!
-
-- @LucaLiuzzi: TCP IP http://t.co/hSl3RSmvkR
-
-- @SabryKarate: TCP: -Stabilisce connessione tra 2 nodi -Mette in ordine
-i pacchetti -Recupera pacchetti persi (con ritrasmissione)
-
-- @DavidePalermo2: Corso di Rivoluzione Digitale (@ Aula 7S)
-http://t.co/996JNr9mWM
-
-- @SoFranchy: TCP: ordina pacchetti in arrivo e controlla la presenza di
-tutti i pacchetti. In caso negativo richiede trasmissione
-
-- @FabioVallone: TCP/IP: -Stabilisce una connessione diretta tra due nodi;
--Mette in ordine i pacchetti; -Recupera pacchetti persi;
-
-- @ripa_pepperipa: I livelli fisici sono: 1.Application Layer 2.Transport
-Layer 3.Internet Layer 4.Link Layer
-
-- @stufi93: TCP controlla il flusso dei dati evitando le congestioni
-
-- @SabryKarate: TCP attua anche un controllo di congestione. Gestione
-dei flussi di dati.
-
-- @FabioVallone: il TCP fa anche un "controllo di congestione" ovvero
-controlla i flussi dei dati in parallelo
-
-- @FabioVallone: Il "controllo di congestione" viene effettuato dal TCP
-secondo il principio della "crescita lenta, decrescita veloce"
-
-- @SabryKarate: Black out momentaneo a RivoluzDigitale...
-
-- @DavidePalermo2: Senza luce!
-
-- @ripa_pepperipa: Per la gestione dei flussi di connessione, l'idea
-fondamentale è quella di CONTROLLO DI CONGESTIONE!
-
-- @FeFallace: TCP/IP gestisce l'equità dei flussi di banda controllando
-le congestioni (principio"crescita lenta, decrescita veloce")
-
-- @stufi93: "Crescita lenta, decrescita veloce" per garantire equità
-tra i flussi
-
-- @conwused: Il TCP è educato, la rete elettrica no!
-
-- @stufi93: I generatori storici del poli ci stanno abbandonando
-
-- @ripa_pepperipa: se c'è congestione TCP fa crollare la banda!
-
-- @Ale_Cannone: TCP: grazie al controllo di congestione che gestisce
-i flussi di dati in parallelo si garantisce equità tra questi
-
-- @FabioVallone: Il DoD da una certa data compra solo più apparecchiature
-TCP/IP
-
-- @LucaLiuzzi: Se il DoD si intromette con i suoi soldi nessuno può
-più nulla contro di esso. #fact
-
-- @SoFranchy: Dip. Difesa americano predilige TCP/IP come protocollo
-di connessione e decreta la sua diffusione ed unicità sul
-mercato.
-
-- @SabryKarate: A partire dal 1983, il Dipartimento della Difesa acquista
-soltanto più apparecchiature TCP/IP.
-
-- @SoFranchy: TCP: occupa banda in modo graduale, alla congestione la
-abbandona in modo repentino
-
-- @FabioVallone: Dal 1° gennaio 1983 ARPAnet deve usare TCP/IP
-
-- @SabryKarate: Dal 1° gennaio 1983, diventa obbligatorio usare TCP/IP
-per ARPANET
-
-- @ripa_pepperipa: TCP dal 1°gennaio 1983 "sottomette" ARPANET!
-
-- @stufi93: Dal 1º gennaio 1983 ARPANET deve usare TCP/IP
-
-- @EmaParrinello: Dal 1° gennaio 1983 per poter esser un nodo di Arpanet
-bisogna usare il protocollo TCP/IP
-
-- @bassosimone: TCP e uso banda: viola = perdite, pendenza curva =
-velocita` di download http://t.co/UQT9o4J6AR
-
-- @FeFallace: Ottobre 1969 primo pacchetto consegnato tra UCLA e Stanford
-
-- @stufi93: Ottobre 1969 primo pacchetto consegnato tra UCLA e Stanford
-
-- @SabryKarate: 1982: Definizione protocollo TCP/IP e parola "Internet"
-1990: Scompare ARPANET; appare linguaggio HTML 1993: primo browser
-
-- @FeFallace: Divieto di attività commerciale su Internet abrogato solo
-nel 1995
-
-- @LucaLiuzzi: Arpanet inizia nell'ottobre del '69.Attraversa un fase
-di espansione in cui però c'era un divieto commerciale.
-
-- @RivoluzDigitale: dal 1969 al 1995 Internet e' vissuto in un mondo
-strettamente non commerciale - spirito invece universitario / ricerca
-
-- @SoFranchy: evoluzione di ARPANET: 1) nascita 1969 con divieto di fare
-attività commerciale, rete di ricerca, governativa.
-
-- @stufi93: Divieto di attività commerciale su internet annullato solo
-nel 1995
-
-- @Ale_Cannone: in ARPANET vigeva il divieto di attività commerciali
-abrogato solamente il 30 Aprile 1995
-
-- @93Levante: divieto di attività commerciale su internet fino al 30
-aprile del 1995
-
-- @SabryKarate: Tra il 1969 e il 1995 Internet è un'iniziativa puramente
-accademico-governativa: non ha scopi commerciali.
-
-- @SoFranchy: 2) 1995 fine del divieto di utilizzo per attività
-commerciali. Internet non più rete solamente accademica/governativa
-
-- @SimoneBleynat: Se si parlasse adesso di divieto di attività
-commerciale online come reagirebbero Amazon, eBay, iTunes
-ecc..? #riflessioni
-
-- @RivoluzDigitale: Internet e' figlia di un mix di intervento pubblico
-massicio e collaborazione col settore privato
-
-- @FabioVallone: storia ARPAnet: inizio: ottobre 1969 demo pubb: 1972
-Internet: 1982 TCP obb: 1983 fino 1995 divieto att. commerciali
-
-- @ripa_pepperipa: dal 1969 al 1995 #Internet risulta essere un'iniziativa
-fortemente accademica/governativa
+- Nel 1995, molte applicazioni che si appoggiano a Internet sono 
+più che mature: email, STMP e FTP. 
 
 #### Posta elettronica
 
-- @SabryKarate: Posta elettronica: nata nel 1971, quando Ray Tomlinson
-installò su ARPANET un sistema per scambiare messaggi fra università
+-  Posta elettronica (in inglese e-mail,  ‘Electronic Mail’ 
+http://bit.ly/ZXbNQH ): nasce nel 1971, quando Ray Tomlinson 
+installa su Arpanet un sistema per scambiare messaggi fra 
+università. Nel 1973 la posta elettronica ottiene la sintassi con la 
+@.
 
-- @SabryKarate: Fu poi nel 1973 che la posta elettronica ottenne la
-sintassi con la @
+- Quindi, l’applicazione email è più che ventenne quando Internet 
+diventa anche commerciale!
 
-- @stufi93: La posta elettronica intesa come la conosciamo noi oggi con
-la @ risale al 1973
+- Negli anni '70 nasce la netiquette, neologismo che unisce network 
+ed étiquette. È un insieme di regole che disciplinano il 
+comportamento di un utente di Internet (soprattutto nella posta 
+elettronica).
 
-- @SoFranchy: Email più che ventenne quando internet diventa anche
-commerciale . @bassosimone, eri in buona compagnia
+#### SMTP e FTP
 
-- @LucaLiuzzi: Abolito nel '95 il divieto commerciale su internet.Internet
-ormai è matura, esistono già le email ( app creata già nel '73).
+- Nel 1982 nasce SMTP (‘Simple Mail Transfer Protocol’ 
+http://bit.ly/19d9Ody): è la prima applicazione peer-to-peer ( 
+http://t.co/woMfxMBIGN ). Questo protocollo permette di far 
+comunicare i server senza un controllo centralizzato (una 
+conseguenza? Lo spam). Diffusione a macchia d’olio!
 
-- @FlavioGiobergia: Negli anni '70 nasce la netiquette... E quarant'anni
-dopo c'è chi ancora non l'ha imparata :-)
+- Frase del giorno "Se mi usano 100 milioni di persone un modo per 
+fare soldi si troverà"
 
-- @ripa_pepperipa: la condivisione dei messaggi sul mainframe esisteva
-già prima, ma la posta elettronica effettivamente risale al 1973
+- FTP (‘File Transfer Protocol’ http://bit.ly/udFZaz ): altra 
+applicazione degli anni ’80. È un protocollo per la trasmissione di 
+dati tra host basato su TCP.
 
-- @FeFallace: Email inventata nel 1973, quindi già negli anni 70 primi
-cenni di "Net-etiquette"
-
-- @SabryKarate: Netiquette, neologismo che unisce network ed étiquette,
-regole che disciplinano il comportamento di un utente di Internet
-
-- @SimoneBleynat: QUINDI SE SCRIVO COSI' SONO UN BUZZURRO. In effetti
-è illeggibile.
-
-- @FabioVallone: Molte applicazioni sono più che mature nel 1995: -email
-(1973) -SMTP(Simple Mail Transport Protocol) (1982)
-
-- @93Levante: 1982, inventato SMTP
-
-- @RivoluzDigitale: RFC 821 "Simple Mail Transfer Protocol" by Jon Postel
-http://t.co/DZOF0UWQsb
-
-- @FabioVallone: L'SMTP non ha un controllo centralizzato -&gt; SPAM -&gt;
-ma anche diffusione a macchia d'olio
-
-- @Ale_Cannone: Net-etiquette: come comportarsi nelle email. Un "galateo"
-della posta elettronica
-
-- @SoFranchy: 1982 nasce SMTP, prima applicazione p2p su internet
-http://t.co/woMfxMBIGN ma se scrivo SMTP, lo leggono gridando?
-
-- @FeFallace: 1982: Invenzione Protocollo SMTP, prima app P2P (connessione
-computer senza controllo centralizzato)
-
-- @ripa_pepperipa: 1^ applicazione importante nella storia di Internet:
-SMTP (Simple Mail Transport Protocol)
-
-- @ripa_pepperipa: l'SMTP permette di far comunicare i server senza un
-controllo centralizzato = SPAM
-
-- @stufi93: Frase del giorno "Se mi usano 100 milioni di persone un modo
-per fare soldi si troverà"
-
-- @VadimCujba: Con l'avvento dei protocolli SMTP si è creata la prima
-applicazione importante peer to Peter
-
-- @SabryKarate: Se la posta elettronica fosse stata sviluppata solo
-negli ultimi anni avrebbe un'impostazione più pubblica e commerciale
+- Teoricamente noi per accedere al nostro blog dovremmo saper 
+utilizzare l'FTP. Ora invece abbiamo la comodità del Backend.
 
 #### Web (!= da Internet)
 
-- @stufi93: FTP (file transfer protocol)
+- Internet e Web sono due cose diverse!
 
-- @ripa_pepperipa: FTP = File Transfer Protocol
+- Web (nome completo ‘World Wide Web’ http://bit.ly/14FCcnP ) è 
+un’applicazione che si appoggia a Internet sfruttando la rete 
+IP/TCP. Nasce nel 1991 con lo scopo di rendere più facile la ricerca 
+di informazioni sulla rete.
 
-- @stufi93: Internet e Web sono due cose diverse #must
+- È un servizio di Internet che permette di accedere a contenuti 
+online, legati tra loro tramite link.
 
-- @RivoluzDigitale: Internet != Web
-
-- @ripa_pepperipa: Internet e Web sono due cose diverse!
-
-- @LucaLiuzzi: Teoricamente noi per accedere al nostro blog dovremmo
-saper utilizzare l'FTP.Ora invece abbiamo la comodità del Backend.
-
-- @SoFranchy: Web: applicazione su internet con lo scopo di rendere
-più facile la ricerca di informazioni sulla rete
-
-- @Ale_Cannone: internet: rete di reti con vari applicativi Web:
-applicazione di internet sviluppata nel 1990-91
-
-- @SabryKarate: Nel 1991 è nato il Web: un servizio di Internet che
-permette di accedere a contenuti online, legati tra loro tramite link.
-
-- @SoFranchy: Prima del Web bisognava consultare i file
-dei nodi interconnessi per trovarne 1, sperando in nome
-esplicativo.
-
-- @ripa_pepperipa: Tutti i nodi su internet sono basati su numeri di 4
-byte - IP v4 del tipo 130.192.12.17
-
-#### Domain Name System (DNS)
-
-- @RivoluzDigitale: DNS (Domain Name System) - f(nome-di-dominio) =&gt;
-indirizzo-IP
-
-- @SoFranchy: DNS per associare a indirizzo ip indirizzo
-mnemonico. 
+- Prima del Web bisognava consultare tutti i file dei nodi 
+interconnessi per trovarne uno, sperando in un nome esplicativo.
 
 
 
@@ -3655,10 +3218,10 @@ chiusa (non viene detto come funziona), gerarchica (grosse centrali
 telefono, che è un dispositivo in sé stupido, “dumb”). Un sistema
 TOP DOWN.
 
-Piccolo OT: Mubarak provò a “spegnere” rete internet e  telefonica
+- Piccolo OT: Mubarak provò a “spegnere” rete internet e  telefonica
 ma dopo pochi giorni dovette riaccenderla perché il Paese era bloccato.
 
-Tornando alle origini di Internet, siamo in piena Guerra Fredda. Per
+- Tornando alle origini di Internet, siamo in piena Guerra Fredda. Per
 la connessione tra computer si pensa, quindi, ad una struttura non
 gerarchica: una rete interconnessa ha il vantaggio di non avere nodi
 principali, punti critici. A quel tempo, si pensava a una rete di
@@ -3796,10 +3359,10 @@ dal mittente, dal destinatario, dal dispositivo e dall'applicazione. I
 nodi guardano solo l’IP del destinatario e trattano tutti i pacchetti
 allo stesso modo
 
-- Tuttavia, oggi i #router ora sono così potenti da poter sbirciare nei
-pacchetti dati ["deep packet inspection"]. Economicamente e' perfettamente
+- Tuttavia, oggi i router ora sono così potenti da poter sbirciare nei
+pacchetti dati ["deep packet inspection"]. Economicamente è perfettamente
 razionale che un operatore si accordi con altri attori per trattamento
-preferenziale. Ma se gli operatori hanno la facolta` di fare questi
+preferenziale. Ma se gli operatori hanno la facoltà di fare questi
 accordi, Internet diventa un'altra cosa [molto meno generativa]
 
 - Cappuccetto rosso - Storia di un pacchetto perduto
@@ -3812,7 +3375,7 @@ di neutralità della rete
 Internet”, un piccolo opuscolo che fa parte del programma:
 http://t.co/9hqYa5GDHt
 
-- Prossima lezione: chi governa internet? Chi prende le decisioni?
+- Prossime lezioni: chi governa internet? Chi prende le decisioni?
 
 ### @bassosimone
 
@@ -5111,240 +4674,252 @@ pubblicizzare senza problemi e con costi minimizzati
 
 ### @demartin
 
-- Rivoluzione da "revolvere", cioe\` tornare indietro, termine usato
-per primo da Copernico
+#### La Rivoluzione: storia del termine
 
-- Copernico usa "rivoluzione" in ambito astronomico (e non politico)
+- Rivoluzione da "revolvere", cioè tornare indietro, termine usato
+per primo da Copernico ('400) in ambito astronomico (e non politico)
+(Rivoluzione dei Corpi Celesti)
 
-- Nel medioevo e nel Rinascimento la "rivolta" (ancora non si chiamava
-cosi\`) era un ritorno indietro, all' "eta dell'oro"
+- Macchiavelli (2013: 500 anni dalla pubblicazione del Principe) ne parla,
+ma come moti
 
-- Il primo utilizzo politico della parola "rivoluzione" e' la
+- Nel Medioevo e nel Rinascimento la "rivolta" (ancora non si chiamava
+così) era un ritorno indietro, alla cosiddetta "età dell'oro"
+
+- Età dell'Oro: si ritorna ad un periodo della storia in cui si 
+si stava meglio, meno tasse ad es.
+
+- Il primo utilizzo politico della parola "rivoluzione" è la
 rivoluzione inglese (1642-1660); un secolo e mezzo dopo Copernico
 
-- Contrapposizione tra Carlo I, che aveva bisogno di soldi per guerra
-in Francia vs. ugonotti, e classe mercantile (e parlamento)
+- Divisioni dovute a scontri tra Aristocratici e altri gruppi economici
+(contadini, commercianti e popolo) 
+ 
+- Contrapposizione tra Carlo I, che aveva bisogno di soldi per guerra 
+contro la Francia (Ugonotti), e classe mercantile (e parlamento)
+
+- Per avere soldi ci volevano nuove tasse, ma si richiedeva al parlamento
+di accettare questa imposizione, leggi forti che limitavano imposizione
+tasse nel parlamento inglese (il primo creatosi nel senso moderno del termine)
+ 
+- Sempre in inghilterra primi brevetti detti 'patents' dal latino patente
+ovvero 'ovvio', 'pubblico'
+Erano monopoli statali e modi utili al re per ottenere soldi senza richiedere al
+parlamento imposizione nuove tasse
+
+- Re necessita di tanti soldi -> tasse
+Convoca parlamento con cui deve contrattare (tassa in cambio di alcune
+concessioni) - Re vs. Popolo e commercianti
 
 - Rapidamente lo scontro si radicalizza e si arriva a una vera e
-propria guerra civile
+propria guerra civile - Parlamentaristi vs. autorità reale
 
-- Vincono i parlamentari, guidati dal generale cromwell; mettono sotto
-processo il re e lo condannano a morte
+- Crisi civile sottovalutata, vincono i parlamentari, guidati dal generale
+Cromwell; mettono sotto processo il re e lo condannano a morte (per la
+prima volta viene decapitato un re)
 
-- A un certo punto Cromwell dichiara la repubblica (che i realisti
-chiamano, pero\`, "interregno")
+- A un certo punto Cromwell dichiara la Repubblica (che i realisti
+chiamano, però, "periodo dell'interregno")
 
-- Per essere piu\` precisi: il periodo della repubblica e' "il periodo
-del commonwealth" (14 anni)
+- Economist è una rivista repubblicana o per essere più precisi:
+il periodo del "commonwealth" (durata di 14 anni)
 
-- Nota: prendere, tagliare la testa al re e dichiarare la repubblica
+- Recap: prendere, tagliare la testa al re e dichiarare la repubblica
 e' certamente innovativo (oggi diremo, appunto, "rivoluzionario")
 
 - La rivoluzione inglese e’ molto legata alla stampa a caratteri
 mobili (Gutemberg), grazie alla quale si diffondono molto
 velocemente le idee
 
-- Vengono stampati libretti dal contenuto fortemente politico: e'
-anche una guerra civile delle idee
+- Vengono stampati libretti (pamphlets) dal contenuto fortemente politico:
+è anche una guerra civile delle idee; e anche giornali o bollettini periodici
 
-- Per influenzare la pubblica opinione, si cominciano a anche stampare
+- Per influenzare la pubblica opinione, si incomincia anche a stampare
 deliberatamente menzogne
 
-- Esempio: Cromwell sbarca in Irlanda e (banalizzo) fa stragi, ma sui
-pamphlet pro-Cromwell dell'epoca si dice che gli Irlandesi sono
-“brutti e cattivi"
+- Esempio: Cromwell sbarca in Nord Irlanda e (banalizzando) fa stragi, ma sui
+pamphlet pro-Cromwell dell'epoca si dice che gli Irlandesi sono “brutti e cattivi"
 
-- Si formano primi partiti politici, tra cui "dissenters" e "levelers"
-(questi erano i piu\` radicali)
-
-- Nota: in seguito verra\` chiarito: “diggers” vs. “levelers”
+- Si formano i primi partiti politici, tra cui "dissenters" (coloro che dissentono)
+e "levelers" (quelli che livellano - i più radicali [popolo])
 
 - In quel periodo si inizia a discutere se tutti abbiano diritto di
-votare oppure no
-
-- Come anche si parla di abolire la proprieta\` privata
+votare oppure no (una testa un voto? è la prima volta che si propone)
+Come anche si parla di abolire la proprietà privata
 
 - A un certo punto, allora, Cromwell dice "OK parliamone" - e si hanno
-i "dibattiti di Putney" (http://t.co/HMocS6XCss)
+i "dibattiti di Putney" http://it.wikipedia.org/wiki/Dibattiti_di_Putney
+Dopo tre giorni Cromwell suggerisce di smettere di prendere appunti, ma prosegue
+il dibattito
 
-- Nota: dopo tre giorni Cromwell suggerisce di smettere di prendere
-appunti
+- La prima definita in seguito Rivoluzione è questa che abbiamo analizzato così
+a fondo (non lo faremo per tutte!)
 
-- La definitiva \*restaurazione\* della monarchia viene definita
-"Glorious Revolution" (dove revolution = ritorno) ma poco dopo
+- Il definitivo ritorno alla monarchia viene definito
+"Glorious Revolution" (dove revolution significa ritorno), ma poco dopo
 quella del 1642 si comincia a chiamare "The English Revolution"
 
-- Vediamo perche\` si cominciano a chiamare “Revolution” i fatti del
-1942 e anni seguenti
+- Perchè si cominciano a chiamare “Revolution” i fatti dal 1642 in poi?
 
-- Primo motivo
+- 1) Flash back, nel 1215 vengono concesse Magna Charta (ai baroni) e
+Carta de Foresta (ai commoners)
 
-- Flash back, nel 1215 vengono concesse Magna Charta (ai baroni) e
-carta de foresta (ai commoners)
+- More info su Magna Carta (http://it.wikipedia.org/wiki/Magna_Carta)
+e Carta de foresta (http://en.wikipedia.org/wiki/Carta_de_Foresta)
 
 - La carta de foresta sanciva i diritti dei lord, quella de foresta i
 diritti dei commoners (come, ad esempio, pascolare nei campi
 “comuni”, o “commons”)
 
 - La English Revolution viene chiamata “revolution” nel senso di un
-ritorno all’eta\` dell’oro, cioe\` alla Carta de Foresta, in cui i
+ritorno all’età dell’oro, cioè alla Carta de Foresta, in cui i
 commoners avevano ricevuto diritti nuovi e c’erano meno tasse
-(banalizzo: si stava meglio)
+(diciamo banalmente che si stava meglio)
 
-- More info su Magna Carta (http://t.co/1qNzHIbnsV) e Carta de foresta
-(http://t.co/T6kVWPuTUb)
-
-- Secondo motivo
-
-- Gli inglesi del 1640 (anche i monarchici) sapevano di almeno 2
-repubbliche: rep. romana e venezia
-
-- P.S. gli inglesi del 1640 (anche i monarchici) sapevano di almeno 2
-repubbliche: rep. romana e venezia
+- 2) Gli inglesi del 1640 (anche i monarchici) sapevano di almeno 2
+repubbliche: repubblica romana e repubblica di Venezia (fin dal medioevo)
 
 - I concetti della riv. inglese, per vari effetti collaterali, hanno
-echi anche nel new england -- (http://t.co/OTTwA99zTQ)
+echi anche nel 'new england'
+Riferimento alle colonie fondate nel Nord-Est degli attuali USA
+(es. http://it.wikipedia.org/wiki/Colonia_di_Plymouth)
 
-- la Riv. Inglese influenzera\` la Rivoluzione Americana - anch'essa
+- La Rivoluzione Inglese influenzerà la Rivoluzione Americana che è anch'essa
 una rivoluzione di idee
 
-- Per esempio, l'esperienza della rep. romana e' molto presente ai
+- Per esempio, l'esperienza della repubblica romana e' molto nota ai
 padri fondatori US, specialmente a Jefferson
 
 - Anche in questo caso, in breve si passa dalle richieste di autonomia
-a una vera e propria guerra a Re Giorgio III
+(autonomia, meno tasse, regole proprie) a una vera e propria guerra
+contro Re Giorgio III
 
-- 1776 dichiarazione di indipendenza - 1781 costituzione americana
+- 1776 dichiarazione di Indipendenza
 
-- la costituzione americana viene dibattuta lungamente sui giornali
-prima di essere scritta - (http://t.co/j0lZZUZLXa)
+- 1781 costituzione americana (uguale a quella di adesso esclusi i
+numerosi emendamenti)
+Viene dibattuta lungamente sui giornali prima di essere scritta
+Su Il Federalista: http://it.wikipedia.org/wiki/Il_Federalista
 
-- Nota: abbiamo citato le riv. inglese anche xke\` li\` si inizia a
-parlare di liberta\` di espressione -- (http://t.co/buNR9pzjlG) -- concetto
-su cui torneremo diffusamente durante tutto il corso
+- Abbiamo parlaato molto delle rivoluzioni inglesi perchè si inizia a parlare
+di libertà di espressione (http://it.wikipedia.org/wiki/Areopagitica)
 
-- Diamo una def. di rivoluzione politica: breve, violenta,
+- Diamo una definizione di rivoluzione politica: serie di avvenimenti, su un
+arco di tempo limitato, che si sviluppa in maniera violenta, con successiva
 trasformazione radicale della struttura del potere politico
 
-- Beh, ma ovviamente noi in questo corso non parliamo di rivoluzioni
-politiche: c'e\` anche un II significato: stiamo parlando della
-"Rivoluzione Industriale" - impatto su societa\`, commercio
+- Noi però ci rifacciamo ad un secondo significato di rivoluzione:
+stiamo parlando della "Rivoluzione Industriale" con un impatto su
+società e commercio
+https://it.wikipedia.org/wiki/Rivoluzione_industriale
 
-- Il corso Rivoluzione Digitale e' figlio dell'accezione di
-rivoluzione in Rivoluzione Industriale
-
-- Se volete approfondire, ovviamente Wikipedia e' vostra amica:
-https://t.co/haklLnSBbL
-
-- L'anello di congiunzione tra Riv. politica e industriale e' la
-trasformazione radicale
-
-- La "societa\` lunare" e' un esempio di club amatoriale che prepara
-condizioni per Riv. Industr. https://t.co/Q8TbHDTj0u
+- L'anello di congiunzione tra la Rivoluzione politica e industriale
+e' la trasformazione radicale
 
 - A differenza delle rivoluzioni politiche, la Rivoluzione Industriale
 e' una trasformazione tecno-sociale, su tempi lunghi (decenni,
-generazioni)
+generazioni) - che si basa sugli amatori, gente curiosa e pratica
+
+- La "società lunare" e' un esempio di club amatoriale che prepara
+condizioni per Rivoluzione Industriale
+https://en.wikipedia.org/wiki/Lunar_society
 
 - Tecnologie chiave della Rivoluzione Industriale: vapore, telaio
-meccanico (proto-programmazione (https://t.co/VpAsuDCREp))
+meccanico (Es. di Telaio: https://it.wikipedia.org/wiki/Telaio_Jacquard)
 
-- Da questo momento, si comincia a dire "rivoluzione" per nuove
+- Da questo momento, si comincia a dire "Rivoluzione" per nuove
 tecnologie dirompenti, i.e., "rivoluzione elettrica"
+Con magari conseguenze politiche, solo di riflesso
 
 - Retroattivamente (a inizio '900) si inizia a parlare di "Rivoluzione
-di Gutemberg"
-
-- Breve parentesi: definiamo il termine “geek” - (http://t.co/v3L9tQqAMI)
+di Gutemberg" per esempio - Gutemberg è il primo "geek"
+[“geek”: http://it.wikipedia.org/wiki/Geek]
 
 - E' inappropriato dire che uno specifico gadget sia una
-"rivoluzione"; e' chiaramente un iperbole
+"rivoluzione"; e' chiaramente un iperbole del termine
 
 - A noi interessa capire se complessivamente possiamo dire
 "rivoluzione" delle tecnologie digitali nel loro complesso
-
-- Studieremo l'impatto di queste tecnologie su societa\`, cultura,
-universita\` e altri aspetti, per poi trarre le conclusioni
+studiando l'impatto di queste su società, cultura, università
+e altri aspetti, per poi trarre le conclusioni
 
 - Cercheremo anche di capire che cosa innesca una rivoluzione
-tecnologica (tipicamente una scoperta) - Terzo significato:
-rivoluzione scientifica
+tecnologica (tipicamente è una scoperta)
 
-- Thomas Kuhn parla di "rivoluzioni scientifiche" - accezione ancora
-diversa: cambio di paradigma scientifico
+- Altro significato è quello di "rivoluzione scientifica":
+Thomas Kuhn ne parla con un'accezione ancora diversa:
+cambio del paradigma scientifico
 
-- la prima "Rivoluzione Scientifica" e' quella del 1600 (Galileo,
-Newton, Francis Bacon (non il pittore, eh!), etc.)
+- La prima "Rivoluzione Scientifica" e' quella del 1600 (Galileo,
+Newton, Francis Bacon, etc.)
 
 - "la struttura delle rivoluzioni scientifiche" di T. Kuhn studia
 proprio le varie rivoluzioni scientifiche
-
-- Memento: dovete formare i gruppi entro il 5 Aprile
 
 
 ## 2013-03-20
 
 ### @demartin
 
-- punto interrogativo implicito dopo “Rivoluzione Digitale”: obiettivo
-e’ cercare di capire meglio e in modo critico questa trasformazione
+#### Introduzione al corso
 
-- metodologia: parte online e scritto
+- Punto interrogativo implicito dopo “Rivoluzione Digitale(?)”:
+obiettivo e’ cercare di capire meglio e in modo critico questa trasformazione
 
-- Maggiori info: http://rivoluzionedigitale.polito.it/regole
+- Regole del Corso: http://rivoluzionedigitale.polito.it/regole
 
-- I blog dello scorso anno sono disponibili qui:
+- I blog creati nell'A.A. 2011/2012:
 http://rivoluzionedigitale.polito.it/2012-blog-studenti
 
-- vogliamo anche farvi capire cosa sono i canali adatti per quale
-messaggio - un curriculum dove lo mettereste?
+- Must per quanto riguarda la parte onLine:
+come gruppo, e' obbligatorio mettere sul blog un breve video di presentazione:
+sta diventando frequente che chiedano di fare un video di due minuti in cui
+il candidato per un posto di lavoro, si presenta
 
-- come gruppo, e' obbligatorio mettere sul blog un breve video
-sull'argomento del blog: sta diventando frequente che chiedano di
-fare un video di due minuti in cui il candidato una qualche posizione
-si presenta
+- Si cerca di capire quali canali sono adatti a seconda della necessità:
+Curriculum dove lo mettereste?
 
-- a proposito di scrivere bene le email
+- Le mail hanno delle regole di "giusta composizione"
 
 - “se non mandate messaggi email ben scritti, una persona molto
 occupata tipicamente vi ignora”
 
-- “se mi scrive uno sconosciuto e mi scrive male, non sono affatto
+- “se scrive uno sconosciuto e per di più scrive male, non sono affatto
 tenuto a rispondere”
 
-- Blog notevole "Brain Pickings" di Maria Popova (@brainpicker)
-brainpickings.org
+- Un blog che deve essere punto di riferimento è "Brain Pickings"
+di Maria Popova (@brainpicker on Twitter) brainpickings.org
 
-- breve introduzione alle licenze creative commons funzionale ai blog
+#### Introduzione alle licenze Creative Commons
 
-- Brevetti != diritto d’autore
+- Sono strettamente collegate alla creazione dei singoli blog
 
-- i brevetti tutelano l'idea (e bisogna andare all'ufficio brevetti)
+- Brevetti sono diversi dal diritto d’autore
 
-- il diritto d'autore, invece, tutela l'opera (meglio, la specifica
+- Brevetti tutelano l'idea (e bisogna andare all'ufficio brevetti - Azione Formale)
+
+- Il diritto d'autore, invece, tutela l'opera (meglio, la specifica
 forma espressiva) ed e' automatico; con automatico si intende che
-non bisogna fare nulla perche\` si applichi: no ufficio "autori",
-no formalita\`: la SIAE certifica, ma non c'entra nulla col fatto
-che la legge vi tutela automaticamente
+non bisogna fare nulla affinche' si applichi
+Non vi è un "ufficio autori" - No Azione Formale
+SIAE certifica, ma la legge tutela l'opera in automatico.
 
-- il diritto d'autore fornisce una lunga serie di diritti sull'opera
-che durano fino a (in EU) 70 anni dopo morte autore (i.e., “morte
-+ 70”)
+- Il diritto d'autore fornisce una lunga serie di diritti sull'opera
+che durano, in Europa, fino a 70 anni dopo la morte dell'autore (“morte + 70”)
+Es.: Autore muore il 20 Gennaio 2000? Il 21 gennaio 2070 l'opera 
+rientra nel pubblico dominio.
+Nel caso di opere in collaborazione, il termine si calcola
+con riferimento al coautore che muore per ultimo.
 
-- chi non e' l'autore puo\` fare pochi usi, e molto ristretti,
-dell'opera fino, appunto, a "morte + 70"
+- Chi non e' l'autore puo' fare pochi usi, e molto ristretti,
+dell'opera fino, appunto, a "morte + 70" (si intende gli eredi dell'autore ad es.)
 
-- la legge sul diritto d'autore era pensata per l'industria culturale,
-ma ora si applica anche al blog, alla ricetta
+- La legge sul diritto d'autore era pensata per l'industria culturale,
+ma ora si applica anche al blog, alla ricetta,...
 
-- le licenze Creative Commons sono state pensate per permettere agli
+- Le licenze Creative Commons sono state pensate per permettere agli
 autori di rinunciare ad alcuni diritti; per esempio il diritto a
-copiare e modificare l'opera - more info qui:
-
-- http://it.wikipedia.org/wiki/Licenze\_Creative\_Commons
-
-
-
-
-
+copiare e modificare l'opera
+Su wikipedia vi sono maggiori informazioni:
+http://it.wikipedia.org/wiki/Licenze_Creative_Commons
 

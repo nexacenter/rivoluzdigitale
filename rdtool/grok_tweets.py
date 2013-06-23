@@ -25,6 +25,7 @@ import logging
 import os
 import random
 import re
+import shutil
 import sys
 import textwrap
 import time
@@ -36,10 +37,12 @@ if __name__ == "__main__":
 from rdtool import subr_bitly
 from rdtool import subr_http
 from rdtool import subr_misc
+from rdtool import subr_prompt
 
 SETTINGS = {
             "force": False,
             "prefix": ".",
+            "rss_cache": "./RSS_CACHE",
            }
 
 #
@@ -139,13 +142,39 @@ def analyze_tweet(students, text, links, handles, tags):
             elem = elem.lower()
             tags.append(elem)
 
-def save_tweet(timest, student, link):
+def rss_cache_find(bitlink):
+    """ Search bitlink in RSS cache """
+    # XXX could be written to be O(N) rather than to be O(N^2)
+    for dirname in os.listdir(SETTINGS["rss_cache"]):
+        fullpath = os.sep.join([SETTINGS["rss_cache"], dirname])
+        if not os.path.isdir(fullpath):
+            continue
+        for inner_dirname in os.listdir(fullpath):
+            inner_fullpath = os.sep.join([fullpath, inner_dirname])
+            if not os.path.isdir(inner_fullpath):
+                continue
+            if inner_dirname == bitlink:
+                return inner_fullpath
+
+def rss_cache_filename(dirpath):
+    """ Given the dirpath, returns the file name """
+    for filename in os.listdir(dirpath):
+        filepath = os.sep.join([dirpath, filename])
+        if not os.path.isfile(filepath):
+            continue
+        return filename
+
+def save_tweet(student, link):
     """ Save a tweet """
 
     # Pause a bit before the download so we sleep in any case
     time.sleep(random.random() + 0.5)
 
     bitlink = subr_bitly.shorten(link)
+    if not bitlink:
+        logging.warning("grok_tweets: bitlink API failed")
+        return
+
     bitlink = bitlink.replace("http://bit.ly/", "")
     bitlink = bitlink.replace("https://bit.ly/", "")
 
@@ -158,27 +187,25 @@ def save_tweet(timest, student, link):
         logging.warning("grok_tweets: dup <%s>; skip", dirpath)
         return
 
-    # Pause a bit before the download so we sleep in any case
-    time.sleep(random.random() + 0.5)
-
-    parsed = urlparse.urlsplit(link)
-    bodyvec = []
-    result = subr_http.retrieve("GET", parsed[0], parsed[1], parsed[2],
-      bodyvec, [])
-    if result != 200:
+    cached_dirpath = rss_cache_find(bitlink)
+    if not cached_dirpath:
+        logging.warning("grok_tweets: can't find %s in RSS cache", bitlink)
         return
+    cached_filename = rss_cache_filename(cached_dirpath)
+    if not cached_filename:
+        logging.warning("grok_tweets: empty %s", cached_dirpath)
+        return
+    cached_filepath = os.sep.join([cached_dirpath, cached_filename])
 
     subr_misc.mkdir_recursive_idempotent(dirpath)
 
-    filepath = os.sep.join([dirpath, "%04d-%02d-%02d.html" % (
-      timest[0], timest[1], timest[2])])
+    # Note: we use the time from RSS, which is more accurate
+    filepath = os.sep.join([dirpath, cached_filename])
 
-    filep = open(filepath, "w")
-    for chunk in bodyvec:
-        filep.write(chunk)
-    filep.close()
+    logging.info("grok_tweets: cp '%s' '%s'", cached_filepath, filepath)
+    shutil.copy(cached_filepath, filepath)
 
-def process_student_tweet(blogs, timest, links, handle, student):
+def process_student_tweet(blogs, links, handle, student):
     """ Process a tweet from the point of view of one student """
 
     base_url = blogs[handle]
@@ -213,11 +240,13 @@ def process_student_tweet(blogs, timest, links, handle, student):
         index = expanded_link[0].rfind("?")
         if index >= 0:
             expanded_link[0] = expanded_link[0][:index]
+        if expanded_link[0].startswith("https://"):
+            expanded_link[0] = expanded_link[0].replace("https://", "http://")
 
         logging.info("grok_tweets: process link %s", expanded_link[0])
-        save_tweet(timest, student, expanded_link[0])
+        save_tweet(student, expanded_link[0])
 
-def process_tweet(students, blogs, timest, account, text):
+def process_tweet(students, blogs, account, text):
     """ Process a tweet """
 
     links = []
@@ -228,16 +257,20 @@ def process_tweet(students, blogs, timest, account, text):
     analyze_tweet(students, text, links, handles, tags)
 
     handles = list(set(handles))  # collapse duplicates, if needed
-    for handle in handles:
-        handle = handle[1:]  # Skip either @ or #
-        student = students.get(handle)
-        if not student:
-            logging.warning("grok_tweets: cannot find student from %s", handle)
-            continue
-        logging.info("grok_tweets: process student %s (@%s)", student, handle)
-        process_student_tweet(blogs, timest, links, handle, student)
+    index = subr_prompt.select_one("handle", handles)
+    if index == -1:
+        logging.warning("grok_tweets: ignoring the tweet")
+        return
+    handle = handles[index]
+    handle = handle[1:]  # Skip either @ or #
+    student = students.get(handle)
+    if not student:
+        logging.warning("grok_tweets: cannot find student from %s", handle)
+        return
+    logging.info("grok_tweets: process student %s (@%s)", student, handle)
+    process_student_tweet(blogs, links, handle, student)
 
-def really_filter_tweet(students, blogs, timest, account, text):
+def really_filter_tweet(students, blogs, account, text):
     """ Really filter a tweet """
 
     if text.startswith("RT "):
@@ -250,7 +283,8 @@ def really_filter_tweet(students, blogs, timest, account, text):
         logging.warning("grok_tweets: does not include links; skip")
         return
 
-    process_tweet(students, blogs, timest, account, text)
+    process_tweet(students, blogs, account, text)
+    time.sleep(3)
 
 def filter_tweet(students, blogs, tweet):
     """ Filter a tweet """
@@ -260,7 +294,7 @@ def filter_tweet(students, blogs, tweet):
         logging.info("    %s", line)
     logging.info("")
 
-    timest = tweet_ctime(tweet)
+    #timest = tweet_ctime(tweet)  # commented out because it's unused
     twid = tweet_id(tweet)
     account = tweet_account(tweet)
     text = tweet_text(tweet)
@@ -279,7 +313,7 @@ def filter_tweet(students, blogs, tweet):
             pass
 
     if twid > prev:
-        really_filter_tweet(students, blogs, timest, account, text)
+        really_filter_tweet(students, blogs, account, text)
 
         if not SETTINGS["force"] and os.path.isdir(statedir):
             filep = open(statefile, "w")
@@ -304,16 +338,18 @@ def main():
 
     level = logging.WARNING
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "d:fv")
+        options, arguments = getopt.getopt(sys.argv[1:], "d:fR:v")
     except getopt.error:
-        sys.exit("usage: grok_tweets [-fv] [-d directory] file...")
+        sys.exit("usage: grok_tweets [-fv] [-R rss_cache] [-d destdir] file...")
     if not arguments:
-        sys.exit("usage: grok_tweets [-fv] [-d directory] file...")
+        sys.exit("usage: grok_tweets [-fv] [-R rss_cache] [-d destdir] file...")
     for name, value in options:
         if name == "-d":
             SETTINGS["prefix"] = value
         elif name == "-f":
             SETTINGS["force"] = True
+        elif name == "-R":
+            SETTINGS["rss_cache"] = value
         elif name == "-v":
             if level == logging.WARNING:
                 level = logging.INFO

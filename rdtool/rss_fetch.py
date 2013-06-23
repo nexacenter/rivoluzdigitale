@@ -21,11 +21,14 @@
 from xml import sax
 
 import getopt
+import json
 import logging
 import os
 import random
+import re
 import sys
 import time
+import urlparse
 
 if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.dirname(
@@ -59,34 +62,59 @@ def process_site(site, noisy):
     content = zip(handler.links, handler.pub_dates)
     for link, date in content:
 
-        if date[0] < 2013:
-            continue
-        if date[1] != 5:
-            continue
-        if date[2] < 15:
-            continue
+        parsed = urlparse.urlsplit(link)
+        real_link = []
+        result = subr_http.retrieve("HEAD", "http", parsed[1], parsed[2],
+                                    [], real_link)
+        if result != 200:
+            logging.warning("rss_fetch: invalid link: %s", link)
+        link = real_link[0]
+
+        index = link.rfind("?")
+        if index >= 0:
+            link = link[:index]
+        if link.startswith("https://"):
+            link = link.replace("https://", "http://")
 
         logging.info("")
         logging.info("- <%s>", link)
         logging.info("")
 
-        folder = subr_misc.make_post_folder(date, site)
-        subr_misc.mkdir_recursive_idempotent(folder)
-
-        time.sleep(random.randrange(5, 8))
-        link = subr_bitly.shorten(link, noisy=noisy)
-
-        filename = subr_misc.bitlink_to_filename(link)
-        pname = os.sep.join([folder, filename])
-        if os.path.isfile(pname):
-            logging.info("main: file already exists: %s", pname)
+        bitlink = subr_bitly.shorten(link, noisy=noisy)
+        if not bitlink:
+            logging.warning("rss_fetch: bitly API failed")
             continue
 
-        time.sleep(random.randrange(5, 8))
-        _, body = subr_http.fetch_url(link, noisy=noisy)
+        bitlink = bitlink.replace("http://bit.ly/", "")
+        bitlink = bitlink.replace("https://bit.ly/", "")
 
-        filep = open(pname, "w")
-        filep.write(body)
+        if not re.search("^[A-Za-z0-9]+$", bitlink):
+            logging.warning("rss_fetch: invalid bitlink <%s>; skip", bitlink)
+            continue
+
+        dirpath = subr_misc.make_post_folder(site, bitlink)
+        if os.path.isdir(dirpath):
+            logging.warning("rss_fetch: dup <%s>; skip", dirpath)
+            continue
+
+        subr_misc.mkdir_recursive_idempotent(dirpath)
+
+        filename = "%02d-%02d-%02d.html" % (date[0], date[1], date[2])
+        pathname = os.sep.join([dirpath, filename])
+
+        # Pause a bit before the download so we sleep in any case
+        time.sleep(random.random() + 0.5)
+
+        bodyv = []
+        result = subr_http.retrieve("GET", "http", parsed[1], parsed[2],
+                                    bodyv, [])
+        if result != 200:
+            logging.warning("rss_fetch: cannot retrieve page: %s", link)
+        link = real_link[0]
+
+        filep = open(pathname, "w")
+        for chunk in bodyv:
+            filep.write(chunk)
         filep.close()
 
 def main():
@@ -94,9 +122,7 @@ def main():
     try:
         options, arguments = getopt.getopt(sys.argv[1:], "d:v")
     except getopt.error:
-        sys.exit("usage: rss_fetch [-v] [-d dir] site...")
-    if not arguments:
-        sys.exit("usage: rss_fetch [-v] [-d dir] site...")
+        sys.exit("usage: rss_fetch [-v] [-d dir] [site...]")
 
     destdir = None
     level = logging.WARNING
@@ -105,13 +131,21 @@ def main():
         if name == "-d":
             destdir = value
         elif name == "-v":
-            level = logging.INFO
+            if level == logging.WARNING:
+                level = logging.INFO
+            else:
+                level = logging.DEBUG
             noisy = 1
+
+    logging.basicConfig(level=level, format="%(message)s")
+
+    if not arguments:
+        filep = open("etc/rss/blogs.json", "r")
+        arguments = json.load(filep)
+        filep.close()
 
     if destdir:
         os.chdir(destdir)
-
-    logging.basicConfig(level=level, format="%(message)s")
 
     for site in arguments:
         try:
