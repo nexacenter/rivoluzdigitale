@@ -2066,10 +2066,10 @@ sinistra".
 
 - La rete di reti comunica attraverso i protocolli IP e TCP.
 
-- IETF, IANA, ICANN, ISOC, IAR: enti non ministeriali che
+- IETF, IANA, ICANN, ISOC, IAB: enti non ministeriali che
   governano internet.
 
-- Agli arbori di Internet, per parecchi anni Amministratori
+- Agli albori di Internet, per parecchi anni Amministratori
   e utenti coincidevano. Internet non è gestito da alcun
   Ministero. Perciò non è sottomesso alla politica. 
 
