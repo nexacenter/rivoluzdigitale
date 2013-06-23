@@ -11,30 +11,28 @@ License: CC BY-SA 3.0 Unported
 
 ## Elenco lezioni
 
-- [14 Giugno 2013](#2013-06-14)  
-- [12 Giugno 2013](#2013-06-12) {work in progress: Sebastiano Franchina}
-- [07 Giugno 2013](#2013-06-07) {rivista da: Luca Liuzzi}
-- [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
-- [31 Maggio 2013](#2013-05-31) {rivista da: Sebastiano Franchina}
-- [29 Maggio 2013](#2013-05-29) {rivista da: Davide Palermo}
-- [24 Maggio 2013](#2013-05-24) {rivista da: Sebastiano Franchina}
-- [22 Maggio 2013](#2013-05-22) {rivista da: Cristian Quadro}
-- [17 Maggio 2013](#2013-05-17) {rivista da: Antonio Langiu}
-- [15 Maggio 2013](#2013-05-15) {rivista da: Lorenzo Cutelle'}
-- [10 Maggio 2013](#2013-05-10) {rivista da: Antonio Langiu}
-- [08 Maggio 2013](#2013-05-08) {rivista da: Lorenzo Cutelle'}
-- [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
-- [26 Aprile 2013](#2013-04-26) {rivista da: Giuseppe Ripa}
-- [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
-- [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
-- [17 Aprile 2013](#2013-04-17) /* skipped */
-- [12 Aprile 2013](#2013-04-12) {rivista da: Antonio Langiu}
-- 10 Aprile 2013
-- [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
-- [27 Marzo 2013](#2013-03-27) {rivista da: Davide Palermo}
-- 22 Marzo 2013
 - [20 Marzo 2013](#2013-03-20) {rivista da: Davide Palermo}
-
+- 22 Marzo 2013
+- [27 Marzo 2013](#2013-03-27) {rivista da: Davide Palermo}
+- [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
+- 10 Aprile 2013
+- [12 Aprile 2013](#2013-04-12) {rivista da: Antonio Langiu}
+- [17 Aprile 2013](#2013-04-17) /* skipped */
+- [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
+- [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
+- [26 Aprile 2013](#2013-04-26) {rivista da: Giuseppe Ripa}
+- [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
+- [08 Maggio 2013](#2013-05-08) {rivista da: Lorenzo Cutelle'}
+- [10 Maggio 2013](#2013-05-10) {rivista da: Antonio Langiu}
+- [15 Maggio 2013](#2013-05-15) {rivista da: Lorenzo Cutelle'}
+- [17 Maggio 2013](#2013-05-17) {rivista da: Antonio Langiu}
+- [22 Maggio 2013](#2013-05-22) {rivista da: Cristian Quadro}
+- [24 Maggio 2013](#2013-05-24) {rivista da: Sebastiano Franchina}
+- [29 Maggio 2013](#2013-05-29) {rivista da: Davide Palermo}
+- [31 Maggio 2013](#2013-05-31) {rivista da: Sebastiano Franchina}
+- [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
+- [07 Giugno 2013](#2013-06-07) {rivista da: Luca Liuzzi}
+- [12 Giugno 2013](#2013-06-12) {work in progress: Sebastiano Franchina}
 
 
 ## 2013-06-14
