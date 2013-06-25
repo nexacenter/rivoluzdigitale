@@ -41,7 +41,7 @@ from rdtool import subr_prompt
 
 SETTINGS = {
             "dry": False,
-            "force": False,
+            "newer_only": False,
             "prefix": ".",
             "rss_cache": "./RSS_CACHE",
            }
@@ -309,7 +309,7 @@ def filter_tweet(students, blogs, tweet):
     statefile = os.sep.join([statedir, account[1:]])
 
     prev = 0
-    if not SETTINGS["force"] and os.path.isfile(statefile):
+    if SETTINGS["newer_only"] and os.path.isfile(statefile):
         filep = open(statefile, "r")
         data = filep.read()
         filep.close()
@@ -321,7 +321,7 @@ def filter_tweet(students, blogs, tweet):
     if twid > prev:
         really_filter_tweet(students, blogs, tweet, account, text)
 
-        if not SETTINGS["force"] and os.path.isdir(statedir):
+        if SETTINGS["newer_only"] and os.path.isdir(statedir):
             filep = open(statefile, "w")
             filep.write(str(twid))
             filep.write("\n")
@@ -340,7 +340,7 @@ def filter_tweet_safe(students, blogs, tweet):
         logging.error("unhandled exception", exc_info=1)
 
 USAGE = """\
-usage: grok_tweets [-fnv] [-R rss_cache] [-d destdir] [-u handle] file..."""
+usage: grok_tweets [-Nnv] [-R rss_cache] [-d destdir] [-u handle] file..."""
 
 def main():
     """ Main function """
@@ -348,7 +348,7 @@ def main():
     handle = None
     level = logging.WARNING
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "d:fnR:u:v")
+        options, arguments = getopt.getopt(sys.argv[1:], "d:NnR:u:v")
     except getopt.error:
         sys.exit(USAGE)
     if not arguments:
@@ -356,8 +356,8 @@ def main():
     for name, value in options:
         if name == "-d":
             SETTINGS["prefix"] = value
-        elif name == "-f":
-            SETTINGS["force"] = True
+        elif name == "-N":
+            SETTINGS["newer_only"] = True
         elif name == "-n":
             SETTINGS["dry"] = True
         elif name == "-R":
