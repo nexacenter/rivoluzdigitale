@@ -333,16 +333,21 @@ def filter_tweet_safe(students, blogs, tweet):
     except:
         logging.warning("unhandled exception", exc_info=1)
 
+USAGE = """\
+usage: grok_tweets [-fv] [-R rss_cache] [-d destdir] [-u handle] file...
+"""
+
 def main():
     """ Main function """
 
+    handle = None
     level = logging.WARNING
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "d:fR:v")
+        options, arguments = getopt.getopt(sys.argv[1:], "d:fR:u:v")
     except getopt.error:
-        sys.exit("usage: grok_tweets [-fv] [-R rss_cache] [-d destdir] file...")
+        sys.exit(USAGE)
     if not arguments:
-        sys.exit("usage: grok_tweets [-fv] [-R rss_cache] [-d destdir] file...")
+        sys.exit(USAGE)
     for name, value in options:
         if name == "-d":
             SETTINGS["prefix"] = value
@@ -350,6 +355,8 @@ def main():
             SETTINGS["force"] = True
         elif name == "-R":
             SETTINGS["rss_cache"] = value
+        elif name == "-u":
+            handle = value
         elif name == "-v":
             if level == logging.WARNING:
                 level = logging.INFO
@@ -366,6 +373,14 @@ def main():
     blogs = json.load(filep)
     filep.close()
     logging.debug("grok_tweets: open config files... done")
+
+    if handle:
+        if handle.startswith("@"):
+            logging.warning("grok_tweets: handle starts with @; fixing")
+            handle = handle[1:]
+        for student in list(students.keys()):
+            if student != handle:
+                del students[student]
 
     for argument in arguments:
         filep = open(argument, "r")
