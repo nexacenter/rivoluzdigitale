@@ -41,6 +41,7 @@ from rdtool import subr_prompt
 
 SETTINGS = {
             "dry": False,
+            "engine": "std",
             "newer_only": False,
             "prefix": ".",
             "rss_cache": "./RSS_CACHE",
@@ -282,6 +283,12 @@ def really_filter_tweet(students, blogs, tweet, account, text):
     if text.startswith("RT "):
         logging.info("grok_tweets: skip RT")
         return
+
+    if SETTINGS["engine"] == "live-tweeting":
+        if "#rivoluzdigitale" in tweet.lower():
+            logging.warning("grok_tweets: live tweeting: \"%s\"", tweet)
+        return
+
     if "@rivoluzdigitale" not in text.lower():
         logging.info("grok_tweets: does not mention @RivoluzDigitale; skip")
         return
@@ -340,7 +347,7 @@ def filter_tweet_safe(students, blogs, tweet):
         logging.error("unhandled exception", exc_info=1)
 
 USAGE = """\
-usage: grok_tweets [-Nnv] [-R rss_cache] [-d destdir] [-u handle] file..."""
+usage: grok_tweets [-lNnv] [-R rss_cache] [-d destdir] [-u handle] file..."""
 
 def main():
     """ Main function """
@@ -348,7 +355,7 @@ def main():
     handle = None
     level = logging.WARNING
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "d:NnR:u:v")
+        options, arguments = getopt.getopt(sys.argv[1:], "d:lNnR:u:v")
     except getopt.error:
         sys.exit(USAGE)
     if not arguments:
@@ -356,6 +363,8 @@ def main():
     for name, value in options:
         if name == "-d":
             SETTINGS["prefix"] = value
+        elif name == "-l":
+            SETTINGS["engine"] = "live-tweeting"
         elif name == "-N":
             SETTINGS["newer_only"] = True
         elif name == "-n":
