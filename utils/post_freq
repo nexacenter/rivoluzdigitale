@@ -1,0 +1,59 @@
+#!/usr/bin/env python2.7
+
+#
+# Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
+#
+# Permission to use, copy, modify, and distribute this software for any
+# purpose with or without fee is hereby granted, provided that the above
+# copyright notice and this permission notice appear in all copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+# WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+# MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+# ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+# WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+# ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+# OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+#
+
+""" Post frequency viewer """
+
+import datetime
+import os
+import random
+import sys
+import time
+
+import pylab
+
+def main():
+    """ Main function """
+
+    times = []
+
+    for target in sys.argv[1:]:
+        for name in os.listdir(target):
+            dirname = os.sep.join([target, name])
+            if not os.path.isdir(dirname):
+                continue
+            for name in os.listdir(dirname):
+                timev = datetime.datetime.strptime(name, "%Y-%m-%d.html")
+                times.append(timev)
+
+    times = sorted(times)
+    values = []
+    for index in range(len(times)):
+        values.append(index + 1)
+
+    xlimits = [datetime.datetime.strptime("2013-03-20", "%Y-%m-%d"),
+               datetime.datetime.strptime("2013-06-20", "%Y-%m-%d")]
+
+    times = pylab.date2num(times)
+    pylab.plot_date(times, values, linestyle="-")
+    pylab.grid(True)
+    pylab.xlim(xlimits)
+    pylab.ylim([0, max(values)])
+    pylab.show()
+
+if __name__ == "__main__":
+    main()
