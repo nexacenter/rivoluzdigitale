@@ -40,6 +40,7 @@ from rdtool import subr_misc
 from rdtool import subr_prompt
 
 SETTINGS = {
+            "dry": False,
             "force": False,
             "prefix": ".",
             "rss_cache": "./RSS_CACHE",
@@ -244,6 +245,10 @@ def process_student_tweet(blogs, links, handle, student):
             expanded_link[0] = expanded_link[0].replace("https://", "http://")
 
         logging.info("grok_tweets: process link %s", expanded_link[0])
+
+        if SETTINGS["dry"]:
+            continue
+
         save_tweet(student, expanded_link[0])
 
 def process_tweet(students, blogs, account, text):
@@ -334,7 +339,7 @@ def filter_tweet_safe(students, blogs, tweet):
         logging.warning("unhandled exception", exc_info=1)
 
 USAGE = """\
-usage: grok_tweets [-fv] [-R rss_cache] [-d destdir] [-u handle] file...
+usage: grok_tweets [-fnv] [-R rss_cache] [-d destdir] [-u handle] file...
 """
 
 def main():
@@ -343,7 +348,7 @@ def main():
     handle = None
     level = logging.WARNING
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "d:fR:u:v")
+        options, arguments = getopt.getopt(sys.argv[1:], "d:fnR:u:v")
     except getopt.error:
         sys.exit(USAGE)
     if not arguments:
@@ -353,6 +358,8 @@ def main():
             SETTINGS["prefix"] = value
         elif name == "-f":
             SETTINGS["force"] = True
+        elif name == "-n":
+            SETTINGS["dry"] = True
         elif name == "-R":
             SETTINGS["rss_cache"] = value
         elif name == "-u":
