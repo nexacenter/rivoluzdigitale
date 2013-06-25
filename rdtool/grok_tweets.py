@@ -185,7 +185,7 @@ def save_tweet(student, link):
 
     dirpath = os.sep.join([SETTINGS["prefix"], student, bitlink])
     if os.path.isdir(dirpath):
-        logging.warning("grok_tweets: dup <%s>; skip", dirpath)
+        logging.info("grok_tweets: dup <%s>; skip", dirpath)
         return
 
     cached_dirpath = rss_cache_find(bitlink)
@@ -227,13 +227,13 @@ def process_student_tweet(blogs, links, handle, student):
             continue
 
         if base_url not in expanded_link[0]:
-            logging.warning("grok_tweets: foreign link <%s>; skip",
+            logging.info("grok_tweets: foreign link <%s>; skip",
                             expanded_link[0])
             continue
 
         parsed = urlparse.urlsplit(expanded_link[0])
         if not parsed[2] or parsed[2] == "/":
-            logging.warning("grok_tweets: homepage link <%s>; skip",
+            logging.info("grok_tweets: homepage link <%s>; skip",
                             expanded_link[0])
             continue
 
@@ -264,7 +264,7 @@ def process_tweet(students, blogs, account, text):
     handles = list(set(handles))  # collapse duplicates, if needed
     index = subr_prompt.select_one("handle", handles)
     if index == -1:
-        logging.warning("grok_tweets: ignoring the tweet")
+        logging.info("grok_tweets: ignoring this tweet")
         return
     handle = handles[index]
     handle = handle[1:]  # Skip either @ or #
@@ -279,13 +279,13 @@ def really_filter_tweet(students, blogs, account, text):
     """ Really filter a tweet """
 
     if text.startswith("RT "):
-        logging.warning("grok_tweets: skip RT")
+        logging.info("grok_tweets: skip RT")
         return
     if "@rivoluzdigitale" not in text.lower():
-        logging.warning("grok_tweets: does not mention @RivoluzDigitale; skip")
+        logging.info("grok_tweets: does not mention @RivoluzDigitale; skip")
         return
     if not "t.co/" in text.lower():
-        logging.warning("grok_tweets: does not include links; skip")
+        logging.info("grok_tweets: does not include links; skip")
         return
 
     process_tweet(students, blogs, account, text)
@@ -327,7 +327,7 @@ def filter_tweet(students, blogs, tweet):
             filep.close()
 
     else:
-        logging.warning("grok_tweets: old tweet <%d>; skip", twid)
+        logging.info("grok_tweets: old tweet <%d>; skip", twid)
 
 def filter_tweet_safe(students, blogs, tweet):
     """ Filter a tweet """
@@ -336,7 +336,7 @@ def filter_tweet_safe(students, blogs, tweet):
     except KeyboardInterrupt:
         sys.exit(1)
     except:
-        logging.warning("unhandled exception", exc_info=1)
+        logging.error("unhandled exception", exc_info=1)
 
 USAGE = """\
 usage: grok_tweets [-fnv] [-R rss_cache] [-d destdir] [-u handle] file..."""
