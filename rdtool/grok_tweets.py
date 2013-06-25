@@ -339,8 +339,7 @@ def filter_tweet_safe(students, blogs, tweet):
         logging.warning("unhandled exception", exc_info=1)
 
 USAGE = """\
-usage: grok_tweets [-fnv] [-R rss_cache] [-d destdir] [-u handle] file...
-"""
+usage: grok_tweets [-fnv] [-R rss_cache] [-d destdir] [-u handle] file..."""
 
 def main():
     """ Main function """
