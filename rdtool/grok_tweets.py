@@ -372,7 +372,7 @@ def main():
         elif name == "-R":
             SETTINGS["rss_cache"] = value
         elif name == "-u":
-            handle = value
+            handle = value.lower()
         elif name == "-v":
             if level == logging.WARNING:
                 level = logging.INFO
