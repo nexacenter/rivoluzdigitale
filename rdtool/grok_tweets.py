@@ -206,7 +206,7 @@ def save_tweet(student, link):
     logging.info("grok_tweets: cp '%s' '%s'", cached_filepath, filepath)
     shutil.copy(cached_filepath, filepath)
 
-def process_student_tweet(blogs, links, handle, student):
+def process_student_tweet(blogs, tweet, links, handle, student):
     """ Process a tweet from the point of view of one student """
 
     base_url = blogs[handle]
@@ -247,11 +247,12 @@ def process_student_tweet(blogs, links, handle, student):
         logging.info("grok_tweets: process link %s", expanded_link[0])
 
         if SETTINGS["dry"]:
+            logging.warning("grok_tweets: would have saved: \"%s\"", tweet)
             continue
 
         save_tweet(student, expanded_link[0])
 
-def process_tweet(students, blogs, account, text):
+def process_tweet(students, blogs, tweet, account, text):
     """ Process a tweet """
 
     links = []
@@ -273,9 +274,9 @@ def process_tweet(students, blogs, account, text):
         logging.warning("grok_tweets: cannot find student from %s", handle)
         return
     logging.info("grok_tweets: process student %s (@%s)", student, handle)
-    process_student_tweet(blogs, links, handle, student)
+    process_student_tweet(blogs, tweet, links, handle, student)
 
-def really_filter_tweet(students, blogs, account, text):
+def really_filter_tweet(students, blogs, tweet, account, text):
     """ Really filter a tweet """
 
     if text.startswith("RT "):
@@ -288,7 +289,7 @@ def really_filter_tweet(students, blogs, account, text):
         logging.info("grok_tweets: does not include links; skip")
         return
 
-    process_tweet(students, blogs, account, text)
+    process_tweet(students, blogs, tweet, account, text)
     time.sleep(3)
 
 def filter_tweet(students, blogs, tweet):
@@ -318,7 +319,7 @@ def filter_tweet(students, blogs, tweet):
             pass
 
     if twid > prev:
-        really_filter_tweet(students, blogs, account, text)
+        really_filter_tweet(students, blogs, tweet, account, text)
 
         if not SETTINGS["force"] and os.path.isdir(statedir):
             filep = open(statefile, "w")
