@@ -32,7 +32,7 @@ License: CC BY-SA 3.0 Unported
 - [31 Maggio 2013](#2013-05-31) {rivista da: Sebastiano Franchina}
 - [05 Giugno 2013](#2013-06-05) {rivista da: Fausto Conigliaro}
 - [07 Giugno 2013](#2013-06-07) {rivista da: Luca Liuzzi}
-- [12 Giugno 2013](#2013-06-12) {work in progress: Sebastiano Franchina}
+- [12 Giugno 2013](#2013-06-12) {rivista da: Sebastiano Franchina}
 
 
 ## 2013-06-14
