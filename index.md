@@ -1185,13 +1185,10 @@ scomparire uomini e progetti dedicati alla ricerca per il software libero: il
 ministro Brunetta si rifiuta di ricevere la commissione istituita dal suo 
 predecessore. http://t.co/9lDqTQXk50
  
-- Nell’estate del 2012 il Parlamento approva una legge secondo la quale 
-di “default” la Pubblica Amministrazione deve scegliere il software libero.
-
- 
-- Ultimo atto del governo Monti, legato all’Agenda Italia Digitale, è 
-ripristinare la STO, rivedere il TCO e stabilire l’uso di formati aperti, 
-nonché degli standard in grado di garantire l’interoperabilità. 
+- Ultimo atto del governo Monti, è 
+ripristinare la STO, rivedere il TCO e stabilire l’uso (solo) facoltativo
+di formati liberi: insomma, un vero e proprio disastro (forse, per
+compiacere qualcuno).
 
 - Ultima pillola di Meo sul software libero: “I deputati che vanno a 
 donnine sono meno dannosi della scelta di un software proprietario”: i 3 
