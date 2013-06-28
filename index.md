@@ -3769,12 +3769,12 @@ computer presenti , si può parlare di rivoluzione digitale.
 
 ### @demartin
 
-#### Radio, TV e trasmissione
+#### Radio
 
 - Modello iniziale per la radio: separazione tra
 chi trasmette e chi produce contenuti
 
-- Si afferma invece uno schema per cui il
+- Tuttavia, si afferma uno schema per cui il
 broadcaster decide il palinsesto
 
 - Quando si afferma la radio, anni '20 e '30,
@@ -3796,21 +3796,39 @@ notizie (conflitto tra radio e giornali)
 - Intervento regolatorio (e.g. impedire a BBC
 di leggere notizie) puo` definire chi vince e chi perde sul mercato
 
-- Dal 1927 la TV sarebbe pronta ma non decolla;
-la FCC rallenta processo di diffusione della TV (scusa: decidere
-standard)
-
 - All'inizio della storia della radio, tra le due
-guerre, contrasto tra radio FM (scoperta troppo presto) e radio AM
+guerre, contrasto tra le due modulazioni radio: FM (scoperta 
+troppo presto) e radio AM
 
-- Con la Seconda Guerra Mondiale c'è una massiccia
-produzione di armi, si sviluppano elettronica e radar
+#### Televisione
 
-- Dopo WWII: fabbriche di elettronica, lavoratori
-qualificati, eta` del consumo =&gt; decolla la TV
+- Dal 1927 la TV sarebbe pronta ma non decolla: è la 
+FCC che rallenta il processo di diffusione della TV (scusa: 
+decidere lo standard)
 
-- La TV segue il modello della radio (i.e. US
-market e Europa pubblico)
+- Durante la Seconda Guerra Mondiale, nelle fabbriche di 
+elettronica c’è molta occupazione, per via delle 
+necessità belliche
+
+- Tuttavia, una volta finiti i conflitti, c’è il timore che la 
+disoccupazione torni ai livelli dei terribili anni ’30. Si 
+cerca, quindi, un modo per incentivare l’occupazione
+
+- Per andare verso la piena occupazione c'è bisogno di domanda,
+cioè che la gente consumi (insomma, si stanno gettando le basi 
+della ‘società dei consumi’)
+
+- Inoltre, è ormai evidente che i mezzi di comunicazione di massa
+possono condizionare le persone.
+
+- L’insieme di questi fattori decreta la diffusione della televisione: 
+può essere prodotta su larga scala, la sua produzione incentiva 
+l’occupazione nelle fabbriche e può essere un perfetto strumento 
+per indurre a nuovi consumi, con ulteriori effetti positivi, crescita 
+e occupazione.
+
+- La TV segue il modello della radio (privato negli USA e 
+pubblico in Europa)
 
 - Radio e TV: modello di allocazione statica
 delle frequenze (una frequenza, uno specifico utilizzo)
@@ -3819,21 +3837,21 @@ delle frequenze (una frequenza, uno specifico utilizzo)
 asta) dallo Stato a un privato, e non si puo` sublicenziare
 
 - All'inizio il modello non era quello delle aste,
-c'era una concessione da parte dello Stato (prima asta in ITA nel
-2000)
+c'era una concessione da parte dello Stato (prima asta in ITA 
+nel 2000)
 
 - Recap frequenze: licenze per un periodo di tempo limitato,
 date per uno specifico uso a una specifica entita`
 
-- Fine anni '60, USA: comunita` rurali non ricevono
-segnale TV, persone ordinarie portano segnale a casa via cavo coax
-Successiva nascita della TV via cavo
+- Tv via cavo (USA, fine anni '60): le comunita` rurali non 
+ricevono segnale TV, così persone ordinarie portano il segnale 
+a casa via cavo coax
 
 - I broadcasters si lamentano: "questi col cavo
 coax ci stanno piratando il segnale"
 
-- Coax: non appena si esce dall'amatoriale e
-nascono aziende, si comincia a dire "stai facendo soldi coi miei
+- Coax: non appena si esce dall'amatoriale e nascono 
+le aziende, si comincia a dire "stai facendo soldi coi miei
 contenuti"
 
 - USA: chiunque fa una cover deve pagare tot cent
@@ -3846,12 +3864,13 @@ e.g. Comcast
 - Satelliti: progetto Iridium (telefonia accesso
 a Internet in tutto il mondo) fallisce - http://t.co/V2wF3ymG9V
 
-- Tecnologie centralizzate: telegrafo, telefono, radio, 
-televisione (con piccola parentesi di tv e radio "libere"), satellite
+- Ricapitolando, le tecnologie centralizzate sono: telegrafo, 
+telefono, radio, televisione (con piccola parentesi di tv e 
+radio "libere"), satellite
 
 - "Video killed the radio star", e invece no
 
-- Internet e' in una fase di transizione in
+- E Internet? E' in una fase di transizione in
 cui i media precedenti stanno adattandosi a Internet
 
 - E' una fase normativa (come radio negli anni
