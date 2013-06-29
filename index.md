@@ -19,7 +19,7 @@ License: CC BY-SA 3.0 Unported
 - [12 Aprile 2013](#2013-04-12) {rivista da: Antonio Langiu}
 - [17 Aprile 2013](#2013-04-17) /* skipped */
 - [19 Aprile 2013](#2013-04-19) {rivista da: Davide Palermo}
-- [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo}
+- [24 Aprile 2013](#2013-04-24) {rivista da: Davide Palermo e Lorenzo Cutelle'}
 - [26 Aprile 2013](#2013-04-26) {rivista da: Giuseppe Ripa}
 - [03 Maggio 2013](#2013-05-03) {rivista da: Lorenzo Cutelle'}
 - [08 Maggio 2013](#2013-05-08) {rivista da: Lorenzo Cutelle'}
