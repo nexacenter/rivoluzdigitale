@@ -19,6 +19,7 @@
 """ Post frequency viewer """
 
 import datetime
+import logging
 import os
 import random
 import sys
@@ -33,12 +34,17 @@ def main():
 
     for target in sys.argv[1:]:
         for name in os.listdir(target):
-            dirname = os.sep.join([target, name])
-            if not os.path.isdir(dirname):
-                continue
-            for name in os.listdir(dirname):
-                timev = datetime.datetime.strptime(name, "%Y-%m-%d.html")
-                times.append(timev)
+            try:
+                dirname = os.sep.join([target, name])
+                if not os.path.isdir(dirname):
+                    continue
+                for name in os.listdir(dirname):
+                    timev = datetime.datetime.strptime(name, "%Y-%m-%d.html")
+                    times.append(timev)
+            except (KeyboardInterrupt, SystemExit):
+                raise
+            except:
+                logging.warning("post_freq: unhandled error", exc_info=1)
 
     times = sorted(times)
     values = []
