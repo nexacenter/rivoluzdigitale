@@ -47,15 +47,26 @@ def process_csv(students, pathname, fail_if_missing):
 def main():
     """ Main function """
 
+    #
+    # TODO The algorithm is not completely correct: in fact, the mark of
+    # part A + part B must be greater than 6.
+    #
+
     students = {}
-    process_csv(students, "parte-online.csv", False)
-    process_csv(students, "parte-A.csv", True)
-    process_csv(students, "parte-B1.csv", True)
-    process_csv(students, "parte-B2.csv", True)
-    process_csv(students, "parte-B3.csv", True)
+    process_csv(students, "RivoluzValutaz - 2012-online.csv", False)
+    process_csv(students, "RivoluzValutaz - 2013-online.csv", False)
+    process_csv(students, "RivoluzValutaz - 2013-06-28_A.csv", True)
+    #process_csv(students, "RivoluzValutaz - 2013-06-28_B1.csv", True)
+    #process_csv(students, "RivoluzValutaz - 2013-06-28_B2.csv", True)
+    #process_csv(students, "RivoluzValutaz - 2013-06-28_B3.csv", True)
 
     for name in sorted(students):
-        sys.stdout.write("%s: %f\n" % (name, students[name]))
+        mark = students[name]
+        mark = round(mark)
+        if mark < 18:
+            sys.stdout.write("%s: insuff.\n" % name)
+            continue
+        sys.stdout.write("%s: %d\n" % (name, mark))
 
 if __name__ == "__main__":
     main()
