@@ -537,7 +537,7 @@ FAQ contribuita da [Davide Palermo]
 
 *NOTA*: questa FAQ e' contribuita da uno studente e, benche' sia generalmente OK, ci sono
 alcuni aspetti che vanno fixati. Al momento non ho tempo di fixarli per bene, per cui vi
-prego di considerare questa risposta come un work in progress non ancora autorizativo.
+prego di considerare questa risposta come un work in progress non ancora autoritativo.
 Grazie. Simone
 
 ###Voto e modalità d'esame
