@@ -530,3 +530,53 @@ della email, così da permettere a chi risponde di avere un quadro definito dell
 
 
 FAQ contribuita da [Davide Palermo]
+
+
+1.12. Voto degli esami e procedure per accettarlo o rifiutarlo
+--------------------------------------------------------------
+
+###Voto e modalità d'esame
+
+Il voto dell'esame è costituito da due parti: quella online e quella offline (esame scritto).
+
+Il voto della parte online costituisce il 60% del voto finale e può variare in un intervallo 
+(0-18). Esso è composto dal voto della mailing list (20%) da quello di Twitter (15%) e da 
+quello del blog (65%). 
+
+Se il voto della parte online non è sufficiente si dovrà ripetere il corso l'anno successivo.
+La sufficienza è rappresentata da 10/30 e quindi da 6/18. La parte online non sarà valutata
+nel caso in cui non siano stati scritt almeno 6 post e realizzato un video per blog (con 
+tutti i membri del gruppo). Come video va bene anche una semplice sequenza con la webcam in 
+cui ognuno si presenta e dice qualcosa sul blog.
+
+L'esame scritto è composto da due parti: Parte A e parte B.
+
+-Parte A: consiste in 12  domande a risposta multipla, le cui risposte corrette possono variare
+ tra nessuna e tutte. Il punteggio della parte A è di +0.5 per risposta corretta,  -0.5 per 
+ risposta errata e 0 per risposta non data. Nel caso di risposta parzialmente corretta il p
+ unteggio sarà dato da [0.5*(m/N)] dove m è il numero di risposte giuste che abbiamo segnato 
+ ed N è quello di risposte corrette presenti nella domanda. Segnare anche una sola risposta 
+ errata rende errato l'intero quesito ( in a AND b AND c se è falsa c è falso tutto). Il voto 
+ della parte A può variare nell'intervallo (0-6). Tempo a disposizione: 40 minuti.
+ 
+-Parte B: consiste in 3 saggi, due dei quali di circa 200 parole e uno di circa 500 parole. Non 
+ è un problema se scrivete ±20 parole ma se sforate di più verrete penalizzati. I punteggi sono 
+ di massimo 1.5 per i due saggi brevi e di massimo 3 per il saggio lungo. 
+ Tempo a disposizione: 3 ore e 20 minuti. Si possono usare vocabolari di Italiano ma non sono 
+ ammessi appunti o altri aiuti. Su questo punto si sarà particolarmente fiscali, saranno "nazis".
+ 
+Il punteggio totale dell'esame scritto varia nell'intervallo (0-12) e la sufficienza è 6/12.
+Per studiare potete usare il file "index.md" [ http://bit.ly/13F2ZmN ] e il materiale del corso
+[ http://bit.ly/YE3Hbo ].
+
+### Accettare o rifiutare il voto
+
+Il voto della parte online non può essere rifiutato. Se si viene bocciati bisogna ripetere il corso.
+Il voto dell'esame scritto può essere rifiutato una sola volta. Entro il 13/07/2013 verranno 
+pubblicati i voti definitivi e verrà stabilita una deadline entro la quale chi volesse rifiutare il
+voto deve comunicarlo ai docenti. L'esame potrà essere eseguito nuovamente il 20/09/2013 controllate
+però che la data non venga modificata.
+
+Edited by [Fausto Conigliaro]
+
+ 
