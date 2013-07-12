@@ -577,8 +577,7 @@ Per studiare potete usare il file "index.md" [ http://bit.ly/13F2ZmN ] e il mate
 ### Accettare o rifiutare il voto
 
 Il voto della parte online non può essere rifiutato. Se si viene bocciati bisogna ripetere il corso.
-Il voto dell'esame scritto può essere rifiutato una sola volta. Entro il <strike>13/07/2013</strike>
-*data da definirsi* verranno 
+Il voto dell'esame scritto può essere rifiutato una sola volta. Entro *data da definirsi* verranno 
 pubblicati i voti definitivi e verrà stabilita una deadline entro la quale chi volesse rifiutare il
 voto deve comunicarlo ai docenti. L'esame potrà essere eseguito nuovamente il 20/09/2013 controllate
 però che la data non venga modificata.
