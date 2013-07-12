@@ -535,6 +535,11 @@ FAQ contribuita da [Davide Palermo]
 1.12. Voto degli esami e procedure per accettarlo o rifiutarlo
 --------------------------------------------------------------
 
+*NOTA*: questa FAQ e' contribuita da uno studente e, benche' sia generalmente OK, ci sono
+alcuni aspetti che vanno fixati. Al momento non ho tempo di fixarli per bene, per cui vi
+prego di considerare questa risposta come un work in progress non ancora autorizativo.
+Grazie. Simone
+
 ###Voto e modalità d'esame
 
 Il voto dell'esame è costituito da due parti: quella online e quella offline (esame scritto).
