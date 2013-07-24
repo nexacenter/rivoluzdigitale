@@ -27,7 +27,7 @@ def process_csv(students, pathname, fail_if_missing):
     filep = open(pathname, "r")
     reader = csv.reader(filep)
     for index, record in enumerate(reader):
-        if len(record) < 4:
+        if len(record) < 3:
             logging.warning("%s:%d: invalid number of columns", pathname, index)
             return
         if index == 0:
