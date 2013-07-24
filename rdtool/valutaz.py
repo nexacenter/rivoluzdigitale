@@ -55,16 +55,19 @@ def main():
     #
 
     students = {}
-    process_csv(students, "RivoluzValutaz2013 - 2012-online.csv", False)
-    process_csv(students, "RivoluzValutaz2013 - 2013-online.csv", False)
-    process_csv(students, "RivoluzValutaz2013 - 2013-06-28_A.csv", True)
+
+    process_csv(students, "RivoluzValutaz2013 - 2013-06-28_A.csv", False)
     process_csv(students, "RivoluzValutaz2013 - 2013-06-28_B1.csv", True)
     process_csv(students, "RivoluzValutaz2013 - 2013-06-28_B2.csv", True)
     process_csv(students, "RivoluzValutaz2013 - 2013-06-28_B3.csv", True)
-    process_csv(students, "RivoluzValutaz2013 - 2013-07-12_A.csv", True)
-    process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B1.csv", True)
-    process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B2.csv", True)
+
+    #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_A.csv", False)
+    #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B1.csv", True)
+    #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B2.csv", True)
     #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B3.csv", True)
+
+    process_csv(students, "RivoluzValutaz2013 - 2012-online.csv", True)
+    process_csv(students, "RivoluzValutaz2013 - 2013-online.csv", True)
 
     for name in sorted(students):
         mark = students[name]
