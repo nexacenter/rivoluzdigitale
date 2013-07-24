@@ -56,9 +56,9 @@ def main():
     process_csv(students, "RivoluzValutaz - 2012-online.csv", False)
     process_csv(students, "RivoluzValutaz - 2013-online.csv", False)
     process_csv(students, "RivoluzValutaz - 2013-06-28_A.csv", True)
-    #process_csv(students, "RivoluzValutaz - 2013-06-28_B1.csv", True)
-    #process_csv(students, "RivoluzValutaz - 2013-06-28_B2.csv", True)
-    #process_csv(students, "RivoluzValutaz - 2013-06-28_B3.csv", True)
+    process_csv(students, "RivoluzValutaz - 2013-06-28_B1.csv", True)
+    process_csv(students, "RivoluzValutaz - 2013-06-28_B2.csv", True)
+    process_csv(students, "RivoluzValutaz - 2013-06-28_B3.csv", True)
 
     for name in sorted(students):
         mark = students[name]
