@@ -27,15 +27,15 @@ def process_csv(students, pathname, fail_if_missing):
     filep = open(pathname, "r")
     reader = csv.reader(filep)
     for index, record in enumerate(reader):
-        if len(record) < 2:
+        if len(record) < 4:
             logging.warning("%s:%d: invalid number of columns", pathname, index)
             return
         if index == 0:
-            if record[0] != "Studente" and record[1] != "Totale":
+            if record[2] != "Studente" and record[3] != "Totale":
                 logging.warning("%s:%d: invalid columns", pathname, index)
                 return
             continue
-        name, mark = record[0:2]
+        name, mark = record[2:4]
         if name not in students:
             if fail_if_missing:
                 logging.warning("%s:%d: missing \"%s\"", pathname, index, name)
