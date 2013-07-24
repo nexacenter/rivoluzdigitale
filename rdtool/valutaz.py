@@ -49,11 +49,6 @@ def process_csv(students, pathname, fail_if_missing):
 def main():
     """ Main function """
 
-    #
-    # TODO The algorithm is not completely correct: in fact, the mark of
-    # part A + part B must be greater than 6.
-    #
-
     students = {}
 
     process_csv(students, "RivoluzValutaz2013 - 2013-06-28_A.csv", False)
@@ -65,6 +60,11 @@ def main():
     #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B1.csv", True)
     #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B2.csv", True)
     #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B3.csv", True)
+
+    for name in students:
+        mark = students[name]
+        if mark < 6.0:
+            students[name] = -256.0  # Make the student insuff.
 
     process_csv(students, "RivoluzValutaz2013 - 2012-online.csv", True)
     process_csv(students, "RivoluzValutaz2013 - 2013-online.csv", True)
