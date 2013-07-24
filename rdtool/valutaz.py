@@ -32,11 +32,11 @@ def process_csv(students, pathname, fail_if_missing):
             return
         if index == 0:
             if (record[0] != "Cognome" and record[1] != "Nome" and
-              record[3] != "Totale"):
+              record[2] != "Totale"):
                 logging.warning("%s:%d: invalid columns", pathname, index)
                 return
             continue
-        surname, name, _, mark = record[:4]
+        surname, name, mark = record[:3]
         name = "%s, %s" % (surname, name)
         if name not in students:
             if fail_if_missing:
