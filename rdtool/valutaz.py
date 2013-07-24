@@ -73,9 +73,9 @@ def main():
         mark = students[name]
         mark = round(mark)
         if mark < 18:
-            sys.stdout.write("%s: insuff.\n" % name)
+            sys.stdout.write("%s, insuff.\n" % name)
             continue
-        sys.stdout.write("%s: %d\n" % (name, mark))
+        sys.stdout.write("%s, %d\n" % (name, mark))
 
 if __name__ == "__main__":
     main()
