@@ -1,0 +1,45 @@
+body {
+	background: #ABABAB;
+	font-family: Verdana;
+	font-size: 11px;
+	color: #202020;
+}
+
+input,textarea {
+	background: #DEDEDE;
+	border: 1px solid #202020;
+	font-family: Verdana;
+	font-size: 11px;
+}
+
+a:link, a:visited {
+	color: #525190;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.error {
+	border: 1px solid #9F000F;
+	background: #FF82A0;
+	width: 300px;
+	height: 21px;
+}
+
+.info {
+	border: 1px solid #008500;
+	background: #82FFCA;
+	width: 300px;
+	height: 21px;
+}
+
+.msg {
+	position: relative;
+	text-align: center;
+	top: 3px;
+}
+
+table {
+	font-size: 11px;
+}

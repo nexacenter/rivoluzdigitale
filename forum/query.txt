@@ -1,0 +1,27 @@
+-- Elenco delle query da eseguire per la creazione
+-- delle tabelle necessarie.
+
+
+-- Tabella che contiene l'elenco degli utenti iscritti
+CREATE TABLE users (
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	username VARCHAR (32) NOT NULL,
+	password VARCHAR (32) NOT NULL,
+	email VARCHAR (32) NOT NULL
+) ENGINE = MYISAM;
+
+-- Tabella che contiene l'elenco degli argomenti proposti
+CREATE TABLE topics (
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	title VARCHAR (128) NOT NULL,
+	description TEXT NOT NULL,
+	author INT NOT NULL
+) ENGINE = MYISAM;
+
+-- Tabella che contiene le registrazioni ai vari argomenti
+CREATE TABLE selected (
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	uid INT NOT NULL,
+	tid INT NOT NULL
+) ENGINE = MYISAM;
+
