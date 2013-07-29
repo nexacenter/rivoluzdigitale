@@ -16,9 +16,7 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #
 
-""" Main of rss command """
-
-from xml import sax
+""" Main of the `rss` command """
 
 import getopt
 import json
@@ -41,84 +39,117 @@ from rdtool import subr_http
 from rdtool import subr_misc
 from rdtool import subr_rss
 
-def process_site(site, noisy):
+def _getfeed(site):
+    """ Get the RSS feed of site """
+    #
+    # Note: here we must not change the encoding of body, because the
+    # SAX library already performs this operation.
+    #
+    bodyvec = []
+    status = subr_rss.fetch(site, bodyvec, [])
+    if status != 0:
+        return
+    body = "".join(bodyvec)
+    return body
+
+def _select_generator(body):
+    """ Select the right generator """
+    if "<rss" not in body:
+        return sax_atom.each_post
+    return sax_rss.each_post
+
+def _get_final_url(link):
+    """ Returns the final URL that contains the content """
+    parsed = urlparse.urlsplit(link)
+    real_link = []
+    status = subr_http.retrieve("HEAD", "http", parsed[1], parsed[2],
+                                [], real_link, {})
+    if status != 200:
+        logging.warning("main_rss: invalid link: %s", link)
+        return
+    if len(real_link) != 1:
+        logging.warning("main_rss: internal error")
+        return
+    return real_link[0]
+
+def _canonicalize(link):
+    """ Put the final URL in canonical form """
+    index = link.rfind("?")
+    if index >= 0:
+        link = link[:index]
+    if link.startswith("https://"):
+        link = link.replace("https://", "http://")
+    return link
+
+def _to_bitpath(link):
+    """ Convert URL to bitpath """
+    bitlink = subr_bitly.shorten(link)
+    if not bitlink:
+        logging.warning("main_rss: bitly API failed")
+        return
+    bitlink = bitlink.replace("http://bit.ly/", "")
+    bitlink = bitlink.replace("https://bit.ly/", "")
+    if not re.search("^[A-Za-z0-9]+$", bitlink):
+        logging.warning("main_rss: invalid bitlink <%s>; skip", bitlink)
+        return
+    return bitlink
+
+def _savepost(link, pathname):
+    """ Save post content into pathname """
+    parsed = urlparse.urlsplit(link)
+    bodyvec = []
+    status = subr_http.retrieve("GET", "http", parsed[1], parsed[2],
+                                bodyvec, [], {})
+    if status != 200:
+        logging.warning("main_rss: cannot retrieve page: %s", link)
+        return
+    filep = open(pathname, "w")
+    for chunk in bodyvec:
+        filep.write(chunk)
+    filep.close()
+
+def process_site(site):
     """ Process the feeds of a site """
 
     logging.info("")
     logging.info("* site: %s", site)
     logging.info("")
 
-    bodyvec = []
-    status = subr_rss.fetch(site, bodyvec, [])
-    if status != 0:
-        return
-    body = "".join(bodyvec)
+    body = _getfeed(site)
     if not body:
+        logging.warning("main_rss: empty feed")
         return
+    each_post = _select_generator(body)
 
-    if "<rss" not in body:
-        handler = sax_atom.AtomHandler()
-    else:
-        handler = sax_rss.RssHandler()
-    sax.parseString(body, handler)
+    for post in each_post(body):
 
-    content = zip(handler.links, handler.pub_dates)
-    for link, date in content:
-
-        parsed = urlparse.urlsplit(link)
-        real_link = []
-        result = subr_http.retrieve("HEAD", "http", parsed[1], parsed[2],
-                                    [], real_link, {})
-        if result != 200:
-            logging.warning("rss_fetch: invalid link: %s", link)
-        link = real_link[0]
-
-        index = link.rfind("?")
-        if index >= 0:
-            link = link[:index]
-        if link.startswith("https://"):
-            link = link.replace("https://", "http://")
-
-        logging.info("")
-        logging.info("- <%s>", link)
-        logging.info("")
-
-        bitlink = subr_bitly.shorten(link)
-        if not bitlink:
-            logging.warning("rss_fetch: bitly API failed")
-            continue
-
-        bitlink = bitlink.replace("http://bit.ly/", "")
-        bitlink = bitlink.replace("https://bit.ly/", "")
-
-        if not re.search("^[A-Za-z0-9]+$", bitlink):
-            logging.warning("rss_fetch: invalid bitlink <%s>; skip", bitlink)
-            continue
-
-        dirpath = subr_misc.make_post_folder(site, bitlink)
-        if os.path.isdir(dirpath):
-            logging.warning("rss_fetch: dup <%s>; skip", dirpath)
-            continue
-
-        subr_misc.mkdir_recursive_idempotent(dirpath)
-
-        filename = "%02d-%02d-%02d.html" % (date[0], date[1], date[2])
-        pathname = os.sep.join([dirpath, filename])
-
-        # Pause a bit before the download so we sleep in any case
+        # Pause a bit before we process each post
         time.sleep(random.random() + 0.5)
 
-        bodyv = []
-        result = subr_http.retrieve("GET", "http", parsed[1], parsed[2],
-                                    bodyv, [], {})
-        if result != 200:
-            logging.warning("rss_fetch: cannot retrieve page: %s", link)
-        link = real_link[0]
+        link = _get_final_url(post["link"])
+        if not link:
+            continue
+        link = _canonicalize(link)
+        path = _to_bitpath(link)
+        if not path:
+            continue
+        path = subr_misc.make_post_folder(site, path)
 
-        filep = open(pathname, "w")
-        for chunk in bodyv:
-            filep.write(chunk)
-        filep.close()
+        logging.info("")
+        logging.info("- <%s> => .../%s", link, path)
+        logging.info("")
+
+        if os.path.isdir(path):
+            logging.warning("main_rss: dup <.../%s>; skip", path)
+            continue
+
+        success = subr_misc.mkdir_recursive_idempotent(path)
+        if not success:
+            continue
+        path += os.sep
+        path += "%02d-%02d-%02d.html" % (post["year"], post["month"],
+                                         post["day"])
+        _savepost(link, path)
 
 def main():
     """ Main function """
@@ -129,7 +160,6 @@ def main():
 
     destdir = None
     level = logging.WARNING
-    noisy = 0
     for name, value in options:
         if name == "-d":
             destdir = value
@@ -138,7 +168,6 @@ def main():
                 level = logging.INFO
             else:
                 level = logging.DEBUG
-            noisy = 1
 
     logging.basicConfig(level=level, format="%(message)s")
 
@@ -152,11 +181,11 @@ def main():
 
     for site in arguments:
         try:
-            process_site(site, noisy)
+            process_site(site)
         except (KeyboardInterrupt, SystemExit):
             break
         except:
-            logging.warning("rss_fetch: internal error", exc_info=1)
+            logging.warning("main_rss: internal error", exc_info=1)
 
 if __name__ == "__main__":
     main()

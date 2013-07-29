@@ -95,7 +95,7 @@ def main():
     if status != 0:
         sys.exit(1)
     body = "".join(bodyvec)
-    if encodings[0]:
+    if encodings and encodings[0]:
         body = body.decode(encodings[0])
         body = body.encode("utf-8")
 
