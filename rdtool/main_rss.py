@@ -1,4 +1,4 @@
-# rdtool/rss_fetch.py
+# rdtool/main_rss.py
 
 #
 # Copyright (c) 2013 Simone Basso <bassosimone@gmail.com>
@@ -16,7 +16,7 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #
 
-""" Main of rss_fetch """
+""" Main of rss command """
 
 from xml import sax
 
@@ -125,7 +125,7 @@ def main():
     try:
         options, arguments = getopt.getopt(sys.argv[1:], "d:v")
     except getopt.error:
-        sys.exit("usage: rss_fetch [-v] [-d dir] [site...]")
+        sys.exit("usage: rss [-v] [-d dir] [site...]")
 
     destdir = None
     level = logging.WARNING
