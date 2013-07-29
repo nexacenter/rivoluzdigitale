@@ -53,6 +53,7 @@ def _putrequest(connection, method, page):
     connection.putrequest(method, page)
     logging.debug("> Connection: close")
     connection.putheader("Connection", "close")
+    logging.debug("> [snip]")
     logging.debug(">")
     connection.endheaders()
 
@@ -62,7 +63,7 @@ def _getresponse(connection, headers):
     logging.debug("< HTTP/1.1 %d %s", response.status, response.reason)
     for header, value in response.getheaders():
         logging.debug("< %s: %s", header, value)
-        headers[header.lower()] = value
+        headers[header] = value
     logging.debug("<")
     return response
 
