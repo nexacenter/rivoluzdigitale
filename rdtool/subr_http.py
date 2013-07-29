@@ -121,9 +121,8 @@ def parse_content_type(ctype):
         encoding = None
     return ctype, encoding
 
-def retrieve(method, schema, site, page, bodyvec, real_link, noisy=0):
-    """ Retrieve page from site using schema and saving the body chunks
-        into bodyvec, possibly being noisy """
+def retrieve(method, schema, site, page, bodyvec, real_link):
+    """ Retrieve page from site """
 
     for _ in range(10):
         del real_link[:]
@@ -135,7 +134,6 @@ def retrieve(method, schema, site, page, bodyvec, real_link, noisy=0):
             connection = httplib.HTTPSConnection(site)
         else:
             connection = httplib.HTTPConnection(site)
-        connection.set_debuglevel(noisy)
 
         logging.debug("> %s %s HTTP/1.1", method, page)
         connection.putrequest(method, page)
