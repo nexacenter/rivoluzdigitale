@@ -22,10 +22,11 @@ import csv
 import logging
 import sys
 
-def process_csv(students, pathname, fail_if_missing):
+def process_csv(students, matricole, pathname, fail_if_missing):
     """ Helper function to process a single CSV file """
     filep = open(pathname, "r")
     reader = csv.reader(filep)
+    has_matricola = 0
     for index, record in enumerate(reader):
         if len(record) < 3:
             logging.warning("%s:%d: invalid number of columns", pathname, index)
@@ -35,6 +36,8 @@ def process_csv(students, pathname, fail_if_missing):
               record[2] != "Totale"):
                 logging.warning("%s:%d: invalid columns", pathname, index)
                 return
+            if len(record) > 4 and record[4] == "Matricola":
+                has_matricola = 1
             continue
         surname, name, mark = record[:3]
         name = "%s, %s" % (surname, name)
@@ -44,38 +47,53 @@ def process_csv(students, pathname, fail_if_missing):
                 continue
             students.setdefault(name, 0.0)
         students[name] += float(mark)
+        if has_matricola:
+            matricola = record[4]
+            matricole[name] = matricola
     filep.close()
 
 def main():
     """ Main function """
 
+    matricole = {}
     students = {}
 
-    process_csv(students, "RivoluzValutaz2013 - 2013-06-28_A.csv", False)
-    process_csv(students, "RivoluzValutaz2013 - 2013-06-28_B1.csv", True)
-    process_csv(students, "RivoluzValutaz2013 - 2013-06-28_B2.csv", True)
-    process_csv(students, "RivoluzValutaz2013 - 2013-06-28_B3.csv", True)
+    process_csv(students, matricole,
+      "RivoluzValutaz2013 - 2013-06-28_A.csv", False)
+    process_csv(students, matricole,
+      "RivoluzValutaz2013 - 2013-06-28_B1.csv", True)
+    process_csv(students, matricole,
+      "RivoluzValutaz2013 - 2013-06-28_B2.csv", True)
+    process_csv(students, matricole,
+      "RivoluzValutaz2013 - 2013-06-28_B3.csv", True)
 
-    #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_A.csv", False)
-    #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B1.csv", True)
-    #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B2.csv", True)
-    #process_csv(students, "RivoluzValutaz2013 - 2013-07-12_B3.csv", True)
+    #process_csv(students, matricole,
+      #"RivoluzValutaz2013 - 2013-07-12_A.csv", False)
+    #process_csv(students, matricole,
+      #"RivoluzValutaz2013 - 2013-07-12_B1.csv", True)
+    #process_csv(students, matricole,
+      #"RivoluzValutaz2013 - 2013-07-12_B2.csv", True)
+    #process_csv(students, matricole,
+      #"RivoluzValutaz2013 - 2013-07-12_B3.csv", True)
 
     for name in students:
         mark = students[name]
         if mark < 6.0:
             students[name] = -256.0  # Make the student insuff.
 
-    process_csv(students, "RivoluzValutaz2013 - 2012-online.csv", True)
-    process_csv(students, "RivoluzValutaz2013 - 2013-online.csv", True)
+    process_csv(students, matricole,
+      "RivoluzValutaz2013 - 2012-online.csv", True)
+    process_csv(students, matricole,
+      "RivoluzValutaz2013 - 2013-online.csv", True)
 
     for name in sorted(students):
+        matricola = matricole.get(name, "000000")
         mark = students[name]
         mark = round(mark)
         if mark < 18:
-            sys.stdout.write("%s, insuff.\n" % name)
+            sys.stdout.write("%s, %s, insuff.\n" % (name, matricola))
             continue
-        sys.stdout.write("%s, %d\n" % (name, mark))
+        sys.stdout.write("%s, %s, %d\n" % (name, matricola, mark))
 
 if __name__ == "__main__":
     main()
