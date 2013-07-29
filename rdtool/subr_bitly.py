@@ -16,7 +16,7 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #
 
-""" Extract tags from student posts """
+""" Subroutines for bit.ly """
 
 import json
 import logging
@@ -30,9 +30,9 @@ if __name__ == "__main__":
 from rdtool import subr_http
 
 #
-# You cannot shorten URLs using /v3/shorten unless you are authenticated;
-# the documentation recommends to use OAUTH, but you can get away with the
-# API key as well (even if this feature is depricated).
+# You cannot shorten URLs using /v3/shorten unless you are authenticated.
+# The documentation recommends to use OAUTH, but you can get away with the
+# (deprecated) API key as well.
 #
 # See: <http://dev.bitly.com/links.html#v3_shorten>.
 #
@@ -56,7 +56,7 @@ def readconf():
     filep.close()
     return json.loads(data)
 
-def shorten(url, noisy=0):
+def shorten(url):
     """ Shorten URLs using bit.ly """
 
     authdata = readconf()
@@ -101,7 +101,7 @@ def shorten(url, noisy=0):
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.DEBUG)
     if len(sys.argv) == 2:
-        result = shorten(sys.argv[1], noisy=1)
+        result = shorten(sys.argv[1])
         sys.stdout.write("%s\n" % result)
         sys.exit(0)
     sys.stderr.write("usage: subr_bitly.py url\n")

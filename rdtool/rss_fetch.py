@@ -80,7 +80,7 @@ def process_site(site, noisy):
         logging.info("- <%s>", link)
         logging.info("")
 
-        bitlink = subr_bitly.shorten(link, noisy=noisy)
+        bitlink = subr_bitly.shorten(link)
         if not bitlink:
             logging.warning("rss_fetch: bitly API failed")
             continue
