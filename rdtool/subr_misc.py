@@ -23,7 +23,7 @@ import logging
 import os
 
 def make_post_folder(site, bitlink):
-    """ From struct time and site, generate post folder """
+    """ Generate post folder from site and bitlink """
 
     site = site.split(".")
     if site[0] == "www" and len(site) >= 2:
@@ -55,7 +55,3 @@ def mkdir_recursive_idempotent(path):
         logging.warning("subr_misc: internal error")
         return False
     return True
-
-def bitlink_to_filename(bitlink):
-    """ Convert bitlink to filename """
-    return bitlink.replace("http://bit.ly/", "") + ".html"
