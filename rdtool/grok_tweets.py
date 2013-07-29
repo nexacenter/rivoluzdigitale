@@ -222,7 +222,7 @@ def process_student_tweet(blogs, tweet, links, handle, student):
     for link in links:
         expanded_link = []
         result = subr_http.retrieve("HEAD", "http", "t.co", link, [],
-          expanded_link)
+          expanded_link, {})
         if result != 200:
             logging.warning("grok_tweets: broken link")
             continue

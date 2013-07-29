@@ -65,17 +65,21 @@ def shorten(url, noisy=0):
 
     orig_url = url
 
+    bodyvec = []
+    headers = {}
+
     url = urllib.quote(url, safe="")
     path = "/v3/shorten?login=%s&apiKey=%s&longUrl=%s" % (
       authdata["login"], authdata["api_key"], url)
-    result = subr_http.fetch("api-ssl.bitly.com", path, noisy=noisy)
-    if not result:
+    result = subr_http.retrieve("GET", "https", "api-ssl.bitly.com",
+                                path, bodyvec, [], headers)
+    if result != 200:
         logging.warning("subr_bitly.py: can't shorten %s", orig_url)
         return
 
-    response, body = result
+    body = "".join(bodyvec)
 
-    ctype = response.getheader("Content-Type")
+    ctype = headers.get("content-type")
     if not ctype:
         logging.warning("subr_bitly.py: no content type")
         return

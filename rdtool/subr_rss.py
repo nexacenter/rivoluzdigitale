@@ -39,12 +39,17 @@ def fetch(site, noisy=0):
     for path in PATHS:
         logging.info("subr_rss: try with %s for %s", path, site)
 
-        result = subr_http.fetch(site, path, noisy=noisy)
-        if not result:
-            continue
-        response, body = result
+        bodyvec = []
+        headers = {}
 
-        ctype = response.getheader("Content-Type")
+        result = subr_http.retrieve("GET", "http", site, path, bodyvec,
+                                    [], headers)
+        if result != 200:
+            continue
+
+        body = "".join(bodyvec)
+
+        ctype = headers.get("content-type")
         if not ctype:
             logging.warning("subr_rss: no content-type")
             continue

@@ -65,7 +65,7 @@ def process_site(site, noisy):
         parsed = urlparse.urlsplit(link)
         real_link = []
         result = subr_http.retrieve("HEAD", "http", parsed[1], parsed[2],
-                                    [], real_link)
+                                    [], real_link, {})
         if result != 200:
             logging.warning("rss_fetch: invalid link: %s", link)
         link = real_link[0]
@@ -107,7 +107,7 @@ def process_site(site, noisy):
 
         bodyv = []
         result = subr_http.retrieve("GET", "http", parsed[1], parsed[2],
-                                    bodyv, [])
+                                    bodyv, [], {})
         if result != 200:
             logging.warning("rss_fetch: cannot retrieve page: %s", link)
         link = real_link[0]

@@ -26,90 +26,6 @@ import urlparse
 MAXBODY = 1 << 22
 MAXPIECE = 1 << 16
 
-CONNECTIONS = {
-}
-
-def connect(site, secure=0):
-    """ Connect to site """
-    tpl = (secure, site)
-    if tpl not in CONNECTIONS:
-        if secure:
-            connection = httplib.HTTPSConnection(site)
-        else:
-            connection = httplib.HTTPConnection(site)
-
-        return connection  # FIXME
-
-#       CONNECTIONS[tpl] = connection
-#   connection = CONNECTIONS[tpl]
-#   return connection
-
-def fetch_url(url, secure=0, noisy=0):
-    """ Fetch the given URL """
-    parsed = urlparse.urlsplit(url)
-    return fetch(parsed[1], parsed[2], noisy)
-
-def fetch(site, path, secure=0, noisy=0):
-    """ Fetch path from site """
-
-    cnt = 10
-    while cnt > 0:
-        logging.debug("subr_http: GET %s from %s (#redirs: %d, secure: %d)",
-                      path, site, cnt, secure)
-
-        connection = connect(site, secure)
-        #connection.set_debuglevel(noisy)
-        connection.putrequest("GET", path)
-        connection.endheaders()
-        response = connection.getresponse()
-
-        maxbody = MAXBODY
-        vector = []
-        while maxbody >= 0:
-            piece = response.read(MAXPIECE)
-            if not piece:
-                break
-            vector.append(piece)
-            maxbody -= len(piece)
-        if maxbody < 0:
-            # Note: disconnect unavoidable because we don't read the whole body
-            disconnect(site, secure)
-            logging.warning("subr_http: body too large")
-            return
-
-        if response.getheader("Connection") == "close":
-            logging.debug("subr_http: disconnecting on server request")
-            disconnect(site, secure)
-
-        if response.status == 301 or response.status == 302:
-            cnt -= 1
-            location = response.getheader("Location")
-            if not location:
-                logging.warning("subr_http: missing location header")
-                return
-            logging.debug("subr_http: redirected to %s", location)
-            parsed = urlparse.urlsplit(location)
-            secure = (parsed[0] == "https")
-            if parsed[1]:
-                site = parsed[1]
-            if parsed[2]:
-                path = parsed[2]
-            continue
-
-        if response.status != 200:
-            logging.warning("subr_http: bad status: %d", response.status)
-            return
-
-        body = "".join(vector)
-        logging.debug("subr_http: %s from %s is %d bytes", path, site, len(body))
-        return response, body
-
-    logging.warning("subr_http: too many redirections")
-
-def disconnect(site, secure=0):
-    """ Disconnect from site """
-    #del CONNECTIONS[(secure, site)]  # FIXME
-
 def parse_content_type(ctype):
     """ Parse Content-Type header value """
     index = ctype.find(";")
@@ -121,7 +37,7 @@ def parse_content_type(ctype):
         encoding = None
     return ctype, encoding
 
-def retrieve(method, schema, site, page, bodyvec, real_link):
+def retrieve(method, schema, site, page, bodyvec, real_link, headers):
     """ Retrieve page from site """
 
     for _ in range(10):
@@ -142,10 +58,13 @@ def retrieve(method, schema, site, page, bodyvec, real_link):
         logging.debug(">")
         connection.endheaders()
 
+        headers.clear()
+
         response = connection.getresponse()
         logging.debug("< HTTP/1.1 %d %s", response.status, response.reason)
         for header, value in response.getheaders():
             logging.debug("< %s: %s", header, value)
+            headers[header.lower()] = value
         logging.debug("<")
 
         logging.debug("* reading body...")
@@ -190,15 +109,7 @@ def retrieve(method, schema, site, page, bodyvec, real_link):
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG, format="%(message)s")
     if len(sys.argv) == 5:
-        retrieve(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], [], [])
-        sys.exit(0)
-    if len(sys.argv) == 3:
-        fetch(sys.argv[1], sys.argv[2])
-        sys.exit(0)
-    if len(sys.argv) == 2:
-        fetch_url(sys.argv[1])
+        retrieve(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], [], [], {})
         sys.exit(0)
     sys.stderr.write("usage: subr_http method schema site page\n")
-    sys.stderr.write("       subr_http site path\n")
-    sys.stderr.write("       subr_http url\n")
     sys.exit(1)
