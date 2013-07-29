@@ -37,50 +37,71 @@ def parse_content_type(ctype):
         encoding = None
     return ctype, encoding
 
+def _make_connection(site, schema):
+    """ Make an HTTP or HTTPS connection """
+    logging.debug("")
+    logging.debug("* Connect %s using %s...", site, schema)
+    if schema == "https":
+        connection = httplib.HTTPSConnection(site)
+    else:
+        connection = httplib.HTTPConnection(site)
+    return connection
+
+def _putrequest(connection, method, page):
+    """ Send the HTTP request """
+    logging.debug("> %s %s HTTP/1.1", method, page)
+    connection.putrequest(method, page)
+    logging.debug("> Connection: close")
+    connection.putheader("Connection", "close")
+    logging.debug(">")
+    connection.endheaders()
+
+def _getresponse(connection, headers):
+    """ Get the HTTP response """
+    response = connection.getresponse()
+    logging.debug("< HTTP/1.1 %d %s", response.status, response.reason)
+    for header, value in response.getheaders():
+        logging.debug("< %s: %s", header, value)
+        headers[header.lower()] = value
+    logging.debug("<")
+    return response
+
+def _readbody(response, bodyvec):
+    """ Reads response body """
+    logging.debug("* reading body...")
+    total = 0
+    while True:
+        piece = response.read(MAXPIECE)
+        if not piece:
+            break
+        if total <= MAXBODY:
+            bodyvec.append(piece)
+            total += len(piece)
+    if total > MAXBODY:
+        logging.warning("subr_http: reading body... too large")
+        return -1
+    logging.debug("* reading body... %d bytes", total)
+    return 0
+
 def retrieve(method, schema, site, page, bodyvec, real_link, headers):
     """ Retrieve page from site """
 
     for _ in range(10):
+
+        del bodyvec[:]
         del real_link[:]
-        real_link.append(schema + "://" + site + page)
-
-        logging.debug("")
-        logging.debug("* Connect %s using %s...", site, schema)
-        if schema == "https":
-            connection = httplib.HTTPSConnection(site)
-        else:
-            connection = httplib.HTTPConnection(site)
-
-        logging.debug("> %s %s HTTP/1.1", method, page)
-        connection.putrequest(method, page)
-        logging.debug("> Connection: close")
-        connection.putheader("Connection", "close")
-        logging.debug(">")
-        connection.endheaders()
-
         headers.clear()
 
-        response = connection.getresponse()
-        logging.debug("< HTTP/1.1 %d %s", response.status, response.reason)
-        for header, value in response.getheaders():
-            logging.debug("< %s: %s", header, value)
-            headers[header.lower()] = value
-        logging.debug("<")
+        real_link.append(schema + "://" + site + page)
 
-        logging.debug("* reading body...")
-        total = 0
-        del bodyvec[:]
-        while total <= MAXBODY:
-            piece = response.read(MAXPIECE)
-            if not piece:
-                break
-            bodyvec.append(piece)
-            total += len(piece)
+        connection = _make_connection(site, schema)
+        _putrequest(connection, method, page)
+        response = _getresponse(connection, headers)
+        status = _readbody(response, bodyvec)
         connection.close()
-        if total > MAXBODY:
-            logging.warning("subr_http: reading body... too large")
+
+        if status < 0:
             return -1
-        logging.debug("* reading body... %d bytes", total)
 
         if response.status == 301 or response.status == 302:
             location = response.getheader("Location")
