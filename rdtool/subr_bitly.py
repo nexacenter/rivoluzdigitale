@@ -28,6 +28,7 @@ if __name__ == "__main__":
     sys.path.insert(0, ".")
 
 from rdtool import subr_http
+from rdtool import subr_misc
 
 #
 # You cannot shorten URLs using /v3/shorten unless you are authenticated.
@@ -40,21 +41,11 @@ from rdtool import subr_http
 MAXLENGTH = 1 << 18
 
 def readconf():
-    """ Read configuration """
-
+    """ Read configuration file """
     rcfile = os.sep.join([os.environ["HOME"], ".bitly"])
-
-    filep = open(rcfile, "r")
-    filep.seek(0, os.SEEK_END)
-    total = filep.tell()
-    filep.seek(0, os.SEEK_SET)
-    if total > MAXLENGTH:
-        logging.warning("subr_bitly: configuration file too large")
-        return
-
-    data = filep.read()
-    filep.close()
-    return json.loads(data)
+    data = subr_misc.readfile(rcfile, MAXLENGTH)
+    if data:
+        return json.loads(data)
 
 def shorten(url):
     """ Shorten URLs using bit.ly """

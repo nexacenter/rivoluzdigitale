@@ -55,3 +55,17 @@ def mkdir_recursive_idempotent(path):
         logging.warning("subr_misc: internal error")
         return False
     return True
+
+def readfile(path, maxlen):
+    """ Read configuration """
+    filep = open(path, "r")
+    filep.seek(0, os.SEEK_END)
+    total = filep.tell()
+    filep.seek(0, os.SEEK_SET)
+    if total > maxlen:
+        logging.warning("readfile: file too large")
+        return
+    data = filep.read()
+    filep.close()
+    return data
+
