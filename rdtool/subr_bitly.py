@@ -89,7 +89,8 @@ def shorten(url):
 
     return dictionary["data"]["url"]
 
-if __name__ == "__main__":
+def main():
+    """ Main function """
     logging.getLogger().setLevel(logging.DEBUG)
     if len(sys.argv) == 2:
         result = shorten(sys.argv[1])
@@ -97,3 +98,6 @@ if __name__ == "__main__":
         sys.exit(0)
     sys.stderr.write("usage: subr_bitly.py url\n")
     sys.exit(1)
+
+if __name__ == "__main__":
+    main()
