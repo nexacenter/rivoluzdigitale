@@ -48,7 +48,7 @@ def process_site(site, noisy):
     logging.info("* site: %s", site)
     logging.info("")
 
-    result = subr_rss.fetch(site, noisy=noisy)
+    result = subr_rss.fetch(site)
     if not result or not result[0]:
         return
     body = result[0]

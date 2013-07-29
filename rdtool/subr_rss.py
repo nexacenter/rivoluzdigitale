@@ -33,8 +33,8 @@ PATHS = (
          "/rss.xml",  # blogspot.it
         )
 
-def fetch(site, noisy=0):
-    """ Fetch RSS feeds of a website """
+def fetch(site):
+    """ Fetch the RSS feeds of a website """
 
     for path in PATHS:
         logging.info("subr_rss: try with %s for %s", path, site)
@@ -78,18 +78,16 @@ def main():
         sys.exit("usage: subr_rss.py [-v] [-o output] site")
 
     level = logging.WARNING
-    noisy = 0
     outfp = sys.stdout
     for name, value in options:
         if name == "-o":
             outfp = open(value, "w")
         elif name == "-v":
             level = logging.DEBUG
-            noisy = 1
 
     logging.getLogger().setLevel(level)
 
-    result = fetch(arguments[0], noisy)
+    result = fetch(arguments[0])
     if not result:
         sys.exit(1)
     body, encoding = result
