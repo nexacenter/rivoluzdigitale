@@ -48,10 +48,13 @@ def process_site(site, noisy):
     logging.info("* site: %s", site)
     logging.info("")
 
-    result = subr_rss.fetch(site)
-    if not result or not result[0]:
+    bodyvec = []
+    status = subr_rss.fetch(site, bodyvec, [])
+    if status != 0:
         return
-    body = result[0]
+    body = "".join(bodyvec)
+    if not body:
+        return
 
     if "<rss" not in body:
         handler = sax_atom.AtomHandler()

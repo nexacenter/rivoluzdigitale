@@ -33,21 +33,20 @@ PATHS = (
          "/rss.xml",  # blogspot.it
         )
 
-def fetch(site):
+def fetch(site, bodyvec, encodings):
     """ Fetch the RSS feeds of a website """
 
     for path in PATHS:
         logging.info("subr_rss: try with %s for %s", path, site)
 
-        bodyvec = []
+        del bodyvec[:]
+        del encodings[:]
         headers = {}
 
         result = subr_http.retrieve("GET", "http", site, path, bodyvec,
                                     [], headers)
         if result != 200:
             continue
-
-        body = "".join(bodyvec)
 
         ctype = headers.get("content-type")
         if not ctype:
@@ -64,9 +63,11 @@ def fetch(site):
             logging.warning("subr_rss: bad content type: %s", ctype)
             continue
 
-        return body, encoding
+        encodings.append(encoding)
+        return 0
 
     logging.error("subr_rss: can't fetch RSS for %s", site)
+    return -1
 
 def main():
     """ Main function """
@@ -87,12 +88,15 @@ def main():
 
     logging.getLogger().setLevel(level)
 
-    result = fetch(arguments[0])
-    if not result:
+    bodyvec = []
+    encodings = []
+
+    status = fetch(arguments[0], bodyvec, encodings)
+    if status != 0:
         sys.exit(1)
-    body, encoding = result
-    if encoding:
-        body = body.decode(encoding)
+    body = "".join(bodyvec)
+    if encodings[0]:
+        body = body.decode(encodings[0])
         body = body.encode("utf-8")
 
     outfp.write(body)
