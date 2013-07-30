@@ -39,6 +39,10 @@ from rdtool import subr_http
 from rdtool import subr_misc
 from rdtool import subr_rss
 
+SETTINGS = {
+    "before_tuple": (),
+}
+
 def _getfeed(site):
     """ Get the RSS feed of site """
     #
@@ -122,6 +126,23 @@ def process_site(site):
     each_post = _select_generator(body)
 
     for post in each_post(body):
+        logging.info("")
+        logging.info("- [%04d-%02d-%02d] <%s>", post["year"], post["month"],
+                     post["day"], post["link"])
+
+        if SETTINGS["before_tuple"]:
+            if post["year"] > SETTINGS["before_tuple"][0]:
+                logging.info("main_rss: year greater than %d; skip",
+                             SETTINGS["before_tuple"][0])
+                continue
+            if post["month"] > SETTINGS["before_tuple"][1]:
+                logging.info("main_rss: month greater than %d; skip",
+                             SETTINGS["before_tuple"][1])
+                continue
+            if post["day"] >= SETTINGS["before_tuple"][2]:
+                logging.info("main_rss: day greater than (or equal to) %d; "
+                             "skip", SETTINGS["before_tuple"][2])
+                continue
 
         # Pause a bit before we process each post
         time.sleep(random.random() + 0.5)
@@ -135,7 +156,6 @@ def process_site(site):
             continue
         path = subr_misc.make_post_folder(site, path)
 
-        logging.info("")
         logging.info("- <%s> => .../%s", link, path)
         logging.info("")
 
@@ -151,17 +171,36 @@ def process_site(site):
                                          post["day"])
         _savepost(link, path)
 
+USAGE = "usage: rss [-v] [-B year-month-day] [-d dir] [site...]"
+
 def main():
     """ Main function """
     try:
-        options, arguments = getopt.getopt(sys.argv[1:], "d:v")
+        options, arguments = getopt.getopt(sys.argv[1:], "B:d:v")
     except getopt.error:
-        sys.exit("usage: rss [-v] [-d dir] [site...]")
+        sys.exit(USAGE)
 
     destdir = None
     level = logging.WARNING
     for name, value in options:
-        if name == "-d":
+
+        if name == "-B":
+            before_tuple = value.split("-")
+            if len(before_tuple) != 3:
+                sys.exit(USAGE)
+            try:
+                before_year = int(before_tuple[0])
+                before_month = int(before_tuple[1])
+                before_day = int(before_tuple[2])
+            except ValueError:
+                sys.exit(USAGE)
+            SETTINGS["before_tuple"] = (
+                                        before_year,
+                                        before_month,
+                                        before_day
+                                       )
+
+        elif name == "-d":
             destdir = value
         elif name == "-v":
             if level == logging.WARNING:
