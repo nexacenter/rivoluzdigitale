@@ -117,7 +117,7 @@ della rete"
 
 ## 2013-06-12
 
-### Guest Lecturer Anna Masera - @annamasera
+### @annamasera
 
 - Come la Rivoluzione Digitale ha influito sul giornalismo: @annamasera , 
 Social Media Editor de @la_stampa, prima SME di un giornale nazionale 
