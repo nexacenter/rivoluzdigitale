@@ -493,12 +493,16 @@ http://www.linkiesta.it/twitter-come-funziona
 
 ### Glossario
 
-- By the way è un'espressione inglese tradotta in italiano con a proposito, 
+- "By the way" è un'espressione inglese tradotta in italiano con a proposito, 
 tra l'altro, comunque, ... 
 
 - ACK è un termine usato in ambito informatico come simbolo che identifica un
 segnale di Acknowledge emesso in risposta alla ricezione di un'informazione.
 Usato in risposta a email o Tweet identifica consenso o recezione del messaggio.
+
+- FYI è una abbreviazione della frase inglese "For Your Information" o 
+"For Your Interest" tradotto come "Per tua/o informazione/interesse"
+
 
 - IMHO è una abbreviazione della frase inglese "In My Humble (Honest) Opinion"
 ovvero ha significato in italiano di "A mio modesto parere".
