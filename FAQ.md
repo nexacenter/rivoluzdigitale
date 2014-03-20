@@ -398,9 +398,7 @@ gestione degli account di posta elettronica selezionando la voce
 e inserisci il tuo nome e cognome nel campo "Nome:"
 
 3 - Specifica il tuo indirizzo di posta elettronica nella forma 
-sNumeroMatricola@studenti.polito.it, oppure, se attivo, il tuo
-alias di posta elettronica nella forma nome.cognome@studenti.polito.it
-nel campo "Indirizzo email:"
+sNumeroMatricola@studenti.polito.it nel campo "Indirizzo email:"
 
 4 - Inserisci in seguito la tua password (la stessa che utilizzi per 
 accedere ai box self-service) nel campo "Password:".
@@ -418,9 +416,7 @@ tendina "SSL" seleziona "SSL/TLS" e nel menù a tendina "Autenticazione"
 seleziona "Password normale"
 
 7 - Specifica poi il tuo indirizzo di posta elettronica nella forma 
-sNumeroMatricola@studenti.polito.it, oppure, se attivo, il tuo
-alias di posta elettronica nella forma nome.cognome@studenti.polito.it
-nel campo "Nome utente:"
+sNumeroMatricola@studenti.polito.it nel campo "Nome utente:"
 
 8 - Premi infine il pulsante "Riesaminare" e verifica che le impostazioni 
 inserite siano corrette: in caso di errore, procedi ad una correzione.
