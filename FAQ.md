@@ -398,8 +398,8 @@ gestione degli account di posta elettronica selezionando la voce
 e inserisci il tuo nome e cognome nel campo "Nome:"
 
 3 - Specifica il tuo indirizzo di posta elettronica nella forma 
-s<numero matricola>@studenti.polito.it, oppure, se attivo, il tuo
-alias di posta elettronica nella forma <nome>.<cognome>@studenti.polito.it
+sNumeroMatricola@studenti.polito.it, oppure, se attivo, il tuo
+alias di posta elettronica nella forma nome.cognome@studenti.polito.it
 nel campo "Indirizzo email:"
 
 4 - Inserisci in seguito la tua password (la stessa che utilizzi per 
@@ -407,9 +407,9 @@ accedere ai box self-service) nel campo "Password:".
 Metti infine la spunta su "Ricorda password", se lo desideri, e premi
 il pulsante "Continua".
 
-5 - Nella riga "In entrata:" seleziona "POP3" nel primo menù a tendina;
-nel campo "Nome server" inserisci "pop.studenti.polito.it".
-Nel menù a tendina "Porta" seleziona "995", nel menù a tendina "SSL" seleziona
+5 - Nella riga "In entrata:" seleziona "IMAP" nel primo menù a tendina;
+nel campo "Nome server" inserisci "imap.studenti.polito.it".
+Nel menù a tendina "Porta" seleziona "993", nel menù a tendina "SSL" seleziona
 "SSL/TLS" e nel menu a tendina "Autenticazione" seleziona "Password normale".
 
 6 - Nella riga "In uscita:" inserisci "smtp.studenti.polito.it" nel campo 
@@ -418,8 +418,8 @@ tendina "SSL" seleziona "SSL/TLS" e nel menù a tendina "Autenticazione"
 seleziona "Password normale"
 
 7 - Specifica poi il tuo indirizzo di posta elettronica nella forma 
-s<numero matricola>@studenti.polito.it, oppure, se attivo, il tuo
-alias di posta elettronica nella forma <nome>.<cognome>@studenti.polito.it
+sNumeroMatricola@studenti.polito.it, oppure, se attivo, il tuo
+alias di posta elettronica nella forma nome.cognome@studenti.polito.it
 nel campo "Nome utente:"
 
 8 - Premi infine il pulsante "Riesaminare" e verifica che le impostazioni 
@@ -435,7 +435,7 @@ gli stessi passaggi nei configuratori di account email del tuo dispositivo
 
 FAQ contribuita da [Davide Palermo] basandosi sulla guida online presente
 sul portale della didattica del Politecnico di Torino
-https://didattica.polito.it/mail/pop3/thunderbird.html
+https://didattica.polito.it/mail/IMAP/IMAP_thunderbird.html
 
 [Davide Palermo]: https://twitter.com/DavidePalermo2
 
