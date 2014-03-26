@@ -579,6 +579,7 @@ func (self TwitterBot) SearchRealtime() ([]byte, error) {
 
 func usage() {
     fmt.Fprintf(os.Stderr, "usage: twitter_bot --get-friends\n")
+    fmt.Fprintf(os.Stderr, "       twitter_bot --get-followers\n")
     fmt.Fprintf(os.Stderr, "       twitter_bot --get-tweets handle\n")
     fmt.Fprintf(os.Stderr, "       twitter_bot --get-mentions\n")
     fmt.Fprintf(os.Stderr, "       twitter_bot --follow handle...\n")
@@ -613,6 +614,16 @@ func main() {
 
     } else if os.Args[1] == "--get-friends" {
         body, err := twitterbot.GetFriends()
+        if err != nil {
+            log.Fatal(err)
+        }
+        err = twitterbot.JsonProcessUsers(body)
+        if err != nil {
+            log.Fatal(err)
+        }
+
+    } else if os.Args[1] == "--get-followers" {
+        body, err := twitterbot.GetFollowers()
         if err != nil {
             log.Fatal(err)
         }
