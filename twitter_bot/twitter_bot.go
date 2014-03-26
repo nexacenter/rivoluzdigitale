@@ -89,6 +89,7 @@ import (
     "bufio"
     "encoding/json"
     "errors"
+    "flag"
     "fmt"
     "github.com/mrjones/oauth"
     "io/ioutil"
@@ -182,7 +183,7 @@ func (self TwitterBot) Follow(screenName string) ([]byte, error) {
                                   self.config["consumerSecret"],
                                   *self.serviceProvider)
 
-    consumer.Debug(true)
+    //consumer.Debug(true)
 
     resp, err := consumer.Post(uri, params, accessToken)
     if err != nil {
@@ -578,20 +579,15 @@ func (self TwitterBot) SearchRealtime() ([]byte, error) {
 }
 
 func usage() {
-    fmt.Fprintf(os.Stderr, "usage: twitter_bot --get-friends\n")
-    fmt.Fprintf(os.Stderr, "       twitter_bot --get-followers\n")
-    fmt.Fprintf(os.Stderr, "       twitter_bot --get-tweets handle\n")
-    fmt.Fprintf(os.Stderr, "       twitter_bot --get-mentions\n")
-    fmt.Fprintf(os.Stderr, "       twitter_bot --follow handle...\n")
-    fmt.Fprintf(os.Stderr, "       twitter_bot --search [--realtime]\n")
+    fmt.Fprintf(os.Stderr,
+      "usage: twitter_bot [-follow user] [-mode mode] [-raw] [-tweets user]\n")
+    fmt.Fprintf(os.Stderr,
+      "                   [-unfollow user]\n")
+    fmt.Fprintf(os.Stderr, "modes: followers friends mentions search\n")
     os.Exit(1)
 }
 
 func main() {
-
-    if len(os.Args) < 2 {
-        usage()
-    }
 
     twitterbot := MakeTwitterBot()
     err := twitterbot.ReadConfigFile()
@@ -599,78 +595,140 @@ func main() {
         log.Fatal(err)
     }
 
-    if os.Args[1] == "--follow" {
-        for _, arg := range os.Args[2:] {
-            arg = strings.Replace(arg, "@", "", 1)
-            body, err := twitterbot.Follow(arg)
-            if err != nil {
-                log.Fatal(err)
-            }
+    var follow = flag.String("follow", "", "Follow the specified user")
+    var mode = flag.String("mode", "",
+      "Select the program mode (friends, followers, mentions, search")
+    var raw = flag.Bool("raw", false, "Output the raw JSON")
+    var tweets = flag.String("tweets", "", "Get tweets of the specified user")
+    var unfollow = flag.String("unfollow", "", "Unfollow the specified user")
+
+    flag.Usage = usage
+    flag.Parse()
+
+    if *follow != "" {
+        *follow = strings.Replace(*follow, "@", "", 1)
+        body, err := twitterbot.Follow(*follow)
+        if err != nil {
+            log.Fatal(err)
+        }
+        if *raw {
             err = twitterbot.JsonPrettyprint(body)
             if err != nil {
                 log.Fatal(err)
             }
+        } else {
+            fmt.Fprintf(os.Stdout, "OK\n")
         }
+        os.Exit(0)
+    }
 
-    } else if os.Args[1] == "--get-friends" {
+    if *unfollow != "" {
+        *unfollow = strings.Replace(*unfollow, "@", "", 1)
+        body, err := twitterbot.Unfollow(*unfollow)
+        if err != nil {
+            log.Fatal(err)
+        }
+        if *raw {
+            err = twitterbot.JsonPrettyprint(body)
+            if err != nil {
+                log.Fatal(err)
+            }
+        } else {
+            fmt.Fprintf(os.Stdout, "OK\n")
+        }
+        os.Exit(0)
+    }
+
+    if *tweets != "" {
+        body, err := twitterbot.GetTweets(*tweets)
+        if err != nil {
+            log.Fatal(err)
+        }
+        if *raw {
+            err = twitterbot.JsonPrettyprint(body)
+        } else {
+            err = twitterbot.JsonProcessTweets(body)
+        }
+        if err != nil {
+            log.Fatal(err)
+        }
+        os.Exit(0)
+    }
+
+    if *mode == "friends" {
         body, err := twitterbot.GetFriends()
         if err != nil {
             log.Fatal(err)
         }
-        err = twitterbot.JsonProcessUsers(body)
+        if *raw {
+            err = twitterbot.JsonPrettyprint(body)
+        } else {
+            err = twitterbot.JsonProcessUsers(body)
+        }
         if err != nil {
             log.Fatal(err)
         }
+        os.Exit(0)
+    }
 
-    } else if os.Args[1] == "--get-followers" {
+    if *mode == "followers" {
         body, err := twitterbot.GetFollowers()
         if err != nil {
             log.Fatal(err)
         }
-        err = twitterbot.JsonProcessUsers(body)
+        if *raw {
+            err = twitterbot.JsonPrettyprint(body)
+        } else {
+            err = twitterbot.JsonProcessUsers(body)
+        }
         if err != nil {
             log.Fatal(err)
         }
+        os.Exit(0)
+    }
 
-    } else if os.Args[1] == "--get-tweets" {
-        body, err := twitterbot.GetTweets(os.Args[2])
-        if err != nil {
-            log.Fatal(err)
-        }
-        err = twitterbot.JsonProcessTweets(body)
-        if err != nil {
-            log.Fatal(err)
-        }
-
-    } else if os.Args[1] == "--get-mentions" {
+    if *mode == "mentions" {
         body, err := twitterbot.GetMentions()
         if err != nil {
             log.Fatal(err)
         }
-        err = twitterbot.JsonProcessTweets(body)
+        if *raw {
+            err = twitterbot.JsonPrettyprint(body)
+        } else {
+            err = twitterbot.JsonProcessTweets(body)
+        }
         if err != nil {
             log.Fatal(err)
         }
+        os.Exit(0)
+    }
 
-    } else if os.Args[1] == "--search" {
+    if *mode == "search" {
+        // Commented out because it's not working yet:
+/*
         if len(os.Args) >= 3 && os.Args[2] == "--realtime" {
             _, err := twitterbot.SearchRealtime()
             if err != nil {
                 log.Fatal(err)
             }
-
-        } else {
-            body, err := twitterbot.Search()
-            if err != nil {
-                log.Fatal(err)
-            }
-            err = twitterbot.JsonProcessTweets(body)
-            if err != nil {
-                log.Fatal(err)
-            }
+            os.Exit(0)
         }
+*/
 
-    } else {
-        usage()
+        body, err := twitterbot.Search()
+        if err != nil {
+            log.Fatal(err)
+        }
+        if *raw {
+            err = twitterbot.JsonPrettyprint(body)
+        } else {
+            err = twitterbot.JsonProcessTweets(body)
+        }
+        if err != nil {
+            log.Fatal(err)
+        }
+        os.Exit(0)
     }
+
+    usage()
 }
