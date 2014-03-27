@@ -1,0 +1,29 @@
+<h3>Verifica che i dati siano corretti e conferma</h3>
+<p>Riceverai una mail sul tuo account di posta del politecnico
+con le istruzioni per completare la registrazione.</p>
+<p><b>Matricola</b>: @MATRICOLA@<br>
+<b>Nome</b>: @NOME@</p>
+<form id="mailConfirm" action="" method="">
+    <input type="submit" value="Conferma" />
+</form>
+
+<script type="text/javascript">
+$("#mailConfirm").bind("submit", function(evt) {
+    console.log(JSON.stringify($("#loginForm").serializeObject()));
+
+    $.ajax({
+        url: "/confirm_sent",
+        type: "POST",
+        contentType: "application/json",
+        data: JSON.stringify($("#loginForm").serializeObject()),
+        success: function (data, textStatus, jqXHR) {
+            $("#step3").html("<b>Conferma avvenuta con successo! Controlla la mail del Politecnico per ultimare la registrazione.</b>");
+        },
+        error: function (jqXHR, textStatus, errorThrown) {
+            $("#step3").html("<b>Si e' verificato un errore.</b>");
+        }               
+    });
+
+    return false;
+});
+</script>

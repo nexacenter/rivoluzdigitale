@@ -1,0 +1,76 @@
+<html>
+<head>
+    <title>Rivoluzione Digitale</title>
+    <meta charset="utf-8"/>
+</head>
+<body>
+    <h3>Completa la tua procedura di registrazione</h3>
+    <p>Inserisci la chiave ricevuta al tuo indirizzo di posta del Politecnico.</p>
+    <form id="passForm" action="" method="">
+        <b>Matricola</b>: <input type="text" name="matricola" id="matricola" pattern="^[1-2][0-9]{5}$" title="Inserisci la matricola SENZA s" required/>
+        <b>Chiave</b>: <input type="text" name="token" id="token" required/>
+    <h3>Scegli la tua password personale</h3>
+        <p><b>Nuova password: </b><input type="password" name="password" id="password" required/><br>
+        <b>Ripeti password: </b><input type="password" name="password1 id="password1" required oninput="check(this)" /></p>
+        <input type="submit" value="Conferma" />
+    </form>
+
+    <script language='javascript' type='text/javascript'>
+    function check(input) {
+        if (input.value != document.getElementById('password').value) {
+            input.setCustomValidity('Attenzione, le due password non coincidono.');
+        }
+        else {
+            input.setCustomValidity('');
+        }
+    }
+    </script>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://raw.github.com/gabrieleromanato/jQuery-MD5/master/jquery.md5.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $.fn.serializeObject = function() {
+                var o = {};
+                var a = this.serializeArray();
+                $.each(a, function() {
+                    if (o[this.name] !== undefined) {
+                        if (!o[this.name].push) {
+                            o[this.name] = [o[this.name]];
+                        }
+                        o[this.name].push(this.value || '');
+                        } else {
+                            o[this.name] = this.value || '';
+                        }
+                    });
+                    return o;
+                };
+          
+            $("#passForm").bind("submit", function(evt) {
+                var matricola = $("#matricola").val();
+                var token = $("#token").val();
+                var password  = $("#password").val();
+
+                var hash = $.md5(matricola+":Area studenti:"+password);
+                console.log(JSON.stringify({matricola: matricola, token: token, hash: hash}));
+
+                $.ajax({
+                    url: "/token_sent",
+                    type: "POST",
+                    contentType: "application/json",
+                    data: JSON.stringify({matricola: matricola, token: token, hash: hash}),
+                    success: function (data, textStatus, jqXHR) {
+                        $("#step2").html(data);
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        $("#step2").html("<b>Si e' verificato un errore.</b>");
+                    }
+                });
+            return false;
+        });
+    });
+    </script>
+
+<div id="step2"></div>
+</body>
+</html>
