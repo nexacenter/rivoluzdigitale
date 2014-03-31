@@ -49,23 +49,18 @@ var saveUsers = function (request, response, matricola, hash) {
 }
 
 var readStudentInfo = function(matricola, callback) {
-    fs.readFileSync("./studenti/s"+matricola+".json", "utf8", function (error, data) {
-        if (error) {
-            utils.internalError(error, request, response);
-            return;
-        }
+    console.info("readStudentInfo: sync reading stud file");
+    var data = fs.readFileSync("./studenti/s"+matricola+".json", "utf8");
 
-        var stud = utils.safelyParseJSON(data);
-                       
-        if (stud === null) {
-            utils.internalError("readStudentInfo: student file parsing error", request, response);
-            return;
-        }
+    var stud = utils.safelyParseJSON(data);
+    if (stud === null) {
+        utils.internalError("readStudentInfo: student file parsing error", request, response);
+        return;
+    }
 
-        console.info("readStudentInfo: personal data whitout error");
+    console.info("readStudentInfo: personal data whitout error");
 
-        callback(stud);
-    });
+    callback(stud);
 }
 
 var writeStudentInfo = function(stud, callback) {

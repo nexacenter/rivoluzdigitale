@@ -1,26 +1,11 @@
+var backend = require("./backend.js");
 var fs = require("fs");
 var utils = require("./utils.js");
 
 var handleRequest = function (request, response, matricola) {
-
-    fs.readFile("./studenti/s"+matricola+".json", "utf8", function (error, data) {
-        if (error) {
-            utils.internalError(error, request, response);
-            return;
-        }
-
-        var obj = utils.safelyParseJSON(data);
-                       
-        if (obj === null) {
-            utils.internalError("private: student file parsing error", request, response);
-            return;
-        }
-
-        console.info("private: personal data whitout error");
-
-        var nome = obj.Nome;
-        var cognome = obj.Cognome;
-
+    backend.readStudentInfo(matricola, function(stud) {
+        var nome = stud.Nome;
+        var cognome = stud.Cognome;
 
         fs.readFile("./html/private.tpl.html", "utf8", function (error, data) {
             console.info("private: sending personal page");
