@@ -59,6 +59,6 @@ exports.handleRequest = function(request, response) {
 
         console.log("login: logged in as: %s", user);
 
-        priv.handleRequest(request, response, user);
+        priv.generatePage(request, response, user);
     });
 };

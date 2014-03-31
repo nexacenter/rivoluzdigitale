@@ -2,7 +2,7 @@ var backend = require("./backend.js");
 var fs = require("fs");
 var utils = require("./utils.js");
 
-var handleRequest = function (request, response, matricola) {
+var generatePage = function (request, response, matricola) {
     backend.readStudentInfo(matricola, function(stud) {
 
         fs.readFile("./html/private.tpl.html", "utf8", function (error, data) {
@@ -25,4 +25,13 @@ var handleRequest = function (request, response, matricola) {
     });
 }
 
-exports.handleRequest = handleRequest;
+var modPage = function (request, response) {
+    utils.readBodyJSON (request, response, function (stud) {
+        backend.writeStudentInfo(stud, function() {
+            generatePage (request, response, stud.Matricola);
+        });
+    });
+}
+
+exports.generatePage = generatePage;
+exports.modPage = modPage;

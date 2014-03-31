@@ -46,14 +46,74 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script type="text/javascript">
         $("#AccountWP").bind("submit", function(evt) {
-            var matricola = @MATRICOLA@;
-            var wikipedia = $("#wp").val();;
-            console.log(JSON.stringify({matricola: matricola, wikipedia: wikipedia}));
+            var matricola = "@MATRICOLA@";
+            var wikipedia = $("#wp").val();
+            console.log(JSON.stringify({Matricola: matricola, Wikipedia: wikipedia}));
             $.ajax({
-                //url: "/mod_sent";
+                url: "/mod_sent",
                 type: "POST",
                 contentType: "application/json",
-                data: JSON.stringify({matricola: matricola, wikipedia: wikipedia}),
+                data: JSON.stringify({Matricola: matricola, Wikipedia: wikipedia}),
+                success: function (data, textStatus, jqXHR) {
+                    $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    $("#step2").html("<b>Si e' verificato un errore.</b><br><br>");
+                }
+            });
+        return false;
+        });
+
+
+        $("#UrlBlog").bind("submit", function(evt) {
+            var matricola = "@MATRICOLA@";
+            var blog = $("#blog").val();
+            console.log(JSON.stringify({Matricola: matricola, Blog: blog}));
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({Matricola: matricola, Blog: blog}),
+                success: function (data, textStatus, jqXHR) {
+                    $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    $("#step2").html("<b>Si e' verificato un errore.</b><br><br>");
+                }
+            });
+        return false;
+        });
+
+
+        $("#AccountTwitter").bind("submit", function(evt) {
+            var matricola = "@MATRICOLA@";
+            var twitter = $("#twitter").val();;
+            console.log(JSON.stringify({Matricola: matricola, Twitter: twitter}));
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({Matricola: matricola, Twitter: twitter}),
+                success: function (data, textStatus, jqXHR) {
+                    $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    $("#step2").html("<b>Si e' verificato un errore.</b><br><br>");
+                }
+            });
+        return false;
+        });
+
+
+        $("#UrlVideo").bind("submit", function(evt) {
+            var matricola = "@MATRICOLA@";
+            var video = $("#video").val();;
+            console.log(JSON.stringify({Matricola: matricola, Video: video}));
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({Matricola: matricola, Video: video}),
                 success: function (data, textStatus, jqXHR) {
                     $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
                 },

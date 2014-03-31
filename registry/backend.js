@@ -64,16 +64,22 @@ var readStudentInfo = function(matricola, callback) {
 }
 
 var writeStudentInfo = function(stud, callback) {
-    var data = JSON.stringify(stud, undefined, 4);
-    fs.writeFileSync("./studenti/s" + stud.Matricola + ".json", data,
-      function (error) {
-          if (error) {
-              utils.internalError("writeStudentInfo: cannot write student file",
-                request, response);
-              return;
-          }
-          console.log("writeStudentInfo: student file written");
-          callback();
+    readStudentInfo (stud.Matricola, function (dati) {
+        
+        if(stud.Blog != undefined)
+            dati.Blog = stud.Blog;
+        if(stud.Twitter != undefined)
+            dati.Twitter = stud.Twitter;
+        if(stud.Video != undefined)
+            dati.Video = stud.Video;
+        if(stud.Wikipedia != undefined)
+            dati.Wikipedia = stud.Wikipedia;
+
+        var data = JSON.stringify(dati, undefined, 4);
+        fs.writeFileSync("./studenti/s" + stud.Matricola + ".json", data);
+    
+        console.log("writeStudentInfo: student file written");
+        callback();
     });
 }
 
