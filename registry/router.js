@@ -5,6 +5,7 @@ var login_once = require("./login_once.js");
 var logout = require("./logout.js");
 var mailer = require("./mailer.js");
 var path = require("path");
+var priv = require("./private.js");
 var signup = require("./signup.js");
 var url = require("url");
 var utils = require("./utils.js");
@@ -16,6 +17,7 @@ var router = {
     },
 
     "/login": login.handleRequest,
+    "/mod_sent": priv.modPage,
     "/logout": logout.handleRequest,
 
     "/signup": signup.servePage,
