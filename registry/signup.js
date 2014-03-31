@@ -53,7 +53,7 @@ exports.handleMatricola = function (request, response) {
         utils.writeHeadVerboseCORS(response, 200, {
             "Content-Type": "text/html"
         });
-        response.end("Risulti già iscritto al sito.");
+        response.end("Risulti gia' iscritto al sito.");
     };
 
     // Write student info to disk and then invoke the callback
@@ -130,10 +130,10 @@ exports.handleMatricola = function (request, response) {
             "Cognome": cognome,
             "Matricola": message.matricola,
             "Token": "",
-            "Blog": "Url blog non ancora presente.",
-            "Twitter": "Account Twitter non ancora presente.",
-            "Wikipedia": "Account Wikipedia non ancora presente.",
-            "Video": "Video non ancora presente."
+            "Blog": "",
+            "Twitter": "",
+            "Wikipedia": "",
+            "Video": ""
         },
         function () {
             possiblySendTemplate(message);
