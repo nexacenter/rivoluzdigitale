@@ -129,7 +129,11 @@ exports.handleMatricola = function (request, response) {
             "Nome": nome,
             "Cognome": cognome,
             "Matricola": message.matricola,
-            "Token": ""
+            "Token": "",
+            "Blog": "Url blog non ancora presente.",
+            "Twitter": "Account Twitter non ancora presente.",
+            "Wikipedia": "Account Wikipedia non ancora presente.",
+            "Video": "Video non ancora presente."
         },
         function () {
             possiblySendTemplate(message);
