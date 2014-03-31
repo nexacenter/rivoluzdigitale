@@ -48,5 +48,41 @@ var saveUsers = function (request, response, matricola, hash) {
     });
 }
 
+var readStudentInfo = function(matricola, callback) {
+    fs.readFileSync("./studenti/s"+matricola+".json", "utf8", function (error, data) {
+        if (error) {
+            utils.internalError(error, request, response);
+            return;
+        }
+
+        var stud = utils.safelyParseJSON(data);
+                       
+        if (stud === null) {
+            utils.internalError("readStudentInfo: student file parsing error", request, response);
+            return;
+        }
+
+        console.info("readStudentInfo: personal data whitout error");
+
+        callback(stud);
+    });
+}
+
+var writeStudentInfo = function(stud, callback) {
+    var data = JSON.stringify(stud, undefined, 4);
+    fs.writeFileSync("./studenti/s" + stud.Matricola + ".json", data,
+      function (error) {
+          if (error) {
+              utils.internalError("writeStudentInfo: cannot write student file",
+                request, response);
+              return;
+          }
+          console.log("writeStudentInfo: student file written");
+          callback();
+    });
+}
+
 exports.getUsers = getUsers;
 exports.saveUsers = saveUsers;
+exports.readStudentInfo = readStudentInfo;
+exports.writeStudentInfo = writeStudentInfo;
