@@ -1,15 +1,25 @@
 <html>
 <head>
     <title>Pagina di @MATRICOLA@</title>
+    <meta charset="utf-8"/>
 </head>
 <body>
     <h3>Ciao @NOME@ @COGNOME@!</h3>
     <p>Questa e' la tua pagina personale, in cui potrai segnalare i tuoi dati.</p>
     <h4>Dati studente</h4>
-    Matricola: @MATRICOLA@<br>
-    <!-- Gruppo:
-    Blog:
-    Wikipedia:-->
+    Matricola: @MATRICOLA@<br><br>
+    <form id="UrlBlog"><b>Url blog</b>: <input type="text" />
+        <input type="submit" value="Modifica"/>
+    </form> - Url blog non ancora presente.<br><br>
+    <form id="AccountTwitter"><b>Account Twitter</b>: <input type="text" />
+        <input type="submit" value="Modifica"/>
+    </form> - Account Twitter non ancora presente.<br><br>
+    <form id="AccountWP"><b>Account Wikipedia</b>: <input type="text" />
+        <input type="submit" value="Modifica"/>
+    </form> - Account Wikipedia non ancora presente.<br><br>
+    <form id="UrlVideo"><b>Url video presentazione</b>: <input type="text" />
+        <input type="submit" value="Modifica"/>
+    </form> - Url video non ancora presente.<br><br>
     <br>
     <a href="/logout">Logout</a>
 </body>
