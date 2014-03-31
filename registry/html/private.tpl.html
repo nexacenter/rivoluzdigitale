@@ -8,19 +8,62 @@
     <p>Questa e' la tua pagina personale, in cui potrai segnalare i tuoi dati.</p>
     <h4>Dati studente</h4>
     Matricola: @MATRICOLA@<br><br>
-    <form id="UrlBlog"><b>Url blog</b>: <input type="text" />
-        <input type="submit" value="Modifica"/>
+
+    <div id="step2"></div>
+
+    <form id="UrlBlog">
+        <b>Url blog</b>: <input type="text" name="blog" id="blog"
+          pattern="^http(|s)\://.*$"
+          title="Inserisci l'url del tuo blog" required/>
+        <input type="submit" value="Modifica"/> es. http://www.example.com
     </form> - @BLOG@<br><br>
-    <form id="AccountTwitter"><b>Account Twitter</b>: <input type="text" />
-        <input type="submit" value="Modifica"/>
+
+    <form id="AccountTwitter">
+        <b>Account Twitter</b>: <input type="text" name="twitter" id="twitter"
+          pattern="^@[A-Za-z0-9_]{1,15}$"
+          title="Inserisci il tuo handle Twitter" required/>
+        <input type="submit" value="Modifica"/> es. @NickTwitter
     </form> - @TWITTER@<br><br>
-    <form id="AccountWP"><b>Account Wikipedia</b>: <input type="text" />
-        <input type="submit" value="Modifica"/>
+
+    <form id="AccountWP">
+        <b>Account Wikipedia</b>: <input type="text" name="wp" id="wp"
+          pattern="^Utente\:.*$"
+          title="Inserisci il tuo nome utente su Wikipedia preceduto da Utente:"
+          required/>
+        <input type="submit" value="Modifica"/> es. Utente:MioNickname
     </form> - @WIKIPEDIA@<br><br>
-    <form id="UrlVideo"><b>Url video presentazione</b>: <input type="text" />
-        <input type="submit" value="Modifica"/>
+
+    <form id="UrlVideo">
+        <b>Url video presentazione</b>: <input type="text" name="video" id="video"
+          pattern="^http(|s)\://.*$"
+          title="Inserisci l'url del tuo video di presentazione" required/>
+        <input type="submit" value="Modifica"/> es. https://www.youtube.com/watch?v=aui6NoM56_k
     </form> - @VIDEO@<br><br>
+
     <br>
     <a href="/logout">Logout</a>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script type="text/javascript">
+        $("#AccountWP").bind("submit", function(evt) {
+            var matricola = @MATRICOLA@;
+            var wikipedia = $("#wp").val();;
+            console.log(JSON.stringify({matricola: matricola, wikipedia: wikipedia}));
+            $.ajax({
+                //url: "/mod_sent";
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({matricola: matricola, wikipedia: wikipedia}),
+                success: function (data, textStatus, jqXHR) {
+                    $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    $("#step2").html("<b>Si e' verificato un errore.</b><br><br>");
+                }
+            });
+        return false;
+        });
+    </script>
+
 </body>
 </html>
