@@ -29,8 +29,8 @@ var generatePage = function (request, response, matricola) {
 var modPage = function (request, response) {
     utils.readBodyJSON (request, response, function (stud) {
         backend.writeStudentInfo(stud, function() {
-            generatePage (request, response, stud.Matricola);
         })
+        generatePage (request, response, stud.Matricola);
     });
 }
 

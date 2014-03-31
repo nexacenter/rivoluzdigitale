@@ -1,3 +1,4 @@
+
 <html>
 <head>
     <title>Pagina di @MATRICOLA@</title>
@@ -9,21 +10,23 @@
     <h4>Dati studente</h4>
     Matricola: @MATRICOLA@<br><br>
 
-    <div id="step2"></div>
-
     <form id="UrlBlog">
         <b>Url blog</b>: <input type="text" name="blog" id="blog"
           pattern="^http(|s)\://.*$" size="42"
           title="Inserisci l'url del tuo blog" required/>
         <input type="submit" value="Modifica"/> <small>es. http://www.example.com</small>
-    </form><ul><li><div id="zoneBlog">@BLOG@</div></li></ul><br>
+    </form>
+    <ul><li><div id="zoneBlog">@BLOG@</div>
+    <div id="infoBlog"></div></li></ul><br>
 
     <form id="AccountTwitter">
         <b>Account Twitter</b>: <input type="text" name="twitter" id="twitter"
           pattern="^@[A-Za-z0-9_]{1,15}$"
           title="Inserisci il tuo handle Twitter" required/>
         <input type="submit" value="Modifica"/> <small>es. @NickTwitter</small>
-    </form><ul><li><div id="zoneTwitter">@TWITTER@</div></li></ul><br>
+    </form>
+    <ul><li><div id="zoneTwitter">@TWITTER@</div>
+    <div id="infoTwitter"></div></li></ul><br>
 
     <form id="AccountWP">
         <b>Account Wikipedia</b>: <input type="text" name="wp" id="wp"
@@ -31,14 +34,18 @@
           title="Inserisci il tuo nome utente su Wikipedia preceduto da Utente:"
           required/>
         <input type="submit" value="Modifica"/> <small>es. Utente:MioNickname</small>
-    </form><ul><li><div id="zoneWP">@WIKIPEDIA@</div></li></ul><br>
+    </form>
+    <ul><li><div id="zoneWP">@WIKIPEDIA@</div>
+    <div id="infoWP"></div></li></ul><br>
 
     <form id="UrlVideo">
         <b>Url video presentazione</b>: <input type="text" name="video" id="video"
           pattern="^http(|s)\://.*$" size="42"
           title="Inserisci l'url del tuo video di presentazione" required/>
         <input type="submit" value="Modifica"/> <small>es. https://www.youtube.com/watch?v=aui6NoM56_k</small>
-    </form><ul><li><div id="zoneVideo">@VIDEO@</div></li></ul><br>
+    </form>
+    <ul><li><div id="zoneVideo">@VIDEO@</div>
+    <div id="infoVideo"></div></li></ul><br>
 
     <br>
     <a href="/logout">Logout</a>
@@ -75,10 +82,10 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Wikipedia: wikipedia}),
                 success: function (data, textStatus, jqXHR) {
-                    $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
+                    window.location.reload();
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
-                    $("#step2").html("<b>Si e' verificato un errore.</b><br><br>");
+                    $("#infoWP").html("<b>Si e' verificato un errore.</b><br><br>");
                 }
             });
         return false;
@@ -95,10 +102,10 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Blog: blog}),
                 success: function (data, textStatus, jqXHR) {
-                    $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
+                    window.location.reload();
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
-                    $("#step2").html("<b>Si e' verificato un errore.</b><br><br>");
+                    $("#infoBlog").html("<b>Si e' verificato un errore.</b><br><br>");
                 }
             });
         return false;
@@ -115,10 +122,10 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Twitter: twitter}),
                 success: function (data, textStatus, jqXHR) {
-                    $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
+                    window.location.reload();
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
-                    $("#step2").html("<b>Si e' verificato un errore.</b><br><br>");
+                    $("#infoTwitter").html("<b>Si e' verificato un errore.</b><br><br>");
                 }
             });
         return false;
@@ -135,10 +142,10 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Video: video}),
                 success: function (data, textStatus, jqXHR) {
-                    $("#step2").html("<b>Modifica avvenuta con successo!</b><br><br>");
+                    window.location.reload();
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
-                    $("#step2").html("<b>Si e' verificato un errore.</b><br><br>");
+                    $("#infoVideo").html("<b>Si e' verificato un errore.</b><br><br>");
                 }
             });
         return false;
