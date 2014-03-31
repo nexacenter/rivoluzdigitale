@@ -29,6 +29,7 @@
 // Handles the /signup and the /reset requests
 //
 
+var backend = require("./backend.js");
 var crypto = require("crypto");
 var fs = require("fs");
 var mailer = require("./mailer.js");
@@ -95,21 +96,7 @@ exports.handleMatricola = function (request, response) {
 
     // If needed, generates a new token and sends the template back
     function possiblySendTemplate(message) {
-        fs.readFile("./studenti/s" + message.matricola + ".json", "utf8",
-          function (error, data) {
-
-            if (error) {
-                utils.internalError("signup: cannot read student file",
-                  request, response);
-                return;
-            }
-            var studentInfo = utils.safelyParseJSON(data);
-            if (studentInfo === null) {
-                utils.internalError("signup: cannot parse student file",
-                  request, response);
-                return;
-            }
-
+        backend.readStudentInfo(message.matricola, function(studentInfo) {
             try {
                 studentInfo.Token = crypto.randomBytes(20).toString("hex");
             } catch (error) {

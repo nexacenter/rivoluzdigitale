@@ -3,19 +3,7 @@ var fs = require("fs");
 var utils = require("./utils.js");
 
 var handleRequest = function (request, response, matricola, token, hash) {
-    fs.readFile ("./studenti/s"+matricola+".json", "utf8", function (error, data) {
-        console.info("login_once: opening stud file");
-        if (error) {
-            utils.internalError(error, request, response);
-            return;
-        }
-        
-        obj = utils.safelyParseJSON(data);
-        if (obj === null) {
-            utils.internalError("login_once: student json parsing error", request, response);
-            return;
-        }
-
+    backend.readStudentInfo(matricola, function(obj) {
         if (obj.Token != token) {
             console.info("login_once: wrong token");
             utils.writeHeadVerboseCORS(response, 200, {
