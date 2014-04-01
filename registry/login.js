@@ -39,56 +39,39 @@ var utils = require("./utils.js");
 
 var realm = "Area studenti";
 
-//
-// XXX If we receive a login request before readFile() completes,
-// the login will fail because users is empty.
-//
-exports.handleRequest = function(request, response) {
+function verifyLogin (request, response, callback) {
+
     backend.getUsers(function (error, users) {
 
         if (error) {
             utils.internalError(error, request, response);
             return;
         }
-        
-        var user = utils.safelyLogin(request, response, realm, users);
 
+        var user = utils.safelyLogin(request, response, realm, users);
         if (user === false) {
             console.log("login: unauthorized");
             response.writeHead(401, {
                 'Content-Type': 'text/html',
                 'WWW-Authenticate': 'Digest realm="' + realm + '",qop="auth"'
             });
+            response.end();
             return;
         }
 
         console.log("login: logged in as: %s", user);
+        callback(user);
+    });
+}
 
+exports.handleRequest = function(request, response) {
+    verifyLogin(request, response, function (user) {
         priv.generatePage(request, response, user);
     });
 };
 
 exports.modPage = function(request, response) {
-    backend.getUsers(function (error, users) {
-
-        if (error) {
-            utils.internalError(error, request, response);
-            return;
-        }
-        
-        var user = utils.safelyLogin(request, response, realm, users);
-
-        if (user === false) {
-            console.log("login: unauthorized");
-            response.writeHead(401, {
-                'Content-Type': 'text/html',
-                'WWW-Authenticate': 'Digest realm="' + realm + '",qop="auth"'
-            });
-            return;
-        }
-
-        console.log("login: logged in as: %s", user);
-
+    verifyLogin(request, response, function () {
         priv.modPage(request, response);
     });
 };
