@@ -44,7 +44,12 @@ var realm = "Area studenti";
 // the login will fail because users is empty.
 //
 exports.handleRequest = function(request, response) {
-    backend.getUsers(function (users) {
+    backend.getUsers(function (error, users) {
+
+        if (error) {
+            utils.internalError(error, request, response);
+            return;
+        }
         
         var user = utils.safelyLogin(request, response, realm, users);
 
@@ -64,7 +69,12 @@ exports.handleRequest = function(request, response) {
 };
 
 exports.modPage = function(request, response) {
-    backend.getUsers(function (users) {
+    backend.getUsers(function (error, users) {
+
+        if (error) {
+            utils.internalError(error, request, response);
+            return;
+        }
         
         var user = utils.safelyLogin(request, response, realm, users);
 

@@ -1,4 +1,4 @@
-// registry/utils.js
+// REGISTry/utils.js
 
 /*
  * Copyright (c) 2014
@@ -163,6 +163,26 @@ exports.servePath__ = function (filename, response) {
         stream = fs.createReadStream(localPath);
         stream.pipe(response);
     });
+};
+
+exports.readFileSync = function (pathname, encoding, callback) {
+    try {
+        var data = fs.readFileSync(pathname, encoding);
+        callback(null, data);
+    } catch (error) {
+        console.warn("readFileSync: %s", error);
+        callback(error);
+    }
+};
+
+exports.writeFileSync = function (pathname, data, callback) {
+    try {
+        fs.writeFileSync(pathname, data);
+        callback();
+    } catch (error) {
+        console.warn("writeFileSync: %s", error);
+        callback(error);
+    }
 };
 
 //

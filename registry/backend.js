@@ -6,32 +6,37 @@ function fixStringCase(str) {
 }
 
 var getUsers = function (callback) {
-    fs.readFile("studenti/.htpasswd", "utf8", function (error, data) {
+
+    utils.readFileSync("studenti/.htpasswd", "utf8",
+      function (error, data) {
+
+        if (error) {
+            console.error("backend: cannot read passwd file");
+            callback(error);
+            return;
+        }
+
         console.info("getUsers: opening passwd file");
+
         var users = utils.safelyParseJSON(data);
         if (users === null) {
             console.error("getUsers: invalid passwd file");
             callback(error);
             return;
         }
+
         console.info("getUsers: imported %d users", Object.keys(users).length);
-        callback(users);
+
+        callback(null, users);
     });
 }
 
 var saveUsers = function (request, response, matricola, hash) {
-    fs.readFile ("studenti/.htpasswd", "utf8", function (error, data) {
-        console.info("saveUsers: opening pw file");
+
+    exports.getUsers(function (error, users) {
 
         if (error) {
             utils.internalError(error, request, response);
-            return;
-        }
-
-        var users = utils.safelyParseJSON(data);
-
-        if (users === null) {
-            console.info("saveUsers: invalid passwd file");
             return;
         }
 
@@ -39,15 +44,16 @@ var saveUsers = function (request, response, matricola, hash) {
 
         data = JSON.stringify(users, undefined, 4);
 
-        fs.writeFile("studenti/.htpasswd", data, function (error) {
+        utils.writeFileSync("studenti/.htpasswd", data, function (error) {
+            if (error) {
+                utils.internalError(error, request, response);
+                return;
+            }
             console.log("login_once: password stored for %s",matricola);
-
             utils.writeHeadVerboseCORS(response, 200, {
                 "Content-Type": "text/html"
             });
             response.end("Password aggiunta con successo!");
-
-
         });
 
     });
@@ -55,21 +61,34 @@ var saveUsers = function (request, response, matricola, hash) {
 
 var readStudentInfo = function(matricola, callback) {
     console.info("readStudentInfo: sync reading stud file");
-    var data = fs.readFileSync("./studenti/s"+matricola+".json", "utf8");
 
-    var stud = utils.safelyParseJSON(data);
-    if (stud === null) {
-        utils.internalError("readStudentInfo: student file parsing error", request, response);
-        return;
-    }
+    utils.readFileSync("./studenti/s" + matricola + ".json", "utf8",
+      function (error, data) {
+        if (error) {
+            console.error("readStudentInfo: cannot read student's file");
+            callback(error);
+            return;
+        }
 
-    console.info("readStudentInfo: personal data whitout error");
+        var stud = utils.safelyParseJSON(data);
+        if (stud === null) {
+            utils.internalError("readStudentInfo: student file parsing error", request, response);
+            return;
+        }
 
-    callback(stud);
+        console.info("readStudentInfo: personal data whitout error");
+
+        callback(null, stud);
+    });
 }
 
 var writeStudentInfo = function(stud, callback) {
-    readStudentInfo (stud.Matricola, function (dati) {
+    readStudentInfo(stud.Matricola, function (error, dati) {
+
+        if (error) {
+            callback(error);
+            return;
+        }
         
         if(stud.Blog != undefined)
             dati.Blog = stud.Blog;
@@ -85,10 +104,17 @@ var writeStudentInfo = function(stud, callback) {
         dati.Nome = fixStringCase(dati.Nome);
 
         var data = JSON.stringify(dati, undefined, 4);
-        fs.writeFileSync("./studenti/s" + stud.Matricola + ".json", data);
+        utils.writeFileSync("./studenti/s" + stud.Matricola + ".json", data,
+          function (error) {
+            if (error) {
+                console.warn("backend: cannot write student's file");
+                callback(error);
+                return;
+            }
     
-        console.log("writeStudentInfo: student file written");
-        callback();
+            console.log("backend: student file written");
+            callback(null);
+        });
     });
 }
 
