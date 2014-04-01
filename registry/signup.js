@@ -128,7 +128,7 @@ exports.handleMatricola = function (request, response) {
     }
 
     utils.readBodyJSON(request, response, function (message) {
-        fs.readFile("studenti-rd.json", "utf8", function (error, data) {
+        fs.readFile("studenti/iscritti.json", "utf8", function (error, data) {
             var i, vector;
 
             if (error) {
