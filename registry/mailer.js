@@ -48,12 +48,17 @@ var mailConf = {};
 
 exports.init = function (callback) {
     fs.readFile(".mailpasswd", "utf8", function (error, data) {
-        console.info("mailer: opening config file");
+        console.info("mailer: config: opening file");
         mailConf = utils.safelyParseJSON(data);
         if (mailConf === null) {
-            console.error("mailer: invalid config file");
+            console.error("mailer: config: invalid file");
             process.exit(1);
         }
+        if (mailConf.override !== undefined) {
+            console.warn("mailer: config: OVERRIDE to <%s>", mailConf.override);
+            console.warn("mailer: config: assuming you are testing the registry...");
+        }
+        console.info("mailer: config: success");
         callback();
     });
 };
@@ -79,6 +84,12 @@ exports.sendToken = function (matricola) {
         token = student.Token;
 
         address = "s" + matricola + "@studenti.polito.it";
+
+        // Override the destination address for testing purpose
+        if (mailConf.override !== undefined) {
+            console.warn("mailer: honor OVERRIDE <%s>", mailConf.override);
+            address = mailConf.override;
+        }
 
         exports.reallySendToken__(address, token);
     });
