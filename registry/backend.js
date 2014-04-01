@@ -83,39 +83,58 @@ exports.readStudentInfo = function(matricola, callback) {
     });
 };
 
-exports.writeStudentInfo = function(stud, callback) {
-    exports.readStudentInfo(stud.Matricola, function (error, curInfo) {
-        var data;
+function doWriteInfo(curInfo, callback) {
+    var data;
 
+    // I hate all uppercase
+    curInfo.Cognome = fixStringCase(curInfo.Cognome);
+    curInfo.Nome = fixStringCase(curInfo.Nome);
+
+    data = JSON.stringify(curInfo, undefined, 4);
+    utils.writeFileSync("./studenti/s" + curInfo.Matricola + ".json", data,
+      function (error) {
+        if (error) {
+            console.warn("backend: cannot write student's file");
+            callback(error);
+            return;
+        }
+    
+        console.log("backend: student file written");
+        callback();
+    });
+};
+
+var knownKeys = [
+    "Nome",
+    "Cognome",
+    "Matricola",
+    "Token",
+    "Blog",
+    "Twitter",
+    "Wikipedia",
+    "Video"
+];
+
+exports.writeStudentInfo = function(newInfo, callback) {
+    exports.readStudentInfo(newInfo.Matricola, function (error, savedInfo) {
+        var index, key;
+
+        if (error && error.code === "ENOENT") {
+            doWriteInfo(newInfo, callback);
+            return;
+        }
         if (error) {
             callback(error);
             return;
         }
-        
-        if (stud.Blog != undefined)
-            curInfo.Blog = stud.Blog;
-        if (stud.Twitter != undefined)
-            curInfo.Twitter = stud.Twitter;
-        if (stud.Video != undefined)
-            curInfo.Video = stud.Video;
-        if (stud.Wikipedia != undefined)
-            curInfo.Wikipedia = stud.Wikipedia;
 
-        // I hate all uppercase
-        curInfo.Cognome = fixStringCase(curInfo.Cognome);
-        curInfo.Nome = fixStringCase(curInfo.Nome);
+        for (index = 0; index < knownKeys.length; ++index) {
+            key = knownKeys[index];
+            if (newInfo[key] === undefined)
+                continue;
+            savedInfo[key] = newInfo[key];
+        }
 
-        data = JSON.stringify(curInfo, undefined, 4);
-        utils.writeFileSync("./studenti/s" + stud.Matricola + ".json", data,
-          function (error) {
-            if (error) {
-                console.warn("backend: cannot write student's file");
-                callback(error);
-                return;
-            }
-    
-            console.log("backend: student file written");
-            callback(null);
-        });
+        doWriteInfo(savedInfo, callback);
     });
 };
