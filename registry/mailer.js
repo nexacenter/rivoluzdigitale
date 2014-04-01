@@ -33,14 +33,25 @@ var nodemailer = require("nodemailer");
 var fs = require("fs");
 var utils = require("./utils.js");
 
-var mailAuth = {};
+/*-
+ * Example JSON:
+ *
+ *   {
+ *    "sender": "nobody@example.com",
+ *    "auth" {
+ *         "user": "nobody@example.com",
+ *         "pass": "boydon"
+ *     }
+ *   }
+ */
+var mailConf = {};
 
 exports.init = function (callback) {
     fs.readFile(".mailpasswd", "utf8", function (error, data) {
-        console.info("mailer: opening passwd file");
-        mailAuth = utils.safelyParseJSON(data);
-        if (mailAuth === null) {
-            console.error("mailer: invalid passwd file");
+        console.info("mailer: opening config file");
+        mailConf = utils.safelyParseJSON(data);
+        if (mailConf === null) {
+            console.error("mailer: invalid config file");
             process.exit(1);
         }
         callback();
@@ -79,13 +90,13 @@ exports.reallySendToken__ = function(address, token) {
 
     smtpTransport = nodemailer.createTransport("SMTP", {
         service: "Gmail",
-        auth: mailAuth
+        auth: mailConf["auth"]
     });
 
     var mailOptions = {
-        from: "Rivoluzione Digitale <alessiom92@gmail.com>",
+        from: mailConf["sender"],
         to: address,
-        bcc: "alessiom92@gmail.com",
+        bcc: mailConf["sender"],
         subject: "Registrazione sul server RD",
         text: "Questa e' una mail automatica proveniente dal server " +
               "del corso Rivoluzione Digitale:\n\n" +
