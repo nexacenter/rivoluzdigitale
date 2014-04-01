@@ -33,25 +33,24 @@ var nodemailer = require("nodemailer");
 var fs = require("fs");
 var utils = require("./utils.js");
 
-//
-// XXX If we receive a request to send an email before readFile() completes,
-// the mailer will fail because mailAuth is empty.
-//
 var mailAuth = {};
 
-fs.readFile(".mailpasswd", "utf8", function (error, data) {
-    console.info("mailer: opening passwd file");
-    mailAuth = utils.safelyParseJSON(data);
-    if (mailAuth === null) {
-        console.error("mailer: invalid passwd file");
-        process.exit(1);
-    }
-});
+exports.init = function (callback) {
+    fs.readFile(".mailpasswd", "utf8", function (error, data) {
+        console.info("mailer: opening passwd file");
+        mailAuth = utils.safelyParseJSON(data);
+        if (mailAuth === null) {
+            console.error("mailer: invalid passwd file");
+            process.exit(1);
+        }
+        callback();
+    });
+};
 
 exports.sendToken = function (matricola) {
     fs.readFile("./studenti/s" + matricola + ".json",
       "utf8", function (error, data) {
-        var smtpTransport, student, token;
+        var address, student, token;
 
         if (error) {
             console.warn("mailer: cannot open student file");
@@ -68,31 +67,40 @@ exports.sendToken = function (matricola) {
         }
         token = student.Token;
 
-        smtpTransport = nodemailer.createTransport("SMTP", {
-            service: "Gmail",
-            auth: mailAuth
-        });
+        address = "s" + matricola + "@studenti.polito.it";
 
-        var mailOptions = {
-            from: "Rivoluzione Digitale <alessiom92@gmail.com>",
-            to: "s" + matricola + "@studenti.polito.it",
-            bcc: "alessiom92@gmail.com",
-            subject: "Registrazione sul server RD",
-            text: "Questa e' una mail automatica proveniente dal server " +
-                  "del corso Rivoluzione Digitale:\n\n" +
-                  "Per completare la registrazione vai su: " +
-                  "http://kingslanding.polito.it:8080/login_once " +
-                  "e inserisci la chiave.\n\n" +
-                  "Chiave: " + token + "\n"
-        };
+        exports.reallySendToken__(address, token);
+    });
+};
 
-        smtpTransport.sendMail(mailOptions, function(error, response) {
-            if (error) {
-                console.warn(error);
-            } else {
-                console.info("mailer: message sent");
-            }
-            smtpTransport.close();
-        });
+// Separate semi-private function for testability
+exports.reallySendToken__ = function(address, token) {
+    var smtpTransport;
+
+    smtpTransport = nodemailer.createTransport("SMTP", {
+        service: "Gmail",
+        auth: mailAuth
+    });
+
+    var mailOptions = {
+        from: "Rivoluzione Digitale <alessiom92@gmail.com>",
+        to: address,
+        bcc: "alessiom92@gmail.com",
+        subject: "Registrazione sul server RD",
+        text: "Questa e' una mail automatica proveniente dal server " +
+              "del corso Rivoluzione Digitale:\n\n" +
+              "Per completare la registrazione vai su: " +
+              "http://kingslanding.polito.it:8080/login_once " +
+              "e inserisci la chiave.\n\n" +
+              "Chiave: " + token + "\n"
+    };
+
+    smtpTransport.sendMail(mailOptions, function(error, response) {
+        if (error) {
+            console.warn(error);
+        } else {
+            console.info("mailer: message sent");
+        }
+        smtpTransport.close();
     });
 };
