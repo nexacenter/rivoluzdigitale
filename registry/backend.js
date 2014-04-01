@@ -2,7 +2,7 @@ var fs = require ("fs");
 var utils = require ("./utils.js");
 
 var getUsers = function (callback) {
-    fs.readFile(".htpasswd", "utf8", function (error, data) {
+    fs.readFile("studenti/.htpasswd", "utf8", function (error, data) {
         console.info("getUsers: opening passwd file");
         var users = utils.safelyParseJSON(data);
         if (users === null) {
@@ -15,7 +15,7 @@ var getUsers = function (callback) {
 }
 
 var saveUsers = function (request, response, matricola, hash) {
-    fs.readFile (".htpasswd", "utf8", function (error, data) {
+    fs.readFile ("studenti/.htpasswd", "utf8", function (error, data) {
         console.info("saveUsers: opening pw file");
 
         if (error) {
@@ -34,7 +34,7 @@ var saveUsers = function (request, response, matricola, hash) {
 
         data = JSON.stringify(users, undefined, 4);
 
-        fs.writeFile(".htpasswd", data, function (error) {
+        fs.writeFile("studenti/.htpasswd", data, function (error) {
             console.log("login_once: password stored for %s",matricola);
 
             utils.writeHeadVerboseCORS(response, 200, {
