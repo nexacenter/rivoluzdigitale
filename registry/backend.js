@@ -1,6 +1,10 @@
 var fs = require ("fs");
 var utils = require ("./utils.js");
 
+function fixStringCase(str) {
+    return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
+}
+
 var getUsers = function (callback) {
     fs.readFile("studenti/.htpasswd", "utf8", function (error, data) {
         console.info("getUsers: opening passwd file");
@@ -74,6 +78,10 @@ var writeStudentInfo = function(stud, callback) {
             dati.Video = stud.Video;
         if(stud.Wikipedia != undefined)
             dati.Wikipedia = stud.Wikipedia;
+
+        // I hate all uppercase
+        dati.Cognome = fixStringCase(dati.Cognome);
+        dati.Nome = fixStringCase(dati.Nome);
 
         var data = JSON.stringify(dati, undefined, 4);
         fs.writeFileSync("./studenti/s" + stud.Matricola + ".json", data);
