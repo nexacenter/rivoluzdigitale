@@ -97,6 +97,7 @@ import (
     "os"
     "reflect"
     "strings"
+    "time"
 )
 
 type TwitterBot struct {
@@ -321,13 +322,14 @@ func (self TwitterBot) Search() ([]byte, error) {
     return body, nil
 }
 
-func (self TwitterBot) GetFollowers() ([]byte, error) {
+func (self TwitterBot) GetFollowers(cursor string) ([]byte, error) {
     const uri = "https://api.twitter.com/1.1/followers/list.json"
     params := map[string]string{
         "count": "1000",
         "screen_name": self.config["twitterHandle"],
         "skip_status": "1",
         "include_user_entities": "0",
+        "cursor": cursor,
     }
     accessToken := &oauth.AccessToken{
         Token: self.config["accessToken"],
@@ -383,6 +385,27 @@ func (self TwitterBot) GetTweets(user string) ([]byte, error) {
     }
 
     return body, nil
+}
+
+func (TwitterBot) JsonFindCursor(data []byte) (string, error) {
+    var result interface{}
+
+    err := json.Unmarshal(data, &result)
+    if err != nil {
+        return "", err
+    }
+
+    /*
+     * XXX I failed to unmarshal into a structure, so I used reflection
+     * to parse the result. This is probably overkill.
+     */
+    if reflect.TypeOf(result).Kind() != reflect.Map {
+        return "", errors.New("returned object is not a map")
+    }
+    message := result.(map[string]interface{})
+    cursor := message["next_cursor_str"]
+
+    return cursor.(string), nil
 }
 
 func (TwitterBot) JsonProcessUsers(data []byte) error {
@@ -519,7 +542,7 @@ func (TwitterBot) JsonPrettyprint(data []byte) error {
     if err != nil {
         return err
     }
-    _, err = fmt.Printf("%s\n", data)
+    _, err = fmt.Printf("%s\n\n\n", data)
 
     return err
 }
@@ -580,9 +603,9 @@ func (self TwitterBot) SearchRealtime() ([]byte, error) {
 
 func usage() {
     fmt.Fprintf(os.Stderr,
-      "usage: twitter_bot [-follow user] [-mode mode] [-raw] [-tweets user]\n")
+      "usage: twitter_bot [-all] [-follow user] [-mode mode] [-raw]\n")
     fmt.Fprintf(os.Stderr,
-      "                   [-unfollow user]\n")
+      "                   [-tweets user] [-unfollow user]\n")
     fmt.Fprintf(os.Stderr, "modes: followers friends mentions search\n")
     os.Exit(1)
 }
@@ -595,6 +618,7 @@ func main() {
         log.Fatal(err)
     }
 
+    var all = flag.Bool("all", false, "Get all, not just first page")
     var follow = flag.String("follow", "", "Follow the specified user")
     var mode = flag.String("mode", "",
       "Select the program mode (friends, followers, mentions, search")
@@ -672,17 +696,32 @@ func main() {
     }
 
     if *mode == "followers" {
-        body, err := twitterbot.GetFollowers()
-        if err != nil {
-            log.Fatal(err)
-        }
-        if *raw {
-            err = twitterbot.JsonPrettyprint(body)
-        } else {
-            err = twitterbot.JsonProcessUsers(body)
-        }
-        if err != nil {
-            log.Fatal(err)
+        cursor := "-1"
+        for {
+            body, err := twitterbot.GetFollowers(cursor)
+            if err != nil {
+                log.Fatal(err)
+            }
+            cursor, err = twitterbot.JsonFindCursor(body)
+            if err != nil {
+                log.Fatal(err)
+            }
+            //fmt.Fprintf(os.Stdout, "cursor: %s\n", cursor)
+            if (cursor == "0") {
+                break
+            }
+            time.Sleep(1500 * time.Millisecond)
+            if *raw {
+                err = twitterbot.JsonPrettyprint(body)
+            } else {
+                err = twitterbot.JsonProcessUsers(body)
+            }
+            if err != nil {
+                log.Fatal(err)
+            }
+            if !*all {
+                break
+            }
         }
         os.Exit(0)
     }
