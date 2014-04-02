@@ -45,7 +45,7 @@ var realm = "Area studenti";
 //
 exports.handleRequest = function(request, response) {
     backend.getUsers(function (users) {
-        console.info(users);
+        
         var user = utils.safelyLogin(request, response, realm, users);
 
         if (user === false) {
@@ -59,6 +59,26 @@ exports.handleRequest = function(request, response) {
 
         console.log("login: logged in as: %s", user);
 
-        priv.handleRequest(request, response, user);
+        priv.generatePage(request, response, user);
+    });
+};
+
+exports.modPage = function(request, response) {
+    backend.getUsers(function (users) {
+        
+        var user = utils.safelyLogin(request, response, realm, users);
+
+        if (user === false) {
+            console.log("login: unauthorized");
+            response.writeHead(401, {
+                'Content-Type': 'text/html',
+                'WWW-Authenticate': 'Digest realm="' + realm + '",qop="auth"'
+            });
+            return;
+        }
+
+        console.log("login: logged in as: %s", user);
+
+        priv.modPage(request, response);
     });
 };

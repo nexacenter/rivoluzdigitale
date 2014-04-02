@@ -1,33 +1,21 @@
+var backend = require("./backend.js");
 var fs = require("fs");
 var utils = require("./utils.js");
 
-var handleRequest = function (request, response, matricola) {
-
-    fs.readFile("./studenti/s"+matricola+".json", "utf8", function (error, data) {
-        if (error) {
-            utils.internalError(error, request, response);
-            return;
-        }
-
-        var obj = utils.safelyParseJSON(data);
-                       
-        if (obj === null) {
-            utils.internalError("private: student file parsing error", request, response);
-            return;
-        }
-
-        console.info("private: personal data whitout error");
-
-        var nome = obj.Nome;
-        var cognome = obj.Cognome;
-
+var generatePage = function (request, response, matricola) {
+    backend.readStudentInfo(matricola, function(stud) {
 
         fs.readFile("./html/private.tpl.html", "utf8", function (error, data) {
             console.info("private: sending personal page");
             data = data.replace(/@MATRICOLA@/g, matricola);
-            data = data.replace(/@NOME@/g, nome);
-            data = data.replace(/@COGNOME@/g, cognome);
-                        
+            data = data.replace(/@NOME@/g, stud.Nome);
+            data = data.replace(/@COGNOME@/g, stud.Cognome);
+    
+            data = data.replace(/@BLOG@/g, stud.Blog);
+            data = data.replace(/@TWITTER@/g, stud.Twitter);
+            data = data.replace(/@WIKIPEDIA@/g, stud.Wikipedia);
+            data = data.replace(/@VIDEO@/g, stud.Video);
+
             utils.writeHeadVerboseCORS(response, 200, {
                 "Content-Type": "text/html"
             });
@@ -38,4 +26,13 @@ var handleRequest = function (request, response, matricola) {
     });
 }
 
-exports.handleRequest = handleRequest;
+var modPage = function (request, response) {
+    utils.readBodyJSON (request, response, function (stud) {
+        backend.writeStudentInfo(stud, function() {
+        })
+        generatePage (request, response, stud.Matricola);
+    });
+}
+
+exports.generatePage = generatePage;
+exports.modPage = modPage;

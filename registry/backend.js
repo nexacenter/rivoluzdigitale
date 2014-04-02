@@ -48,5 +48,42 @@ var saveUsers = function (request, response, matricola, hash) {
     });
 }
 
+var readStudentInfo = function(matricola, callback) {
+    console.info("readStudentInfo: sync reading stud file");
+    var data = fs.readFileSync("./studenti/s"+matricola+".json", "utf8");
+
+    var stud = utils.safelyParseJSON(data);
+    if (stud === null) {
+        utils.internalError("readStudentInfo: student file parsing error", request, response);
+        return;
+    }
+
+    console.info("readStudentInfo: personal data whitout error");
+
+    callback(stud);
+}
+
+var writeStudentInfo = function(stud, callback) {
+    readStudentInfo (stud.Matricola, function (dati) {
+        
+        if(stud.Blog != undefined)
+            dati.Blog = stud.Blog;
+        if(stud.Twitter != undefined)
+            dati.Twitter = stud.Twitter;
+        if(stud.Video != undefined)
+            dati.Video = stud.Video;
+        if(stud.Wikipedia != undefined)
+            dati.Wikipedia = stud.Wikipedia;
+
+        var data = JSON.stringify(dati, undefined, 4);
+        fs.writeFileSync("./studenti/s" + stud.Matricola + ".json", data);
+    
+        console.log("writeStudentInfo: student file written");
+        callback();
+    });
+}
+
 exports.getUsers = getUsers;
 exports.saveUsers = saveUsers;
+exports.readStudentInfo = readStudentInfo;
+exports.writeStudentInfo = writeStudentInfo;

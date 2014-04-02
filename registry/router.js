@@ -16,6 +16,7 @@ var router = {
     },
 
     "/login": login.handleRequest,
+    "/mod_sent": login.modPage,
     "/logout": logout.handleRequest,
 
     "/signup": signup.servePage,

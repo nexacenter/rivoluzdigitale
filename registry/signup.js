@@ -29,6 +29,7 @@
 // Handles the /signup and the /reset requests
 //
 
+var backend = require("./backend.js");
 var crypto = require("crypto");
 var fs = require("fs");
 var mailer = require("./mailer.js");
@@ -53,7 +54,7 @@ exports.handleMatricola = function (request, response) {
         utils.writeHeadVerboseCORS(response, 200, {
             "Content-Type": "text/html"
         });
-        response.end("Risulti già iscritto al sito.");
+        response.end("Risulti gia' iscritto al sito.");
     };
 
     // Write student info to disk and then invoke the callback
@@ -95,21 +96,7 @@ exports.handleMatricola = function (request, response) {
 
     // If needed, generates a new token and sends the template back
     function possiblySendTemplate(message) {
-        fs.readFile("./studenti/s" + message.matricola + ".json", "utf8",
-          function (error, data) {
-
-            if (error) {
-                utils.internalError("signup: cannot read student file",
-                  request, response);
-                return;
-            }
-            var studentInfo = utils.safelyParseJSON(data);
-            if (studentInfo === null) {
-                utils.internalError("signup: cannot parse student file",
-                  request, response);
-                return;
-            }
-
+        backend.readStudentInfo(message.matricola, function(studentInfo) {
             try {
                 studentInfo.Token = crypto.randomBytes(20).toString("hex");
             } catch (error) {
@@ -129,7 +116,11 @@ exports.handleMatricola = function (request, response) {
             "Nome": nome,
             "Cognome": cognome,
             "Matricola": message.matricola,
-            "Token": ""
+            "Token": "",
+            "Blog": "",
+            "Twitter": "",
+            "Wikipedia": "",
+            "Video": ""
         },
         function () {
             possiblySendTemplate(message);
