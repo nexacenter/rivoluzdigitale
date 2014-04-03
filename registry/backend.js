@@ -72,7 +72,7 @@ var readStudentInfo = function(matricola, callback) {
 
         var stud = utils.safelyParseJSON(data);
         if (stud === null) {
-            utils.internalError("readStudentInfo: student file parsing error", request, response);
+            callback("json error");
             return;
         }
 
