@@ -115,6 +115,17 @@ var knownKeys = [
     "Video"
 ];
 
+var knownRegExp = [
+    /^[A-Za-z\'\- ]+$/,
+    /^[A-Za-z\'\- ]+$/,
+    /^[1-2][0-9]{5}$/,
+    /^(|[a-f0-9]{20})$/,
+    /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
+    /^(|@[A-Za-z0-9_]{1,15})$/,
+    /^(|(U|u)tente\:.*)$/,
+    /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/
+];
+
 exports.writeStudentInfo = function(newInfo, callback) {
     exports.readStudentInfo(newInfo.Matricola, function (error, savedInfo) {
         var index, key;
@@ -132,6 +143,12 @@ exports.writeStudentInfo = function(newInfo, callback) {
             key = knownKeys[index];
             if (newInfo[key] === undefined)
                 continue;
+            if (newInfo[key].match( knownRegExp[index] ) === null) {
+                console.info("backend: regexp does not match");
+                callback(error);
+                return;
+            }
+            console.info("backend: regexp match");
             savedInfo[key] = newInfo[key];
         }
 

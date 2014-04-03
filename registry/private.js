@@ -33,7 +33,7 @@ var generatePage = function (request, response, matricola) {
 var modPage = function (request, response) {
     utils.readBodyJSON (request, response, function (stud) {
         backend.writeStudentInfo(stud, function (error) {
-            // ??? FIXME !!!
+            //TODO send updated data
         })
         generatePage (request, response, stud.Matricola);
     });
