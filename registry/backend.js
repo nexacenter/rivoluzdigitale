@@ -11,7 +11,8 @@ var getUsers = function (callback) {
         var users = utils.safelyParseJSON(data);
         if (users === null) {
             console.error("getUsers: invalid passwd file");
-            process.exit(1);
+            callback(error);
+            return;
         }
         console.info("getUsers: imported %d users", Object.keys(users).length);
         callback(users);
