@@ -5,7 +5,8 @@ function fixStringCase(str) {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
 }
 
-var getUsers = function (callback) {
+exports.getUsers = function (callback) {
+    var users;
 
     utils.readFileSync("studenti/.htpasswd", "utf8",
       function (error, data) {
@@ -16,22 +17,22 @@ var getUsers = function (callback) {
             return;
         }
 
-        console.info("getUsers: opening passwd file");
+        console.info("backend: opening passwd file");
 
-        var users = utils.safelyParseJSON(data);
+        users = utils.safelyParseJSON(data);
         if (users === null) {
             console.error("getUsers: invalid passwd file");
             callback(error);
             return;
         }
 
-        console.info("getUsers: imported %d users", Object.keys(users).length);
+        console.info("backend: imported %d users", Object.keys(users).length);
 
         callback(null, users);
     });
-}
+};
 
-var saveUsers = function (request, response, matricola, hash) {
+exports.saveUsers = function (request, response, matricola, hash) {
 
     exports.getUsers(function (error, users) {
 
@@ -57,15 +58,15 @@ var saveUsers = function (request, response, matricola, hash) {
         });
 
     });
-}
+};
 
-var readStudentInfo = function(matricola, callback) {
-    console.info("readStudentInfo: sync reading stud file");
+exports.readStudentInfo = function(matricola, callback) {
+    console.info("backend: sync reading stud file");
 
     utils.readFileSync("./studenti/s" + matricola + ".json", "utf8",
       function (error, data) {
         if (error) {
-            console.error("readStudentInfo: cannot read student's file");
+            console.error("backend: cannot read student's file");
             callback(error);
             return;
         }
@@ -76,34 +77,35 @@ var readStudentInfo = function(matricola, callback) {
             return;
         }
 
-        console.info("readStudentInfo: personal data whitout error");
+        console.info("backend: personal data whitout error");
 
         callback(null, stud);
     });
-}
+};
 
-var writeStudentInfo = function(stud, callback) {
-    readStudentInfo(stud.Matricola, function (error, dati) {
+exports.writeStudentInfo = function(stud, callback) {
+    exports.readStudentInfo(stud.Matricola, function (error, curInfo) {
+        var data;
 
         if (error) {
             callback(error);
             return;
         }
         
-        if(stud.Blog != undefined)
-            dati.Blog = stud.Blog;
-        if(stud.Twitter != undefined)
-            dati.Twitter = stud.Twitter;
-        if(stud.Video != undefined)
-            dati.Video = stud.Video;
-        if(stud.Wikipedia != undefined)
-            dati.Wikipedia = stud.Wikipedia;
+        if (stud.Blog != undefined)
+            curInfo.Blog = stud.Blog;
+        if (stud.Twitter != undefined)
+            curInfo.Twitter = stud.Twitter;
+        if (stud.Video != undefined)
+            curInfo.Video = stud.Video;
+        if (stud.Wikipedia != undefined)
+            curInfo.Wikipedia = stud.Wikipedia;
 
         // I hate all uppercase
-        dati.Cognome = fixStringCase(dati.Cognome);
-        dati.Nome = fixStringCase(dati.Nome);
+        curInfo.Cognome = fixStringCase(curInfo.Cognome);
+        curInfo.Nome = fixStringCase(curInfo.Nome);
 
-        var data = JSON.stringify(dati, undefined, 4);
+        data = JSON.stringify(curInfo, undefined, 4);
         utils.writeFileSync("./studenti/s" + stud.Matricola + ".json", data,
           function (error) {
             if (error) {
@@ -116,9 +118,4 @@ var writeStudentInfo = function(stud, callback) {
             callback(null);
         });
     });
-}
-
-exports.getUsers = getUsers;
-exports.saveUsers = saveUsers;
-exports.readStudentInfo = readStudentInfo;
-exports.writeStudentInfo = writeStudentInfo;
+};
