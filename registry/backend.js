@@ -21,8 +21,8 @@ exports.getUsers = function (callback) {
 
         users = utils.safelyParseJSON(data);
         if (users === null) {
-            console.error("getUsers: invalid passwd file");
-            callback(error);
+            console.error("backend: invalid passwd file");
+            callback("backend error");
             return;
         }
 
