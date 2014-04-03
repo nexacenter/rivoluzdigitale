@@ -57,28 +57,6 @@ exports.handleMatricola = function (request, response) {
         response.end("Risulti gia' iscritto al sito.");
     };
 
-    // Write student info to disk and then invoke the callback
-    function writeStudentInfo(student, callback) {
-        var data;
-
-        //
-        // XXX: this function should make sure that the information
-        // provided in student is correct, using regexps.
-        //
-
-        data = JSON.stringify(student, undefined, 4);
-        fs.writeFile("./studenti/s" + student.Matricola + ".json", data,
-          function (error) {
-            if (error) {
-                utils.internalError("signup: cannot write student file",
-                  request, response);
-                return;
-            }
-            console.log("signup: student file written");
-            callback();
-        });
-    }
-
     // Fill and send the studentInfo template
     function fillAndSendTemplate(stud) {
         fs.readFile("./html/signup.tpl.html", "utf8", function (error, data) {
@@ -96,7 +74,13 @@ exports.handleMatricola = function (request, response) {
 
     // If needed, generates a new token and sends the template back
     function possiblySendTemplate(message) {
-        backend.readStudentInfo(message.matricola, function(studentInfo) {
+        backend.readStudentInfo(message.matricola,
+          function(error, studentInfo) {
+            if (error) {
+                utils.internalError(error, request, response);
+                return;
+            }
+
             try {
                 studentInfo.Token = crypto.randomBytes(20).toString("hex");
             } catch (error) {
@@ -104,7 +88,11 @@ exports.handleMatricola = function (request, response) {
                 return;
             }
 
-            writeStudentInfo(studentInfo, function () {
+            backend.writeStudentInfo(studentInfo, function (error) {
+                if (error) {
+                    utils.internalError(error, request, response);
+                    return;
+                }
                 fillAndSendTemplate(studentInfo);
             });
         });
@@ -112,7 +100,7 @@ exports.handleMatricola = function (request, response) {
 
     // Creates the user file and send template
     function createFileAndSendToken(message, cognome, nome) {
-        writeStudentInfo({
+        backend.writeStudentInfo({
             "Nome": nome,
             "Cognome": cognome,
             "Matricola": message.matricola,
@@ -122,7 +110,11 @@ exports.handleMatricola = function (request, response) {
             "Wikipedia": "",
             "Video": ""
         },
-        function () {
+        function (error) {
+            if (error) {
+                utils.internalError(error, request, response);
+                return;
+            }
             possiblySendTemplate(message);
         });
     }

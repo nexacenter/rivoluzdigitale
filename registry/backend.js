@@ -5,33 +5,39 @@ function fixStringCase(str) {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
 }
 
-var getUsers = function (callback) {
-    fs.readFile("studenti/.htpasswd", "utf8", function (error, data) {
-        console.info("getUsers: opening passwd file");
-        var users = utils.safelyParseJSON(data);
+exports.getUsers = function (callback) {
+    var users;
+
+    utils.readFileSync("studenti/.htpasswd", "utf8",
+      function (error, data) {
+
+        if (error) {
+            console.error("backend: cannot read passwd file");
+            callback(error);
+            return;
+        }
+
+        console.info("backend: opening passwd file");
+
+        users = utils.safelyParseJSON(data);
         if (users === null) {
             console.error("getUsers: invalid passwd file");
             callback(error);
             return;
         }
-        console.info("getUsers: imported %d users", Object.keys(users).length);
-        callback(users);
-    });
-}
 
-var saveUsers = function (request, response, matricola, hash) {
-    fs.readFile ("studenti/.htpasswd", "utf8", function (error, data) {
-        console.info("saveUsers: opening pw file");
+        console.info("backend: imported %d users", Object.keys(users).length);
+
+        callback(null, users);
+    });
+};
+
+exports.saveUsers = function (request, response, matricola, hash) {
+
+    exports.getUsers(function (error, users) {
 
         if (error) {
             utils.internalError(error, request, response);
-            return;
-        }
-
-        var users = utils.safelyParseJSON(data);
-
-        if (users === null) {
-            console.info("saveUsers: invalid passwd file");
             return;
         }
 
@@ -39,60 +45,96 @@ var saveUsers = function (request, response, matricola, hash) {
 
         data = JSON.stringify(users, undefined, 4);
 
-        fs.writeFile("studenti/.htpasswd", data, function (error) {
+        utils.writeFileSync("studenti/.htpasswd", data, function (error) {
+            if (error) {
+                utils.internalError(error, request, response);
+                return;
+            }
             console.log("login_once: password stored for %s",matricola);
-
             utils.writeHeadVerboseCORS(response, 200, {
                 "Content-Type": "text/html"
             });
             response.end("Password aggiunta con successo!");
-
-
         });
 
     });
-}
+};
 
-var readStudentInfo = function(matricola, callback) {
-    console.info("readStudentInfo: sync reading stud file");
-    var data = fs.readFileSync("./studenti/s"+matricola+".json", "utf8");
+exports.readStudentInfo = function(matricola, callback) {
+    console.info("backend: sync reading stud file");
 
-    var stud = utils.safelyParseJSON(data);
-    if (stud === null) {
-        utils.internalError("readStudentInfo: student file parsing error", request, response);
-        return;
-    }
+    utils.readFileSync("./studenti/s" + matricola + ".json", "utf8",
+      function (error, data) {
+        if (error) {
+            console.error("backend: cannot read student's file");
+            callback(error);
+            return;
+        }
 
-    console.info("readStudentInfo: personal data whitout error");
+        var stud = utils.safelyParseJSON(data);
+        if (stud === null) {
+            callback("json error");
+            return;
+        }
 
-    callback(stud);
-}
+        console.info("backend: personal data whitout error");
 
-var writeStudentInfo = function(stud, callback) {
-    readStudentInfo (stud.Matricola, function (dati) {
-        
-        if(stud.Blog != undefined)
-            dati.Blog = stud.Blog;
-        if(stud.Twitter != undefined)
-            dati.Twitter = stud.Twitter;
-        if(stud.Video != undefined)
-            dati.Video = stud.Video;
-        if(stud.Wikipedia != undefined)
-            dati.Wikipedia = stud.Wikipedia;
+        callback(null, stud);
+    });
+};
 
-        // I hate all uppercase
-        dati.Cognome = fixStringCase(dati.Cognome);
-        dati.Nome = fixStringCase(dati.Nome);
+function doWriteInfo(curInfo, callback) {
+    var data;
 
-        var data = JSON.stringify(dati, undefined, 4);
-        fs.writeFileSync("./studenti/s" + stud.Matricola + ".json", data);
+    // I hate all uppercase
+    curInfo.Cognome = fixStringCase(curInfo.Cognome);
+    curInfo.Nome = fixStringCase(curInfo.Nome);
+
+    data = JSON.stringify(curInfo, undefined, 4);
+    utils.writeFileSync("./studenti/s" + curInfo.Matricola + ".json", data,
+      function (error) {
+        if (error) {
+            console.warn("backend: cannot write student's file");
+            callback(error);
+            return;
+        }
     
-        console.log("writeStudentInfo: student file written");
+        console.log("backend: student file written");
         callback();
     });
-}
+};
 
-exports.getUsers = getUsers;
-exports.saveUsers = saveUsers;
-exports.readStudentInfo = readStudentInfo;
-exports.writeStudentInfo = writeStudentInfo;
+var knownKeys = [
+    "Nome",
+    "Cognome",
+    "Matricola",
+    "Token",
+    "Blog",
+    "Twitter",
+    "Wikipedia",
+    "Video"
+];
+
+exports.writeStudentInfo = function(newInfo, callback) {
+    exports.readStudentInfo(newInfo.Matricola, function (error, savedInfo) {
+        var index, key;
+
+        if (error && error.code === "ENOENT") {
+            doWriteInfo(newInfo, callback);
+            return;
+        }
+        if (error) {
+            callback(error);
+            return;
+        }
+
+        for (index = 0; index < knownKeys.length; ++index) {
+            key = knownKeys[index];
+            if (newInfo[key] === undefined)
+                continue;
+            savedInfo[key] = newInfo[key];
+        }
+
+        doWriteInfo(savedInfo, callback);
+    });
+};

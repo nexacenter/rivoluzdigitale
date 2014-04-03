@@ -3,7 +3,11 @@ var fs = require("fs");
 var utils = require("./utils.js");
 
 var handleRequest = function (request, response, matricola, token, hash) {
-    backend.readStudentInfo(matricola, function(obj) {
+    backend.readStudentInfo(matricola, function(error, obj) {
+        if (error) {
+            utils.internalError(error, request, response);
+            return;
+        }
         if (obj.Token != token) {
             console.info("login_once: wrong token");
             utils.writeHeadVerboseCORS(response, 200, {

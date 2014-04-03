@@ -3,7 +3,11 @@ var fs = require("fs");
 var utils = require("./utils.js");
 
 var generatePage = function (request, response, matricola) {
-    backend.readStudentInfo(matricola, function(stud) {
+    backend.readStudentInfo(matricola, function(error, stud) {
+        if (error) {
+            utils.internalError(error, request, response);
+            return;
+        }
 
         fs.readFile("./html/private.tpl.html", "utf8", function (error, data) {
             console.info("private: sending personal page");
@@ -28,7 +32,8 @@ var generatePage = function (request, response, matricola) {
 
 var modPage = function (request, response) {
     utils.readBodyJSON (request, response, function (stud) {
-        backend.writeStudentInfo(stud, function() {
+        backend.writeStudentInfo(stud, function (error) {
+            // ??? FIXME !!!
         })
         generatePage (request, response, stud.Matricola);
     });
