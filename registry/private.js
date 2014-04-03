@@ -33,9 +33,12 @@ var generatePage = function (request, response, matricola) {
 var modPage = function (request, response) {
     utils.readBodyJSON (request, response, function (stud) {
         backend.writeStudentInfo(stud, function (error) {
-            // ??? FIXME !!!
+            utils.writeHeadVerboseCORS(response, 200, {
+                "Content-Type": "application/json"
+            });
+            response.write(JSON.stringify(stud));
+            response.end();
         })
-        generatePage (request, response, stud.Matricola);
     });
 }
 

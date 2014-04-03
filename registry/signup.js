@@ -49,14 +49,6 @@ exports.servePage = function (request, response) {
 //
 exports.handleMatricola = function (request, response) {
 
-    // Invoked when a user is already subscribed
-    function alreadySubscribed() {
-        utils.writeHeadVerboseCORS(response, 200, {
-            "Content-Type": "text/html"
-        });
-        response.end("Risulti gia' iscritto al sito.");
-    };
-
     // Fill and send the studentInfo template
     function fillAndSendTemplate(stud) {
         fs.readFile("./html/signup.tpl.html", "utf8", function (error, data) {

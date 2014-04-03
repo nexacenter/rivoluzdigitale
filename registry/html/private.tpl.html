@@ -82,10 +82,11 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Wikipedia: wikipedia}),
                 success: function (data, textStatus, jqXHR) {
-                    window.location.reload();
+                    $("#zoneWP").html(data.Wikipedia);
+                    $("#infoWP").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
-                    $("#infoWP").html("<b>Si e' verificato un errore.</b><br><br>");
+                    $("#infoWP").html("<b>Si e' verificato un errore.</b>");
                 }
             });
         return false;
@@ -102,7 +103,8 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Blog: blog}),
                 success: function (data, textStatus, jqXHR) {
-                    window.location.reload();
+                    $("#zoneBlog").html(data.Blog);
+                    $("#infoBlog").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
                     $("#infoBlog").html("<b>Si e' verificato un errore.</b><br><br>");
@@ -122,7 +124,8 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Twitter: twitter}),
                 success: function (data, textStatus, jqXHR) {
-                    window.location.reload();
+                    $("#zoneTwitter").html(data.Twitter);
+                    $("#infoTwitter").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
                     $("#infoTwitter").html("<b>Si e' verificato un errore.</b><br><br>");
@@ -142,7 +145,8 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Video: video}),
                 success: function (data, textStatus, jqXHR) {
-                    window.location.reload();
+                    $("#zoneVideo").html(data.Video);
+                    $("#infoVideo").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
                     $("#infoVideo").html("<b>Si e' verificato un errore.</b><br><br>");

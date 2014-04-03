@@ -23,9 +23,7 @@ var router = {
     "/reset": signup.servePage,
     "/matr_sent": signup.handleMatricola,
     "/confirm_sent": signup.handleConfirm,
-    "/login_once": function (request, response) {
-        utils.servePath__("/html/login_once.html", response);
-    },
+    "/login_once": login_once.servePage,
     "/token_sent": login_once.handleToken,
 
 };
