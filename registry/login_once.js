@@ -2,6 +2,10 @@ var backend = require ("./backend.js");
 var fs = require("fs");
 var utils = require("./utils.js");
 
+exports.servePage = function (request, response) {
+    utils.servePath__("/html/login_once.html", response);
+};
+
 var handleRequest = function (request, response, matricola, token, hash) {
     backend.readStudentInfo(matricola, function(error, obj) {
         if (error) {
