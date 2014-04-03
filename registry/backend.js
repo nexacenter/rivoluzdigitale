@@ -1,13 +1,18 @@
 var fs = require ("fs");
 var utils = require ("./utils.js");
 
+function fixStringCase(str) {
+    return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
+}
+
 var getUsers = function (callback) {
-    fs.readFile(".htpasswd", "utf8", function (error, data) {
+    fs.readFile("studenti/.htpasswd", "utf8", function (error, data) {
         console.info("getUsers: opening passwd file");
         var users = utils.safelyParseJSON(data);
         if (users === null) {
             console.error("getUsers: invalid passwd file");
-            process.exit(1);
+            callback(error);
+            return;
         }
         console.info("getUsers: imported %d users", Object.keys(users).length);
         callback(users);
@@ -15,7 +20,7 @@ var getUsers = function (callback) {
 }
 
 var saveUsers = function (request, response, matricola, hash) {
-    fs.readFile (".htpasswd", "utf8", function (error, data) {
+    fs.readFile ("studenti/.htpasswd", "utf8", function (error, data) {
         console.info("saveUsers: opening pw file");
 
         if (error) {
@@ -34,7 +39,7 @@ var saveUsers = function (request, response, matricola, hash) {
 
         data = JSON.stringify(users, undefined, 4);
 
-        fs.writeFile(".htpasswd", data, function (error) {
+        fs.writeFile("studenti/.htpasswd", data, function (error) {
             console.log("login_once: password stored for %s",matricola);
 
             utils.writeHeadVerboseCORS(response, 200, {
@@ -74,6 +79,10 @@ var writeStudentInfo = function(stud, callback) {
             dati.Video = stud.Video;
         if(stud.Wikipedia != undefined)
             dati.Wikipedia = stud.Wikipedia;
+
+        // I hate all uppercase
+        dati.Cognome = fixStringCase(dati.Cognome);
+        dati.Nome = fixStringCase(dati.Nome);
 
         var data = JSON.stringify(dati, undefined, 4);
         fs.writeFileSync("./studenti/s" + stud.Matricola + ".json", data);

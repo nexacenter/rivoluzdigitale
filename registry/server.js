@@ -32,21 +32,26 @@
 "use strict";
 
 var dns = require("dns");
-var http = require("http");
+var fs = require("fs");
+var https = require("https");
 var os = require("os");
 
 exports.start = function (route, port) {
-    var server = http.createServer(route);
+
+    var server = https.createServer({
+        "key": fs.readFileSync("ssl/privkey.pem"),
+        "cert": fs.readFileSync("ssl/cert.pem"),
+    }, route);
 
     if (port === undefined) {
         port = 8080;
     }
 
     function listeningHandler () {
-        var interfaces = os.networkInterfaces();
+        var fingerprint, interfaces = os.networkInterfaces();
 
         function runningAt(address, port) {
-            console.info("server: running at http://"
+            console.info("server: running at https://"
               + address + ":" + port + "/");
         }
 
@@ -70,6 +75,10 @@ exports.start = function (route, port) {
                 });
             }
         });
+
+        fingerprint = fs.readFileSync("ssl/finger.txt", "utf-8");
+        fingerprint = fingerprint.trim();
+        console.info("server: %s", fingerprint);
     }
 
     server.on("listening", listeningHandler);
