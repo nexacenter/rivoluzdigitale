@@ -1,6 +1,23 @@
 var fs = require ("fs");
 var utils = require ("./utils.js");
 
+var MATRICOLA = /^[0-9]{6}$/;
+var TOKEN = /^[A-Fa-f0-9]{20}$/;
+var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{20})$/;
+var PWDHASH = /^[A-Fa-f0-9]{32}$/;
+
+exports.validMatricola = function (maybeMatricola) {
+    return maybeMatricola.match( MATRICOLA );
+};
+
+exports.validToken = function (maybeToken) {
+    return maybeToken.match( TOKEN );
+};
+
+exports.validPwdHash = function (maybePwdHash) {
+    return maybePwdHash.match( PWDHASH );
+};
+
 function fixStringCase(str) {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
 }
@@ -104,22 +121,37 @@ function doWriteInfo(curInfo, callback) {
     });
 };
 
-var knownKeys = [
-    "Nome",
-    "Cognome",
-    "Matricola",
-    "Token",
-    "Blog",
-    "Twitter",
-    "Wikipedia",
-    "Video"
-];
+var KNOWN_KEYS = {
+    "Nome": 17,
+    "Cognome": 17,
+    "Matricola": 17,
+    "Token": 17,
+    "Blog": 17,
+    "Twitter": 17,
+    "Wikipedia": 17,
+    "Video": 17
+};
+
+var knownKeys = Object.keys(KNOWN_KEYS);
+
+exports.hasValidKeys = function (something) {
+    var index, key, keys = Object.keys(something);
+
+    for (index = 0; index < keys.length; ++index) {
+        key = keys[index];
+        if (KNOWN_KEYS[key] !== 17) {
+            return false;
+        }
+    }
+
+    return true;
+};
 
 var knownRegExp = [
     /^[A-Za-z\'\- ]+$/,
     /^[A-Za-z\'\- ]+$/,
-    /^[1-2][0-9]{5}$/,
-    /^(|[a-f0-9]{20})$/,
+    MATRICOLA,
+    MAYBE_EMPTY_TOKEN,
     /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
     /^(|@[A-Za-z0-9_]{1,15})$/,
     /^(|(U|u)tente\:.*)$/,

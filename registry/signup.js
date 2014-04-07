@@ -112,6 +112,12 @@ exports.handleMatricola = function (request, response) {
     }
 
     utils.readBodyJSON(request, response, function (message) {
+        if (!hasValidKeys(message) ||
+            message.Token !== undefined ||
+            !backend.validMatricola(message.Matricola)) {
+            internalError("signup: invalid argument", request, response);
+            return;
+        }
         fs.readFile("studenti/iscritti.json", "utf8", function (error, data) {
             var i, vector;
 
@@ -164,11 +170,12 @@ exports.handleMatricola = function (request, response) {
 exports.handleConfirm = function (request, response) {
     utils.readBodyJSON(request, response, function (message) {
 
-        if (message.matricola === undefined) {
-            utils.internalError("signup: malformed input message",
-              request, response);
+        if (!hasValidKeys(message) ||
+            message.Token !== undefined ||
+            !backend.validMatricola(message.Matricola)) {
+            internalError("signup: invalid argument", request, response);
             return;
-        };
+        }
 
         console.info("signup: sending email to %s", message.matricola);
         mailer.sendToken(message.matricola);

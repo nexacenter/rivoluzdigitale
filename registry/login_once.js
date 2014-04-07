@@ -31,17 +31,16 @@ var handleRequest = function (request, response, matricola, token, hash) {
 exports.handleToken = function (request, response) {
     console.info("handleToken: harvesting token");
     utils.readBodyJSON(request, response, function(stud) {
-        if(stud.token != "null"){
-            console.log("handleToken: ricevuto token %s",stud.token);
-            handleRequest(request, response, stud.matricola, stud.token, stud.hash);
+        if (!backend.hasValidKeys(stud) ||
+            !backend.validToken(stud.token) ||
+            !backend.validMatricola(stud.matricola) ||
+            !backend.validPwdHash(stud.hash)) {
+            internalError("login_once: invalid argument", request, response);
+            return;
         }
-        else{
-            console.log("handleToken: problem finding token %s", stud.token);
-            res.writeHead(500);
-            response.end();
-        }
+        console.info("handleToken: ricevuto token %s", stud.token);
+        handleRequest(request, response, stud.matricola, stud.token, stud.hash);
     });
-
-}
+};
 
 exports.handleRequest = handleRequest;

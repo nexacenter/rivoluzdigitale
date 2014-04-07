@@ -10,7 +10,6 @@ var url = require("url");
 var utils = require("./utils.js");
 
 var router = {
-
     "/": function (request, response) {
         utils.servePath__("/html/index.html", response);
     },
@@ -24,8 +23,7 @@ var router = {
     "/matr_sent": signup.handleMatricola,
     "/confirm_sent": signup.handleConfirm,
     "/login_once": login_once.servePage,
-    "/token_sent": login_once.handleToken,
-
+    "/token_sent": login_once.handleToken
 };
 
 exports.handleRequest = function(request, response) {
