@@ -82,7 +82,7 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Wikipedia: wikipedia}),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneWP").html(data.Wikipedia);
+                    $("#zoneWP").text(data.Wikipedia);
                     $("#infoWP").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
@@ -103,7 +103,7 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Blog: blog}),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneBlog").html(data.Blog);
+                    $("#zoneBlog").text(data.Blog);
                     $("#infoBlog").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
@@ -124,7 +124,7 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Twitter: twitter}),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneTwitter").html(data.Twitter);
+                    $("#zoneTwitter").text(data.Twitter);
                     $("#infoTwitter").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
@@ -145,7 +145,7 @@
                 contentType: "application/json",
                 data: JSON.stringify({Matricola: matricola, Video: video}),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneVideo").html(data.Video);
+                    $("#zoneVideo").text(data.Video);
                     $("#infoVideo").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
