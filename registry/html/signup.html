@@ -1,59 +1,67 @@
-<html>
-    <head>
-        <title>Signup</title>
-        <meta charset="utf-8"/>
-    </head>
-    <body>
-	<h3>Inserisci il tuo numero di matricola</h3>
-        <form id="loginForm" action="" method="">
-            Matricola: <input type="text" name="matricola" id="matricola" pattern="^[1-2][0-9]{5}$" title="Inserisci la matricola SENZA s" required/>
-            <input type="submit" value="Invia" />
-        </form>
+<!DOCTYPE html>
 
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-        <script type="text/javascript">
-            $(function () {
-                $.fn.serializeObject = function()
-                {
-                    var o = {};
-                    var a = this.serializeArray();
-                    $.each(a, function() {
-                        if (o[this.name] !== undefined) {
-                            if (!o[this.name].push) {
-                                o[this.name] = [o[this.name]];
-                            }
-                            o[this.name].push(this.value || '');
-                        } else {
-                            o[this.name] = this.value || '';
+<head>
+    <title>Signup</title>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+    <h3>Inserisci il tuo numero di matricola</h3>
+    <form id="loginForm">
+        Matricola:
+        <input type="text" name="matricola" id="matricola" pattern="^[1-2][0-9]{5}$"
+        title="Inserisci la matricola SENZA s" required/>
+        <input type="submit" value="Invia" />
+    </form>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $.fn.serializeObject = function () {
+                var o = {};
+                var a = this.serializeArray();
+                $.each(a, function () {
+                    if (o[this.name] !== undefined) {
+                        if (!o[this.name].push) {
+                            o[this.name] = [o[this.name]];
                         }
-                    });
-                    return o;
-                };          
+                        o[this.name].push(this.value || '');
+                    } else {
+                        o[this.name] = this.value || '';
+                    }
+                });
+                return o;
+            };
 
 
-                $("#loginForm").bind("submit", function(evt) {
-                    console.log(JSON.stringify($("#loginForm").serializeObject()));
+            $("#loginForm").bind("submit", function (evt) {
+                console.log(JSON.stringify($("#loginForm").serializeObject()));
 
-                    $.ajax({
-                        url: "/matr_sent",
-                        type: "POST",
-                        contentType: "application/json",
-                        data: JSON.stringify($("#loginForm").serializeObject()),
-                        success: function (data, textStatus, jqXHR) {
-                            $("#step2").html(data);
-                        },
-                        error: function (jqXHR, textStatus, errorThrown) {
-                            $("#step2").html("<b>Si e' verificato un errore.<br>Potresti non risultare ancora iscritto al corso o aver inserito una matricola errata.</b>");
-                        }
-                    });
-
-                    return false;
+                $.ajax({
+                    url: "/matr_sent",
+                    type: "POST",
+                    contentType: "application/json",
+                    data: JSON.stringify($("#loginForm").serializeObject()),
+                    success: function (data, textStatus,
+                        jqXHR) {
+                        $("#step2").html(data);
+                    },
+                    error: function (jqXHR, textStatus,
+                        errorThrown) {
+                        $("#step2").html(
+                            "<b>Si e' verificato un errore.<br>Potresti non risultare ancora iscritto al corso o aver inserito una matricola errata.</b>"
+                        );
+                    }
                 });
 
+                return false;
             });
-        </script>
+
+        });
+    </script>
 
     <div id="step2"></div>
     <div id="step3"></div>
-    </body>
+</body>
+
 </html>

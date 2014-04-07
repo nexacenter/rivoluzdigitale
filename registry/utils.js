@@ -1,4 +1,4 @@
-// REGISTry/utils.js
+// registry/utils.js
 
 /*
  * Copyright (c) 2014
@@ -29,8 +29,36 @@
 // Utils
 //
 
+/*jslint node: true */
+"use strict";
+
+
 var authlib = require("http-digest-auth");
 var fs = require("fs");
+
+var writeHeadVerbose = function (response, status, headers) {
+    var key;
+
+    if (headers === undefined) {
+        headers = {};
+    }
+    console.info("> HTTP/1.1 %d ...", status);
+    for (key = 0; key < headers.length; key++) {
+        console.info("> %s: %s", key, headers[key]);
+    }
+    console.info(">");
+    response.writeHead(status, headers);
+};
+
+var writeHeadVerboseCORS = function (response, status, headers) {
+    if (headers === undefined) {
+        headers = {};
+    }
+    headers["Access-Control-Allow-Method"] = "GET, HEAD, POST";
+    headers["Access-Control-Allow-Headers"] = "Content-Type, Accept";
+    headers["Access-Control-Allow-Origin"] = "*";
+    writeHeadVerbose(response, status, headers);
+};
 
 var internalError = function (error, request, response) {
     console.error(error);
@@ -63,34 +91,14 @@ var safelyParseJSON = function (data) {
 };
 
 exports.logRequest = function (request) {
+    var key;
+
     console.info("< %s %s HTTP/%s", request.method, request.url,
-      request.httpVersion);
-    for (key in request.headers) {
+        request.httpVersion);
+    for (key = 0; key < request.headers.length; key++) {
         console.info("< %s: %s", key, request.headers[key]);
     }
     console.info("<");
-};
-
-var writeHeadVerbose = function (response, status, headers) {
-    if (headers === undefined) {
-        headers = {};
-    }
-    console.info("> HTTP/1.1 %d ...", status);
-    for (key in headers) {
-        console.info("> %s: %s", key, headers[key]);
-    }
-    console.info(">");
-    response.writeHead(status, headers);
-};
-
-var writeHeadVerboseCORS = function (response, status, headers) {
-    if (headers === undefined) {
-        headers = {};
-    }
-    headers["Access-Control-Allow-Method"] = "GET, HEAD, POST";
-    headers["Access-Control-Allow-Headers"] = "Content-Type, Accept";
-    headers["Access-Control-Allow-Origin"] = "*";
-    writeHeadVerbose(response, status, headers);
 };
 
 exports.readBodyJSON = function (request, response, callback) {
@@ -120,16 +128,17 @@ exports.readBodyJSON = function (request, response, callback) {
     });
 
     request.on("end", function () {
-        var bodyString;
+        var bodyString, 
+            stud;
 
         console.info("readBodyJSON: BODY_END");
 
         bodyString = body.join("");
 
-        var stud = safelyParseJSON(bodyString);
+        stud = safelyParseJSON(bodyString);
         if (stud === null) {
             internalError("readBodyJSON: request-body parsing error",
-              request, response);
+                request, response);
             return;
         }
 
@@ -148,7 +157,7 @@ exports.readBodyJSON = function (request, response, callback) {
 exports.servePath__ = function (filename, response) {
     var localPath = __dirname + filename;
 
-    fs.exists(localPath, function(exists) {
+    fs.exists(localPath, function (exists) {
         var stream;
 
         if (!exists) {

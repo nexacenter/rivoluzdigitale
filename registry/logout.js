@@ -29,16 +29,18 @@
 // Manage the '/logout' URL.
 //
 
+/*jslint node: true */
 'use strict';
 
 var utils = require("./utils.js");
 
-exports.handleRequest = function(request, response) {
+exports.handleRequest = function (request, response) {
 
-     if (utils.safelyLogout(request) === false) {
-         console.error("logout: failure");
-     } else
-         console.info("logout: success");
+    if (utils.safelyLogout(request) === false) {
+        console.error("logout: failure");
+    } else {
+        console.info("logout: success");
+    }
 
-     utils.servePath__("/html/index.html", response);
+    utils.servePath__("/html/index.html", response);
 };

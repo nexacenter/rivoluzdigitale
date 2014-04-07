@@ -29,6 +29,7 @@
 // The HTTP server
 //
 
+/*jslint node: true */
 "use strict";
 
 var dns = require("dns");
@@ -40,19 +41,19 @@ exports.start = function (route, port) {
 
     var server = https.createServer({
         "key": fs.readFileSync("ssl/privkey.pem"),
-        "cert": fs.readFileSync("ssl/cert.pem"),
+        "cert": fs.readFileSync("ssl/cert.pem")
     }, route);
 
     if (port === undefined) {
         port = 8080;
     }
 
-    function listeningHandler () {
+    function listeningHandler() {
         var fingerprint, interfaces = os.networkInterfaces();
 
         function runningAt(address, port) {
-            console.info("server: running at https://"
-              + address + ":" + port + "/");
+            console.info("server: running at https://" + address + ":" + port +
+                "/");
         }
 
         Object.keys(interfaces).forEach(function (key) {
@@ -60,18 +61,21 @@ exports.start = function (route, port) {
 
             iface = interfaces[key];
             for (i = 0; i < iface.length; i += 1) {
-                if (iface[i]["family"] != "IPv4")
+                if (iface[i]["family"] !== "IPv4") {
                     continue;
-                if (iface[i]["internal"])
+                }
+                if (iface[i]["internal"]) {
                     continue;
+                }
                 address = iface[i]["address"];
                 dns.reverse(address, function (error, domains) {
                     if (error) {
                         runningAt(address, port);
                         return;
                     }
-                    for (j = 0; j < domains.length; ++j)
+                    for (j = 0; j < domains.length; ++j) {
                         runningAt(domains[j], port);
+                    }
                 });
             }
         });
