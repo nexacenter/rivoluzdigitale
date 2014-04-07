@@ -7,11 +7,11 @@
     <h3>Completa la tua procedura di registrazione</h3>
     <p>Inserisci la chiave ricevuta al tuo indirizzo di posta del Politecnico.</p>
     <form id="passForm">
-        <b>Matricola</b>: <input type="text" name="matricola" id="matricola" pattern="^[1-2][0-9]{5}$" title="Inserisci la matricola SENZA s" required/>
-        <b>Chiave</b>: <input type="text" name="token" id="token" required/>
+        <b>Matricola</b>: <input type="text" name="Matricola" id="Matricola" pattern="^[1-2][0-9]{5}$" title="Inserisci la matricola SENZA s" required/>
+        <b>Chiave</b>: <input type="text" name="Token" id="Token" required/>
     <h3>Scegli la tua password personale</h3>
-        <p><b>Nuova password: </b><input type="password" name="password" id="password" required/><br>
-        <b>Ripeti password: </b><input type="password" name="password1" id="password1" required oninput="check(this)" /></p>
+        <p><b>Nuova password: </b><input type="password" name="Password" id="Password" required/><br>
+        <b>Ripeti password: </b><input type="password" name="Password1" id="Password1" required oninput="check(this)" /></p>
         <input type="submit" value="Conferma" />
     </form>
 
@@ -47,9 +47,9 @@
                 };
           
             $("#passForm").bind("submit", function(evt) {
-                var matricola = $("#matricola").val();
-                var token = $("#token").val();
-                var password  = $("#password").val();
+                var matricola = $("#Matricola").val();
+                var token = $("#Token").val();
+                var password  = $("#Password").val();
 
                 var hash = $.md5(matricola+":Area studenti:"+password);
                 console.log(JSON.stringify({matricola: matricola, token: token, hash: hash}));
