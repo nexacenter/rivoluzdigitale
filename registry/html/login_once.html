@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <head>
     <title>Rivoluzione Digitale</title>
     <meta charset="utf-8"/>
@@ -6,16 +6,16 @@
 <body>
     <h3>Completa la tua procedura di registrazione</h3>
     <p>Inserisci la chiave ricevuta al tuo indirizzo di posta del Politecnico.</p>
-    <form id="passForm" action="" method="">
+    <form id="passForm">
         <b>Matricola</b>: <input type="text" name="matricola" id="matricola" pattern="^[1-2][0-9]{5}$" title="Inserisci la matricola SENZA s" required/>
         <b>Chiave</b>: <input type="text" name="token" id="token" required/>
     <h3>Scegli la tua password personale</h3>
         <p><b>Nuova password: </b><input type="password" name="password" id="password" required/><br>
-        <b>Ripeti password: </b><input type="password" name="password1 id="password1" required oninput="check(this)" /></p>
+        <b>Ripeti password: </b><input type="password" name="password1" id="password1" required oninput="check(this)" /></p>
         <input type="submit" value="Conferma" />
     </form>
 
-    <script language='javascript' type='text/javascript'>
+    <script type="text/javascript">
     function check(input) {
         if (input.value != document.getElementById('password').value) {
             input.setCustomValidity('Attenzione, le due password non coincidono.');

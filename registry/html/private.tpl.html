@@ -1,51 +1,76 @@
+<!DOCTYPE html>
 
-<html>
 <head>
     <title>Pagina di @MATRICOLA@</title>
-    <meta charset="utf-8"/>
+    <meta charset="utf-8" />
 </head>
+
 <body>
     <h3>Ciao @NOME@ @COGNOME@!</h3>
     <p>Questa e' la tua pagina personale, in cui potrai segnalare i tuoi dati.</p>
     <h4>Dati studente</h4>
-    Matricola: @MATRICOLA@<br><br>
+    Matricola: @MATRICOLA@
+    <br>
+    <br>
 
     <form id="UrlBlog">
-        <b>Url blog</b>: <input type="text" name="blog" id="blog"
-          pattern="^http(|s)\://.*$" size="42"
-          title="Inserisci l'url del tuo blog" required/>
-        <input type="submit" value="Modifica"/> <small>es. http://www.example.com</small>
+        <b>Url blog</b>:
+        <input type="text" name="blog" id="blog" pattern="^http(|s)\://.*$"
+        size="42" title="Inserisci l'url del tuo blog" required/>
+        <input type="submit" value="Modifica" /> <small>es. http://www.example.com</small>
     </form>
-    <ul><li><div id="zoneBlog">@BLOG@</div>
-    <div id="infoBlog"></div></li></ul><br>
+    <ul>
+        <li>
+            <div id="zoneBlog">@BLOG@</div>
+            <div id="infoBlog"></div>
+        </li>
+    </ul>
+    <br>
 
     <form id="AccountTwitter">
-        <b>Account Twitter</b>: <input type="text" name="twitter" id="twitter"
-          pattern="^@[A-Za-z0-9_]{1,15}$"
-          title="Inserisci il tuo handle Twitter" required/>
-        <input type="submit" value="Modifica"/> <small>es. @NickTwitter</small>
+        <b>Account Twitter</b>:
+        <input type="text" name="twitter" id="twitter"
+        pattern="^@[A-Za-z0-9_]{1,15}$" title="Inserisci il tuo handle Twitter"
+        required/>
+        <input type="submit" value="Modifica" /> <small>es. @NickTwitter</small>
     </form>
-    <ul><li><div id="zoneTwitter">@TWITTER@</div>
-    <div id="infoTwitter"></div></li></ul><br>
+    <ul>
+        <li>
+            <div id="zoneTwitter">@TWITTER@</div>
+            <div id="infoTwitter"></div>
+        </li>
+    </ul>
+    <br>
 
     <form id="AccountWP">
-        <b>Account Wikipedia</b>: <input type="text" name="wp" id="wp"
-          pattern="^Utente\:.*$"
-          title="Inserisci il tuo nome utente su Wikipedia preceduto da Utente:"
-          required/>
-        <input type="submit" value="Modifica"/> <small>es. Utente:MioNickname</small>
+        <b>Account Wikipedia</b>:
+        <input type="text" name="wp" id="wp" pattern="^Utente\:.*$"
+        title="Inserisci il tuo nome utente su Wikipedia preceduto da Utente:"
+        required/>
+        <input type="submit" value="Modifica" /> <small>es. Utente:MioNickname</small>
     </form>
-    <ul><li><div id="zoneWP">@WIKIPEDIA@</div>
-    <div id="infoWP"></div></li></ul><br>
+    <ul>
+        <li>
+            <div id="zoneWP">@WIKIPEDIA@</div>
+            <div id="infoWP"></div>
+        </li>
+    </ul>
+    <br>
 
     <form id="UrlVideo">
-        <b>Url video presentazione</b>: <input type="text" name="video" id="video"
-          pattern="^http(|s)\://.*$" size="42"
-          title="Inserisci l'url del tuo video di presentazione" required/>
-        <input type="submit" value="Modifica"/> <small>es. https://www.youtube.com/watch?v=aui6NoM56_k</small>
+        <b>Url video presentazione</b>:
+        <input type="text" name="video"
+        id="video" pattern="^http(|s)\://.*$" size="42" title="Inserisci l'url del tuo video di presentazione"
+        required/>
+        <input type="submit" value="Modifica" /> <small>es. https://www.youtube.com/watch?v=aui6NoM56_k</small>
     </form>
-    <ul><li><div id="zoneVideo">@VIDEO@</div>
-    <div id="infoVideo"></div></li></ul><br>
+    <ul>
+        <li>
+            <div id="zoneVideo">@VIDEO@</div>
+            <div id="infoVideo"></div>
+        </li>
+    </ul>
+    <br>
 
     <br>
     <a href="/logout">Logout</a>
@@ -53,108 +78,145 @@
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 
     <script type="text/javascript">
-        if( $("#zoneBlog").is(":empty") ) {
-            var txt1=document.getElementById("zoneBlog");
-            txt1.innerHTML="Url blog non presente.";
+        if ($("#zoneBlog").is(":empty")) {
+            var txt1 = document.getElementById("zoneBlog");
+            txt1.innerHTML = "Url blog non presente.";
         }
-        if( $("#zoneTwitter").is(":empty") ) {
-            var txt2=document.getElementById("zoneTwitter");
-            txt2.innerHTML="Account Twitter non presente.";
+        if ($("#zoneTwitter").is(":empty")) {
+            var txt2 = document.getElementById("zoneTwitter");
+            txt2.innerHTML = "Account Twitter non presente.";
         }
-        if( $("#zoneWP").is(":empty") ) {
-            var txt3=document.getElementById("zoneWP");
-            txt3.innerHTML="Account Wikipedia non presente.";
+        if ($("#zoneWP").is(":empty")) {
+            var txt3 = document.getElementById("zoneWP");
+            txt3.innerHTML = "Account Wikipedia non presente.";
         }
-        if( $("#zoneVideo").is(":empty") ) {
-            var txt4=document.getElementById("zoneVideo");
-            txt4.innerHTML="Url video non presente.";
+        if ($("#zoneVideo").is(":empty")) {
+            var txt4 = document.getElementById("zoneVideo");
+            txt4.innerHTML = "Url video non presente.";
         }
     </script>
 
     <script type="text/javascript">
-        $("#AccountWP").bind("submit", function(evt) {
+        $("#AccountWP").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var wikipedia = $("#wp").val();
-            console.log(JSON.stringify({Matricola: matricola, Wikipedia: wikipedia}));
+            console.log(JSON.stringify({
+                Matricola: matricola,
+                Wikipedia: wikipedia
+            }));
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
                 contentType: "application/json",
-                data: JSON.stringify({Matricola: matricola, Wikipedia: wikipedia}),
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Wikipedia: wikipedia
+                }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneWP").text(data.Wikipedia);
                     $("#infoWP").html("<b>Modificato!</b>");
                 },
-                error: function (jqXHR, textStatus, errorThrown) {
-                    $("#infoWP").html("<b>Si e' verificato un errore.</b>");
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoWP").html(
+                        "<b>Si e' verificato un errore.</b>");
                 }
             });
-        return false;
+            return false;
         });
 
 
-        $("#UrlBlog").bind("submit", function(evt) {
+        $("#UrlBlog").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var blog = $("#blog").val();
-            console.log(JSON.stringify({Matricola: matricola, Blog: blog}));
+            console.log(JSON.stringify({
+                Matricola: matricola,
+                Blog: blog
+            }));
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
                 contentType: "application/json",
-                data: JSON.stringify({Matricola: matricola, Blog: blog}),
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Blog: blog
+                }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneBlog").text(data.Blog);
                     $("#infoBlog").html("<b>Modificato!</b>");
                 },
-                error: function (jqXHR, textStatus, errorThrown) {
-                    $("#infoBlog").html("<b>Si e' verificato un errore.</b><br><br>");
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoBlog").html(
+                        "<b>Si e' verificato un errore.</b><br><br>"
+                    );
                 }
             });
-        return false;
+            return false;
         });
 
 
-        $("#AccountTwitter").bind("submit", function(evt) {
+        $("#AccountTwitter").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var twitter = $("#twitter").val();;
-            console.log(JSON.stringify({Matricola: matricola, Twitter: twitter}));
+            console.log(JSON.stringify({
+                Matricola: matricola,
+                Twitter: twitter
+            }));
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
                 contentType: "application/json",
-                data: JSON.stringify({Matricola: matricola, Twitter: twitter}),
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Twitter: twitter
+                }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneTwitter").text(data.Twitter);
-                    $("#infoTwitter").html("<b>Modificato!</b>");
+                    $("#infoTwitter").html(
+                        "<b>Modificato!</b>");
                 },
-                error: function (jqXHR, textStatus, errorThrown) {
-                    $("#infoTwitter").html("<b>Si e' verificato un errore.</b><br><br>");
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoTwitter").html(
+                        "<b>Si e' verificato un errore.</b><br><br>"
+                    );
                 }
             });
-        return false;
+            return false;
         });
 
 
-        $("#UrlVideo").bind("submit", function(evt) {
+        $("#UrlVideo").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var video = $("#video").val();;
-            console.log(JSON.stringify({Matricola: matricola, Video: video}));
+            console.log(JSON.stringify({
+                Matricola: matricola,
+                Video: video
+            }));
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
                 contentType: "application/json",
-                data: JSON.stringify({Matricola: matricola, Video: video}),
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Video: video
+                }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneVideo").text(data.Video);
                     $("#infoVideo").html("<b>Modificato!</b>");
                 },
-                error: function (jqXHR, textStatus, errorThrown) {
-                    $("#infoVideo").html("<b>Si e' verificato un errore.</b><br><br>");
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoVideo").html(
+                        "<b>Si e' verificato un errore.</b><br><br>"
+                    );
                 }
             });
-        return false;
+            return false;
         });
     </script>
 
 </body>
+
 </html>
