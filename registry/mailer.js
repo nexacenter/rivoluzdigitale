@@ -29,6 +29,9 @@
 // The mailer
 //
 
+/*jslint node: true */
+"use strict";
+
 var nodemailer = require("nodemailer");
 var fs = require("fs");
 var utils = require("./utils.js");
@@ -44,6 +47,7 @@ var utils = require("./utils.js");
  *     }
  *   }
  */
+
 var mailConf = {};
 
 exports.init = function (callback) {
@@ -56,7 +60,8 @@ exports.init = function (callback) {
         }
         if (mailConf.override !== undefined) {
             console.warn("mailer: config: OVERRIDE to <%s>", mailConf.override);
-            console.warn("mailer: config: assuming you are testing the registry...");
+            console.warn(
+                "mailer: config: assuming you are testing the registry...");
         }
         console.info("mailer: config: success");
         callback();
@@ -65,38 +70,38 @@ exports.init = function (callback) {
 
 exports.sendToken = function (matricola) {
     fs.readFile("./studenti/s" + matricola + ".json",
-      "utf8", function (error, data) {
-        var address, student, token;
+        "utf8", function (error, data) {
+            var address, student, token;
 
-        if (error) {
-            console.warn("mailer: cannot open student file");
-            utils.internalError(error, request, response);
-            return;
-        }
+            if (error) {
+                console.warn("mailer: cannot open student file");
+                utils.internalError(error, request, response);
+                return;
+            }
 
-        student = JSON.parse(data);
-        if (student === null) {
-            console.warn("mailer: cannot parse student json");
-            utils.internalError("mailer: student json parsing error",
-              request, response);
-            return;
-        }
-        token = student.Token;
+            student = JSON.parse(data);
+            if (student === null) {
+                console.warn("mailer: cannot parse student json");
+                utils.internalError("mailer: student json parsing error",
+                    request, response);
+                return;
+            }
+            token = student.Token;
 
-        address = "s" + matricola + "@studenti.polito.it";
+            address = "s" + matricola + "@studenti.polito.it";
 
-        // Override the destination address for testing purpose
-        if (mailConf.override !== undefined) {
-            console.warn("mailer: honor OVERRIDE <%s>", mailConf.override);
-            address = mailConf.override;
-        }
+            // Override the destination address for testing purpose
+            if (mailConf.override !== undefined) {
+                console.warn("mailer: honor OVERRIDE <%s>", mailConf.override);
+                address = mailConf.override;
+            }
 
-        exports.reallySendToken__(address, token);
-    });
+            exports.reallySendToken__(address, token);
+        });
 };
 
 // Separate semi-private function for testability
-exports.reallySendToken__ = function(address, token) {
+exports.reallySendToken__ = function (address, token) {
     var smtpTransport;
 
     smtpTransport = nodemailer.createTransport("SMTP", {
@@ -110,14 +115,14 @@ exports.reallySendToken__ = function(address, token) {
         bcc: mailConf["sender"],
         subject: "Registrazione sul server RD",
         text: "Questa e' una mail automatica proveniente dal server " +
-              "del corso Rivoluzione Digitale:\n\n" +
-              "Per completare la registrazione vai su: " +
-              "http://kingslanding.polito.it:8080/login_once " +
-              "e inserisci la chiave.\n\n" +
-              "Chiave: " + token + "\n"
+            "del corso Rivoluzione Digitale:\n\n" +
+            "Per completare la registrazione vai su: " +
+            "http://kingslanding.polito.it:8080/login_once " +
+            "e inserisci la chiave.\n\n" +
+            "Chiave: " + token + "\n"
     };
 
-    smtpTransport.sendMail(mailOptions, function(error, response) {
+    smtpTransport.sendMail(mailOptions, function (error, response) {
         if (error) {
             console.warn(error);
         } else {

@@ -1,5 +1,35 @@
-var fs = require ("fs");
-var utils = require ("./utils.js");
+// registry/backend.js
+
+/*
+ * Copyright (c) 2014
+ *     Nexa Center for Internet & Society, Politecnico di Torino (DAUIN),
+ *     Alessio Melandri <alessiom92@gmail.com> and
+ *     Simone Basso <bassosimone@gmail.com>.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ * SOFTWARE.
+ */
+
+/*jslint node: true */
+"use strict";
+
+var fs = require("fs");
+var utils = require("./utils.js");
 
 var MATRICOLA = /^[0-9]{6}$/;
 var TOKEN = /^[A-Fa-f0-9]{20}$/;
@@ -7,15 +37,15 @@ var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{20})$/;
 var PWDHASH = /^[A-Fa-f0-9]{32}$/;
 
 exports.validMatricola = function (maybeMatricola) {
-    return maybeMatricola.match( MATRICOLA );
+    return maybeMatricola.match(MATRICOLA);
 };
 
 exports.validToken = function (maybeToken) {
-    return maybeToken.match( TOKEN );
+    return maybeToken.match(TOKEN);
 };
 
 exports.validPwdHash = function (maybePwdHash) {
-    return maybePwdHash.match( PWDHASH );
+    return maybePwdHash.match(PWDHASH);
 };
 
 function fixStringCase(str) {
@@ -26,27 +56,27 @@ exports.getUsers = function (callback) {
     var users;
 
     utils.readFileSync("studenti/.htpasswd", "utf8",
-      function (error, data) {
+        function (error, data) {
 
-        if (error) {
-            console.error("backend: cannot read passwd file");
-            callback(error);
-            return;
-        }
+            if (error) {
+                console.error("backend: cannot read passwd file");
+                callback(error);
+                return;
+            }
 
-        console.info("backend: opening passwd file");
+            console.info("backend: opening passwd file");
 
-        users = utils.safelyParseJSON(data);
-        if (users === null) {
-            console.error("backend: invalid passwd file");
-            callback("backend error");
-            return;
-        }
+            users = utils.safelyParseJSON(data);
+            if (users === null) {
+                console.error("backend: invalid passwd file");
+                callback("backend error");
+                return;
+            }
 
-        console.info("backend: imported %d users", Object.keys(users).length);
+            console.info("backend: imported %d users", Object.keys(users).length);
 
-        callback(null, users);
-    });
+            callback(null, users);
+        });
 };
 
 exports.saveUsers = function (request, response, matricola, hash) {
@@ -63,6 +93,7 @@ exports.saveUsers = function (request, response, matricola, hash) {
         data = JSON.stringify(users, undefined, 4);
 
         utils.writeFileSync("studenti/.htpasswd", data, function (error) {
+
             if (error) {
                 utils.internalError(error, request, response);
                 return;
@@ -77,27 +108,29 @@ exports.saveUsers = function (request, response, matricola, hash) {
     });
 };
 
-exports.readStudentInfo = function(matricola, callback) {
-    console.info("backend: sync reading stud file");
+exports.readStudentInfo = function (matricola, callback) {
+    var stud;
+
+    console.info("backend: reading stud file");
 
     utils.readFileSync("./studenti/s" + matricola + ".json", "utf8",
-      function (error, data) {
-        if (error) {
-            console.error("backend: cannot read student's file");
-            callback(error);
-            return;
-        }
+        function (error, data) {
+            if (error) {
+                console.error("backend: cannot read student's file");
+                callback(error);
+                return;
+            }
 
-        var stud = utils.safelyParseJSON(data);
-        if (stud === null) {
-            callback("json error");
-            return;
-        }
+            stud = utils.safelyParseJSON(data);
+            if (stud === null) {
+                callback("read error");
+                return;
+            }
 
-        console.info("backend: personal data whitout error");
+            console.info("backend: personal data whitout error");
 
-        callback(null, stud);
-    });
+            callback(null, stud);
+        });
 };
 
 function doWriteInfo(curInfo, callback) {
@@ -109,17 +142,17 @@ function doWriteInfo(curInfo, callback) {
 
     data = JSON.stringify(curInfo, undefined, 4);
     utils.writeFileSync("./studenti/s" + curInfo.Matricola + ".json", data,
-      function (error) {
-        if (error) {
-            console.warn("backend: cannot write student's file");
-            callback(error);
-            return;
-        }
-    
-        console.log("backend: student file written");
-        callback();
-    });
-};
+        function (error) {
+            if (error) {
+                console.warn("backend: cannot write student's file");
+                callback(error);
+                return;
+            }
+
+            console.log("backend: student file written");
+            callback();
+        });
+}
 
 var KNOWN_KEYS = {
     "Nome": 17,
@@ -158,7 +191,7 @@ var knownRegExp = [
     /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/
 ];
 
-exports.writeStudentInfo = function(newInfo, callback) {
+exports.writeStudentInfo = function (newInfo, callback) {
     exports.readStudentInfo(newInfo.Matricola, function (error, savedInfo) {
         var index, key;
 
@@ -173,9 +206,10 @@ exports.writeStudentInfo = function(newInfo, callback) {
 
         for (index = 0; index < knownKeys.length; ++index) {
             key = knownKeys[index];
-            if (newInfo[key] === undefined)
+            if (newInfo[key] === undefined) {
                 continue;
-            if (newInfo[key].match( knownRegExp[index] ) === null) {
+            }
+            if (newInfo[key].match(knownRegExp[index]) === null) {
                 console.info("backend: regexp does not match");
                 callback(error);
                 return;
@@ -187,3 +221,4 @@ exports.writeStudentInfo = function(newInfo, callback) {
         doWriteInfo(savedInfo, callback);
     });
 };
+

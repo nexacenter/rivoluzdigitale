@@ -29,6 +29,9 @@
 // Handles the /signup and the /reset requests
 //
 
+/*jslint node: true */
+"use strict";
+
 var backend = require("./backend.js");
 var crypto = require("crypto");
 var fs = require("fs");
@@ -67,55 +70,55 @@ exports.handleMatricola = function (request, response) {
     // If needed, generates a new token and sends the template back
     function possiblySendTemplate(message) {
         backend.readStudentInfo(message.matricola,
-          function(error, studentInfo) {
-            if (error) {
-                utils.internalError(error, request, response);
-                return;
-            }
-
-            try {
-                studentInfo.Token = crypto.randomBytes(20).toString("hex");
-            } catch (error) {
-                utils.internalError(error, request, response);
-                return;
-            }
-
-            backend.writeStudentInfo(studentInfo, function (error) {
+            function (error, studentInfo) {
                 if (error) {
                     utils.internalError(error, request, response);
                     return;
                 }
-                fillAndSendTemplate(studentInfo);
+
+                try {
+                    studentInfo.Token = crypto.randomBytes(20).toString("hex");
+                } catch (error) {
+                    utils.internalError(error, request, response);
+                    return;
+                }
+
+                backend.writeStudentInfo(studentInfo, function (error) {
+                    if (error) {
+                        utils.internalError(error, request, response);
+                        return;
+                    }
+                    fillAndSendTemplate(studentInfo);
+                });
             });
-        });
     }
 
     // Creates the user file and send template
     function createFileAndSendToken(message, cognome, nome) {
         backend.writeStudentInfo({
-            "Nome": nome,
-            "Cognome": cognome,
-            "Matricola": message.matricola,
-            "Token": "",
-            "Blog": "",
-            "Twitter": "",
-            "Wikipedia": "",
-            "Video": ""
-        },
-        function (error) {
-            if (error) {
-                utils.internalError(error, request, response);
-                return;
-            }
-            possiblySendTemplate(message);
-        });
+                "Nome": nome,
+                "Cognome": cognome,
+                "Matricola": message.matricola,
+                "Token": "",
+                "Blog": "",
+                "Twitter": "",
+                "Wikipedia": "",
+                "Video": ""
+            },
+            function (error) {
+                if (error) {
+                    utils.internalError(error, request, response);
+                    return;
+                }
+                possiblySendTemplate(message);
+            });
     }
 
     utils.readBodyJSON(request, response, function (message) {
-        if (!hasValidKeys(message) ||
-            message.Token !== undefined ||
-            !backend.validMatricola(message.Matricola)) {
-            internalError("signup: invalid argument", request, response);
+        if (!backend.hasValidKeys(message) ||
+            message.Token !== undefined || !backend.validMatricola(message.Matricola)
+        ) {
+            utils.internalError("signup: invalid argument", request, response);
             return;
         }
         fs.readFile("studenti/iscritti.json", "utf8", function (error, data) {
@@ -128,8 +131,9 @@ exports.handleMatricola = function (request, response) {
 
             vector = utils.safelyParseJSON(data);
             if (vector === null) {
-                utils.internalError("signup: students database parsing error",
-                  request, response);
+                utils.internalError(
+                    "signup: students database parsing error",
+                    request, response);
                 return;
             }
 
@@ -139,25 +143,28 @@ exports.handleMatricola = function (request, response) {
             // XXX: here we may want to organize the students database
             // by matricola to have O(1) lookup (rather than O(n)).
             //
-            for (i = 0; i < vector.length; i++)
-                if (vector[i].MATRICOLA === message.matricola)
+            for (i = 0; i < vector.length; i++) {
+                if (vector[i].MATRICOLA === message.matricola) {
                     break;
+                }
+            }
             if (i === vector.length) {
                 utils.internalError("signup: matricola not found",
-                  request, response);
+                    request, response);
                 return;
             }
 
             console.info("signup: FOUND_STUDENT");
 
             fs.exists("./studenti/s" + message.matricola + ".json",
-              function(exists) {
-                if (!exists)
-                    createFileAndSendToken(message, vector[i].COGNOME,
-                      vector[i].NOME);
-                else
-                    possiblySendTemplate(message);
-            });
+                function (exists) {
+                    if (!exists) {
+                        createFileAndSendToken(message, vector[i].COGNOME,
+                            vector[i].NOME);
+                    } else {
+                        possiblySendTemplate(message);
+                    }
+                });
         });
     });
 
@@ -170,10 +177,10 @@ exports.handleMatricola = function (request, response) {
 exports.handleConfirm = function (request, response) {
     utils.readBodyJSON(request, response, function (message) {
 
-        if (!hasValidKeys(message) ||
-            message.Token !== undefined ||
-            !backend.validMatricola(message.Matricola)) {
-            internalError("signup: invalid argument", request, response);
+        if (!backend.hasValidKeys(message) ||
+            message.Token !== undefined || !backend.validMatricola(message.Matricola)
+        ) {
+            utils.internalError("signup: invalid argument", request, response);
             return;
         }
 

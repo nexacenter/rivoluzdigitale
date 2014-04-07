@@ -29,9 +29,10 @@
 // Manage the '/login' URL.
 //
 
+/*jslint node: true */
 'use strict';
 
-var backend = require ("./backend.js");
+var backend = require("./backend.js");
 var fs = require("fs");
 var http = require("http");
 var priv = require("./private.js");
@@ -39,7 +40,7 @@ var utils = require("./utils.js");
 
 var realm = "Area studenti";
 
-function verifyLogin (request, response, callback) {
+function verifyLogin(request, response, callback) {
 
     backend.getUsers(function (error, users) {
 
@@ -53,7 +54,8 @@ function verifyLogin (request, response, callback) {
             console.log("login: unauthorized");
             response.writeHead(401, {
                 'Content-Type': 'text/html',
-                'WWW-Authenticate': 'Digest realm="' + realm + '",qop="auth"'
+                'WWW-Authenticate': 'Digest realm="' + realm +
+                    '",qop="auth"'
             });
             response.end();
             return;
@@ -64,13 +66,13 @@ function verifyLogin (request, response, callback) {
     });
 }
 
-exports.handleRequest = function(request, response) {
+exports.handleRequest = function (request, response) {
     verifyLogin(request, response, function (user) {
         priv.generatePage(request, response, user);
     });
 };
 
-exports.modPage = function(request, response) {
+exports.modPage = function (request, response) {
     verifyLogin(request, response, function () {
         priv.modPage(request, response);
     });
