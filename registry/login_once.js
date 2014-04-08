@@ -59,9 +59,10 @@ var handleRequest = function (request, response, matricola, token, hash) {
                 return;
             }
             utils.writeHeadVerboseCORS(response, 200, {
-                "Content-Type": "text/plain"
+                "Content-Type": "text/html"
             });
-            response.end("Password aggiunta con successo!");
+            response.end("Password aggiunta con successo! Fai <a href='" +
+                "/login'>Login</a>");
         });
     });
 };
