@@ -25,11 +25,15 @@
  * SOFTWARE.
  */
 
+//
+// Code to manage the backend
+//
+
 /*jslint node: true */
 "use strict";
 
 var fs = require("fs");
-var utils = require("./utils.js");
+var utils = require("./utils");
 
 var MATRICOLA = /^[0-9]{6}$/;
 var TOKEN = /^[A-Fa-f0-9]{40}$/;
@@ -54,27 +58,33 @@ function fixStringCase(str) {
 
 exports.getUsers = function (callback) {
 
+    console.info("backend: getUsers");
+
+    // Note: sync so we don't need to deal with concurrent I/O
     utils.readFileSync("studenti/.htpasswd", "utf8",
         function (error, data) {
             var users;
 
+            console.info("backend: getUsers callback");
+
             if (error) {
-                console.error("backend: cannot read passwd file");
+                console.warn("backend: can't read passwd file");
                 callback(error);
                 return;
             }
 
-            console.info("backend: opening passwd file");
+            console.info("backend: successfully read passwd file");
 
             users = utils.safelyParseJSON(data);
             if (users === null) {
-                console.error("backend: invalid passwd file");
-                callback("backend error");
+                console.warn("backend: can't parse passwd file");
+                callback("backend: safelyParseJSON failed");
                 return;
             }
 
-            console.info("backend: imported %d users", Object.keys(users).length);
+            // TODO: validate users?
 
+            console.info("backend: imported %d users", Object.keys(users).length);
             callback(null, users);
         });
 };
@@ -93,6 +103,7 @@ exports.saveUsers = function (matricola, hash, callback) {
 
         data = JSON.stringify(users, undefined, 4);
 
+        // Note: sync so we don't need to deal with concurrent I/O
         utils.writeFileSync("studenti/.htpasswd", data, function (error) {
 
             if (error) {
@@ -107,26 +118,31 @@ exports.saveUsers = function (matricola, hash, callback) {
 };
 
 exports.readStudentInfo = function (matricola, callback) {
-    var stud;
 
-    console.info("backend: reading stud file");
+    console.info("backend: readStudentInfo");
 
+    // Note: sync so we don't need to deal with concurrent I/O
     utils.readFileSync("./studenti/s" + matricola + ".json", "utf8",
         function (error, data) {
+            var stud;
+
+            console.info("backend: readStudentInfo callback");
+
             if (error) {
-                console.error("backend: cannot read student's file");
+                console.error("backend: readStudentInfo: read error");
                 callback(error);
                 return;
             }
 
             stud = utils.safelyParseJSON(data);
             if (stud === null) {
-                callback("read error");
+                callback("backend: readStudentInfo: invalid JSON");
                 return;
             }
 
-            console.info("backend: personal data whitout error");
+            // TODO: validate stud?
 
+            console.info("backend: readStudentInfo: success");
             callback(null, stud);
         });
 };
@@ -139,6 +155,8 @@ function doWriteInfo(curInfo, callback) {
     curInfo.Nome = fixStringCase(curInfo.Nome);
 
     data = JSON.stringify(curInfo, undefined, 4);
+
+    // Note: sync so we don't need to deal with concurrent I/O
     utils.writeFileSync("./studenti/s" + curInfo.Matricola + ".json", data,
         function (error) {
             if (error) {

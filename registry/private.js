@@ -25,51 +25,67 @@
  * SOFTWARE.
  */
 
+//
+// Generates the pages you see when you're logged in
+//
+
 /*jslint node: true */
 "use strict";
 
-var backend = require("./backend.js");
+var backend = require("./backend");
 var fs = require("fs");
-var utils = require("./utils.js");
+var utils = require("./utils");
 
 var generatePage = function (request, response, matricola) {
+    console.info("priv: generatePage");
     backend.readStudentInfo(matricola, function (error, stud) {
+        console.info("priv: generatePage callback");
         if (error) {
             utils.internalError(error, request, response);
             return;
         }
 
-        fs.readFile("./html/private.tpl.html", "utf8", function (error,
-            data) {
-            console.info("private: sending personal page");
-            data = data.replace(/@MATRICOLA@/g, matricola);
-            data = data.replace(/@NOME@/g, stud.Nome);
-            data = data.replace(/@COGNOME@/g, stud.Cognome);
+        fs.readFile("./html/private.tpl.html", "utf8",
+            function (error, data) {
+                console.info("priv: generatePage: readFile callback");
 
-            data = data.replace(/@BLOG@/g, stud.Blog);
-            data = data.replace(/@TWITTER@/g, stud.Twitter);
-            data = data.replace(/@WIKIPEDIA@/g, stud.Wikipedia);
-            data = data.replace(/@VIDEO@/g, stud.Video);
+                if (error) {
+                    utils.internalError(error, request, response);
+                    return;
+                }
 
-            utils.writeHeadVerboseCORS(response, 200, {
-                "Content-Type": "text/html"
+                console.info("priv: sending personal page");
+
+                // XXX: better to do this on the client side
+                data = data.replace(/@MATRICOLA@/g, matricola);
+                data = data.replace(/@NOME@/g, stud.Nome);
+                data = data.replace(/@COGNOME@/g, stud.Cognome);
+                data = data.replace(/@BLOG@/g, stud.Blog);
+                data = data.replace(/@TWITTER@/g, stud.Twitter);
+                data = data.replace(/@WIKIPEDIA@/g, stud.Wikipedia);
+                data = data.replace(/@VIDEO@/g, stud.Video);
+
+                utils.writeHeadVerboseCORS(response, 200, {
+                    "Content-Type": "text/html"
+                });
+
+                response.write(data);
+                response.end();
             });
-
-            response.write(data);
-            response.end();
-        });
     });
 };
 
 var modPage = function (request, response) {
     utils.readBodyJSON(request, response, function (stud) {
-        if (!backend.hasValidKeys(stud) ||
-            stud.Token !== undefined || !backend.validMatricola(stud.Matricola)
-        ) {
+        if (!backend.hasValidKeys(stud) || stud.Token !== undefined
+                || !backend.validMatricola(stud.Matricola)) {
             utils.internalError("private: invalid argument", request, response);
             return;
         }
         backend.writeStudentInfo(stud, function (error) {
+            //
+            // FIXME: here we ignore the error
+            //
             utils.writeHeadVerboseCORS(response, 200, {
                 "Content-Type": "application/json"
             });
