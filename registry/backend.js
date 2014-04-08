@@ -53,10 +53,10 @@ function fixStringCase(str) {
 }
 
 exports.getUsers = function (callback) {
-    var users;
 
     utils.readFileSync("studenti/.htpasswd", "utf8",
         function (error, data) {
+            var users;
 
             if (error) {
                 console.error("backend: cannot read passwd file");
@@ -99,7 +99,7 @@ exports.saveUsers = function (request, response, matricola, hash) {
                 utils.internalError(error, request, response);
                 return;
             }
-            console.log("login_once: password stored for %s",matricola);
+            console.log("backend: password stored for %s", matricola);
             utils.writeHeadVerboseCORS(response, 200, {
                 "Content-Type": "text/html"
             });
@@ -163,7 +163,8 @@ var KNOWN_KEYS = {
     "Blog": 17,
     "Twitter": 17,
     "Wikipedia": 17,
-    "Video": 17
+    "Video": 17,
+    "Hash": 17
 };
 
 var knownKeys = Object.keys(KNOWN_KEYS);
@@ -189,7 +190,8 @@ var knownRegExp = [
     /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
     /^(|@[A-Za-z0-9_]{1,15})$/,
     /^(|(U|u)tente\:.*)$/,
-    /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/
+    /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
+    PWDHASH
 ];
 
 exports.writeStudentInfo = function (newInfo, callback) {

@@ -64,12 +64,12 @@ exports.handleToken = function (request, response) {
     utils.readBodyJSON(request, response, function (stud) {
         if (!backend.hasValidKeys(stud) || !backend.validToken(stud.Token) ||
                 !backend.validMatricola(stud.Matricola) || !backend.validPwdHash(
-                stud.hash)) {
+                stud.Hash)) {
             utils.internalError("login_once: invalid argument", request, response);
             return;
         }
         console.info("handleToken: ricevuto token %s", stud.Token);
-        handleRequest(request, response, stud.Matricola, stud.Token, stud.hash);
+        handleRequest(request, response, stud.Matricola, stud.Token, stud.Hash);
     });
 };
 
