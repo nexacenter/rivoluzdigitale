@@ -211,7 +211,7 @@ exports.writeStudentInfo = function (newInfo, callback) {
             }
             if (newInfo[key].match(knownRegExp[index]) === null) {
                 console.info("backend: regexp does not match");
-                callback(error);
+                callback("signup: regexp doest not match");
                 return;
             }
             console.info("backend: regexp match");
