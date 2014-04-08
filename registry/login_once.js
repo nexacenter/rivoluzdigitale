@@ -62,14 +62,14 @@ var handleRequest = function (request, response, matricola, token, hash) {
 exports.handleToken = function (request, response) {
     console.info("handleToken: harvesting token");
     utils.readBodyJSON(request, response, function (stud) {
-        if (!backend.hasValidKeys(stud) || !backend.validToken(stud.token) || 
-                !backend.validMatricola(stud.matricola) || !backend.validPwdHash(
+        if (!backend.hasValidKeys(stud) || !backend.validToken(stud.Token) ||
+                !backend.validMatricola(stud.Matricola) || !backend.validPwdHash(
                 stud.hash)) {
             utils.internalError("login_once: invalid argument", request, response);
             return;
         }
-        console.info("handleToken: ricevuto token %s", stud.token);
-        handleRequest(request, response, stud.matricola, stud.token, stud.hash);
+        console.info("handleToken: ricevuto token %s", stud.Token);
+        handleRequest(request, response, stud.Matricola, stud.Token, stud.hash);
     });
 };
 
