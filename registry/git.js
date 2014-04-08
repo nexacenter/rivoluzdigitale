@@ -33,9 +33,15 @@
 
 var child_process = require("child_process");
 
+//
+// Note: Git does not like it, if we write into the log file while we
+// prepare to commit. For this reason, the log statements below have
+// been commented out by me.
+//
+
 // Would be dangerous to use this function w/o static command
 function execGit__(command, callback) {
-    console.info("git: about to run '%s'", command);
+    //console.info("git: about to run '%s'", command);
     child_process.exec(command, {
         "cwd": "studenti",
         "timeout": 10,
@@ -48,10 +54,10 @@ function execGit__(command, callback) {
         }},
         function (error, stdout, stderr) {
             if (error) {
-                console.warn("git: '%s' failed: %s", command, error);
+                //console.warn("git: '%s' failed: %s", command, error);
                 return;
             }
-            console.info("git: '%s' succeeded", command);
+            //console.info("git: '%s' succeeded", command);
             if (callback !== undefined) {
                 callback(stdout, stderr);
             }
@@ -64,7 +70,7 @@ function gitCommit() {
 
 function parseGitStatus(stdout) {
     if (stdout.length === 0) {
-        console.info("git: nothing to commit");
+        //console.info("git: nothing to commit");
         return;
     }
     gitCommit();
