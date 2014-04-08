@@ -58,7 +58,7 @@ var writeHeadVerboseCORS = function (response, status, headers) {
 };
 
 var internalError = function (error, request, response) {
-    console.error(error);
+    console.error("Internal error:", error);
     writeHeadVerboseCORS(response, 500);
     response.end();
 };
