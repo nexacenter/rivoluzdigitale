@@ -82,6 +82,7 @@ exports.getUsers = function (callback) {
 exports.saveUsers = function (request, response, matricola, hash) {
 
     exports.getUsers(function (error, users) {
+        var data;
 
         if (error) {
             utils.internalError(error, request, response);
