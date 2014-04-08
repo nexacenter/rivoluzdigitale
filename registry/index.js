@@ -1,4 +1,4 @@
-// registry/frontend.js
+// registry/index.js
 
 /*
  * Copyright (c) 2014
@@ -25,17 +25,26 @@
  * SOFTWARE.
  */
 
+//
+// Index
+//
+
 /*jslint node: true */
 "use strict";
 
-var git = require("./git");
-var mailer = require("./mailer");
-var mainRouter = require("./router");
-var mainServer = require("./server");
+var cluster = require("cluster");
+var frontend = require("./frontend");
 
-exports.start = function () {
-    git.start();
-    mailer.init(function () {
-        mainServer.start(mainRouter.handleRequest);
+if (cluster.isMaster) {
+    console.info("index: spawn child process");
+    cluster.fork();
+    cluster.on("exit", function () {
+        setTimeout(function () {
+            console.info("index: respawn child process");
+            cluster.fork();
+        }, 1000);
     });
-};
+
+} else {
+    frontend.start();
+}

@@ -69,8 +69,16 @@ exports.handleMatricola = function (request, response) {
 
     // If needed, generates a new token and sends the template back
     function possiblySendTemplate(message) {
-        backend.readStudentInfo(message.matricola,
+
+        console.info("signup: possiblySendTemplate");
+
+        backend.readStudentInfo(message.Matricola,
             function (error, studentInfo) {
+
+                console.info(
+                    "signup: possiblySendTemplate after readStudentInfo"
+                );
+
                 if (error) {
                     utils.internalError(error, request, response);
                     return;
@@ -84,6 +92,11 @@ exports.handleMatricola = function (request, response) {
                 }
 
                 backend.writeStudentInfo(studentInfo, function (error) {
+
+                    console.info(
+                        "signup: possiblySendTemplate after writeStudentInfo"
+                    );
+
                     if (error) {
                         utils.internalError(error, request, response);
                         return;
@@ -95,10 +108,13 @@ exports.handleMatricola = function (request, response) {
 
     // Creates the user file and send template
     function createFileAndSendToken(message, cognome, nome) {
+
+        console.info("signup: createFileAndSendToken");
+
         backend.writeStudentInfo({
                 "Nome": nome,
                 "Cognome": cognome,
-                "Matricola": message.matricola,
+                "Matricola": message.Matricola,
                 "Token": "",
                 "Blog": "",
                 "Twitter": "",
@@ -144,7 +160,7 @@ exports.handleMatricola = function (request, response) {
             // by matricola to have O(1) lookup (rather than O(n)).
             //
             for (i = 0; i < vector.length; i++) {
-                if (vector[i].MATRICOLA === message.matricola) {
+                if (vector[i].MATRICOLA === message.Matricola) {
                     break;
                 }
             }
@@ -156,7 +172,7 @@ exports.handleMatricola = function (request, response) {
 
             console.info("signup: FOUND_STUDENT");
 
-            fs.exists("./studenti/s" + message.matricola + ".json",
+            fs.exists("./studenti/s" + message.Matricola + ".json",
                 function (exists) {
                     if (!exists) {
                         createFileAndSendToken(message, vector[i].COGNOME,
@@ -184,8 +200,8 @@ exports.handleConfirm = function (request, response) {
             return;
         }
 
-        console.info("signup: sending email to %s", message.matricola);
-        mailer.sendToken(message.matricola);
+        console.info("signup: sending email to %s", message.Matricola);
+        mailer.sendToken(message.Matricola);
 
         utils.writeHeadVerboseCORS(response, 200);
         response.end();

@@ -32,20 +32,17 @@
 /*jslint node: true */
 "use strict";
 
-
 var authlib = require("http-digest-auth");
 var fs = require("fs");
 
 var writeHeadVerbose = function (response, status, headers) {
-    var key;
-
     if (headers === undefined) {
         headers = {};
     }
     console.info("> HTTP/1.1 %d ...", status);
-    for (key = 0; key < headers.length; key++) {
+    Object.keys(headers).forEach(function (key) {
         console.info("> %s: %s", key, headers[key]);
-    }
+    });
     console.info(">");
     response.writeHead(status, headers);
 };
@@ -91,13 +88,11 @@ var safelyParseJSON = function (data) {
 };
 
 exports.logRequest = function (request) {
-    var key;
-
     console.info("< %s %s HTTP/%s", request.method, request.url,
         request.httpVersion);
-    for (key = 0; key < request.headers.length; key++) {
+    Object.keys(request.headers).forEach(function (key) {
         console.info("< %s: %s", key, request.headers[key]);
-    }
+    });
     console.info("<");
 };
 
@@ -128,8 +123,7 @@ exports.readBodyJSON = function (request, response, callback) {
     });
 
     request.on("end", function () {
-        var bodyString, 
-            stud;
+        var bodyString, stud;
 
         console.info("readBodyJSON: BODY_END");
 
@@ -177,21 +171,23 @@ exports.servePath__ = function (filename, response) {
 exports.readFileSync = function (pathname, encoding, callback) {
     try {
         var data = fs.readFileSync(pathname, encoding);
-        callback(null, data);
     } catch (error) {
         console.warn("readFileSync: %s", error);
         callback(error);
+        return;
     }
+    callback(null, data);
 };
 
 exports.writeFileSync = function (pathname, data, callback) {
     try {
         fs.writeFileSync(pathname, data);
-        callback();
     } catch (error) {
         console.warn("writeFileSync: %s", error);
         callback(error);
+        return;
     }
+    callback();
 };
 
 //

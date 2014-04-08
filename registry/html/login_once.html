@@ -58,7 +58,7 @@
                     url: "/token_sent",
                     type: "POST",
                     contentType: "application/json",
-                    data: JSON.stringify({matricola: matricola, token: token, hash: hash}),
+                    data: JSON.stringify({Matricola: matricola, Token: token, Hash: hash}),
                     success: function (data, textStatus, jqXHR) {
                         $("#step2").html(data);
                     },

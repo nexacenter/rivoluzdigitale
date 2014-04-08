@@ -32,8 +32,8 @@ var fs = require("fs");
 var utils = require("./utils.js");
 
 var MATRICOLA = /^[0-9]{6}$/;
-var TOKEN = /^[A-Fa-f0-9]{20}$/;
-var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{20})$/;
+var TOKEN = /^[A-Fa-f0-9]{40}$/;
+var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{40})$/;
 var PWDHASH = /^[A-Fa-f0-9]{32}$/;
 
 exports.validMatricola = function (maybeMatricola) {
@@ -53,10 +53,10 @@ function fixStringCase(str) {
 }
 
 exports.getUsers = function (callback) {
-    var users;
 
     utils.readFileSync("studenti/.htpasswd", "utf8",
         function (error, data) {
+            var users;
 
             if (error) {
                 console.error("backend: cannot read passwd file");
@@ -82,6 +82,7 @@ exports.getUsers = function (callback) {
 exports.saveUsers = function (request, response, matricola, hash) {
 
     exports.getUsers(function (error, users) {
+        var data;
 
         if (error) {
             utils.internalError(error, request, response);
@@ -98,7 +99,7 @@ exports.saveUsers = function (request, response, matricola, hash) {
                 utils.internalError(error, request, response);
                 return;
             }
-            console.log("login_once: password stored for %s",matricola);
+            console.log("backend: password stored for %s", matricola);
             utils.writeHeadVerboseCORS(response, 200, {
                 "Content-Type": "text/html"
             });
@@ -162,7 +163,8 @@ var KNOWN_KEYS = {
     "Blog": 17,
     "Twitter": 17,
     "Wikipedia": 17,
-    "Video": 17
+    "Video": 17,
+    "Hash": 17
 };
 
 var knownKeys = Object.keys(KNOWN_KEYS);
@@ -188,12 +190,18 @@ var knownRegExp = [
     /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
     /^(|@[A-Za-z0-9_]{1,15})$/,
     /^(|(U|u)tente\:.*)$/,
-    /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/
+    /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
+    PWDHASH
 ];
 
 exports.writeStudentInfo = function (newInfo, callback) {
+
+    console.info("backend: writeStudentInfo");
+
     exports.readStudentInfo(newInfo.Matricola, function (error, savedInfo) {
         var index, key;
+
+        console.info("backend: writeStudentInfo after readStudentInfo");
 
         if (error && error.code === "ENOENT") {
             doWriteInfo(newInfo, callback);
@@ -211,7 +219,7 @@ exports.writeStudentInfo = function (newInfo, callback) {
             }
             if (newInfo[key].match(knownRegExp[index]) === null) {
                 console.info("backend: regexp does not match");
-                callback(error);
+                callback("signup: regexp doest not match");
                 return;
             }
             console.info("backend: regexp match");
@@ -221,4 +229,3 @@ exports.writeStudentInfo = function (newInfo, callback) {
         doWriteInfo(savedInfo, callback);
     });
 };
-
