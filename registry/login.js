@@ -32,48 +32,60 @@
 /*jslint node: true */
 'use strict';
 
-var backend = require("./backend.js");
+var backend = require("./backend");
 var fs = require("fs");
 var http = require("http");
-var priv = require("./private.js");
-var utils = require("./utils.js");
+var priv = require("./private");
+var utils = require("./utils");
 
-var realm = "Area studenti";
+var REALM = "RivoluzPaginaPersonale";
 
 function verifyLogin(request, response, callback) {
 
+    console.info("login: verifyLogin");
     backend.getUsers(function (error, users) {
+        console.info("login: verifyLogin callback");
 
         if (error) {
             utils.internalError(error, request, response);
             return;
         }
 
-        var user = utils.safelyLogin(request, response, realm, users);
+        var user = utils.safelyLogin(request, response, REALM, users);
         if (user === false) {
-            console.log("login: unauthorized");
-            response.writeHead(401, {
-                'Content-Type': 'text/html',
-                'WWW-Authenticate': 'Digest realm="' + realm +
+            console.warn("login: unauthorized");
+            utils.writeHeadVerboseCORS(response, 401, {
+                'WWW-Authenticate': 'Digest realm="' + REALM +
                     '",qop="auth"'
             });
             response.end();
             return;
         }
 
-        console.log("login: logged in as: %s", user);
+        // Just in case, should not really happen
+        if (!backend.validMatricola(user)) {
+            console.warn("login: invalid user");
+            utils.internalError("login: invalid user", request, response);
+            return;
+        }
+
+        console.info("login: logged in as: %s", user);
         callback(user);
     });
 }
 
 exports.handleRequest = function (request, response) {
+    console.info("login: handleRequest");
     verifyLogin(request, response, function (user) {
+        console.info("login: handleRequest callback");
         priv.generatePage(request, response, user);
     });
 };
 
 exports.modPage = function (request, response) {
+    console.info("login: modPage");
     verifyLogin(request, response, function () {
+        console.info("login: modPage callback");
         priv.modPage(request, response);
     });
 };

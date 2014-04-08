@@ -51,7 +51,7 @@
                 var token = $("#Token").val();
                 var password  = $("#Password").val();
 
-                var hash = $.md5(matricola+":Area studenti:"+password);
+                var hash = $.md5(matricola+":RivoluzPaginaPersonale:"+password);
                 console.log(JSON.stringify({matricola: matricola, token: token, hash: hash}));
 
                 $.ajax({

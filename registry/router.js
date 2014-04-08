@@ -74,9 +74,5 @@ exports.handleRequest = function (request, response) {
         return;
     }
 
-    try {
-        handler(request, response);
-    } catch (error) {
-        /* ??? */
-    }
+    handler(request, response);
 };

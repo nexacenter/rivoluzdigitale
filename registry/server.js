@@ -85,6 +85,11 @@ exports.start = function (route, port) {
         console.info("server: %s", fingerprint);
     }
 
+    //
+    // Note: Node.js automatically deals with clientError (e.g., connection
+    // reset by peer): it silently closes the socket.
+    //
+
     server.on("listening", listeningHandler);
     server.listen(port, "0.0.0.0");
 };
