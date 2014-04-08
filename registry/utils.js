@@ -32,7 +32,6 @@
 /*jslint node: true */
 "use strict";
 
-
 var authlib = require("http-digest-auth");
 var fs = require("fs");
 
@@ -124,8 +123,7 @@ exports.readBodyJSON = function (request, response, callback) {
     });
 
     request.on("end", function () {
-        var bodyString, 
-            stud;
+        var bodyString, stud;
 
         console.info("readBodyJSON: BODY_END");
 
@@ -173,21 +171,23 @@ exports.servePath__ = function (filename, response) {
 exports.readFileSync = function (pathname, encoding, callback) {
     try {
         var data = fs.readFileSync(pathname, encoding);
-        callback(null, data);
     } catch (error) {
         console.warn("readFileSync: %s", error);
         callback(error);
+        return;
     }
+    callback(null, data);
 };
 
 exports.writeFileSync = function (pathname, data, callback) {
     try {
         fs.writeFileSync(pathname, data);
-        callback();
     } catch (error) {
         console.warn("writeFileSync: %s", error);
         callback(error);
+        return;
     }
+    callback();
 };
 
 //
