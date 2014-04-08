@@ -44,18 +44,16 @@ var handleRequest = function (request, response, matricola, token, hash) {
         }
         if (obj.Token !== token) {
             console.info("login_once: wrong token");
-            utils.writeHeadVerboseCORS(response, 200, {
-                "Content-Type": "text/html"
+            utils.writeHeadVerboseCORS(response, 500, {
+                "Content-Type": "text/plain"
             });
             response.end(
                 "La chiave inserita non e' quella corretta per questa matricola."
             );
             return;
-        } else {
-            console.info("login_once: right token --> saveUsers");
-            backend.saveUsers(request, response, matricola, hash);
         }
-
+        console.info("login_once: right token --> saveUsers");
+        backend.saveUsers(request, response, matricola, hash);
     });
 };
 
