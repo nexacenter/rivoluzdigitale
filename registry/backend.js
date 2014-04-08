@@ -192,8 +192,13 @@ var knownRegExp = [
 ];
 
 exports.writeStudentInfo = function (newInfo, callback) {
+
+    console.info("backend: writeStudentInfo");
+
     exports.readStudentInfo(newInfo.Matricola, function (error, savedInfo) {
         var index, key;
+
+        console.info("backend: writeStudentInfo after readStudentInfo");
 
         if (error && error.code === "ENOENT") {
             doWriteInfo(newInfo, callback);
@@ -221,4 +226,3 @@ exports.writeStudentInfo = function (newInfo, callback) {
         doWriteInfo(savedInfo, callback);
     });
 };
-

@@ -69,8 +69,16 @@ exports.handleMatricola = function (request, response) {
 
     // If needed, generates a new token and sends the template back
     function possiblySendTemplate(message) {
+
+        console.info("signup: possiblySendTemplate");
+
         backend.readStudentInfo(message.Matricola,
             function (error, studentInfo) {
+
+                console.info(
+                    "signup: possiblySendTemplate after readStudentInfo"
+                );
+
                 if (error) {
                     utils.internalError(error, request, response);
                     return;
@@ -84,6 +92,11 @@ exports.handleMatricola = function (request, response) {
                 }
 
                 backend.writeStudentInfo(studentInfo, function (error) {
+
+                    console.info(
+                        "signup: possiblySendTemplate after writeStudentInfo"
+                    );
+
                     if (error) {
                         utils.internalError(error, request, response);
                         return;
@@ -95,6 +108,9 @@ exports.handleMatricola = function (request, response) {
 
     // Creates the user file and send template
     function createFileAndSendToken(message, cognome, nome) {
+
+        console.info("signup: createFileAndSendToken");
+
         backend.writeStudentInfo({
                 "Nome": nome,
                 "Cognome": cognome,
