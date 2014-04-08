@@ -79,13 +79,13 @@ exports.getUsers = function (callback) {
         });
 };
 
-exports.saveUsers = function (request, response, matricola, hash) {
+exports.saveUsers = function (matricola, hash, callback) {
 
     exports.getUsers(function (error, users) {
         var data;
 
         if (error) {
-            utils.internalError(error, request, response);
+            callback(error);
             return;
         }
 
@@ -96,14 +96,11 @@ exports.saveUsers = function (request, response, matricola, hash) {
         utils.writeFileSync("studenti/.htpasswd", data, function (error) {
 
             if (error) {
-                utils.internalError(error, request, response);
+                callback(error);
                 return;
             }
             console.log("backend: password stored for %s", matricola);
-            utils.writeHeadVerboseCORS(response, 200, {
-                "Content-Type": "text/html"
-            });
-            response.end("Password aggiunta con successo!");
+            callback();
         });
 
     });
@@ -155,51 +152,36 @@ function doWriteInfo(curInfo, callback) {
         });
 }
 
-var KNOWN_KEYS = {
-    "Nome": 17,
-    "Cognome": 17,
-    "Matricola": 17,
-    "Token": 17,
-    "Blog": 17,
-    "Twitter": 17,
-    "Wikipedia": 17,
-    "Video": 17,
-    "Hash": 17
+var knownKeys = {
+    "Nome": /^[A-Za-z\'\- ]+$/,
+    "Cognome": /^[A-Za-z\'\- ]+$/,
+    "Matricola": MATRICOLA,
+    "Token": MAYBE_EMPTY_TOKEN,
+    "Blog": /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
+    "Twitter": /^(|@[A-Za-z0-9_]{1,15})$/,
+    "Wikipedia": /^(|(U|u)tente\:.*)$/,
+    "Video": /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
+    "Hash": PWDHASH
 };
 
-var knownKeys = Object.keys(KNOWN_KEYS);
-
 exports.hasValidKeys = function (something) {
-    var index, key, keys = Object.keys(something);
 
-    for (index = 0; index < keys.length; ++index) {
-        key = keys[index];
-        if (KNOWN_KEYS[key] !== 17) {
+    Object.keys(something).forEach(function (key) {
+        if (knownKeys[key] === undefined) {
+            console.error("backend: missing key: %s", key);
             return false;
         }
-    }
+    });
 
     return true;
 };
-
-var knownRegExp = [
-    /^[A-Za-z\'\- ]+$/,
-    /^[A-Za-z\'\- ]+$/,
-    MATRICOLA,
-    MAYBE_EMPTY_TOKEN,
-    /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
-    /^(|@[A-Za-z0-9_]{1,15})$/,
-    /^(|(U|u)tente\:.*)$/,
-    /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
-    PWDHASH
-];
 
 exports.writeStudentInfo = function (newInfo, callback) {
 
     console.info("backend: writeStudentInfo");
 
     exports.readStudentInfo(newInfo.Matricola, function (error, savedInfo) {
-        var index, key;
+        var index, key, keys;
 
         console.info("backend: writeStudentInfo after readStudentInfo");
 
@@ -212,14 +194,17 @@ exports.writeStudentInfo = function (newInfo, callback) {
             return;
         }
 
-        for (index = 0; index < knownKeys.length; ++index) {
-            key = knownKeys[index];
-            if (newInfo[key] === undefined) {
-                continue;
+        keys = Object.keys(newInfo);
+        for (index = 0; index < keys.length; ++index) {
+            key = keys[index];
+            if (knownKeys[key] === undefined) {
+                console.warn("backend: unknown key");
+                callback("backend: unknown key");
+                return;
             }
-            if (newInfo[key].match(knownRegExp[index]) === null) {
+            if (newInfo[key].match(knownKeys[key]) === null) {
                 console.info("backend: regexp does not match");
-                callback("signup: regexp doest not match");
+                callback("signup: regexp does not match");
                 return;
             }
             console.info("backend: regexp match");
