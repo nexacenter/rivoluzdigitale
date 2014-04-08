@@ -32,8 +32,8 @@ var fs = require("fs");
 var utils = require("./utils.js");
 
 var MATRICOLA = /^[0-9]{6}$/;
-var TOKEN = /^[A-Fa-f0-9]{20}$/;
-var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{20})$/;
+var TOKEN = /^[A-Fa-f0-9]{40}$/;
+var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{40})$/;
 var PWDHASH = /^[A-Fa-f0-9]{32}$/;
 
 exports.validMatricola = function (maybeMatricola) {
