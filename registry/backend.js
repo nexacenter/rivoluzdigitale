@@ -79,13 +79,13 @@ exports.getUsers = function (callback) {
         });
 };
 
-exports.saveUsers = function (request, response, matricola, hash) {
+exports.saveUsers = function (matricola, hash, callback) {
 
     exports.getUsers(function (error, users) {
         var data;
 
         if (error) {
-            utils.internalError(error, request, response);
+            callback(error);
             return;
         }
 
@@ -96,14 +96,11 @@ exports.saveUsers = function (request, response, matricola, hash) {
         utils.writeFileSync("studenti/.htpasswd", data, function (error) {
 
             if (error) {
-                utils.internalError(error, request, response);
+                callback(error);
                 return;
             }
             console.log("backend: password stored for %s", matricola);
-            utils.writeHeadVerboseCORS(response, 200, {
-                "Content-Type": "text/html"
-            });
-            response.end("Password aggiunta con successo!");
+            callback();
         });
 
     });
