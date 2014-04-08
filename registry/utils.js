@@ -37,15 +37,13 @@ var authlib = require("http-digest-auth");
 var fs = require("fs");
 
 var writeHeadVerbose = function (response, status, headers) {
-    var key;
-
     if (headers === undefined) {
         headers = {};
     }
     console.info("> HTTP/1.1 %d ...", status);
-    for (key = 0; key < headers.length; key++) {
+    Object.keys(headers).forEach(function (key) {
         console.info("> %s: %s", key, headers[key]);
-    }
+    });
     console.info(">");
     response.writeHead(status, headers);
 };
@@ -91,13 +89,11 @@ var safelyParseJSON = function (data) {
 };
 
 exports.logRequest = function (request) {
-    var key;
-
     console.info("< %s %s HTTP/%s", request.method, request.url,
         request.httpVersion);
-    for (key = 0; key < request.headers.length; key++) {
+    Object.keys(request.headers).forEach(function (key) {
         console.info("< %s: %s", key, request.headers[key]);
-    }
+    });
     console.info("<");
 };
 
