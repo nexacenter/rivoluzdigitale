@@ -117,7 +117,7 @@ exports.reallySendToken__ = function (address, token) {
         text: "Questa e' una mail automatica proveniente dal server " +
             "del corso Rivoluzione Digitale:\n\n" +
             "Per completare la registrazione vai su: " +
-            "http://kingslanding.polito.it:8080/login_once " +
+            "http://highgarden.polito.it:4443/login_once " +
             "e inserisci la chiave.\n\n" +
             "Chiave: " + token + "\n"
     };
