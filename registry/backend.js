@@ -177,7 +177,7 @@ var knownKeys = {
     "Token": MAYBE_EMPTY_TOKEN,
     "Blog": /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
     "Twitter": /^(|@[A-Za-z0-9_]{1,15})$/,
-    "Wikipedia": /^(|(U|u)tente\:.*)$/,
+    "Wikipedia": /^(|(U|u)tente\:[^\{\}\[\]\#\|\<\>][^\{\}\[\]\#\|\<\>]+)$/,
     "Video": /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\=\/]+)$/,
     "Hash": PWDHASH
 };
