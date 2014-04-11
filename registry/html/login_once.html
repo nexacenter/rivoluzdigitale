@@ -52,7 +52,6 @@
                 var password  = $("#Password").val();
 
                 var hash = $.md5(matricola+":RivoluzPaginaPersonale:"+password);
-                console.log(JSON.stringify({matricola: matricola, token: token, hash: hash}));
 
                 $.ajax({
                     url: "/token_sent",

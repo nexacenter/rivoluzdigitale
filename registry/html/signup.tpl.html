@@ -9,7 +9,6 @@ con le istruzioni per completare la registrazione.</p>
 
 <script type="text/javascript">
 $("#mailConfirm").bind("submit", function(evt) {
-    console.log(JSON.stringify($("#loginForm").serializeObject()));
 
     $.ajax({
         url: "/confirm_sent",

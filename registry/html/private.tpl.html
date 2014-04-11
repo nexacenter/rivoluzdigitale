@@ -100,10 +100,6 @@
         $("#AccountWP").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var wikipedia = $("#wp").val();
-            console.log(JSON.stringify({
-                Matricola: matricola,
-                Wikipedia: wikipedia
-            }));
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -129,10 +125,6 @@
         $("#UrlBlog").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var blog = $("#blog").val();
-            console.log(JSON.stringify({
-                Matricola: matricola,
-                Blog: blog
-            }));
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -159,10 +151,6 @@
         $("#AccountTwitter").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var twitter = $("#twitter").val();;
-            console.log(JSON.stringify({
-                Matricola: matricola,
-                Twitter: twitter
-            }));
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -190,10 +178,6 @@
         $("#UrlVideo").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var video = $("#video").val();;
-            console.log(JSON.stringify({
-                Matricola: matricola,
-                Video: video
-            }));
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
