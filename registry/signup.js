@@ -201,9 +201,13 @@ exports.handleConfirm = function (request, response) {
         }
 
         console.info("signup: sending email to %s", message.Matricola);
-        mailer.sendToken(message.Matricola);
-
-        utils.writeHeadVerboseCORS(response, 200);
-        response.end();
+        mailer.sendToken(message.Matricola, function (error) {
+            if (error) {
+                utils.internalError(error, request, response);
+                return;
+            }
+            utils.writeHeadVerboseCORS(response, 200);
+            response.end();
+        });
     });
 };

@@ -68,22 +68,21 @@ exports.init = function (callback) {
     });
 };
 
-exports.sendToken = function (matricola) {
+exports.sendToken = function (matricola, callback) {
     fs.readFile("/var/lib/rivoluz/s" + matricola + ".json",
         "utf8", function (error, data) {
             var address, student, token;
 
             if (error) {
                 console.warn("mailer: cannot open student file");
-                utils.internalError(error, request, response);
+                callback(error);
                 return;
             }
 
             student = JSON.parse(data);
             if (student === null) {
                 console.warn("mailer: cannot parse student json");
-                utils.internalError("mailer: student json parsing error",
-                    request, response);
+                callback(error);
                 return;
             }
             token = student.Token;
@@ -96,12 +95,12 @@ exports.sendToken = function (matricola) {
                 address = mailConf.override;
             }
 
-            exports.reallySendToken__(address, token);
+            exports.reallySendToken__(address, token, callback);
         });
 };
 
 // Separate semi-private function for testability
-exports.reallySendToken__ = function (address, token) {
+exports.reallySendToken__ = function (address, token, callback) {
     var smtpTransport;
 
     smtpTransport = nodemailer.createTransport("SMTP", {
@@ -128,10 +127,12 @@ exports.reallySendToken__ = function (address, token) {
 
     smtpTransport.sendMail(mailOptions, function (error, response) {
         if (error) {
-            console.warn(error);
-        } else {
-            console.info("mailer: message sent");
+            console.info("mailer: cannot send message");
+            callback(error);
+            return;
         }
+        console.info("mailer: message sent");
         smtpTransport.close();
+        callback();
     });
 };
