@@ -206,7 +206,11 @@ exports.handleConfirm = function (request, response) {
                 utils.internalError(error, request, response);
                 return;
             }
-            utils.writeHeadVerboseCORS(response, 200);
+            // Send empty JSON to avoid "no element found" browser warning
+            utils.writeHeadVerboseCORS(response, 200, {
+                "Content-Type": "application/json"
+            });
+            response.write("{}");
             response.end();
         });
     });
