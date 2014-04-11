@@ -29,6 +29,8 @@
 # Run the application
 #
 
+echo "" | tee -a studenti/log.txt
+
 echo "Startup: `date`" | tee -a studenti/log.txt
 
 nodejs index.js 2>&1 | tee -a studenti/log.txt
