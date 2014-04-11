@@ -61,7 +61,7 @@ exports.getUsers = function (callback) {
     console.info("backend: getUsers");
 
     // Note: sync so we don't need to deal with concurrent I/O
-    utils.readFileSync("studenti/.htpasswd", "utf8",
+    utils.readFileSync("/var/lib/rivoluz/.htpasswd", "utf8",
         function (error, data) {
             var users;
 
@@ -104,7 +104,7 @@ exports.saveUsers = function (matricola, hash, callback) {
         data = JSON.stringify(users, undefined, 4);
 
         // Note: sync so we don't need to deal with concurrent I/O
-        utils.writeFileSync("studenti/.htpasswd", data, function (error) {
+        utils.writeFileSync("/var/lib/rivoluz/.htpasswd", data, function (error) {
 
             if (error) {
                 callback(error);
@@ -122,7 +122,7 @@ exports.readStudentInfo = function (matricola, callback) {
     console.info("backend: readStudentInfo");
 
     // Note: sync so we don't need to deal with concurrent I/O
-    utils.readFileSync("./studenti/s" + matricola + ".json", "utf8",
+    utils.readFileSync("/var/lib/rivoluz/s" + matricola + ".json", "utf8",
         function (error, data) {
             var stud;
 
@@ -157,7 +157,7 @@ function doWriteInfo(curInfo, callback) {
     data = JSON.stringify(curInfo, undefined, 4);
 
     // Note: sync so we don't need to deal with concurrent I/O
-    utils.writeFileSync("./studenti/s" + curInfo.Matricola + ".json", data,
+    utils.writeFileSync("/var/lib/rivoluz/s" + curInfo.Matricola + ".json", data,
         function (error) {
             if (error) {
                 console.warn("backend: cannot write student's file");

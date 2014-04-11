@@ -137,7 +137,7 @@ exports.handleMatricola = function (request, response) {
             utils.internalError("signup: invalid argument", request, response);
             return;
         }
-        fs.readFile("studenti/iscritti.json", "utf8", function (error, data) {
+        fs.readFile("/etc/rivoluz/iscritti.json", "utf8", function (error, data) {
             var i, vector;
 
             if (error) {
@@ -172,7 +172,7 @@ exports.handleMatricola = function (request, response) {
 
             console.info("signup: FOUND_STUDENT");
 
-            fs.exists("./studenti/s" + message.Matricola + ".json",
+            fs.exists("/var/lib/rivoluz/s" + message.Matricola + ".json",
                 function (exists) {
                     if (!exists) {
                         createFileAndSendToken(message, vector[i].COGNOME,

@@ -51,7 +51,7 @@ var utils = require("./utils.js");
 var mailConf = {};
 
 exports.init = function (callback) {
-    fs.readFile(".mailpasswd", "utf8", function (error, data) {
+    fs.readFile("/etc/rivoluz/mailpasswd.json", "utf8", function (error, data) {
         console.info("mailer: config: opening file");
         mailConf = utils.safelyParseJSON(data);
         if (mailConf === null) {
@@ -69,7 +69,7 @@ exports.init = function (callback) {
 };
 
 exports.sendToken = function (matricola) {
-    fs.readFile("./studenti/s" + matricola + ".json",
+    fs.readFile("/var/lib/rivoluz/s" + matricola + ".json",
         "utf8", function (error, data) {
             var address, student, token;
 
