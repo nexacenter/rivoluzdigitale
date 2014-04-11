@@ -44,6 +44,11 @@ var router = {
         utils.servePath__("/html/index.html", response);
     },
 
+    "/jquery.md5.min.js": function (request, response) {
+        utils.servePath__("/js/jquery.md5.min.js", response,
+          "text/javascript");
+    },
+
     "/login": login.handleRequest,
     "/mod_sent": login.modPage,
     "/logout": logout.handleRequest,
