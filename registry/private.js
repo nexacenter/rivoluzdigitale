@@ -83,9 +83,14 @@ var modPage = function (request, response) {
             return;
         }
         backend.writeStudentInfo(stud, function (error) {
-            //
-            // FIXME: here we ignore the error
-            //
+            if (error) {
+                utils.writeHeadVerboseCORS(response, 500, {
+                    "Content-Type": "application/json"
+                });
+                response.write("{}");
+                response.end();
+                return;
+            }
             utils.writeHeadVerboseCORS(response, 200, {
                 "Content-Type": "application/json"
             });
