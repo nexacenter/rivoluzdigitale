@@ -140,8 +140,7 @@
                 error: function (jqXHR, textStatus,
                     errorThrown) {
                     $("#infoBlog").html(
-                        "<b>Si e' verificato un errore.</b><br><br>"
-                    );
+                        "<b>Si e' verificato un errore.</b>");
                 }
             });
             return false;
@@ -161,14 +160,12 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneTwitter").text(data.Twitter);
-                    $("#infoTwitter").html(
-                        "<b>Modificato!</b>");
+                    $("#infoTwitter").html("<b>Modificato!</b>");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
                     $("#infoTwitter").html(
-                        "<b>Si e' verificato un errore.</b><br><br>"
-                    );
+                        "<b>Si e' verificato un errore.</b>");
                 }
             });
             return false;
@@ -193,8 +190,7 @@
                 error: function (jqXHR, textStatus,
                     errorThrown) {
                     $("#infoVideo").html(
-                        "<b>Si e' verificato un errore.</b><br><br>"
-                    );
+                        "<b>Si e' verificato un errore.</b>");
                 }
             });
             return false;
