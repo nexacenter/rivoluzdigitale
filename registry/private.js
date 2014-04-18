@@ -64,6 +64,9 @@ var generatePage = function (request, response, matricola) {
                 data = data.replace(/@TWITTER@/g, stud.Twitter);
                 data = data.replace(/@WIKIPEDIA@/g, stud.Wikipedia);
                 data = data.replace(/@VIDEO@/g, stud.Video);
+                data = data.replace(/@POST1@/g, stud.Post1);
+                data = data.replace(/@POST2@/g, stud.Post2);
+                data = data.replace(/@POST3@/g, stud.Post3);
 
                 utils.writeHeadVerboseCORS(response, 200, {
                     "Content-Type": "text/html"

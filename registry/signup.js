@@ -119,7 +119,10 @@ exports.handleMatricola = function (request, response) {
                 "Blog": "",
                 "Twitter": "",
                 "Wikipedia": "",
-                "Video": ""
+                "Video": "",
+                "Post1": "",
+                "Post2": "",
+                "Post3": ""
             },
             function (error) {
                 if (error) {

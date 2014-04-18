@@ -39,6 +39,7 @@ var MATRICOLA = /^[0-9]{6}$/;
 var TOKEN = /^[A-Fa-f0-9]{40}$/;
 var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{40})$/;
 var PWDHASH = /^[A-Fa-f0-9]{32}$/;
+var URL = /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/;
 
 exports.validMatricola = function (maybeMatricola) {
     return maybeMatricola.match(MATRICOLA);
@@ -175,11 +176,14 @@ var knownKeys = {
     "Cognome": /^[A-Za-z\'\- ]+$/,
     "Matricola": MATRICOLA,
     "Token": MAYBE_EMPTY_TOKEN,
-    "Blog": /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/,
+    "Blog": URL,
     "Twitter": /^(|@[A-Za-z0-9_]{1,15})$/,
     "Wikipedia": /^(|(U|u)tente\:[^\{\}\[\]\#\|\<\>][^\{\}\[\]\#\|\<\>]+)$/,
-    "Video": /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/,
-    "Hash": PWDHASH
+    "Video": URL,
+    "Hash": PWDHASH,
+    "Post1": URL,
+    "Post2": URL,
+    "Post3": URL
 };
 
 exports.hasValidKeys = function (something) {
