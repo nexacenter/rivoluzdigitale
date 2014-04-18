@@ -6,13 +6,41 @@
 </head>
 
 <body>
-    <h3>Ciao @NOME@ @COGNOME@! - <a href="/logout">Logout</a></h3>
-    <p>Questa e' la tua pagina personale, in cui potrai segnalare i tuoi dati.</p>
-    <h4>Dati studente</h4>
-    Matricola: @MATRICOLA@
-    <br>
-    <br>
+    <h2>Ciao @NOME@ @COGNOME@! - <a href="/logout">Logout</a></h2>
+    <p>Questa e' la tua pagina personale, in cui puoi gestire i tuoi dati.</p>
 
+    <h3>Dati personali</h3>
+    <form id="Name" method="post">
+        <b>Nome</b>:
+        <input type="text" name="name" id="name" pattern="^[A-Za-z\'\- ]+$"
+        size="23" title="Qui puoi modificare il tuo nome" required/>
+        <input type="submit" value="Modifica" />
+    </form>
+    <ul>
+        <li>
+            <div id="zoneName">@NOME@</div>
+            <div id="infoName"></div>
+        </li>
+    </ul>
+
+    <form id="Surname" method="post">
+        <b>Cognome</b>:
+        <input type="text" name="surname" id="surname" pattern="^[A-Za-z\'\- ]+$"
+        size="23" title="Qui puoi modificare il tuo cognome" required/>
+        <input type="submit" value="Modifica" />
+    </form>
+    <ul>
+        <li>
+            <div id="zoneSurname">@COGNOME@</div>
+            <div id="infoSurname"></div>
+        </li>
+    </ul>
+
+
+    <b>Matricola</b>: @MATRICOLA@
+    <br /><br />
+
+    <h3>Dati funzionali al corso</h3>
     <form id="UrlBlog" method="post">
         <b>Url blog</b>:
         <input type="text" name="blog" id="blog" pattern="^http(|s)\://.*$"
@@ -197,7 +225,7 @@
 
         $("#AccountTwitter").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
-            var twitter = $("#twitter").val();;
+            var twitter = $("#twitter").val();
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -222,7 +250,7 @@
 
         $("#UrlVideo").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
-            var video = $("#video").val();;
+            var video = $("#video").val();
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -246,7 +274,7 @@
 
         $("#Post1").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
-            var post1 = $("#post1").val();;
+            var post1 = $("#post1").val();
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -270,7 +298,7 @@
 
         $("#Post2").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
-            var post2 = $("#post2").val();;
+            var post2 = $("#post2").val();
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -294,7 +322,7 @@
 
         $("#Post3").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
-            var post3 = $("#post3").val();;
+            var post3 = $("#post3").val();
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -315,6 +343,55 @@
             });
             return false;
         });
+
+        $("#Name").bind("submit", function (evt) {
+            var matricola = "@MATRICOLA@";
+            var nome = $("#name").val();
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Nome: nome
+                }),
+                success: function (data, textStatus, jqXHR) {
+                    $("#zoneName").text(data.Nome);
+                    $("#infoName").html("<b>Modificato!</b>");
+                },
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoName").html(
+                        "<b>Si e' verificato un errore.</b>");
+                }
+            });
+            return false;
+        });
+
+        $("#Surname").bind("submit", function (evt) {
+            var matricola = "@MATRICOLA@";
+            var cognome = $("#surname").val();
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Cognome: cognome
+                }),
+                success: function (data, textStatus, jqXHR) {
+                    $("#zoneSurname").text(data.Cognome);
+                    $("#infoSurname").html("<b>Modificato!</b>");
+                },
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoSurname").html(
+                        "<b>Si e' verificato un errore.</b>");
+                }
+            });
+            return false;
+        });
+
     </script>
 
 </body>

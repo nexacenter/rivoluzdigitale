@@ -151,10 +151,6 @@ exports.readStudentInfo = function (matricola, callback) {
 function doWriteInfo(curInfo, callback) {
     var data;
 
-    // I hate all uppercase
-    curInfo.Cognome = fixStringCase(curInfo.Cognome);
-    curInfo.Nome = fixStringCase(curInfo.Nome);
-
     data = JSON.stringify(curInfo, undefined, 4);
 
     // Note: sync so we don't need to deal with concurrent I/O
