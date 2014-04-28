@@ -28,13 +28,10 @@
 /*jslint node: true */
 "use strict";
 
-var fs = require("fs");
-var http = require("http");
 var login = require("./login.js");
 var login_once = require("./login_once.js");
 var logout = require("./logout.js");
 var mailer = require("./mailer.js");
-var path = require("path");
 var signup = require("./signup.js");
 var url = require("url");
 var utils = require("./utils.js");
