@@ -38,7 +38,9 @@ SRCDIR=/usr/local/share/rivoluz
 # Create user _rivoluz
 #
 
-sudo adduser --disabled-password --disabled-login --force-badname _rivoluz
+if ! grep -q _rivoluz /etc/passwd; then
+    sudo adduser --disabled-password --disabled-login --force-badname _rivoluz
+fi
 
 #
 # BINDIR
@@ -54,56 +56,65 @@ install rivoluz $BINDIR
 # SYSCONFDIR
 #
 
-echo "setup: create $SYSCONFDIR..."
-install -d $SYSCONFDIR
+if [ ! -d $SYSCONFDIR ]; then
 
-(
-    sudo -ku _rivoluz nodejs ./init_students.js > $SYSCONFDIR/iscritti.json
-    chmod 640 $SYSCONFDIR/iscritti.json
-    chown root:_rivoluz $SYSCONFDIR/iscritti.json
+    echo "setup: create $SYSCONFDIR..."
 
-    openssl genrsa -out $SYSCONFDIR/privkey.pem 4096
-    chmod 440 $SYSCONFDIR/privkey.pem
-    chgrp _rivoluz $SYSCONFDIR/privkey.pem
+    install -d $SYSCONFDIR
 
-    openssl req -new -x509 -key $SYSCONFDIR/privkey.pem \
-      -out $SYSCONFDIR/cert.pem -days 365
-    chmod 440 $SYSCONFDIR/cert.pem
-    chgrp _rivoluz $SYSCONFDIR/cert.pem
+    (
+        sudo -ku _rivoluz nodejs ./init_students.js > $SYSCONFDIR/iscritti.json
+        chmod 640 $SYSCONFDIR/iscritti.json
+        chown root:_rivoluz $SYSCONFDIR/iscritti.json
 
-    openssl x509 -in $SYSCONFDIR/cert.pem -sha1 -noout -fingerprint \
-        > $SYSCONFDIR/finger.txt
-    chmod 440 $SYSCONFDIR/finger.txt
-    chgrp _rivoluz $SYSCONFDIR/finger.txt
+        openssl genrsa -out $SYSCONFDIR/privkey.pem 4096
+        chmod 440 $SYSCONFDIR/privkey.pem
+        chgrp _rivoluz $SYSCONFDIR/privkey.pem
 
-    echo "{}" > $SYSCONFDIR/mailpasswd.json
-    chmod 640 $SYSCONFDIR/mailpasswd.json
-    chgrp _rivoluz $SYSCONFDIR/mailpasswd.json
+        openssl req -new -x509 -key $SYSCONFDIR/privkey.pem \
+            -out $SYSCONFDIR/cert.pem -days 365
+        chmod 440 $SYSCONFDIR/cert.pem
+        chgrp _rivoluz $SYSCONFDIR/cert.pem
 
-    chmod 550 $SYSCONFDIR
-    chgrp _rivoluz $SYSCONFDIR
-)
+        openssl x509 -in $SYSCONFDIR/cert.pem -sha1 -noout -fingerprint \
+            > $SYSCONFDIR/finger.txt
+        chmod 440 $SYSCONFDIR/finger.txt
+        chgrp _rivoluz $SYSCONFDIR/finger.txt
+
+        echo "{}" > $SYSCONFDIR/mailpasswd.json
+        chmod 640 $SYSCONFDIR/mailpasswd.json
+        chgrp _rivoluz $SYSCONFDIR/mailpasswd.json
+
+        chmod 550 $SYSCONFDIR
+        chgrp _rivoluz $SYSCONFDIR
+    )
+
+fi
 
 #
 # DATADIR
 #
 
-echo "setup: create $DATADIR..."
-install -d $DATADIR
+if [ ! -d $DATADIR ]; then
 
-echo "setup: create git repository into $DATADIR..."
-(
-    cd $DATADIR
-    git init
-    echo "{}" > .htpasswd
-    git add .htpasswd
-    git config user.name "Root"
-    git config user.email "root@localhost"
-    git commit -am 'Initial commit'
-)
+    echo "setup: create $DATADIR..."
+    install -d $DATADIR
 
-echo "setup: give $DATADIR ownership to _rivoluz:_rivoluz..."
-find $DATADIR -exec chown _rivoluz:_rivoluz {} \;
+    echo "setup: create git repository into $DATADIR..."
+    (
+        cd $DATADIR
+        git init
+        echo "{}" > .htpasswd
+        git add .htpasswd
+        git config user.name "Root"
+        git config user.email "root@localhost"
+        git commit -am 'Initial commit'
+    )
+
+    echo "setup: give $DATADIR ownership to _rivoluz:_rivoluz..."
+    find $DATADIR -exec chown _rivoluz:_rivoluz {} \;
+
+fi
 
 #
 # SRCDIR
