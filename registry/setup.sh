@@ -124,6 +124,7 @@ echo "setup: install into $SRCDIR..."
 
 install -d $SRCDIR
 install -d $SRCDIR/html
+install -d $SRCDIR/js
 
 for SCRIPT in backend.js frontend.js git.js index.js login.js login_once.js \
   logout.js mailer.js private.js router.js server.js signup.js utils.js; do
@@ -133,6 +134,10 @@ install -m555 run.sh $SRCDIR
 
 for FILE in html/*.html; do
     install -m444 $FILE $SRCDIR/html
+done
+
+for SCRIPT in js/*.js; do
+    install -m444 $SCRIPT $SRCDIR/js
 done
 
 for DEPENDENCY in csvtojson http-digest-auth nodemailer; do
