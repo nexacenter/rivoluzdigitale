@@ -40,8 +40,8 @@ var os = require("os");
 exports.start = function (route, port) {
 
     var server = https.createServer({
-        "key": fs.readFileSync("ssl/privkey.pem"),
-        "cert": fs.readFileSync("ssl/cert.pem")
+        "key": fs.readFileSync("/etc/rivoluz/privkey.pem"),
+        "cert": fs.readFileSync("/etc/rivoluz/cert.pem")
     }, route);
 
     if (port === undefined) {
@@ -80,7 +80,7 @@ exports.start = function (route, port) {
             }
         });
 
-        fingerprint = fs.readFileSync("ssl/finger.txt", "utf-8");
+        fingerprint = fs.readFileSync("/etc/rivoluz/finger.txt", "utf-8");
         fingerprint = fingerprint.trim();
         console.info("server: %s", fingerprint);
     }

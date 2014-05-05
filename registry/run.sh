@@ -29,8 +29,14 @@
 # Run the application
 #
 
-echo "" | tee -a studenti/log.txt
+DATADIR=/var/lib/rivoluz
 
-echo "Startup: `date`" | tee -a studenti/log.txt
+export NODE_PATH=/usr/local/lib/node_modules:$NODE_PATH
 
-nodejs index.js 2>&1 | tee -a studenti/log.txt
+echo ""
+
+echo "Startup: `date`"
+/usr/bin/env
+/usr/bin/id
+
+nodejs index.js

@@ -152,7 +152,7 @@ exports.readBodyJSON = function (request, response, callback) {
 // below the document root. Use with care and always provide to such
 // function a file path hardcoded in the program source code.
 //
-exports.servePath__ = function (filename, response) {
+exports.servePath__ = function (filename, response, mimetype) {
     var localPath = __dirname + filename;
 
     fs.exists(localPath, function (exists) {
@@ -166,7 +166,11 @@ exports.servePath__ = function (filename, response) {
         }
 
         console.info("servePath__: serving file: " + localPath);
-        writeHeadVerboseCORS(response, 200);
+        if (mimetype) {
+            writeHeadVerboseCORS(response, 200, {"Content-Type": mimetype});
+        } else {
+            writeHeadVerboseCORS(response, 200);
+        }
         stream = fs.createReadStream(localPath);
         stream.pipe(response);
     });

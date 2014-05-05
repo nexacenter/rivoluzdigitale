@@ -6,13 +6,41 @@
 </head>
 
 <body>
-    <h3>Ciao @NOME@ @COGNOME@!</h3>
-    <p>Questa e' la tua pagina personale, in cui potrai segnalare i tuoi dati.</p>
-    <h4>Dati studente</h4>
-    Matricola: @MATRICOLA@
-    <br>
-    <br>
+    <h2>Ciao @NOME@ @COGNOME@! - <a href="/logout">Logout</a></h2>
+    <p>Questa e' la tua pagina personale, in cui puoi gestire i tuoi dati.</p>
 
+    <h3>Dati personali</h3>
+    <form id="Name" method="post">
+        <b>Nome</b>:
+        <input type="text" name="name" id="name" pattern="^[A-Za-z\'\- ]+$"
+        size="23" title="Qui puoi modificare il tuo nome" required/>
+        <input type="submit" value="Modifica" />
+    </form>
+    <ul>
+        <li>
+            <div id="zoneName">@NOME@</div>
+            <div id="infoName"></div>
+        </li>
+    </ul>
+
+    <form id="Surname" method="post">
+        <b>Cognome</b>:
+        <input type="text" name="surname" id="surname" pattern="^[A-Za-z\'\- ]+$"
+        size="23" title="Qui puoi modificare il tuo cognome" required/>
+        <input type="submit" value="Modifica" />
+    </form>
+    <ul>
+        <li>
+            <div id="zoneSurname">@COGNOME@</div>
+            <div id="infoSurname"></div>
+        </li>
+    </ul>
+
+
+    <b>Matricola</b>: @MATRICOLA@
+    <br /><br />
+
+    <h3>Dati funzionali al corso</h3>
     <form id="UrlBlog" method="post">
         <b>Url blog</b>:
         <input type="text" name="blog" id="blog" pattern="^http(|s)\://.*$"
@@ -72,27 +100,75 @@
     </ul>
     <br>
 
+    <form id="Post1" method="post">
+        <b>Post n°1</b>:
+        <input type="text" name="post1"
+        id="post1" pattern="^http(|s)\://.*$" size="42" title="Inserisci l'url del tuo primo post"
+        required/>
+        <input type="submit" value="Modifica" /> <small>es. http://mioblog.tumblr.com/primo-post</small>
+    </form>
+    <ul>
+        <li>
+            <div id="zonePost1">@POST1@</div>
+            <div id="infoPost1"></div>
+        </li>
+    </ul>
     <br>
-    <a href="/logout">Logout</a>
+
+    <form id="Post2" method="post">
+        <b>Post n°2</b>:
+        <input type="text" name="post2"
+        id="post2" pattern="^http(|s)\://.*$" size="42" title="Inserisci l'url del tuo primo post"
+        required/>
+        <input type="submit" value="Modifica" /> <small>es. http://mioblog.tumblr.com/secondo-post</small>
+    </form>
+    <ul>
+        <li>
+            <div id="zonePost2">@POST2@</div>
+            <div id="infoPost2"></div>
+        </li>
+    </ul>
+    <br>
+
+    <form id="Post3" method="post">
+        <b>Post n°3</b>:
+        <input type="text" name="post3"
+        id="post3" pattern="^http(|s)\://.*$" size="42" title="Inserisci l'url del tuo primo post"
+        required/>
+        <input type="submit" value="Modifica" /> <small>es. http://mioblog.tumblr.com/terzo-post</small>
+    </form>
+    <ul>
+        <li>
+            <div id="zonePost3">@POST3@</div>
+            <div id="infoPost3"></div>
+        </li>
+    </ul>
+
+    <br>
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 
     <script type="text/javascript">
         if ($("#zoneBlog").is(":empty")) {
-            var txt1 = document.getElementById("zoneBlog");
-            txt1.innerHTML = "Url blog non presente.";
+            document.getElementById("zoneBlog").innerHTML = "Url blog non presente.";
         }
         if ($("#zoneTwitter").is(":empty")) {
-            var txt2 = document.getElementById("zoneTwitter");
-            txt2.innerHTML = "Account Twitter non presente.";
+            document.getElementById("zoneTwitter").innerHTML = "Account Twitter non presente.";
         }
         if ($("#zoneWP").is(":empty")) {
-            var txt3 = document.getElementById("zoneWP");
-            txt3.innerHTML = "Account Wikipedia non presente.";
+            document.getElementById("zoneWP").innerHTML = "Account Wikipedia non presente.";
         }
         if ($("#zoneVideo").is(":empty")) {
-            var txt4 = document.getElementById("zoneVideo");
-            txt4.innerHTML = "Url video non presente.";
+            document.getElementById("zoneVideo").innerHTML = "Url video non presente.";
+        }
+        if ((document.getElementById("zonePost1").innerHTML === "undefined") || ($("#zonePost1").is(":empty"))) {
+            document.getElementById("zonePost1").innerHTML = "Url del primo post non presente.";
+        }
+        if ((document.getElementById("zonePost2").innerHTML === "undefined") || ($("#zonePost2").is(":empty"))){
+            document.getElementById("zonePost2").innerHTML = "Url del secondo post non presente.";
+        }
+        if ((document.getElementById("zonePost3").innerHTML === "undefined") || ($("#zonePost3").is(":empty"))){
+            document.getElementById("zonePost3").innerHTML = "Url del terzo post non presente.";
         }
     </script>
 
@@ -149,7 +225,7 @@
 
         $("#AccountTwitter").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
-            var twitter = $("#twitter").val();;
+            var twitter = $("#twitter").val();
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -174,7 +250,7 @@
 
         $("#UrlVideo").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
-            var video = $("#video").val();;
+            var video = $("#video").val();
             $.ajax({
                 url: "/mod_sent",
                 type: "POST",
@@ -195,6 +271,127 @@
             });
             return false;
         });
+
+        $("#Post1").bind("submit", function (evt) {
+            var matricola = "@MATRICOLA@";
+            var post1 = $("#post1").val();
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Post1: post1
+                }),
+                success: function (data, textStatus, jqXHR) {
+                    $("#zonePost1").text(data.Post1);
+                    $("#infoPost1").html("<b>Modificato!</b>");
+                },
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoPost1").html(
+                        "<b>Si e' verificato un errore.</b>");
+                }
+            });
+            return false;
+        });
+
+        $("#Post2").bind("submit", function (evt) {
+            var matricola = "@MATRICOLA@";
+            var post2 = $("#post2").val();
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Post2: post2
+                }),
+                success: function (data, textStatus, jqXHR) {
+                    $("#zonePost2").text(data.Post2);
+                    $("#infoPost2").html("<b>Modificato!</b>");
+                },
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoPost2").html(
+                        "<b>Si e' verificato un errore.</b>");
+                }
+            });
+            return false;
+        });
+
+        $("#Post3").bind("submit", function (evt) {
+            var matricola = "@MATRICOLA@";
+            var post3 = $("#post3").val();
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Post3: post3
+                }),
+                success: function (data, textStatus, jqXHR) {
+                    $("#zonePost3").text(data.Post3);
+                    $("#infoPost3").html("<b>Modificato!</b>");
+                },
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoPost3").html(
+                        "<b>Si e' verificato un errore.</b>");
+                }
+            });
+            return false;
+        });
+
+        $("#Name").bind("submit", function (evt) {
+            var matricola = "@MATRICOLA@";
+            var nome = $("#name").val();
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Nome: nome
+                }),
+                success: function (data, textStatus, jqXHR) {
+                    $("#zoneName").text(data.Nome);
+                    $("#infoName").html("<b>Modificato!</b>");
+                },
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoName").html(
+                        "<b>Si e' verificato un errore.</b>");
+                }
+            });
+            return false;
+        });
+
+        $("#Surname").bind("submit", function (evt) {
+            var matricola = "@MATRICOLA@";
+            var cognome = $("#surname").val();
+            $.ajax({
+                url: "/mod_sent",
+                type: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({
+                    Matricola: matricola,
+                    Cognome: cognome
+                }),
+                success: function (data, textStatus, jqXHR) {
+                    $("#zoneSurname").text(data.Cognome);
+                    $("#infoSurname").html("<b>Modificato!</b>");
+                },
+                error: function (jqXHR, textStatus,
+                    errorThrown) {
+                    $("#infoSurname").html(
+                        "<b>Si e' verificato un errore.</b>");
+                }
+            });
+            return false;
+        });
+
     </script>
 
 </body>

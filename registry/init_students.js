@@ -54,7 +54,7 @@ request.on("response", function (response) {
     response.on("end", function () {
         var body = data.join("");
         var converter = new csvtojson.core.Converter(false);
-        var output = fs.createWriteStream("studenti/iscritti.json");
+        var output = process.stdout;
         var started = false;
 
         converter.on("record_parsed", function (info) {

@@ -39,6 +39,7 @@ var MATRICOLA = /^[0-9]{6}$/;
 var TOKEN = /^[A-Fa-f0-9]{40}$/;
 var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{40})$/;
 var PWDHASH = /^[A-Fa-f0-9]{32}$/;
+var URL = /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/;
 
 exports.validMatricola = function (maybeMatricola) {
     return maybeMatricola.match(MATRICOLA);
@@ -61,7 +62,7 @@ exports.getUsers = function (callback) {
     console.info("backend: getUsers");
 
     // Note: sync so we don't need to deal with concurrent I/O
-    utils.readFileSync("studenti/.htpasswd", "utf8",
+    utils.readFileSync("/var/lib/rivoluz/.htpasswd", "utf8",
         function (error, data) {
             var users;
 
@@ -104,7 +105,7 @@ exports.saveUsers = function (matricola, hash, callback) {
         data = JSON.stringify(users, undefined, 4);
 
         // Note: sync so we don't need to deal with concurrent I/O
-        utils.writeFileSync("studenti/.htpasswd", data, function (error) {
+        utils.writeFileSync("/var/lib/rivoluz/.htpasswd", data, function (error) {
 
             if (error) {
                 callback(error);
@@ -122,7 +123,7 @@ exports.readStudentInfo = function (matricola, callback) {
     console.info("backend: readStudentInfo");
 
     // Note: sync so we don't need to deal with concurrent I/O
-    utils.readFileSync("./studenti/s" + matricola + ".json", "utf8",
+    utils.readFileSync("/var/lib/rivoluz/s" + matricola + ".json", "utf8",
         function (error, data) {
             var stud;
 
@@ -150,14 +151,10 @@ exports.readStudentInfo = function (matricola, callback) {
 function doWriteInfo(curInfo, callback) {
     var data;
 
-    // I hate all uppercase
-    curInfo.Cognome = fixStringCase(curInfo.Cognome);
-    curInfo.Nome = fixStringCase(curInfo.Nome);
-
     data = JSON.stringify(curInfo, undefined, 4);
 
     // Note: sync so we don't need to deal with concurrent I/O
-    utils.writeFileSync("./studenti/s" + curInfo.Matricola + ".json", data,
+    utils.writeFileSync("/var/lib/rivoluz/s" + curInfo.Matricola + ".json", data,
         function (error) {
             if (error) {
                 console.warn("backend: cannot write student's file");
@@ -175,11 +172,14 @@ var knownKeys = {
     "Cognome": /^[A-Za-z\'\- ]+$/,
     "Matricola": MATRICOLA,
     "Token": MAYBE_EMPTY_TOKEN,
-    "Blog": /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/,
+    "Blog": URL,
     "Twitter": /^(|@[A-Za-z0-9_]{1,15})$/,
     "Wikipedia": /^(|(U|u)tente\:[^\{\}\[\]\#\|\<\>][^\{\}\[\]\#\|\<\>]+)$/,
-    "Video": /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/,
-    "Hash": PWDHASH
+    "Video": URL,
+    "Hash": PWDHASH,
+    "Post1": URL,
+    "Post2": URL,
+    "Post3": URL
 };
 
 exports.hasValidKeys = function (something) {

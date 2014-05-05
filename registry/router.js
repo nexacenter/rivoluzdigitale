@@ -28,13 +28,10 @@
 /*jslint node: true */
 "use strict";
 
-var fs = require("fs");
-var http = require("http");
 var login = require("./login.js");
 var login_once = require("./login_once.js");
 var logout = require("./logout.js");
 var mailer = require("./mailer.js");
-var path = require("path");
 var signup = require("./signup.js");
 var url = require("url");
 var utils = require("./utils.js");
@@ -42,6 +39,11 @@ var utils = require("./utils.js");
 var router = {
     "/": function (request, response) {
         utils.servePath__("/html/index.html", response);
+    },
+
+    "/jquery.md5.min.js": function (request, response) {
+        utils.servePath__("/js/jquery.md5.min.js", response,
+          "text/javascript");
     },
 
     "/login": login.handleRequest,

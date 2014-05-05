@@ -43,7 +43,7 @@ var child_process = require("child_process");
 function execGit__(command, callback) {
     //console.info("git: about to run '%s'", command);
     child_process.exec(command, {
-        "cwd": "studenti",
+        "cwd": "/var/lib/rivoluz/",
         "timeout": 10,
         "env": {
             "HOME": "/",

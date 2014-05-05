@@ -119,7 +119,10 @@ exports.handleMatricola = function (request, response) {
                 "Blog": "",
                 "Twitter": "",
                 "Wikipedia": "",
-                "Video": ""
+                "Video": "",
+                "Post1": "",
+                "Post2": "",
+                "Post3": ""
             },
             function (error) {
                 if (error) {
@@ -137,7 +140,7 @@ exports.handleMatricola = function (request, response) {
             utils.internalError("signup: invalid argument", request, response);
             return;
         }
-        fs.readFile("studenti/iscritti.json", "utf8", function (error, data) {
+        fs.readFile("/etc/rivoluz/iscritti.json", "utf8", function (error, data) {
             var i, vector;
 
             if (error) {
@@ -172,7 +175,7 @@ exports.handleMatricola = function (request, response) {
 
             console.info("signup: FOUND_STUDENT");
 
-            fs.exists("./studenti/s" + message.Matricola + ".json",
+            fs.exists("/var/lib/rivoluz/s" + message.Matricola + ".json",
                 function (exists) {
                     if (!exists) {
                         createFileAndSendToken(message, vector[i].COGNOME,
@@ -201,9 +204,17 @@ exports.handleConfirm = function (request, response) {
         }
 
         console.info("signup: sending email to %s", message.Matricola);
-        mailer.sendToken(message.Matricola);
-
-        utils.writeHeadVerboseCORS(response, 200);
-        response.end();
+        mailer.sendToken(message.Matricola, function (error) {
+            if (error) {
+                utils.internalError(error, request, response);
+                return;
+            }
+            // Send empty JSON to avoid "no element found" browser warning
+            utils.writeHeadVerboseCORS(response, 200, {
+                "Content-Type": "application/json"
+            });
+            response.write("{}");
+            response.end();
+        });
     });
 };
