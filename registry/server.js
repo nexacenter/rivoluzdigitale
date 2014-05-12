@@ -34,8 +34,14 @@
 
 var dns = require("dns");
 var fs = require("fs");
+var http = require("http");
 var https = require("https");
 var os = require("os");
+
+var softRedirect = "Vai su <a href=\"https://highgarden.polito.it\">" +
+                   "https://highgarden.polito.it</a>, se non funziona prova " +
+                   "<a href=\"https://highgarden.polito.it:4443\">" +
+                   "https://highgarden.polito.it:4443</a>";
 
 exports.start = function (route, port) {
 
@@ -47,6 +53,14 @@ exports.start = function (route, port) {
     if (port === undefined) {
         port = 4443;
     }
+
+    var staticServer = http.createServer(function (req, res) {
+        res.writeHead(200, {'Content-Type': 'text/html'});
+        res.write(softRedirect);
+        res.end();
+    });
+
+    staticServer.listen(8080);
 
     function listeningHandler() {
         var fingerprint, interfaces = os.networkInterfaces();
