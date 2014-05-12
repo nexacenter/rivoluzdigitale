@@ -35,5 +35,11 @@ SUDO=/usr/bin/sudo
 SOURCE=443
 DEST=4443
 
+SOURCE2=80
+DEST2=8080
+
 $SUDO $IPTABLES -t nat -A PREROUTING -p tcp --dport $SOURCE \
     -j REDIRECT --to-port $DEST
+
+$SUDO $IPTABLES -t nat -A PREROUTING -p tcp --dport $SOURCE2 \
+    -j REDIRECT --to-port $DEST2
