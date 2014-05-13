@@ -32,8 +32,13 @@
 IPTABLES=/sbin/iptables
 SUDO=/usr/bin/sudo
 
+$SUDO $IPTABLES -t mangle -A PREROUTING -p tcp --dport 8080 \
+    -j MARK --set-mark 1
+
 $SUDO $IPTABLES -t nat -A PREROUTING -p tcp --dport 443 \
     -j REDIRECT --to-port 4443
 
 $SUDO $IPTABLES -t nat -A PREROUTING -p tcp --dport 80 \
     -j REDIRECT --to-port 8080
+
+$SUDO $IPTABLES -t filter -A INPUT -m mark --mark 1 -j REJECT
