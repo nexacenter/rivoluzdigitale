@@ -39,9 +39,7 @@ var https = require("https");
 var os = require("os");
 
 var softRedirect = "Vai su <a href=\"https://highgarden.polito.it\">" +
-                   "https://highgarden.polito.it</a>, se non funziona prova " +
-                   "<a href=\"https://highgarden.polito.it:4443\">" +
-                   "https://highgarden.polito.it:4443</a>";
+                   "https://highgarden.polito.it</a>";
 
 exports.start = function (route, port) {
 

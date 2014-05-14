@@ -116,9 +116,6 @@ exports.reallySendToken__ = function (address, token, callback) {
         text: "Per completare la registrazione vai su:\n\n" +
             "    https://highgarden.polito.it/login_once" +
             "\n\n" +
-            "o in alternativa:\n\n" +
-            "    https://highgarden.polito.it:4443/login_once" +
-            "\n\n" +
             "e inserisci la seguente chiave:\n\n" +
             "    " + token + "\n" +
             "\n" +
