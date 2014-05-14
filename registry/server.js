@@ -55,7 +55,10 @@ exports.start = function (route, port) {
     }
 
     var staticServer = http.createServer(function (req, res) {
-        res.writeHead(200, {'Content-Type': 'text/html'});
+        res.writeHead(302, {
+            'Content-Type': 'text/html',
+            'Location': 'https://highgarden.polito.it/'
+        });
         res.write(softRedirect);
         res.end();
     });
