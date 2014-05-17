@@ -111,10 +111,11 @@ exports.readBodyJSON = function (request, response, callback) {
         return;
     }
 
-    //if (request["Content-Type"] !== "application/json") {
-    //    internalError("readBodyJSON: invalid content type", request, response);
-    //    return;
-    //}
+    //
+    // We don't check the value of the content type and we assume that
+    // the client sends us valid JSON. If not, the JSON parser will fail
+    // and we will return an error to the client.
+    //
 
     request.setEncoding('utf8');
 
