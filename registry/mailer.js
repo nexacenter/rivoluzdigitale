@@ -53,6 +53,11 @@ var mailConf = {};
 exports.init = function (callback) {
     fs.readFile("/etc/rivoluz/mailpasswd.json", "utf8", function (error, data) {
         console.info("mailer: config: opening file");
+
+        //
+        // TODO: handle the case in which there is an error
+        //
+
         mailConf = utils.safelyParseJSON(data);
         if (mailConf === null) {
             console.error("mailer: config: invalid file");
