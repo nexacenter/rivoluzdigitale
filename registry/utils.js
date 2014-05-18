@@ -1,6 +1,6 @@
 // registry/utils.js
 
-/*
+/*-
  * Copyright (c) 2014
  *     Nexa Center for Internet & Society, Politecnico di Torino (DAUIN),
  *     Alessio Melandri <alessiom92@gmail.com> and
@@ -60,7 +60,19 @@ var writeHeadVerboseCORS = function (response, status, headers) {
 var internalError = function (error, request, response) {
     console.error("Internal error:", error);
     writeHeadVerboseCORS(response, 500);
-    response.end();
+    response.end("500 - Internal error");
+};
+
+exports.badRequest = function (response) {
+    console.error("Bad request");
+    writeHeadVerboseCORS(response, 400);
+    response.end("400 - Bad request");
+};
+
+exports.notFound = function (response) {
+    console.error("File not found");
+    writeHeadVerboseCORS(response, 404);
+    response.end("404 - File not found");
 };
 
 exports.safelyLogin = function (request, response, realm, users) {
@@ -161,8 +173,7 @@ exports.servePath__ = function (filename, response, mimetype) {
 
         if (!exists) {
             console.warn("servePath__: file not found: " + localPath);
-            writeHeadVerboseCORS(response, 404);
-            response.end();
+            exports.notFound(response);
             return;
         }
 
