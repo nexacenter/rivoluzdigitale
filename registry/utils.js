@@ -167,17 +167,27 @@ exports.readBodyJSON = function (request, response, callback) {
 //
 exports.servePath__ = function (filename, response, mimetype) {
     var localPath = __dirname + filename;
+    exports.serveAbsolutePath__(localPath, response, mimetype);
+};
+
+//
+// This function has a ugly name (terminated by two underscores) to
+// remark that it does not check whether the file that we serve is
+// below the document root. Use with care and always provide to such
+// function a file path hardcoded in the program source code.
+//
+exports.serveAbsolutePath__ = function (localPath, response, mimetype) {
 
     fs.exists(localPath, function (exists) {
         var stream;
 
         if (!exists) {
-            console.warn("servePath__: file not found: " + localPath);
+            console.warn("serveAbsolutePath__: file not found: " + localPath);
             exports.notFound(response);
             return;
         }
 
-        console.info("servePath__: serving file: " + localPath);
+        console.info("serveAbsolutePath__: serving file: " + localPath);
         if (mimetype) {
             writeHeadVerboseCORS(response, 200, {"Content-Type": mimetype});
         } else {
@@ -218,5 +228,6 @@ exports.writeFileSync = function (pathname, data, callback) {
 // cannot be directly exported.
 //
 exports.writeHeadVerboseCORS = writeHeadVerboseCORS;
+exports.writeHeadVerbose = writeHeadVerbose;
 exports.internalError = internalError;
 exports.safelyParseJSON = safelyParseJSON;

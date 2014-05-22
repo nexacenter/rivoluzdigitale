@@ -32,6 +32,7 @@ var login = require("./login.js");
 var login_once = require("./login_once.js");
 var logout = require("./logout.js");
 var mailer = require("./mailer.js");
+var post = require("./post");
 var signup = require("./signup.js");
 var url = require("url");
 var utils = require("./utils.js");
@@ -58,7 +59,7 @@ var router = {
     "/token_sent": login_once.handleToken
 };
 
-exports.handleRequest = function (request, response) {
+exports.handleRequestSSL = function (request, response) {
 
     utils.logRequest(request);
 
@@ -77,4 +78,23 @@ exports.handleRequest = function (request, response) {
     }
 
     handler(request, response);
+};
+
+var REDIR = "Vai su <a href=\"https://highgarden.polito.it@REQUEST_URL@\">" +
+            "https://highgarden.polito.it@REQUEST_URL@</a>";
+
+exports.handleRequestPlain = function (request, response) {
+
+    utils.logRequest(request);
+
+    if (request.url.indexOf("/post/", 0) === 0) {
+        post.handleRequest(request, response);
+        return;
+    }
+
+    response.writeHead(302, {
+        'Content-Type': 'text/html',
+        'Location': 'https://highgarden.polito.it' + request.url
+    });
+    response.end(REDIR.replace(/@REQUEST_URL@/g, request.url));
 };
