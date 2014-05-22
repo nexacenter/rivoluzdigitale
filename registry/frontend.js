@@ -28,6 +28,7 @@
 /*jslint node: true */
 "use strict";
 
+var annotate = require("./annotate");
 var git = require("./git");
 var mailer = require("./mailer");
 var router = require("./router");
@@ -36,6 +37,12 @@ var server = require("./server");
 exports.start = function () {
     git.start();
     mailer.init(function () {
-        server.start(router.handleRequestSSL, router.handleRequestPlain);
+        annotate.init(function (error) {
+            if (error) {
+                console.error("Fatal: %s", error);
+                process.exit(1);
+            }
+            server.start(router.handleRequestSSL, router.handleRequestPlain);
+        });
     });
 };

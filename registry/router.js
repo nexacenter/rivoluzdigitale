@@ -28,6 +28,7 @@
 /*jslint node: true */
 "use strict";
 
+var annotate = require("./annotate");
 var login = require("./login.js");
 var login_once = require("./login_once.js");
 var logout = require("./logout.js");
@@ -74,6 +75,11 @@ exports.handleRequestSSL = function (request, response) {
     if (request.method === "OPTIONS") {
         utils.writeHeadVerboseCORS(response, 200);
         response.end();
+        return;
+    }
+
+    if (request.url.indexOf("/annotate/", 0) === 0) {
+        annotate.handleRequest(request, response);
         return;
     }
 
