@@ -45,6 +45,7 @@ exports.start = function (routeSSL, routePlain) {
     var server = https.createServer({
         "key": fs.readFileSync("/etc/rivoluz/privkey.pem"),
         "cert": fs.readFileSync("/etc/rivoluz/cert.pem"),
+        "ca": fs.readFileSync("/etc/rivoluz/CA.crt"),
         "requestCert": true,
         "rejectUnauthorized": false
     }, routeSSL);

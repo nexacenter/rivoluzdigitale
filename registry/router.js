@@ -83,6 +83,15 @@ exports.handleRequestSSL = function (request, response) {
         return;
     }
 
+    //
+    // We must serve /post/annotate/ over https, otherwise the browser
+    // does not pick up the authentication certificate.
+    //
+    if (request.url.indexOf("/post/", 0) === 0) {
+        post.handleRequest(request, response);
+        return;
+    }
+
     var handler = router[request.url];
 
     if (handler === undefined) {
