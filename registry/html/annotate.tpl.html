@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Annotate: /post/read/@URL_PATH@</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"> </script>
+    <script src="https://highgarden.polito.it/annotator-full.min.js"> </script>
+    <link rel="stylesheet" href="https://highgarden.polito.it/annotator.min.css">
+
+    <script type="application/javascript">
+
+jQuery(document).ready(function () {
+    var urlPath = "/post/read/@URL_PATH@";
+
+    jQuery.get(urlPath, function (data) {
+
+        /*-
+         * XXX Remove many tags (head, script, iframe, noscript) to make
+         * sure that we only load the bare minimum of the post.
+         *
+         * We cannot load JavaScript because it may conflict with the jQuery
+         * that we use; we cannot load the CSSs because they may be over http,
+         * and so they won't load anyway.
+         *
+         * To this end, use the following StackOverflow recipe:
+         *
+         *     http://stackoverflow.com/questions/6659351
+         */
+
+        data = data.replace(
+            /<head\b[^<]*(?:(?!<\/head>)<[^<]*)*<\/head>/gi,
+            "<head><title>/post/read/@URL_PATH@</title></head>");
+
+        data = data.replace(
+            /<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, "");
+
+        data = data.replace(
+            /<noscript\b[^<]*(?:(?!<\/noscript>)<[^<]*)*<\/noscript>/gi, "");
+
+        jQuery("#content").html(data);
+
+        //
+        // Deal with images surrounded by a link first, because they
+        // require a more complicated processing.
+        //
+        jQuery("a img").each(function () {
+            var origLink = this.parentNode;
+            var container = origLink.parentNode;
+            var externalSpan = document.createElement("span");
+            var imgAsLink = document.createElement("a");
+            imgAsLink.href = this.src;
+            imgAsLink.setAttribute("class", "wasImage");
+            imgAsLink.text = "[ImgSrc]";
+            externalSpan.appendChild(imgAsLink);
+            var newLink = document.createElement("a");
+            newLink.href = origLink.href;
+            newLink.text = "[ImgOnClick]";
+            externalSpan.appendChild(newLink);
+            container.replaceChild(externalSpan, origLink);
+        });
+
+        // Replace image with link pointing to its source
+        jQuery('img').each(function () {
+            var link = "<a href='" + this.src
+                + "' class='wasImage'>[ImgSrc]</a>";
+            jQuery(this).replaceWith(link);
+        });
+
+        //
+        // Pop image in the foreground when hover an image link
+        //
+        // FIXME The following does not work for huge images.
+        //
+        jQuery("a.wasImage").hover(function (event) {
+            jQuery("body").append(
+                "<div id='preview'>\n" +
+                "  <center>\n" +
+                "   <p style='font-size: 133%;'>" + this.href + "</p>\n" +
+                "   <img src='" + this.href + "' id='my-img'/>\n" +
+                "  </center>\n" +
+                "</div>");
+            jQuery("#my-img")
+                .css("max-width", "90%")
+                .css("max-height", "90%");
+            jQuery("#preview")
+                .css("top", "0px")
+                .css("left", "0px")
+                .css("height", jQuery(window).height())
+                .css("width", jQuery(window).width())
+                .fadeIn("fast");
+            jQuery("#preview").click(function () {
+                this.remove();
+            });
+        }, function() {
+            // nothing to do
+        });
+
+        // Only keep YouTube and make sure we use https
+        jQuery("iframe").each(function () {
+            if (this.src.indexOf("https://www.youtube.com", 0) !== 0 &&
+                    this.src.indexOf("http://www.youtube.com", 0) !== 0) {
+                this.remove();
+                return;
+            }
+            if (this.src.indexOf("http://", 0) === 0) {
+                this.src = this.src.replace(/http:/g, "https:");
+            }
+            var link = "<a href='" + this.src + "'>[YouTubeEmbed]</a>";
+            jQuery(this).replaceWith(link);
+        });
+
+        var content = jQuery("#content").annotator();
+        content.annotator("addPlugin", "Store", {
+            "prefix": "https://highgarden.polito.it/annotate",
+            annotationData: {
+                "uri": urlPath
+            },
+            loadFromSearch: {
+                "limit": 0,
+                "uri": urlPath
+            }
+        });
+
+    });
+});
+
+    </script><style>
+
+#preview {
+    position: fixed;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    display: none;
+    color: #fff;
+    z-axis: 999;
+}
+
+    </style>
+  </head>
+  <body>
+    <p>
+      <span><a href="http://highgarden.polito.it/post/read/@URL_PATH@"
+        target="_blank">[originale]</a></span>
+      <span><a href="http://highgarden.polito.it/post/view-source/@URL_PATH@"
+        target="_blank">[sorgente]</a></span>
+    </p>
+    <hr />
+    <div id="content"></div>
+  </body>
+</html>

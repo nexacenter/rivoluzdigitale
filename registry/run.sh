@@ -39,4 +39,6 @@ echo "Startup: `date`"
 /usr/bin/env
 /usr/bin/id
 
+cd /usr/local/share/rivoluz
+
 nodejs index.js

@@ -38,29 +38,19 @@ var http = require("http");
 var https = require("https");
 var os = require("os");
 
-var softRedirect = "Vai su <a href=\"https://highgarden.polito.it\">" +
-                   "https://highgarden.polito.it</a>";
+exports.start = function (routeSSL, routePlain) {
 
-exports.start = function (route, port) {
+    var port = 4443;
 
     var server = https.createServer({
         "key": fs.readFileSync("/etc/rivoluz/privkey.pem"),
-        "cert": fs.readFileSync("/etc/rivoluz/cert.pem")
-    }, route);
+        "cert": fs.readFileSync("/etc/rivoluz/cert.pem"),
+        "ca": fs.readFileSync("/etc/rivoluz/CA.crt"),
+        "requestCert": true,
+        "rejectUnauthorized": false
+    }, routeSSL);
 
-    if (port === undefined) {
-        port = 4443;
-    }
-
-    var staticServer = http.createServer(function (req, res) {
-        res.writeHead(302, {
-            'Content-Type': 'text/html',
-            'Location': 'https://highgarden.polito.it/'
-        });
-        res.write(softRedirect);
-        res.end();
-    });
-
+    var staticServer = http.createServer(routePlain);
     staticServer.listen(8080);
 
     function listeningHandler() {
