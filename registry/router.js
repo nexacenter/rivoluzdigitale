@@ -46,6 +46,14 @@ var router = {
         utils.servePath__("/js/jquery.md5.min.js", response,
           "text/javascript");
     },
+    "/annotator-full.min.js": function (request, response) {
+        utils.servePath__("/js/annotator-full.min.js", response,
+          "text/javascript");
+    },
+    "/annotator.min.css": function (request, response) {
+        utils.servePath__("/css/annotator.min.css", response,
+          "text/css");
+    },
 
     "/login": login.handleRequest,
     "/mod_sent": login.modPage,

@@ -123,6 +123,7 @@ fi
 echo "setup: install into $SRCDIR..."
 
 install -d $SRCDIR
+install -d $SRCDIR/css
 install -d $SRCDIR/html
 install -d $SRCDIR/js
 
@@ -133,6 +134,10 @@ for SCRIPT in backend.js frontend.js git.js index.js login.js login_once.js \
 done
 install -m555 run.sh $SRCDIR
 install -m555 init_iptables.sh $SRCDIR
+
+for SCRIPT in css/*.css; do
+    install -m444 $SCRIPT $SRCDIR/css
+done
 
 for FILE in html/*.html; do
     install -m444 $FILE $SRCDIR/html
