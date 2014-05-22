@@ -51,7 +51,7 @@ var writeHeadVerboseCORS = function (response, status, headers) {
     if (headers === undefined) {
         headers = {};
     }
-    headers["Access-Control-Allow-Method"] = "GET, HEAD, POST";
+    headers["Access-Control-Allow-Methods"] = "GET, HEAD, POST";
     headers["Access-Control-Allow-Headers"] = "Content-Type, Accept";
     headers["Access-Control-Allow-Origin"] = "*";
     writeHeadVerbose(response, status, headers);
