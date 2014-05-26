@@ -50,7 +50,7 @@ main(void)
 	int result;
 
 	char *const argv[] = {
-		"./run.sh",
+		"/usr/local/share/rivoluz/run.sh",
 		NULL
 	};
 	char *const envp[] = {
