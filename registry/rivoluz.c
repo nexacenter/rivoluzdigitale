@@ -39,7 +39,6 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#define DEPLOYDIR "/usr/local/share/rivoluz/"
 #define LOGFILE "/var/lib/rivoluz/log.txt"
 #define UNPRIV_USER "_rivoluz"
 
@@ -82,14 +81,6 @@ main(void)
 	    credentials->pw_uid);
 	if (result != 0)
 		err(1, "setresuid");
-
-	/*
-	 * Change directory
-	 */
-
-	result = chdir(DEPLOYDIR);
-	if (result != 0)
-		err(1, "chdir");
 
 	/*
 	 * Become a daemon
