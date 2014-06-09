@@ -173,9 +173,7 @@
             document.getElementById(zone).innerHTML =
                 '<form id=' + id + ' method="post">&nbsp;<input type="text" name=' + nameid + ' id=' + nameid + ' pattern=' + regexp[id] + ' size=' + num + ' required>&nbsp;<button onclick=\'cancelForm(\"' + zone + '\",\"' + id + '\",\"' + nameid + '\",\"' + num + '\")\'> Annulla </button>&nbsp;<input type="submit" value="Modifica"></form >';
         }
-    </script>
 
-    <script type="text/javascript">
         $("#AccountWP").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var wikipedia = $("#wp").val();
@@ -189,7 +187,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneWP").text(data.Wikipedia);
-                    $("#infoWP").html("<b>Modificato!</b>");
+                    cancelForm("postWP","AccountWP","wp","30");
+                    $("#infoWP").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -214,7 +213,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneBlog").text(data.Blog);
-                    $("#infoBlog").html("<b>Modificato!</b>");
+                    cancelForm("postBlog","UrlBlog","blog","42");
+                    $("#infoBlog").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -239,7 +239,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneTwitter").text(data.Twitter);
-                    $("#infoTwitter").html("<b>Modificato!</b>");
+                    cancelForm("postTwitter","AccountTwitter","twitter","20");
+                    $("#infoTwitter").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -264,7 +265,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneVideo").text(data.Video);
-                    $("#infoVideo").html("<b>Modificato!</b>");
+                    cancelForm("postVideo","UrlVideo","video","42");
+                    $("#infoVideo").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -288,7 +290,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zonePost1").text(data.Post1);
-                    $("#infoPost1").html("<b>Modificato!</b>");
+                    cancelForm("postPost1","Post1","post1","42");
+                    $("#infoPost1").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -312,7 +315,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zonePost2").text(data.Post2);
-                    $("#infoPost2").html("<b>Modificato!</b>");
+                    cancelForm("postPost2","Post2","post2","42");
+                    $("#infoPost2").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -336,7 +340,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zonePost3").text(data.Post3);
-                    $("#infoPost3").html("<b>Modificato!</b>");
+                    cancelForm("postPost3","Post3","post3","42");
+                    $("#infoPost3").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -360,7 +365,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneName").text(data.Nome);
-                    $("#infoName").html("<b>Modificato!</b>");
+                    cancelForm("postName","Name","name","23");
+                    $("#infoName").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -384,7 +390,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneSurname").text(data.Cognome);
-                    $("#infoSurname").html("<b>Modificato!</b>");
+                    cancelForm("postSurname","Surname","surname","23");
+                    $("#infoSurname").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
