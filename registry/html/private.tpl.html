@@ -3,6 +3,15 @@
 <head>
     <title>Pagina di @MATRICOLA@</title>
     <meta charset="utf-8" />
+
+    <style>
+        body{
+            font-family: Verdana, Geneva, sans-serif;
+        }
+        .line {
+            display: inline-block;
+        }
+    </style>
 </head>
 
 <body>
@@ -10,80 +19,55 @@
     <p>Questa e' la tua pagina personale, in cui puoi gestire i tuoi dati.</p>
 
     <h3>Dati personali</h3>
-    <form id="Name" method="post">
-        <b>Nome</b>:
-        <input type="text" name="name" id="name" pattern="^[A-Za-z\'\- ]+$"
-        size="23" title="Qui puoi modificare il tuo nome" required/>
-        <input type="submit" value="Modifica" />
-    </form>
-    <ul>
-        <li>
-            <div id="zoneName">@NOME@</div>
-            <div id="infoName"></div>
-        </li>
-    </ul>
 
-    <form id="Surname" method="post">
-        <b>Cognome</b>:
-        <input type="text" name="surname" id="surname" pattern="^[A-Za-z\'\- ]+$"
-        size="23" title="Qui puoi modificare il tuo cognome" required/>
-        <input type="submit" value="Modifica" />
-    </form>
-    <ul>
-        <li>
-            <div id="zoneSurname">@COGNOME@</div>
-            <div id="infoSurname"></div>
-        </li>
-    </ul>
+    <div id="Name">
+        <div id="preName" class="line"><b>Nome</b>:&nbsp;</div>
+        <div id="zoneName" class="line">@NOME@</div>
+        <div id="postName" class="line">&nbsp;<button onclick='openForm("postName","Name","name","23")'>Modifica</button></div>
+    </div>
+    <div id="infoName"></div>
+    <br />
 
+    <div id="Surname">
+        <div id="preSurname" class="line"><b>Cognome</b>:&nbsp;</div>
+        <div id="zoneSurname" class="line">@COGNOME@</div>
+        <div id="postSurname" class="line">&nbsp;<button onclick='openForm("postSurname","Surname","surname","23")'>Modifica</button></div>
+    </div>
+    <div id="infoSurname"></div>
+    <br />
 
     <b>Matricola</b>: @MATRICOLA@
     <br /><br />
 
     <h3>Dati funzionali al corso</h3>
-    <form id="UrlBlog" method="post">
-        <b>Url blog</b>:
-        <input type="text" name="blog" id="blog" pattern="^http(|s)\://.*$"
-        size="42" title="Inserisci l'url del tuo blog" required/>
-        <input type="submit" value="Modifica" /> <small>es. http://www.example.com</small>
-    </form>
-    <ul>
-        <li>
-            <div id="zoneBlog">@BLOG@</div>
-            <div id="infoBlog"></div>
-        </li>
-    </ul>
-    <br>
 
-    <form id="AccountTwitter" method="post">
-        <b>Account Twitter</b>:
-        <input type="text" name="twitter" id="twitter"
-        pattern="^@[A-Za-z0-9_]{1,15}$" title="Inserisci il tuo handle Twitter"
-        required/>
-        <input type="submit" value="Modifica" /> <small>es. @NickTwitter</small>
-    </form>
-    <ul>
-        <li>
-            <div id="zoneTwitter">@TWITTER@</div>
-            <div id="infoTwitter"></div>
-        </li>
-    </ul>
-    <br>
+    <div id="UrlBlog">
+        <div id="preBlog" class="line"><b>Url blog</b>:&nbsp;</div>
+        <div id="zoneBlog" class="line">@BLOG@</div>
+        <div id="postBlog" class="line">&nbsp;<button onclick='openForm("postBlog","UrlBlog","blog","42")'>Modifica</button></div>
+        <div id="exBlog" class="line"><small>&nbsp;es. http://www.example.com</small></div>
+    </div>
+    <div id="infoBlog"></div>
+    <br />
 
-    <form id="AccountWP" method="post">
-        <b>Account Wikipedia</b>:
-        <input type="text" name="wp" id="wp" pattern="^(|(U|u)tente\:[^\{\}\[\]\#\|\<\>][^\{\}\[\]\#\|\<\>]+)$"
-        title="Inserisci il tuo nome utente su Wikipedia preceduto da Utente:"
-        required/>
-        <input type="submit" value="Modifica" /> <small>es. Utente:MioNickname</small>
-    </form>
-    <ul>
-        <li>
-            <div id="zoneWP">@WIKIPEDIA@</div>
-            <div id="infoWP"></div>
-        </li>
-    </ul>
-    <br>
+    <div id="AccountTwitter">
+        <div id="preTwitter" class="line"><b>Account Twitter</b>:&nbsp;</div>
+        <div id="zoneTwitter" class="line">@TWITTER@</div>
+        <div id="postTwitter" class="line">&nbsp;<button onclick='openForm("postTwitter","AccountTwitter","twitter","20")'>Modifica</button></div>
+        <div id="exTwitter" class="line"><small>&nbsp;es. @NickTwitter</small></div>
+    </div>
+    <div id="infoTwitter"></div>
+    <br />
+
+    <div id="AccountWP">
+        <div id="preWP" class="line"><b>Account Wikipedia</b>:&nbsp;</div>
+        <div id="zoneWP" class="line">@WIKIPEDIA@</div>
+        <div id="postWP" class="line">&nbsp;<button onclick='openForm("postWP","AccountWP","wp","30")'>Modifica</button></div>
+        <div id="exWikipedia" class="line"><small>&nbsp;es. Utente:MioNickname</small></div>
+    </div>
+    <div id="infoWP"></div>
+    <br />
+
     <p>I link relativi a video e post verranno utilizzati per accedere agli elaborati per la valutazione. Variazioni degli stessi in data successiva a quelle di consegna (esposte in <a href="http://rivoluzionedigitale.polito.it/regole">regole</a>) verranno normalmente salvate ma ignorate ai fini della correzione.</p>
     <p>I post non vengono salvati ogni volta che aggiornate questa pagina, ma
        possono essere salvati prima della scadenza e vengono in ogni caso
@@ -91,82 +75,75 @@
        preoccupatevi se, prima della scadenza, i link al vostro post
        fanno riferimento a una versione precedente del post stesso.</p>
     <br>
-    <form id="UrlVideo" method="post">
-        <b>Url video presentazione</b>:
-        <input type="text" name="video"
-        id="video" pattern="^http(|s)\://.*$" size="42" title="Inserisci l'url del tuo video di presentazione"
-        required/>
-        <input type="submit" value="Modifica" /> <small>es. https://www.youtube.com/watch?v=aui6NoM56_k</small>
-    </form>
-    <ul>
-        <li>
-            <div id="zoneVideo">@VIDEO@</div>
-            <div id="infoVideo"></div>
-        </li>
-    </ul>
-    <br>
 
-    <form id="Post1" method="post">
-        <b>Post n°1</b>:
-        <input type="text" name="post1"
-        id="post1" pattern="^http(|s)\://.*$" size="42" title="Inserisci l'url del tuo primo post"
-        required/>
-        <input type="submit" value="Modifica" /> <small>es. http://mioblog.tumblr.com/primo-post</small>
-    </form>
-    <ul>
-        <li>
-            <div id="zonePost1">@POST1@
-              <a href="http://highgarden.polito.it/post/annotate/@MATRICOLA@/1" target="_blank">[vedi annotazioni]</a>
-              <a href="http://highgarden.polito.it/post/read/@MATRICOLA@/1" target="_blank">[leggi originale]</a>
-              <a href="http://highgarden.polito.it/post/view-source/@MATRICOLA@/1" target="_blank">[vedi-sorgente]</a>
-            </div>
-            <div id="infoPost1"></div>
-        </li>
-    </ul>
-    <br>
+    <div id="UrlVideo">
+        <div id="preVideo" class="line"><b>Url video presentazione</b>:&nbsp;</div>
+        <div id="zoneVideo" class="line">@VIDEO@</div>
+        <div id="postVideo" class="line">&nbsp;<button onclick='openForm("postVideo","UrlVideo","video","42")'>Modifica</button></div>
+        <div id="exVideo" class="line"><small>&nbsp;es. https://www.youtube.com/watch?v=aui6NoM56_k</small></div>
+    </div>
+    <div id="infoVideo"></div>
+    <br />
 
-    <form id="Post2" method="post">
-        <b>Post n°2</b>:
-        <input type="text" name="post2"
-        id="post2" pattern="^http(|s)\://.*$" size="42" title="Inserisci l'url del tuo primo post"
-        required/>
-        <input type="submit" value="Modifica" /> <small>es. http://mioblog.tumblr.com/secondo-post</small>
-    </form>
-    <ul>
-        <li>
-            <div id="zonePost2">@POST2@
-              <a href="http://highgarden.polito.it/post/annotate/@MATRICOLA@/2" target="_blank">[vedi annotazioni]</a>
-              <a href="http://highgarden.polito.it/post/read/@MATRICOLA@/2" target="_blank">[leggi originale]</a>
-              <a href="http://highgarden.polito.it/post/view-source/@MATRICOLA@/2" target="_blank">[vedi-sorgente]</a>
-            </div>
-            <div id="infoPost2"></div>
-        </li>
-    </ul>
-    <br>
+    <div id="Post1">
+        <div id="prePost1" class="line"><b>Post n°1</b>:&nbsp;</div>
+        <div id="zonePost1" class="line">@POST1@</div>
+        <div id="postPost1" class="line">&nbsp;<button onclick='openForm("postPost1","Post1","post1","42")'>Modifica</button></div>
+        <div id="exPost1" class="line"><small>&nbsp;es. http://mioblog.tumblr.com/primo-post</small></div>
+    </div>
+    <div id="infoPost1"></div>
+    <div id="linkPost1">
+        <a href="http://highgarden.polito.it/post/annotate/@MATRICOLA@/1" target="_blank">[vedi annotazioni]</a>
+        <a href="http://highgarden.polito.it/post/read/@MATRICOLA@/1" target="_blank">[leggi originale]</a>
+        <a href="http://highgarden.polito.it/post/view-source/@MATRICOLA@/1" target="_blank">[vedi-sorgente]</a>
+    </div>
+    <br />
 
-    <form id="Post3" method="post">
-        <b>Post n°3</b>:
-        <input type="text" name="post3"
-        id="post3" pattern="^http(|s)\://.*$" size="42" title="Inserisci l'url del tuo primo post"
-        required/>
-        <input type="submit" value="Modifica" /> <small>es. http://mioblog.tumblr.com/terzo-post</small>
-    </form>
-    <ul>
-        <li>
-            <div id="zonePost3">@POST3@
-              <a href="http://highgarden.polito.it/post/annotate/@MATRICOLA@/3" target="_blank">[vedi annotazioni]</a>
-              <a href="http://highgarden.polito.it/post/read/@MATRICOLA@/3" target="_blank">[leggi originale]</a>
-              <a href="http://highgarden.polito.it/post/view-source/@MATRICOLA@/3" target="_blank">[vedi sorgente]</a>
-            </div>
-            <div id="infoPost3"></div>
-        </li>
-    </ul>
+    <div id="Post2">
+        <div id="prePost2" class="line"><b>Post n°2</b>:&nbsp;</div>
+        <div id="zonePost2" class="line">@POST2@</div>
+        <div id="postPost2" class="line">&nbsp;<button onclick='openForm("postPost2","Post2","post2","42")'>Modifica</button></div>
+        <div id="exPost2" class="line"><small>&nbsp;es. http://mioblog.tumblr.com/secondo-post</small></div>
+    </div>
+    <div id="infoPost2"></div>
+    <div id="linkPost2">
+        <a href="http://highgarden.polito.it/post/annotate/@MATRICOLA@/2" target="_blank">[vedi annotazioni]</a>
+        <a href="http://highgarden.polito.it/post/read/@MATRICOLA@/2" target="_blank">[leggi originale]</a>
+        <a href="http://highgarden.polito.it/post/view-source/@MATRICOLA@/2" target="_blank">[vedi-sorgente]</a>
+    </div>
+    <br />
 
-    <br>
+    <div id="Post3">
+        <div id="prePost3" class="line"><b>Post n°3</b>:&nbsp;</div>
+        <div id="zonePost3" class="line">@POST3@</div>
+        <div id="postPost3" class="line">&nbsp;<button onclick='openForm("postPost3","Post3","post3","42")'>Modifica</button></div>
+        <div id="exPost3" class="line"><small>&nbsp;es. http://mioblog.tumblr.com/terzo-post</small></div>
+    </div>
+    <div id="infoPost3"></div>
+    <div id="linkPost3">
+        <a href="http://highgarden.polito.it/post/annotate/@MATRICOLA@/3" target="_blank">[vedi annotazioni]</a>
+        <a href="http://highgarden.polito.it/post/read/@MATRICOLA@/3" target="_blank">[leggi originale]</a>
+        <a href="http://highgarden.polito.it/post/view-source/@MATRICOLA@/3" target="_blank">[vedi-sorgente]</a>
+    </div>
+    <br />
+    <br />
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 
     <script type="text/javascript">
+        var URL = "^http(|s)://.*$";
+        var regexp = {
+            "Name": "^[A-Za-z\\\'\\-\\s]+$",
+            "Surname": "^[A-Za-z\\\'\\-\\s]+$",
+            "UrlBlog": URL,
+            "AccountTwitter": "^(|@[A-Za-z0-9_]{1,15})$",
+            "AccountWP": "^(U|u)tente:[^\\{\\}\\[\\]\\#\\|\\<]+)$",
+            "UrlVideo": URL,
+            "Post1": URL,
+            "Post2": URL,
+            "Post3": URL
+        };
+
         if ($("#zoneBlog").is(":empty")) {
             document.getElementById("zoneBlog").innerHTML = "Url blog non presente.";
         }
@@ -188,9 +165,15 @@
         if ((document.getElementById("zonePost3").innerHTML === "undefined") || ($("#zonePost3").is(":empty"))){
             document.getElementById("zonePost3").innerHTML = "Url del terzo post non presente.";
         }
-    </script>
+        function cancelForm(zone,id,nameid,num) {
+            document.getElementById(zone).innerHTML =
+                '&nbsp;<button onclick=\'openForm(\"'+zone+'\",\"'+id+'\",\"'+nameid+'\",\"'+num+'\")\'>Modifica</button>';
+        }
+        function openForm(zone,id,nameid,num) {
+            document.getElementById(zone).innerHTML =
+                '<form id=' + id + ' method="post">&nbsp;<input type="text" name=' + nameid + ' id=' + nameid + ' pattern=' + regexp[id] + ' size=' + num + ' required>&nbsp;<button onclick=\'cancelForm(\"' + zone + '\",\"' + id + '\",\"' + nameid + '\",\"' + num + '\")\'> Annulla </button>&nbsp;<input type="submit" value="Modifica"></form >';
+        }
 
-    <script type="text/javascript">
         $("#AccountWP").bind("submit", function (evt) {
             var matricola = "@MATRICOLA@";
             var wikipedia = $("#wp").val();
@@ -204,7 +187,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneWP").text(data.Wikipedia);
-                    $("#infoWP").html("<b>Modificato!</b>");
+                    cancelForm("postWP","AccountWP","wp","30");
+                    $("#infoWP").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -229,7 +213,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneBlog").text(data.Blog);
-                    $("#infoBlog").html("<b>Modificato!</b>");
+                    cancelForm("postBlog","UrlBlog","blog","42");
+                    $("#infoBlog").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -254,7 +239,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneTwitter").text(data.Twitter);
-                    $("#infoTwitter").html("<b>Modificato!</b>");
+                    cancelForm("postTwitter","AccountTwitter","twitter","20");
+                    $("#infoTwitter").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -279,7 +265,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneVideo").text(data.Video);
-                    $("#infoVideo").html("<b>Modificato!</b>");
+                    cancelForm("postVideo","UrlVideo","video","42");
+                    $("#infoVideo").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -303,7 +290,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zonePost1").text(data.Post1);
-                    $("#infoPost1").html("<b>Modificato!</b>");
+                    cancelForm("postPost1","Post1","post1","42");
+                    $("#infoPost1").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -327,7 +315,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zonePost2").text(data.Post2);
-                    $("#infoPost2").html("<b>Modificato!</b>");
+                    cancelForm("postPost2","Post2","post2","42");
+                    $("#infoPost2").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -351,7 +340,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zonePost3").text(data.Post3);
-                    $("#infoPost3").html("<b>Modificato!</b>");
+                    cancelForm("postPost3","Post3","post3","42");
+                    $("#infoPost3").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -375,7 +365,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneName").text(data.Nome);
-                    $("#infoName").html("<b>Modificato!</b>");
+                    cancelForm("postName","Name","name","23");
+                    $("#infoName").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
@@ -399,7 +390,8 @@
                 }),
                 success: function (data, textStatus, jqXHR) {
                     $("#zoneSurname").text(data.Cognome);
-                    $("#infoSurname").html("<b>Modificato!</b>");
+                    cancelForm("postSurname","Surname","surname","23");
+                    $("#infoSurname").html("");
                 },
                 error: function (jqXHR, textStatus,
                     errorThrown) {
