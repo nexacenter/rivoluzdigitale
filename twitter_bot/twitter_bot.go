@@ -706,7 +706,6 @@ func main() {
             if err != nil {
                 log.Fatal(err)
             }
-            //fmt.Fprintf(os.Stdout, "cursor: %s\n", cursor)
             if (cursor == "0") {
                 break
             }
