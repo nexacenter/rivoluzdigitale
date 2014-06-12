@@ -16,12 +16,11 @@
 
 <body>
     <h2>Ciao @NOME@ @COGNOME@! - <a href="/logout">Logout</a></h2>
-    <p>Questa e' la tua pagina personale, in cui puoi gestire i tuoi dati.</p>
 
     <h3>Dati personali</h3>
 
     <div id="Name">
-        <div id="preName" class="line"><b>Nome</b>:&nbsp;</div>
+        <div id="preName" class="line"><b>Nome</b>:</div>
         <div id="zoneName" class="line">@NOME@</div>
         <div id="postName" class="line">&nbsp;<button onclick='openForm("postName","Name","name","23")'>Modifica</button></div>
     </div>
@@ -29,7 +28,7 @@
     <br />
 
     <div id="Surname">
-        <div id="preSurname" class="line"><b>Cognome</b>:&nbsp;</div>
+        <div id="preSurname" class="line"><b>Cognome</b>:</div>
         <div id="zoneSurname" class="line">@COGNOME@</div>
         <div id="postSurname" class="line">&nbsp;<button onclick='openForm("postSurname","Surname","surname","23")'>Modifica</button></div>
     </div>
@@ -41,28 +40,28 @@
 
     <h3>Dati funzionali al corso</h3>
 
-    <div id="UrlBlog">
-        <div id="preBlog" class="line"><b>Url blog</b>:&nbsp;</div>
+    <div id="Blog">
+        <div id="preBlog" class="line"><b>Url blog</b>:</div>
         <div id="zoneBlog" class="line">@BLOG@</div>
-        <div id="postBlog" class="line">&nbsp;<button onclick='openForm("postBlog","UrlBlog","blog","42")'>Modifica</button></div>
+        <div id="postBlog" class="line">&nbsp;<button onclick='openForm("postBlog","Blog","blog","42")'>Modifica</button></div>
         <div id="exBlog" class="line"><small>&nbsp;es. http://www.example.com</small></div>
     </div>
     <div id="infoBlog"></div>
     <br />
 
-    <div id="AccountTwitter">
-        <div id="preTwitter" class="line"><b>Account Twitter</b>:&nbsp;</div>
+    <div id="Twitter">
+        <div id="preTwitter" class="line"><b>Account Twitter</b>:</div>
         <div id="zoneTwitter" class="line">@TWITTER@</div>
-        <div id="postTwitter" class="line">&nbsp;<button onclick='openForm("postTwitter","AccountTwitter","twitter","20")'>Modifica</button></div>
+        <div id="postTwitter" class="line">&nbsp;<button onclick='openForm("postTwitter","Twitter","twitter","20")'>Modifica</button></div>
         <div id="exTwitter" class="line"><small>&nbsp;es. @NickTwitter</small></div>
     </div>
     <div id="infoTwitter"></div>
     <br />
 
-    <div id="AccountWP">
-        <div id="preWP" class="line"><b>Account Wikipedia</b>:&nbsp;</div>
+    <div id="WP">
+        <div id="preWP" class="line"><b>Account Wikipedia</b>:</div>
         <div id="zoneWP" class="line">@WIKIPEDIA@</div>
-        <div id="postWP" class="line">&nbsp;<button onclick='openForm("postWP","AccountWP","wp","30")'>Modifica</button></div>
+        <div id="postWP" class="line">&nbsp;<button onclick='openForm("postWP","WP","wp","30")'>Modifica</button></div>
         <div id="exWikipedia" class="line"><small>&nbsp;es. Utente:MioNickname</small></div>
     </div>
     <div id="infoWP"></div>
@@ -76,17 +75,17 @@
        fanno riferimento a una versione precedente del post stesso.</p>
     <br>
 
-    <div id="UrlVideo">
-        <div id="preVideo" class="line"><b>Url video presentazione</b>:&nbsp;</div>
+    <div id="Video">
+        <div id="preVideo" class="line"><b>Video</b>:</div>
         <div id="zoneVideo" class="line">@VIDEO@</div>
-        <div id="postVideo" class="line">&nbsp;<button onclick='openForm("postVideo","UrlVideo","video","42")'>Modifica</button></div>
+        <div id="postVideo" class="line">&nbsp;<button onclick='openForm("postVideo","Video","video","42")'>Modifica</button></div>
         <div id="exVideo" class="line"><small>&nbsp;es. https://www.youtube.com/watch?v=aui6NoM56_k</small></div>
     </div>
     <div id="infoVideo"></div>
     <br />
 
     <div id="Post1">
-        <div id="prePost1" class="line"><b>Post n°1</b>:&nbsp;</div>
+        <div id="prePost1" class="line"><b>Post n°1</b>:</div>
         <div id="zonePost1" class="line">@POST1@</div>
         <div id="postPost1" class="line">&nbsp;<button onclick='openForm("postPost1","Post1","post1","42")'>Modifica</button></div>
         <div id="exPost1" class="line"><small>&nbsp;es. http://mioblog.tumblr.com/primo-post</small></div>
@@ -100,7 +99,7 @@
     <br />
 
     <div id="Post2">
-        <div id="prePost2" class="line"><b>Post n°2</b>:&nbsp;</div>
+        <div id="prePost2" class="line"><b>Post n°2</b>:</div>
         <div id="zonePost2" class="line">@POST2@</div>
         <div id="postPost2" class="line">&nbsp;<button onclick='openForm("postPost2","Post2","post2","42")'>Modifica</button></div>
         <div id="exPost2" class="line"><small>&nbsp;es. http://mioblog.tumblr.com/secondo-post</small></div>
@@ -114,7 +113,7 @@
     <br />
 
     <div id="Post3">
-        <div id="prePost3" class="line"><b>Post n°3</b>:&nbsp;</div>
+        <div id="prePost3" class="line"><b>Post n°3</b>:</div>
         <div id="zonePost3" class="line">@POST3@</div>
         <div id="postPost3" class="line">&nbsp;<button onclick='openForm("postPost3","Post3","post3","42")'>Modifica</button></div>
         <div id="exPost3" class="line"><small>&nbsp;es. http://mioblog.tumblr.com/terzo-post</small></div>
@@ -131,51 +130,52 @@
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 
     <script type="text/javascript">
+        var matricola = "@MATRICOLA@";
         var URL = "^http(|s)://.*$";
         var regexp = {
-            "Name": "^[A-Za-z\\\'\\-\\s]+$",
-            "Surname": "^[A-Za-z\\\'\\-\\s]+$",
-            "UrlBlog": URL,
-            "AccountTwitter": "^(|@[A-Za-z0-9_]{1,15})$",
-            "AccountWP": "^(U|u)tente:[^\\{\\}\\[\\]\\#\\|\\<]+)$",
-            "UrlVideo": URL,
+            "Name": "^[\\sA-Za-z\\\'\\-]+$",
+            "Surname": "^[\\sA-Za-z\\\'\\-]+$",
+            "Blog": URL,
+            "Twitter": "^(|@[A-Za-z0-9_]{1,15})$",
+            "WP": "^(U|u)tente:[^\\{\\}\\[\\]\\#\\|\\<]+)$",
+            "Video": URL,
             "Post1": URL,
             "Post2": URL,
             "Post3": URL
         };
+        var emptyMsg = {
+            "Blog": "Url blog non presente.",
+            "Twitter": "Account Twitter non presente.",
+            "WP": "Account Wikipedia non presente.",
+            "Video": "Url video non presente.",
+            "Post1": "Url del primo post non presente.",
+            "Post2": "Url del secondo post non presente.",
+            "Post3": "Url del terzo post non presente."
+        };
 
-        if ($("#zoneBlog").is(":empty")) {
-            document.getElementById("zoneBlog").innerHTML = "Url blog non presente.";
+        for (key in emptyMsg) {
+            if ((document.getElementById("zone"+key).innerHTML === "undefined") || ($("#zone"+key).is(":empty"))) {
+                document.getElementById("zone"+key).innerHTML = emptyMsg[key];
+            }
         }
-        if ($("#zoneTwitter").is(":empty")) {
-            document.getElementById("zoneTwitter").innerHTML = "Account Twitter non presente.";
-        }
-        if ($("#zoneWP").is(":empty")) {
-            document.getElementById("zoneWP").innerHTML = "Account Wikipedia non presente.";
-        }
-        if ($("#zoneVideo").is(":empty")) {
-            document.getElementById("zoneVideo").innerHTML = "Url video non presente.";
-        }
-        if ((document.getElementById("zonePost1").innerHTML === "undefined") || ($("#zonePost1").is(":empty"))) {
-            document.getElementById("zonePost1").innerHTML = "Url del primo post non presente.";
-        }
-        if ((document.getElementById("zonePost2").innerHTML === "undefined") || ($("#zonePost2").is(":empty"))){
-            document.getElementById("zonePost2").innerHTML = "Url del secondo post non presente.";
-        }
-        if ((document.getElementById("zonePost3").innerHTML === "undefined") || ($("#zonePost3").is(":empty"))){
-            document.getElementById("zonePost3").innerHTML = "Url del terzo post non presente.";
-        }
-        function cancelForm(zone,id,nameid,num) {
+
+        function cancelForm(zone,id,nameid,num,memo) {
             document.getElementById(zone).innerHTML =
                 '&nbsp;<button onclick=\'openForm(\"'+zone+'\",\"'+id+'\",\"'+nameid+'\",\"'+num+'\")\'>Modifica</button>';
-        }
-        function openForm(zone,id,nameid,num) {
-            document.getElementById(zone).innerHTML =
-                '<form id=' + id + ' method="post">&nbsp;<input type="text" name=' + nameid + ' id=' + nameid + ' pattern=' + regexp[id] + ' size=' + num + ' required>&nbsp;<button onclick=\'cancelForm(\"' + zone + '\",\"' + id + '\",\"' + nameid + '\",\"' + num + '\")\'> Annulla </button>&nbsp;<input type="submit" value="Modifica"></form >';
+            document.getElementById("zone"+id).innerHTML = memo;
         }
 
-        $("#AccountWP").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
+        function openForm(zone,id,nameid,num) {
+            var memo = document.getElementById("zone"+id).innerHTML;
+            var memoMod = memo.replace(/^/g, '"');
+            memoMod = memoMod.replace(/$/g, '"');
+            document.getElementById(zone).innerHTML =
+                '<form id=' + id + ' method="post"><input type="text" name=' + nameid + ' id=' + nameid + ' value=' + memoMod + ' pattern=' + regexp[id] + ' size=' + num + '>&nbsp;<button onclick=\'cancelForm(\"' + zone + '\",\"' + id + '\",\"' + nameid + '\",\"' + num + '\",\"' + memo + '\")\'> Annulla </button>&nbsp;<input type="submit" value="Modifica"></form >';
+            document.getElementById("zone"+id).innerHTML = "";
+        }
+
+
+        $("#WP").bind("submit", function (evt) {
             var wikipedia = $("#wp").val();
             $.ajax({
                 url: "/mod_sent",
@@ -186,8 +186,7 @@
                     Wikipedia: wikipedia
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneWP").text(data.Wikipedia);
-                    cancelForm("postWP","AccountWP","wp","30");
+                    cancelForm("postWP","WP","wp","30",data.Wikipedia);
                     $("#infoWP").html("");
                 },
                 error: function (jqXHR, textStatus,
@@ -200,8 +199,7 @@
         });
 
 
-        $("#UrlBlog").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
+        $("#Blog").bind("submit", function (evt) {
             var blog = $("#blog").val();
             $.ajax({
                 url: "/mod_sent",
@@ -212,8 +210,7 @@
                     Blog: blog
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneBlog").text(data.Blog);
-                    cancelForm("postBlog","UrlBlog","blog","42");
+                    cancelForm("postBlog","Blog","blog","42",data.Blog);
                     $("#infoBlog").html("");
                 },
                 error: function (jqXHR, textStatus,
@@ -226,8 +223,7 @@
         });
 
 
-        $("#AccountTwitter").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
+        $("#Twitter").bind("submit", function (evt) {
             var twitter = $("#twitter").val();
             $.ajax({
                 url: "/mod_sent",
@@ -238,8 +234,7 @@
                     Twitter: twitter
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneTwitter").text(data.Twitter);
-                    cancelForm("postTwitter","AccountTwitter","twitter","20");
+                    cancelForm("postTwitter","Twitter","twitter","20",data.Twitter);
                     $("#infoTwitter").html("");
                 },
                 error: function (jqXHR, textStatus,
@@ -252,8 +247,7 @@
         });
 
 
-        $("#UrlVideo").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
+        $("#Video").bind("submit", function (evt) {
             var video = $("#video").val();
             $.ajax({
                 url: "/mod_sent",
@@ -264,8 +258,7 @@
                     Video: video
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneVideo").text(data.Video);
-                    cancelForm("postVideo","UrlVideo","video","42");
+                    cancelForm("postVideo","Video","video","42",data.Video);
                     $("#infoVideo").html("");
                 },
                 error: function (jqXHR, textStatus,
@@ -278,7 +271,6 @@
         });
 
         $("#Post1").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
             var post1 = $("#post1").val();
             $.ajax({
                 url: "/mod_sent",
@@ -289,8 +281,7 @@
                     Post1: post1
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zonePost1").text(data.Post1);
-                    cancelForm("postPost1","Post1","post1","42");
+                    cancelForm("postPost1","Post1","post1","42",data.Post1);
                     $("#infoPost1").html("");
                 },
                 error: function (jqXHR, textStatus,
@@ -303,7 +294,6 @@
         });
 
         $("#Post2").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
             var post2 = $("#post2").val();
             $.ajax({
                 url: "/mod_sent",
@@ -314,8 +304,7 @@
                     Post2: post2
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zonePost2").text(data.Post2);
-                    cancelForm("postPost2","Post2","post2","42");
+                    cancelForm("postPost2","Post2","post2","42",data.Post2);
                     $("#infoPost2").html("");
                 },
                 error: function (jqXHR, textStatus,
@@ -328,7 +317,6 @@
         });
 
         $("#Post3").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
             var post3 = $("#post3").val();
             $.ajax({
                 url: "/mod_sent",
@@ -339,8 +327,7 @@
                     Post3: post3
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zonePost3").text(data.Post3);
-                    cancelForm("postPost3","Post3","post3","42");
+                    cancelForm("postPost3","Post3","post3","42",data.Post3);
                     $("#infoPost3").html("");
                 },
                 error: function (jqXHR, textStatus,
@@ -353,7 +340,6 @@
         });
 
         $("#Name").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
             var nome = $("#name").val();
             $.ajax({
                 url: "/mod_sent",
@@ -364,8 +350,7 @@
                     Nome: nome
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneName").text(data.Nome);
-                    cancelForm("postName","Name","name","23");
+                    cancelForm("postName","Name","name","23",data.Nome);
                     $("#infoName").html("");
                 },
                 error: function (jqXHR, textStatus,
@@ -378,7 +363,6 @@
         });
 
         $("#Surname").bind("submit", function (evt) {
-            var matricola = "@MATRICOLA@";
             var cognome = $("#surname").val();
             $.ajax({
                 url: "/mod_sent",
@@ -389,8 +373,7 @@
                     Cognome: cognome
                 }),
                 success: function (data, textStatus, jqXHR) {
-                    $("#zoneSurname").text(data.Cognome);
-                    cancelForm("postSurname","Surname","surname","23");
+                    cancelForm("postSurname","Surname","surname","23",data.Cognome);
                     $("#infoSurname").html("");
                 },
                 error: function (jqXHR, textStatus,
