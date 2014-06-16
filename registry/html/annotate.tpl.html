@@ -90,7 +90,7 @@ jQuery(document).ready(function () {
                 .css("width", jQuery(window).width())
                 .fadeIn("fast");
             jQuery("#preview").click(function () {
-                this.remove();
+                jQuery(this).replaceWith("");  /* XXX */
             });
         }, function() {
             // nothing to do
@@ -100,7 +100,7 @@ jQuery(document).ready(function () {
         jQuery("iframe").each(function () {
             if (this.src.indexOf("https://www.youtube.com", 0) !== 0 &&
                     this.src.indexOf("http://www.youtube.com", 0) !== 0) {
-                this.remove();
+                jQuery(this).replaceWith("");  /* XXX */
                 return;
             }
             if (this.src.indexOf("http://", 0) === 0) {
