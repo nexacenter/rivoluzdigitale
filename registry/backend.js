@@ -37,7 +37,6 @@ var utils = require("./utils");
 
 var MATRICOLA = /^[0-9]{6}$/;
 var TOKEN = /^[A-Fa-f0-9]{40}$/;
-var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{40})$/;
 var PWDHASH = /^[A-Fa-f0-9]{32}$/;
 var URL = /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/;
 
@@ -170,13 +169,10 @@ function doWriteInfo(curInfo, callback) {
 var knownKeys = {
     "Nome": /^[A-Za-z\'\- ]+$/,
     "Cognome": /^[A-Za-z\'\- ]+$/,
-    "Matricola": MATRICOLA,
-    "Token": MAYBE_EMPTY_TOKEN,
     "Blog": URL,
     "Twitter": /^(|@[A-Za-z0-9_]{1,15})$/,
     "Wikipedia": /^(|(U|u)tente\:[^\{\}\[\]\#\|\<\>][^\{\}\[\]\#\|\<\>]+)$/,
     "Video": URL,
-    "Hash": PWDHASH,
     "Post1": URL,
     "Post2": URL,
     "Post3": URL
