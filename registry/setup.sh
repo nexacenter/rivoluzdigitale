@@ -105,6 +105,7 @@ if [ ! -d $DATADIR ]; then
         cd $DATADIR
         git init
         echo "{}" > .htpasswd
+        chmod 640 .htpasswd
         git add .htpasswd
         git config user.name "Root"
         git config user.email "root@localhost"
