@@ -148,13 +148,13 @@ exports.readStudentInfo = function (matricola, callback) {
         });
 };
 
-function doWriteInfo(curInfo, callback) {
+function doWriteInfo(matricola, curInfo, callback) {
     var data;
 
     data = JSON.stringify(curInfo, undefined, 4);
 
     // Note: sync so we don't need to deal with concurrent I/O
-    utils.writeFileSync("/var/lib/rivoluz/s" + curInfo.Matricola + ".json", data,
+    utils.writeFileSync("/var/lib/rivoluz/s" + matricola + ".json", data,
         function (error) {
             if (error) {
                 console.warn("backend: cannot write student's file");
@@ -170,13 +170,10 @@ function doWriteInfo(curInfo, callback) {
 var knownKeys = {
     "Nome": /^[A-Za-z\'\- ]+$/,
     "Cognome": /^[A-Za-z\'\- ]+$/,
-    "Matricola": MATRICOLA,
-    "Token": MAYBE_EMPTY_TOKEN,
     "Blog": URL,
     "Twitter": /^(|@[A-Za-z0-9_]{1,15})$/,
     "Wikipedia": /^(|(U|u)tente\:[^\{\}\[\]\#\|\<\>][^\{\}\[\]\#\|\<\>]+)$/,
     "Video": URL,
-    "Hash": PWDHASH,
     "Post1": URL,
     "Post2": URL,
     "Post3": URL
@@ -194,17 +191,17 @@ exports.hasValidKeys = function (something) {
     return true;
 };
 
-exports.writeStudentInfo = function (newInfo, callback) {
+exports.writeStudentInfo = function (matricola, newInfo, callback) {
 
     console.info("backend: writeStudentInfo");
 
-    exports.readStudentInfo(newInfo.Matricola, function (error, savedInfo) {
+    exports.readStudentInfo(matricola, function (error, savedInfo) {
         var index, key, keys;
 
         console.info("backend: writeStudentInfo after readStudentInfo");
 
         if (error && error.code === "ENOENT") {
-            doWriteInfo(newInfo, callback);
+            doWriteInfo(matricola, newInfo, callback);
             return;
         }
         if (error) {
@@ -229,6 +226,6 @@ exports.writeStudentInfo = function (newInfo, callback) {
             savedInfo[key] = newInfo[key];
         }
 
-        doWriteInfo(savedInfo, callback);
+        doWriteInfo(matricola, savedInfo, callback);
     });
 };
