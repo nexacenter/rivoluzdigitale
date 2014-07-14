@@ -85,7 +85,6 @@ exports.handleMatricola = function (request, response) {
 
                 try {
                     studentInfo.Token = crypto.randomBytes(20).toString("hex");
-                    delete studentInfo.Matricola;
                 } catch (error) {
                     utils.internalError(error, request, response);
                     return;
@@ -114,7 +113,6 @@ exports.handleMatricola = function (request, response) {
         backend.writeStudentInfo({
                 "Nome": nome,
                 "Cognome": cognome,
-                "Matricola": matricola,
                 "Token": "",
                 "Blog": "",
                 "Twitter": "",
@@ -135,11 +133,8 @@ exports.handleMatricola = function (request, response) {
 
     utils.readBodyJSON(request, response, function (message) {
         var matricola = message.Matricola;
-        var checkData = message;
-        delete checkData.Matricola;
-        if (!backend.hasValidKeys(checkData) ||
-            message.Token !== undefined || !backend.validMatricola(matricola)
-        ) {
+        message = undefined;
+        if (!backend.validMatricola(matricola)) {
             utils.internalError("signup: invalid argument", request, response);
             return;
         }
@@ -199,11 +194,8 @@ exports.handleMatricola = function (request, response) {
 exports.handleConfirm = function (request, response) {
     utils.readBodyJSON(request, response, function (message) {
         var matricola = message.Matricola;
-        var checkData = message;
-        delete checkData.Matricola;
-        if (!backend.hasValidKeys(checkData) ||
-            message.Token !== undefined || !backend.validMatricola(matricola)
-        ) {
+        message = undefined;
+        if (!backend.validMatricola(matricola)) {
             utils.internalError("signup: invalid argument", request, response);
             return;
         }
