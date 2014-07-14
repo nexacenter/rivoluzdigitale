@@ -37,6 +37,7 @@ var utils = require("./utils");
 
 var MATRICOLA = /^[0-9]{6}$/;
 var TOKEN = /^[A-Fa-f0-9]{40}$/;
+var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{40})$/;
 var PWDHASH = /^[A-Fa-f0-9]{32}$/;
 var URL = /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/;
 
