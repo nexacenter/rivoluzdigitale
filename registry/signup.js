@@ -86,7 +86,6 @@ exports.handleMatricola = function (request, response) {
                 try {
                     studentInfo.Token = crypto.randomBytes(20).toString("hex");
                     delete studentInfo.Matricola;
-console.info(matricola, studentInfo, studentInfo.Token);
                 } catch (error) {
                     utils.internalError(error, request, response);
                     return;

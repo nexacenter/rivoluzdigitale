@@ -37,6 +37,7 @@ var utils = require("./utils");
 
 var MATRICOLA = /^[0-9]{6}$/;
 var TOKEN = /^[A-Fa-f0-9]{40}$/;
+var MAYBE_EMPTY_TOKEN = /^(|[A-Fa-f0-9]{40})$/;
 var PWDHASH = /^[A-Fa-f0-9]{32}$/;
 var URL = /^(|http(|s)\:\/\/[A-Za-z0-9\.\-\_\%\?\&\=\/]+)$/;
 
@@ -151,6 +152,7 @@ function doWriteInfo(matricola, curInfo, callback) {
     var data;
 
     data = JSON.stringify(curInfo, undefined, 4);
+
     // Note: sync so we don't need to deal with concurrent I/O
     utils.writeFileSync("/var/lib/rivoluz/s" + matricola + ".json", data,
         function (error) {
@@ -169,7 +171,7 @@ var knownKeys = {
     "Nome": /^[A-Za-z\'\- ]+$/,
     "Cognome": /^[A-Za-z\'\- ]+$/,
     "Blog": URL,
-    "Token": TOKEN,
+    "Token": MAYBE_EMPTY_TOKEN,
     "Twitter": /^(|@[A-Za-z0-9_]{1,15})$/,
     "Wikipedia": /^(|(U|u)tente\:[^\{\}\[\]\#\|\<\>][^\{\}\[\]\#\|\<\>]+)$/,
     "Video": URL,
