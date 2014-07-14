@@ -53,11 +53,11 @@ exports.servePage = function (request, response) {
 exports.handleMatricola = function (request, response) {
 
     // Fill and send the studentInfo template
-    function fillAndSendTemplate(stud) {
+    function fillAndSendTemplate(matricola, stud) {
         fs.readFile("./html/signup.tpl.html", "utf8", function (error, data) {
             var long_name = stud.Cognome + ", " + stud.Nome;
             console.info("signup: SEND_TEMPLATE");
-            data = data.replace(/@MATRICOLA@/g, stud.Matricola);
+            data = data.replace(/@MATRICOLA@/g, matricola);
             data = data.replace(/@NOME@/g, long_name);
             utils.writeHeadVerboseCORS(response, 200, {
                 "Content-Type": "text/html"
@@ -68,13 +68,12 @@ exports.handleMatricola = function (request, response) {
     }
 
     // If needed, generates a new token and sends the template back
-    function possiblySendTemplate(message) {
+    function possiblySendTemplate(matricola) {
 
         console.info("signup: possiblySendTemplate");
 
-        backend.readStudentInfo(message.Matricola,
+        backend.readStudentInfo(matricola,
             function (error, studentInfo) {
-
                 console.info(
                     "signup: possiblySendTemplate after readStudentInfo"
                 );
@@ -86,12 +85,14 @@ exports.handleMatricola = function (request, response) {
 
                 try {
                     studentInfo.Token = crypto.randomBytes(20).toString("hex");
+                    delete studentInfo.Matricola;
+console.info(matricola, studentInfo, studentInfo.Token);
                 } catch (error) {
                     utils.internalError(error, request, response);
                     return;
                 }
 
-                backend.writeStudentInfo(studentInfo, function (error) {
+                backend.writeStudentInfo(matricola, studentInfo, function (error) {
 
                     console.info(
                         "signup: possiblySendTemplate after writeStudentInfo"
@@ -101,20 +102,20 @@ exports.handleMatricola = function (request, response) {
                         utils.internalError(error, request, response);
                         return;
                     }
-                    fillAndSendTemplate(studentInfo);
+                    fillAndSendTemplate(matricola, studentInfo);
                 });
             });
     }
 
     // Creates the user file and send template
-    function createFileAndSendToken(message, cognome, nome) {
+    function createFileAndSendToken(matricola, cognome, nome) {
 
         console.info("signup: createFileAndSendToken");
 
         backend.writeStudentInfo({
                 "Nome": nome,
                 "Cognome": cognome,
-                "Matricola": message.Matricola,
+                "Matricola": matricola,
                 "Token": "",
                 "Blog": "",
                 "Twitter": "",
@@ -129,13 +130,16 @@ exports.handleMatricola = function (request, response) {
                     utils.internalError(error, request, response);
                     return;
                 }
-                possiblySendTemplate(message);
+                possiblySendTemplate(matricola);
             });
     }
 
     utils.readBodyJSON(request, response, function (message) {
-        if (!backend.hasValidKeys(message) ||
-            message.Token !== undefined || !backend.validMatricola(message.Matricola)
+        var matricola = message.Matricola;
+        var checkData = message;
+        delete checkData.Matricola;
+        if (!backend.hasValidKeys(checkData) ||
+            message.Token !== undefined || !backend.validMatricola(matricola)
         ) {
             utils.internalError("signup: invalid argument", request, response);
             return;
@@ -163,7 +167,7 @@ exports.handleMatricola = function (request, response) {
             // by matricola to have O(1) lookup (rather than O(n)).
             //
             for (i = 0; i < vector.length; i++) {
-                if (vector[i].MATRICOLA === message.Matricola) {
+                if (vector[i].MATRICOLA === matricola) {
                     break;
                 }
             }
@@ -175,13 +179,13 @@ exports.handleMatricola = function (request, response) {
 
             console.info("signup: FOUND_STUDENT");
 
-            fs.exists("/var/lib/rivoluz/s" + message.Matricola + ".json",
+            fs.exists("/var/lib/rivoluz/s" + matricola + ".json",
                 function (exists) {
                     if (!exists) {
-                        createFileAndSendToken(message, vector[i].COGNOME,
+                        createFileAndSendToken(matricola, vector[i].COGNOME,
                             vector[i].NOME);
                     } else {
-                        possiblySendTemplate(message);
+                        possiblySendTemplate(matricola);
                     }
                 });
         });
@@ -195,16 +199,18 @@ exports.handleMatricola = function (request, response) {
 //
 exports.handleConfirm = function (request, response) {
     utils.readBodyJSON(request, response, function (message) {
-
-        if (!backend.hasValidKeys(message) ||
-            message.Token !== undefined || !backend.validMatricola(message.Matricola)
+        var matricola = message.Matricola;
+        var checkData = message;
+        delete checkData.Matricola;
+        if (!backend.hasValidKeys(checkData) ||
+            message.Token !== undefined || !backend.validMatricola(matricola)
         ) {
             utils.internalError("signup: invalid argument", request, response);
             return;
         }
 
-        console.info("signup: sending email to %s", message.Matricola);
-        mailer.sendToken(message.Matricola, function (error) {
+        console.info("signup: sending email to %s", matricola);
+        mailer.sendToken(matricola, function (error) {
             if (error) {
                 utils.internalError(error, request, response);
                 return;
