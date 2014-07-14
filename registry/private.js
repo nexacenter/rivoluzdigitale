@@ -78,14 +78,14 @@ var generatePage = function (request, response, matricola) {
     });
 };
 
-var modPage = function (request, response) {
+var modPage = function (request, response, matricola) {
     utils.readBodyJSON(request, response, function (stud) {
         if (!backend.hasValidKeys(stud) || stud.Token !== undefined
-                || !backend.validMatricola(stud.Matricola)) {
+                || !backend.validMatricola(matricola)) {
             utils.internalError("private: invalid argument", request, response);
             return;
         }
-        backend.writeStudentInfo(stud, function (error) {
+        backend.writeStudentInfo(matricola, stud, function (error) {
             if (error) {
                 utils.writeHeadVerboseCORS(response, 500, {
                     "Content-Type": "application/json"

@@ -84,8 +84,8 @@ exports.handleRequest = function (request, response) {
 
 exports.modPage = function (request, response) {
     console.info("login: modPage");
-    verifyLogin(request, response, function () {
+    verifyLogin(request, response, function (user) {
         console.info("login: modPage callback");
-        priv.modPage(request, response);
+        priv.modPage(request, response, user);
     });
 };
