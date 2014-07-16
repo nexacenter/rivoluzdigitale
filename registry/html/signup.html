@@ -1,19 +1,9 @@
 <!DOCTYPE html>
 
 <head>
-    <title>Signup</title>
-    <meta charset="utf-8" />
-</head>
-
-<body>
-    <h3>Inserisci il tuo numero di matricola</h3>
-    <form id="loginForm" method="post">
-        Matricola:
-        <input type="text" name="Matricola" id="Matricola" pattern="^[1-2][0-9]{5}$"
-        title="Inserisci la matricola SENZA s" required/>
-        <input type="submit" value="Invia" />
-    </form>
-
+    <meta charset="utf-8">
+    <title>Highgarden - Rivoluzione Digitale</title>
+    <link href="https://highgarden.polito.it/main_style.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script type="text/javascript">
         $(function () {
@@ -48,7 +38,7 @@
                     error: function (jqXHR, textStatus,
                         errorThrown) {
                         $("#step2").html(
-                            "<b>Si e' verificato un errore.<br>Potresti non risultare ancora iscritto al corso o aver inserito una matricola errata.</b>"
+                            "<b>Si &egrave; verificato un errore.<br>Potresti non risultare ancora iscritto al corso o aver inserito una matricola errata.</b>"
                         );
                     }
                 });
@@ -58,9 +48,19 @@
 
         });
     </script>
+</head>
 
-    <div id="step2"></div>
-    <div id="step3"></div>
+<body>
+    <div class="box">
+        <h3>Inserisci il tuo numero di matricola</h3>
+        <form id="loginForm" method="post">
+            Matricola:
+            <input type="text" name="Matricola" id="Matricola" pattern="^[1-2][0-9]{5}$" title="Inserisci la matricola SENZA s" required/>
+            <input type="submit" value="Invia" />
+        </form>
+        <div id="step2" class="step"></div>
+        <div id="step3" class="step"></div>
+    </div>
 </body>
 
 </html>

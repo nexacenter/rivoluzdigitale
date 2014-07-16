@@ -3,22 +3,12 @@
 <head>
     <title>Pagina di @MATRICOLA@</title>
     <meta charset="utf-8" />
-
-    <style>
-        body{
-            font-family: Verdana, Geneva, sans-serif;
-        }
-        .line {
-            display: inline-block;
-        }
-    </style>
+    <link href="https://highgarden.polito.it/main_style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-    <div id="Head">
-        <div id="personalDataTitle" class="line"><h3>Dati personali</h3></div>
-        <div id="logout" class="line" style="float:right; padding:0 50px;"><a href="/logout"><h3>Logout</h3></a></div>
-    </div>
+<div class="box_personal">
+    <div id="logout" style="float:right;"><a href="/logout"><h3>Logout</h3></a></div>
 
     <div id="Name">
         <div id="preName" class="line"><b>Nome</b>:</div>
@@ -37,10 +27,8 @@
     <br />
 
     <b>Matricola</b>: @MATRICOLA@
-    <br /><br />
-
-    <h3>Dati funzionali al corso</h3>
-
+</div>
+<div class="box_personal">
     <div id="Blog">
         <div id="preBlog" class="line"><b>Url blog</b>:</div>
         <div id="zoneBlog" class="line">@BLOG@</div>
@@ -66,16 +54,16 @@
         <div id="exWikipedia" class="line"><small>&nbsp;es. Utente:MioNickname</small></div>
     </div>
     <div id="infoWP"></div>
-    <br />
-
+</div>
+<div class="box_personal">
     <p>I link relativi a video e post verranno utilizzati per accedere agli elaborati per la valutazione. Variazioni degli stessi in data successiva a quelle di consegna (esposte in <a href="http://rivoluzionedigitale.polito.it/regole">regole</a>) verranno normalmente salvate ma ignorate ai fini della correzione.</p>
     <p>I post non vengono salvati ogni volta che aggiornate questa pagina, ma
        possono essere salvati prima della scadenza e vengono in ogni caso
        comunque salvati (molto poco) dopo la scadenza. Di conseguenza, non
        preoccupatevi se, prima della scadenza, i link al vostro post
        fanno riferimento a una versione precedente del post stesso.</p>
-    <br>
-
+</div>
+<div class="box_personal">
     <div id="Video">
         <div id="preVideo" class="line"><b>Video</b>:</div>
         <div id="zoneVideo" class="line">@VIDEO@</div>
@@ -125,8 +113,8 @@
         <a href="http://highgarden.polito.it/post/read/@MATRICOLA@/3" target="_blank">[leggi originale]</a>
         <a href="http://highgarden.polito.it/post/view-source/@MATRICOLA@/3" target="_blank">[vedi-sorgente]</a>
     </div>
-    <br />
-    <br />
+</div>
+
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 

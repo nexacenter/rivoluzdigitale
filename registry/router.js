@@ -55,6 +55,14 @@ var router = {
         utils.servePath__("/css/annotator.min.css", response,
           "text/css");
     },
+    "/main_style.css": function (request, response) {
+        utils.servePath__("/css/main_style.css", response,
+          "text/css");
+    },
+    "/logo-rd-small.png": function (request, response) {
+        utils.servePath__("/img/logo-rd-small.png", response,
+          "text/css");
+    },
 
     "/login": login.handleRequest,
     "/mod_sent": login.modPage,

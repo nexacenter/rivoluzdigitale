@@ -1,0 +1,64 @@
+body {
+    font: 15px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+}
+
+.box {
+    margin: 80px auto 0px;
+    width: 550px;
+    position: relative;
+    padding: 20px 30px 30px;
+    border: 1px solid;
+    border-color: #b4ccce #b3c0c8 #9eb9c2;
+    border-radius: 16px;
+}
+
+.box_personal {
+    margin: 20px auto 0px;
+    width: 800px;
+    position: relative;
+    padding: 30px 30px 30px;
+    border: 1px solid;
+    border-color: #b4ccce #b3c0c8 #9eb9c2;
+    border-radius: 16px;
+}
+
+.line {
+    display: inline-block;
+}
+
+.login {
+    margin: 80px auto 0px;
+    width: 310px;
+    text-align: center;
+    position: relative;
+    padding: 20px 30px 40px;
+    border: 1px solid;
+    border-color: #b4ccce #b3c0c8 #9eb9c2;
+    border-radius: 16px;
+}
+
+.reset {
+    font-size: 11px;
+    text-align: center;
+}
+
+.step {
+    margin: 20px auto 0px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+input[type=button] {
+    padding: 0 25px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #527881;
+    text-shadow: 0 1px #e3f1f1;
+    background: #DFE7FF;
+    border: 1px solid;
+    border-color: #b4ccce #b3c0c8 #9eb9c2;
+    border-radius: 16px;
+}

@@ -1,75 +1,92 @@
 <!DOCTYPE html>
+
 <head>
-    <title>Rivoluzione Digitale</title>
-    <meta charset="utf-8"/>
-</head>
-<body>
-    <h3>Completa la tua procedura di registrazione</h3>
-    <p>Inserisci la chiave ricevuta al tuo indirizzo di posta del Politecnico.</p>
-    <form id="passForm" method="post">
-        <b>Matricola</b>: <input type="text" name="Matricola" id="Matricola" pattern="^[1-2][0-9]{5}$" title="Inserisci la matricola SENZA s" required/>
-        <b>Chiave</b>: <input type="text" name="Token" id="Token" required/>
-    <h3>Scegli la tua password personale</h3>
-        <p><b>Nuova password: </b><input type="password" name="Password" id="Password" required/><br>
-        <b>Ripeti password: </b><input type="password" name="Password1" id="Password1" required oninput="check(this)" /></p>
-        <input type="submit" value="Conferma" />
-    </form>
-
+    <meta charset="utf-8">
+    <title>Highgarden - Rivoluzione Digitale</title>
+    <link href="https://highgarden.polito.it/main_style.css" rel="stylesheet" type="text/css">
     <script type="text/javascript">
-    function check(input) {
-        if (input.value != document.getElementById('Password').value) {
-            input.setCustomValidity('Attenzione, le due password non coincidono.');
+        function check(input) {
+            if (input.value != document.getElementById('Password').value) {
+                input.setCustomValidity('Attenzione, le due password non coincidono.');
+            } else {
+                input.setCustomValidity('');
+            }
         }
-        else {
-            input.setCustomValidity('');
-        }
-    }
     </script>
-
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script type="text/javascript" src="/jquery.md5.min.js"></script>
     <script type="text/javascript">
         $(function () {
-            $.fn.serializeObject = function() {
+            $.fn.serializeObject = function () {
                 var o = {};
                 var a = this.serializeArray();
-                $.each(a, function() {
+                $.each(a, function () {
                     if (o[this.name] !== undefined) {
                         if (!o[this.name].push) {
                             o[this.name] = [o[this.name]];
                         }
                         o[this.name].push(this.value || '');
-                        } else {
-                            o[this.name] = this.value || '';
-                        }
-                    });
-                    return o;
-                };
-          
-            $("#passForm").bind("submit", function(evt) {
+                    } else {
+                        o[this.name] = this.value || '';
+                    }
+                });
+                return o;
+            };
+
+            $("#passForm").bind("submit", function (evt) {
                 var matricola = $("#Matricola").val();
                 var token = $("#Token").val();
-                var password  = $("#Password").val();
+                var password = $("#Password").val();
 
-                var hash = $.md5(matricola+":RivoluzPaginaPersonale:"+password);
+                var hash = $.md5(matricola + ":RivoluzPaginaPersonale:" + password);
 
                 $.ajax({
                     url: "/token_sent",
                     type: "POST",
                     contentType: "application/json",
-                    data: JSON.stringify({Matricola: matricola, Token: token, Hash: hash}),
+                    data: JSON.stringify({
+                        Matricola: matricola,
+                        Token: token,
+                        Hash: hash
+                    }),
                     success: function (data, textStatus, jqXHR) {
                         $("#step2").html(data);
                     },
                     error: function (jqXHR, textStatus, errorThrown) {
-                        $("#step2").html("<b>Si e' verificato un errore.</b>");
+                        $("#step2").html("<b>Si &egrave; verificato un errore.</b>");
                     }
                 });
-            return false;
+                return false;
+            });
         });
-    });
     </script>
+</head>
 
-<div id="step2"></div>
+<body>
+    <section class="box">
+        <h3>Completa la tua procedura di registrazione</h3>
+        <p>Inserisci la chiave ricevuta al tuo indirizzo di posta del Politecnico.</p>
+        <form id="passForm" method="post">
+            <b>Matricola</b>:
+            <input type="text" name="Matricola" id="Matricola" pattern="^[1-2][0-9]{5}$" title="Inserisci la matricola SENZA s"
+            required/>
+            </br>
+            <b>Chiave</b>:
+            <input type="text" name="Token" id="Token" required/>
+            <h3>Scegli la tua password personale</h3>
+            <p><b>Nuova password: </b>
+                <input type="password" name="Password" id="Password" required/>
+                <br>
+                <b>Ripeti password: </b>
+                <input type="password" name="Password1" id="Password1" required oninput="check(this)"
+                />
+            </p>
+            <input type="submit" value="Conferma" />
+        </form>
+
+        <div id="step2" class="step"></div>
+    </section>
+
 </body>
+
 </html>
