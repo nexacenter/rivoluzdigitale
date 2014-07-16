@@ -125,6 +125,7 @@ echo "setup: install into $SRCDIR..."
 
 install -d $SRCDIR
 install -d $SRCDIR/css
+install -d $SRCDIR/img
 install -d $SRCDIR/html
 install -d $SRCDIR/js
 
@@ -138,6 +139,10 @@ install -m555 init_iptables.sh $SRCDIR
 
 for SCRIPT in css/*.css; do
     install -m444 $SCRIPT $SRCDIR/css
+done
+
+for FILE in img/*.png; do
+    install -m444 $FILE $SRCDIR/img
 done
 
 for FILE in html/*.html; do

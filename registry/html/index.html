@@ -1,10 +1,20 @@
 <!DOCTYPE html>
+
 <head>
-   <title>RD login</title>
-   <meta charset="utf-8"/>
+    <meta charset="utf-8">
+    <title>Highgarden - Rivoluzione Digitale</title>
+    <link href="https://highgarden.polito.it/main_style.css" rel="stylesheet" type="text/css">
 </head>
+
 <body>
-   <a href="/login">Login</a> &mdash; <a href="/signup">Sign Up</a>
-   &mdash; <a href="/reset">Reset password</a>
+    <div class="login">
+        <img src="https://highgarden.polito.it/logo-rd-small.png" alt="Rivoluzione Digitale">
+        <input type="button" value="Entra" onclick="javascript:location.href='/login'"> &mdash;
+        <input type="button" value="Registrati" onclick="javascript:location.href='/signup'">
+    </div>
+    <div class="reset">
+        <p>Dimenticato la password? <a href="/reset">Clicca qui per resettarla</a>.</p>
+    </div>
 </body>
+
 </html>
