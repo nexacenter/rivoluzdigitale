@@ -1,5 +1,5 @@
-Traduzione in Italiano a cura di Maria Serena Ciaburri e Marco Manino
-dell'originale, disponibile all'indirizzo:
+Traduzione in Italiano a cura di [Maria Serena Ciaburri](http://twitter.com/maria_serena_)
+e [Marco Manino](http://twitter.com/Marco180678) dell'originale, disponibile all'indirizzo:
 
 https://yourlogicalfallacyis.com/
 
