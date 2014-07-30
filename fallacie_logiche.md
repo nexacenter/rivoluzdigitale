@@ -1,7 +1,7 @@
 Traduzione in Italiano a cura di Maria Serena Ciaburri e Marco Manino
 dell'originale, disponibile all'indirizzo:
 
-    https://yourlogicalfallacyis.com/
+https://yourlogicalfallacyis.com/
 
 N.B. Questa traduzione non e' stata controllata dal docente.
 
