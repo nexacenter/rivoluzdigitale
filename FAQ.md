@@ -102,7 +102,6 @@ l'interfaccia web del Poli sia usando Thundebird.
 
 (P.S. Grazie a Matteo Di Placido per il feedback.)
 
-
 1.2. Come aggiungo il supporto per i tag al tema Tumblr?
 --------------------------------------------------------
 
@@ -298,36 +297,10 @@ Entry contribuita da [LorenzoCutelle] con l'aiuto di [Alessandro Garelli].
 
 [LorenzoCutelle]: https://twitter.com/LorenzoCutelle
 
-
 1.6. Dove trovo il work in progress delle correzioni?
 -----------------------------------------------------
 
-Trovi i post che sono gia' stati scaricati, indipendentemente dal fatto
-che siano gia' stati corretti o no, qui:
-
-    http://shelob.polito.it/rd/<anno>/b/
-
-Ad esempio:
-
-    http://shelob.polito.it/rd/2013/b/
-
-Nota che scarico i post ogni 15 giorni, tipicamente il primo giorno di
-ogni mese e il 15 di ogni mese.
-
-Invece, trovi le bozze della correzione dei blog post all'interno di
-questa cartella:
-
-    https://github.com/bassosimone/rivoluzionedigitale/tree/master/post
-
-La cartella contiene un file per ogni periodo di correzione, che
-corrisponde circa ai post di 15 giorni.
-
-Nota che, ogni volta che correggo 3-5 blog post, invio un tweet a chi ha
-scritto i post per informarli, linkando anche la versione piu' aggiornata
-del file che contiene le correzioni.
-
-Infine, quando ho corretto tutti i post relativi ad un certo periodo,
-invio in lista il file che contiene le correzioni.
+FAQ cancellata in quanto non piu' attuale.
 
 1.7. Cosa devo controllare prima di pubblicare una traduzione sul blog?
 -----------------------------------------------------------------------
@@ -362,78 +335,12 @@ by [Claudio Artusio][cartusio].
 1.8. Quali sono gli aspetti piu' importanti della correzione della lista?
 -------------------------------------------------------------------------
 
-Gli aspetti piu' importanti sono il subject e i paragrafi. E' anche
-abbastanza importante che In-Reply-To sia presente se e solo se il
-Subject inizia con 'Re: ' (cioe' se il messaggio e' una risposta),
-e che le righe non siano troppo lunghe.
-
-A proposito di In-Reply-To, e' grave che sia presente solo In-Reply-To e
-non 'Re: '. Questo, infatti, indica che per scrivere un nuovo messaggio,
-hai fatto 'Rispondi' ad un messaggio precedente e poi hai cancellato e
-riscritto il Subject.
-
-E' molto meno grave, invece, che il messaggio sia di risposta e sia
-presente 'Re: ' ma non In-Reply-To. Questo generalmente indica soltanto
-che chi risponde non ha ricevuto il messaggio cui vuole rispondere,
-ad esempio perche' segue la lista in digest.
-
-Infine, nella correzione della lista ho inserito anche altri aspetti
-(e.g.  `List-Address-in-To`) perche' possono essere rilevanti su alcune
-liste piu' di puristi. Si tratta, comunque, di aspetti minori rispetto
-a quelli menzionati nel paragrafo precedente.
+FAQ cancellata perche' non piu' attuale.
 
 1.9. Come posso gestire l'indirizzo email del Politecnico usando un mio client di posta?
 ----------------------------------------------------------------------------------------
 
-0 - Si consiglia l'utilizzo di 'Mozilla Thunderbird', poichè questo
-preciso client permette una gestione friendly delle email e risulta
-particolarmente efficace se si fa parte di una mailing list
-
-1 - Una volta installato Mozilla Thunderbird devi aprire la finestra
-di gestione degli account di posta elettronica selezionando la voce
-"Impostazioni account" nel menù "Strumenti" (se usi sistema operativo
-Windows; "Modifica" invece per un sistema operativo GNU/Linux).
-
-2 - Seleziona "Aggiungi account di posta" nel menù a tendina "Azioni
-account" e inserisci il tuo nome e cognome nel campo "Nome:"
-
-3 - Specifica il tuo indirizzo di posta elettronica nella forma
-sNumeroMatricola@studenti.polito.it nel campo "Indirizzo email:"
-
-4 - Inserisci in seguito la tua password (la stessa che utilizzi per
-accedere ai box self-service) nel campo "Password:".  Metti infine
-la spunta su "Ricorda password", se lo desideri, e premi il pulsante
-"Continua".
-
-5 - Nella riga "In entrata:" seleziona "IMAP" nel primo menù a tendina;
-nel campo "Nome server" inserisci "imap.studenti.polito.it".  Nel menù
-a tendina "Porta" seleziona "993", nel menù a tendina "SSL" seleziona
-"SSL/TLS" e nel menu a tendina "Autenticazione" seleziona "Password
-normale".
-
-6 - Nella riga "In uscita:" inserisci "smtp.studenti.polito.it" nel campo
-"Nome server", nel menù a tendina "Porta" seleziona "465", nel menù a
-tendina "SSL" seleziona "SSL/TLS" e nel menù a tendina "Autenticazione"
-seleziona "Password normale"
-
-7 - Specifica poi il tuo indirizzo di posta elettronica nella forma
-sNumeroMatricola@studenti.polito.it nel campo "Nome utente:"
-
-8 - Premi infine il pulsante "Riesaminare" e verifica che le impostazioni
-inserite siano corrette: in caso di errore, procedi ad una correzione.
-Premi il pulsante "Fatto" per terminare la procedura di configurazione.
-
-9 - Goditi la semplicità di Mozilla Thunderbird
-
-10 - Puoi seguire gli stessi passaggi per la configurazione della posta
-elettronica del Politecnico di Torino su Smartphone e/o Tablet seguendo
-gli stessi passaggi nei configuratori di account email del tuo dispositivo
-
-FAQ contribuita da [Davide Palermo] basandosi sulla guida online
-presente sul portale della didattica del Politecnico di Torino
-https://didattica.polito.it/mail/IMAP/IMAP_thunderbird.html
-
-[Davide Palermo]: https://twitter.com/DavidePalermo2
+FAQ cancellata perche' non piu' attuale.
 
 1.10. Sono un neofita di Twitter. Che fare? Tre info su come comportarsi. 
 -------------------------------------------------------------------------
@@ -537,63 +444,4 @@ FAQ contribuita da [Davide Palermo]
 1.12. Voto degli esami e procedure per accettarlo o rifiutarlo
 --------------------------------------------------------------
 
-*NOTA*: questa FAQ e' contribuita da uno studente e, benche' sia
-generalmente OK, ci sono alcuni aspetti che vanno fixati. Al momento
-non ho tempo di fixarli per bene, per cui vi prego di considerare questa
-risposta come un work in progress non ancora autoritativo.  Grazie. Simone
-
-###Voto e modalità d'esame
-
-Il voto dell'esame è costituito da due parti: quella online e quella
-offline (esame scritto).
-
-Il voto della parte online costituisce il 60% del voto finale e può
-variare in un intervallo (0-18). Esso è composto dal voto della mailing
-list (20%) da quello di Twitter (15%) e da quello del blog (65%).
-
-Se il voto della parte online non è sufficiente si dovrà ripetere
-il corso l'anno successivo.  La sufficienza è rappresentata da 10/30
-e quindi da 6/18. La parte online non sarà valutata nel caso in cui
-non siano stati scritt almeno 6 post e realizzato un video per blog
-(con tutti i membri del gruppo). Come video va bene anche una semplice
-sequenza con la webcam in cui ognuno si presenta e dice qualcosa sul blog.
-
-L'esame scritto è composto da due parti: Parte A e parte B.
-
--Parte A: consiste in 12  domande a risposta multipla, le cui risposte
-corrette possono variare
- tra nessuna e tutte. Il punteggio della parte A è di +0.5 per risposta
- corretta,  -0.5 per risposta errata e 0 per risposta non data. Nel
- caso di risposta parzialmente corretta il p unteggio sarà dato da
- [0.5*(m/N)] dove m è il numero di risposte giuste che abbiamo segnato
- ed N è quello di risposte corrette presenti nella domanda. Segnare
- anche una sola risposta errata rende errato l'intero quesito ( in a
- AND b AND c se è falsa c è falso tutto). Il voto della parte A può
- variare nell'intervallo (0-6). Tempo a disposizione: 40 minuti.
-
--Parte B: consiste in 3 saggi, due dei quali di circa 200 parole e uno
-di circa 500 parole. Non
- è un problema se scrivete ±20 parole ma se sforate di più verrete
- penalizzati. I punteggi sono di massimo 1.5 per i due saggi brevi e
- di massimo 3 per il saggio lungo.  Tempo a disposizione: 3 ore e 20
- minuti. Si possono usare vocabolari di Italiano ma non sono ammessi
- appunti o altri aiuti. Su questo punto si sarà particolarmente fiscali,
- saranno "nazis".
-
-Il punteggio totale dell'esame scritto varia nell'intervallo (0-12) e
-la sufficienza è 6/12.  Per studiare potete usare il file "index.md" [
-http://bit.ly/13F2ZmN ] e il materiale del corso [ http://bit.ly/YE3Hbo ].
-
-### Accettare o rifiutare il voto
-
-Il voto della parte online non può essere rifiutato. Se si viene
-bocciati bisogna ripetere il corso.  Il voto dell'esame scritto può
-essere rifiutato una sola volta. Entro *data da definirsi* verranno
-pubblicati i voti definitivi e verrà stabilita una deadline entro la
-quale chi volesse rifiutare il voto deve comunicarlo ai docenti. L'esame
-potrà essere eseguito nuovamente il 20/09/2013 controllate però che
-la data non venga modificata.
-
-Edited by [Fausto Conigliaro]
-
-[Fausto Conigliaro]: https://twitter.com/Carrattrezzi
+FAQ cancellata in quanto non piu' attuale.
