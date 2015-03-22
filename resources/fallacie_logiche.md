@@ -5,7 +5,7 @@ https://yourlogicalfallacyis.com/
 
 N.B. Questa traduzione non e' stata controllata dal docente.
 
-# Uomo di paglia
+# Spaventapasseri
 
 Presenti male le ragioni di qualcuno per rendere più facile attaccarle.
 Esagerando, presentando erroneamente, o semplicemente inventando le
