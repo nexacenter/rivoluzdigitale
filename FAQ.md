@@ -153,19 +153,19 @@ Ma veniamo alle modifiche vere e proprie.
 
 A livello base, ossia a livello della modifica dei soli contenuti, non
 è particolarmente complesso agire su wikipedia.  Potrei anche scrivere
-una guida più approfondita, ma temo richiederebbe una quantità di tempo
+una guida più approfondita, ma temo richiederebbe una quantia' di tempo
 non indifferente.  In più sarebbe inutile in quanto su wikipedia, nella
 sezione aiuto, c'è tutto (veramente tutto, forse addirittura troppo). In
 fondo vi linkerò alcune pagine di aiuto di wikipedia fondamentali per
 iniziare ad avventurarsi nell'editing più avanzato.
 
-Ogni voce presenta in alto il tasto “modifica”.
+Ogni voce presenta in alto il tasto modifica.
 
 <img src="http://casadigitale.files.wordpress.com/2013/05/immagine2.jpg"
      alt="modifica" />
 
 Da qui si accede al sorgente della pagina. Tutto quello che scriverete o
-modificherete qua, una volta salvati i cambiamenti, sarà immediatamente
+modificherete qua, una volta salvati i cambiamenti, sara' immediatamente
 disponibile nella voce editata.
 
 Su Wikipedia sono molto severi, se aggiungete nuove informazioni dovete
@@ -176,21 +176,21 @@ avete editato:
     <ref>[url della pagina citata]</ref>
 
 e nel caso (raro) in cui in fondo alla voce non ci fosse ancora la
-sezione “Note” aggiungete:
+sezione Note aggiungete:
 
     ==Note==
     <references />
 
-questa semplice formula inserirà automaticamente in fondo alla voce ogni
+questa semplice formula inserira' automaticamente in fondo alla voce ogni
 collegamento alle fonti sparse nel testo.  Inoltre, dopo aver modificato
 una voce, prima di salvare, è buona abitudine aggiungere nel campo
-“Oggetto” in cosa consiste la vostra modifica. Così contribuirete
+Oggetto in cosa consiste la vostra modifica. Così contribuirete
 anche a rendere più fluidi eventuali controlli sulla pagina.
 
 <img src="http://casadigitale.files.wordpress.com/2013/05/immagine.jpg"
      alt="oggetto" />
 
-Vi invito anche a notare il tasto “Questa è una modifica minore”
+Vi invito anche a notare il tasto "Questa è una modifica minor"
 subito sotto il campo oggetto. Esso è da selezionare soltanto quando vi
 siete limitati a correggere un errore ortografico, una formattazione o
 comunque qualcosa che non aggiunga o modifichi le informazioni della voce.
@@ -262,29 +262,29 @@ Il modo più semplice per citare è scrivere questo:
     <ref>{{cita web|url=...|titolo=...|accesso=...}}</ref>
 
 Ovviamente, al posto dei puntini che ci sono dopo i 3 parametri
-(‘url’, ’titolo’ e’accesso’) bisogna inserire rispettivamente
-l’URL del sito web usato come fonte, il titolo del documento (per
-esempio, il titolo dell’articolo), la data dell’ultimo accesso al
+(url, titolo e accesso) bisogna inserire rispettivamente
+l'URL del sito web usato come fonte, il titolo del documento (per
+esempio, il titolo dell'articolo), la data dell'ultimo accesso al
 documento (di solito è la data in cui state scrivendo la fonte).
 
 Esempio:
 
-    “Il [[13 febbraio]] [[2012]], Comrie annuncia il
-    ritiro dall'attività professionistica.<ref>{{Cita web
+    Il [[13 febbraio]] [[2012]], Comrie annuncia il
+    ritiro dall'attivita' professionistica.<ref>{{Cita web
     |url=http://www.tsn.ca/nhl/story/?id=387700 |titolo=Former Oiler,
     senator Comrie retires after 10 NHL seasons |accesso=25 maggio
-    2013}}</ref>”
+    2013}}</ref>
 
 Questa è la versione in assoluto più striminzita del template, dove
 ci sono soltanto i 3 parametri obbligatori.
 
 I parametri esistenti sono molti di più (per esempio,
-‘autore’,’nome’, ’cognome’,’data’, ‘anno’, ecc).
+autore, nome, cognome, data, anno, ecc).
 
 Più parametri inserite, più è dettagliata la fonte. Ovviamente non
 bisogna esagerare con parametri inutili, e soprattutto non bisogna
-inserire due parametri equivalenti (se inserite ‘data’, è
-completamente inutile inserire ‘anno’).
+inserire due parametri equivalenti (se inserite data, è
+completamente inutile inserire anno).
 
 Il mio consiglio è scegliere questi parametri: url, titolo, autore (o,
 in alternativa, cognome e nome),editore, accesso e data.
@@ -309,8 +309,8 @@ Prima di pubblicare una traduzione sul blog accertati riguardo al tipo
 di licenze utilizzate nel sito da cui stai traducendo.
 
 In una pagina web coperta da copyright (indicato con il simbolo
-‘©’ solitamente alla fine della pagina), un articolo può
-essere tradotto solamente dietro consenso dell’autore che ne è
+� solitamente alla fine della pagina), un articolo può
+essere tradotto solamente dietro consenso dell'autore che ne è
 detentore dei diritti. Puoi, però, controllare in alcuni siti come
 http://internazionale.it/ se una traduzione dello stesso articolo è
 stata rilasciata in Creative Commons.
@@ -367,20 +367,20 @@ commento strettamente personale (battuta, aggiunta,...).
 
 Altro gesto di apprezzamento è sicuramente la "stellina" nota come
 Preferito.  Il valore della stellina è minore rispetto al retweet dal
-punto di vista della 'visibilità'. Il tuo tweet con stellina non risulta
+punto di vista della visibilita'. Il tuo tweet con stellina non risulta
 ai follower, ma è comunque visibile nell'elenco dei "tweet favoriti".
 
-La stellina vale anche come gesto di assenso, un “grazie” virtuale.
+La stellina vale anche come gesto di assenso, un grazie virtuale.
 
 ### Rispondi
 
 Interazione diretta è invece la risposta.  Puoi così, rispondendo ad
 un tweet, iniziare un "dialogo".
 
-Una curiosità: Se il tuo tweet inizia con il nome utente (es:
-@barackobama) questo verrà letto solo da tale utente e dai suoi
+Una curiosita': Se il tuo tweet inizia con il nome utente (es:
+@barackobama) questo verra' letto solo da tale utente e dai suoi
 follower, che seguono entrambi voi.  Se invece aggiungi un carattere,
-come ad esempio un punto, (.@barackobama) allora il tuo tweet verrà
+come ad esempio un punto, (.@barackobama) allora il tuo tweet verra'
 letto da tutti i tuoi follower, anche quelli che non seguono l'utente
 a cui replicate.
 
@@ -427,7 +427,7 @@ di LOL.
 
 - RTFM: acronimo in inglese di "Read The Fucking Manual" ovvero "Leggiti
 Il Fottuto Manuale"; usato per esortare l'interlocutore a leggere delle
-regole già scritte o in generale ad informarsi, prima di fare delle
+regole gia' scritte o in generale ad informarsi, prima di fare delle
 domande o delle richieste.  Per evitare espressioni offensive la lettera
 F può indicare Fine (ovvero Eccellente), Friendly (Amichevole), Fabulous
 (Favoloso) oppure si provvede a eliminare la F e lasciare RTM.
