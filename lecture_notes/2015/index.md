@@ -1,10 +1,10 @@
-###### Parte di contenuti di alto livello {.P9}
+# Parte di contenuti di alto livello {.P9}
 
-###### Introduzione (lezione 1) {.P7}
+## Introduzione (lezione 1) {.P7}
 
 TODO: Vedi appunti di Giuseppe e slide.
 
-###### Preparazione per il corso (lezione 2) {.P7}
+## Preparazione per il corso (lezione 2) {.P7}
 
 Una preparazione informatica di base è fondamentale al giorno d’oggi. Un
 buon manuale per ottenere un’infarinatura in ambito informatico è “D is
@@ -12,19 +12,15 @@ for Digital, what a well-informed person should know about computers and
 communications” scritto da W.Kernighan, inventore del linguaggio di
 programmazione C.
 
- 
-
 Nel libro sono trattati i più grandi macro-argomenti dell’informatica: i
 principi di base sull’hardware, sul software e sulle comunicazioni
 (internet, web, dati e privacy).
 
-###### Comunicare in pubblico - riflessioni iniziali (lezione 2) {.P7}
+### Comunicare in pubblico - riflessioni iniziali (lezione 2) {.P7}
 
 Uno dei principali obiettivi di questo corso è quello di comunicare in
 pubblico. È doveroso quindi effettuare alcune riflessioni fin
-dall’inizio .
-
- 
+dall’inizio
 
 In questo corso la comunicazione è un vincolo  (bisognerà infatti
 scrivere 3 blog-post), tuttavia è indispensabile nella vita quotidiana
@@ -40,13 +36,9 @@ attraverso i grandi media. Al giorno d’oggi, grazie ad internet, siamo 2
 miliardi di persone connesse e presto saremo 6 miliardi,  tutti possiamo
 esporre pubblicamente le informazioni che vogliamo.
 
- 
-
 In questo contesto è necessario fare riflessioni che si fanno da secoli
 ma che in realtà solo ora si applicano a una grande fetta della
 popolazione.
-
- 
 
 Una prima riflessione fondamentale, di derivazione illuminista è “sapere
 aude!”, cioè ragionare con la propria testa.
@@ -65,8 +57,6 @@ Sapere aude!
 Abbi il coraggio di servirti della tua propria intelligenza! È questo il
 motto dell'Illuminismo"
 
- 
-
 È fondamentale chiarire sempre sempre ai lettori la natura di ciò che si
 sta comunicando.
 
@@ -78,31 +68,31 @@ citazione è considerato plagio. Il plagio, oltre ad essere legalmente
 perseguibile, è moralmente sbagliato; esiste un rapporto di fiducia con
 il lettore che deve e vuole sapere da chi derivino certi ragionamenti.
 
-###### Cosa è possibile comunicare {.P11}
+### Cosa è possibile comunicare {.P11}
 
 Cosa si può comunicare quindi? Sostanzialmente tutto ciò che si vuole:
 
-1.  1)tutto ciò che è frutto della nostra immaginazione: per esempio
+1.  tutto ciò che è frutto della nostra immaginazione: per esempio
     sogni e fantasie. L'importante è che chi legge/ascoltare lo sappia
     che non si tratta del mondo reale. Per esempio, sui libri in cui i
     contenuti sono frutto dell’immaginazione dell’autore c’è scritto
     “romanzo”, in modo da comunicare inequivocabilmente la natura
     dell’elaborato;  
 
-2.  2)opinioni senza argomentazioni: cioè opinioni senza dimostrazioni e
+2.  opinioni senza argomentazioni: cioè opinioni senza dimostrazioni e
     senza contesto.  Nella stragrande maggioranza dei casi al pubblico
     poco importa di leggere un'opinione fine a se stessa, in cui non
     vengono comunicati dati e/o fonti; 
 
-3.  3)testimonianze dirette di qualcosa: vale a dire tutto ciò che
+3.  testimonianze dirette di qualcosa: vale a dire tutto ciò che
     rientra nell’affermazione "ho visto succedere questo", ad esempio
     c'è una manifestazione e si è testimoni diretti degli eventi che
     pendono luogo. In questi casi molto spesso si specificano ora,
     luogo, e altri dati che cirscostanziano la testimonianza. Chi
     testimonia direttamente può diventare una fonte, quindi deve
-    assumersi le proprie responsabilità;  
+    assumersi le proprie responsabilità;
 
-4.  4)testimonianze di altri: ciò accade tutte le volte che affermiamo
+4.  testimonianze di altri: ciò accade tutte le volte che affermiamo
     “so che tizio ha visto..". Non siamo gli occhi di chi ci ha riferito
     un determinato fatto, sorge quindi la questione dell'affidabilità.
     Prima di propagare informazioni provenienti da testimonianze di
@@ -120,7 +110,7 @@ cui sono venuti a conoscenza attraverso diversi canali ed è il loro
 compito (o almeno dovrebbe esserlo) verificare che le informazioni di
 cui entrano in possesso siano corrette ed accurate;
 
-1.  5)opinioni argomentate: si tratta sostanzialmente di asserire
+5.  opinioni argomentate: si tratta sostanzialmente di asserire
     qualcosa e argomentarlo ("io penso x perché ho letto questi libri,
     visto queste lezioni..."). Questo tipo di comunicazione  coinvolge
     il mondo della cultura, dove liberamente ci si confronta sulla forza
@@ -141,7 +131,7 @@ L'università fa un po' questo lavoro, fornisce agli studenti
 informazioni di base di cui fidarsi e gli strumenti e lo spirito critico
 per poter valutare successivamente l’affidabilità di nuove fonti.
 
-###### La conoscenza {.P11}
+### La conoscenza {.P11}
 
 Esistono diversi tipi di conoscenza, ad esempio la conoscenza sociale,
 quella artistica, quella scientifica, tutte contengono informazioni
@@ -163,8 +153,6 @@ articolate in teorie caratterizzate da:
     eventi futuri in modo verificabile. Rende le teorie applicabili per
     prevedere fenomeni o progettare tecnologia (“costruisci l’aereo in
     questo modo e volerà”). 
-
- 
 
 Nonostante l’importanza della conoscenza scientifica bisogna comunque
 fare molta attenzione. Anche la scienza si è sbagliata, si sbaglia
