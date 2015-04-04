@@ -1,10 +1,10 @@
-# Parte di contenuti di alto livello {.P9}
+# Parte di contenuti di alto livello 
 
-## Introduzione (lezione 1) {.P7}
+## Introduzione (lezione 1)
 
 TODO: Vedi appunti di Giuseppe e slide.
 
-## Preparazione per il corso (lezione 2) {.P7}
+## Preparazione per il corso (lezione 2)
 
 Una preparazione informatica di base è fondamentale al giorno d’oggi. Un
 buon manuale per ottenere un’infarinatura in ambito informatico è “D is
@@ -16,7 +16,7 @@ Nel libro sono trattati i più grandi macro-argomenti dell’informatica: i
 principi di base sull’hardware, sul software e sulle comunicazioni
 (internet, web, dati e privacy).
 
-### Comunicare in pubblico - riflessioni iniziali (lezione 2) {.P7}
+### Comunicare in pubblico - riflessioni iniziali (lezione 2)
 
 Uno dei principali obiettivi di questo corso è quello di comunicare in
 pubblico. È doveroso quindi effettuare alcune riflessioni fin
@@ -68,7 +68,7 @@ citazione è considerato plagio. Il plagio, oltre ad essere legalmente
 perseguibile, è moralmente sbagliato; esiste un rapporto di fiducia con
 il lettore che deve e vuole sapere da chi derivino certi ragionamenti.
 
-### Cosa è possibile comunicare {.P11}
+### Cosa è possibile comunicare
 
 Cosa si può comunicare quindi? Sostanzialmente tutto ciò che si vuole:
 
@@ -131,7 +131,7 @@ L'università fa un po' questo lavoro, fornisce agli studenti
 informazioni di base di cui fidarsi e gli strumenti e lo spirito critico
 per poter valutare successivamente l’affidabilità di nuove fonti.
 
-### La conoscenza {.P11}
+### La conoscenza 
 
 Esistono diversi tipi di conoscenza, ad esempio la conoscenza sociale,
 quella artistica, quella scientifica, tutte contengono informazioni
@@ -175,7 +175,7 @@ propagassero.
 
 È quindi nostro compito sempre vigilare per correggere.
 
-### I fatti {.P11}
+### I fatti 
 
 Daniel Patrick Moynihan, sociologo e senatore americano, diceva: “Ognuno
 ha diritto di avere le proprie opinioni, ma non i propri fatti”.
@@ -192,7 +192,7 @@ scientifiche?
 Solo ponendosi queste domande una opinione può diventare un fatto
 pressoché certo.
 
-### I dati {.P11}
+### I dati 
 
 Imparentati coi fatti, i dati sono spesso usati in maniera aggressiva e
 retorica, "le cifre dicono x e quindi la mia affermazione è
@@ -203,7 +203,7 @@ completi e se i confronti fatti siano equi. Molti grafici suggeriscono
 interpretazioni fornendo magari anche solo parte dei dati: il modo di
 presentazione può essere distante da ciò che dicano i grafici veramente.
 
-### Come comportarsi {.P11}
+### Come comportarsi 
 
 Ogni cosa dovrebbe essere vagliata criticamente senza però cadere nello
 scetticismo più totale e dubitare di tutto ciò che vediamo o sentiamo.
@@ -223,7 +223,7 @@ sembravano dissolversi di rinunciare a credere a cose vere o false ma
 senza per questo cadere né nello scetticismo assoluto né nel dogmatismo.
 Questa è una lezione importante anche per la democrazia
 
-### Conclusioni {.P11}
+### Conclusioni
 
 In conclusione quando comunicate:
 
@@ -249,7 +249,7 @@ criticarle. Anche nel lavoro, in cui probabilmente si avrà un audience
 più ristretta che su internet, è altrettanto importante per ottenere la
 fiducia dei colleghi.
 
-### Domande lezione 2 {.P12}
+### Domande lezione 2 
 
 domanda: esempio in cui la scienza si è sbagliata?
 
@@ -267,13 +267,13 @@ con altre fonti -- tutto ciò costa del tempo, ma il palio c'è la
 conoscenza del mondo.
 
 
-# Parte Metodologica {.P10}
+# Parte Metodologica 
 
-## Introduzione (lezione 1) {.P7}
+## Introduzione (lezione 1) 
 
-Vedi appunti di Giuseppe e slides
+Da completare con Simone, appunti di Giuseppe e slides
 
-## Iscrizione ai social (lezione 2) {.P8}
+## Iscrizione ai social (lezione 2) 
 
 Integrare con slides
 
@@ -281,7 +281,7 @@ istruzioni su come ci si iscrive ai vari social:
 
 Tumblr, mailing list, Twitter.
 
-### Iscrizione a Tumblr {.P11}
+### Iscrizione a Tumblr 
 
 In questo corso viene consigliato Tumblr perché, tra le altre cose,
 abilita la possibilità di seguire altri utenti (come su Facebook),
@@ -377,8 +377,17 @@ Rispondere a una mail (ad esempio usando il pulsante rispondi di un client mail)
 Nei client mail, ad esempio in Thunderbird, l'indentatura viene visualizzata in modo *fancy*. Tuttavia nella mailing list l'indentatura è rappresentata con un > se si parla di un messaggio precedente, con  >> se si tratta di due messaggi precedenti e via dicendo.
 
 
-
 ####scrivere 
+scrivere in mailing list: mittente giusto, destinatario giusto, OGGETTO molto importante. 
+
+Forme di cortesia: all inizio della mail inserire “cari tutti” e simili, alla fine “grazie” o altre forme di cortesia.
+
+- subject chiaro e preciso 
+- suddivisione in paragrafi corti dell'email (righe bianche tra un paragrafo e l'altro) 
+- segnalare cosa si sa su un certo argomento "mi sembra accurato" ma non ho verificato...dichiarare di cosa si sta parlando 
+
+Non è immediato comunicare in questo modo e non è per forza l'unico modo corretto, bisogna provare senza avere paura di sbagliare 
+
 ####rispondere
 ###Netiquette
 ###Argomenti
