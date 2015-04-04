@@ -175,7 +175,7 @@ propagassero.
 
 È quindi nostro compito sempre vigilare per correggere.
 
-###### I fatti {.P11}
+### I fatti {.P11}
 
 Daniel Patrick Moynihan, sociologo e senatore americano, diceva: “Ognuno
 ha diritto di avere le proprie opinioni, ma non i propri fatti”.
@@ -192,7 +192,7 @@ scientifiche?
 Solo ponendosi queste domande una opinione può diventare un fatto
 pressoché certo.
 
-###### I dati {.P11}
+### I dati {.P11}
 
 Imparentati coi fatti, i dati sono spesso usati in maniera aggressiva e
 retorica, "le cifre dicono x e quindi la mia affermazione è
@@ -203,14 +203,12 @@ completi e se i confronti fatti siano equi. Molti grafici suggeriscono
 interpretazioni fornendo magari anche solo parte dei dati: il modo di
 presentazione può essere distante da ciò che dicano i grafici veramente.
 
-###### Come comportarsi {.P11}
+### Come comportarsi {.P11}
 
 Ogni cosa dovrebbe essere vagliata criticamente senza però cadere nello
 scetticismo più totale e dubitare di tutto ciò che vediamo o sentiamo.
 Un buon approccio è quello di decide decidere di quale fonte fidarsi,
 questo dovrebbe essere dovrebbe essere il ruolo storico dei media.
-
- 
 
 Nella vita e su Internet più che cercare una divisione netta tra vero e
 falso, tra giusto e sbagliato, bisogna imparare ad orientarsi usando la
@@ -220,14 +218,12 @@ che va dal "molto probabilmente falso" o “poco probabilmente vero”, al
 fidarci e dobbiamo affermare che anche noi siamo fonti autorevoli e di
 cui ci si può fidare.
 
- 
-
 Bertrand Russel commentava negli anni 20, in cui molte basi scientifiche
 sembravano dissolversi di rinunciare a credere a cose vere o false ma
 senza per questo cadere né nello scetticismo assoluto né nel dogmatismo.
 Questa è una lezione importante anche per la democrazia
 
-###### Conclusioni {.P11}
+### Conclusioni {.P11}
 
 In conclusione quando comunicate:
 
@@ -253,7 +249,7 @@ criticarle. Anche nel lavoro, in cui probabilmente si avrà un audience
 più ristretta che su internet, è altrettanto importante per ottenere la
 fiducia dei colleghi.
 
-###### Domande lezione 2 {.P12}
+### Domande lezione 2 {.P12}
 
 domanda: esempio in cui la scienza si è sbagliata?
 
@@ -270,15 +266,14 @@ delle fonti e integralità. verificare consistenza logica e confrontare
 con altre fonti -- tutto ciò costa del tempo, ma il palio c'è la
 conoscenza del mondo.
 
- 
 
-###### Parte Metodologica {.P10}
+# Parte Metodologica {.P10}
 
-###### Introduzione (lezione 1) {.P7}
+## Introduzione (lezione 1) {.P7}
 
 Vedi appunti di Giuseppe e slides
 
-###### Iscrizione ai social (lezione 2) {.P8}
+## Iscrizione ai social (lezione 2) {.P8}
 
 Integrare con slides
 
@@ -286,7 +281,7 @@ istruzioni su come ci si iscrive ai vari social:
 
 Tumblr, mailing list, Twitter.
 
-###### Iscrizione a Tumblr {.P11}
+### Iscrizione a Tumblr {.P11}
 
 In questo corso viene consigliato Tumblr perché, tra le altre cose,
 abilita la possibilità di seguire altri utenti (come su Facebook),
@@ -303,7 +298,7 @@ Solitamente viene anche chiesto di verificare la mail, onere a carico
 dell’utente, ma è una misura efficace per evitare che si iscrivano
 tonnellate di utenti finti creati da bot.
 
-###### Iscrizione alla mailing list {.P11}
+### Iscrizione alla mailing list 
 
 Mailing list: filtraggio di messaggi su Thunderbird etc. - argomento che
 verrà ripreso in futuro ma comunque è tutto scritto sul sito
@@ -311,9 +306,81 @@ verrà ripreso in futuro ma comunque è tutto scritto sul sito
 Https: perché c'è il messaggio di warning quando si va nu
 nexacenter.org,
 
-###### Iscrizione a Twitter {.P11}
+### Iscrizione a Twitter 
 
 spiega Twitter, come registrarsi ecc.
 
 Bisogna curare la propria immagine sul web, quindi non lasciare l'ovetto
 su twitter: es @brainpicker
+
+##Migliorare a pubblicare (lezione 4)
+
+lo scopo di questa lezione è aumentare le capacità e migliorarsi per pubblicare efficacemente. 
+
+il concetto è ben riassunto da questo poema zen della cultura hacker: 
+
+*To follow the path:
+look to the master,
+follow the master,
+walk with the master,
+see through the master,
+become the master.*
+
+è ciò che dovrebbe esserci nell'atteggiamento del corso, partire senza avere tante conoscenze, imparare dagli altri, imparare online, imparare da noi che teniamo lezione in modo da migliorarsi. 
+Internet è nata da persone che ragionavano secondo questo modo di pensare. 
+
+###Pubblicare su Twitter 
+Twitter è asimmetrico, questa è una delle maggiori differenze rispetto a Facebook. Il numero di persone che seguo è diverso rispetto al numero di persone che mi seguono. Inoltre non tutti i Tweet vengono letti da tutti. 
+
+Si possono **menzionare** gli utenti in un Tweet apponendo un @ davanti al nome utente che si vuole menzionare. Tuttavia se il Tweet inizia con un **@[NomeUtente]**, soltanto quel determinato utente potrà vederlo. Nel caso si volesse mettere il nome dell'utente all'inizio del Tweet si può  apporre un punto davanti a @,  quindi .@[NomeUtente].
+
+Per parlare di specifici argomenti è possibile mettere un *hashtag* prima di determinate parole chiave. Per esempio, si volesse  parlare di “foo” basterebbe scrivere **#foo** all'interno del Tweet. Gli hashtag sono cliccabili
+ così si possono vedere tutti
+ gli utenti e i Tweet che parlano di quell’
+argomento.  L'hashtag di questo corso è **#RivoluzDigitale**.
+
+Uno dei motivi per cui si usa Twitter durante il corso è per **pubblicizzare i propri blog-post**. Tumblr ha una funzione per pubblicare un Tweet automaticamente, ma è  sempre meglio che venga scritto a mano in modo da stimolare l'interesse di un possibile lettore (come fa per esempio l'account di @ilpost). Nei Tweet pubblicati per il corso bisognerebbe includere #RivoluzDigitale e/o menzionare @RivoluzDigitale
+
+Oltre a collegare il Tweet al corso di Rivoluzione Digitale è necessario inserire all'interno del Tweet un link al blog posto. Il link che viene riportato dovrebbe essere un permalink invece che il link alla home del blog. La Homempage cambia nel tempo, quindi dopo poco il vostro articolo non sarebbe più raggiungibile tramite il Tweet che avete pubblicato.
+- Esempio di permalink: http://rivoluzionedigitale.polito.it/risorse
+- Esempio di link alla homepage: http://rivoluzionedigitale.polito.it/ 
+
+
+###La mailing list – Cercare, scrivere e rispondere
+
+La posta elettronica è uno strumento molto datato, esiste da prima di internet, solo in un secondo momento si è adattato ad esso. 
+Con gli anni si sono stabilite una serie di regole per comunicare con questo mezzo, la cosiddetta *netiquette*, che è una sorta di autoregolamentazione, vale a dire come si pensa che si debba comportare la gente. 
+
+####Funzionamento
+Il funzionamento della mailing list è molto semplice. Ci sono una serie di indirizzi email, iscritti a una lista gestita da un server raggiungibile a sua volta attraverso indirizzo email a cui inviare i messaggi da inoltrare a tutti i mittenti iscritti (per il corso è rd@server-nexa.polito.it). 
+
+Se una mail viene inviata al server che gestisce la mailing list possono succedere due cose:
+1. se il mittente si trova nella lista, il server la manda la mail a tutti gli iscritti;
+2. se l'indirizzo email non presenta nella lista degli iscritti, il server *freeza* la mail e manda una mail a chi è admin della lista e al mittente comunicando che un non iscritto alla lista ha provato a scrivere.
+
+####Cercare 
+Una parte fondamentale  delle mailing  list è l'archivio. Nel momento in cui avete un problema e cercate supporto mandando una mail in lista, sarebbe opportuno effettuare nell'archivio della mailing list. 
+Nel tempo l'archivio di una mailing list cresce e si arricchisce, arrivando al paradosso in cui si cerca negli archivi della lista (ciò accade soprattutto nell'*opensource*) e spessissimo si arriva alla soluzione senza postare nessun nuovo messaggio. 
+
+La navigazione nella mailing list del corso (raggiungibile su http://server-nexa.polito.it/pipermail/rd/) non è del tutto intuitiva anche se esistono dei trucchi per esplorarla in modo efficace.
+Nell' archivio le mail sono organizzate per mese e sono presenti diversi modi di navigazione: per thread, per autore, per oggetto e per data. Tuttavia se si cerca uno specifico messaggio bisognerebbe cercare mese per mese e non è il modo più immediato che esista.
+
+Un modo per aggirare questo problema è usare Google. Nella schermata di “ricerca avanzata” di Google (raggiungibile attraverso un immagine di un ingranaggio in alto a destra nella finestra del broswer) è possibile specificare il dominio in cui cercare determinati messaggi, nel nostro caso basta specificare http://server-nexa.polito.it/pipermail/rd/ come dominio e la ricerca verrà effettuata solo negli archivi della mailing list. Inoltre si possono specificare altri filtri, ad esempio la lingua dei risultati. Tutti i flitri specificati nella maschera della ricerca avanzata di Google si ripercuoto sulla query che verrà prodotta e che verrà visualizzata nella barra di ricerca una volta effettuata la ricerca. Una scorciatoia per arrivare allo stesso risultato è digitare nella barra di ricerca di Google:
+- [argomento da cercare] site:http://server-nexa.polito.it/pipermail/rd/
+
+Una cosa da tenere a mente durante la scrittura di una mail è che nell'archivio della mailing list del corso tutto ciò che non è testo viene cancellato all'interno dell'archivio, quindi non verranno memorizzati, ad esempio, tutti i collegamenti ipertestuali, i grassetti, i corsivi e le immagini non verranno.
+
+#####Navigazione per thread 
+Un thread di discussione  è una serie di mail che riguardano lo stesso argomento, ed è identificato dall'oggetto delle mail che deve essere lo stesso in uno stesso thread.
+Rispondere a una mail (ad esempio usando il pulsante rispondi di un client mail) vuol dire indentare la mail nel thread a cui si sta rispondendo. 
+
+Nei client mail, ad esempio in Thunderbird, l'indentatura viene visualizzata in modo *fancy*. Tuttavia nella mailing list l'indentatura è rappresentata con un > se si parla di un messaggio precedente, con  >> se si tratta di due messaggi precedenti e via dicendo.
+
+
+
+####scrivere 
+####rispondere
+###Netiquette
+###Argomenti
+###Mailing list in pratica
+
