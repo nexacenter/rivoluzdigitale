@@ -3,15 +3,7 @@
 """ Script to generate content of rivoluzionedigitale.polito.it/blog-studenti
     using the following, simple procedure:
 
-        - Log in as teacher on didattica.polito.it
-
-        - Go to Rivoluzione Digitale course page
-
-        - Select the "Studenti" tab
-
-        - Go to "visualizza elenco dettagliato"
-
-        - Export this as CSV
+        - Download `RivoluzGruppi20xy (Responses)` as CSV
 
         - Run `./bin/make_blogs_page.py < csv_file > antani.txt`
 
