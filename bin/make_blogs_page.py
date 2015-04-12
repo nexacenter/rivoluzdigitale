@@ -22,7 +22,7 @@ def write_link(href, text):
     """ Write a link to stdout """
     if href and href != "#":
         parsed = urlparse.urlparse(href)
-        assert(parsed.scheme in ("http", "https"))
+        assert parsed.scheme in ("http", "https")
         netloc = urllib.quote_plus(parsed.netloc, ":")
         path = urllib.quote_plus(parsed.path, "/")
         href = parsed.scheme + "://" + netloc + path
