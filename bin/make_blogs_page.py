@@ -14,6 +14,10 @@
 
 import csv, sys, urlparse
 
+def write_blog_number(number):
+    """ Write the number of the blog """
+    sys.stdout.write("<td>%d</td>\n" % number)
+
 def write_link(href, text):
     """ Write a link to stdout """
     sys.stdout.write("<td><a href='%s'>%s</a></td>\n" % (href, text))
@@ -44,6 +48,7 @@ def main():
         if index == 0:
             continue
         sys.stdout.write("<tr>\n")
+        write_blog_number(index)
         write_blog_name(row[2])
         write_student(row[3], row[4])
         write_student(row[5], row[6])
