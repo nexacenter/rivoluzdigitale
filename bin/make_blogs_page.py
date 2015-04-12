@@ -16,7 +16,7 @@ import cgi, csv, sys, urllib, urlparse
 
 def write_blog_number(number):
     """ Write the number of the blog """
-    sys.stdout.write("<td>%d</td>\n" % int(number))
+    sys.stdout.write("<td>%d)</td>\n" % int(number))
 
 def write_link(href, text):
     """ Write a link to stdout """
@@ -33,7 +33,8 @@ def write_link(href, text):
 def write_blog_name(href):
     """ Write blog name as a link """
     parsed = urlparse.urlsplit(href)
-    write_link(href, parsed.netloc)
+    name = parsed.netloc.split(".")[0]
+    write_link(href, name)
 
 def write_student(idnum, twitter):
     """ Write student as a link """
@@ -51,7 +52,8 @@ def write_blog_twitter(twitter):
 
 def main():
     """ Main function """
-    sys.stdout.write("<table>\n")
+    sys.stdout.write("<table style='font-size: 75%;'>\n")
+    sys.stdout.write("<tbody>\n")
     for index, row in enumerate(csv.reader(sys.stdin)):
         if index == 0:
             continue
@@ -64,6 +66,7 @@ def main():
         write_student(row[9], row[10])
         write_blog_twitter(row[11])
         sys.stdout.write("</tr>\n\n")
+    sys.stdout.write("</tbody>\n")
     sys.stdout.write("</table>\n")
 
 if __name__ == "__main__":
