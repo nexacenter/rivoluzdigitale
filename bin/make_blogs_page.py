@@ -12,14 +12,22 @@
         - Edit rivoluzionedigitale.polito.it/blog-studenti and replace
           its content with the content copied in the prev step """
 
-import csv, sys, urlparse
+import cgi, csv, sys, urllib, urlparse
 
 def write_blog_number(number):
     """ Write the number of the blog """
-    sys.stdout.write("<td>%d</td>\n" % number)
+    sys.stdout.write("<td>%d</td>\n" % int(number))
 
 def write_link(href, text):
     """ Write a link to stdout """
+    if href and href != "#":
+        parsed = urlparse.urlparse(href)
+        assert(parsed.scheme in ("http", "https"))
+        netloc = urllib.quote_plus(parsed.netloc, ":")
+        path = urllib.quote_plus(parsed.path, "/")
+        href = parsed.scheme + "://" + netloc + path
+    if text:
+        text = cgi.escape(text)
     sys.stdout.write("<td><a href='%s'>%s</a></td>\n" % (href, text))
 
 def write_blog_name(href):
