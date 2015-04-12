@@ -48,7 +48,7 @@ def write_blog_twitter(twitter):
 def main():
     """ Main function """
     sys.stdout.write("<table>\n")
-    for index, row in enumerate(csv.reader(open("RivoluzGruppi.csv"))):
+    for index, row in enumerate(csv.reader(sys.stdin)):
         if index == 0:
             continue
         sys.stdout.write("<tr>\n")
