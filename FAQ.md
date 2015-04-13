@@ -143,54 +143,39 @@ del corso.
 1.4. Come modificare una voce di Wikipedia?
 -------------------------------------------
 
-Il primo passo da fare e' registrarsi. Passaggio importante e che richiede
-pochi secondi. Volendo si puo' agire anche senza essere registrati, ma
-le modifiche fatte da persone che non sono registrate sono sempre viste
-con maggior sospetto dai wikipediani e rischiano di essere cancellate
-facilmente.
+Il primo passo da fare e' registrarsi. Si possono fare modifiche anche senza essere registrati tuttavia avere un account permette un uso più completo delle funzionalità di Wikipedia (lista dei propri contenuti, preferenze, gadget extra, etc.) e un'interazione migliore con la comunità (si ha una pagina di discussione e il nickname univoco permette di farsi riconoscere nel tempo).
 
-Ma veniamo alle modifiche vere e proprie.
+Ma veniamo alle modifiche vere e proprie. Ogni voce presenta in alto a destra i tasti `modifica` e `modifica wikitesto`.
 
-A livello base, ossia a livello della modifica dei soli contenuti, non
-e' particolarmente complesso agire su wikipedia.  Potrei anche scrivere
-una guida piu' approfondita, ma temo richiederebbe una quantia' di tempo
-non indifferente.  In piu' sarebbe inutile in quanto su wikipedia, nella
-sezione aiuto, c'e' tutto (veramente tutto, forse addirittura troppo). In
-fondo vi linkero' alcune pagine di aiuto di wikipedia fondamentali per
-iniziare ad avventurarsi nell'editing piu' avanzato.
+Il primo apre il VisualEditor, ovvero un editor WYSIWYG che permette di fare modifiche con un'interfaccia molto simile a quella presente in lettura e con l'uso di toolbar analoghe a quelle degli editor di testo da uffico come Writer di LibreOffice. Questo strumento è ancora in fase di sviluppo e potrebbe presentare bachi e malfunzionamenti.
 
-Ogni voce presenta in alto il tasto modifica.
+Cliccando sul `modifica wikitesto` invece si accede alla sorgente in wikitesto della pagina. Si tratta della via standard con cui i wikipediani editano le voci. Tuttavia vi è una, seppur semplice, sintassi da imparare. Si può partire ad esempio da [qui](https://it.wikipedia.org/wiki/Aiuto:Wikitesto). Un buon sistema per imparare a scrivere in wikicodice e' guardare quello delle voci già presenti.
 
-<img src="http://casadigitale.files.wordpress.com/2013/05/immagine2.jpg"
-     alt="modifica" />
+N.B. Qualunque editor utilizziate, quello che scriverete o modificherete, una volta salvati i cambiamenti, sara' immediatamente disponibile come ultima versione della voce e quindi visibile a tutti.
 
-Da qui si accede al sorgente della pagina. Tutto quello che scriverete o
-modificherete qua, una volta salvati i cambiamenti, sara' immediatamente
-disponibile nella voce editata.
+Su Wikipedia vi è un controllo mediamente severo sui contenuti delle voci, specialmente se le modifiche provengono da utenti anonimi o neoiscritti. Ci sono due buone pratiche da adottare quando si edita, specialmente nei primi tempi:
+* Non avere indugi a chiedere aiuto o feedback ad altri utenti. Finanche domandare un [tutoraggio](https://it.wikipedia.org/wiki/Progetto:Coordinamento/Accoglienza/Nuovi_arrivati).
+* Utilizzare e riportare sempre le fonti (il più autorevoli possibili). 
 
-Su Wikipedia sono molto severi, se aggiungete nuove informazioni dovete
-sempre citare la fonte (possibilmente un poco autorevole). Per fare
-cio', aggiungete la seguente stringa alla fine della parte di testo che
+Per fare cio', aggiungete la seguente stringa alla fine della parte di testo che
 avete editato:
 
-    <ref>[url della pagina citata]</ref>
+    <ref>Testo da citare in una nota</ref>
 
-e nel caso (raro) in cui in fondo alla voce non ci fosse ancora la
-sezione Note aggiungete:
+e nel caso in cui in fondo alla voce non ci sia ancora la sezione Note aggiungete:
 
     ==Note==
     <references />
 
-questa semplice formula inserira' automaticamente in fondo alla voce ogni
-collegamento alle fonti sparse nel testo.  Inoltre, dopo aver modificato
+Questa semplice formula inserira' automaticamente in fondo alla voce ogni
+collegamento alle fonti sparse nel testo. Inoltre, dopo aver modificato
 una voce, prima di salvare, e' buona abitudine aggiungere nel campo
-Oggetto in cosa consiste la vostra modifica. Cosi' contribuirete
-anche a rendere piu' fluidi eventuali controlli sulla pagina.
+Oggetto in cosa consiste la vostra modifica. Cosi' contribuirete anche a rendere piu' fluidi eventuali controlli sulla pagina.
 
 <img src="http://casadigitale.files.wordpress.com/2013/05/immagine.jpg"
      alt="oggetto" />
 
-Vi invito anche a notare il tasto "Questa e' una modifica minor"
+Vi invito anche a notare il tasto "Questa e' una modifica minore"
 subito sotto il campo oggetto. Esso e' da selezionare soltanto quando vi
 siete limitati a correggere un errore ortografico, una formattazione o
 comunque qualcosa che non aggiunga o modifichi le informazioni della voce.
@@ -222,6 +207,9 @@ occhio!
 
 Vi lascio come promesso qualche link utile, nel caso voleste approfondire
 l'editing di Wikipedia:
+
+- Guida per il corso di Rivoluzione Digitale del 2014
+http://rivoluzionedigitale.polito.it/lezioni/2014-04-16
 
 - Guida per principianti:
 http://it.wikipedia.org/wiki/Aiuto:Guida_essenziale
