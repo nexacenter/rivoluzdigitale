@@ -319,7 +319,7 @@ lo scopo di questa lezione è aumentare le capacità e migliorarsi per pubblicar
 
 il concetto è ben riassunto da questo poema zen della cultura hacker: 
 
-*"To follow the path:
+*"To follow the path:  
 look to the master,  
 follow the master,  
 walk with the master,  
