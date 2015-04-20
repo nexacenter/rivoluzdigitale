@@ -313,7 +313,39 @@ spiega Twitter, come registrarsi ecc.
 Bisogna curare la propria immagine sul web, quindi non lasciare l'ovetto
 su twitter: es @brainpicker
 
-##Migliorare a pubblicare (lezione 4)
+## Integrità (lezione 3) 
+La definizione di integrità è a corollario dei vari argomenti del corso e si basa su come fare le cose piuttosto che sulla cosa in sé. 
+
+La definizione di integrità a cui facciamo riferimento in questo corso è data dal Prof. Michael Jensen della Harvard Business School (HBS), uno dei fondatori di SSRN (Social Science Research Network).
+
+<nota> SSRN è un portale dove si pubblicano direttamente i risultati scientifici senza passare attraverso le riviste scientifiche. Questo tipo di pubblicazione, scaricabile gratis è chiamata *Open Access* (che è un argomento ortogonale all'integrità). </nota>
+
+#### Efficienza
+Solitamente l'integralità è percepita semplicemente come un vincolo morale ma Michael Jensen,  con un classico approccio orientato al business, per spiegarla parte dal definire l'**efficienza**.   
+Jensen ha notato che se i singoli lavoratori di un'organizzazione sono integri l'efficienza è anche il 200% più alta che in organizzazioni in cui non vige l'integrità. 
+
+#### Definizione
+Ma quindi cosa si intende per integrità? Ha a che fare con gli impegni che gli individui prendono con altri individui. Vale a dire impegni presi da x verso y dove y può essere un superiore, un collega, un cliente, un forintore ecc.   
+
+Con impegno si intende il vincolo che si prende per fare una determinata cosa entro un determinato tempo – e.g.: “mi impegno a scrivere un rapporto entro giovedì prossimo”.   
+
+Essere integri significa che una volta preso l'impegno, esso venga rispettato entro i tempi previsti. Per arrivare effettivamente a rispettare l'impegno c'è del lavoro, lo sforzo non inizia quando si decide di vincolarsi con un impegno, bensì **inizia prima**. 
+Questo sforzo di immaginazione di tradurre un impegno in ore di lavoro e proiettarlo nella propria agenda personale è difficile. Con gli anni si impara a conoscere sé stessi, da giovani spesso si sottostimano gli impegni, crescendo si impara a triplicare i tempi. Ad ogni modo, nel momento in cui prendiamo un impegno la controparte si aspetta che venga rispettato e che noi abbiamo fatto le dovute considerazione prendendo l'impegno. 
+Una parte importante di questo processo è anche prevedere dei margini di sicurezza in modo da essere sicuri di riuscire a rispettare gli impegni. 
+
+Nel momento in cui le persone tendono a comportarsi in modo integro quindi si crea una situazione di fiducia e non è più necessario creare piani B e C. È una cosa relativamente semplice come concetto e porta a miglioramenti di efficienza notevoli. 
+
+#### Emergenze
+Gli imprevisti possono tuttavia sempre capitare e può succedere che non si riesca più a far fronte ai propri impegni.
+Quindi in come si possono trattare le emergenze? Nel caso delle effettive emergenze l'integrità prevede:   
+ - comunicare che c'è un imprevisto, appena lo so devo comunicare che c'è l'imprevisto 
+ - scusarsi 
+ - riprogrammare dando una data certa: bisogna essere realistici nella riprogrammazione (è un nuovo impegno) 
+
+#### L'integrità per il singolo
+Il singolo in questo contesto è inteso comq qualcuno che, ad esempio non lavora in un gruppo di lavoro o in un azienda e che potrebbe essere un *free lance*. Visto che si lavora da soli e non ci sono superiori si potrebbe pensare che l'integrità sia un vincolo meno stringente. Tuttavia comportarsi in modo integro con chiunque fa sì che ci si costruisca e si mantenga una reputazione con i propri clienti e fornitori. Per un *free-lance* è fondamentale la reputazione, è un vantaggio economico molto forte, in quanto banalmente libero gli altri dall'ansia che il mio compito sia eseguito per la data richiesta. 
+
+## Migliorare a pubblicare (lezione 4)
 
 lo scopo di questa lezione è aumentare le capacità e migliorarsi per pubblicare efficacemente. 
 
@@ -329,7 +361,7 @@ become the master."*
 è ciò che dovrebbe esserci nell'atteggiamento del corso, partire senza avere tante conoscenze, imparare dagli altri, imparare online, imparare da noi che teniamo lezione in modo da migliorarsi. 
 Internet è nata da persone che ragionavano secondo questo modo di pensare. 
 
-###Pubblicare su Twitter 
+### Pubblicare su Twitter 
 Twitter è asimmetrico, questa è una delle maggiori differenze rispetto a Facebook. Il numero di persone che seguo è diverso rispetto al numero di persone che mi seguono. Inoltre non tutti i Tweet vengono letti da tutti. 
 
 Si possono **menzionare** gli utenti in un Tweet apponendo un @ davanti al nome utente che si vuole menzionare. Tuttavia se il Tweet inizia con un **@[NomeUtente]**, soltanto quel determinato utente potrà vederlo. Nel caso si volesse mettere il nome dell'utente all'inizio del Tweet si può  apporre un punto davanti a @,  quindi .@[NomeUtente].
@@ -346,19 +378,19 @@ Oltre a collegare il Tweet al corso di Rivoluzione Digitale è necessario inseri
 - Esempio di link alla homepage: http://rivoluzionedigitale.polito.it/ 
 
 
-###La mailing list – Cercare, scrivere e rispondere
+### La mailing list – Cercare, scrivere e rispondere
 
 La posta elettronica è uno strumento molto datato, esiste da prima di internet, solo in un secondo momento si è adattato ad esso. 
 Con gli anni si sono stabilite una serie di regole per comunicare con questo mezzo, la cosiddetta *netiquette*, che è una sorta di autoregolamentazione, vale a dire come si pensa che si debba comportare la gente. 
 
-####Funzionamento
+#### Funzionamento
 Il funzionamento della mailing list è molto semplice. Ci sono una serie di indirizzi email, iscritti a una lista gestita da un server raggiungibile a sua volta attraverso indirizzo email a cui inviare i messaggi da inoltrare a tutti i mittenti iscritti (per il corso è rd@server-nexa.polito.it). 
 
 Se una mail viene inviata al server che gestisce la mailing list possono succedere due cose:
 1. se il mittente si trova nella lista, il server la manda la mail a tutti gli iscritti;
 2. se l'indirizzo email non presenta nella lista degli iscritti, il server *freeza* la mail e manda una mail a chi è admin della lista e al mittente comunicando che un non iscritto alla lista ha provato a scrivere.
 
-####Cercare 
+#### Cercare 
 Una parte fondamentale  delle mailing  list è l'archivio. Nel momento in cui avete un problema e cercate supporto mandando una mail in lista, sarebbe opportuno effettuare nell'archivio della mailing list. 
 Nel tempo l'archivio di una mailing list cresce e si arricchisce, arrivando al paradosso in cui si cerca negli archivi della lista (ciò accade soprattutto nell'*opensource*) e spessissimo si arriva alla soluzione senza postare nessun nuovo messaggio. 
 
@@ -370,14 +402,14 @@ Un modo per aggirare questo problema è usare Google. Nella schermata di “rice
 
 Una cosa da tenere a mente durante la scrittura di una mail è che nell'archivio della mailing list del corso tutto ciò che non è testo viene cancellato all'interno dell'archivio, quindi non verranno memorizzati, ad esempio, tutti i collegamenti ipertestuali, i grassetti, i corsivi e le immagini non verranno.
 
-#####Navigazione per thread 
+##### Navigazione per thread 
 Un thread di discussione  è una serie di mail che riguardano lo stesso argomento, ed è identificato dall'oggetto delle mail che deve essere lo stesso in uno stesso thread.
 Rispondere a una mail (ad esempio usando il pulsante rispondi di un client mail) vuol dire indentare la mail nel thread a cui si sta rispondendo. 
 
 Nei client mail, ad esempio in Thunderbird, l'indentatura viene visualizzata in modo *fancy*. Tuttavia nella mailing list l'indentatura è rappresentata con un > se si parla di un messaggio precedente, con  >> se si tratta di due messaggi precedenti e via dicendo.
 
 
-####scrivere 
+#### Scrivere 
 scrivere in mailing list: mittente giusto, destinatario giusto, OGGETTO molto importante. 
 
 Forme di cortesia: all inizio della mail inserire “cari tutti” e simili, alla fine “grazie” o altre forme di cortesia.
@@ -388,8 +420,8 @@ Forme di cortesia: all inizio della mail inserire “cari tutti” e simili, all
 
 Non è immediato comunicare in questo modo e non è per forza l'unico modo corretto, bisogna provare senza avere paura di sbagliare 
 
-####rispondere
-###Netiquette
-###Argomenti
-###Mailing list in pratica
+#### rispondere
+### Netiquette
+### Argomenti
+### Mailing list in pratica
 
