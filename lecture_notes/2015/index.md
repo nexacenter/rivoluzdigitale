@@ -1,7 +1,5 @@
 **Table of Contents** [agg: 2015-04-20] *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
 - [Parte di contenuti di alto livello](#)
 	- [Introduzione (lezione 1)](#)
 	- [Preparazione per il corso (lezione 2)](#)
