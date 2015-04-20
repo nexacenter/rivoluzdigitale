@@ -376,7 +376,7 @@ I brevetti software hanno creato un clima di incertezza in cui capita che progra
 Un esempio di brevetto software è l'algoritmo di RSA per la chiave pubblica/privata (brevettato negli anni 80) che ora è di pubblico dominio. 
 
 #### Proposte di riforma dei brevetti 
-delle proposte di riforma potrebbero essere: 
+Eventuali proposte di riforma potrebbero essere: 
 * durata del monopolio variabile a seconda dei settori; 
 * minore concessione dei brevetti software; 
 * molti meno *business methods patents*: famosi negli Stati Uniti 20 anni fa. Un esempio è il brevetto di Amazon per l'acquisto in un clic. Non è un algoritmo; Amazon aveva semplicemente inventato un bottone associato a un business method. In questo ambito possono anche essere brevettati modelli assicurativi ecc. Uno dei problemi di questo approccio tuttavia è che vengono tanti piccoli monopoli.
