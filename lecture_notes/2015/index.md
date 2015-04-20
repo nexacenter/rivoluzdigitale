@@ -293,10 +293,12 @@ con altre fonti -- tutto ciò costa del tempo, ma il palio c'è la
 conoscenza del mondo.
 
 ##La proprietà intellettuale (lezione 3) 
-Per il corso è richiesto aprire e pubblicare in un blog (che contenga testi, foto ecc). Dopo aver affrontato temi quali la correttezza comunicativa e la correttezza di chi pubblica, ora verranno introdotti alcuni concetti fondamentali relativi alla proprietà intellettuale. A chi pubblica in un blog (e per i fini pratici del corso) interessa soprattutto il diritto di autore, tuttavia verranno fatti accenni anche ai brevetti e ai marchi. 
+Per il corso è richiesto aprire e pubblicare in un blog (che contenga testi, foto ecc). Dopo aver affrontato temi quali la correttezza comunicativa e la correttezza di chi pubblica, ora verranno introdotti alcuni concetti fondamentali relativi alla proprietà intellettuale. A chi pubblica in un blog (e per i fini pratici del corso) interessa soprattutto il diritto di autore, tuttavia verranno fatti accenni anche ai brevetti e ai marchi.
 
 **Definizione di "proprietà intellettuale"**: è tra virgolette perché è un termine molto usato, ma contemporaneamente criticato. 
-Cosa si intende nel senso comune del termine? Sostanzialmente è un termine ombrello per indicare soprattutto il **diritto di autore** (e la sua forma inglese, il *copyright*), tuttavia in questo termine sono inclusi anche  i **brevetti** e i **marchi**. È un qualcosa a cavallo tra l'etica e il giuridico. La critica principale è che il termine proprietà intellettuale includa troppe cose diverse, diritto d'autore, brevetti e marchi sono estremamente diversi, un termine solo per descrivere  queste tre cose non ha troppo senso senso bisognerebbe parlarne singolarmente. 
+Cosa si intende nel senso comune del termine? Sostanzialmente è un termine ombrello per indicare soprattutto il diritto di autore (e la sua forma inglese, il *copyright*), tuttavia in questo termine sono inclusi anche  i brevetti e i marchi. È un qualcosa a cavallo tra l'etica e il giuridico. La critica principale è che il termine proprietà intellettuale includa troppe cose diverse, diritto d'autore, brevetti e marchi sono estremamente diversi, un termine solo per descrivere  queste tre cose non ha troppo senso senso bisognerebbe parlarne singolarmente. 
+
+In ordine verranno prima trattati i brevetti e i marchi (strumenti leali che per fini di questo corso sono meno importanti) e infine il diritto d'autore.
 
 ###I brevetti 
 I brevetti tutelano le invenzioni (infatti sono propriamente detti *brevetti per invenzioni*). Si hanno tracce di idee brevettate dal 1400 in avanti a Venezia per idee navali e militari. Per moltissimo tempo le invenzioni brevettabili riguardavano principalmente macchine e i meccanismi (ad esempio Thomas Jefferson inventò una particolare forma di aratro molto efficiente), mentre al giorno d'oggi il dominio di invenzioni brevettabili si è molto allargato.
@@ -318,20 +320,40 @@ Una volta descritta l'idea si compila la domanda e la si porta all'ufficio breve
 Con la concessione del brevetto lo Stato conferisce all'inventore un monopolio. In pratica, lo Stato con la sua forza garantisce all'inventore che solo lui possa sfruttare una certa idea, per un determinato periodo di tempo (20 anni), come compenso al suo contributo all'umanità.
 lo Stato tuttavia non valuta economicamente l'invenzione, però se si  è in grado di sfruttare economicamente l'idea brevettava viene concesso il diritto di farlo da solo tramite monopolio temporaneo della durata di **20 anni**. 
 
+Il brevetto in sostanza è un *tradeoff* - una volta accettato diventa pubblico e l'invenzione è liberamente accessibile a chiunque ma è utilizzabile dal solo inventore (o da chi ha acquisito i diritti) per i primi 20 anni. In sostanza è un accordo tra società e inventori. 
+La tutela dell'invenzione viene quindi concessa solo se essa viene resa pubblica, nel caso non si voglia svelarla invece si può utilizzare il *segreto industriale*.
+
 ####Alternative al brevetto
 Il brevetto non è l'unico modo per incoraggiare le invenzioni,  ad esempio potrebbero essere assegnati dei premi agli inventori che risolvano determinati problemi. 
 Storicamente questa soluzione è stata adoperata con successo, un esempio di ciò si può ricondurre all'invenzione del *cronometro* per risolvere il problema della determinazione della longitudine durante la navigazione. 
 
 #####Breve storia del cronometro
-All'inizio dell'Ottocento l'Inghilterra che si apprestava a far partire il suo grande impero coloniale, basato sulla sua potenza navale, doveva risolvere il grande problema dell'orientamento durante la navigazione. Nonostante sia piuttosto facile determinare la latitudine grazie alla posizione degli astri (ad esempio misurando l'altezza del sole a mezzogiorno),la longitudine richiede una soluzione più complessa. Per determinare la longitudine è necessario leggere al mezzogiorno locale (cioè quando il Sole ragigunge l'altezza massima) l'ora segnata dall'orologio impostato nel punto di partenza e tramite apposite tavole è possibile calcolare la propria longitudine. All'epoca tuttavia esistevano solo gli orologi a pendolo che durante la navigazione risentivano troppo del movimento delle imbarcazioni,  John Harrison elaborò un orologio basato su sistema di alberi contro-oscillanti connessi da molle, insensibili ai movimenti ed alla gravità e per questo fu ricompensato.
+All'inizio dell'Ottocento l'Inghilterra che si apprestava a far partire il suo grande impero coloniale, basato sulla sua potenza navale, doveva risolvere il grande problema dell'orientamento durante la navigazione. Nonostante sia piuttosto facile determinare la latitudine grazie alla posizione degli astri (ad esempio misurando l'altezza del sole a mezzogiorno),la longitudine richiede una soluzione più complessa. Per determinare la longitudine è necessario leggere al mezzogiorno locale (cioè quando il Sole raggiunge l'altezza massima) l'ora segnata dall'orologio impostato nel punto di partenza e tramite apposite tavole è possibile calcolare la propria longitudine. All'epoca tuttavia esistevano solo gli orologi a pendolo che durante la navigazione risentivano troppo del movimento delle imbarcazioni,  John Harrison elaborò un orologio basato su sistema di alberi contro-oscillanti connessi da molle, insensibili ai movimenti ed alla gravità e per questo fu ricompensato.
 
-####Conclusioni
+####I punti cardine del brevetto
 Il brevetto in breve:
--Serve per **protezione di un'invenzione** 
-- Sono necessarie delle **formalità obbligatorie** per essere protetti (il deposito della domanda e il pagamento di tasse) 
-- Il brevetto funziona da **pubblicità** per l'invenzione 
-- monopolio** temporaneo** 
-- passato il monopolio temporaneo, chiunque può usare le invenzioni, entra nel pubblico dominio e chiunque può usarla liberamente (es: i farmaci generici - non si può chiamare con lo stesso nome, perchè il nome è un marchio ma si può scrivere sulla scatola che è equivalente) 
+ - serve per la **protezione di un'invenzione**; 
+ - sono necessarie delle **formalità obbligatorie** per essere protetti (il deposito della domanda e il pagamento di tasse); 
+ - funziona da **pubblicità** per l'invenzione;
+ - passato il monopolio temporaneo, l'invenzione entra nel **pubblico dominio** e chiunque può usarla liberamente (e.g., i farmaci generici, che tra l'altro non si possono chiamare con lo stesso nome, perché il nome è un marchio, ma si può scrivere sulla scatola che è equivalente) 
+- i diritti degli inventori sono vendibili a terze parti e si possono concedere usi sotto il pagamento di eventuali corrispettivi in denaro (le *royalties*) tramite contratti
+
+####Critica ai brevetti
+Questa architettura complicata per brevettare le invenzioni è stata costruita basandosi sull'ipotesi che la società avrebbe prodotto più invenzioni utili se incentivata dai benefici di un monopolio. Quest'ipotesi tuttavia non è verificabile, e secondo molti critici da quando esistono i brevetti e il diritto d'autore gli aspetti negativi annullano  il beneficio di una della maggior creazione di invenzioni 
+
+Il grande problema della bei brevetti è che le idee basate su invenzioni brevettate, le *idee derivate*, non possono essere sviluppate anche nel caso in cui apportino benefici diretti alla società e all'industria.  
+
+La storia è ricca di esempi di questo tipo, un primo esempio è la macchina a vapore di James Watt. Il brevetto gli permise di operare in regime di monopolio, e di arricchirsi parecchio, tuttavia tra i tecnici che lavoravano con le macchine a vapore si svilupparono idee di modifiche alla macchina originale per migliorarne l'efficienza. La lunga durata del brevetto di Watt bloccò questi miglioramenti incrementali. Tant'è che, una volta scaduto il brevetto di Watt, grazie a miglioramenti (volutamente) non brevettati da community di operativi, la macchina a vapore migliorò molto la sua efficienza. 
+
+Un altro caso dei nostri giorni riguarda le stampanti 3D.  Contrariamente a quanto tanta gente creda, non sono un invenzione del ventunesimo secolo, bensì sono state inventate negli anni 80.  L'inventore della stampa 3D brevettò l'ugello che distribuisce il materiale per effettuare la stampa, impedendo a qualsiasi altro inventore di usare questo tipo di tecnologia. Fino a pochi anni fa le stampanti  3D erano disponibili sul mercato ed erano prodotte dalle 2 aziende create dall'inventore. Finiti i 20 anni di monopolio garantiti dal brevetto è esplosa l'innovazione. In sostanza per 20 anni le stampanti 3d non hanno espresso il loro valore potenziale. 
+
+L'aspetto negativo relativo ai che si evince da queste storie quindi è principalmente il rallentamento dello sviluppo e dell'innovazione. 
+Tuttavia non è l'unico, è molto importante anche l'impatto che i brevetti hanno nell'ambito della ambito farmacia, i medici senza frontiere affermano che i monopoli temporanei garantiti dal brevetto sono i diretti responsabili della morte di molte persone.
+
+Secondo un ipotesi non dimostrabile il brevetto dovrebbe beneficiare la società a causa della maggior presenza di invenzioni, tuttavia per ora l'unico effetto dimostrabile è l'effetto concreto di danneggiarla bloccando di fatto le innovazioni. 
+
+Mak Loop: *“visto che i brevetti esistono da un sacco di anni e non riusciamo a dimostrare la loro utilità ce li teniamo.”* 
+
 
 # Parte Metodologica 
 
