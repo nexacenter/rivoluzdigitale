@@ -299,14 +299,39 @@ Per il corso è richiesto aprire e pubblicare in un blog (che contenga testi, fo
 Cosa si intende nel senso comune del termine? Sostanzialmente è un termine ombrello per indicare soprattutto il **diritto di autore** (e la sua forma inglese, il *copyright*), tuttavia in questo termine sono inclusi anche  i **brevetti** e i **marchi**. È un qualcosa a cavallo tra l'etica e il giuridico. La critica principale è che il termine proprietà intellettuale includa troppe cose diverse, diritto d'autore, brevetti e marchi sono estremamente diversi, un termine solo per descrivere  queste tre cose non ha troppo senso senso bisognerebbe parlarne singolarmente. 
 
 ###I brevetti 
-I brevetti tutelano le invenzioni (infatti sono propriamente detti *brevetti per invenzioni*). Per moltissimo tempo le invenzioni riguardavano principalmente macchine, meccanismi (ad esempio Thomas Jefferson inventò una particolare forma di aratro molto efficiente). 
-Come funziona? Qualcuno ha una determinata idea. Questa idea deve avere quattro caratteristiche: 
+I brevetti tutelano le invenzioni (infatti sono propriamente detti *brevetti per invenzioni*). Si hanno tracce di idee brevettate dal 1400 in avanti a Venezia per idee navali e militari. Per moltissimo tempo le invenzioni brevettabili riguardavano principalmente macchine e i meccanismi (ad esempio Thomas Jefferson inventò una particolare forma di aratro molto efficiente), mentre al giorno d'oggi il dominio di invenzioni brevettabili si è molto allargato.
+
+Come funziona? Qualcuno ha una determinata idea e per essere brevettata deve avere quattro caratteristiche: 
  - originalità: deve avere un salto inventivo; 
  - novità: l'invenzione non deve essere già nota. Non deve essere stata divulgata (in qualsiasi parte del mondo), né in forma orale, né in forma scritta  prima del deposito della domanda di brevetto;
  - industrialità: l'invenzione deve essere utile e trovare applicazione in campo industriale;
-- liceità: l'invenzione non deve contrastare il buon costume o l'ordine pubblico.   
+ - liceità: l'invenzione non deve contrastare il buon costume o l'ordine pubblico.   
 
 Sull'industrialità e l'originalità c'era un  vincolo molto più forte in passato (fino a 30, 40 anni fa)
+
+####La presentazione della domanda
+Per ottenere un brevetto si descrive l'idea e si presenta una domanda articolata e complessa all'ufficio brevetti.   
+Nella descrizione dell'idea bisogna esporre dettagliatamente come essa funzioni, ad esempio per una macchina è necessario descrivere i singoli pezzi e come essi interagiscano tra loro.
+Una volta descritta l'idea si compila la domanda e la si porta all'ufficio brevetti. Gli esaminatori dell'ufficio brevetti controllano che l'idea descritta sia effettivamente nuova e mai brevettata da nessuno (tramite una c.d.*ricerca di anteriorità*), successivamente valutano se sia scientificamente fondata e se funzioni (*verifica nella sostanza dell'idea*), quindi viene verificata la sua funzionalità e i risultati. Se tutte le risposte sono positive l'ufficio brevetti concede il brevetto all'inventore. 
+
+####Funzione del brevetto
+Con la concessione del brevetto lo Stato conferisce all'inventore un monopolio. In pratica, lo Stato con la sua forza garantisce all'inventore che solo lui possa sfruttare una certa idea, per un determinato periodo di tempo (20 anni), come compenso al suo contributo all'umanità.
+lo Stato tuttavia non valuta economicamente l'invenzione, però se si  è in grado di sfruttare economicamente l'idea brevettava viene concesso il diritto di farlo da solo tramite monopolio temporaneo della durata di **20 anni**. 
+
+####Alternative al brevetto
+Il brevetto non è l'unico modo per incoraggiare le invenzioni,  ad esempio potrebbero essere assegnati dei premi agli inventori che risolvano determinati problemi. 
+Storicamente questa soluzione è stata adoperata con successo, un esempio di ciò si può ricondurre all'invenzione del *cronometro* per risolvere il problema della determinazione della longitudine durante la navigazione. 
+
+#####Breve storia del cronometro
+All'inizio dell'Ottocento l'Inghilterra che si apprestava a far partire il suo grande impero coloniale, basato sulla sua potenza navale, doveva risolvere il grande problema dell'orientamento durante la navigazione. Nonostante sia piuttosto facile determinare la latitudine grazie alla posizione degli astri (ad esempio misurando l'altezza del sole a mezzogiorno),la longitudine richiede una soluzione più complessa. Per determinare la longitudine è necessario leggere al mezzogiorno locale (cioè quando il Sole ragigunge l'altezza massima) l'ora segnata dall'orologio impostato nel punto di partenza e tramite apposite tavole è possibile calcolare la propria longitudine. All'epoca tuttavia esistevano solo gli orologi a pendolo che durante la navigazione risentivano troppo del movimento delle imbarcazioni,  John Harrison elaborò un orologio basato su sistema di alberi contro-oscillanti connessi da molle, insensibili ai movimenti ed alla gravità e per questo fu ricompensato.
+
+####Conclusioni
+Il brevetto in breve:
+-Serve per **protezione di un'invenzione** 
+- Sono necessarie delle **formalità obbligatorie** per essere protetti (il deposito della domanda e il pagamento di tasse) 
+- Il brevetto funziona da **pubblicità** per l'invenzione 
+- monopolio** temporaneo** 
+- passato il monopolio temporaneo, chiunque può usare le invenzioni, entra nel pubblico dominio e chiunque può usarla liberamente (es: i farmaci generici - non si può chiamare con lo stesso nome, perchè il nome è un marchio ma si può scrivere sulla scatola che è equivalente) 
 
 # Parte Metodologica 
 
