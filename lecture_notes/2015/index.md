@@ -281,18 +281,12 @@ criticarle. Anche nel lavoro, in cui probabilmente si avrà un audience
 più ristretta che su internet, è altrettanto importante per ottenere la
 fiducia dei colleghi.
 
-### Domande lezione 2 
-
-domanda: esempio in cui la scienza si è sbagliata?
-
-1. Presenza dell’etere
-
-2. Filone scientifico influenzato da eugenetica [integrato negli appunti
-sopra]
-
-domanda: come fidarsi dei giornali?
-
-esempio: in Italia le testate sono di gruppi economici. Quindi conflitto
+### Domande 
+1. domanda: esempio in cui la scienza si è sbagliata?
+	- Presenza dell’etere
+	- Filone scientifico influenzato da eugenetica [integrato negli appunti sopra]
+2. domanda: come fidarsi dei giornali?
+	- esempio: in Italia le testate sono di gruppi economici. Quindi conflitto
 di interessi con i proprietari. conoscere il giornalista per rispetto
 delle fonti e integralità. verificare consistenza logica e confrontare
 con altre fonti -- tutto ciò costa del tempo, ma il palio c'è la
@@ -303,6 +297,16 @@ Per il corso è richiesto aprire e pubblicare in un blog (che contenga testi, fo
 
 **Definizione di "proprietà intellettuale"**: è tra virgolette perché è un termine molto usato, ma contemporaneamente criticato. 
 Cosa si intende nel senso comune del termine? Sostanzialmente è un termine ombrello per indicare soprattutto il **diritto di autore** (e la sua forma inglese, il *copyright*), tuttavia in questo termine sono inclusi anche  i **brevetti** e i **marchi**. È un qualcosa a cavallo tra l'etica e il giuridico. La critica principale è che il termine proprietà intellettuale includa troppe cose diverse, diritto d'autore, brevetti e marchi sono estremamente diversi, un termine solo per descrivere  queste tre cose non ha troppo senso senso bisognerebbe parlarne singolarmente. 
+
+###I brevetti 
+I brevetti tutelano le invenzioni (infatti sono propriamente detti *brevetti per invenzioni*). Per moltissimo tempo le invenzioni riguardavano principalmente macchine, meccanismi (ad esempio Thomas Jefferson inventò una particolare forma di aratro molto efficiente). 
+Come funziona? Qualcuno ha una determinata idea. Questa idea deve avere quattro caratteristiche: 
+ - originalità: deve avere un salto inventivo; 
+ - novità: l'invenzione non deve essere già nota. Non deve essere stata divulgata (in qualsiasi parte del mondo), né in forma orale, né in forma scritta  prima del deposito della domanda di brevetto;
+ - industrialità: l'invenzione deve essere utile e trovare applicazione in campo industriale;
+- liceità: l'invenzione non deve contrastare il buon costume o l'ordine pubblico.   
+
+Sull'industrialità e l'originalità c'era un  vincolo molto più forte in passato (fino a 30, 40 anni fa)
 
 # Parte Metodologica 
 
@@ -362,7 +366,7 @@ Solitamente l'integralità è percepita semplicemente come un vincolo morale ma 
 Jensen ha notato che se i singoli lavoratori di un'organizzazione sono integri l'efficienza è anche il 200% più alta che in organizzazioni in cui non vige l'integrità. 
 
 #### Definizione
-Ma quindi cosa si intende per integrità? Ha a che fare con gli impegni che gli individui prendono con altri individui. Vale a dire impegni presi da x verso y dove y può essere un superiore, un collega, un cliente, un forintore ecc.   
+Ma quindi cosa si intende per integrità? Ha a che fare con gli impegni che gli individui prendono con altri individui. Vale a dire impegni presi da x verso y dove y può essere un superiore, un collega, un cliente, un fornitore ecc.   
 
 Con impegno si intende il vincolo che si prende per fare una determinata cosa entro un determinato tempo – e.g.: “mi impegno a scrivere un rapporto entro giovedì prossimo”.   
 
@@ -380,7 +384,7 @@ Quindi in come si possono trattare le emergenze? Nel caso delle effettive emerge
  - riprogrammare dando una data certa: bisogna essere realistici nella riprogrammazione (è un nuovo impegno) 
 
 #### L'integrità per il singolo
-Il singolo in questo contesto è inteso come qualcuno che, ad esempio non lavora in un gruppo di lavoro o in un azienda e che potrebbe essere un *free lance*. Visto che si lavora da soli e non ci sono superiori si potrebbe pensare che l'integrità sia un vincolo meno stringente. Tuttavia comportarsi in modo integro con chiunque fa sì che ci si costruisca e si mantenga una reputazione con i propri clienti e fornitori. Per un *free-lance* è fondamentale la reputazione, è un vantaggio economico molto forte, in quanto banalmente libero gli altri dall'ansia che il mio compito sia eseguito per la data richiesta. 
+Il singolo in questo contesto è inteso come qualcuno che, ad esempio non lavora in un gruppo di lavoro o in un azienda e che potrebbe essere un *free lance*. Visto che si lavora da soli e non ci sono superiori si potrebbe pensare che l'integrità sia un vincolo meno stringente. Tuttavia comportarsi in modo integro con chiunque fa sì che ci si costruisca e si mantenga una reputazione con i propri clienti e fornitori. Per un *free lance* è fondamentale la reputazione, è un vantaggio economico molto forte, in quanto banalmente libero gli altri dall'ansia che il mio compito sia eseguito per la data richiesta. 
 
 ## Migliorare a pubblicare (lezione 4)
 
