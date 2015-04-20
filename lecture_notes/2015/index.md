@@ -138,14 +138,7 @@ Cosa si può comunicare quindi? Sostanzialmente tutto ciò che si vuole:
     di testimonianze spesso false è endemica, queste prendono il nome di
     “bufale”, una delle dirette conseguenze di ciò è la disinformazione
     che spesso porta al cospirazionismo. Chi propaga una bufala
-    contribuisce al danno originario. 
-
-Riferire in modo accurato la testimonianza di altri è ciò che da
-generazioni fanno i giornalisti di professione. Essi non assistono
-direttamente agli eventi (tranne in rari casi), ma riportano fatti di
-cui sono venuti a conoscenza attraverso diversi canali ed è il loro
-compito (o almeno dovrebbe esserlo) verificare che le informazioni di
-cui entrano in possesso siano corrette ed accurate;
+    contribuisce al danno originario. Riferire in modo accurato la testimonianza di altri è ciò che da generazioni fanno i giornalisti di professione.    Essi non assistono direttamente agli eventi (tranne in rari casi), ma riportano fatti di cui sono venuti a conoscenza attraverso diversi canali ed è il loro compito (o almeno dovrebbe esserlo) verificare che le informazioni di cui entrano in possesso siano corrette ed accurate;
 
 5.  opinioni argomentate: si tratta sostanzialmente di asserire
     qualcosa e argomentarlo ("io penso x perché ho letto questi libri,
