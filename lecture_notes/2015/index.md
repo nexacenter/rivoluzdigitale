@@ -178,14 +178,14 @@ In un dibattito razionale la conoscenza scientifica ha molta importanza.
 Per conoscenza scientifica si intende un insieme di conoscenze
 articolate in teorie caratterizzate da:
 
-1.  1.coerenza logica interna, vale a dire la coerenza logica delle
+1.  coerenza logica interna, vale a dire la coerenza logica delle
     teorie. In sostanza permette un generale accordo tra gli esperti nel
     giudicare la compatibilità di singole proposizioni con la teoria. In
     questo ambito, nel corso, verranno trattate ad esempio le fallacie
     logiche, ossia errori ragionamento che portano alla violazione delle
     regole in un confronto argomentativo corretto; 
 
-2.  2.un rapporto esplicito verificabile con la realtà: cioè oltre ad
+2.  un rapporto esplicito verificabile con la realtà: cioè oltre ad
     essere coerente, la conoscenza scientifica premette anche di predire
     eventi futuri in modo verificabile. Rende le teorie applicabili per
     prevedere fenomeni o progettare tecnologia (“costruisci l’aereo in
@@ -264,9 +264,9 @@ Questa è una lezione importante anche per la democrazia
 
 In conclusione quando comunicate:
 
-1.  1.chiarite la natura della nostra comunicazione; 
+1.  chiarite la natura della nostra comunicazione; 
 
-2.  2.argomentate, spiegate, citate le fonti, dimostrate, misurate per
+2.  argomentate, spiegate, citate le fonti, dimostrate, misurate per
     ricadere nella categoria dell'opinione argomentata. Importante
     evitare l'errore tipico di chi inizia a comunicare in pubblico cioè
     "dire qualcosa per il gusto di dirlo" convincere il lettore a
@@ -290,9 +290,9 @@ fiducia dei colleghi.
 
 domanda: esempio in cui la scienza si è sbagliata?
 
-1- presenza dell’etere
+1. Presenza dell’etere
 
-2- filone scientifico influenzato da eugenetica [integrato negli appunti
+2. Filone scientifico influenzato da eugenetica [integrato negli appunti
 sopra]
 
 domanda: come fidarsi dei giornali?
