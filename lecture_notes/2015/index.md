@@ -343,7 +343,7 @@ Quindi in come si possono trattare le emergenze? Nel caso delle effettive emerge
  - riprogrammare dando una data certa: bisogna essere realistici nella riprogrammazione (è un nuovo impegno) 
 
 #### L'integrità per il singolo
-Il singolo in questo contesto è inteso comq qualcuno che, ad esempio non lavora in un gruppo di lavoro o in un azienda e che potrebbe essere un *free lance*. Visto che si lavora da soli e non ci sono superiori si potrebbe pensare che l'integrità sia un vincolo meno stringente. Tuttavia comportarsi in modo integro con chiunque fa sì che ci si costruisca e si mantenga una reputazione con i propri clienti e fornitori. Per un *free-lance* è fondamentale la reputazione, è un vantaggio economico molto forte, in quanto banalmente libero gli altri dall'ansia che il mio compito sia eseguito per la data richiesta. 
+Il singolo in questo contesto è inteso come qualcuno che, ad esempio non lavora in un gruppo di lavoro o in un azienda e che potrebbe essere un *free lance*. Visto che si lavora da soli e non ci sono superiori si potrebbe pensare che l'integrità sia un vincolo meno stringente. Tuttavia comportarsi in modo integro con chiunque fa sì che ci si costruisca e si mantenga una reputazione con i propri clienti e fornitori. Per un *free-lance* è fondamentale la reputazione, è un vantaggio economico molto forte, in quanto banalmente libero gli altri dall'ansia che il mio compito sia eseguito per la data richiesta. 
 
 ## Migliorare a pubblicare (lezione 4)
 
