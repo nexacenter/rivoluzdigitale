@@ -1,4 +1,4 @@
-**Table of Contents** [agg: 2015-04-20] *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [Parte di contenuti di alto livello](#)
 	- [Introduzione (lezione 1)](#)
@@ -22,6 +22,12 @@
 			- [L'espansione dei brevetti – i brevetti sul software](#)
 			- [Proposte di riforma dei brevetti](#)
 		- [Il diritto d'autore](#)
+			- [Cenni storici](#)
+			- [Descrizione](#)
+				- [Diritto d'autore e brevetto](#)
+				- [Durata](#)
+			- [Rinunciare ai propri diritti](#)
+			- [La SIAE](#)
 - [Parte Metodologica](#)
 	- [Introduzione (lezione 1)](#)
 	- [Iscrizione ai social (lezione 2)](#)
