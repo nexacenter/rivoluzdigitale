@@ -381,7 +381,59 @@ Eventuali proposte di riforma potrebbero essere:
 * minore concessione dei brevetti software; 
 * molti meno *business methods patents*: famosi negli Stati Uniti 20 anni fa. Un esempio è il brevetto di Amazon per l'acquisto in un clic. Non è un algoritmo; Amazon aveva semplicemente inventato un bottone associato a un business method. In questo ambito possono anche essere brevettati modelli assicurativi ecc. Uno dei problemi di questo approccio tuttavia è che vengono tanti piccoli monopoli.
 
-### Il diritto d'autore
+###Il diritto d'autore 
+Il diritto d'autore è un argomento molto ampio trattato in svariati corsi, l'obiettivo di questo corso è giusto quello di catturarne l'essenza Ha molti aspetti ortogonali al brevetto. Storicamente si inizia a parlare del diritto d'autore (è un monopolio istituito dallo stato che da dei diritti a qualcuno) con l'invenzione del torchi da stampa a caratteri mobili che furono messi insieme da Gutenberg.
+Con la tecnica a torchio la velocità di stampa (prima i libri venivano copiati a mano) aumenta di 2 ordini di grandezza (x100). L'invenzione della stampa rende molto più facile duplicare libri. 
+
+####Cenni storici
+All'inizio del 1400 i libri erano pochi, l'università di Cambridge, ad esempio, ne aveva giusto poche centinaia. 
+Erano generalmente molto costosi e diversi di questi valevano una vigna. Le grandi biblioteche medievali sono arrivate ad averne circa 800, 900. Chi voleva una copia di questi libri doveva scriversela manualmente, o se la faceva scrivere da qualcuno (sotto compenso economico). Boccaccio, che non possedeva grandi risorse, se li scrisse da solo e riuscì a raccogliere 10 libri nella sua biblioteca. Petrarca che era più ricco riuscì ad averne 40 grazie a  uno scribo che li scrisse per lui. 
+
+Alla fine del 1400, grazie all'invenzione di Gutenberg, Venezia diventa la capitale dello stampaggio e vengono stampati milioni di libri (per capire l'entità di questa invenzione basti pensare che in tutta l'Europa i libri erano solo qualche decina di migliaia). Grazie a questa nuova invenzione vengono attratti capitali e si crea un mercato della stampa, quando giusto qualche decennio prima la copia dei libri era un attività religiosa, puramente culturale e non economica. 
+
+A causa della creazione di questo mercato e degli investimenti ingenti ci si incomincia a porre l'idea su come tutelare l'investimento degli editori. La prima forma di tutela nasce nel vocabolario inglese con i termine *copyright* (il diritto di fare copie) con cui si vuole controllare che chi non ne ha i diritti non possa stampare copie di un determinato manoscritto. Gli editori comunque spesso risolvevano questa situazione in maniera corporativa (con corporazioni chiamate *Stationers*): all'interno delle corporazioni si sapeva chi era il titolare dell'opera e chi poteva stamparla, all'interno della corporazione ci si controllava a vicenda. L'editore che stampava un opera senza averne diritto già allora veniva chiamato "pirata" già nel 600 (non è un termine inventato ai giorni nostri). 
+
+Con l'illuminismo, nel 700,  viene data maggior importanza all'individuo e alla conoscenza, si tende ad avere una visione più utilitarista: concedere più diritti a chi crea l'opera è utile per la società, perché causa la produzione di più opere. Dall'altra parte ci sono posizioni filosofiche e giuridiche che affermano che il diritto d'autore è un diritto umano fondamentale. 
+
+La motivazione iniziale del diritto di copia che era  volta a tutelare gli editori si trasla nel 700 a una tutela dei diritti dell'autore dell'opera. Nel mondo anglosassone e in particolare nella costituzione americana è riflessa l'impronta utilitaristica: il congresso può fare delle leggi per promuovere l'arte e le scienze (quindi nell'ambito dei diritti d'autore e dei brevbetti). Invece in Europa a partire dalla Francia ci sono dibattiti dove si contrappongono posizioni differenti sui diritti d'autore fino ad arrivare alla prima legge sul diritto d'autore promulgata dalla Repubblica Francese subito dopo la Rivoluzione. Da questa impostazione francese discende l'impostazione basata sul diritto d'autore, mentre in Inghilterra e negli Stati Uniti rimane l'impostazione chiamata copyright, basata sull'utilità della tutela dell'autore. 
+
+####Descrizione
+Il diritto d'autore tutela l'espressione (mentre il brevetto tutela l'idea), l'idea non viene tutelata, ma solo la forma espressiva, ad esempio viene tutelata l'esatta sequenza di parole o l'esatta sequenza di note in un brano. Gli articoli scritti in un blog ricadono sotto il diritto d'autore.
+
+#####Diritto d'autore e brevetto
+Il diritto d'autore si può confrontare con il brevetto secondo questi aspetti:
+* Tutela della forma espressiva: in questo ambito il diritto d'autore è esattamente il complementare al brevetto. Possono esserci diversi romanzi con la stessa trama e ciascuno ha la tutela del diritto d'autore. Tuttavia non viene tutelata qualsiasi forma espressiva, deve esserci una minima soglia di originalità.
+* Formalità:  al contrario del brevetto per il diritto d'autore non ci sono formalità per far valere il diritto dell'autore (scelta adottata alla fine dell' 800). Non bisogna fare nulla per registrare l'opera: nel momento in cui si finisce di comporre l'opera il diritto d'autore si materializza automaticamente.
+Non è sempre stato così, una volta anche per il diritto d'autore c'erano delle formalità, ma poi sono state tolte. Con un registro sarebbe molto più semplice tracciare eredi e a chi spettano determinati diritti. Tuttavia è stato tolto a fine 800 per facilitare gli autori e tutelarli maggiormente. Molti autori, a causa di carenza di risorse o anche solo per mancanza di voglia non registravano le loro opere, esse entravano nel pubblico dominio e tutti tranne gli autori riuscivano a lucrarci sopra. 
+* Monopolio temporaneo: la legge concede un monopolio temporaneo esattamente come nel brevetto,  in questo caso il monopolio permette controllare quasi tutti gli usi dell'opera. Bisogna chiedere il permesso di far uso dell'opera per quasi tutti gli usi tranne che per: 1- Uso personale: se si acquista un libro si può fare con l'oggetto fisico ciò che si vuole, ma non con il contenuto (per certi supporti CD/DVD c'è il divieto di noleggio) 2- Riproduzione: il 15% dell'opera è riproducibile (fotocopia), oppure 100% se copiato a mano 3- Diritto di critica all'opera 4- Diritto di cronaca 5- Diritto di satira: è concesso fare la parodia di un'opera a fini di discussione 6- didattica ecc.
+Ci sono inoltre altre eccezioni tipo per bande musicali, per carceri ecc. 
+
+Per le opere derivate invece c'è bisogno del permesso esplicito dell'autore, ad esempio le traduzioni sono un'opera derivata, cioè un opera nuova basata su un'opera di partenza. La parodia è un eccezione, anch'essa è anche un opera derivata ma  ha uno scopo civile. 
+Per usare l'opera al di fuori dei casi specificasi sopra bisogna chiedere il permesso all'autore, o meglio, al detentore dei diritti. Il detentore dei diritti spesso non è l'autore che cede tutti i diritti all'editore (as esempio alla casa discografica). 
+
+#####Durata
+La durata del monopolio temporaneo, in Italia e in molti paesi,  è di 70 anni dopo la morte dell'autore (non del detentore dei diritti). È storicamente la più lunga in assoluto, il *copyright* all'inizio durava per 14 anni dalla data di pubblicazione (dopo entrava nel pubblico dominio), più altri 14 se rinnovato, per un totale di 28 anni. Il diritto veniva garantito solo se si registrava l'opera, tant'è che il 70%-80% delle opere erano subito di pubblico dominio. 
+
+Molto rapidamente la durata del monopolio è passata fino alla morte dell'autore. Ciò accadde molto rapidamente a causa dell'interesse concentrato dei detentori dei diritti (es: case editrici), mentre dall'altra parte c'era un interesse diffuso (dal lato degli acquirenti).
+Ciò non vuol dire che con un opera di pubblico dominio non sia possibile fare soldi, tant'è che vengono tutt'oggi vendute a soli pochi euro in meno rispetto alle opere protette. Inoltre, per le opere di pubblico dominio chiunque abbia un idea può rappresentare l'opera come vuole, creando una maggiore ricchezza culturale. 
+Nonostante questo *tradeoff* vantaggioso a favore delle opere di pubblico dominio, ha vinto l'interesse concentrato (volto a far durare il copyright il più a lungo possibile) contro l' interesse diffuso (a favore delle opere a pubblico dominio) come sempre nella storia. 
+
+La visione utilitarista volta a incentivare gli autori a creare le opere dovrebbe cessare con la morte dell'autore stesso. Ad autore morto l'incentivo non funziona più,  tuttavia ciò è stato concesso per beneficiare gli eredi di un determinato erede. Questa spinta ad allungare il diritto d'autore non si ferma, a danno del pubblico dominio. 
+
+Sono stati effettuati degli studi sulla lunghezza ottimale del diritto d'autore.  Le analisi economiche indicano che una tutela di pochi anni coprirebbe circa il 90% dei ritorni economici per autori ed editori comparato alla vita dell'autore + 70 anni.
+
+####Rinunciare ai propri diritti
+Se non si indica nulla sulla tutela dell'autore di una determinata opera si hanno tutti i diritti riservati, "l'opera è totalmente riservata". 
+
+<center>*Se l'autore non scrive nulla si deve presumere che tutti i diritti siano riservati.*</center> 
+
+In questo corso si incoraggia a usare la licenza Creative Commons per i brevi post sul proprio Blog. Sostanzialmente si concede ex-ante a fare determinati usi a terze persone, rinunciando ad alcuni propri diritti, secondo sei licenze standard chiamate licenze Creative Commons. E' una gentile concessione che autorizza determinate cose, si può autorizzare qualsiasi tipo di uso (rendendo l'opera di pubblico dominio) oppure si possono porre dei limiti. Uno dei vincoli della licenza è non autorizzare l'uso commerciale (a priori, tuttavia si può sempre chiedere all'autore), oppure si può anche non autorizzare la creazione di opere derivate. 
+Le licenze CC sono un modo per "spogliarsi" dei diritti che vengono dati per legge. 
+
+####La SIAE
+la SIAE è un ente di gestione collettiva - il diritto d'autore è concesso dallo stato (legge 1941). La SIAE svolge dei servizi: a chi ha un diritto d'autore offre il servizio di "registrare" l'opera, in parole povere certifica che un certo pacco è stato dato a un certo giorno e una cera ora. 
+
+La SIAE è nata nel 800 dal bisogno degli autori di difendere i propri interessi sul territorio. In pratica sono degli agenti che vanno in giro ce chiedono *royalties* se un pezzo viene eseguito. In Italia è un monopolio, negli Stati Uniti sono agenzie in concorrenza.
 
 
 # Parte Metodologica 
