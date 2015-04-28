@@ -681,8 +681,8 @@ cognome@...). Tutto questo si puo’ fare inviando delle email a rd-
 request@server-nexa.polito.it ossia al software che
  gestisce la lista oppure usando l’interfaccia web (https:
 //server-nexa.polito.it/cgi-bin/mailman/listinfo/rd), precisamente scrivere una mail con oggetto “Mailman request” e corpo:
-* Per cancellarsi: unsubsrcibe + <password>
-* Per iscriversi: subscribe+<password>
+* Per cancellarsi: unsubsrcibe + *password*
+* Per iscriversi: subscribe+ *password*
 
 Per approfondire l'argomento fare riferimento alla sezione 3.2 del manuale di mailman (il software usato per gestire la lista) e la FAQ 1.1 descrive ciò che è stato spiegato ora.
 Le FAQ sono disponbili su Github e migliorabili da chiunque voglia contribuire.
