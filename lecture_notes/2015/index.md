@@ -1,5 +1,4 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
-
 - [Parte di contenuti di alto livello](#)
 	- [Introduzione (lezione 1)](#)
 	- [Preparazione per il corso (lezione 2)](#)
@@ -583,9 +582,8 @@ Rispondere a una mail (ad esempio usando il pulsante rispondi di un client mail)
 
 Nei client mail, ad esempio in Thunderbird, l'indentatura viene visualizzata in modo *fancy*. Tuttavia nella mailing list l'indentatura è rappresentata con un > se si parla di un messaggio precedente, con  >> se si tratta di due messaggi precedenti e via dicendo.
 
-
-####Scrivere 
-Per scrivere sulla mailing list bisgona inannzitutto guardare i campi a cui bisogna prestare attenzione anche per mandare una mail ad un singolo destinatrario, quindi:
+#### Scrivere 
+Per scrivere sulla mailing list bisogna innanzitutto guardare i campi a cui bisogna prestare attenzione anche per mandare una mail ad un singolo destinatario, quindi:
 * assicurarsi che mittente e il destinatario siano giusti
 * assicurarsi di aver scritto un OGGETTO e che esso sia chiaro e significativo. 
 
@@ -597,8 +595,87 @@ Per scrivere il corpo della mail:
 
 Non è immediato comunicare in questo modo e non è per forza l'unico modo corretto, bisogna provare senza avere paura di sbagliare 
 
-#### rispondere
-### Netiquette
-### Argomenti
-### Mailing list in pratica
+#### Rispondere 
+C'è un legame stretto tra il metodo in cui si risponde e il thread di un certo argomento, per non creare problemi con l'organizzazione dei messaggi bisogna seguire due semplici consigli:
+1. se si vuole rispondere a un messaggio, bisogna selezionarlo e cliccare su “Rispondi a”;
+2. se si vuole scrivere un nuovo messaggio bisogna cliccare su “scrivi nuovo”.
 
+#### Rispondere sopra o sotto il testo citato. 
+Si può decidere di rispondere sopra ciò a cui si sta rispondendo. Se si risponde sopra si sta usando il *top posting*, se si risponde sotto il *bottom posting*, inoltre si può rispondere tra le linee. 
+
+Il metodo più usato è il *top posting* perché più comodo e immediato. Tuttavia se si risponder, si vede prima ciò che è stato scritto prima e si ha una certa coerrenza cronologica.
+Rispondere tra le linee è molto utile per rispondere a richieste puntuali ed è utile e veloce se è necessario rispondere a tanti punti, tuttavia è un metodo aggressivo poichè spezza il messaggio di un altro. 
+
+Una buona regola generale è quella di seguire lo stile che tutti usano su una mailing list e rimanere fedeli a quel metodo.
+
+##### Buone pratiche
+Alcune buone pratiche quando si risponde riguardano:
+* l'oggetto: Thunderbird si può impostare su visualizzazione ad albero per i thread delle email. Fare in modo che questa visualizzazione sia coerente con la risposta che stiamo mandando (quindi rispondere alla mail giusta).
+* leggibilità: fare in modo che tutti, macchine e umani, riescano a leggere bene la mail e l'oggetto, adottare un comportamento che crea meno problemi possibili di interpretazione (principio di Netiquette spiegato nei prossimi paragrafi).
+* scrivere risposte in disaccordo: fare gentilmente e tenere conto che dall'altra parte c'è una persona 
+* usare la mailing list: la mailing list esiste per parlare, il primo obiettivo è quindi parlare, è molto facile sbagliare all'inizio ma lo sbaglio più grande è quello di non interagire. L'importante alla fine è iniziare a comunicare
+* seguire lo stile di risposta del thread e della mailing list (usare *top posting* se tutti stanno usando il top-posting e viceversa, vedi paragrafo precedente).
+
+### La Netiquette 
+la Netiquette (=Net etiquette) non è una regola ma è una norma, un'aspettativa di comportamento particolarmente utile quando si usano mailing list e i messaggi non sono privati.
+
+#### Argomenti – ovvero on topic e off topic
+La lista del corso nasce per parlare di alcuni
+ specifici argomenti:
+tutti gli argomenti legati al tema del corso
+ esempio: segnalare articoli legati alla rivoluzione
+ digitale e discuterne assieme
+tutti gli argomenti legati alla gestione dei blog
+ esempio: chiedere aiuto perché non riuscite a
+ fare una cosa specifica con Tumblr
+domande legate al corso di interesse generale
+Se si utilizza la lista per qualsiasi altra cosa, ad esempio per promuovere i propri blog post o parlare di calcio, si va fuori tema (**off topic**). In generale andare fuori tema può far arrabbiare alcune persone che seguono la lista che vengono assillati da mail che non sono in linea con gli argomenti che vorrebbero seguire.
+
+#### Scegliere bene l'oggetto delle mail
+La lista non è solo utile per chi la sta usando ora: siccome c'è un archivio i messaggi saranno anche utili a chi userà la mailing list in futuro. Se non si sceglie bene l'oggetto, chi verrà dopo non troverà i messaggi archiviati male a causa di un oggetto non appropriato. 
+
+Inoltre spesso i destinatari di una mailing list decidono di leggere una discussione solo leggendo l'oggetto della mail, deve essere quindi preciso e conciso.
+
+#### Chiedere aiuto
+la mailing list serve per chiedere aiuto, tuttavia anche in questo caso è bene seguire alcune norme di comportamento:
+1. cercare nei vecchi messaggi (e dimostrarlo) risposte già date per risolvere lo stesso problema;
+2. essere circostanziati e includere tutte le informazioni rilevanti;
+3. avere pazienza per almeno un giorno prima di sollecitare nuovamente.
+
+#### Educazione e rispetto
+Un altro aspetto importante da tener presente è l'educazione, in particolare:
+1. rispettare le opinioni degli altri ed essere gentili. Non rispettare le opinioni e la mancanza di gentilezza porta alle cosiddette *flame war*, nonostante volte a guerra di idee sia bella da vedere, se ce n'è troppa la gente si cancella dalle mailing list.
+2. rispettare gli altri (si discutono idee e non le persone)
+3. Non scrivere tutto in maiuscolo MAIUSCOLO, infastidisce ed equivale ad urlare.
+4. Non tutti leggono le email in html, quindi è solitamente meglio usare solo testo (è una regola di buon senso per una lista, quando si interagisce con le persone per lavoro a volte è necessario usare l'html per grassetti e simili) 
+
+### Aspetti pratici della mailing list di Rivoluzione Digitale 
+La domanda più frequente che viene posta, è: non riesco a postare sulla mailing list come mai? 
+La risposta è presente nelle FAQ (Frequently Asked Questions) del corso, tuttavia è un problema che sorge a causa degli alias degli indirizzi email assegnati dal sistema di gestione email del Politecnico di Torino.
+
+Ogni studente ha a disposizione un indirizzo email che è raggiungibile attraverso due indirizzi: 
+1. s<matricola>@studenti.polito.it
+2. nome.cognome@studenti.polito.it
+Tuttavia il resto del mondo non sa che i due indirizzi email portano alla stessa casella email e neanche il server mailing list di Rivoluzione Digitale lo sa. Quindi è meglio iscriversi con l'indirizzo email che si usa per mandare le mail per non farsi rimbalzare le mail dal server.
+
+Nel caso ci si sia iscritti come s<matricola>, ci si può cancellare e reiscirvere come nome.cognome 
+
+####Iscrizione cancellazione e informazioni pratiche
+
+Per capire con **quale indirizzo email** si è iscritti alla mailing list mandare una email a questo indirizzo rd:  request@server-nexa.polito.it scrivendo “password” nel
+ testo della mail (rd-request@... e non rd@...). Questa operazione permette di parlare direttamente col software
+ che gestisce la mailing list
+ se si è iscritti alla lista vi viene ritornata la propria password, altrimenti viene ritornato un errore.
+
+Se si vuole cambiare l’indirizzo email con cui ci si è iscritti,
+ ci si può dis-iscrivere l’indirizzo vecchio dalla lista
+ (s12345@...) e poi re-iscrivere l’indirizzo nuovo (nome.
+cognome@...). Tutto questo si puo’ fare inviando delle email a rd-
+request@server-nexa.polito.it ossia al software che
+ gestisce la lista oppure usando l’interfaccia web (https:
+//server-nexa.polito.it/cgi-bin/mailman/listinfo/rd), precisamente scrivere una mail con oggetto “Mailman request” e corpo:
+* Per cancellarsi: unsubsrcibe + <password>
+* Per iscriversi: subscribe+<password>
+
+Per approfondire l'argomento fare riferimento alla sezione 3.2 del manuale di mailman (il software usato per gestire la lista) e la FAQ 1.1 descrive ciò che è stato spiegato ora.
+Le FAQ sono disponbili su Github e migliorabili da chiunque voglia contribuire.
