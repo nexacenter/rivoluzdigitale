@@ -584,14 +584,16 @@ Rispondere a una mail (ad esempio usando il pulsante rispondi di un client mail)
 Nei client mail, ad esempio in Thunderbird, l'indentatura viene visualizzata in modo *fancy*. Tuttavia nella mailing list l'indentatura è rappresentata con un > se si parla di un messaggio precedente, con  >> se si tratta di due messaggi precedenti e via dicendo.
 
 
-#### Scrivere 
-scrivere in mailing list: mittente giusto, destinatario giusto, OGGETTO molto importante. 
+####Scrivere 
+Per scrivere sulla mailing list bisgona inannzitutto guardare i campi a cui bisogna prestare attenzione anche per mandare una mail ad un singolo destinatrario, quindi:
+* assicurarsi che mittente e il destinatario siano giusti
+* assicurarsi di aver scritto un OGGETTO e che esso sia chiaro e significativo. 
 
-Forme di cortesia: all inizio della mail inserire “cari tutti” e simili, alla fine “grazie” o altre forme di cortesia.
-
-- subject chiaro e preciso 
-- suddivisione in paragrafi corti dell'email (righe bianche tra un paragrafo e l'altro) 
-- segnalare cosa si sa su un certo argomento "mi sembra accurato" ma non ho verificato...dichiarare di cosa si sta parlando 
+Per scrivere il corpo della mail:
+* ricordarsi di inserire alcune forme di cortesia all'inizio della mail (e.g., “cari tutti” e simili) e alla fine (e.g., “grazie” o altre forme di cortesia);
+* suddividere il testo in paragrafi corti, usando righe bianche tra un paragrafo e l'altro;
+* segnalare cosa si sa su un certo argomento o una fonte allegata "mi sembra accurato, ma non ho verificato”;
+* dichiarare di cosa si sta parlando.
 
 Non è immediato comunicare in questo modo e non è per forza l'unico modo corretto, bisogna provare senza avere paura di sbagliare 
 
