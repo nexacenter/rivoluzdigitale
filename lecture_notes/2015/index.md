@@ -520,7 +520,7 @@ In sostanza su internet possiamo fare quello che vogliamo, e sia la Costituzione
 
 Tuttavia ci sono dei casi in cui le nostre parole possono arrecare danno a una terza persona, tra cui l'ingiuria e la diffamazione che rientrano tra i reati di parola.
 
-####differenza tra ingiuria e diffamazione
+####Ingiuria e diffamazione (differenze)
 Ogni reato ha un bene giuridico di fondo (ad esempio violenza sessuale ha come bene giuridico la persona). Sia l'ingiuria che la diffamazione hanno lo stesso cioè l'onore e la reputazione, vale a dire la nostra identità.
 
 **L'ingiuria** è l'offesa diretta a una persona presente che può anche essere fatta mediante comunicazione telegrafica e telefonica, formalmente compie un reato di ingiuria: “Chiunque offende l'onore o il decoro di
@@ -536,6 +536,90 @@ Le pene sono aumentate qualora l'offesa sia commessa in presenza di più persone
 
 Data la rigidità del diritto penale, visto che la mail non è compresa nelle fattispecie di comunicazione telegrafica e telefonica ci sono dei dubbi che l'ingiuria possa essere commessa tramite posta elettronica.
 Inoltre come citato sopra, ci sono poi delle aggravanti se l'ingiuria è compiuta in presenza di più persone.
+
+**La diffamazione** il reato si compie quando parlando con più persone si offende un terzo non presente. In questo caso ci si rivolge a più persone, senza insultare direttamente il terzo, ma spargendo una maledicenza. La stessa cosa detta a una sola persona non fa sussistere, si incorre nella diffamazione se si sta comunicando con 2 o più persone. Inoltre, se l'offesa consiste nell'attribuzione a un fatto determinato la pena è fino a due anni (anzichè un anno e mezzo), se è fatta mezzo stampa il fatto è ancora più grave e la pena è fino a tre anni, formalmente:
+“Chiunque comunicando con più persone offende
+ l'altrui reputazione, è punito fino a un anno o
+ con la multa... Se l'offesa consiste nell'attribuzione di un fatto
+determinato, la pena è della reclusione fino a
+ due anni, ovvero della multa...Se l'offesa è recata col mezzo della stampa o
+ con qualsiasi altro mezzo di pubblicità la pena è
+ della reclusione da sei mesi a tre anni o della multa...”
+
+Inoltre citando il Prof Antolisei: "Non si può dire ladro non ladro", cioè, “Il colpevole dei delitti preveduti dai due
+ articoli precedenti [sulla diffamazione e sull'ingiuria] non è ammesso a
+ provare, a sua discolpa, la verità o la
+ notorietà del fatto attribuito alla persona 
+offesa”
+
+In sostanza non si può dimostrare che era vero ciò che si stava dicendo commettendo ingiuria o diffamazione anche se effettivamente le affermazioni era novere. Se una affermazione è diffamatoria lo è e basta.
+Tuttavia non si commette reato se quando si scrive/esprime su una qualsiasi cosa si sta esercitando un proprio diritto.
+Se si affermano cose che danneggiano un terzo esercitando un proprio diritto (ad esempio il diritto di cronaca o di satira) non si è punibili. 
+Secondo il Codice Penale, Articolo 51, Libro I “Dei reati in Generale”, l'esercizio di un diritto esclude la punibilità (siamo quindi dentro un loop?).
+
+####Diritto di cronaca, di critica e di satira
+Tutti noi abbiamo dal post-fascismo un diritto di critica di cronaca, di critica e di satira.
+
+La giurisprudenza di fronte al loop di prima, in cui si ha il diritto di esprimersi liberamente che esclude la punibilità di un reato ai danni di terzi, si risolve con 3 principi accompagnati da delle domande per verificare che si soddsfino:
+*verità: si può dire che sia oggettivamente falso ciò che si sta dicendo? 
+*pubblico interesse (pertinenza): ciò che si afferma interessa a qualcuno? È fatto per danneggiare, o perchè si pensa che sia utile a qualcuno? Anche qui vale il principio “neminem ledere”, se si riporta un fatto senza l'intenzione di procurare danno si soddisfa il criterio.
+*continenza : ciò che si comunica è gratuitamente offensivo? E' scritto in  un modo argomentato?
+
+Se ciò che si vuole comunicare rispetta questi tre principi non ci sono problemi, in generale si può quindi dire tutto ciò che si vuole.
+
+####Il reato di apologia
+Per il reato di apologia, non è reato la parola in se, ma è reato se ciò si dice può diventare in concreto un danno per la sicurezza pubblica. I reati di **istigazione all'odio razziale** si concretizzano con parole parole che in concreto generino una reazione violenta.
+
+L'*hate speech* rientra in questo ambito. Ciò che cambia in Internet rispetto ai tradizionali mezzi di comunicazione è il contesto, oggi si sentono cose che prima di internet non era possibile sentire, tuttavia l'approccio della giurisprudenza rimane lo stesso.
+
+Un esempio considerato come *hate speech* è stata la canzone “Ammazza il boero” (“Shoot the boer”) durante momento di forte tensione razziale in Sudafrica. Fu ritenuto tale data la tensione, e data la fama dell'artista che era molto seguito dalla massa dei neri, come conseguenza la canzone è stata considerata illegale e bloccata.
+Lo stesso discorso vale per ciò che successe in Ruanda, un dj è stato riconosciuto come uno dei responsabili del massacro del Rwanda (tra Hutu e Tutsi), fece hate speech in un contesto di forte tensione e scatenò il massacro.
+
+Gli insulti su Facebook non sono hate speech ma solo maleducazione, in quanto difficilmente posso diventare un danno per la sicurezza pubblica.
+
+####Una regola generale
+Quando si scrive su qualcosa/qualcuno bisogna verificare se il contenuto danneggi qualcuno, in caso di risposta sia affermativa è necessario analizzare che i criteri di verità, pubblico interesse e continenza siano rispettati. Nel caso siano rispettati tutti e tre non si incorre in nessun guaio legale.
+
+###Riservatezza, protezione dei dati personali e copyright
+
+La privacy o meglio protezione dei dati personali e copyright regolano la materia prima della nuova economia.
+La definizione di dato informatico secondo la Decisione 2005/222/GAI è: 
+"Qualsiasi
+ rappresentazione di
+ fatti, informazioni o concetti in una forma che può essere
+ trattata da un sistema di
+ informazione...”
+È considerato dato personale qualsiasi informazione relativa ad una persona identificata o identificabile (art. 4, co.1, lett. b), codice privacy).
+
+Buona parte dell'economia americana su internet si regge sui dati, e agli Stati Uniti non va troppo bene che la legge sulla privacy europea non venga applicata. Scontro politico e economico in atto che blocca lo sviluppo di una norma nuova su protezione dei dati (quella di ora risale al 1995) - non a tutti va bene sta roba.
+
+La Carta dei diritti fondamentali dell'UE nell'art. 8 è la prima al mondo 
+che definisce il diritto alla protezione dei dati nel 2000. 
+Articolo 8 - protezione dei dati di carattere personale: “Ogni individuo ha diritto alla protezione dei dati di carattere personale che lo riguardano.”
+
+####Protezione dei dati e riservatezza
+La protezione dei dati non è riservatezza. Se si mettono i propri dati su Facebook non si rinuncio alla protezione dei dati (ma soltanto alla riservatezza).
+Il problema della riservatezza nasce negli Stati Uniti dalle macchine fotografiche rubate a fine 800 come *right to be alone*. Il diritto alla riservatezza
+ è la pretesa di mantenere
+ all'interno della sfera
+ privata le informazioni personali.
+
+La protezione dei dati invece è la protezione di sè nel contesto sociale. Descrive il complesso di
+ personalità che differenzia un uomo da tutti gli altri (come si è e come si vuole apparire). E' più un diritto all'identità, poter controllare il dato affinché sia percepito per come lo si vuole. Il diritto all'identità è la
+pretesa a non veder alterato il
+ proprio patrimonio personale.
+
+Quindi, in sostanza:
+* il diritto alla riservatezza mira a  proteggere la segretezza delle informazioni affinché la vita privata
+ dell'individuo sia sottratta all'ingerenza di terzi;
+* il diritto all'identità presuppone invece che le informazioni siano state rese pubbliche e tutela la fedele
+rappresentazione della personalità di un individuo presso i terzi. Il diritto all'identità comincia laddove finisce il diritto alla riservatezza.
+
+Nei social network quindi non ha senso di parlare di privacy e riservatezza, ma piuttosto di protezione dei dati.
+
+####Il trattamento dei dati personali
+Quando i propri dati personali vengono sottratti e usati per un fine diverso da quello che si era inteso per un determinato dato si parla di diritto ala protezione dei dati.
+Il trattamento illecito dei dati personali è la violazione della “identità informazionale” delle persone, identità che è assurta a diritto nuovo nell’art. 8 della Carta UE..
 
 
 # Parte Metodologica 
