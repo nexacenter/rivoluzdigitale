@@ -447,6 +447,91 @@ la SIAE è un ente di gestione collettiva - il diritto d'autore è concesso dall
 
 La SIAE è nata nel 800 dal bisogno degli autori di difendere i propri interessi sul territorio. In pratica sono degli agenti che vanno in giro ce chiedono *royalties* se un pezzo viene eseguito. In Italia è un monopolio, negli Stati Uniti sono agenzie in concorrenza.
 
+## La legge nella rete (lezione 5 – ospite: Avv. Carlo Blengino -penalista)
+
+Per essere cittadino digitale completo e per eseguire la parte online del corso in maniera consapevole è necessario possedere una conoscenza minima dell'ambiente giuridico in cui si opera.
+L'informatica giuridica è un argomento molto ampio, qui vengono forniti dei concetti di base. L'obiettivo di questa parte non è spaventare, ma è essere consapevoli del perimetro tracciato dalla legge ed essere sicuri delle cose che nel modo giusto si possono fare.
+
+
+### Caso di studio
+Ho litigato con la mia fidanzata e
+ decido di lasciarla con un messaggio su WhatsApp al quale
+ aggiungo qualche frase con proposte oscene e volgari. Per sbaglio lo mando alla madre della ragazza che lo posta su fb.
+Cosa mi può succedere?
+
+### Il computer crime (o cybercrime)
+la vulgata, svariate uscite di personaggi importanti assimilano la rete:
+*all'anarchia; 
+*al far west;
+*a una sconfinata prateria senza regole.
+
+Tant'è che nel 2013 il garante privacy dice "internet è un mondo senza regole, le vittime possono diventare carnefici".
+
+Computer crime sappiamo già cos'è, ecco alcuni esempi:
+* cyberbullismo
+* furti di identità
+* minacce
+* violazioni di copyright
+* spam
+* terrorismo
+* phishing
+* diffamazioni
+* frodi informatiche
+* cyber stalking
+
+Tuttavia quasi tutti questi reati hanno un omologo nella vita reale ed esistevano già prima che internet prendesse forma.
+
+Nel 2013 viene data la definizione di computer cryme (o crimine informatico)cioè:
+*qualsivoglia fattispecie criminosa che
+ abbia un sistema informatico quale
+ oggetto della condotta o quale mezzo per
+ la sua consumazione.*
+
+Oggi il cybercrime più comune è il furto di computer oppure la diffamazione, tuttavia questi sono normalissimi reati codificati dal 1931 almeno e quindi la definizione di prima perde di significato.
+
+Le differenze con i reati “classici” ci sono, ma sono quantitative e accidentali, **ciò che illecito online è illecito offline**. La motivazione di base di questa affermazione è non c'è più la vita online e la vita offline (come all'inizio degli anni 2000), ora non sappiamo quando siamo connessi e quando no,se non ce ne curiamo, di base siamo connessi 24h/24 o perlomeno il nostro dispositivo mobile lo è, secondo una recente definizione siamo *onlife*
+
+Il principio basico da tenere a mente quando ci si interroga se è stato (o si sta per) commettere un crimine è:
+**NEMINEM LAEDERE**, cioè le nostre azioni non devono fare male (ledere) a nessuno
+### Libertà di espressione e reati di parola
+Con reati di parola si intendono:
+* i reati di opinione;
+* la diffamazione
+* l'ingiuria
+* l'hatespeech
+
+La libertà di espressione è intesa secondo la nostra Costituzione (art. 21) come
+*Tutti hanno diritto di manifestare
+ liberamente il proprio pensiero con la parola,
+lo scritto e ogni altro mezzo di diffusione.*
+
+O, con una definizione più aggiornata, dall'articolo della Carta dei diritti fondamentali dell'UE:
+*Ogni individuo ha diritto alla libertà di
+ espressione. Tale diritto include la libertà di
+ opinione e la libertà di ricevere o di comunicare informazioni o idee senza che vi possa essere
+ ingerenza da parte delle autorità pubbliche e senza limiti di frontiera.*
+
+In sostanza su internet possiamo fare quello che vogliamo, e sia la Costituzione italiana sia la Carta dei dir.fond.UE affermano che si può dire ciò che che si vuole. Ogni individuo ha diritto alla libertà espressione.
+
+Tuttavia ci sono dei casi in cui le nostre parole possono arrecare danno a una terza persona, tra cui l'ingiuria e la diffamazione che rientrano tra i reati di parola.
+
+####differenza tra ingiuria e diffamazione
+Ogni reato ha un bene giuridico di fondo (ad esempio violenza sessuale ha come bene giuridico la persona). Sia l'ingiuria che la diffamazione hanno lo stesso cioè l'onore e la reputazione, vale a dire la nostra identità.
+
+**L'ingiuria** è l'offesa diretta a una persona presente che può anche essere fatta mediante comunicazione telegrafica e telefonica, formalmente compie un reato di ingiuria: “Chiunque offende l'onore o il decoro di
+ una persona presente è punito con la
+ reclusione fino a sei mesi o con la multa...
+Alla stessa pena soggiace chi commette il
+ fatto mediante comunicazione telegrafica
+ o telefonica, o con scritti o disegni, diretti
+ alla persona offesa. La pena è della reclusione fino a un anno
+o della multa , se l'offesa consiste
+ nell'attribuzione di un fatto determinato.
+Le pene sono aumentate qualora l'offesa sia commessa in presenza di più persone.
+
+Data la rigidità del diritto penale, visto che la mail non è compresa nelle fattispecie di comunicazione telegrafica e telefonica ci sono dei dubbi che l'ingiuria possa essere commessa tramite posta elettronica.
+Inoltre come citato sopra, ci sono poi delle aggravanti se l'ingiuria è compiuta in presenza di più persone.
+
 
 # Parte Metodologica 
 
