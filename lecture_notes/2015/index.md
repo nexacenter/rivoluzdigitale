@@ -32,7 +32,13 @@
 		- [Caso di studio](#)
 		- [Il computer crime (o cybercrime)](#)
 		- [Libertà di espressione e reati di parola](#)
-			- [differenza tra ingiuria e diffamazione](#)
+			- [Ingiuria e diffamazione (differenze)](#)
+			- [Diritto di cronaca, di critica e di satira](#)
+			- [Il reato di apologia](#)
+			- [Una regola generale](#)
+		- [Riservatezza, protezione dei dati personali e copyright](#)
+			- [Protezione dei dati e riservatezza](#)
+			- [Il trattamento dei dati personali](#)
 - [Parte Metodologica](#)
 	- [Introduzione (lezione 1)](#)
 	- [Iscrizione ai social (lezione 2)](#)
@@ -61,6 +67,7 @@
 			- [Educazione e rispetto](#)
 		- [Aspetti pratici della mailing list di Rivoluzione Digitale](#)
 			- [Iscrizione cancellazione e informazioni pratiche](#)
+			
 
 # Parte di contenuti di alto livello 
 
