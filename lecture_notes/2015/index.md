@@ -56,6 +56,7 @@
 			- [Educazione e rispetto](#)
 		- [Aspetti pratici della mailing list di Rivoluzione Digitale](#)
 			- [Iscrizione cancellazione e informazioni pratiche](#)
+
 # Parte di contenuti di alto livello 
 
 ## Introduzione (lezione 1)
