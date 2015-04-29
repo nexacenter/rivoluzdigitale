@@ -680,10 +680,20 @@ Il trattamento illecito dei dati personali è la violazione della “identità i
 
 
 # Parte Metodologica 
+In questa parte metodologica verrà esposto come aprire un blog post, come scrivere un blog post, come girare un video col proprio smartphone, come interagire su Twitter e su una mailing list, come contribuire a Wikipedia e altre cose a contorno.
 
 ## Introduzione (lezione 1) 
+In questa parte introduttiva verrà spiegato concretamente come si svolgerà il corso.
 
-Da completare con Simone, appunti di Giuseppe e slides
+###Lezioni
+Le lezioni in aula saranno in prevalenza lezioni frontali standard con, soprattutto nella lezioni frontali standard con, soprattutto nella domande e le riflessioni a voce alta verranno incoraggiate. E' possibile che i alcuni casi si ricorra a "break-out" session per lavoro/riflessioni di gruppo, con poi sintesi plenarie davanti a tutta l'aula.
+
+###Attività (obbligatorie)
+Le attività da svolgere ai fini dell'esame e per avere una infarinatura iniziali degli strumenti digitali sono:
+
+* creazione di un breve video: una clip di 30-60 secondi postato su una piattaforma come Youtube e rilasciato con licenza Creative Commons in cui ci si presenta e si descrive di cosa si vuole parlare nel proprio blog. Il video è uno strumento potente per comunicare ed è ortogonale alla scrittura. Saper creare un buon video può tornare utile nel mondo del lavoro, sopratutto negli ultimi tempi in cui si chiedono sempre di più video di presentazione per qualsiasi tipo di application (lavori, master, corsi ecc.);
+* tre blog post: gli articoli dovrebbero essere di 300-50 parole, dovrebbero includere anche immagini e dovranno essere rilasciati in Creative Commons. La scrittura di un blog post aiuta a sviluppare buone capacità di articolazione di un ipertesto. inoltre è un utile esercizio per imparare ad argomentare correttamente (per esempio evitando fallacie logiche). Inoltre rivolgersi a chiunque con un testo è un esercizio particolare in cui bisogna rispettare determinate regole.;
+* utilizzo di Twitter: per promuovere i propri blog post e perché è uno strumento di importanza sempre maggiore ed è un buon megafono con cui darsi sentire.
 
 ## Iscrizione ai social (lezione 2) 
 
