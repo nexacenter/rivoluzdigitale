@@ -146,12 +146,9 @@ principi di base sull’hardware, sul software e sulle comunicazioni
 
 Uno dei principali obiettivi di questo corso è quello di comunicare in
 pubblico. È doveroso quindi effettuare alcune riflessioni fin
-dall’inizio
-
-In questo corso la comunicazione è un vincolo  (bisognerà infatti
+dall’inizio. In questo corso la comunicazione è un vincolo  (bisognerà infatti
 scrivere 3 blog-post), tuttavia è indispensabile nella vita quotidiana
 ed è un’azione che va intrapresa in modo responsabile.
-
 Una peculiarità della comunicazione pubblica è quella di trasmettere un
 messaggio a uditori sconosciuti che potrebbero mettersi in ascolto in un
 momento imprecisato nel tempo (soprattuto su internet).
@@ -160,17 +157,14 @@ Storicamente solo una minoranza della popolazione poteva rivolgersi ad
 un pubblico indifferenziato, cioè coloro che potevano esprimersi
 attraverso i grandi media. Al giorno d’oggi, grazie ad internet, siamo 2
 miliardi di persone connesse e presto saremo 6 miliardi,  tutti possiamo
-esporre pubblicamente le informazioni che vogliamo.
-
-In questo contesto è necessario fare riflessioni che si fanno da secoli
-ma che in realtà solo ora si applicano a una grande fetta della
+esporre pubblicamente le informazioni che vogliamo. In questo contesto è necessario fare riflessioni che si fanno da secoli ma che in realtà solo ora si applicano a una grande fetta della
 popolazione.
 
 Una prima riflessione fondamentale, di derivazione illuminista è “sapere
 aude!”, cioè ragionare con la propria testa.
-
 Il motto dell’illuminismo di Immanuel Kant, tratto dal suo saggio
 “Risposta alla domanda: che cos'è l'Illuminismo?”, recita:
+
 "L'Illuminismo è l'uscita dell'uomo dallo stato di minorità che egli
 deve imputare a sé stesso. Minorità è l'incapacità di valersi del
 proprio intelletto senza la guida di un altro. Imputabile a se stessa è
@@ -178,15 +172,13 @@ questa minorità, se la causa di essa non dipende da difetto di
 intelligenza, ma dalla mancanza di decisione e del coraggio di far uso
 del proprio intelletto senza essere guidati da un altro.
 
-Sapere aude!
+*Sapere aude!*
 
 Abbi il coraggio di servirti della tua propria intelligenza! È questo il
 motto dell'Illuminismo"
 
 È fondamentale chiarire sempre sempre ai lettori la natura di ciò che si
-sta comunicando.
-
-Innanzitutto bisogna specificare chi sta parlando e se l’autore usi le
+sta comunicando. Innanzitutto bisogna specificare chi sta parlando e se l’autore usi le
 sue parole, o quelle di qualcun altro. Specificare solo l’autore di un
 articolo in cui sono presenti affermazioni non frutto di proprie
 elaborazioni e di cui non si riporti l’autore originale tramite una
