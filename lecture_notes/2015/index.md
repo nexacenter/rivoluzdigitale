@@ -109,7 +109,7 @@ Il corso ha due obiettivi principali:
 	
 	Una domanda di base da cui partire è capire hanno di speciale i computer rispetto alle altre macchine e 	cosa in comune. Inoltre mentre le reti di comunicazione elettrica esistono da almeno 160 anni, cioè dall'invenzione del telegrafo (L'internet dell'era vittoriana), cosa rende internet speciale e 	oggettivamente diversa e nuova? Questo sarà il filo conduttore del corso, si cercherà di capire cosa c'è effettivamente di nuovo e cosa c'è in comune con il passato cercando di imparare da esperienze passate (ad esempio da ciò che è già successo con la posta, la radio e la televisione).
 
-2. Il secondo obiettivo del corso è provare a dare agli studenti gli elementi per essere cittadini digitali consapevoli e per sapere usare gli strumenti tecnologici, ad esempio lo smartphone, capendone le vere potenzialità. 
+2. Provare a dare agli studenti gli elementi per essere cittadini digitali consapevoli e per sapere usare gli strumenti tecnologici, ad esempio lo smartphone, capendone le vere potenzialità. 
 	
 	Molti sondaggi indicano che gli utilizzatori giovani hanno oggi dimestichezza con gli strumenti 		digitali, tuttavia ci dicono anche che l'utente non ha consapevolezza di ciò che succede dietro lo 		strumento e le funzionalità avanzate raramente vengono utilizzate. 
 
