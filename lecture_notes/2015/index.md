@@ -72,8 +72,34 @@
 # Parte di contenuti di alto livello 
 
 ## Introduzione (lezione 1)
+In questa parte introduttiva verrà spiegato:
+* perchè è stato ideato il corso;
+* quali sono gli obiettivi;
+* come funziona concreatmente.
 
-TODO: Vedi appunti di Giuseppe e slide.
+###Il corso
+Ci sono pochi corsi come questi, alla sua creazione nel 2011 ce n'era qualche accenno negli Stati Uniti. Quindi andava inventato da zero definendo da zero anche gli obiettivi.
+
+Partiamo dal titolo del corso "Rivoluzione Digitale". Come va inteso questo titolo? Bisogna immaginarselo in maniera problematica, ad esempio con il punto esclamativo (con un accezione positiva), oppure con il punto interrogativo (ci troviamo una Rivoluzione Digitale? che effetti sta avendo? dove andrà in futuro?). 
+
+Nel corso verrà coperto un terreno abbastanza ampio, ma c'è sempre un punto interrogativo implicito dopo il termine Rivoluzione Digitale. La Rivoluzione Digitale  sta ancora capitando e tenere questo corso ora sarebbe stato come tenere un corso sulla rivoluzione industriale nel 1820 in Inghilterra.
+
+###Il termine Rivoluzione Digitale 
+Uno  dei punti di partenza è intendersi sulla parola rivoluzione che è usata (e talvolta abusata) in contesti molto diversi tra loro, dalla Rivoluzione Francese alla rivoluzione portata dall'iPhone. In particolare qui verranno analizzata se  la Rivoluzione Digitale sia  una vera rivoluzione. Una volta capita le varie accezioni di rivoluzione (scientifica, politica ecc.) si cercherà quindi di definire la Rivoluzione Digitale.
+
+Sicuramente ci siamo ancora immersi dentro. Questa rivoluzione è cominciata con I primi computer completamente elettronici nel 1945-1946, c'è una crescita lenta all'inizio seguita da una crescita esplosiva, ma siamo lontani ancora dalla sua fine.  
+Questo pone dei problemi, alcune cose sono fatti, ad esempio la storia di internet, come funziona, ecc. Ma se poi proviamo ad estrapolare informazioni e dire cosa succederà nei prossimi 5-10 anni, è un tema aperto, il futuro sopratutto in questo ambito non è deciso, non è deterministico. Questa rivoluzione può andare in diverse direzioni e ciascuno di noi ha un ruolo, seppur piccolo, per indirizzare questa rivoluzione, o quantomeno esserne consapevole e quindi quando ci si informa capire quale è, tra le tante possibili, la direzione che sta prendendo questa rivoluzione.
+
+Semplificando un po' una rivoluzione vuol dire un cambiamento profondo che nel caso di quella digitale accade nei decenni (al contrario di quelle politiche che sono molto rapide). 
+I cambiamenti attuati dalla Rivoluzione Digitale sono bidirezionali: .
+1.  da una parte gli effetti sulla società della Rivoluzione Digitale (sulla cultura, sulla politica, sui taxi), che più o meno tutti conoscono
+2. dall'altra, siccome internet è stata progettata da esseri umani, la società a sua volta plasma internet e le caratteristiche che ha adesso potrebbe non averle tra 5 o 10 anni. Quindi gli effetti della società sulla Rvoluzione Digitale.
+
+L'unica cosa certa è che gli esiti non sono deterministici. Dipenderà da tanti fattori, incluso, in piccola parte anche da ciascuno di noi. Per essere più tangibili, gli effetti potranno favorire in linea di principio la democrazia, potranno essere liberticidi favorendo la sorveglianza, potranno essere a favore o contro i lavoratori, potranno favorire o placare conflitti internazionali.
+
+Fino a qualche anno fa si pensava che la Rivoluzione Digitale portasse effetti positivi in tutti gli ambiti, tuttavia negli ultimi anni abbiamo avuto qualche elemento per sospettare che non sia così. In questo corso l'obiettivo non è arrivare a definire se la Rivoluzione Digitale sia buona o cattiva, è un mix di cose che è un frutto di molte scelte di elementi positivi e negativi decisi da molte forze che competono tra loro. Questo groviglio di forze potranno spingere in un modo o nell'altro in diversi settori. La strada che prenderà dipenderà da noi, inteso come società, e determinerà quanto positiva o negativa sarà questa rivoluzione.
+
+### Gli obiettivi del corso
 
 ## Preparazione per il corso (lezione 2)
 
