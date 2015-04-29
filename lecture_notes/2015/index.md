@@ -92,7 +92,7 @@ Questo pone dei problemi, alcune cose sono fatti, ad esempio la storia di intern
 
 Semplificando un po' una rivoluzione vuol dire un cambiamento profondo che nel caso di quella digitale accade nei decenni (al contrario di quelle politiche che sono molto rapide). 
 I cambiamenti attuati dalla Rivoluzione Digitale sono bidirezionali: .
-1.  da una parte gli effetti sulla società della Rivoluzione Digitale (sulla cultura, sulla politica, sui taxi), che più o meno tutti conoscono
+1. da una parte gli effetti sulla società della Rivoluzione Digitale (sulla cultura, sulla politica, sui taxi), che più o meno tutti conoscono;
 2. dall'altra, siccome internet è stata progettata da esseri umani, la società a sua volta plasma internet e le caratteristiche che ha adesso potrebbe non averle tra 5 o 10 anni. Quindi gli effetti della società sulla Rvoluzione Digitale.
 
 L'unica cosa certa è che gli esiti non sono deterministici. Dipenderà da tanti fattori, incluso, in piccola parte anche da ciascuno di noi. Per essere più tangibili, gli effetti potranno favorire in linea di principio la democrazia, potranno essere liberticidi favorendo la sorveglianza, potranno essere a favore o contro i lavoratori, potranno favorire o placare conflitti internazionali.
@@ -101,12 +101,19 @@ Fino a qualche anno fa si pensava che la Rivoluzione Digitale portasse effetti p
 
 ### Gli obiettivi del corso
 Il corso ha due obiettivi principali:
+
 1. fornire gli elementi base (almeno un po') per capire questa profonda trasformazione portata dal digitale.
+	
 	Questo argomento, con tutte le sue sfumature, negli ultimi anni è diventato gigantesco. Si potrebbe e 		forse si dovrebbe offrire un corso di laurea con elementi di giurisprudenza, informatica, economia e scienze sociali. Questo corso tuttavia durerà 50 ore e verranno forniti soltanto alcuni elementi per capire e lo spazio per studiare e scoprire sarà ancora molto vasto al suo termine. 
+	
 	Una domanda di base da cui partire è capire hanno di speciale i computer rispetto alle altre macchine e 	cosa in comune. Inoltre mentre le reti di comunicazione elettrica esistono da almeno 160 anni, cioè dall'invenzione del telegrafo (L'internet dell'era vittoriana), cosa rende internet speciale e 	oggettivamente diversa e nuova? Questo sarà il filo conduttore del corso, si cercherà di capire cosa c'è effettivamente di nuovo e cosa c'è in comune con il passato cercando di imparare da esperienze passate (ad esempio da ciò che è già successo con la posta, la radio e la televisione);
+
 2. Il secondo obiettivo del corso è provare a dare agli studenti gli elementi per essere cittadini digitali consapevoli e per sapere usare gli strumenti tecnologici, ad esempio lo smartphone, capendone le vere potenzialità. 
-	Molti sondaggi indicano che gli utilizzatori giovani hanno oggi dimestichezza con gli strumenti 			digitali, tuttavia ci dicono anche che l'utente non ha consapevolezza di ciò che succede dietro lo 		strumento e le funzionalità avanzate raramente vengono utilizzate. 
+	
+	Molti sondaggi indicano che gli utilizzatori giovani hanno oggi dimestichezza con gli strumenti 		digitali, tuttavia ci dicono anche che l'utente non ha consapevolezza di ciò che succede dietro lo 		strumento e le funzionalità avanzate raramente vengono utilizzate. 
+
 	Inoltre si cercherà di fornire gli strumenti per capire quanto affidabili siano le informazioni che si 		possono trovare in rete su uno specifico sito web o blog. Alcuni degli strumenti intellettuali per 		capire se un informazione sia una bufala o un informazione genuina sono vecchi come il mondo (ad 		esempio per capire se un libro in biblioteca sia serio e interessante). La parte nuova relativa al 		digitale servirà invece per capire l'autorevolezza di una fonte, capire chi è l'autore di un articolo, 			capire chi ha registrato il sito, ecc. 
+	
 	Il passo successivo è esprimersi, è un salto non piccolo passare dal leggere allo scrivere in pubblico.	Quando si parla online di colpo diventano rilevanti certe informazioni. Per aprire un blog e comunicare a un 	pubblico differenziato bisogna usare specifici strumenti che verranno spiegati nel corso.
 
 ## Preparazione per il corso (lezione 2)
