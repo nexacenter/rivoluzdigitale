@@ -83,9 +83,9 @@ In questa parte introduttiva verrà spiegato:
 * come funziona concreatmente.
 
 ###Il corso
-Ci sono pochi corsi come questi, alla sua creazione nel 2011 ce n'era qualche accenno negli Stati Uniti. Quindi andava inventato da zero definendo da zero anche gli obiettivi.
+Ci sono pochi corsi come questi, alla sua creazione nel 2011 ce n'era solo qualche accenno negli Stati Uniti. Questo corso sulla Rivoluzione Digitale andava quindi inventato da zero definendo da zero anche gli obiettivi.
 
-Partiamo dal titolo del corso "Rivoluzione Digitale". Come va inteso questo titolo? Bisogna immaginarselo in maniera problematica, ad esempio con il punto esclamativo (con un accezione positiva), oppure con il punto interrogativo (ci troviamo una Rivoluzione Digitale? che effetti sta avendo? dove andrà in futuro?). 
+Partiamo dal titolo del corso "Rivoluzione Digitale". Come va inteso questo titolo? Bisogna immaginarselo in maniera problematica, ad esempio con il punto esclamativo (ad esempio con un accezione positiva), oppure con il punto interrogativo (ci troviamo una Rivoluzione Digitale? che effetti sta avendo? dove andrà in futuro?). 
 
 Nel corso verrà coperto un terreno abbastanza ampio, ma c'è sempre un punto interrogativo implicito dopo il termine Rivoluzione Digitale. La Rivoluzione Digitale  sta ancora capitando e tenere questo corso ora sarebbe stato come tenere un corso sulla rivoluzione industriale nel 1820 in Inghilterra.
 
