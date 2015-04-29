@@ -125,10 +125,10 @@ Altri elementi metodologici in pillole, che verranno insegnati in questo corso e
 * il pensiero critico: cioè il processo intellettualmente disciplinato di concettualizzare attivamente e abilmente, applicando, analizzando, sintetizzando e/o valutando informazioni raccolte da, o generate da, osservazione, esperienza, riflessione, ragionamento o comunicazione, come guida per le proprie azioni;
 * l'espressione in forma scritta: attraverso post sul blog, interventi sulla mailing list del corso e l'esame scritto .
 
-## Preparazione per il corso (lezione 2)
+### Preparazione per il corso (lezione 2)
 
 Una preparazione informatica di base è fondamentale al giorno d’oggi. Un
-buon manuale per ottenere un’infarinatura in ambito informatico è “D is
+buon manuale per ottenere un’infarinatura in ambito informatico a chi non lo avesse già è “D is
 for Digital, what a well-informed person should know about computers and
 communications” scritto da W.Kernighan, inventore del linguaggio di
 programmazione C.
