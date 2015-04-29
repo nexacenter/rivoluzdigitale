@@ -166,16 +166,16 @@ Il motto dell’illuminismo di Immanuel Kant, tratto dal suo saggio
 “Risposta alla domanda: che cos'è l'Illuminismo?”, recita:
 
 	"L'Illuminismo è l'uscita dell'uomo dallo stato di minorità che egli
-deve imputare a sé stesso. Minorità è l'incapacità di valersi del
-proprio intelletto senza la guida di un altro. Imputabile a se stessa è
-questa minorità, se la causa di essa non dipende da difetto di
-intelligenza, ma dalla mancanza di decisione e del coraggio di far uso
-del proprio intelletto senza essere guidati da un altro.
-
+	deve imputare a sé stesso. Minorità è l'incapacità di valersi del
+	proprio intelletto senza la guida di un altro. Imputabile a se stessa è
+	questa minorità, se la causa di essa non dipende da difetto di
+	intelligenza, ma dalla mancanza di decisione e del coraggio di far uso
+	del proprio intelletto senza essere guidati da un altro.
+	
 	*Sapere aude!*
-
+	
 	Abbi il coraggio di servirti della tua propria intelligenza! È questo il
-motto dell'Illuminismo"
+	motto dell'Illuminismo"
 
 È fondamentale chiarire sempre sempre ai lettori la natura di ciò che si
 sta comunicando. Innanzitutto bisogna specificare chi sta parlando e se l’autore usi le
