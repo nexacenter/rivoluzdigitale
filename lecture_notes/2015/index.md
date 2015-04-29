@@ -96,7 +96,7 @@ I cambiamenti attuati dalla Rivoluzione Digitale sono bidirezionali:
 1. da una parte gli effetti sulla società della Rivoluzione Digitale (sulla cultura, sulla politica, sui taxi), che più o meno tutti conoscono;
 2. dall'altra, siccome internet è stata progettata da esseri umani, la società a sua volta plasma internet e le caratteristiche che ha adesso potrebbe non averle tra 5 o 10 anni. Quindi gli effetti della società sulla Rvoluzione Digitale.
 
-L'unica cosa certa è che gli esiti non sono deterministici. Dipenderà da tanti fattori, incluso, in piccola parte anche da ciascuno di noi. Per essere più tangibili, gli effetti potranno favorire in linea di principio la democrazia, potranno essere liberticidi favorendo la sorveglianza, potranno essere a favore o contro i lavoratori, potranno favorire o placare conflitti internazionali.
+L'unica cosa certa è che gli esiti non sono deterministici. Dipenderà da tanti fattori, incluso, in piccola parte anche da ciascuno di noi. Per essere più tangibili, gli effetti potranno favorire in linea di principio la democrazia, potranno essere liberticidi favorendo la sorveglianza, potranno essere a favore o contro i lavoratori, a favore di certi paesi contro altri, ecc.
 
 Fino a qualche anno fa si pensava che la Rivoluzione Digitale portasse effetti positivi in tutti gli ambiti, tuttavia negli ultimi anni abbiamo avuto qualche elemento per sospettare che non sia così. In questo corso l'obiettivo non è arrivare a definire se la Rivoluzione Digitale sia buona o cattiva, è un mix di cose che è un frutto di molte scelte di elementi positivi e negativi decisi da molte forze che competono tra loro. Questo groviglio di forze potranno spingere in un modo o nell'altro in diversi settori. La strada che prenderà dipenderà da noi, inteso come società, e determinerà quanto positiva o negativa sarà questa rivoluzione.
 
@@ -109,7 +109,7 @@ Il corso ha due obiettivi principali:
 	
 	Una domanda di base da cui partire è capire hanno di speciale i computer rispetto alle altre macchine e 	cosa in comune. Inoltre mentre le reti di comunicazione elettrica esistono da almeno 160 anni, cioè dall'invenzione del telegrafo (L'internet dell'era vittoriana), cosa rende internet speciale e 	oggettivamente diversa e nuova? Questo sarà il filo conduttore del corso, si cercherà di capire cosa c'è effettivamente di nuovo e cosa c'è in comune con il passato cercando di imparare da esperienze passate (ad esempio da ciò che è già successo con la posta, la radio e la televisione).
 
-2. Provare a dare agli studenti gli elementi per essere cittadini digitali consapevoli e per sapere usare gli strumenti tecnologici, ad esempio lo smartphone, capendone le vere potenzialità. 
+2. Fornire gli elementi per essere cittadini digitali consapevoli e per sapere usare gli strumenti tecnologici digitali (ad esempio lo smartphone) capendone le vere potenzialità. 
 	
 	Molti sondaggi indicano che gli utilizzatori giovani hanno oggi dimestichezza con gli strumenti 		digitali, tuttavia ci dicono anche che l'utente non ha consapevolezza di ciò che succede dietro lo 		strumento e le funzionalità avanzate raramente vengono utilizzate. 
 
@@ -117,9 +117,13 @@ Il corso ha due obiettivi principali:
 	
 	Il passo successivo è esprimersi, è un salto non piccolo passare dal leggere allo scrivere in pubblico.	Quando si parla online di colpo diventano rilevanti certe informazioni. Per aprire un blog e comunicare a un 	pubblico differenziato bisogna usare specifici strumenti che verranno spiegati nel corso.
 
-I due obiettivi sono strettamente congiunti anche se si sarebbe potuto fare un corso puramente teorico e uno solo su competenze digitali (fare un blog, video ecc). Tuttavia i due obiettivi sono complementari, in particolare il primo obbiettivo beneficia dal raggiungimento del secondo. Provando veramente a usare le tecnologie si impara a capire e a riflettere meglio sul web, sulla comunicazione e sugli effetti sulla società. In Italia per lustri ci sono opinionisti che scritto internet senza però averlo poi provato e tralasciando così aspetti fondamentali.
+I due obiettivi sono strettamente congiunti anche se si sarebbe potuto fare un corso puramente teorico e uno solo su competenze digitali (fare un blog, video ecc). Tuttavia i due obiettivi sono complementari, in particolare il primo obbiettivo beneficia dal raggiungimento del secondo, è molto difficile infatti, capire la rivoluzione digitale se non la si padroneggia in concreto. Provando veramente a usare le tecnologie si impara a capire e a riflettere meglio sul web, sulla comunicazione e sugli effetti sulla società. In Italia per lustri ci sono opinionisti che scritto internet senza però averlo poi provato e tralasciando così aspetti fondamentali.
 
-Altri elementi metodologici in pillole, che verranno insegnati in questo corso e che hanno a che fare con il secondo obiettivo (cioè comunicare online), sono relativi alla logica, all'integrità, al pensiero critico e all'espressione in forma scritta.
+Altri elementi metodologici in pillole, che verranno insegnati in questo corso e che hanno a che fare con il secondo obiettivo (cioè comunicare online), sono relativi a:
+* la logica;
+* l'integrità;
+* il pensiero critico: cioè il processo intellettualmente disciplinato di concettualizzare attivamente e abilmente, applicando, analizzando, sintetizzando e/o valutando informazioni raccolte da, o generate da, osservazione, esperienza, riflessione, ragionamento o comunicazione, come guida per le proprie azioni;
+* l'espressione in forma scritta: attraverso post sul blog, interventi sulla mailing list del corso e l'esame scritto .
 
 ## Preparazione per il corso (lezione 2)
 
