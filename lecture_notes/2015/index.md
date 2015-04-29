@@ -117,6 +117,10 @@ Il corso ha due obiettivi principali:
 	
 	Il passo successivo è esprimersi, è un salto non piccolo passare dal leggere allo scrivere in pubblico.	Quando si parla online di colpo diventano rilevanti certe informazioni. Per aprire un blog e comunicare a un 	pubblico differenziato bisogna usare specifici strumenti che verranno spiegati nel corso.
 
+I due obiettivi sono strettamente congiunti anche se si sarebbe potuto fare un corso puramente teorico e uno solo su competenze digitali (fare un blog, video ecc). Tuttavia i due obiettivi sono complementari, in particolare il primo obbiettivo beneficia dal raggiungimento del secondo. Provando veramente a usare le tecnologie si impara a capire e a riflettere meglio sul web, sulla comunicazione e sugli effetti sulla società. In Italia per lustri ci sono opinionisti che scritto internet senza però averlo poi provato e tralasciando così aspetti fondamentali.
+
+Altri elementi metodologici in pillole, che verranno insegnati in questo corso e che hanno a che fare con il secondo obiettivo (cioè comunicare online), sono relativi alla logica, all'integrità, al pensiero critico e all'espressione in forma scritta.
+
 ## Preparazione per il corso (lezione 2)
 
 Una preparazione informatica di base è fondamentale al giorno d’oggi. Un
