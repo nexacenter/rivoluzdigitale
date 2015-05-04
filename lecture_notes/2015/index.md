@@ -36,7 +36,7 @@
 		- [Il computer crime (o cybercrime)](#il-computer-crime-o-cybercrime)
 		- [Libertà di espressione e reati di parola](#libertà-di-espressione-e-reati-di-parola)
 			- [Ingiuria e diffamazione (differenze)](#ingiuria-e-diffamazione-differenze)
-			- [Diritto di cronaca, di critica e di satira](#diritto-di-cronaca,-di-critica-e-di-satira)
+			- [Diritto di cronaca, di critica e di satira](#diritto-di-cronaca-di-critica-e-di-satira)
 			- [Il reato di apologia](#il-reato-di-apologia)
 			- [Una regola generale](#una-regola-generale)
 		- [Riservatezza, protezione dei dati personali e copyright](#riservatezza,-protezione-dei-dati-personali-e-copyright)
