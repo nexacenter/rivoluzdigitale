@@ -769,12 +769,12 @@ lo scopo di questa lezione è aumentare le capacità e migliorarsi per pubblicar
 
 il concetto è ben riassunto da questo poema zen della cultura hacker: 
 
-	*"To follow the path:  
+	"To follow the path:  
 	look to the master,  
 	follow the master,  
 	walk with the master,  
 	see through the master,  
-	become the master."*  
+	become the master."  
 
 è ciò che dovrebbe esserci nell'atteggiamento del corso, partire senza avere tante conoscenze, imparare dagli altri, imparare online, imparare da noi che teniamo lezione in modo da migliorarsi. 
 Internet è nata da persone che ragionavano secondo questo modo di pensare. 
