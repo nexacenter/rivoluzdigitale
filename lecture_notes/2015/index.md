@@ -1,7 +1,7 @@
 **Table of Contents**  
 
 - [Parte di contenuti di alto livello](#parte-di-contenuti-di-alto-livello)
-	- [Introduzione (lezione 1)](#Introduzione-(lezione-1))
+	- [Introduzione (lezione 1)](#Introduzione-lezione-1)
 		- [Il corso](#Il-corso)
 		- [Il termine Rivoluzione Digitale](#Il-termine-Rivoluzione-Digitale)
 		- [Gli obiettivi del corso](#Gli-obiettivi-del-corso)
@@ -31,7 +31,7 @@
 				- [Durata](#Durata)
 			- [Rinunciare ai propri diritti](#Rinunciare-ai-propri-diritti)
 			- [La SIAE](#La-SIAE)
-	- [La legge nella rete (lezione 5 – ospite: Avv. Carlo Blengino -penalista)](#La-legge-nella-rete-(lezione-5-–-ospite:-Avv.-Carlo-Blengino--penalista)
+	- [La legge nella rete (lezione 5 – ospite: Avv. Carlo Blengino -penalista)](#)
 		- [Caso di studio](#Caso-di-studio)
 		- [Il computer crime (o cybercrime)](#Il-computer-crime-(o-cybercrime))
 		- [Libertà di espressione e reati di parola](#Libertà-di-espressione-e-reati-di-parola)
