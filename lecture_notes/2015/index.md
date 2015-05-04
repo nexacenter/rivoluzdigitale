@@ -1,7 +1,7 @@
 **Table of Contents**  
 
 - [Parte di contenuti di alto livello](#parte-di-contenuti-di-alto-livello)
-	- [Introduzione (lezione 1)](#Introduzione-lezione-1)
+	- [Introduzione (lezione 1)](#introduzione-lezione-1)
 		- [Il corso](#Il-corso)
 		- [Il termine Rivoluzione Digitale](#Il-termine-Rivoluzione-Digitale)
 		- [Gli obiettivi del corso](#Gli-obiettivi-del-corso)
