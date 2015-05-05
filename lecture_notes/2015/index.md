@@ -31,7 +31,7 @@
 				- [Durata](#durata)
 			- [Rinunciare ai propri diritti](#rinunciare-ai-propri-diritti)
 			- [La SIAE](#la-siae)
-	- [La legge nella rete (lezione 5 – ospite: Avv. Carlo Blengino -penalista)](#la-legge-nella-rete-lezione-5--ospite-avv-carlo-blengino--penalista)
+	- [La legge nella rete (lezione 5 – ospite: Avv. Carlo Blengino)](#la-legge-nella-rete-lezione-5--ospite-avv-carlo-blengino--penalista)
 		- [Caso di studio](#caso-di-studio)
 		- [Il computer crime (o cybercrime)](#il-computer-crime-o-cybercrime)
 		- [Libertà di espressione e reati di parola](#libertà-di-espressione-e-reati-di-parola)
