@@ -510,22 +510,15 @@ La SIAE è nata nel 800 dal bisogno degli autori di difendere i propri interessi
 Per essere cittadino digitale completo e per eseguire la parte online del corso in maniera consapevole è necessario possedere una conoscenza minima dell'ambiente giuridico in cui si opera.
 L'informatica giuridica è un argomento molto ampio, qui vengono forniti dei concetti di base. L'obiettivo di questa parte non è spaventare, ma è essere consapevoli del perimetro tracciato dalla legge ed essere sicuri delle cose che nel modo giusto si possono fare.
 
-
-### Caso di studio
-Ho litigato con la mia fidanzata e
- decido di lasciarla con un messaggio su WhatsApp al quale
- aggiungo qualche frase con proposte oscene e volgari. Per sbaglio lo mando alla madre della ragazza che lo posta su fb.
-Cosa mi può succedere?
-
 ### Il computer crime (o cybercrime)
-la vulgata, svariate uscite di personaggi importanti assimilano la rete:
+La vulgata e svariate uscite di personaggi importanti assimilano la rete:
 *all'anarchia; 
-*al far west;
+*al Far West;
 *a una sconfinata prateria senza regole.
 
 Tant'è che nel 2013 il garante privacy dice "internet è un mondo senza regole, le vittime possono diventare carnefici".
 
-Computer crime sappiamo già cos'è, ecco alcuni esempi:
+Il computer crime, data l'ampia presenza sui media di questo argomento, si sa già cos'è, ecco alcuni esempi:
 * cyberbullismo
 * furti di identità
 * minacce
@@ -539,7 +532,7 @@ Computer crime sappiamo già cos'è, ecco alcuni esempi:
 
 Tuttavia quasi tutti questi reati hanno un omologo nella vita reale ed esistevano già prima che internet prendesse forma.
 
-Nel 2013 viene data la definizione di computer cryme (o crimine informatico)cioè:
+Nel 2013 viene data la definizione di computer crime (o crimine informatico)cioè:
 *qualsivoglia fattispecie criminosa che
  abbia un sistema informatico quale
  oggetto della condotta o quale mezzo per
@@ -558,16 +551,16 @@ Con reati di parola si intendono:
 * l'ingiuria
 * l'hatespeech
 
-La libertà di espressione è intesa secondo la nostra Costituzione (art. 21) come
-*Tutti hanno diritto di manifestare
+La libertà di espressione è intesa secondo la nostra Costituzione (art. 21) come:
+“*Tutti hanno diritto di manifestare
  liberamente il proprio pensiero con la parola,
-lo scritto e ogni altro mezzo di diffusione.*
+lo scritto e ogni altro mezzo di diffusione.*”
 
 O, con una definizione più aggiornata, dall'articolo della Carta dei diritti fondamentali dell'UE:
-*Ogni individuo ha diritto alla libertà di
+“*Ogni individuo ha diritto alla libertà di
  espressione. Tale diritto include la libertà di
  opinione e la libertà di ricevere o di comunicare informazioni o idee senza che vi possa essere
- ingerenza da parte delle autorità pubbliche e senza limiti di frontiera.*
+ ingerenza da parte delle autorità pubbliche e senza limiti di frontiera.*”
 
 In sostanza su internet possiamo fare quello che vogliamo, e sia la Costituzione italiana sia la Carta dei dir.fond.UE affermano che si può dire ciò che che si vuole. Ogni individuo ha diritto alla libertà espressione.
 
@@ -590,7 +583,7 @@ Le pene sono aumentate qualora l'offesa sia commessa in presenza di più persone
 Data la rigidità del diritto penale, visto che la mail non è compresa nelle fattispecie di comunicazione telegrafica e telefonica ci sono dei dubbi che l'ingiuria possa essere commessa tramite posta elettronica.
 Inoltre come citato sopra, ci sono poi delle aggravanti se l'ingiuria è compiuta in presenza di più persone.
 
-**La diffamazione** il reato si compie quando parlando con più persone si offende un terzo non presente. In questo caso ci si rivolge a più persone, senza insultare direttamente il terzo, ma spargendo una maledicenza. La stessa cosa detta a una sola persona non fa sussistere, si incorre nella diffamazione se si sta comunicando con 2 o più persone. Inoltre, se l'offesa consiste nell'attribuzione a un fatto determinato la pena è fino a due anni (anzichè un anno e mezzo), se è fatta mezzo stampa il fatto è ancora più grave e la pena è fino a tre anni, formalmente:
+**La diffamazione** il reato si compie quando parlando con più persone si offende un terzo non presente. In questo caso ci si rivolge a più persone, senza insultare direttamente il terzo, ma spargendo una maldicenza. La stessa cosa detta a una sola persona non fa sussistere, si incorre nella diffamazione se si sta comunicando con 2 o più persone. Inoltre, se l'offesa consiste nell'attribuzione a un fatto determinato la pena è fino a due anni (anziché un anno e mezzo), se è fatta mezzo stampa il fatto è ancora più grave e la pena è fino a tre anni, formalmente:
 “Chiunque comunicando con più persone offende
  l'altrui reputazione, è punito fino a un anno o
  con la multa... Se l'offesa consiste nell'attribuzione di un fatto
@@ -605,7 +598,7 @@ Inoltre citando il Prof Antolisei: "Non si può dire ladro non ladro", cioè, �
  notorietà del fatto attribuito alla persona 
 offesa”
 
-In sostanza non si può dimostrare che era vero ciò che si stava dicendo commettendo ingiuria o diffamazione anche se effettivamente le affermazioni era novere. Se una affermazione è diffamatoria lo è e basta.
+In sostanza non si può dimostrare che era vero ciò che si stava dicendo commettendo ingiuria o diffamazione anche se effettivamente le affermazioni ereno vere. Se una affermazione è diffamatoria lo è e basta.
 Tuttavia non si commette reato se quando si scrive/esprime su una qualsiasi cosa si sta esercitando un proprio diritto.
 Se si affermano cose che danneggiano un terzo esercitando un proprio diritto (ad esempio il diritto di cronaca o di satira) non si è punibili. 
 Secondo il Codice Penale, Articolo 51, Libro I “Dei reati in Generale”, l'esercizio di un diritto esclude la punibilità (siamo quindi dentro un loop?).
@@ -613,9 +606,9 @@ Secondo il Codice Penale, Articolo 51, Libro I “Dei reati in Generale”, l'es
 ####Diritto di cronaca, di critica e di satira
 Tutti noi abbiamo dal post-fascismo un diritto di critica di cronaca, di critica e di satira.
 
-La giurisprudenza di fronte al loop di prima, in cui si ha il diritto di esprimersi liberamente che esclude la punibilità di un reato ai danni di terzi, si risolve con 3 principi accompagnati da delle domande per verificare che si soddsfino:
+La giurisprudenza di fronte al loop di prima, in cui si ha il diritto di esprimersi liberamente che esclude la punibilità di un reato ai danni di terzi, si risolve con 3 principi accompagnati da delle domande per verificare che si soddisfino:
 *verità: si può dire che sia oggettivamente falso ciò che si sta dicendo? 
-*pubblico interesse (pertinenza): ciò che si afferma interessa a qualcuno? È fatto per danneggiare, o perchè si pensa che sia utile a qualcuno? Anche qui vale il principio “neminem ledere”, se si riporta un fatto senza l'intenzione di procurare danno si soddisfa il criterio.
+*pubblico interesse (pertinenza): ciò che si afferma interessa a qualcuno? È fatto per danneggiare, o perché si pensa che sia utile a qualcuno? Anche qui vale il principio “neminem ledere”, se si riporta un fatto senza l'intenzione di procurare danno si soddisfa il criterio.
 *continenza : ciò che si comunica è gratuitamente offensivo? E' scritto in  un modo argomentato?
 
 Se ciò che si vuole comunicare rispetta questi tre principi non ci sono problemi, in generale si può quindi dire tutto ciò che si vuole.
@@ -635,7 +628,7 @@ Quando si scrive su qualcosa/qualcuno bisogna verificare se il contenuto dannegg
 
 ###Riservatezza, protezione dei dati personali e copyright
 
-La privacy o meglio protezione dei dati personali e copyright regolano la materia prima della nuova economia.
+La privacy o meglio protezione dei **dati** personali e il copyright regolano la *materia prima* della nuova economia.
 La definizione di dato informatico secondo la Decisione 2005/222/GAI è: 
 "Qualsiasi
  rappresentazione di
@@ -657,23 +650,32 @@ Il problema della riservatezza nasce negli Stati Uniti dalle macchine fotografic
  all'interno della sfera
  privata le informazioni personali.
 
-La protezione dei dati invece è la protezione di sè nel contesto sociale. Descrive il complesso di
+La protezione dei dati invece è la protezione di sé nel contesto sociale. Descrive il complesso di
  personalità che differenzia un uomo da tutti gli altri (come si è e come si vuole apparire). E' più un diritto all'identità, poter controllare il dato affinché sia percepito per come lo si vuole. Il diritto all'identità è la
 pretesa a non veder alterato il
  proprio patrimonio personale.
 
 Quindi, in sostanza:
-* il diritto alla riservatezza mira a  proteggere la segretezza delle informazioni affinché la vita privata
+* il diritto alla riservatezza mira a
+ proteggere la segretezza delle
+ informazioni affinché la vita privata
  dell'individuo sia sottratta all'ingerenza di terzi;
-* il diritto all'identità presuppone invece che le informazioni siano state rese pubbliche e tutela la fedele
-rappresentazione della personalità di un individuo presso i terzi. Il diritto all'identità comincia laddove finisce il diritto alla riservatezza.
+* il diritto all'identità presuppone
+ invece che le informazioni siano state rese pubbliche e tutela la fedele
+ rappresentazione della personalità di
+ un individuo presso i terzi.
+Il diritto all'identità
+ comincia laddove finisce il diritto alla
+riservatezza.
 
-Nei social network quindi non ha senso di parlare di privacy e riservatezza, ma piuttosto di protezione dei dati.
+Nei social network quindi non ha senso di parlare di privacy e riservatezza ma piuttosto di protezione dei dati.
 
 ####Il trattamento dei dati personali
 Quando i propri dati personali vengono sottratti e usati per un fine diverso da quello che si era inteso per un determinato dato si parla di diritto ala protezione dei dati.
 Il trattamento illecito dei dati personali è la violazione della “identità informazionale”
- delle persone, identità che è assurta a diritto nuovo nell’art. 8 della Carta UE.
+ delle persone, identità che è
+ assurta a diritto nuovo
+ nell’art. 8 della Carta UE.
 
 Per essere più precisi: “La normativa a protezione dei dati personali disciplina
  la circolazione e l'utilizzo indipendentemente da una
@@ -711,19 +713,19 @@ Tuttavia il reato di violazione della protezione dei dati è difficile che sia p
 Spesso quindi si ricade in altri reati senza infrangere per forza l'articolo 167. Ad esempio nel caso del numero di telefono scritto in un bagno pubblico, piuttosto che violare la protezione dei dati, si commette un atto di diffamazione.
 
 ####Uso del dato
-Finché non si diffonde il dato, si possono trattare i dati personali di tutti e si non applica la legge sulla protezione dei dati personali, ciò cambia nel momento in cui questi vengano usati per fini di lucro o se i dati vengono resi pubblici.
+Finché non si diffonde il dato, si possono trattare i dati personali di tutti e si non applica la legge sulla protezione dei dati personali, ciò cambia nel momento in cui questi vengano usati per fini di lucro o nel caso in cui vengano resi pubblici.
 
-Ad esempio si commette un reato di violazione dei dati personali se si posta su un profilo pubblico di Facebook una foto di una ragazza senza il suo consenso. 
-Tutte le foto se diffuse pubblicamente (cioè pubblicate), se ritraggono persone specifiche bisogna essere sicuri che il soggetto sia d'accordo. Tuttavia se la foto viene pubblicata per cronaca, magari in in un evento aperto, è difficile che si compi un reato, anche nel caso in cui si stiano diffondendo dati personali, ad esempio nel caso di una foto di una classe in un università pubblica durante una lezione pubblica.
+Si commette, ad esempio, un reato di violazione dei dati personali se si posta su un profilo pubblico di Facebook una foto di una ragazza/o senza il suo consenso. 
+Tutte le foto se diffuse pubblicamente (cioè pubblicate), se ritraggono persone specifiche bisogna essere sicuri che il soggetto ritratto sia d'accordo. Fa eccezione se la foto è pubblicata per fini di cronaca. Inoltre se la foto è scattata in in un evento pubblico, è difficile che si compia un reato, anche nel caso in cui si stiano diffondendo dati personali, ad esempio nel caso di una foto di una classe in un università pubblica durante una lezione pubblica.
 
-Inoltre, anche se la foto è su internet ma accessibile solo al colui che le ha pubblicate (per uso personale), o ad amici di amici non si infrange la legge sulla protezione dei dati. Se questa è pubblica bisogna allora rispettare i 3 criteri citati nel paragrafo [Diritto di cronaca, di critica e di satira](#diritto-di-cronaca-di-critica-e-di-satira), quindi verificare: verità, pubblico interesse e continenza, oltre a verificare che i dati non siano usati per fini di lucro.
+Inoltre, anche se la foto è su internet ma accessibile solo al colui che le ha pubblicate (per uso personale), o ad amici di amici, non si infrange la legge sulla protezione dei dati. Se questa invece è pubblica bisogna allora rispettare i 3 criteri citati nel paragrafo [Diritto di cronaca, di critica e di satira](#diritto-di-cronaca-di-critica-e-di-satira), quindi verificare: verità, pubblico interesse e continenza, oltre a verificare che i dati non siano usati per fini di lucro.
 
 Sempre riguardo alle immagini ritraenti terzi,esiste un diritto più profondo rispetto ai diritto di protezione dei dati personali che è il diritto di immagine.
 Nell'arte bisogna chiedere la liberatoria per ritrarre soggetti terzi in foto.
 L'unico diritto che se esercitato che non richiede liberatoria è quello di cronaca.
 
 ####Il copyright
-Avere problemi giuridici per reati commessi su internet è tutto sommato un avvenimento remoto (tanto quanto commetterlo nella vita fisica). È molto difficile avere problemi legali senza essersi resi conto che si stava commettendo un atto illegale (il senso dell'illegalità).
+Avere problemi giuridici per reati commessi su internet è tutto sommato un avvenimento remoto (o almeno è tanto remoto quanto lo è commetterlo nella vita “reale”). È molto difficile avere problemi legali senza essersi resi conto che si stava commettendo un atto illegale (il senso dell'illegalità).
 
 Uno dei pochi casi in cui c'è poca percezione dell'illegalità è scaricando materiale coperto da copyright.
 Secondo molti esperti il copyright, o meglio, il diritto d'autore come esiste oggi è incompatibile col web per questa mancata percezione dell'illegalità da parte di chi scarica materiale protetto e magari lo condivide.
@@ -734,14 +736,90 @@ immettendola in un sistema di reti telematiche, mediante connessioni di
  qualsiasi genere, un'opera dell'ingegno
  protetta, o parte di essa”. 
 
-Chi scarica quindi non risponde del reato, solo chi carica il video e lo diffonde commette un reato. Se si scarica un video se ne sta facendo una copia, quindi una riproduzione, quindi nell'atto di duplicare si sta infrangendo il copyright se “il fatto è commesso per uso non personale, a fini di lucro è punito da 6 mesi fino a 3 anni” (art. 171 ter L.d.A.). 
-Ciò non accade se si vede il filmato in *streaming* in quanto non si sta facendo una copia del file protetto.
+Chi scarica quindi non risponde del reato, solo chi carica il video e lo diffonde. Se si scarica un video se ne sta facendo una copia (una riproduzione). Tuttavia nell'atto di duplicare si sta infrangendo il copyright solo se “il fatto è commesso per uso non personale, a fini di lucro [ed] è punito da 6 mesi fino a 3 anni” (art. 171 ter L.d.A.). 
+La situazione è diversa se si vede il filmato in *streaming* in quanto non si sta creando una copia del file protetto.
 
-Per quanto riguarda i contenuti riusabili, il fatto che un'immagine sia su internet non implica che si possa riusare. Tuttavia se nel suo riuso non si danneggia nessuno, nel caso in cui il detentore dei diritti si accorga del riuso non autorizzato chiederà al massimo di tirare giù il contenuto da internet e molto difficilmente ci sono ripercussioni dal punto di vista legale.
+Per quanto riguarda i contenuti riusabili, il fatto che un'immagine sia su internet non implica che si possa riusare. Tuttavia se nel suo riuso non si danneggia nessuno, nel caso in cui il detentore dei diritti si accorga del riuso non autorizzato chiederà al massimo di rimuovere il contenuto da internet e molto difficilmente ci saranno ripercussioni dal punto di vista legale.
 
-In questo ambito un grande passo che dovrebbe fare il diritto d'autore sarebbe distinguere il guadagno (illecito) sul lavoro degli altri dalla condivisione del lavoro degli altri.
+In questo ambito un grande passo che dovrebbe fare il diritto d'autore sarebbe distinguere il guadagno (illecito) ottenuto sul lavoro degli altri dalla condivisione del lavoro di altri.
 
 Un buon esempio che dà idea delle problematiche e degli aspetti controversi di oggi sul copyright è il film open-source “RIP!: a remix manifesto” (http://en.wikipedia.org/wiki/RiP!:_A_Remix_Manifesto).
+
+###Il blog: responsabilità delle piattaforme o dei siti
+
+Chi immette propri contenuti (testi, foto, video) su, ad esempio un blog, diventa automaticamente un *content provider* e si è responsabili per ciò che si pubblica. Quali tuttavia le responsabilità dei content provider per commenti ai propri post e dei gestori delle piattaforme (ad esempio di YouTube)?
+Molti blog post forniscono la possibilità di commentare. In questo contesto le responsabilità per ciò che viene scritto spesso non sono chiare. E' responsabile chi commenta o chi permette che il commento venga pubblicato?
+
+Un fatto eclatante è successo in Italia per [il caso Google-Vividown](http://www.ilfattoquotidiano.it/2014/02/04/il-caso-vividown-e-lassoluzione-di-google/868850/) in cui inizialmente si ritennero i content provider responsabili della pubblicazione del video choc.
+
+Il fatto di ritenere responsabile di chi fornisce il mezzo non è nuovo. All'inizio del 1900, il provider del servizio telefonico doveva staccare la linea nel caso in cui nella telefonata fossero proferite parole contro il buon costume. La norma tuttavia durò poco, ci si rese conto che responsabilizzare chi in maniera neutra fornisce un servizio era un po' come responsabilizzare le autostrade per i trasporti di droga.
+
+Per molti si è teso a responsabilizzare “il nodo”, in questo caso la piattaforma, in quanto è soluzione facile e veloce che risolveva tutti i problemi. Tuttavia responsabilizzando il nodo si impediscono conversazioni libere, e nel nostro contesto ammazzerebbe il web.
+
+Fin dal 2000 la Comunità Europea (e a maggior ragione gli Stati Uniti) ha promulgato la normativa e-commerce che dichiara che il prestatore dei servizi non è assoggettato ad un obbligo generale di sorveglianza né ad un obbligo di ricercare attivamente fatti.
+
+Secondo l'articolo 17 del d.Lgs. Del 2003 infatti:
+“1. Nella prestazione dei servizi di cui agli articoli
+ 14, 15 e 16, il prestatore non e' assoggettato ad un
+ obbligo generale di sorveglianza sulle informazioni
+che trasmette o memorizza, ne' ad un obbligo generale di ricercare attivamente fatti o circostanze
+ che indichino la presenza di attività' illecite.”
+
+Ciò stato fatto per tutelare chi intermediava la comunicazione e responsabilizzare l'utilizzare.
+Gli intermediari della comunicazioni, i service provider, sono divisi in tre categorie di internet: 
+1) *access*: il provider della connessione;
+2) *caching*: memorizzazione temporanea di informazioni per permetterne l'accesso ad altri. In quesa categoria erano inclusi i motori di ricerca, tuttavia oggi è riduttivo affermare che un motore di ricerca faccia solo caching.
+3) *Hosting*: quali Facebook, YouTube e le varie piattaforme
+
+la ragione per cui si è stabilito che questi provider non sono responsabili e non devono controllare è stata per non creare dei *gatekeeper* che censurino tutto pur di non infrangere la legge avendo così un *chilling effect*.
+
+Qualcosa comunque bisognava fare è stato quindi elaborato il *Notice and takedown*.
+Il fornitore del servizio non è responsabile, non deve essere effettivamente a conoscenza del fatto che l'attività tramite il suo servizio sia un informazione illecita, ma non appena conoscenza di tali fatti (in Italia su comunicazione delle autorità competenti) deve agire immediatamente per rimuovere l'informazione.
+
+La Commissione Europea dice a riguardo che la Direttiva garantisce una struttura
+tecnologicamente neutra ed il regime di responsabilità è frutto di un
+ bilanciamento tra i numerosi interessi in
+ gioco, in particolare tra lo sviluppo dei
+ servizi di intermediazione, l'interesse
+ sociale a che informazioni illegali siano
+velocemente rimosse e la protezione dei
+ diritti fondamentali.
+
+La soluzione di deresponsabilizzare il provider, nonostante quanto detto prima non è del tutto solida. Ad esempio YouTube non si limita ad ospitare video (offrendo un servizio di hosting); li indicizza, li consiglia, profila gli utenti, fa un lavoro più attivo rispetto a fare solo l'intermediazione. Qui nascono quindi dei problemi e viene messo un po' in crisi il sistema della non responsabilità delle piattaforme..
+
+#### Il caso pratico dei commenti
+Se chiunque può commentare su un post (commenti aperti) senza che noi possiamo controllare, chi deve censurare determinati contenuti? Visto che non si può dimostrare che il proprietario del è fosse a conoscenza del commento (se non moderato) non bisogna tirarlo giù fino a quando viene segnalato come illegale.
+
+Se i commenti sono moderati da un moderatore invece la responsabilità ricade sul gestore del blog (o del giornale). Si è quindi in teoria più tutelati se si lasciano i commenti aperti senza moderazione, tuttavia se ci sono solo pochi commenti e si riescono a controllare personalmente, a scanso di equivoci è meglio moderare i commenti per non avere problemi di alcun tipo. 
+
+### Domande
+#### Le violazioni della riservatezza 
+Probabilmente non è legata alle attività del corso ma è una delle situazioni che più si vedono in giro.
+
+Ad esempio accedere con la password della fidanzata al suo cellulare senza il suo consenso equivale a sottrarre un bene materiale creando un danno patrimoniale (magari pari a 0) con la finalità di trarne profitto (informativo) è equivalente a una rapina.
+
+Ad ogni modo, mettere una password sul proprio dispositivo è un segnale di proprietà privata (equivalente a un domicilio), dal punto di vista giuridico non è ancora assodato come concetto ma è buona prassi proteggersi con password (anche banali) per segnalare a chi vuole accedere che sta violando una proprietà privata. In questo contesto, bisogna considerare che nei nostri dispositivi sono presenti più informazioni private che in casa nostra. Nel caso più semplice accedere senza consenso è violazione di corrispondenza
+
+Il caso dei trojan di Stato: stava per passare emendamento che rendeva legali trojan di Stato, la polizia giudiziaria avrebbe potuto entrare senza consenso nei nostri dispositivi (tramite programmi informatici che permettono accesso da remoto, i Trojan) e sapere tutto su di noi. Questo emendamento non è passato perché non si sarebbe trattato di semplice intercettazione di flusso informatico, ma sarebbe stato equivalente a una intercettazione di dati, una perquisizione, un sequestro ecc.
+
+### Casi di studio
+
+####Caso 1 – Introduzione alla lezione
+Ho litigato con la mia fidanzata e
+ decido di lasciarla con un messaggio su WhatsApp al quale
+ aggiungo qualche frase con proposte oscene e volgari. Per sbaglio lo mando alla madre della ragazza che lo posta su Facebook.
+Cosa mi può succedere?
+casi di studio - ragazza e foto ubriaca - risposta corretta è 1.
+
+####Caso 2
+Per fare uno scherzo alla mia fidanzata, ho postato sulla sua Facebook una foto dell’ultima festa di compleanno, in cui era visibilmente ubriaca. Lei si è arrabbiata molto, ma la foto ha divertito gli utenti di Facebook che hanno messo molti “like”. Cosa può fare se volesse farmela pagare?
+1. Può querelarmi per diffamazione e trattamento illecito dei dati personali;
+2. Niente, perché la foto non integra un’offesa alla reputazione, anzi ha fatto divertire gli utenti;
+3. Niente, perché lei era d’accordo a farsi scattare la foto Una querela per ingiuria.
+
+###Conclusioni lezione 5
+	il web non è un Far West si lasciano molte più traccie che da qualsiasi altra parte
+
 
 
 # Parte Metodologica 
