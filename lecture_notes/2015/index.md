@@ -42,6 +42,7 @@
 		- [Riservatezza, protezione dei dati personali e copyright](#riservatezza,-protezione-dei-dati-personali-e-copyright)
 			- [Protezione dei dati e riservatezza](#protezione-dei-dati-e-riservatezza)
 			- [Il trattamento dei dati personali](#il-trattamento-dei-dati-personali)
+	- [La Rivoluzione Digitale (lezione 6)] (#la-rivoluzione-digitale-lezione-6)
 - [Parte Metodologica](#parte-metodologica)
 	- [Introduzione (lezione 1)](#introduzione)
 		- [Lezioni](#lezioni)
@@ -820,6 +821,18 @@ Per fare uno scherzo alla mia fidanzata, ho postato sulla sua Facebook una foto 
 ###Conclusioni lezione 5
 	il web non è un Far West si lasciano molte più traccie che da qualsiasi altra parte
 
+##La Rivoluzione Digitale (lezione 6)
+Il binomio “Rivoluzione Digitale” può avere diverse accezioni, ma partiamo con il significato dei singoli termini:
+- La parola “digitale” già è conosciuta dalla maggior parte delle persone e in pressoché qualsiasi corso di informatica di base se ne conosce il vero significato.
+Chi non lo conoscesse faccia riferimento al manuale citato nel paragrafo [Preparazione per il corso](#preparazione-per-il-corso-lezione-2).
+- L'altro termine è “rivoluzione” che ha una storia molto estesa e diverse accezioni. Su questo termine si potrebbero fare corsi e corsi, qui verrà presentata una breve sintesi.
+
+In questa parte si cercherà quindi di fare qualche ragionamento per rispondere alla domanda con cui si è iniziato il corso: quella che stiamo vivendo è una Rivoluzione Digitale? 
+
+###Sul concetto di “rivoluzione”
+Il termine “rivoluzione” infatti usato in contesti molto diversi tra loro e non si può dare una definizione unica al termine.
+
+Per quanto riguarda la sua etimologia, secondo la definizione del vocabolario Treccani è un termine (singolare femminile) che deriva dal termine latino tardo *revolutio -onis* che significa “rivolgimento, ritorno”.
 
 
 # Parte Metodologica 
