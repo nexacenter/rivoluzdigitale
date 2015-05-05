@@ -672,7 +672,76 @@ Nei social network quindi non ha senso di parlare di privacy e riservatezza, ma 
 
 ####Il trattamento dei dati personali
 Quando i propri dati personali vengono sottratti e usati per un fine diverso da quello che si era inteso per un determinato dato si parla di diritto ala protezione dei dati.
-Il trattamento illecito dei dati personali è la violazione della “identità informazionale” delle persone, identità che è assurta a diritto nuovo nell’art. 8 della Carta UE..
+Il trattamento illecito dei dati personali è la violazione della “identità informazionale”
+ delle persone, identità che è assurta a diritto nuovo nell’art. 8 della Carta UE.
+
+Per essere più precisi: “La normativa a protezione dei dati personali disciplina
+ la circolazione e l'utilizzo indipendentemente da una
+ valenza informativa del dato negativa o lesiva della
+ dignità e dell'onore. L'illecito trattamento deriva dal “furto” del dato, ovvero dall'utilizzo di un dato
+ personale altrui senza consenso o senza valida
+giustificazione (ad es. l'esecuzione di un contratto o un
+ obbligo di legge), per fini che sono propri del
+ “ladro” (il nuovo titolare).Se reputazione ed onore sono i beni protetti lesi dalla
+ diffamazione, il trattamento illecito non implica
+ affatto la lesione diretta di tali beni, ma
+ semplicemente l'uso di una informazione personale
+ (anche neutra come un numero di telefono) per
+ propositi propri di chi la utilizza, ultronei rispetto a
+ quelli assentiti dall'interessato o ammessi dalla legge.”
+
+L'articolo 167, inoltre, descrive il trattamento illecito dei dati come:
+“Art. 167. Trattamento illecito di dati
+: 1) chiunque, al fine di trarne per sé o per altri
+ profitto o di recare ad altri un danno, procede al
+ trattamento di dati personali in violazione di quanto
+ disposto dagli articoli... è punito, se dal fatto deriva
+nocumento, con la reclusione da sei a diciotto mesi
+ o, se il fatto consiste nella comunicazione o
+ diffusione, con la reclusione da sei a ventiquattro
+mesi.
+2) chiunque, al fine di trarne per sé o per altri
+ profitto o di recare ad altri un danno, procede al
+ trattamento di dati personali [sensibili] è punito, se
+dal fatto deriva nocumento, con la reclusione da uno
+ a tre anni.
+
+Tuttavia il reato di violazione della protezione dei dati è difficile che sia punito perché, nonostante sia descritto dall'art 167 sopracitato, ha una serie di limitazioni tra cui il nocumento ed è quindi difficile che sussista. 
+
+Spesso quindi si ricade in altri reati senza infrangere per forza l'articolo 167. Ad esempio nel caso del numero di telefono scritto in un bagno pubblico, piuttosto che violare la protezione dei dati, si commette un atto di diffamazione.
+
+####Uso del dato
+Finché non si diffonde il dato, si possono trattare i dati personali di tutti e si non applica la legge sulla protezione dei dati personali, ciò cambia nel momento in cui questi vengano usati per fini di lucro o se i dati vengono resi pubblici.
+
+Ad esempio si commette un reato di violazione dei dati personali se si posta su un profilo pubblico di Facebook una foto di una ragazza senza il suo consenso. 
+Tutte le foto se diffuse pubblicamente (cioè pubblicate), se ritraggono persone specifiche bisogna essere sicuri che il soggetto sia d'accordo. Tuttavia se la foto viene pubblicata per cronaca, magari in in un evento aperto, è difficile che si compi un reato, anche nel caso in cui si stiano diffondendo dati personali, ad esempio nel caso di una foto di una classe in un università pubblica durante una lezione pubblica.
+
+Inoltre, anche se la foto è su internet ma accessibile solo al colui che le ha pubblicate (per uso personale), o ad amici di amici non si infrange la legge sulla protezione dei dati. Se questa è pubblica bisogna allora rispettare i 3 criteri citati nel paragrafo [Diritto di cronaca, di critica e di satira](#diritto-di-cronaca-di-critica-e-di-satira), quindi verificare: verità, pubblico interesse e continenza, oltre a verificare che i dati non siano usati per fini di lucro.
+
+Sempre riguardo alle immagini ritraenti terzi,esiste un diritto più profondo rispetto ai diritto di protezione dei dati personali che è il diritto di immagine.
+Nell'arte bisogna chiedere la liberatoria per ritrarre soggetti terzi in foto.
+L'unico diritto che se esercitato che non richiede liberatoria è quello di cronaca.
+
+####Il copyright
+Avere problemi giuridici per reati commessi su internet è tutto sommato un avvenimento remoto (tanto quanto commetterlo nella vita fisica). È molto difficile avere problemi legali senza essersi resi conto che si stava commettendo un atto illegale (il senso dell'illegalità).
+
+Uno dei pochi casi in cui c'è poca percezione dell'illegalità è scaricando materiale coperto da copyright.
+Secondo molti esperti il copyright, o meglio, il diritto d'autore come esiste oggi è incompatibile col web per questa mancata percezione dell'illegalità da parte di chi scarica materiale protetto e magari lo condivide.
+
+L'articolo 171 della legge sul diritto d'autore (L.d.A.) recita che infrange il copyright “chiunque, senza averne diritto,qualsiasi scopo e in qualsiasi forma:a
+ bis) mette a disposizione del pubblico,
+immettendola in un sistema di reti telematiche, mediante connessioni di
+ qualsiasi genere, un'opera dell'ingegno
+ protetta, o parte di essa”. 
+
+Chi scarica quindi non risponde del reato, solo chi carica il video e lo diffonde commette un reato. Se si scarica un video se ne sta facendo una copia, quindi una riproduzione, quindi nell'atto di duplicare si sta infrangendo il copyright se “il fatto è commesso per uso non personale, a fini di lucro è punito da 6 mesi fino a 3 anni” (art. 171 ter L.d.A.). 
+Ciò non accade se si vede il filmato in *streaming* in quanto non si sta facendo una copia del file protetto.
+
+Per quanto riguarda i contenuti riusabili, il fatto che un'immagine sia su internet non implica che si possa riusare. Tuttavia se nel suo riuso non si danneggia nessuno, nel caso in cui il detentore dei diritti si accorga del riuso non autorizzato chiederà al massimo di tirare giù il contenuto da internet e molto difficilmente ci sono ripercussioni dal punto di vista legale.
+
+In questo ambito un grande passo che dovrebbe fare il diritto d'autore sarebbe distinguere il guadagno (illecito) sul lavoro degli altri dalla condivisione del lavoro degli altri.
+
+Un buon esempio che dà idea delle problematiche e degli aspetti controversi di oggi sul copyright è il film open-source “RIP!: a remix manifesto” (http://en.wikipedia.org/wiki/RiP!:_A_Remix_Manifesto).
 
 
 # Parte Metodologica 
