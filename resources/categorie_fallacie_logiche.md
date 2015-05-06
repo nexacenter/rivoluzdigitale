@@ -138,4 +138,8 @@ usare prove da esperti o studi sconosciuti, I cosiddetti “LORO”: “Dicono
 -   distorsione:
     creare una visione distorta o caricaturale della tesi opposta e poi argomentare contro questa, anche detta fallacia dello spaventapasseri (straw man): spesso questa tecnica e\` applicata in politica giocando sugli stereotipi.
 
-
++Un ringraziamento per parte del documento originale a [LukeStonehm](http://lukestonehm.co.za/)
++
++Quest'opera e' soggetta alla licensa Creative Commons 4.0 “Attribuzione-CondividiAlloStessoModo”
++
++[creativecommons.org](http://creativecommons.org/licenses/by-sa/4.0/)
