@@ -1,8 +1,7 @@
 # Appellarsi alla "ragione"
 
 -   chiamare in gioco una autorita\` anonima:
-
-    usare prove da esperti o studi sconosciuti, I cosiddetti “LORO”: “Dicono
+usare prove da esperti o studi sconosciuti, I cosiddetti “LORO”: “Dicono
     che OS X sia un sistema inattaccabile dai virus”;
 
 -   rifarsi al senso comune:
