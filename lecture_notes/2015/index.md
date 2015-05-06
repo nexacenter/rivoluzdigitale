@@ -55,11 +55,10 @@
 		- [Iscrizione alla mailing list](#iscrizione-alla-mailing-list)
 		- [Iscrizione a Twitter](#iscrizione-a-twitter)
 	- [Integrità (lezione 3)](#integrità-lezione-3)
-	
-			- [Efficienza](#efficienza)
-			- [Definizione](#definizione)
-			- [Emergenze](#emergenza)
-			- [L'integrità per il singolo](#lintegrit%C3%A0-per-il-singolo)
+		- [Efficienza](#efficienza)
+		- [Definizione](#definizione)
+		- [Emergenze](#emergenza)
+		- [L'integrità per il singolo](#lintegrit%C3%A0-per-il-singolo)
 	- [Migliorare a pubblicare (lezione 4)](#migliorare-a-pubblicare-lezione-4)
 		- [Pubblicare su Twitter](#pubblicare-su-twitter)
 		- [La mailing list – Cercare, scrivere e rispondere](#)
@@ -902,11 +901,11 @@ La definizione di integrità a cui facciamo riferimento in questo corso è data 
 
 <nota> SSRN è un portale dove si pubblicano direttamente i risultati scientifici senza passare attraverso le riviste scientifiche. Questo tipo di pubblicazione, scaricabile gratis è chiamata *Open Access* (che è un argomento ortogonale all'integrità). </nota>
 
-#### Efficienza
+### Efficienza
 Solitamente l'integralità è percepita semplicemente come un vincolo morale ma Michael Jensen,  con un classico approccio orientato al business, per spiegarla parte dal definire l'**efficienza**.   
 Jensen ha notato che se i singoli lavoratori di un'organizzazione sono integri l'efficienza è anche il 200% più alta che in organizzazioni in cui non vige l'integrità. 
 
-#### Definizione
+### Definizione
 Ma quindi cosa si intende per integrità? Ha a che fare con gli impegni che gli individui prendono con altri individui. Vale a dire impegni presi da x verso y dove y può essere un superiore, un collega, un cliente, un fornitore ecc.   
 
 Con impegno si intende il vincolo che si prende per fare una determinata cosa entro un determinato tempo – e.g.: “mi impegno a scrivere un rapporto entro giovedì prossimo”.   
@@ -917,14 +916,14 @@ Una parte importante di questo processo è anche prevedere dei margini di sicure
 
 Nel momento in cui le persone tendono a comportarsi in modo integro quindi si crea una situazione di fiducia e non è più necessario creare piani B e C. È una cosa relativamente semplice come concetto e porta a miglioramenti di efficienza notevoli. 
 
-#### Emergenze
+### Emergenze
 Gli imprevisti possono tuttavia sempre capitare e può succedere che non si riesca più a far fronte ai propri impegni.
 Quindi in come si possono trattare le emergenze? Nel caso delle effettive emergenze l'integrità prevede:   
  - comunicare che c'è un imprevisto, appena lo so devo comunicare che c'è l'imprevisto 
  - scusarsi 
  - riprogrammare dando una data certa: bisogna essere realistici nella riprogrammazione (è un nuovo impegno) 
 
-#### L'integrità per il singolo
+### L'integrità per il singolo
 Il singolo in questo contesto è inteso come qualcuno che, ad esempio non lavora in un gruppo di lavoro o in un azienda e che potrebbe essere un *free lance*. Visto che si lavora da soli e non ci sono superiori si potrebbe pensare che l'integrità sia un vincolo meno stringente. Tuttavia comportarsi in modo integro con chiunque fa sì che ci si costruisca e si mantenga una reputazione con i propri clienti e fornitori. Per un *free lance* è fondamentale la reputazione, è un vantaggio economico molto forte, in quanto banalmente libero gli altri dall'ansia che il mio compito sia eseguito per la data richiesta. 
 
 ## Migliorare a pubblicare (lezione 4)
