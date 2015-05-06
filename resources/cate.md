@@ -2,12 +2,14 @@
 
 -   chiamare in gioco una autorita\` anonima:
 
-usare prove da esperti o studi sconosciuti, I cosiddetti “LORO”: “Dicono
-che OS X sia un sistema inattaccabile dai virus”;
+    usare prove da esperti o studi sconosciuti, I cosiddetti “LORO”: “Dicono
+    che OS X sia un sistema inattaccabile dai virus”;
 
 -   rifarsi al senso comune:
+    affermare che qualcosa sia vero soltanto perche` appartenente alla pratica comune: “E` sempre stato cosi`...”;
 
 -   appello all'ignoranza:
+    una frase e` vera perche` non e` stata provata falsa, o viceversa: “Nessuno ha dimostrato che dormire con il wifi acceso faccia male, quindi so che non fa male”;
 
 -   usare l'incredulita\`:
 
@@ -21,14 +23,15 @@ che OS X sia un sistema inattaccabile dai virus”;
 
 -   richiamarsi alla storia o alla tradizione:
 
-APPELLARSI ALLE EMOZIONI
+# Appellarsi alle emozioni
 
 -   mettere in gioco la paura:
 
-argomentare usando la paura e I pregiudizi: “ancora prima che te ne
-accorga ci staranno in giro piu\` moschee che chiese”;
+    argomentare usando la paura e I pregiudizi: “ancora prima che te ne
+    accorga ci staranno in giro piu\` moschee che chiese”;
 
 -   usare complimenti:
+    usare un complimento irrelevante per far accettare la propria affermazione: si pensi alla fiaba “I vestiti            dell'imperatore”;
 
 -   richiamarsi all' “ordine naturale delle cose”:
 
