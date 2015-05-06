@@ -43,6 +43,9 @@
 			- [Protezione dei dati e riservatezza](#protezione-dei-dati-e-riservatezza)
 			- [Il trattamento dei dati personali](#il-trattamento-dei-dati-personali)
 	- [La Rivoluzione Digitale (lezione 6)] (#la-rivoluzione-digitale-lezione-6)
+	
+
+
 - [Parte Metodologica](#parte-metodologica)
 	- [Introduzione (lezione 1)](#introduzione)
 		- [Lezioni](#lezioni)
@@ -52,10 +55,11 @@
 		- [Iscrizione alla mailing list](#iscrizione-alla-mailing-list)
 		- [Iscrizione a Twitter](#iscrizione-a-twitter)
 	- [Integrità (lezione 3)](#integrità-lezione-3)
+	
 			- [Efficienza](#efficienza)
 			- [Definizione](#definizione)
 			- [Emergenze](#emergenza)
-			- [L'integrità per il singolo](#)
+			- [L'integrità per il singolo](#lintegrit%C3%A0-per-il-singolo)
 	- [Migliorare a pubblicare (lezione 4)](#migliorare-a-pubblicare-lezione-4)
 		- [Pubblicare su Twitter](#pubblicare-su-twitter)
 		- [La mailing list – Cercare, scrivere e rispondere](#)
