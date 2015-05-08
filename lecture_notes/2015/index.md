@@ -376,6 +376,9 @@ delle fonti e integralità. verificare consistenza logica e confrontare
 con altre fonti -- tutto ciò costa del tempo, ma il palio c'è la
 conoscenza del mondo.
 
+###Fonti - comunicare in pubblico
+##### [Due Righe da Leggere prima di Qualunque Discussione](http://www.laprimaveradellascienza.it/due-righe-da-leggere-prima-di-qualunque-discussione/)
+
 ## La proprietà intellettuale (lezione 3) 
 Per il corso è richiesto aprire e pubblicare in un blog (che contenga testi, foto ecc). Dopo aver affrontato temi quali la correttezza comunicativa e la correttezza di chi pubblica, ora verranno introdotti alcuni concetti fondamentali relativi alla proprietà intellettuale. A chi pubblica in un blog (e per i fini pratici del corso) interessa soprattutto il diritto di autore, tuttavia verranno fatti accenni anche ai brevetti e ai marchi.
 
