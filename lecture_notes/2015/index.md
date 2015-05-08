@@ -187,7 +187,7 @@ articolo in cui sono presenti affermazioni non frutto di proprie
 elaborazioni e di cui non si riporti l’autore originale tramite una
 citazione è considerato plagio. Il plagio, oltre ad essere legalmente
 perseguibile, è moralmente sbagliato; esiste un rapporto di fiducia con
-il lettore che deve e vuole sapere da chi derivino certi ragionamenti [fonte](#due-righe-da-leggere-prima-di-qualunque-discussione).
+il lettore che deve e vuole sapere da chi derivino certi ragionamenti [[fonte](#due-righe-da-leggere-prima-di-qualunque-discussione)].
 
 ### Cosa è possibile comunicare
 
