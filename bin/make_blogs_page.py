@@ -59,7 +59,7 @@ def main():
             continue
         sys.stdout.write("<tr>\n")
         write_blog_number(index)
-        write_blog_name(row[2])
+        write_blog_name(row[3])
         write_student(row[4], row[5])
         write_student(row[6], row[7])
         write_student(row[8], row[9])
