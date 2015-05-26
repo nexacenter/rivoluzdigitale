@@ -328,7 +328,22 @@ FAQ cancellata perche' non piu' attuale.
 1.9. Come posso gestire l'indirizzo email del Politecnico usando un mio client di posta?
 ----------------------------------------------------------------------------------------
 
-FAQ cancellata perche' non piu' attuale.
+### iOS (Server IMAP) [Aggiornato ad iOS 8.x]
+1. In un dispositivo iOS, da Impostazioni recati su "Posta, Contatti, Calendari".
+2. Selezionare "Aggiungi account"->"Altro"->"Aggiungi account Mail".
+3. Inserire il proprio nome e cognome nel campo "Nome".
+4. Specificare il proprio indirizzo di posta elettronica nella forma `s000000@studenti.polito.it`, oppure, se attivato, il proprio alias di posta elettronica nella forma `nome.cognome@studenti.polito.it`, nel campo "E-mail".
+5. Inserire la propria password (la stessa utilizzata per accedere alla pagina personale nel Portale della Didattica) nel campo "Password" e premere "Avanti". 
+6. In "SERVER POSTA IN ARRIVO", nel campo "Nome host" inserire `imap.studenti.polito.it`, nel campo "Nome utente" specificare l'indirizzo di posta elettronica inserito precedentemente (nel formato `s000000@studenti.polito.it` o `nome.cognome@studenti.polito.it`).
+7. In "SERVER POSTA IN USCITA", nel campo "Nome host" inserire `smtp.studenti.polito.it`, nel campo "Nome utente" specificare l'indirizzo di posta elettronica inserito precedentemente (nel formato `s000000@studenti.polito.it` o `nome.cognome@studenti.polito.it`), infine inserire la propria password (la stessa utilizzata per accedere alla pagina personale nel Portale della Didattica) nel campo "Password".
+8. Premere il pulsante "Avanti" e deselezionare "Note".
+9. Premere infine su "Salva" per terminare la procedura di configurazione.
+
+Per altri sistemi operativi consultare i parametri di configurazione [sul sito del Politecnico di Torino](https://didattica.polito.it/mail/parametri_configurazione.html)
+
+FAQ contribuita da [Roberto Alessi].
+
+[Roberto Alessi]: https://twitter.com/robymontyz
 
 1.10. Sono un neofita di Twitter. Che fare? Tre info su come comportarsi. 
 -------------------------------------------------------------------------
