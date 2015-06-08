@@ -828,6 +828,7 @@ Per fare uno scherzo alla mia fidanzata, ho postato sulla sua Facebook una foto 
 	il web non è un Far West si lasciano molte più traccie che da qualsiasi altra parte
 
 ##La Rivoluzione Digitale (lezione 6)
+
 Il binomio “Rivoluzione Digitale” può avere diverse accezioni, ma partiamo con il significato dei singoli termini:
 - La parola “digitale” già è conosciuta dalla maggior parte delle persone e in pressoché qualsiasi corso di informatica di base se ne conosce il vero significato.
 Chi non lo conoscesse faccia riferimento al manuale citato nel paragrafo [Preparazione per il corso](#preparazione-per-il-corso-lezione-2).
@@ -838,11 +839,21 @@ In questa parte si cercherà quindi di fare qualche ragionamento per rispondere 
 ###Sul concetto di “rivoluzione”
 Il termine “rivoluzione” infatti usato in contesti molto diversi tra loro e non si può dare una definizione unica al termine.
 
-Per quanto riguarda la sua etimologia, secondo la definizione del vocabolario Treccani è un termine (singolare femminile) che deriva dal termine latino tardo *revolutio -onis* che significa “rivolgimento, ritorno”.
+Per quanto riguarda la sua etimologia, secondo la definizione del vocabolario Treccani è un termine (singolare femminile) che deriva dal termine latino tardo *revolutio -onis* che significa “rivolgimento, ritorno” (http://www.treccani.it/vocabolario/rivoluzione/).
 
+Possiede diversi significati e la descrizione è divisa in 2 macrosezioni:
 
-# Parte Metodologica 
-In questa parte metodologica verrà esposto come aprire un blog post, come scrivere un blog post, come girare un video col proprio smartphone, come interagire su Twitter e su una mailing list, come contribuire a Wikipedia e altre cose a contorno.
+1. Nell’uso scientifico, per un corpo in movimento intorno a un altro corpo, lo stesso che giro completo, e anche il relativo moto, più propriam. detto moto di r.; in senso meno proprio è usato come sinonimo di rotazione (di un corpo intorno a un asse). In particolare:
+	- in geometria: superficie o solido di rivoluzione (o rotazione);
+	- in astronomia: moto di rivoluzione, il moto di un corpo celeste (pianeta, satellite, compagno di una stella doppia) intorno al suo centro di gravitazione;
+	- nel linguaggio tecnico è un sinonimo di giro con riferimento alla rotazione di un organo meccanico rotante;
+	- nel linguaggio medico o ciclo cardiaco, l’insieme delle fasi di contrazione attiva, o sistole, di rilasciamento, o diastole, e di riposo del cuore.
+
+2. Mutamento radicale di un ordine statuale e sociale, nei suoi aspetti economici e politici: 
+	a. accezione storica e politica:
+ - **In senso stretto, il processo rapido, e per lo più violento, attraverso il quale ceti, classi o gruppi sociali, ovvero intere popolazioni, sentendosi non sufficientemente rappresentate dalle vigenti istituzioni, limitate nei diritti o nella distribuzione della ricchezza che hanno concorso a produrre, sovvertono tali istituzioni al fine di modificarle profondamente e di stabilire un nuovo ordinamento.** Questa è forse l'accezione più forte perché connotata politicamente. Gli esempi che vengono riportati da Treccani cominciano con la rivoluzione americana (che, mossa dai coloni inglesi contro la madrepatria, determinò la costituzione degli Stati Uniti d’America), poi la rivoluzione francese e la rivoluzione sovietica.
+
+Tuttavia non viene ricordata la rivoluzione inglese, anche nota come prima rivoluzione inglese o guerra civile inglese che ha avuto un ruolo fondamentale per la moderna società basata sulle informazioni e la conoscenza. 
 
 ## Introduzione (lezione 1) 
 In questa parte introduttiva verrà spiegato concretamente come si svolgerà il corso.
