@@ -841,9 +841,9 @@ Il termine “rivoluzione” infatti usato in contesti molto diversi tra loro e 
 
 Per quanto riguarda la sua etimologia, secondo la definizione del vocabolario Treccani è un termine (singolare femminile) che deriva dal termine latino tardo *revolutio -onis* che significa “rivolgimento, ritorno” (http://www.treccani.it/vocabolario/rivoluzione/).
 
-Possiede diversi significati e la descrizione è divisa in 2 macrosezioni:
+Possiede diversi significati e la descrizione è divisa in 2 macro-sezioni:
 
-1. Nell’uso scientifico, per un corpo in movimento intorno a un altro corpo, lo stesso che giro completo, e anche il relativo moto, più propriam. detto moto di r.; in senso meno proprio è usato come sinonimo di rotazione (di un corpo intorno a un asse). In particolare:
+1. Nell’uso scientifico, per un corpo in movimento intorno a un altro corpo, lo stesso che giro completo, e anche il relativo moto, più propriamente detto moto di r.; in senso meno proprio è usato come sinonimo di rotazione (di un corpo intorno a un asse). In particolare:
 	- in geometria: superficie o solido di rivoluzione (o rotazione);
 	- in astronomia: moto di rivoluzione, il moto di un corpo celeste (pianeta, satellite, compagno di una stella doppia) intorno al suo centro di gravitazione;
 	- nel linguaggio tecnico è un sinonimo di giro con riferimento alla rotazione di un organo meccanico rotante;
@@ -851,10 +851,89 @@ Possiede diversi significati e la descrizione è divisa in 2 macrosezioni:
 
 2. Mutamento radicale di un ordine statuale e sociale, nei suoi aspetti economici e politici: 
 	a. accezione storica e politica:
- - **In senso stretto, il processo rapido, e per lo più violento, attraverso il quale ceti, classi o gruppi sociali, ovvero intere popolazioni, sentendosi non sufficientemente rappresentate dalle vigenti istituzioni, limitate nei diritti o nella distribuzione della ricchezza che hanno concorso a produrre, sovvertono tali istituzioni al fine di modificarle profondamente e di stabilire un nuovo ordinamento.** Questa è forse l'accezione più forte perché connotata politicamente. Gli esempi che vengono riportati da Treccani cominciano con la rivoluzione americana (che, mossa dai coloni inglesi contro la madrepatria, determinò la costituzione degli Stati Uniti d’America), poi la rivoluzione francese e la rivoluzione sovietica.
+ - *In senso stretto, il processo rapido, e per lo più violento, attraverso il quale ceti, classi o gruppi sociali, ovvero intere popolazioni, sentendosi non sufficientemente rappresentate dalle vigenti istituzioni, limitate nei diritti o nella distribuzione della ricchezza che hanno concorso a produrre, sovvertono tali istituzioni al fine di modificarle profondamente e di stabilire un nuovo ordinamento.* Questa è forse l'accezione più forte perché connotata politicamente. Gli esempi che vengono riportati da Treccani cominciano con la rivoluzione americana (che, mossa dai coloni inglesi contro la madrepatria, determinò la costituzione degli Stati Uniti d’America), poi la rivoluzione francese e la rivoluzione sovietica.
 
 Tuttavia non viene ricordata la rivoluzione inglese, anche nota come prima rivoluzione inglese o guerra civile inglese che ha avuto un ruolo fondamentale per la moderna società basata sulle informazioni e la conoscenza. 
 
+	b. in un senso più ampio, qualsiasi processo storico, anche **non violento e propratto nel tempo**. Per esempio la rivoluzione romana, il passaggio dal governo repubblicano al principato (cioè l'imperatore), oppure la rivoluzione operata dal cristianesimo, nella società e nei modi di vita.
+
+Con determinanzioni specifiche:
+ - r. industriale: il processo di profonda trasformazione produttiva, e sociale, conseguente al sorgere delle prime industrie in Inghilterra, e quindi in Europa e nell’America del Nord, tra la fine del sec. 18° e l’inizio del sec. 19° e, con qualificazioni di volta in volta diverse, ogni processo analogo che si determina per l’affermarsi di nuove tecnologie industriali (la r. tecnologica della metà del Novecento; la r. cibernetica, elettronica, ecc.);
+ - r. copernicana, la radicale trasformazione delle idee cosmologiche operata dalla teoria eliocentrica di N. Copernico (1473-1543) rispetto alla concezione geocentrica aristotelico-tolemaica - nel titolo dell'opera (“De revolutionibus orbium coelestium”) viene usato il termine rivoluzione in senso astronomico;
+ - r. demografica, il processo evolutivo che ha luogo in alcune popolazioni, caratterizzato da un forte declino della mortalità e della natalità;
+ - r. keynesiana, la nuova impostazione data dall’economista inglese J. M. Keynes ai problemi fondamentali della teoria economica, soprattutto con l’opera General theory of employment, interest and money (1936);
+ - rivluzione scientifica: nella storiografia della scienza, il periodo (sec. 17°) che vide l’affermarsi della «nuova» fisica di Galileo e di Newton* viene definita così da Alessandro Coirè nel 1940 per la prima volta;
+ - rivoluzione dei tecnici: secondo la terminologia e la tesi dell’americano J. Bumham nell’opera The managerial revolution del 1941, l’avvento al potere della nuova classe di tecnici aziendali, che dovrebbe finire per rendere sempre più irrilevanti le distinzioni tra economia collettivista e capitalistica.
+
+	c. Mutamento, trasformazione, innovazione radicale: quella scoperta è stata una r., una vera r.; l’elettronica ha portato una r. in quasi tutti i settori; grave disordine e sconvolgimento: che r., in casa, con questo continuo va e vieni di figli e nipoti; devo aver mangiato qualcosa che mi ha fatto male: ho una gran r. nello stomaco, o nell’intestino, o anche ho lo stomaco, l’intestino in rivoluzione.
+
+###La rivoluzione inglese
+Tra il 1625 e 1660 si è sperimentato un grandissimo calderone della modernità.
+Diverse furono le cause cause: 
+ - religiose: contrasto aspro tra varie fazioni religiose (cattolicesimo – anglicanesimo-puritanesimo);
+ - economiche: a causa delle recinzioni dei commons e dell'inizio dell'economia capitalistica;
+ - sociali: a causa della rivoluzione educativa del '500
+ - politiche: molte persone vengono a conoscenza di una cultura umanistica e vengono a sapere della Repubblica Romana, del suo funzionamento e del senato.
+Da un monarchia assoluta si passa alla monarchia costituzionale, viene creata una delle prime costituzioni, l’eccezione inglese che risale alla **Magna Charta Libertatum** del 1215.
+Viene sancito nuovamente il diritto all'*habeas corpus* (traduzione: "che (l'accusa) abbia sostanza (cioè corpo)" oppure "che tu abbia il corpo", era già presente nella Magna Charta, ma col tempo aveva perso efficacia),in pratica che il sovrano non potesse più “mettere le mani” *sui nobili* senza un adeguato processo.
+
+Un piccolo inciso, negli ultimi tempi si parla di *habeas data* (il diritto al controllo dei propri dati), oltre alla la tutela sulla persona bisogna avere anche la tutela sui dati dispositivi della persona
+
+Il susseguirsi degli eventi si può scandire un queste fasi cruciali:
+ - anni di contrasti tra parlamento e Carlo I – il re non ha burocrazia, non ha un esercito fisso e non ha nessuna possibilità di imporre tasse (vengono solo imposte accise);
+ - nel 1640 scoppia la guerra;
+ - nel 1649 viene fatto un processo a Carlo I che viene decapitato;
+ - Cromwell instaura una repubblica militare e il *commonwealth* (nella sua accezione originale con Commonwealth si intendeva stato governato per il bene comune in opposizione ad uno stato autoritario, governato per il beneficio di una data classe di proprietari);
+ - Poco dopo la morte di Cromwell (1658) suo figlio non riesce a continuare e tornano gli Stuart, avviene la Restaurazione Stuart (1660);
+- nel 1688 la “Gloriosa Rivoluzione” - cacciati gli Stuart, il trono passa (su invito degli inglesi) a Guglielmo III d’Orange;
+- nel 1689 firma (obbligatoria) del Bill of Rights - Prima monarchia costituzionale d’Europa, separazione tra esecutivo e legislativo
+
+Perché si parla della Rivoluzione Inglese in un corso di Rivoluzione Digitale?
+Per diverse ragioni:
+- viene usata per la prima volta la parola rivoluzione in senso politico per indicare (paradossalmente) la restaurazione del 1660. Per poi venire usato in modo diverso con la "gloriosa rivoluzione" e la salita al trono di Guglielmo d'Orange.
+- nascono i primi giornali informativi - non ancora quotidiani, ma comunque cadenzati nelle loro uscite. Si para di guerra di carta, guerra di pamphlet, libri dal contenuto aggressivo;
+- nasce la prima cosa simile ai partiti politici;
+- nasce il primo partito politico di *gente umile*;
+- nasce l'idea di volere una repubblica, una democrazia (parola praticamente bandita) e suffragio universale (con il movimento del *Levellers* - livellatori, John Lilburne);
+- nasce il comunismo agrario, la terra deve essere di chi la coltiva (i diggers - gli zappatori, Gerard Winstanley e William Everard);
+- i pubblici dibattiti hanno un ruolo centrale – si dibatte sulla nuova costituzione inglese, tutto viene trascritto da stenografi;
+- separazione dei poteri - esecutivo e legislativo;
+- sono gli anni in cui si parla di libertà di espressione, in particolare per i rappresentanti del popolo che possano dire ciò che vogliono senza essere arrestati dal re;
+- nasce la prima dichiarazione dei diritti, il Bill of Rights UK, che sarà il punto di partenza della *Bill of Rights* degli Stati Uniti, quasi contemporaneamente nasce la *declaration* francese. Solo due secoli dopo, nel 1948, nascerà dichiarazione dei diritti dell'uomo.
+
+Per quanto riguarda la comunicazione, nascono:
+- le prime stampe ad esempio il Mercurius Rusticus di Bruno Ryves (http://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo;idno=A58041.0001.001);
+- insieme alle prime stampe nascono anche le prime bufale, notizie completamente infondate, ad esempio presunte atrocità commesse da un esercito cattolico contro i protestanti (che dominavano l'Irlanda allora);
+- una prima idea di libertà di espressione e di stampa, la fa il poeta John Milton che argomenta contro la censura. Milton passa alla storia nel 1644 spiegando perché è importante che la stampa che sia libera;
+- i pubblici dibattiti: discussioni pubbliche e razionali su come strutturare la società tramite la nuova costituzione, si tratta di dibattiti illuministici basati sulla retorica e sulla razionalità. Un secolo dopo succede la stessa cosa sui giornali negli Stati Uniti con *federalist paper* americani (in cui, tra gli altri, anche Thomas Jefferson contribuì). Gli antesignani di questi articoli sono quelli di Putney per definire una nuova costituzione.
+
+Uno degli esiti di questo processo è la *Bill of rights* i quali contenuti principali sono:
+
+- la libertà di parola e discussione in Parlamento;
+- il divieto del re di abolire leggi o imporre
+ tributi senza il consenso del Parlamento (*“no taxation without representation”*);
+- libere elezioni per il Parlamento;
+- il divieto del re di mantenere un esercito fisso in tempo di pace senza il consenso del
+ Parlamento;
+- il rifiuto di sottostare ad un possibile re
+ cattolico;
+- Che il parlamento dovesse essere frequentemente riunito.;
+- Che il re potesse perseguitare i suoi sudditi per motivi religiosi (cioè che potesse perseguitare i cattolici.
+
+Questo processo ci ha portato 300 anni dopo al repubblicanesimo, alla democrazia e al suffragio universale. La democrazia è giovanissima (e mai acquisita una volta per sempre)
+
+###Conclusioni lezione 6
+
+Ancora una riflessione prima di dire perchè Rivoluzione Digitale e perchè si potrebbe chiamare così.
+
+In senso astronomico (che è la prima accezione storica)si parla di pianeti che tornano sempre a uno stesso punto.
+Una cosa interessante è che chi ha iniziato le rivoluzioni non aveva nessuna intenzione di instaurare un nuovo ordine delle cose (es: chi ha iniziato rivoluz inglese, francese e in parte americana). L'intenzione originaria era di restaurare “i bei tempi antichi”, in cui c'era un buon re e  non venivano commesse ingiustizie. In pratica si combatteva per tornare a un passato in cui le cose erano più giuste.
+
+Benjamin Franklin non voleva staccarsi dall'Inghilterra durante la guerra di indipendenza americana, avrebbe semplicemente voluto avere rapporti più equi con la madrepatria. 
+
+L'idea iniziale era quindi quella di ritornare a qualcosa di vecchio. Solo con la rivoluzione francese passa l'accezione di creare qualcosa di nuovo (Fonte: Anna Arendt “sulla rivoluzione”)...
+
+# Parte Metodologica
 ## Introduzione (lezione 1) 
 In questa parte introduttiva verrà spiegato concretamente come si svolgerà il corso.
 
