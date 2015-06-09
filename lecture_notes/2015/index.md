@@ -842,21 +842,25 @@ Il termine “rivoluzione” infatti usato in contesti molto diversi tra loro e 
 Per quanto riguarda la sua etimologia, secondo la definizione del vocabolario Treccani è un termine (singolare femminile) che deriva dal termine latino tardo *revolutio -onis* che significa “rivolgimento, ritorno” (http://www.treccani.it/vocabolario/rivoluzione/).
 
 Possiede diversi significati e la descrizione è divisa in 2 macro-sezioni:
+- nell'uso scientifico;
+- per indicare un mutamento radicale.
 
-1. Nell’uso scientifico, per un corpo in movimento intorno a un altro corpo, lo stesso che giro completo, e anche il relativo moto, più propriamente detto moto di r.; in senso meno proprio è usato come sinonimo di rotazione (di un corpo intorno a un asse). In particolare:
+#### Termine Rivoluzione – 1- uso scientifico
+ Nell’uso scientifico, per un corpo in movimento intorno a un altro corpo, lo stesso che giro completo, e anche il relativo moto, più propriamente detto moto di r.; in senso meno proprio è usato come sinonimo di rotazione (di un corpo intorno a un asse). In particolare:
 	- in geometria: superficie o solido di rivoluzione (o rotazione);
 	- in astronomia: moto di rivoluzione, il moto di un corpo celeste (pianeta, satellite, compagno di una stella doppia) intorno al suo centro di gravitazione;
 	- nel linguaggio tecnico è un sinonimo di giro con riferimento alla rotazione di un organo meccanico rotante;
 	- nel linguaggio medico o ciclo cardiaco, l’insieme delle fasi di contrazione attiva, o sistole, di rilasciamento, o diastole, e di riposo del cuore.
 
-2. Mutamento radicale di un ordine statuale e sociale, nei suoi aspetti economici e politici: 
-	a. accezione storica e politica:
+####Termine Rivoluzione – 2- mutamento radicale
+Mutamento radicale di un ordine statuale e sociale, nei suoi aspetti economici e politici: 
+
+a. accezione storica e politica:
  - *In senso stretto, il processo rapido, e per lo più violento, attraverso il quale ceti, classi o gruppi sociali, ovvero intere popolazioni, sentendosi non sufficientemente rappresentate dalle vigenti istituzioni, limitate nei diritti o nella distribuzione della ricchezza che hanno concorso a produrre, sovvertono tali istituzioni al fine di modificarle profondamente e di stabilire un nuovo ordinamento.* Questa è forse l'accezione più forte perché connotata politicamente. Gli esempi che vengono riportati da Treccani cominciano con la rivoluzione americana (che, mossa dai coloni inglesi contro la madrepatria, determinò la costituzione degli Stati Uniti d’America), poi la rivoluzione francese e la rivoluzione sovietica.
 
 Tuttavia non viene ricordata la rivoluzione inglese, anche nota come prima rivoluzione inglese o guerra civile inglese che ha avuto un ruolo fondamentale per la moderna società basata sulle informazioni e la conoscenza. 
 
-	b. in un senso più ampio, qualsiasi processo storico, anche **non violento e propratto nel tempo**. Per esempio la rivoluzione romana, il passaggio dal governo repubblicano al principato (cioè l'imperatore), oppure la rivoluzione operata dal cristianesimo, nella società e nei modi di vita.
-
+b. in un senso più ampio, qualsiasi processo storico, anche **non violento e propratto nel tempo**. Per esempio la rivoluzione romana, il passaggio dal governo repubblicano al principato (cioè l'imperatore), oppure la rivoluzione operata dal cristianesimo, nella società e nei modi di vita.
 Con determinanzioni specifiche:
  - r. industriale: il processo di profonda trasformazione produttiva, e sociale, conseguente al sorgere delle prime industrie in Inghilterra, e quindi in Europa e nell’America del Nord, tra la fine del sec. 18° e l’inizio del sec. 19° e, con qualificazioni di volta in volta diverse, ogni processo analogo che si determina per l’affermarsi di nuove tecnologie industriali (la r. tecnologica della metà del Novecento; la r. cibernetica, elettronica, ecc.);
  - r. copernicana, la radicale trasformazione delle idee cosmologiche operata dalla teoria eliocentrica di N. Copernico (1473-1543) rispetto alla concezione geocentrica aristotelico-tolemaica - nel titolo dell'opera (“De revolutionibus orbium coelestium”) viene usato il termine rivoluzione in senso astronomico;
@@ -865,7 +869,8 @@ Con determinanzioni specifiche:
  - rivluzione scientifica: nella storiografia della scienza, il periodo (sec. 17°) che vide l’affermarsi della «nuova» fisica di Galileo e di Newton* viene definita così da Alessandro Coirè nel 1940 per la prima volta;
  - rivoluzione dei tecnici: secondo la terminologia e la tesi dell’americano J. Bumham nell’opera The managerial revolution del 1941, l’avvento al potere della nuova classe di tecnici aziendali, che dovrebbe finire per rendere sempre più irrilevanti le distinzioni tra economia collettivista e capitalistica.
 
-	c. Mutamento, trasformazione, innovazione radicale: quella scoperta è stata una r., una vera r.; l’elettronica ha portato una r. in quasi tutti i settori; grave disordine e sconvolgimento: che r., in casa, con questo continuo va e vieni di figli e nipoti; devo aver mangiato qualcosa che mi ha fatto male: ho una gran r. nello stomaco, o nell’intestino, o anche ho lo stomaco, l’intestino in rivoluzione.
+c. Mutamento, trasformazione, innovazione radicale: quella scoperta è stata una r., una vera r.; l’elettronica ha portato una r. in quasi tutti i settori; grave disordine e sconvolgimento: che r., in casa, con questo continuo va e vieni di figli e nipoti; devo aver mangiato qualcosa che mi ha fatto male: ho una gran r. nello stomaco, o nell’intestino, o anche ho lo stomaco, l’intestino in rivoluzione.
+
 
 ###La rivoluzione inglese
 Tra il 1625 e 1660 si è sperimentato un grandissimo calderone della modernità.
