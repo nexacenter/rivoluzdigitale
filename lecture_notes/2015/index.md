@@ -929,14 +929,28 @@ Questo processo ci ha portato 300 anni dopo al repubblicanesimo, alla democrazia
 
 ###Conclusioni lezione 6
 
-Ancora una riflessione prima di dire perchè Rivoluzione Digitale e perchè si potrebbe chiamare così.
+Ancora una riflessione prima di dire perché staremmo vivendo in una “Rivoluzione Digitale” e perché si potrebbe chiamare così.
 
 In senso astronomico (che è la prima accezione storica)si parla di pianeti che tornano sempre a uno stesso punto.
-Una cosa interessante è che chi ha iniziato le rivoluzioni non aveva nessuna intenzione di instaurare un nuovo ordine delle cose (es: chi ha iniziato rivoluz inglese, francese e in parte americana). L'intenzione originaria era di restaurare “i bei tempi antichi”, in cui c'era un buon re e  non venivano commesse ingiustizie. In pratica si combatteva per tornare a un passato in cui le cose erano più giuste.
+È interessante notare che chi ha iniziato le rivoluzioni non aveva nessuna intenzione di instaurare un nuovo ordine delle cose (es: chi ha iniziato rivoluz inglese, francese e in parte americana). L'intenzione originaria era di restaurare “i bei tempi antichi, in cui c'era un buon re e  non venivano commesse ingiustizie.”
+In pratica si combatteva per tornare a un passato in cui il sistema era (o si presumesse che fosse) più giusto piuttosto che per instaurare un nuovo ordine.
 
-Benjamin Franklin non voleva staccarsi dall'Inghilterra durante la guerra di indipendenza americana, avrebbe semplicemente voluto avere rapporti più equi con la madrepatria. 
+Ad esempio, Benjamin Franklin non desiderava che gli Stati Uniti si separassero dall'Inghilterra durante la guerra di indipendenza americana, avrebbe semplicemente voluto avere rapporti più equi con la madrepatria. 
+L'idea iniziale era quindi quella di ritornare a qualcosa di vecchio. Solo con la rivoluzione francese la rivoluzione acquisisce il significato di creare qualcosa di nuovo (per approfondimenti: Hannah Arendt “sulla rivoluzione”)
 
-L'idea iniziale era quindi quella di ritornare a qualcosa di vecchio. Solo con la rivoluzione francese passa l'accezione di creare qualcosa di nuovo (Fonte: Anna Arendt “sulla rivoluzione”)...
+Ritornando al termine Rivoluzione Digitale. Nel caso in cui si trattasse di una rivoluzione, a quale definizione di rivoluzione si potrebbe paragonare? Di sicuro non si tratta di un processo rapido, e per lo più violento (la definizione 2a secondo Treccani). Quindi, si ricade nell'accezione 2b, ma sì tratta più di una rivoluzione sullo stile di quella industriale con effetti estesi e profondi, o di quella elettronica cioè più settoriale?
+La Rivoluzione Industriale ha cambiato un paese come l'Inghilterra e ha portato a cambiamenti sconvolgenti mentre la rivoluzione elettronica ha cambiato il modo di fare logistica.
+
+La domanda è se la rivoluzione in senso lato determinata da, per esempio, l'internet delle cose, la PA digitale, i *big data*, potrà essere interpretata dai futuri storici al pari della Rivoluzione Industriale.
+
+La Rivoluzione Industriale ha avuto effetti importanti sulla popolazione – è il periodo in cui i cittadini sradicati dalle campagne si trasferiscono in città e da coltivatori diventano operai. 
+Nel caso della Rivoluzione Digitale non c'è un proletariato urbano, bensì, per ora ci troviamo di fronte a un cambiamenti più sottili. È possibile che alla fine questi determinino un cambiamento complessivo? Quelli che già oggi si vedono sono ad esempio in termini di privacy, di prezzi *ad personam* (nel caso delle assicurazioni), e ovviamente di comunicazioni veloci.
+
+Da non trascurare inoltre è l'impatto della Rivoluzione Digitale sui **posti di lavoro**, quali lavori potrebbero essere presto sostituiti da software e da robot? Secondo alcune stime si tratta del 30-40% dei posti di lavoro, ma se già solo fosse il 20%, l'effetto politico sarebbe travolgente. 
+Se in passato l'innovazione tecnologica ha distrutto posti di lavoro creandone sempre altri che compensavano le perdite, adesso sembra probabile che la perdita di posti di lavoro sarà netta (anche se nessuno sa quantificare con precisione: circolano solo delle stime). Ciò potrebbe portare semplicemente tutti a lavorare di meno (3 ore al giorno? Due giorni a settimana?), ma affinché ciò si avveri, dovrebbero capitare fatti importanti a livello politico, dato che si tratterebbe di ridistribuire fortemente la ricchezza prodotta dalle macchine (per approfondire: London Review of Books di John Lancester: http://www.lrb.co.uk/v37/n05/john-lanchester/the-robots-are-coming). 
+
+Ci sono quindi diversi motivi per ritenere che siamo all'interno di una trasformazione molto profonda e si cerca da diversi anni di capire che direzione dare a questo cambiamento. 
+La cultura USA dagli anni '50 del '900 ha iniziato a pensare alle conseguenze di questi cambiamenti e incanalarli in specifiche direzioni, in Europa e nel resto del mondo abbiamo iniziato a pensarci solo da pochi anni (questo è uno dei motivi del successo della Silicon Valley negli Stati Uniti, per approfondimenti: https://medium.com/backchannel/why-silicon-valley-will-continue-to-rule-c0cbb441e22f).
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
