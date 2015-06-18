@@ -1232,7 +1232,7 @@ Tutte le licenze CC hanno un nome a blocchi, il primo è sempre attribuzione, po
 
 (fonte: creativecommons.org e creativecommons.it)
 
-**Tutte le licenze permettono la condivisione tramite reti peer-to-peer (file sharing)
+**Tutte le licenze permettono la condivisione tramite reti peer-to-peer (file sharing)**
 
 ####Attribuzione (BY)
 Il vincolo di Attribuzione impone di riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile.
