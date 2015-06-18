@@ -1198,3 +1198,25 @@ request@server-nexa.polito.it ossia al software che
 
 Per approfondire l'argomento fare riferimento alla sezione 3.2 del manuale di mailman (il software usato per gestire la lista) e la FAQ 1.1 descrive ciò che è stato spiegato ora.
 Le FAQ sono disponbili su Github e migliorabili da chiunque voglia contribuire.
+
+## licenze Creative Commons  (lezione 7)
+
+A complemento del discorso sul [diritto d'autore (lezione 3)](#il-diritto-dautore), in questo paragrafo verranno presentate le licenze Creative Commons (CC).
+Sono 6 licenze e sono pensate per qualunque cosa (video, fotografie, testi), tranne che per il software (che è particolare, c'è il codice sorgente, il codice oggetto, il codice eseguibile).Queste 6 licenze hanno delle caratteristiche particolari e possono essere molto diverse tra loro.
+
+###Perchè esistono le licenze CC
+Dopo che viene creata un'opera l'autore ha una protezione automatica. Il diritto d'autore si articola in 17 diritti specifici e sono tutti in capo all'autore in automatico, al completamento di un opera. il diritto d’autore non prevede quindi formalità: la piena protezione prevista dalla legge si ottiene in automatico. Questa scelta di fornire all'autore il massimo della protezione in automatico è stata fatta più di 100 anni fa, in modo da garantire sia agli industriali, sia ai poeti squattrinati tutta la protezione senza bisogno di nessun particolare sforzo.
+
+Nel caso in cui si voglia **rinunciare a uno o più di questi diritti**, per fare in modo, ad esempio, che l'opera incontri meno barriere alla diffusione, è necessario comunicarlo. Se nulla è indicato “tutti i diritti sono riservati”.
+Dall'altra parte, se l'opera non è di pubblico dominio, il riutilizzatore deve dimostrare che può usare determinate risorse (tramite eventuali accordi con l'autore).
+
+La verifica se l'autore voglia rinunciare a qualcuno o tutti i diritti, permettendo il riuso in certi contesti, è sempre avvenuta tramite contatti diretti (ad esempio compagnia teatrale che contatta lo scrittore e viene fatto un accordo per concedere l'opera gratuitamente).
+Con Internet è nato il bisogno di comunicare ex-ante a quali diritti un determinato autore voglia rinunciare (anche per non ricevere 100k email per dire a tutti che possano riusare una determinata immagine) e da qui è nata l'esigenza delle licenze Creative Commons che permettessero di riservare solo alcuni diritti (“some rights reserved”).
+
+Prima delle licenze CC era già possibile comunicare ex-ante a quali diritti l'autore rinunciasse. Ad esempio delle pubblicazioni della fondazione Olivetti, veniva scritto "pubblicazione libera se viene citata la fonte": l'ambizione della fondazione culturale era quella diffondere le proprie opere, in quanto in linea con i suoi obiettivi.
+Un altro esempio è rappresentato dai Wu Ming (http://www.wumingfoundation.com/), autori sotto pseudonimo che hanno reso i loro romanzi liberi e scaricabili via Internet dal 1996 (sono comunque pubblicati da Einaudi per chi ne volesse una copia cartacea)
+
+Le licenze CC sono state presentate a New York nel 2002 e volevano diventare uno standard per comunicare al mondo "alcuni diritti riservati". 
+La necessità di avere a disposizione delle licenze vere e proprie, formalmente corrette, è nata poiché le due righe scritte potevano essere deboli in sedi legali, soprattutto per riusi commerciali.
+
+Essendo i diritti 17 e potendoli combinare in vario modo, il numero di licenze sarebbe dovuto essere molto elevato per descrivere tutti i casi. Creative Commons ha deciso di dividerle e crearne un numero ristretto.
