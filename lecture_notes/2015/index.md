@@ -1204,7 +1204,8 @@ Le FAQ sono disponbili su Github e migliorabili da chiunque voglia contribuire.
 A complemento del discorso sul [diritto d'autore (lezione 3)](#il-diritto-dautore), in questo paragrafo verranno presentate le licenze Creative Commons (CC).
 Sono 6 licenze e sono pensate per qualunque cosa (video, fotografie, testi), tranne che per il software (che è particolare, c'è il codice sorgente, il codice oggetto, il codice eseguibile).Queste 6 licenze hanno delle caratteristiche particolari e possono essere molto diverse tra loro.
 
-###Perchè esistono le licenze CC
+###Perchè esistono le licenze CC 
+
 Dopo che viene creata un'opera l'autore ha una protezione automatica. Il diritto d'autore si articola in 17 diritti specifici e sono tutti in capo all'autore in automatico, al completamento di un opera. il diritto d’autore non prevede quindi formalità: la piena protezione prevista dalla legge si ottiene in automatico. Questa scelta di fornire all'autore il massimo della protezione in automatico è stata fatta più di 100 anni fa, in modo da garantire sia agli industriali, sia ai poeti squattrinati tutta la protezione senza bisogno di nessun particolare sforzo.
 
 Nel caso in cui si voglia **rinunciare a uno o più di questi diritti**, per fare in modo, ad esempio, che l'opera incontri meno barriere alla diffusione, è necessario comunicarlo. Se nulla è indicato “tutti i diritti sono riservati”.
@@ -1213,10 +1214,59 @@ Dall'altra parte, se l'opera non è di pubblico dominio, il riutilizzatore deve 
 La verifica se l'autore voglia rinunciare a qualcuno o tutti i diritti, permettendo il riuso in certi contesti, è sempre avvenuta tramite contatti diretti (ad esempio compagnia teatrale che contatta lo scrittore e viene fatto un accordo per concedere l'opera gratuitamente).
 Con Internet è nato il bisogno di comunicare ex-ante a quali diritti un determinato autore voglia rinunciare (anche per non ricevere 100k email per dire a tutti che possano riusare una determinata immagine) e da qui è nata l'esigenza delle licenze Creative Commons che permettessero di riservare solo alcuni diritti (“some rights reserved”).
 
-Prima delle licenze CC era già possibile comunicare ex-ante a quali diritti l'autore rinunciasse. Ad esempio delle pubblicazioni della fondazione Olivetti, veniva scritto "pubblicazione libera se viene citata la fonte": l'ambizione della fondazione culturale era quella diffondere le proprie opere, in quanto in linea con i suoi obiettivi.
-Un altro esempio è rappresentato dai Wu Ming (http://www.wumingfoundation.com/), autori sotto pseudonimo che hanno reso i loro romanzi liberi e scaricabili via Internet dal 1996 (sono comunque pubblicati da Einaudi per chi ne volesse una copia cartacea)
+Prima delle licenze CC era già possibile comunicare ex-ante a quali diritti l'autore rinunciasse. Ad esempio nelle pubblicazioni della fondazione Olivetti, veniva scritto "pubblicazione libera se viene citata la fonte": l'ambizione della fondazione culturale era quella diffondere le proprie opere, in quanto in linea con i suoi obiettivi.
+Un altro esempio è rappresentato dai Wu Ming (http://www.wumingfoundation.com/), autori sotto pseudonimo che hanno reso i loro romanzi liberi e scaricabili via Internet dal 1996 (sono comunque pubblicati da Einaudi per chi ne volesse una copia cartacea).
 
-Le licenze CC sono state presentate a New York nel 2002 e volevano diventare uno standard per comunicare al mondo "alcuni diritti riservati". 
-La necessità di avere a disposizione delle licenze vere e proprie, formalmente corrette, è nata poiché le due righe scritte potevano essere deboli in sedi legali, soprattutto per riusi commerciali.
+Le licenze CC sono state presentate a New York nel 2002 e volevano diventare uno standard per permettere di comunicare comunicare al mondo che solo alcuni diritti sono riservati. 
+Inoltre la necessità di avere a disposizione delle licenze vere e proprie, formalmente corrette, è nata poiché le due righe scritte potevano essere deboli in sedi legali, soprattutto a valle di riusi commerciali.
 
 Essendo i diritti 17 e potendoli combinare in vario modo, il numero di licenze sarebbe dovuto essere molto elevato per descrivere tutti i casi. Creative Commons ha deciso di dividerle e crearne un numero ristretto.
+
+###le licenze CC
+Tutte le licenze CC hanno un nome a blocchi, il primo è sempre attribuzione, poi possono seguire altri blocchi, in tutto sono 4:
+
+* BY - attribuzione;
+* ND - non opere derivate (No Derivatives);
+* NC - non commerciale (Non Commercial);
+* SA - condividi allo stesso modo (Share Alike);
+
+(fonte: creativecommons.org e creativecommons.it)
+
+**Tutte le licenze permettono la condivisione tramite reti peer-to-peer (file sharing)
+
+####Attribuzione (BY)
+Il vincolo di Attribuzione impone di riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile.
+L'autore può anche specificare come vuole essere citato. Pensato apposta, molte volte lo scopo delle persone è di farsi conoscere e farsi leggere.
+
+####Non opere derivate (ND)
+Pone il divieto di creare e distribuire opere derivate (quindi remix, trasformazioni, traduzioni, o altre opere basate su un artefatto soggetto a ND).
+La può usare per diversi motivi tra cui, non fidarsi dei traduttori ,tuttavia è un vincolo molto forte.
+
+####Non commerciale (NC)
+Vieta l'uso commerciale del materiale (ad esempio stampare un libro rilegarlo e venderlo).
+E' un vincolo particolare e potrebbe limitare molto la diffusione di una certa opera, per esempio: un videoamatore crea un video particolare e una testa giornalistica vuole riprenderlo, in teoria non potrebbe perché il loro sito è commerciale. 
+
+####condividere allo stesso modo (SA)
+Si possono creare opere derivate, ma l'opera che creata basata sull'opera originale deve avere la stessa licenza usata in quella originale. Questo concetto è stato creato nell'ambito del software, dove si chiama *copyleft*.sul principio di creare un pool di opere libere e tutti quelli che contribuiscono al software fanno in modo che questo pool di software libero si allarghi. Questo vincolo ha un senso solo se si possono fare opere derivate.
+
+#### le 6 licenze CC
+Le licenze Creative Commons sono 6 in totale e sono la combinazione dei blocchi esposti precedentemente:
+
+1. CC BY Attribuzione: si può fare ciò che si vuole con il materiale (condividere e modificare anche a fini commerciali) a patto che si citi l'autore. 
+In diversi paesi, tra cui l'Italia, citare l'autore è un diritto morale ed è inalienabile anche dal punto di vista contrattuale. 
+In altri paesi, come negli Stati Uniti non è così, esistono ad esempio i *ghost writer*, che scrivono una determinata opera per conto di un terzo e rinunciano all'attribuzione tramite un contratto (in Italia sarebbe contratto nullo)
+2. CC BY-SA Attribuzione e Condividi allo stesso modo: ha gli stessi vincoli della CC BY ma inoltre se si modifica il materiale o ci si basa su di esso, bisogna distribuire i propri contributi con la stessa licenza del materiale originario.
+3. CC BY-ND Attribuzione e non opere derivate: ha gli stessi limiti della CC BY inoltre il materiale modificato o opere basate su di esso, non possono essere distribuite. 
+4. CC BY-NC Attribuzione non commerciale:  ha gli stessi vincoli della CC BY ma il materiale non può essere distribuito per fini commerciali.
+5. CC BY-NC-SA attribuzione non commerciale condividi allo stesso modo
+6. CC BY-NC-ND attribuzione non commerciale no derivati: con questa licenza l'unica cosa che si può fare è condividere il materiale per fini non commerciali senza modifiche. Ha limitazioni molto forti e vincola molto il propagarsi di una determinata opera.
+
+#### Come si fa ad utilizzarle
+Per usare le licenze CC non bisogna fare nulla di particolare, sono già state create e si possono liberamente usare senza registrarsi o pagare: basta dire quale licenza CC si applica alla propria opera.
+
+	Esempio di un caso comune di utilizzo:
+	© [Nome Cognome]. Quest'opera è pubbliata con la licenza CC attribuzione, [URL alla licenza].
+
+Non è necessaria la URL della licenza, soprattutto ora che tutti conoscono Creative Commons, tuttavia è sempre una buona pratica. All'inizio quando on era conosciuta veniva stampata l'intera licenza anche in libricini dentro i cd.
+
+### SIAE != CC
