@@ -1228,11 +1228,11 @@ Tutte le licenze CC hanno un nome a blocchi, il primo è sempre attribuzione, po
 * BY - attribuzione;
 * ND - non opere derivate (No Derivatives);
 * NC - non commerciale (Non Commercial);
-* SA - condividi allo stesso modo (Share Alike);
+* SA - condividi allo stesso modo (Share Alike).
 
 (fonte: creativecommons.org e creativecommons.it)
 
-**Tutte le licenze permettono la condivisione tramite reti peer-to-peer (file sharing)**
+**Tutte le licenze permettono la condivisione tramite reti peer-to-peer (file sharing)**, poichè le reti peer-to-peer tipo BitTorrent non sono a scopo commericale.
 
 ####Attribuzione (BY)
 Il vincolo di Attribuzione impone di riconoscere una menzione di paternità adeguata, fornire un link alla licenza e indicare se sono state effettuate delle modifiche. Puoi fare ciò in qualsiasi maniera ragionevole possibile.
@@ -1253,12 +1253,12 @@ Si possono creare opere derivate, ma l'opera che creata basata sull'opera origin
 Le licenze Creative Commons sono 6 in totale e sono la combinazione dei blocchi esposti precedentemente:
 
 1. CC BY Attribuzione: si può fare ciò che si vuole con il materiale (condividere e modificare anche a fini commerciali) a patto che si citi l'autore. 
-In diversi paesi, tra cui l'Italia, citare l'autore è un diritto morale ed è inalienabile anche dal punto di vista contrattuale. 
-In altri paesi, come negli Stati Uniti non è così, esistono ad esempio i *ghost writer*, che scrivono una determinata opera per conto di un terzo e rinunciano all'attribuzione tramite un contratto (in Italia sarebbe contratto nullo)
-2. CC BY-SA Attribuzione e Condividi allo stesso modo: ha gli stessi vincoli della CC BY ma inoltre se si modifica il materiale o ci si basa su di esso, bisogna distribuire i propri contributi con la stessa licenza del materiale originario.
-3. CC BY-ND Attribuzione e non opere derivate: ha gli stessi limiti della CC BY inoltre il materiale modificato o opere basate su di esso, non possono essere distribuite. 
-4. CC BY-NC Attribuzione non commerciale:  ha gli stessi vincoli della CC BY ma il materiale non può essere distribuito per fini commerciali.
-5. CC BY-NC-SA attribuzione non commerciale condividi allo stesso modo
+In diversi paesi, tra cui l'Italia, citare l'autore è un diritto morale ed è inalienabile anche dal punto di vista contrattuale; 
+In altri paesi, come negli Stati Uniti non è così, esistono ad esempio i *ghost writer*, che scrivono una determinata opera per conto di un terzo e rinunciano all'attribuzione tramite un contratto (in Italia sarebbe contratto nullo);
+2. CC BY-SA Attribuzione e Condividi allo stesso modo: ha gli stessi vincoli della CC BY ma inoltre se si modifica il materiale o ci si basa su di esso, bisogna distribuire i propri contributi con la stessa licenza del materiale originario;
+3. CC BY-ND Attribuzione e non opere derivate: ha gli stessi limiti della CC BY inoltre il materiale modificato o opere basate su di esso, non possono essere distribuite; 
+4. CC BY-NC Attribuzione non commerciale:  ha gli stessi vincoli della CC BY ma il materiale non può essere distribuito per fini commerciali;
+5. CC BY-NC-SA attribuzione non commerciale condividi allo stesso modo;
 6. CC BY-NC-ND attribuzione non commerciale no derivati: con questa licenza l'unica cosa che si può fare è condividere il materiale per fini non commerciali senza modifiche. Ha limitazioni molto forti e vincola molto il propagarsi di una determinata opera.
 
 #### Come si fa ad utilizzarle
@@ -1285,12 +1285,11 @@ Alcuni siti in cui è possibile effettuare ricerche di materiali in CC sono:
 - http://www.openculture.com/ che raccoglie molto materiale di interesse pubblico oppure di dominio pubblico; 
 - ocw.mit.edu, è l”*open courseware*” del MIT che contiene i materiali didattici del MIT dal 2001. E' costato circa 100 militoni di dollari e ogni anno costa qualche milione di dollari per mantenerlo. Il sito raccoglie tutte le opere didattiche del MIT con licenza in CC;
 - ricerca avanzata di Google, tramite una tendina della rcarca avanzata è possibile selezionare il tipo di licenza a cui devono essere soggetti i risultati della ricerca;
-- migliaia di riviste scientifiche
+- migliaia di riviste scientifiche;
 - scrittori vari tra cui: Cory Doctorow, Wu Minc ecc.
-lista siti su slide su YouTube posso scegliere licenza standard youtube o licenza cc
 
 ###Misc - licenze CC
-- Il giorno dopo le elezioni di Obama il sito della casa Bianca era in CC (https://wiki.creativecommons.org/wiki/Case_Studies/Whitehouse.gov).
-- Creativecommons.it è stato creato dal Centro Nexa su Internet e Società del Politecnico di Torino e si occupa tutt'ora della gestione di CC in Italia
+- Il giorno dopo le elezioni di Obama il sito della casa Bianca era in CC (https://wiki.creativecommons.org/wiki/Case_Studies/Whitehouse.gov);
+- Creativecommons.it è stato creato dal Centro Nexa su Internet e Società del Politecnico di Torino e si occupa tutt'ora della gestione di CC in Italia;
 - Redigere le licenze ha richiesto risorse ingenti perché è stato fatto?
 Tutte e sei le licenze CC consentono i file sharing, poiché il filesharing alla *BitTorrent* non è commerciale. CC è per la libera circolazione dei contenuti (contenuti liberi → massimo beneficio per la società). 
