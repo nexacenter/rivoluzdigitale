@@ -952,6 +952,40 @@ Se in passato l'innovazione tecnologica ha distrutto posti di lavoro creandone s
 Ci sono quindi diversi motivi per ritenere che siamo all'interno di una trasformazione molto profonda e si cerca da diversi anni di capire che direzione dare a questo cambiamento. 
 La cultura USA dagli anni '50 del '900 ha iniziato a pensare alle conseguenze di questi cambiamenti e incanalarli in specifiche direzioni, in Europa e nel resto del mondo abbiamo iniziato a pensarci solo da pochi anni (questo è uno dei motivi del successo della Silicon Valley negli Stati Uniti, per approfondimenti: https://medium.com/backchannel/why-silicon-valley-will-continue-to-rule-c0cbb441e22f).
 
+##Tecnologia e Società (lezione 7)
+
+###Riflessioni a monte sul rapporto tra tecnologia e società.
+
+Viviamo in epoca di tecno-determinismo acritico in cui gli strumenti tecnologici vengono visti come idoli, gli investiamo di una serie di valori di estrema positività e li accettiamo positivamente. Quale può essere un ipoteico scenario che oggi si potrebbe leggere nei giornali:
+
+1. qualcuno inventa qualcosa liberamente – ad esempio Steve Jobs nel garage;
+2. il qualcosa se piace se utile e se piace si diffonfe liberamente, senza che nessuno ponga domande “scomode” (In questa fase, gli inventori sono ritratti come “geniali”); 
+3. chi non usa questa nuova invenzione prima è sfortunato poi diventa strano che non lo usi – ad esempio il cellulare, prima lo usavano solo mafiosi e delinquenti in macchina, poi uomini di affari, poi tutti, ora chi non ce l'ha è strano o se a una cera ora ha il cellulare spendo diventa “sospetto”
+4. L'invenzione rimane fino a quando arriva qualcosa di migliore che lo supera.
+
+
+la tecnologia viene rappresentata come qualcosa per definizione **inevitabile, inarrestabile e tendenzialmente positiva**. Questa è la visione che abbiamo della tecnologia da 200 anni a questa parte e maggiormente sopratutto negli ultimi 20 anni.
+
+Quindi il rapporto implicito di questa narrazione è che c'è  la tecnologia con il suo ritmo e la sua velocità, incontrollabile, che va a influenzare la società. Prima c'è il lancio di un prodotto e poi ci si interroga su che impatto abbiano avuto sulla società
+
+Questo tipo di relazione tra tecnologia e società, particolarmente naturale da un punto di vista ingegneristico trascura l'aspetto umano.
+
+La visione più estrema che ha preso piede tra alcuni uomini di affari molto facoltosi della Silicon Valley è di rifondare l'intera società su base tecnologica. Fino ad arrivare a fondare piattaforme nell'oceano al di fuori delle giurisdizioni statuale, costruendo delle isole in cui viene ricreata la società su base strettamente tecnologica. Queste persone pensano che molte istituzioni andrebbero abolite, tra cui l'università. Uno di questi ì ha finanziato borse purché studenti si disiscrivessero dall'università. 
+
+Tuttavia guardare le cose in questo modo, non solo è limitato, ma è sbagliato. La tecnologia non è natura, non si auto-genera, è creata dagli umani. Ci sono uomini e donne che costruiscono *la tecnologia che poi avrà un impatto sulla società*. La tecnologia non è un sistema autonomo e non si muove autonomamente, ci sono degli essere umani a monte che fanno delle decisioni.
+
+Ogni individuo, anche se estremamente individualista è condizionato dalla società in cui è immerso. Da si è piccoli si è in una società con regole molto stringenti, da cui si traggono i propri valori (che sono determinati socialmente). La gente che sviluppa la tecnologia proietta una serie di condizionamenti di carattere sociale (un marziano di un altro pianeta svilupperebbe in modo profondamene diverso). Questo vuol dire che *la società ha un impatto sulla tecnologia*. Ad esempio decisioni su quando portare sul mercato un determinato prodotto (a causa di determinanti politiche, economiche) e su quale prodotto investire sono decisioni dettate dalla società. 
+
+Il modo in cui la tecnologia viene portata all'interno della società è condizionata dalla società stessa.
+Il rapporto tra tecnologia e società è bidirezionale (si influenzano vicendevolmente). Ciò vale per tutte le tecnologie ma vale soprattutto per Internet. Internet ha influenzato la società, ma La società sta modificando pezzi e parti di Internet, ad esempio attraverso le regole sulla privacy.
+
+Parte degli obiettivi di questo corso è quello di analizzare questo complicato rapporto bidirezionale dove è difficile fare un'analisi dicotomica, è un intreccio tempovariante. Con il cambiare delle condizioni cambiano le pressioni su una certa tecnologia, la radio del 1920 è diversa da quella del 30 che è diversa da quella del 40. Anche Internet è profondamente diversa da come lo era 10 anni fa.
+Bisogna fare questa analisi senza pregiudizi positivi (come succede oggi, “il progresso”, “il futuro inarrestabile”), né negativi (“la tecnologia schiaccerà l'uomo”).
+La prima legge di legge di Kranzberg (storico che insegnala al Georgia Tech, alla fine anni 60 in scuole tecniche americane sono stati creati dipartimenti umanistici per studiare la tecnologia e i suoi impatti sulla società), ideò sei leggi della tecnologia, una di questa è:
+
+	“ la tecnologia di per sé non è ne buona, né cattiva, né neutra”
+
+
 # Parte Metodologica
 ## Introduzione (lezione 1) 
 In questa parte introduttiva verrà spiegato concretamente come si svolgerà il corso.
