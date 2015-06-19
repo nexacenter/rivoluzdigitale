@@ -1204,7 +1204,7 @@ Le FAQ sono disponbili su Github e migliorabili da chiunque voglia contribuire.
 A complemento del discorso sul [diritto d'autore (lezione 3)](#il-diritto-dautore), in questo paragrafo verranno presentate le licenze Creative Commons (CC).
 Sono 6 licenze e sono pensate per qualunque cosa (video, fotografie, testi), tranne che per il software (che è particolare, c'è il codice sorgente, il codice oggetto, il codice eseguibile).Queste 6 licenze hanno delle caratteristiche particolari e possono essere molto diverse tra loro.
 
-###Perchè esistono le licenze CC 
+###Perché esistono le licenze CC e alcuni cenni storici
 
 Dopo che viene creata un'opera l'autore ha una protezione automatica. Il diritto d'autore si articola in 17 diritti specifici e sono tutti in capo all'autore in automatico, al completamento di un opera. il diritto d’autore non prevede quindi formalità: la piena protezione prevista dalla legge si ottiene in automatico. Questa scelta di fornire all'autore il massimo della protezione in automatico è stata fatta più di 100 anni fa, in modo da garantire sia agli industriali, sia ai poeti squattrinati tutta la protezione senza bisogno di nessun particolare sforzo.
 
@@ -1212,7 +1212,7 @@ Nel caso in cui si voglia **rinunciare a uno o più di questi diritti**, per far
 Dall'altra parte, se l'opera non è di pubblico dominio, il riutilizzatore deve dimostrare che può usare determinate risorse (tramite eventuali accordi con l'autore).
 
 La verifica se l'autore voglia rinunciare a qualcuno o tutti i diritti, permettendo il riuso in certi contesti, è sempre avvenuta tramite contatti diretti (ad esempio compagnia teatrale che contatta lo scrittore e viene fatto un accordo per concedere l'opera gratuitamente).
-Con Internet è nato il bisogno di comunicare ex-ante a quali diritti un determinato autore voglia rinunciare (anche per non ricevere 100k email per dire a tutti che possano riusare una determinata immagine) e da qui è nata l'esigenza delle licenze Creative Commons che permettessero di riservare solo alcuni diritti (“some rights reserved”).
+Con Internet è nato il bisogno di comunicare ex-ante a quali diritti un determinato autore voglia rinunciare (anche per non ricevere 100k email per dire a tutti che possano riusare una determinata immagine) e da qui è nata l'esigenza delle licenze Creative Commons che permettessero di riservare solo alcuni diritti (“*some rights reserved*”).
 
 Prima delle licenze CC era già possibile comunicare ex-ante a quali diritti l'autore rinunciasse. Ad esempio nelle pubblicazioni della fondazione Olivetti, veniva scritto "pubblicazione libera se viene citata la fonte": l'ambizione della fondazione culturale era quella diffondere le proprie opere, in quanto in linea con i suoi obiettivi.
 Un altro esempio è rappresentato dai Wu Ming (http://www.wumingfoundation.com/), autori sotto pseudonimo che hanno reso i loro romanzi liberi e scaricabili via Internet dal 1996 (sono comunque pubblicati da Einaudi per chi ne volesse una copia cartacea).
@@ -1265,8 +1265,32 @@ In altri paesi, come negli Stati Uniti non è così, esistono ad esempio i *ghos
 Per usare le licenze CC non bisogna fare nulla di particolare, sono già state create e si possono liberamente usare senza registrarsi o pagare: basta dire quale licenza CC si applica alla propria opera.
 
 	Esempio di un caso comune di utilizzo:
-	© [Nome Cognome]. Quest'opera è pubbliata con la licenza CC attribuzione, [URL alla licenza].
+	© [Nome Cognome]. Quest'opera è pubblicata con la licenza CC attribuzione, [URL alla licenza].
 
-Non è necessaria la URL della licenza, soprattutto ora che tutti conoscono Creative Commons, tuttavia è sempre una buona pratica. All'inizio quando on era conosciuta veniva stampata l'intera licenza anche in libricini dentro i cd.
+Non è necessaria la URL della licenza, soprattutto ora che tutti conoscono Creative Commons, tuttavia è sempre una buona pratica. All'inizio quando non era conosciuta veniva stampata l'intera licenza anche in libricini dentro i cd.
 
-### SIAE != CC
+###SIAE e CC
+Crative Comons non c'entra  niente con la SIAE. La SIAE è un ente di gestione collettiva, che esiste per sopperire all'impossibilità per il singolo autore di monitorare l'intero territorio nazionale e far rispettare i propri diritti. Gli autori demandano quindi la tutela e la gestione dei propri diritti a questo ente esterno che è la SIAE. 
+
+Sono sorti dei problemi tra la licenza CC e la SIAE poiché se un autore demanda la gestione dei sui diritti alla SIAE, per regolamento interno non può pubblicare in CC. Tuttavia è possibile che in futuro cambierà la normativa.
+
+###dove trovare opere CC
+Le opere CC si stanno avvicinando al miliardo e ormai si possono trovare un po' ovunque. 
+
+Ad ogni modo, su diversi siti si possono effettuare ricerche filtrando i risultati per ottenere solo risultati con licenza Creative Commons (è una delle opzioni di ricerca avanzate di Google). 
+
+Alcuni siti in cui è possibile effettuare ricerche di materiali in CC sono:
+- flickr.com (foto); 
+- YouTube.com (video); 
+- http://www.openculture.com/ che raccoglie molto materiale di interesse pubblico oppure di dominio pubblico; 
+- ocw.mit.edu, è l”*open courseware*” del MIT che contiene i materiali didattici del MIT dal 2001. E' costato circa 100 militoni di dollari e ogni anno costa qualche milione di dollari per mantenerlo. Il sito raccoglie tutte le opere didattiche del MIT con licenza in CC;
+- ricerca avanzata di Google, tramite una tendina della rcarca avanzata è possibile selezionare il tipo di licenza a cui devono essere soggetti i risultati della ricerca;
+- migliaia di riviste scientifiche
+- scrittori vari tra cui: Cory Doctorow, Wu Minc ecc.
+lista siti su slide su YouTube posso scegliere licenza standard youtube o licenza cc
+
+###Misc - licenze CC
+- Il giorno dopo le elezioni di Obama il sito della casa Bianca era in CC (https://wiki.creativecommons.org/wiki/Case_Studies/Whitehouse.gov).
+- Creativecommons.it è stato creato dal Centro Nexa su Internet e Società del Politecnico di Torino e si occupa tutt'ora della gestione di CC in Italia
+- Redigere le licenze ha richiesto risorse ingenti perché è stato fatto?
+Tutte e sei le licenze CC consentono i file sharing, poiché il filesharing alla *BitTorrent* non è commerciale. CC è per la libera circolazione dei contenuti (contenuti liberi → massimo beneficio per la società). 
