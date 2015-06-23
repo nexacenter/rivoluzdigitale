@@ -1021,14 +1021,19 @@ Le domande da porsi per analizzare gli aspetti etici della tecnologia sono state
 #####Le domande di Neil Postman
 Neil Postman (1931-2003) ha scritto dei libri molto noti sulla tecnologia (“Tecnopoli”) e sull'educazione. Nell'ultimo libro che ha scritto (Fonte: "Come sopravvivere al futuro") sono contenute le seguenti domande per analizzare l'etica di soluzioni tecnologiche:
 
-* Qual e` il problema che la tecnologia si prefigge di risolvere?
-* Di chi e` il problema?
-* Quali istituzioni e quali persone potrebbero essere colpite/danneggiate più seriamente dalla soluzione tecnologica – chiedersi in anticipo delle conseguenze e degli effetti collaterali. Esempio concreto: c'è bisogno di fonti di notizie attendibili e indipendenti per avere una democrazia funzionante. Uno specifico sviluppo tecnologico, cioè Internet basato sulla pubblicità, sta mettendo in crisi il giornalismo. Se ciò mettesse in crisi il giornalismo classico (non basato sull'ottenere il numero massimo di click), sarebbe un problema per l'intera democrazia. Cosa si dovrebbe fare in questo caso? Sussidiare i giornali con soldi pubblici?
-* Quali problemi possono sorgere se viene risolta la questione iniziale? Esempio: i dispositivi elettronici per essere prodotti necessitano di terre rare. Queste terre rare sono presenti nel Nord della Cina (il 90% sono prodotte lì), le zone in cui vengono estratte sono seriamente compromesse dal punto di vista ambientale (senza parlare dei lavoratori schiavi). Quando usiamo i nostri dispositivi elettronici dovremmo essere consapevole del danno ambientale e umano che hanno causato e bisognerebbe porseli anche quando la loro vita finisce e vengono buttati.
-* Quali istituzioni e classi potrebbero acquisire speciali poteri economici e sociali a causa di questo cambio tecnologico?
-* Queste nuove tecnologie obbligano modificazioni del linguaggio e cosa si guadagna o si perde da tali cambiamenti?
+1. Qual e` il problema che la tecnologia si prefigge di risolvere?
+  
+2. Di chi e` il problema?
+  
+3. Quali istituzioni e quali persone potrebbero essere colpite/danneggiate più seriamente dalla soluzione tecnologica – chiedersi in anticipo delle conseguenze e degli effetti collaterali. Esempio concreto: c'è bisogno di fonti di notizie attendibili e indipendenti per avere una democrazia funzionante. Uno specifico sviluppo tecnologico, cioè Internet basato sulla pubblicità, sta mettendo in crisi il giornalismo. Se ciò mettesse in crisi il giornalismo classico (non basato sull'ottenere il numero massimo di click), sarebbe un problema per l'intera democrazia. Cosa si dovrebbe fare in questo caso? Sussidiare i giornali con soldi pubblici?  
+4. Quali problemi possono sorgere se viene risolta la questione iniziale? Esempio: i dispositivi elettronici per essere prodotti necessitano di terre rare. Queste terre rare sono presenti nel Nord della Cina (il 90% sono prodotte lì), le zone in cui vengono estratte sono seriamente compromesse dal punto di vista ambientale (senza parlare dei lavoratori schiavi). Quando usiamo i nostri dispositivi elettronici dovremmo essere consapevole del danno ambientale e umano che hanno causato e bisognerebbe porseli anche quando la loro vita finisce e vengono buttati.
+  
+5. Quali istituzioni e classi potrebbero acquisire speciali poteri economici e sociali a causa di questo cambio tecnologico?
+  
+6. Queste nuove tecnologie obbligano modificazioni del linguaggio e cosa si guadagna o si perde da tali cambiamenti?  
 
 Due domante aggiuntive a quelle di Postman da un blog (Fonte:https://librarianshipwreck.wordpress.com/2014/01/13/technology-does-not-stay-new-for-long-another-question-for-neil-postman/)
+
 7. Cosa succede quando si rompe con una pietra un oggetto tecnologico? E' riparabile? Ultimamente c'è la convenienza economica a buttare oggetti piuttosto che riparlali a causa di scelte produttive guidate da interessi economici.
 8. Cosa succederà e chi sarà colpito quando una nuova tecnologia diventa una vecchia tecnologia? Quando la tecnologia diventa vecchia cosa succede? Ad esempio ora come ora i dispositivi elettronici obsoleti vanno ad ingrandire le discariche di rifiuti elettronici in Africa o Latino America
 
@@ -1140,69 +1145,102 @@ Estetica:
 altre 41 che si intersecano con i ragionamenti di Ellul ma sono più recenti e possono essere più specifiche per i problemi attuali, queste sono:
 
 1.What sort of person will the use of this technology make of me?
+  
 2.What habits will the use of this technology instill?
+  
 3.How will the use of this technology affect my experience of time?
+  
 4.How will the use of this technology affect my experience of
-place?
+ place?
+  
 5. How will the use of this technology affect how I relate to other
-people?
+ people?
+  
 6. How will the use of this technology affect how I relate to the
-world around me?
+ world around me?
+   
 7. What practices will the use of this technology cultivate?
+  
 8. What practices will the use of this technology displace?
+  
 9. What will the use of this technology encourage me to notice?
-10. What will the use of this technology encourage me to ignore?
-4511.What was required of other human beings so that I might be
-able to use this technology?
+  
+10. What will the use of this technology encourage me to ignore?  
+11.What was required of other human beings so that I might be
+ able to use this technology?
+  
 12. What was required of other creatures so that I might be able to
-use this technology?
+ use this technology?
+  
 13. What was required of the earth so that I might be able to use
-this technology?
+ this technology?   
 14. Does the use of this technology bring me joy?
+  
 15. Does the use of this technology arouse anxiety?
+  
 16. How does this technology empower me? At whose expense?
+  
 17. What feelings does the use of this technology generate in me
-toward others?
+ toward others?  
 18. Can I imagine living without this technology? Why, or why not?
-19. How does this technology encourage me to allocate my time?
+  
+19. How does this technology encourage me to allocate my time?  
 20. Could the resources used to acquire and use this technology
-be better deployed?21.Does this technology automate or outsource labor or
-responsibilities that are morally essential?
+ be better deployed?21.Does this technology automate or outsource labor or
+ responsibilities that are morally essential?
+  
 22.What desires does the use of this technology generate?
+  
 23.What desires does the use of this technology dissipate?
+  
 24. What possibilities for action does this technology present? Is it
-good that these actions are now possible?
+ good that these actions are now possible?
+  
 25. What possibilities for action does this technology foreclose? Is
-it good that these actions are no longer possible?
+ it good that these actions are no longer possible?
+  
 26. How does the use of this technology shape my vision of a good
-life?
+ life?
+  
 27. What limits does the use of this technology impose upon me?
-28. What limits does my use of this technology impose upon others
+  
+28. What limits does my use of this technology impose upon others  
 29. What does my use of this technology require of others who
-would (or must) interact with me?
+ would (or must) interact with me?
+  
 30. What assumptions about the world does the use of this
-technology tacitly encourage?
+ technology tacitly encourage?
+  
 31. What knowledge has the use of this technology disclosed to me about
-myself?
+ myself?  
 32. What knowledge has the use of this technology disclosed to me about
-others? Is it good to have this knowledge?
+ others? Is it good to have this knowledge?
+  
 33. What are the potential harms to myself, others, or the world that might result
-from my use of this technology?
+ from my use of this technology?
+  
 34. Upon what systems, technical or human, does my use of this technology
-depend? Are these systems just?
+ depend? Are these systems just?
+  
 35. Does my use of this technology encourage me to view others as a means to
-an end?
+ an end?
+  
 36. Does using this technology require me to think more or less?
+  
 37. What would the world be like if everyone used this technology exactly as I
-use it?
+ use it?
+  
 38. What risks will my use of this technology entail for others? Have they
 consented?
+  
 39. Can the consequences of my use of this technology be undone? Can I live
 with those consequences?
+  
 40. Does my use of this technology make it easier to live as if I had no
 responsibilities toward my neighbor?
+  
 41. Can I be held responsible for the actions which this technology empowers?
-Would I feel better if I couldn’t?
+Would I feel better if I couldn’t?  
 
 (fonte:: http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
 
@@ -1211,15 +1249,29 @@ potrebbe essere interessante porci alcune di queste domande per le tecnologie ch
 
 ######Domande di Postman:
 
-1. *Qual e` il problema che la tecnologia si prefigge di risolvere?* C'erano già soluzioni esistenti per risolvere problemi sociali, ha dato una nuova (e migliore, o più apprezzata) soluzione a problemi che erano già affrontati da altre tecnologie.
-2. *Di chi era il problema?* all'inizio di soli studenti, comunque generalizzabile a tutte le persone (troll: ha anche risolto il problema per le agenzie di intelligence, ora volontariamente diamo informazioni che prima erano difficili da raccogliere).
-3. *Quali istituzioni e quali persone potrebbero essere colpite più seriamente dalla soluzione tecnologica? Quali danni può causare?* Facebook è fonte di cattura di attenzione molto spinto - sottrae tempo di osservazione dalla televisione, nonché alla scuola e alla Chiesa ,ma anche ai giornali - ad es ci porta a leggere notizie a spizzichi soltanto nel *newsfeed* di Facebook.
-4. *Quali problemi possono sorgere se risolviamo la questione iniziale?* dà dipendenza, è usato per conoscere e farsi conoscere - mille problemi tra cui anche gli *stalker* e l'incoraggiamento al narcisismo.
-5. *Quali istituzioni e classi potrebbero acquisire speciali poteri economici e sociali a causa di questo cambio tecnologico?* Potere economico e politico speciale a causa di FB. FB potrebbe influenzare la percezione di certi fenomeni, l'algoritmo di Facebook ottimizza la probabilità che noi clicchiamo su certe pubblicità scegliendo post di nostri amici ad hoc. Ad esempio con certi esperimenti (dicendo di andare a votare) FB ha indotto a votare cittadini americani e pare che ciò abbia portato più voti ai democratici (giovani che usano FB sono tendenzialmente più dem in questo periodo storico). Oppure ha anche fatto in modo di cambiare l'umore di persone cambiando newsfeed di migliaia di utenti. Inoltre questo potere può essere ceduto da FB ad altri. FB potrebbe fare uno studio demografico per l'impiego (ciò che fa LinkedIn per missione principale).
-In campo assicurativo: le assicurazioni da 200 anni sono le principali consumatrici di dati - ora possono conoscere il nostro stile di vita - con Apple watch avranno anche il dato grezzo sui battiti cardiaci.
-6. *Queste nuove tecnologie obbligano modificazioni del linguaggio e cosa si guadagna o si perde da tali cambiamenti?* Portano a un cambio nel linguaggio: testi corti, immagini.
-7. Non si applica visto che Facebook è un software.
-8. Non si applica visto che Facebook è un software. 
+1. *Qual e` il problema che la tecnologia si prefigge di risolvere?* C'erano già soluzioni esistenti per risolvere problemi sociali, ha dato una nuova (e migliore, o più apprezzata) soluzione a problemi che erano già affrontati da altre tecnologie.  
+2. *Di chi era il problema?* All'inizio di soli studenti, comunque generalizzabile a tutte le persone (troll: ha anche risolto il problema per le agenzie di intelligence, ora volontariamente diamo informazioni che prima erano difficili da raccogliere).  
+3. *Quali istituzioni e quali persone potrebbero essere colpite più seriamente dalla soluzione tecnologica? Quali danni può causare?* Facebook è fonte di cattura di attenzione molto spinto - sottrae tempo di osservazione dalla televisione, nonché alla scuola e alla Chiesa ,ma anche ai giornali - ad es ci porta a leggere notizie a spizzichi soltanto nel *newsfeed* di Facebook.  
+4. *Quali problemi possono sorgere se risolviamo la questione iniziale?* Dà dipendenza, è usato per conoscere e farsi conoscere - mille problemi tra cui anche gli *stalker* e l'incoraggiamento al narcisismo.  
+5. *Quali istituzioni e classi potrebbero acquisire speciali poteri economici e sociali a causa di questo cambio tecnologico?* Potere economico e politico speciale a causa di FB. FB potrebbe influenzare la percezione di certi fenomeni, l'algoritmo di Facebook ottimizza la probabilità che noi clicchiamo su certe pubblicità scegliendo post di nostri amici ad hoc. Ad esempio con certi esperimenti (dicendo di andare a votare) FB ha indotto a votare cittadini americani e pare che ciò abbia portato più voti ai democratici (giovani che usano FB sono tendenzialmente più dem in questo periodo storico). Oppure ha anche fatto in modo di cambiare l'umore di persone cambiando newsfeed di migliaia di utenti. Inoltre questo potere può essere ceduto da FB ad altri. FB potrebbe fare uno studio demografico per l'impiego (ciò che fa LinkedIn per missione principale).  
+In campo assicurativo: le assicurazioni da 200 anni sono le principali consumatrici di dati - ora possono conoscere il nostro stile di vita - con Apple watch avranno anche il dato grezzo sui battiti cardiaci.  
+6. *Queste nuove tecnologie obbligano modificazioni del linguaggio e cosa si guadagna o si perde da tali cambiamenti?* Portano a un cambio nel linguaggio: testi corti, immagini.  
+7. *Cosa succede quando si rompe con una pietra questo oggetto tecnologico?* Non si applica visto che Facebook è un software.  
+8. *Cosa succederà e chi sarà colpito quando una nuova tecnologia diventa una vecchia tecnologia?* Non si applica visto che Facebook è un software. 
+
+######Domande politiche di Ellul: 
+
+* *Concentra o equalizza il potere?* Ci consente di avere un'immagine pubblica decisa da noi, quindi lo da un certo punto di vista lo equalizza, ma lo concentra allo stesso tempo visto che i dati sono 
+* *Necessita o istituisce una conoscenza elitaria?* NO
+* *E` totalitaria?* Qualche anno fa su Facebook c'è stato un tentativo democratico per modificare la privacy, pochissima gente ha votato, l'esperimento non è più stato provato. La concezione che FB sia un servizio privato incomincia a vacillare, ci sono 1.4 miliardi di persone, ci sono anche diversi professionisti, aziende e o politici che hanno una pagina su FB. Se questa pagina viene chiusa ne deriva un danno concreto. L'azione unilaterale di FB che chiude un gruppo senza spiegazioni riguarda diritti civili e economici (es chiudono pagina di un attività commerciale). Sono scelte "totalitarie", la democrazia diretta non funziona su FB, ci vorrebbe democrazia rappresentativa. In questo caso la discussione pubblico-privato viene messa in discussione.
+* *Necessita di burocrazia per la propria perpetuazione?* No
+* *Di quali benefici legali ha bisogno?* Non si applica
+* *Lede l'autorità tradizionale morale?* No
+* *Necessita di difesa militare?* No
+* *Come influenza il settore militare e il campo di battaglia?* In senso lato sì, posizione di ogni persona in ogni momento e da un punto di vista propagandistico anche.
+* *Ha un effetto massificante?* Sì
+* *Aumenta il potere nelle mani delle corporazione sovrastatali?* Sì, è una forza economica e c'è un mercato Facebook unico in tutto il mondo.
+* *Di quale e quanto capitale necessita?* Capitale richiesto iniziale bassissimo. Quanti soldi ci vorrebbero per creare un competitor di FB? Moltissimi, a causa di: 1) *effetto di lockin*, difficile cambiare provider del servizio (ambito in cui intervengono i governi che potrebbero render esportabile il profilo) 2) economie di rete rendono più conveniente restare in una rete in cui ci sono tutti (concetto della massa critica e del monopolio naturale) 3) I dati accumulati: ad es Google ha 20 anni di storia di ricerche usate per costruire algoritmi ancora migliori - una nuova Google non avrebbe i dati per raffinare i propri algoritmi di ricerca. 
 
 
 # Parte Metodologica
