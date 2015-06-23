@@ -956,34 +956,270 @@ La cultura USA dagli anni '50 del '900 ha iniziato a pensare alle conseguenze di
 
 ###Riflessioni a monte sul rapporto tra tecnologia e società.
 
-Viviamo in epoca di tecno-determinismo acritico in cui gli strumenti tecnologici vengono visti come idoli, gli investiamo di una serie di valori di estrema positività e li accettiamo positivamente. Quale può essere un ipoteico scenario che oggi si potrebbe leggere nei giornali:
+Viviamo in epoca di tecno-determinismo acritico in cui gli strumenti tecnologici vengono visti come idoli, li investiamo di una serie di valori di estrema positività e li accettiamo positivamente. Un ipoteico scenario che oggi si potrebbe leggere nei giornali infatti è:
 
 1. qualcuno inventa qualcosa liberamente – ad esempio Steve Jobs nel garage;
-2. il qualcosa se piace se utile e se piace si diffonfe liberamente, senza che nessuno ponga domande “scomode” (In questa fase, gli inventori sono ritratti come “geniali”); 
-3. chi non usa questa nuova invenzione prima è sfortunato poi diventa strano che non lo usi – ad esempio il cellulare, prima lo usavano solo mafiosi e delinquenti in macchina, poi uomini di affari, poi tutti, ora chi non ce l'ha è strano o se a una cera ora ha il cellulare spendo diventa “sospetto”
+2. il qualcosa se piace e se utile si diffonfe liberamente, senza che nessuno ponga domande “scomode” (In questa fase, gli inventori sono ritratti come “geniali”); 
+3. chi non usa questa nuova invenzione prima è “sfortunato”, successivamente diventa strano che non lo usi – ad esempio il cellulare, prima lo usavano solo mafiosi e delinquenti in macchina, poi uomini di affari, poi tutti, ora chi non ce l'ha è strano, o se a una certa ora ha il cellulare spendo diventa “sospetto”
 4. L'invenzione rimane fino a quando arriva qualcosa di migliore che lo supera.
 
+La tecnologia viene rappresentata come qualcosa per definizione **inevitabile, inarrestabile e tendenzialmente positiva**. Questa è la visione che abbiamo della tecnologia da 200 anni a questa parte e sopratutto negli ultimi 20 anni.
 
-la tecnologia viene rappresentata come qualcosa per definizione **inevitabile, inarrestabile e tendenzialmente positiva**. Questa è la visione che abbiamo della tecnologia da 200 anni a questa parte e maggiormente sopratutto negli ultimi 20 anni.
-
-Quindi il rapporto implicito di questa narrazione è che c'è  la tecnologia con il suo ritmo e la sua velocità, incontrollabile, che va a influenzare la società. Prima c'è il lancio di un prodotto e poi ci si interroga su che impatto abbiano avuto sulla società
+Quindi il rapporto implicito di questa narrazione è che c'è la tecnologia con il suo ritmo e la sua velocità, incontrollabile, che va a influenzare la società. Prima c'è il lancio di un prodotto e poi ci si interroga su che impatto abbia avuto sulla società
 
 Questo tipo di relazione tra tecnologia e società, particolarmente naturale da un punto di vista ingegneristico trascura l'aspetto umano.
+La visione più estrema che ha preso piede tra alcuni uomini di affari molto facoltosi della Silicon Valley è di rifondare l'intera società su base tecnologica. Fino ad arrivare a fondare piattaforme nell'oceano al di fuori delle giurisdizioni statuali, costruendo delle isole in cui viene ricreata la società su base strettamente tecnologica. Queste persone pensano che molte istituzioni andrebbero abolite, tra cui l'università (Uno di questi ha finanziato borse purché studenti si disiscrivessero dall'università). 
 
-La visione più estrema che ha preso piede tra alcuni uomini di affari molto facoltosi della Silicon Valley è di rifondare l'intera società su base tecnologica. Fino ad arrivare a fondare piattaforme nell'oceano al di fuori delle giurisdizioni statuale, costruendo delle isole in cui viene ricreata la società su base strettamente tecnologica. Queste persone pensano che molte istituzioni andrebbero abolite, tra cui l'università. Uno di questi ì ha finanziato borse purché studenti si disiscrivessero dall'università. 
+Tuttavia guardare le cose in questo modo, non solo è limitato, ma è sbagliato. La tecnologia non è natura, non si auto-genera, è creata dagli umani. Ci sono uomini e donne che costruiscono **la tecnologia che poi avrà un impatto sulla società**. La tecnologia non è un sistema autonomo e non si muove autonomamente, ci sono degli essere umani a monte che prendono delle decisioni.
 
-Tuttavia guardare le cose in questo modo, non solo è limitato, ma è sbagliato. La tecnologia non è natura, non si auto-genera, è creata dagli umani. Ci sono uomini e donne che costruiscono *la tecnologia che poi avrà un impatto sulla società*. La tecnologia non è un sistema autonomo e non si muove autonomamente, ci sono degli essere umani a monte che fanno delle decisioni.
-
-Ogni individuo, anche se estremamente individualista è condizionato dalla società in cui è immerso. Da si è piccoli si è in una società con regole molto stringenti, da cui si traggono i propri valori (che sono determinati socialmente). La gente che sviluppa la tecnologia proietta una serie di condizionamenti di carattere sociale (un marziano di un altro pianeta svilupperebbe in modo profondamene diverso). Questo vuol dire che *la società ha un impatto sulla tecnologia*. Ad esempio decisioni su quando portare sul mercato un determinato prodotto (a causa di determinanti politiche, economiche) e su quale prodotto investire sono decisioni dettate dalla società. 
+Ogni individuo, anche se estremamente individualista è condizionato dalla società in cui è immerso. Da si è piccoli si è in una società con regole molto stringenti, da cui si traggono i propri valori (che sono determinati socialmente). La gente che sviluppa la tecnologia proietta una serie di condizionamenti di carattere sociale (un marziano di un altro pianeta svilupperebbe in modo profondamene diverso) nell'artefatto che produce. Questo vuol dire che **la società ha un impatto sulla tecnologia**. Un esempio pratico è rappresentato dalle decisioni su quando portare sul mercato un determinato prodotto (a causa di determinanti politiche, economiche) e su quale prodotto investire sono decisioni dettate dalla società. 
 
 Il modo in cui la tecnologia viene portata all'interno della società è condizionata dalla società stessa.
-Il rapporto tra tecnologia e società è bidirezionale (si influenzano vicendevolmente). Ciò vale per tutte le tecnologie ma vale soprattutto per Internet. Internet ha influenzato la società, ma La società sta modificando pezzi e parti di Internet, ad esempio attraverso le regole sulla privacy.
+Il rapporto tra tecnologia e società è bidirezionale (si influenzano vicendevolmente). Ciò vale per tutte le tecnologie ma vale soprattutto per Internet. Internet ha influenzato la società, ma La società sta modificando pezzi e parti di Internet (ad esempio attraverso le regole sulla privacy).
 
-Parte degli obiettivi di questo corso è quello di analizzare questo complicato rapporto bidirezionale dove è difficile fare un'analisi dicotomica, è un intreccio tempovariante. Con il cambiare delle condizioni cambiano le pressioni su una certa tecnologia, la radio del 1920 è diversa da quella del 30 che è diversa da quella del 40. Anche Internet è profondamente diversa da come lo era 10 anni fa.
-Bisogna fare questa analisi senza pregiudizi positivi (come succede oggi, “il progresso”, “il futuro inarrestabile”), né negativi (“la tecnologia schiaccerà l'uomo”).
-La prima legge di legge di Kranzberg (storico che insegnala al Georgia Tech, alla fine anni 60 in scuole tecniche americane sono stati creati dipartimenti umanistici per studiare la tecnologia e i suoi impatti sulla società), ideò sei leggi della tecnologia, una di questa è:
+Parte degli obiettivi di questo corso è quello di analizzare questo complicato rapporto bidirezionale dove è difficile fare un'analisi dicotomica, è un intreccio tempo-variante: con il cambiare delle condizioni cambiano le pressioni su una certa tecnologia. La radio del 1920 è diversa da quella del 30 che è diversa da quella del 40. Anche Internet è profondamente diversa da come lo era 10 anni fa.
+Bisogna fare questa analisi senza pregiudizi positivi (come succede oggi: “il progresso”, “il futuro inarrestabile”), né negativi (“la tecnologia schiaccerà l'uomo”).
+
+La prima legge di legge di Kranzberg (storico che insegnava al Georgia Tech, alla fine anni 60 in scuole tecniche americane sono stati creati dipartimenti umanistici per studiare la tecnologia e i suoi impatti sulla società e altri punti di vista disciplinari), ideò sei leggi della tecnologia, una di questa è:
 
 	“ la tecnologia di per sé non è ne buona, né cattiva, né neutra”
+
+Per molti ingegneri la tecnologia è neutra: “La tecnologia di per se non fa niente è colpa di chi la usa”, di conseguenza dovrebbe essere corretta l'affermazione "i mitra di per se non fanno nulla, sono le persone che sparano".
+
+Bisogna quindi esplorare egualmente per ogni tecnologia sia il potenziale negativo che il potenziale positivo. Ad esempio, fin dall'inizio di internet è nata l'idea di creare la più grande libreria universale (potenziale positivo).
+In questa analisi bisogna anche tenere in considerazione gli interessi di tutti. Ad esempio la giustizia sociale nel modo digitale è un ambito ampiamente inesplorato.
+
+Nell'esplorare questo rapporto bisognerebbe anche considerare quali sono i limiti della tecnologia. Nei giorni nostri, di fronte a ogni problema si cerca di trovare una soluzione tecnologica. Per l'istruzione, ad esempio, si cerca di usare app, siti per avere una educazione di livello superiore, ma la soluzione spesso può essere di vecchio stile e può dipendere da altre variabili (e.g., la povertà). Ad esempio c'è una forte correlazione tra il livello economico famiglia e probabilità di avere buoni risultati a scuola (negli Stati Uniti, capita a milioni di studenti di arrivare affamati a lezione)
+
+###Etica e tecnologia
+La tecnologia come tutte le attività umane produce delle conseguenze. Le conseguenza comportano delle responsabilità, qualsiasi attività comporta un aspetto etico (siamo responsabili della conseguenza delle nostre azioni). 
+Uno degli aspetti del rapporto tra tecnologia e società è quello etico. Dal momento che la tecnologia è un prodotto umano, infatti, deve essere soggetta allo stesso scrutinio etico di tutte le altre attività umane. Non per forza la tecnologia produce sempre conseguenze positive.
+
+L'etica della tecnologia è un tema enorme. Il nucleare è stato uno dei primi ambiti a portare a studi etici sulla tecnologia.
+In questo corso, in termini di analisi etica sulla tecnologia, ci si porranno semplicemente alcune domande per strutture un ragionamento.
+
+####L'etica di chi produce la tecnologia
+L'etica di una professione è vecchio quanto la professione. l'etica è uno scambio con la società, vengono concessi determinati privilegi, facendo parte di un ordine (es ordine ingegneri), in cambio chi fa parte dell'ordine si impegna a rispettare una serie di principi etici (il codice deontologico).
+
+In  ambito informatico questo discorso è un po' più nuovo, non più di 25 anni fa si è cominciato a porgere queste domande. Chi scrive software ha delle responsabilità etiche? Anche chi scrive software dovrebbe porsi delle domande di natura etica.
+
+Per esempio la Santa Clara University Ethics Center (Fonte) ci fornisce delle domande per l'etica informatica:
+* che tipo di danno si può provocare alla società con il software che si sta scrivendo;
+* come possono contribuire gli ingegneri del software per garantire una buona vita agli altri;
+* quale è il pubblico verso il quale si è responsabilizzati (semplicemente il committente o un pubblico più ampio e generalista? Ad esempio chi sviluppa facebook ha impatto su un miliardo di persone);
+* perché l'ingegnere del software è obbligato a proteggere gli interessi della società;
+* quali altri obblighi etici dovrebbero rispettare gli ingegneri del software;
+* come possono gli ingegneri del software essere all'altezza di standard etici;
+* quale è lo scopo finale di una vita etica nell'ingegneria del software;
+* quale è il codice deontologico per l'ingegneria del software.
+
+La riflessione su etica e ingegneria (non solo sul software ma in generale) ha avuto un punto di svolta dopo le metà degli anni 80 quando uno shuttle è esploso in volo. Fu chiamato il fisico Richard Feynman a capo di una commissione per capire cosa non avesse funzionato. Infine si trovarono una serie di problemi di natura etica: in una serie di passaggi non erano state comunicate certe scelte sbagliate che poi hanno portato all'esplosione dello shuttle (alla fine erano delle guarnizioni di gomma sbagliate).
+
+####Domande per analizzare gli aspetti etici della tecnologia
+Le domande da porsi per analizzare gli aspetti etici della tecnologia sono state raccolte da tre fonti diverse.
+
+#####Le domande di Neil Postman
+Neil Postman (1931-2003) ha scritto dei libri molto noti sulla tecnologia (“Tecnopoli”) e sull'educazione. Nell'ultimo libro che ha scritto (Fonte: "Come sopravvivere al futuro") sono contenute le seguenti domande per analizzare l'etica di soluzioni tecnologiche:
+
+* Qual e` il problema che la tecnologia si prefigge di risolvere?
+* Di chi e` il problema?
+* Quali istituzioni e quali persone potrebbero essere colpite/danneggiate più seriamente dalla soluzione tecnologica – chiedersi in anticipo delle conseguenze e degli effetti collaterali. Esempio concreto: c'è bisogno di fonti di notizie attendibili e indipendenti per avere una democrazia funzionante. Uno specifico sviluppo tecnologico, cioè Internet basato sulla pubblicità, sta mettendo in crisi il giornalismo. Se ciò mettesse in crisi il giornalismo classico (non basato sull'ottenere il numero massimo di click), sarebbe un problema per l'intera democrazia. Cosa si dovrebbe fare in questo caso? Sussidiare i giornali con soldi pubblici?
+* Quali problemi possono sorgere se viene risolta la questione iniziale? Esempio: i dispositivi elettronici per essere prodotti necessitano di terre rare. Queste terre rare sono presenti nel Nord della Cina (il 90% sono prodotte lì), le zone in cui vengono estratte sono seriamente compromesse dal punto di vista ambientale (senza parlare dei lavoratori schiavi). Quando usiamo i nostri dispositivi elettronici dovremmo essere consapevole del danno ambientale e umano che hanno causato e bisognerebbe porseli anche quando la loro vita finisce e vengono buttati.
+* Quali istituzioni e classi potrebbero acquisire speciali poteri economici e sociali a causa di questo cambio tecnologico?
+* Queste nuove tecnologie obbligano modificazioni del linguaggio e cosa si guadagna o si perde da tali cambiamenti?
+
+Due domante aggiuntive a quelle di Postman da un blog (Fonte:https://librarianshipwreck.wordpress.com/2014/01/13/technology-does-not-stay-new-for-long-another-question-for-neil-postman/)
+7. Cosa succede quando si rompe con una pietra un oggetto tecnologico? E' riparabile? Ultimamente c'è la convenienza economica a buttare oggetti piuttosto che riparlali a causa di scelte produttive guidate da interessi economici.
+8. Cosa succederà e chi sarà colpito quando una nuova tecnologia diventa una vecchia tecnologia? Quando la tecnologia diventa vecchia cosa succede? Ad esempio ora come ora i dispositivi elettronici obsoleti vanno ad ingrandire le discariche di rifiuti elettronici in Africa o Latino America
+
+##### Le 76 ragionevoli domande di Jacques Ellul
+Un pensatore che ha molto riflettuto su queste cose è Jacques Ellul (1912-1994), ha insegnato a Bordeaux in Francia ed è anche molto noto negli Stati Uniti. Ha scritto due voci enciclopediche sull'enciclopedia Treccani (nell'80 e nell'84), tra cui quella sulla propaganda. Ha scritto diversi saggi sulla “società tencologica” e ha cercato di raccogliere tutte le domande etiche sulla tecnologia arrivando a comporre 76 domande divise 9 sezioni:
+
+Ecologia:
+* Quali sono gli effetti sulla salute del pianeta e della persona?
+* Preserva o distrugge la biodiversità?
+* Preserva o riduce l'integrità dell'ecosistema?
+* Quali sono i suoi effetti sul territorio?
+* Quali sono i suoi effetti sulla vita degli animali selvaggi?
+* Quanti e quali tipi di rifiuti genera?
+* Ha in se` dei principi di design ecologico?
+* Rompe i legami di rinnovamento fra la natura e l'uomo?
+* Preserva o riduce la diversità culturale?
+* Quali sono i suoi effetti complessivi, la sua ecologia?
+
+Società:
+* Serve la comunità?
+* Da` potere ai membri della comunità?
+* Come modifica la percezione dei nostri bisogni?
+* E` in contraddizione con la creazione di un'economia umana e comunitaria?
+* Quali sono i suoi effetti sulle relazioni?
+ ad esempio ai giorni nostri ci sono molti studi sugli effetti degli smartphone sulle nostre relazioni
+* Lede la convivialità?
+* Demolisce le fondamenta delle forme di comunicazione tradizionale?
+* Come influenza il nostro modo di vedere e fare esperienza del mondo?
+* Promuove una diversa forma di conoscenza?
+* Viene costruita in prospettiva del rinnovo delle tradizionali forme di conoscenza o ne contribuisce?
+* Contribuisce alle relazioni o alle conoscenze pratiche?
+* Ridefinisce la realtà troppo profondamente?
+ ad esempio i vari media hanno un potere molto forte in questo ambito
+* Cancella il senso di storia e tempo?
+* Ci sono possibili fattori di dipendenza?
+ ad esempio dai social network, dagli smartphone ecc.
+
+Praxis:
+* Cosa fa?
+* Chi ne beneficia?
+* Qual e` il suo scopo?
+* Dove e` stato prodotto?
+* Dove e` utilizzato?
+* Dove bisogna recarsi quando e` rotto o obsoleto?
+* Quanto e` costoso?
+* Puo` essere riparato?
+* Da una persona comune?
+
+Morale:
+* Quali valori promuove?
+* Chi beneficia del suo uso?
+* Quali sono i suoi effetti oltre i benefici dell'individuo?
+* Cosa si perde durante il suo utilizzo?
+* Quali sono i suoi effetti sulle classi meno avvantaggiate?
+  ad es con la rivoluzione digitale i cittadini di serie b lo diventano ancora di più
+
+Etica:
+* Quanto e` complicato da usare?
+* Cosa ci permette di ignorare?
+* Per quale misura allontana l'agente dall'effetto?
+* Possiamo assumere responsabilità personali o civili per i suoi effetti?
+* I suoi effetti essere possono venire eliminati?
+* Di quali tecnologie necessita` per il suo corretto funzionamento?
+ Ad esempio i dispositivi elettronici richiedono elettricità
+* Quali comportamenti futuri può rendere realizzabili?
+* Quali altri avanzamenti tecnologici può rendere avverabili?
+* Altera il nostro senso del tempo e la nostra relazioni sociali conducendoci al nichilismo?
+
+Vocazioni:
+* Qual e` il suo impatto sull'artigianato?
+* Riduce, azzera o favorisce la creatività?
+* E` la tecnologia meno invadente per l'obbiettivo?
+* Sostituisce o aiuta gli uomini e le loro mani?
+* E` reattivo in un ambiente organico?
+* Riduce o aumenta la qualità dei beni?
+* Riduce o amplifica il significato del lavoro?
+
+Metafisica:
+* Su quali aspetti del proprio Io si riflette?
+* Esprime amore?
+* Esprime rabbia?
+* Quali aspetti del nostro passato porta alla luce?
+* Si fonda su una logica ciclica o lineare?
+
+Politica:
+* Concentra o distribuisce il potere?
+ ad es l'ambito della produzione di energia (centrali nucleari vs auto-produzione tipo energia solare).
+* Necessita o istituisce una conoscenza elitaria?
+ ad es. il pc ha fatto in modo che l'elite dei tecnici dei computer scomparisse.
+* E` totalitaria?
+* Necessita di burocrazia per la propria perpetuazione?
+* Di quali benefici legali ha bisogno?
+* Lede l'autorità tradizionale morale?
+* Necessita di difesa militare?
+* Come influenza il settore militare e il campo di battaglia?
+* Ha un effetto massificante?
+* Risponde alla logica della creazione di un'economia globale?
+* Aumenta il potere nelle mani delle corporazione sovrastatali?
+* Di quale e quanto capitale necessita?
+
+Estetica:
+* E` brutto?
+* E` fonte di bruttezza?
+* Che rumore fa?
+* A quale ritmo ci costringe?
+* Come influenza la qualità della vita (distintamente dai canoni tradizionali)?
+
+##### Altre 41 domande
+altre 41 che si intersecano con i ragionamenti di Ellul ma sono più recenti e possono essere più specifiche per i problemi attuali, queste sono:
+
+1.What sort of person will the use of this technology make of me?
+2.What habits will the use of this technology instill?
+3.How will the use of this technology affect my experience of time?
+4.How will the use of this technology affect my experience of
+place?
+5. How will the use of this technology affect how I relate to other
+people?
+6. How will the use of this technology affect how I relate to the
+world around me?
+7. What practices will the use of this technology cultivate?
+8. What practices will the use of this technology displace?
+9. What will the use of this technology encourage me to notice?
+10. What will the use of this technology encourage me to ignore?
+4511.What was required of other human beings so that I might be
+able to use this technology?
+12. What was required of other creatures so that I might be able to
+use this technology?
+13. What was required of the earth so that I might be able to use
+this technology?
+14. Does the use of this technology bring me joy?
+15. Does the use of this technology arouse anxiety?
+16. How does this technology empower me? At whose expense?
+17. What feelings does the use of this technology generate in me
+toward others?
+18. Can I imagine living without this technology? Why, or why not?
+19. How does this technology encourage me to allocate my time?
+20. Could the resources used to acquire and use this technology
+be better deployed?21.Does this technology automate or outsource labor or
+responsibilities that are morally essential?
+22.What desires does the use of this technology generate?
+23.What desires does the use of this technology dissipate?
+24. What possibilities for action does this technology present? Is it
+good that these actions are now possible?
+25. What possibilities for action does this technology foreclose? Is
+it good that these actions are no longer possible?
+26. How does the use of this technology shape my vision of a good
+life?
+27. What limits does the use of this technology impose upon me?
+28. What limits does my use of this technology impose upon others
+29. What does my use of this technology require of others who
+would (or must) interact with me?
+30. What assumptions about the world does the use of this
+technology tacitly encourage?
+31. What knowledge has the use of this technology disclosed to me about
+myself?
+32. What knowledge has the use of this technology disclosed to me about
+others? Is it good to have this knowledge?
+33. What are the potential harms to myself, others, or the world that might result
+from my use of this technology?
+34. Upon what systems, technical or human, does my use of this technology
+depend? Are these systems just?
+35. Does my use of this technology encourage me to view others as a means to
+an end?
+36. Does using this technology require me to think more or less?
+37. What would the world be like if everyone used this technology exactly as I
+use it?
+38. What risks will my use of this technology entail for others? Have they
+consented?
+39. Can the consequences of my use of this technology be undone? Can I live
+with those consequences?
+40. Does my use of this technology make it easier to live as if I had no
+responsibilities toward my neighbor?
+41. Can I be held responsible for the actions which this technology empowers?
+Would I feel better if I couldn’t?
+
+(fonte:: http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
+
+#####Esempio su Facebook
+potrebbe essere interessante porci alcune di queste domande per le tecnologie che si usano tutti i giorni, ad esempio per Facebook.
+
+######Domande di Postman:
+
+1. *Qual e` il problema che la tecnologia si prefigge di risolvere?* C'erano già soluzioni esistenti per risolvere problemi sociali, ha dato una nuova (e migliore, o più apprezzata) soluzione a problemi che erano già affrontati da altre tecnologie.
+2. *Di chi era il problema?* all'inizio di soli studenti, comunque generalizzabile a tutte le persone (troll: ha anche risolto il problema per le agenzie di intelligence, ora volontariamente diamo informazioni che prima erano difficili da raccogliere).
+3. *Quali istituzioni e quali persone potrebbero essere colpite più seriamente dalla soluzione tecnologica? Quali danni può causare?* Facebook è fonte di cattura di attenzione molto spinto - sottrae tempo di osservazione dalla televisione, nonché alla scuola e alla Chiesa ,ma anche ai giornali - ad es ci porta a leggere notizie a spizzichi soltanto nel *newsfeed* di Facebook.
+4. *Quali problemi possono sorgere se risolviamo la questione iniziale?* dà dipendenza, è usato per conoscere e farsi conoscere - mille problemi tra cui anche gli *stalker* e l'incoraggiamento al narcisismo.
+5. *Quali istituzioni e classi potrebbero acquisire speciali poteri economici e sociali a causa di questo cambio tecnologico?* Potere economico e politico speciale a causa di FB. FB potrebbe influenzare la percezione di certi fenomeni, l'algoritmo di Facebook ottimizza la probabilità che noi clicchiamo su certe pubblicità scegliendo post di nostri amici ad hoc. Ad esempio con certi esperimenti (dicendo di andare a votare) FB ha indotto a votare cittadini americani e pare che ciò abbia portato più voti ai democratici (giovani che usano FB sono tendenzialmente più dem in questo periodo storico). Oppure ha anche fatto in modo di cambiare l'umore di persone cambiando newsfeed di migliaia di utenti. Inoltre questo potere può essere ceduto da FB ad altri. FB potrebbe fare uno studio demografico per l'impiego (ciò che fa LinkedIn per missione principale).
+In campo assicurativo: le assicurazioni da 200 anni sono le principali consumatrici di dati - ora possono conoscere il nostro stile di vita - con Apple watch avranno anche il dato grezzo sui battiti cardiaci.
+6. *Queste nuove tecnologie obbligano modificazioni del linguaggio e cosa si guadagna o si perde da tali cambiamenti?* Portano a un cambio nel linguaggio: testi corti, immagini.
+7. Non si applica visto che Facebook è un software.
+8. Non si applica visto che Facebook è un software. 
 
 
 # Parte Metodologica
