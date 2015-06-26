@@ -43,7 +43,7 @@
 			- [Protezione dei dati e riservatezza](#protezione-dei-dati-e-riservatezza)
 			- [Il trattamento dei dati personali](#il-trattamento-dei-dati-personali)
 	- [La Rivoluzione Digitale (lezione 6)] (#la-rivoluzione-digitale-lezione-6)
-	- [Tecnologia e Società (lezione 7)](#tecnologia-e-societa-lezione-7)
+	- [Tecnologia e Società (lezione 7)](#tecnologia-e-società-lezione-7)
 		- [Riflessioni a monte sul rapporto tra tecnologia e società.](#)
 		- [Etica e tecnologia](#etica-e-tecnologia)
 			- [L'etica di chi produce la tecnologia](#)
