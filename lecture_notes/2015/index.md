@@ -43,6 +43,18 @@
 			- [Protezione dei dati e riservatezza](#protezione-dei-dati-e-riservatezza)
 			- [Il trattamento dei dati personali](#il-trattamento-dei-dati-personali)
 	- [La Rivoluzione Digitale (lezione 6)] (#la-rivoluzione-digitale-lezione-6)
+	- [Tecnologia e Società (lezione 7)](#tecnologia-e-societa-lezione-7)
+		- [Riflessioni a monte sul rapporto tra tecnologia e società.](#)
+		- [Etica e tecnologia](#etica-e-tecnologia)
+			- [L'etica di chi produce la tecnologia](#)
+			- [Domande per analizzare gli aspetti etici della tecnologia](#)
+				- [Le domande di Neil Postman](#)
+				- [Le 76 ragionevoli domande di Jacques Ellul](#)
+				- [Altre 41 domande](#)
+				- [Esempio su Facebook](#)
+					- [Domande di Postman:](#)
+					- [Domande politiche di Ellul:](#)
+	- [Tecnologie della comunicazione – parte preliminare (pre-Internet) (lezione 8)](#)
 	
 
 
@@ -76,6 +88,18 @@
 			- [Educazione e rispetto](#)
 		- [Aspetti pratici della mailing list di Rivoluzione Digitale](#)
 			- [Iscrizione cancellazione e informazioni pratiche](#)
+	- [licenze Creative Commons  (lezione 7)](#licenze-creative-commons-lezione-7)
+		- [Perché esistono le licenze CC e alcuni cenni storici](#)
+		- [le licenze CC](#le-licenze-cc)
+			- [Attribuzione (BY)](#)
+			- [Non opere derivate (ND)](#)
+			- [Non commerciale (NC)](#)
+			- [condividere allo stesso modo (SA)](#)
+			- [le 6 licenze CC](#)
+			- [Come si fa ad utilizzarle](#)
+		- [SIAE e CC](#)
+		- [dove trovare opere CC](#)
+		- [Misc - licenze CC](#)
 
 # Parte di contenuti di alto livello 
 
