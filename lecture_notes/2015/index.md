@@ -1143,88 +1143,60 @@ Estetica:
 
 ##### Altre 41 domande
 * What sort of person will the use of this technology make of me?
- 
 * What habits will the use of this technology instill?
- 
 * How will the use of this technology affect my experience of time?
- 
 * How will the use of this technology affect my experience of
  place?
- 
 * How will the use of this technology affect how I relate to other
  people?
- 
 * How will the use of this technology affect how I relate to the
  world around me?
- 
 * What practices will the use of this technology cultivate?
- 
 * What practices will the use of this technology displace?
- 
 * What will the use of this technology encourage me to notice?
- 
 * What will the use of this technology encourage me to ignore? 
 * What was required of other human beings so that I might be
  able to use this technology?
 * What was required of other creatures so that I might be able to
  use this technology?
- 
 * What was required of the earth so that I might be able to use
  this technology?  
 * Does the use of this technology bring me joy?
- 
 * Does the use of this technology arouse anxiety?
- 
 * How does this technology empower me? At whose expense?
- 
 * What feelings does the use of this technology generate in me
  toward others?  
 * Can I imagine living without this technology? Why, or why not?
- 
 * How does this technology encourage me to allocate my time? 
 * Could the resources used to acquire and use this technology
  be better deployed?
 * Does this technology automate or outsource labor or
  responsibilities that are morally essential?
- 
 * What desires does the use of this technology generate?
- 
 * What desires does the use of this technology dissipate?
- 
 * What possibilities for action does this technology present? Is it
  good that these actions are now possible?
- 
 * What possibilities for action does this technology foreclose? Is
  it good that these actions are no longer possible?
- 
 * How does the use of this technology shape my vision of a good
  life?
- 
 * What limits does the use of this technology impose upon me?
- 
 * What limits does my use of this technology impose upon others 
 * What does my use of this technology require of others who
  would (or must) interact with me?
- 
 * What assumptions about the world does the use of this
  technology tacitly encourage?
- 
 * What knowledge has the use of this technology disclosed to me about
  myself? 
 * What knowledge has the use of this technology disclosed to me about
  others? Is it good to have this knowledge?
- 
 * What are the potential harms to myself, others, or the world that might result
  from my use of this technology?
- 
 * Upon what systems, technical or human, does my use of this technology
  depend? Are these systems just?
- 
 * Does my use of this technology encourage me to view others as a means to
  an end?
-  
 * Does using this technology require me to think more or less?
- 
 * What would the world be like if everyone used this technology exactly as I
  use it?
 * What risks will my use of this technology entail for others? Have they
@@ -1236,8 +1208,8 @@ responsibilities toward my neighbor?
 * Can I be held responsible for the actions which this technology empowers?
 Would I feel better if I couldn’t?
 
-(fonte:: http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
-(fonte:: http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
+(fonte: http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/)
+
 
 #####Esempio su Facebook
 potrebbe essere interessante porci alcune di queste domande per le tecnologie che si usano tutti i giorni, ad esempio per Facebook.
@@ -1268,6 +1240,19 @@ In campo assicurativo: le assicurazioni da 200 anni sono le principali consumatr
 * *Aumenta il potere nelle mani delle corporazione sovrastatali?* Sì, è una forza economica e c'è un mercato Facebook unico in tutto il mondo.
 * *Di quale e quanto capitale necessita?* Capitale richiesto iniziale bassissimo. Quanti soldi ci vorrebbero per creare un competitor di FB? Moltissimi, a causa di: 1) *effetto di lockin*, difficile cambiare provider del servizio (ambito in cui intervengono i governi che potrebbero render esportabile il profilo) 2) economie di rete rendono più conveniente restare in una rete in cui ci sono tutti (concetto della massa critica e del monopolio naturale) 3) I dati accumulati: ad es Google ha 20 anni di storia di ricerche usate per costruire algoritmi ancora migliori - una nuova Google non avrebbe i dati per raffinare i propri algoritmi di ricerca. 
 
+##Tecnologie della comunicazione – parte preliminare (pre-Internet) (lezione 8)
+
+Questa sezione è suddivisa in due parti:
+1. una prima parte fattuale in cui verranno trattate le tecnologie di comunicazione precedenti a internet;  
+2. la seconda componente si basa su come interpretare l'interazione tra tecnologia e società basandosi su casi concreti ante internet. 
+
+Questa parte preliminare fornisce gli strumenti per poi capire gli impatti di Internet.
+Verranno trattate sopratutto le tecnologie elettriche, poiché la rivoluzione digitale si basa su di esse, tant'è che alcuni considerano la rivoluzione digitale semplicemente come un capitolo della più grande rivoluzione elettrica.
+
+Verranno inoltre trattate le tecnologie fondamentali della comunicazione prima della scoperta dell'elettricità: la scrittura, il codex o libri e la stampa.
+Principalmente per due motivi:
+* parlando di Internet si parla a volte di valutare la rivoluzione digitale come la scoperta della stampa a caratteri mobili di Gutenberg (soprattutto negli ambienti legati alla Silicon Valley);
+* Si trova spesso anche il confronto tra il digitale e l'invenzione scrittura, nel senso che gli effetti della rivoluzione digitale sono paragonabili in ampiezza all'invenzione della scrittura.
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
