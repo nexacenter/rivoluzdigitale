@@ -1,3 +1,6 @@
+Traduzione a cura di [Roberto Alessi](https://www.twitter.com/robymontyz) (m. S205065)  
+Articolo originale: https://medium.com/backchannel/why-silicon-valley-will-continue-to-rule-c0cbb441e22f
+
 #Silicon Valley Prima e Adesso:
 ######Per Immaginare il Futuro, Devi Comprendere il Passato
 
@@ -124,10 +127,4 @@ E nessuno ci riuscirà perché nessun altro posto - tra cui la Silicon Valley st
 
 La spinta a costruire un’altra Silicon Valley può essere destinata a fallire, ma ciò non è necessariamente una cattiva notizia per i pianificatori territoriali di altrove. L'economia high-tech non è un gioco a somma zero. L'economia del settore tecnologico globale del XXI secolo è grande e complessa abbastanza per far sì che più regioni possano prosperare per decenni a venire - inclusa la Silicon Valley, se le minacce che deve affrontare verrano prese sul serio.
 
-
-
-
 *Leslie Berlin, 01/05/2015*
-
-Traduzione a cura di [Roberto Alessi](https://www.twitter.com/robymontyz) (m. S205065)  
-Articolo originale: https://medium.com/backchannel/why-silicon-valley-will-continue-to-rule-c0cbb441e22f
