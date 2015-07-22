@@ -1006,7 +1006,7 @@ Bisogna fare questa analisi senza pregiudizi positivi (come succede oggi: “il 
 
 La prima legge di legge di Kranzberg (storico che insegnava al Georgia Tech, alla fine anni 60 in scuole tecniche americane sono stati creati dipartimenti umanistici per studiare la tecnologia e i suoi impatti sulla società e altri punti di vista disciplinari), ideò sei leggi della tecnologia, una di questa è:
 
-	“ la tecnologia di per sé non è ne buona, né cattiva, né neutra”
+	“ la tecnologia di per sé non è né buona, né cattiva, né neutra”
 
 Per molti ingegneri la tecnologia è neutra: “La tecnologia di per se non fa niente è colpa di chi la usa”, di conseguenza dovrebbe essere corretta l'affermazione "i mitra di per se non fanno nulla, sono le persone che sparano".
 
@@ -1267,16 +1267,87 @@ In campo assicurativo: le assicurazioni da 200 anni sono le principali consumatr
 ##Tecnologie della comunicazione – parte preliminare (pre-Internet) (lezione 8)
 
 Questa sezione è suddivisa in due parti:
-1. una prima parte fattuale in cui verranno trattate le tecnologie di comunicazione precedenti a internet;  
-2. la seconda componente si basa su come interpretare l'interazione tra tecnologia e società basandosi su casi concreti ante internet. 
+
+1. una prima parte fattuale in cui verranno trattate le tecnologie di comunicazione precedenti a internet;    
+2. la seconda componente si basa su come interpretare l'interazione tra tecnologia e società basandosi su casi concreti ante internet.  
 
 Questa parte preliminare fornisce gli strumenti per poi capire gli impatti di Internet.
+
 Verranno trattate sopratutto le tecnologie elettriche, poiché la rivoluzione digitale si basa su di esse, tant'è che alcuni considerano la rivoluzione digitale semplicemente come un capitolo della più grande rivoluzione elettrica.
 
-Verranno inoltre trattate le tecnologie fondamentali della comunicazione prima della scoperta dell'elettricità: la scrittura, il codex o libri e la stampa.
+Verranno inoltre trattate le tecnologie fondamentali della comunicazione prima della scoperta dell'elettricità: la scrittura, il codex (o libri) e la stampa.
 Principalmente per due motivi:
 * parlando di Internet si parla a volte di valutare la rivoluzione digitale come la scoperta della stampa a caratteri mobili di Gutenberg (soprattutto negli ambienti legati alla Silicon Valley);
 * Si trova spesso anche il confronto tra il digitale e l'invenzione scrittura, nel senso che gli effetti della rivoluzione digitale sono paragonabili in ampiezza all'invenzione della scrittura.
+
+###La scrittura
+
+####Cenni storici sulla scrittura
+Per marcare numeri ci sono evidenze molto antiche che risalgono agli albori della civiltà. Per quanto riguarda la scrittura del linguaggio vero e proprio, è stata inventata almeno in Mesopotamia nel 3200 a.C dai Sumeri e indipendentemente nel 600 a.C in America Centrale. Pare che le successive forme di scrittura siano state influenzate mesopotamica, per esempio quella egiziana. Gli ideogrammi cinesi quasi sicuramente sono un'invenzione indipendente intorno al 1200 a.C, anche se l'idea della scrittura molto probabilmente era influenzata dalla scoperta sumerica.
+
+####Reazioni all'invenzione della scrittura 
+Nel Fedro di Platone (Ca. 340 a.C), vengono esposte alcuni dei concetti base del sistema platonico, quale la dottrina delle idee, inoltre si parla dell'invenzione della scrittura (che i greci attribuivano agli egiziani).
+
+Nel passaggio sull'invenzione della scrittura (274 c-276 a), si trovano alcune frasi chiave sugli effetti della scrittura sulla società. Nell'introduzione Socrate parla del dialogo tra Theuth, inventore del calcolo e della scrittura e Tamus re dell'intero paese:
+
+   […] Quando giunsero all’alfabeto: “Questa scienza, o re – disse Theuth – renderà gli  Egiziani più sapienti e arricchirà la loro memoria perché questa scoperta è una medicina per la sapienza e la memoria”. E il re rispose: “O ingegnosissimo Theuth, una cosa è la potenza creatrice di arti nuove, altra cosa è giudicare qual grado di danno e di utilità esse posseggano per coloro che le useranno. E così ora tu, per benevolenza verso l’alfabeto di cui sei [275 a] inventore, hai esposto il contrario del suo vero effetto. Perché esso ingenererà oblio nelle anime di chi lo imparerà: essi cesseranno di esercitarsi la memoria perché fidandosi dello scritto richiameranno le cose alla mente non più dall’interno di se stessi, ma dal di fuori, attraverso segni estranei: ciò che tu hai trovato non è una ricetta per la memoria ma per richiamare alla mente. Né tu offri vera sapienza ai tuoi scolari, ma ne dai solo l’apparenza perché essi, grazie a te, potendo avere notizie di molte cose senza insegnamento, si crederanno d’essere dottissimi, mentre per la maggior parte non sapranno nulla; con loro sarà [b] una sofferenza discorrere, imbottiti di opinioni invece che sapienti”.  
+
+In sostanza Theuth è convinto che scrittura non sia una ricetta per la memoria, bensì causerà oblio (ci si dimenticherà di cose perché tanto è tutto scritto), che è esattamente ciò che da anni si scrive su internet.
+
+Il discorso continua poi con il dialogo tra Socrate e Fedro:
+  […] Socrate – Dunque chi crede di poter tramandare un’arte affidandola all’alfabeto e chi a sua volta  l’accoglie supponendo che dallo scritto si possa trarre qualcosa di preciso e di permanente, deve esser pieno d’una grande ingenuità, e deve ignorare assolutamente la profezia di Ammone se s’immagina che le parole scritte siano qualcosa di più [d] del rinfrescare la memoria a chi sa le cose di cui tratta lo scritto. Fedro – È giustissimo. Socrate – Perché vedi, o Fedro, la scrittura è in una strana condizione, simile veramente a quella della pittura. I prodotti cioè della pittura ci stanno davanti come se vivessero; ma se li interroghi, tengono un maestoso silenzio. Nello stesso modo si comportano le parole scritte: crederesti che potessero parlare quasi che avessero in mente qualcosa; ma se tu, volendo imparare, chiedi loro qualcosa di ciò che dicono esse ti manifestano una cosa sola e sempre la stessa. E una volta che sia messo in iscritto, ogni discorso arriva alle mani di tutti, tanto di chi l’intende tanto di chi non ci ha nulla [e] a che fare; né sa a chi gli convenga parlare e a chi no. Prevaricato ed offeso oltre ragione esso ha sempre bisogno che il padre gli venga in aiuto, perché esso da solo non può difendersi né aiutarsi.  
+
+Nella cultura classica l'interazione era principalmente orale. Per avere accesso agli scritti una volta prima veniva formati con interazione orale, poi si veniva dato accesso allo scritto e poi (in una specie di dottorato di ricerca) si potevano fare dei commentari allo scritto.
+
+La critica di Socrate si basa sul fatto che il contenuto sia fisso e non si può adattare agli uditori (il contenuto è chiuso e statico), sulla pericolosità che il testo finisca in mano a gente che non lo capisce e sul fatto che non si possa interpellare l'autore per interpretare in modo corretto il testo.
+Questo è uno degli esempi più antichi di una reazione critica a una tecnologia, che ha molta affinità con i discorsi che si sentono ai giorni nostri sugli smartphone, sui computer su Google ecc.
+
+Questa critica allo scritto da parte di Socrate è ironicamente codificata in forma scritta da Platone che dimostra implicitamente di approvare la forma scritta come mezzo di comunicazione e di trasmissione.
+
+
+####Un'ulteriore riflessione sulla scrittura
+Cosa si perde smettendo di scrivere a mano
+
+fino al 1860 per scrittura si intendeva scrittura a mano, per migliaia di anni si è scritto a mano. Ora dopo 150 anni c'è la discussione di non insegnare più ai bambini di scrivere a mano (in alcuni paesi tipo Finlandia).
+Alcuni studiosi stanno cercando di capire i potenziali effetti di smettere di insegnare ai bambini di scrivere a mano e pare esserci una connessione tra sforzo fisico di scrivere/comporre e capacità di apprendere. Ci sarebbe un effetto cognitivo che induce a capire in modo più profondo il significato delle parole scrivendole a mano piuttosto che con una tastiera (fonte: “What’s Lost as Handwriting Fades”, Maria Konnikova,
+ The New York Times, June 2, 2014.
+http://www.nytimes.com/2014/06/03/science/whats-lost-as-handwriting-fades.html).
+
+C'è inoltre un secondo studio che riguarda l'efficacia di prendere appunti a mano piuttosto che al computer (in ambito universitario). Sembrerebbe che scrivere a mano induca a una maggiore memorizzazione dei contenuti. La causa sembra essere che scrivendo a mano non si riesca ad andare alla velocità dell'oratore e a causa dello lo sforzo di sintetizzare i contenuti si memorizzino maggiormente le informazioni. (fonte:“A Learning Secret: Don’t Take Notes with a Laptop”,
+Cindy May, Scientific American, June 3, 2014.
+http://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/
+)
+
+####Il codex
+Fino al I secolo d.C la scrittura era conservata in rotoli. Nel I secolo (ne parla anche Cesare) incomincia a diffondersi il codex, in cui è presente una rilegatura tra diversi fogli (innovazione del “formato libro”).
+
+#####Processo di diffusione del codex
+ - Fino al 1° secolo d.C., la scrittura era conservata su rotoli
+ - Nel I secolo inizia a diffondersi il codex
+ - Nel III secolo rotoli e codex sono circa pari
+ - Nel VI secolo il codex è predominante (ci sono voluti 5
+ secoli!)
+
+Per questa innovazione tecnologica ci è voluto mezzo millennio per diventare predominante nonostante i numerosi vantaggi nell'usarlo
+
+#####Vantaggi del codex
+ - Accesso casuale (maggiore velocità di consultazione)
+ - Possibilità di scrivere su entrambi i lati (maggiore economicità e compattezza)
+ - Maggiore resistenza al tempo (grazie alla copertina)
+ - Maggiore facilità di organizzazione (grazie ai dorsi su cui si può scrivere il contenuto del libro)
+
+  Perla: i libri, attraverso i dorsi, mandano segnale nell'ambiente in cui uno vive influenzandoci, gli ebook e    gli smartphone non mandano nessun segnale nell'ambiente in cui si vive, è tuttp sepolto in una macchina
+
+#####Il costo del codex
+Fino all'arrivo della stampa esistevano solo codex manoscritti di valore elevatissimo: Boccaccio ad esempio possedeva 32 manoscritti diversi dei quali trascritti da lui a mano; Petrarca, più benestante ne aveva circa 60 (aveva lasciato una veste di lana a boccaccio in eredità cosi che poteva lvorare anche d'inverno); L'università di Oxford nel 1327 ha solo 22 libri (ed era già una università importante), nel 1447 ne aveva circa 600. Fino all'invenzione della stampa c'era un problema oggettivo di accesso alla conoscenza, il tempo per leggere un libro era limitato che poi qualcun altro doveva accedervi.
+
+Il Cardinal Bessarione (1408-1472), bizantino venuto in Italia e convertito al cattolicesimo e cercò di creare di nuovo l'unità delle Chiese, volendo preservare la cultura bizantina dopo la caduta di Costantinopoli raccolse circa 1000 volumi di cultura greca. Quando morì lasciò la biblioteca al duca di montefeltro con l'ordine di portarli a Venezia. Divennero quindi nucleo fondante della biblioteca Marciana.
+
+###La stampa
+Nel 1455 a Magonza (Mainz) Johann Gutenberg (ri)inventa la stampa a caratteri movili (già praticata in Cina-Corea dal 1234). Il punto fondamentale è che inventa i caratteri mobili singoli e riutilizzabili essendo fatti di una lega di metallo (le tecniche di stampa precedenti si basavano su xilografie in legno). Questi che venivano allineati a formare una pagina, inchiostrati e pressati su un foglio di carta o pergamena.
+
+#### I vantaggi della stampa
+pro: più veloce di un paio di ordine di grandezza (x100) per scrivere libri.
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
