@@ -1290,7 +1290,7 @@ Nel Fedro di Platone (Ca. 340 a.C), vengono esposte alcuni dei concetti base del
 
 Nel passaggio sull'invenzione della scrittura (274 c-276 a), si trovano alcune frasi chiave sugli effetti della scrittura sulla società. Nell'introduzione Socrate parla del dialogo tra Theuth, inventore del calcolo e della scrittura e Tamus re dell'intero paese:
 
-	[…] Quando giunsero all’alfabeto: “Questa scienza, o re – disse Theuth – renderà gli  Egiziani più sapienti e arricchirà la loro memoria perché questa scoperta è una medicina per la sapienza e la memoria”. E il re rispose: “O ingegnosissimo Theuth, una cosa è la potenza creatrice di arti nuove, altra cosa è giudicare qual grado di danno e di utilità esse posseggano per coloro che le useranno. E così ora tu, per benevolenza verso l’alfabeto di cui sei [275 a] inventore, hai esposto il contrario del suo vero effetto. Perché esso ingenererà oblio nelle anime di chi lo imparerà: essi cesseranno di esercitarsi la memoria perché fidandosi dello scritto richiameranno le cose alla mente non più dall’interno di se stessi, ma dal di fuori, attraverso segni estranei: ciò che tu hai trovato non è una ricetta per la memoria ma per richiamare alla mente. Né tu offri vera sapienza ai tuoi scolari, ma ne dai solo l’apparenza perché essi, grazie a te, potendo avere notizie di molte cose senza insegnamento, si crederanno d’essere dottissimi, mentre per la maggior parte non sapranno nulla; con loro sarà [b] una sofferenza discorrere, imbottiti di opinioni invece che sapienti”.  
+[…] Quando giunsero all’alfabeto: “Questa scienza, o re – disse Theuth – renderà gli  Egiziani più sapienti e arricchirà la loro memoria perché questa scoperta è una medicina per la sapienza e la memoria”. E il re rispose: “O ingegnosissimo Theuth, una cosa è la potenza creatrice di arti nuove, altra cosa è giudicare qual grado di danno e di utilità esse posseggano per coloro che le useranno. E così ora tu, per benevolenza verso l’alfabeto di cui sei [275 a] inventore, hai esposto il contrario del suo vero effetto. Perché esso ingenererà oblio nelle anime di chi lo imparerà: essi cesseranno di esercitarsi la memoria perché fidandosi dello scritto richiameranno le cose alla mente non più dall’interno di se stessi, ma dal di fuori, attraverso segni estranei: ciò che tu hai trovato non è una ricetta per la memoria ma per richiamare alla mente. Né tu offri vera sapienza ai tuoi scolari, ma ne dai solo l’apparenza perché essi, grazie a te, potendo avere notizie di molte cose senza insegnamento, si crederanno d’essere dottissimi, mentre per la maggior parte non sapranno nulla; con loro sarà [b] una sofferenza discorrere, imbottiti di opinioni invece che sapienti”.  
 
 In sostanza Theuth è convinto che scrittura non sia una ricetta per la memoria, bensì causerà oblio (ci si dimenticherà di cose perché tanto è tutto scritto), che è esattamente ciò che da anni si scrive su internet.
 
@@ -1347,9 +1347,77 @@ l Cardinal Bessarione (1408-1472), bizantino venuto in Italia convertito al catt
 Nel 1455 a Magonza (Mainz) Johann Gutenberg (ri)inventa la stampa a caratteri mobili (già praticata in Cina-Corea dal 1234). Il punto fondamentale è che inventa i caratteri mobili singoli e riutilizzabili essendo fatti di una lega di metallo (le tecniche di stampa precedenti si basavano su xilografie in legno). Questi che venivano allineati a formare una pagina, inchiostrati e pressati su un foglio di carta o pergamena.
 
 ####Vantaggi della stampa
-La stampa a caratteri mombili era alla sua invenzione più veloce di un paio di ordini di grandezza (x100) rispetto alla scrittura a mano dei libri.
-Nel giro di 50 anni dall'invenzione della stampa si stamparono 30 mila titoli differenti per una tiratura totale di 12 milioni di libri. 
+La stampa a caratteri mobili era alla sua invenzione più veloce di un paio di ordini di grandezza (x100) rispetto alla scrittura a mano dei libri.
+Nel giro di 50 anni dall'invenzione della stampa si stamparono 30 mila titoli differenti per una tiratura totale di 12 milioni di copie. Venezia diventa una delle capitali
+ del libro (negli anni ‘470 circa 1/8 dei libri stampati in Europa venivano da lì).
 L'effetto sulla diffusione e sul prezzo dei libri (che si riduce dell'80%) è molto forte. Tuttavia ci sono volute due generazioni affinché l'innovazione di Gutenberg si diffondesse: gli amanuensi sono rimasti ancora in auge per decenni (e nel frattempo protestavano a Parigi contro questa innovazione).
+
+####I primi editori
+Il primo editore nel senso moderno del termine fu Aldo Manuzio. passato alla storia per la bellezza delle sue scritture.
+
+L'idea di editore nel senso moderno del termine nasce dal fatto che aveva un logo e un motto (*festina lente* ovvero "affrettati con calma"). Apporta una serie di innovazioni al libro, inventa il libro tascabile (non più in formato manoscritto), è il primo ad usare il carattere corsivo (per cui ottiene un brevetto), invanta la forma moderna di virgola e l'uso del punto e virfo. Inoltre è il primo a fare uso della prefazione (un pezzo di testo scritto da un altro, non dall'autore, per introdurre il testo). 
+Aldo Manuzia sceglieva i titoli da pubblicare, circa 130 in tutto (molti classici greci e di umanisti contemporanei) per una missione culturale e non puramente col fine di massimizzare il profitto.
+(fonte: http://exhibits.lib.byu.edu/aldine/)
+
+Nei libri di Manuzio inoltre è presente prima forma di tutela dello stampatore, sulla copertina sotto il logo viene infatti scritto "cum privilegio".
+Tra gli altri meriti Manuzio ha pubblicato il primo libro stampato illustrato (si dice sia il più bello mai stampato).
+
+####Reazioni all'invenzione della stampa
+
+In una lettera di Niccolò Perotti (erudito umanista) indirizzata a Francesco Guarnerio e datata 1471 (20 anni dopo l'invenzione della stampa), esplicita il pensiero che si andava formando nella classe dirigente (come reazione alla nuova tecnologia) e scrive:
+
+““Negli ultimi anni, mio caro Francesco, mi sono spesso
+congratulato con l'età nostra, quasi avessimo ottenuto proprio
+ora un dono grande, invero divino, con il nuovo tipo di scrittura
+di recente giuntoci dalla Germania. **Vedevo infatti che un
+uomo solo poteva stampare in un mese ciò che parecchi
+amanuensi a stento avrebbero potuto portare a termine in
+un anno**... Questo mi induceva a sperare che entro breve
+tempo avremmo avuto una tale quantità di libri, **che non
+sarebbe rimasta una sola opera che non ci si potesse
+procurare per scarsità o mancanza di mezzi**... Ora tuttavia
+- o fallacia dei pensieri umani! - vedo che le cose sono andate
+ben diversamente da come speravo. Infatti, adesso che
+chiunque è libero di stampare ciò che gli aggrada, sovente gli
+uomini trascurano l'eccellenza, per scrivere, a puro fine di
+divertimento, ciò che meglio sarebbe dimenticare, anzi
+cancellare da tutti i libri. E anche quando scrivono cose
+degne, le stravolgono e corrompono al punto che sarebbe di
+gran lunga preferibile fare a meno di tali libri, anziché spedirli
+in migliaia di copie in tutte le provincie del mondo, col rischio,
+ahimè, di diffondere un così gran numero di menzogne.”
+
+Da quanto c'è la scrittura ci sono i libri proibiti, ma ha sempre riguardato una fetta piccolissima della popolazione. Con la nascita della stampa nasce la censura, si dice che il primo a usarla sia stato un cardinale vicino a Magonza. 
+
+Nasce una prima forma di censura nel 1543 nella Repubblica di Venezia dove il Consiglio dei
+ Dieci affida agli Esecutori contro la Bestemmia il
+ compito di sorvegliare l'editoria, con facoltà di
+ multare chi stampava senza permesso.
+
+Nel 1559 nasce la lista dei libri proibiti emanata dal Sant'Uffizio. All'inizio contiene solo libri protestanti, ma poi si allarga anche a libri con altri contenuti. L'indice dei libri proibiti verrà abolito solo nell'epoca del concilio vaticano II (1966).
+
+####Libri vs ebook
+Secondo uno studio gli studenti in Inghilterra per certi tipi di libri preferiscono i libri di carta agli ebook.
+Si è provato a confrontare l'efficacia dello studio basato su un libro di testo cartaceo rispetto a un ebook. Sembra che libro di carta permetta di memorizzare meglio le informazioni e ciò sarebbe dovuto al fatto molti possiedano una memoria spaziale: in pratica ci si ricorda dove siano le informazioni. Sugli ebook lo spazio è sempre lo stesso e questo tipo di memoria non si potrebbe utilizzare..
+Siamo ancora all'inizi di questa tecnologia e tra qualche anno ci potrebbero essere ebook che non hanno presentano questi svantaggi. (fonte: “Perché la carta è meglio”, Roberto Casati, Il Sole 24 Ore
+ (inserto “Domenica”), 19 aprile 2015.)
+
+###La posta
+La posta moderna intesa come sistema aperto al pubblico per inviare degli scritti viene istituita nel 1516 da Enrico VII come “Master of the Posts”. <<rivedi
+
+Carlo I nel 1635, apre al pubblico la Royal Mail. Per i primi 200 anni I costi di spedizioni sono sostenuti il destinatario. Si sviluppano in quegli anni un modo (basato du segni sulla busta) per trasmettere il messaggio al destinatario e poi  che poi avrebbe rifiutato la lettera per evitare i costi di spedizione. Solo successivamente  pagherà il mittente con l'invenzione del francobollo.
+
+Come per la stampa, inventata la posta nasce il controllo della corrispondenza. Viene istituita la *black room* nel Regno Unito (o Secret Office) e il Cabinet Noir di Luigi XIII dove passano e vengono spiati certi tipi di corrispondenza. Per il caso inglese, questo ufficio venne creato praticamente all'inizio della posta ma verrà scoperto dal pubblico a abolito solo nel 1742 con la maggior trasparenza dei bilanci di governo. Lo spionaggio (e censura) della corrispondenza privata torna in maniera massiccia durante la prima guerra mondiale)
+
+###primo schema interpretativo Tecnologia-Società (Yochai Benkler)
+la ricchezza delle reti - insegnante ad Harvard.
+
+Per districare questo problema si chiede:  
+- tecnologia  
+- i costi  
+- il tipo di organizzazioni  
+- il tipo di relazioni sociali  
+- e cose istituzionali  
 
 
 # Parte Metodologica
