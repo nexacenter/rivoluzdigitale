@@ -1341,13 +1341,16 @@ Per questa innovazione tecnologica ci è voluto mezzo millennio per diventare pr
 #####Il costo del codex
 Fino all'arrivo della stampa esistevano solo codex manoscritti di valore elevatissimo: Boccaccio ad esempio possedeva 32 manoscritti diversi dei quali trascritti da lui a mano; Petrarca, più benestante ne aveva circa 60 (aveva lasciato una veste di lana a boccaccio in eredità cosi che poteva lvorare anche d'inverno); L'università di Oxford nel 1327 ha solo 22 libri (ed era già una università importante), nel 1447 ne aveva circa 600. Fino all'invenzione della stampa c'era un problema oggettivo di accesso alla conoscenza, il tempo per leggere un libro era limitato che poi qualcun altro doveva accedervi.
 
-Il Cardinal Bessarione (1408-1472), bizantino venuto in Italia e convertito al cattolicesimo e cercò di creare di nuovo l'unità delle Chiese, volendo preservare la cultura bizantina dopo la caduta di Costantinopoli raccolse circa 1000 volumi di cultura greca. Quando morì lasciò la biblioteca al duca di montefeltro con l'ordine di portarli a Venezia. Divennero quindi nucleo fondante della biblioteca Marciana.
+l Cardinal Bessarione (1408-1472), bizantino venuto in Italia convertito al cattolicesimo (cercò di creare di nuovo l'unità delle Chiese), volendo preservare la cultura bizantina dopo la caduta di Costantinopoli raccolse circa 1000 volumi di cultura greca. Quando morì lasciò la biblioteca al duca di Montefeltro con l'ordine di portarli a Venezia. Divennero quindi nucleo fondante della biblioteca Marciana.
 
 ###La stampa
-Nel 1455 a Magonza (Mainz) Johann Gutenberg (ri)inventa la stampa a caratteri movili (già praticata in Cina-Corea dal 1234). Il punto fondamentale è che inventa i caratteri mobili singoli e riutilizzabili essendo fatti di una lega di metallo (le tecniche di stampa precedenti si basavano su xilografie in legno). Questi che venivano allineati a formare una pagina, inchiostrati e pressati su un foglio di carta o pergamena.
+Nel 1455 a Magonza (Mainz) Johann Gutenberg (ri)inventa la stampa a caratteri mobili (già praticata in Cina-Corea dal 1234). Il punto fondamentale è che inventa i caratteri mobili singoli e riutilizzabili essendo fatti di una lega di metallo (le tecniche di stampa precedenti si basavano su xilografie in legno). Questi che venivano allineati a formare una pagina, inchiostrati e pressati su un foglio di carta o pergamena.
 
-#### I vantaggi della stampa
-pro: più veloce di un paio di ordine di grandezza (x100) per scrivere libri.
+####Vantaggi della stampa
+La stampa a caratteri mombili era alla sua invenzione più veloce di un paio di ordini di grandezza (x100) rispetto alla scrittura a mano dei libri.
+Nel giro di 50 anni dall'invenzione della stampa si stamparono 30 mila titoli differenti per una tiratura totale di 12 milioni di libri. 
+L'effetto sulla diffusione e sul prezzo dei libri (che si riduce dell'80%) è molto forte. Tuttavia ci sono volute due generazioni affinché l'innovazione di Gutenberg si diffondesse: gli amanuensi sono rimasti ancora in auge per decenni (e nel frattempo protestavano a Parigi contro questa innovazione).
+
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
