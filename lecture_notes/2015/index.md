@@ -1330,12 +1330,12 @@ Per questa innovazione tecnologica ci è voluto mezzo millennio per diventare pr
 
 #####Vantaggi del codex
  - Accesso casuale
- (maggiore velocità di consultazione)
+ (maggiore velocità di consultazione)  
  - Possibilità di scrivere su entrambi i lati
- (maggiore economicità e compattezza)
+ (maggiore economicità e compattezza)  
  - Maggiore resistenza al tempo (grazie alla
- copertina)
- - Maggiore facilità di organizzazione (grazie ai dorsi su cui si può scrivere il contenuto del libro)
+ copertina)  
+ - Maggiore facilità di organizzazione (grazie ai dorsi su cui si può scrivere il contenuto del libro)  
 
   Perla: i libri, attraverso i dorsi, mandano segnale nell'ambiente in cui uno vive influenzandoci, gli ebook e gli smartphone non mandano nessun segnale nell'ambiente in cui si vive, è tutto sepolto in una macchina
 
@@ -1419,32 +1419,32 @@ Come per la stampa, inventata la posta nasce il controllo della corrispondenza. 
 Questo primo schema ideato da uno dei più autorevoli pensatori sulla rivoluzione digitae, Yochai Benkler (Professore ad Harvard), autore del libro “la ricchezza delle reti” (fonte: the wealth of Networks – how social production transforms markets and freedom”, Yochai Benkler).
 
 Per districare questo problema propone di analizzare questi aspetti:
-1. tecnologia
-2. i costi
-3. il tipo di organizzazioni
-4. il tipo di relazioni sociali
-5. le forme istituzionali
+1. tecnologia  
+2. i costi  
+3. il tipo di organizzazioni  
+4. il tipo di relazioni sociali  
+5. le forme istituzionali  
 
 --- immagine: slide 18 aprile 2015 ---
 
 ####Il manoscritto – schema interpretativo Y.Benkler
 
-1. Tecnologia - una persona lavora a lungo per stendere il manoscritto
-2. I costi - *low capital high labor*, basso capitale e elevato impiego di manodopera, ci vuole circa un anno per fare un libro
-3. Il tipo di organizzazione – copia dei libri effettuata dagli ordini monastici
-4. Gli effetti sulle relazioni sociali – di fatto si crea monopolio monastico sulla conoscenza, viene filtrato tutto, copiano solo ciò che ritengono importante.
-5. Le forme istituzionali - non esiste il copyright, è talmente faticoso copiare ed è talmente faticoso leggere che non c'era bisogno di questo tipo di controllo. Di fatto, almeno in Europa la Chiesa controlla la conoscenza 
+1. Tecnologia - una persona lavora a lungo per stendere il manoscritto  
+2. I costi - *low capital high labor*, basso capitale e elevato impiego di manodopera, ci vuole circa un anno per fare un libro  
+3. Il tipo di organizzazione – copia dei libri effettuata dagli ordini monastici  
+4. Gli effetti sulle relazioni sociali – di fatto si crea monopolio monastico sulla conoscenza, viene filtrato tutto, copiano solo ciò che ritengono importante.  
+5. Le forme istituzionali - non esiste il copyright, è talmente faticoso copiare ed è talmente faticoso leggere che non c'era bisogno di questo tipo di controllo. Di fatto, almeno in Europa la Chiesa controlla la conoscenza  
 
 --- immagine: slide 18 aprile 2015 ---
 
 ####La stampa 1455-1500– schema interpretativo Y.Benkler
 
 Cosa succede con l'innovazione Gutenberg:
-1. Tecnologia - early print, incunaboli (libri dal 1455 al 1500)
-2. I costi - capitale medio: torchi, capitale non indifferente
-3. Il tipo di organizzazione -  si crea un mercato di libri, siamo nel periodo dell'umanesimo. Si verificano le prime forme di investimento capitalistico.
-4. Effetto - Ginevra, Parigi, Venezia, Amsterdam diventano capitali della stampa. Viene stampato tutto ciò che vende (non solo più ciò che interessava ai monaci), letteratura erotica ed eretica comprese. Si espande l'alfabetizzazione a causa del protestantesimo, che permetteva sin da subito l'accesso alle Scritture, non direttamente dell'innovazione di Gutenberg (ciò ha causato un divario educativo rispetto al Sud Europa che continua oggi). 
-5. Le forme istituzionali - Nasce il copyright (*Stationers' monopoly*) che fino a quel momento non esisteva. Incominciano ad esserci libri nelle varie lingue e non solo più in latino. Nasce il mecenatismo di chi fornisce I capitali per scrivere certe opere. Viene creato l'indice dei libri proibiti (censura).
+1. Tecnologia - early print, incunaboli (libri dal 1455 al 1500).  
+2. I costi - capitale medio: torchi, capitale non indifferente.  
+3. Il tipo di organizzazione -  si crea un mercato di libri, siamo nel periodo dell'umanesimo. Si verificano le prime forme di investimento capitalistico.  
+4. Effetto - Ginevra, Parigi, Venezia, Amsterdam diventano capitali della stampa. Viene stampato tutto ciò che vende (non solo più ciò che interessava ai monaci), letteratura erotica ed eretica comprese. Si espande l'alfabetizzazione a causa del protestantesimo, che permetteva sin da subito l'accesso alle Scritture, non direttamente dell'innovazione di Gutenberg (ciò ha causato un divario educativo rispetto al Sud Europa che continua oggi).   
+5. Le forme istituzionali - Nasce il copyright (*Stationers' monopoly*) che fino a quel momento non esisteva. Incominciano ad esserci libri nelle varie lingue e non solo più in latino. Nasce il mecenatismo di chi fornisce I capitali per scrivere certe opere. Viene creato l'indice dei libri proibiti (censura).  
 
 --- immagine: slide 18 aprile 2015 ---
 
@@ -1454,11 +1454,11 @@ Uno scriba ci metteva un anno a copiare un libro, una stampante un giorno. In 20
 Nell'800 la stampa diventa meccanizzata, viene applicata alle macchine da stampaggio la forza vapore. Inizia quindi l'economia dell'informazione di tipo industriale. 
 
 cosa succede:
-1. Tecnologia - abbiamo la stampa meccanica  
-2. Costi – la stampa meccanica è una tecnologia a capitale elevato. Ci sono alti costi di start up, alti costi per mantenere la macchina, ma costo aggiuntivo (marginale) per stampare la n-esima copia è piccolissimo. Ciò crea la classica economia dei scala dell'industria. Nel giro di pochi anni per lanciare un quotidiano ci vogliono milioni di dollari. Nasce l'idea a NY degli spazi vuoti nei giornali per mantenersi con la pubblicità (nuovo modello di business).  
-3. Il tipo di organizzazione – la produzione culturale si industrializza. Con l'incentivo di vendere pochi titoli ma tante copie il marketing diventa molto importante. C'è una progressiva professionalizzazione di chi lavora in questa industria. 
-4. Effetto – Questi grossi investimenti pubblicitari e di risorse causano un consumo passivo di libri come conseguenza della volontà uniformare la domanda per vendere pochi titoli e tante copie.
-5. Le forme istituzionali – Progressivamente il copyright e i brevetti sono sempre più forti, maggiore libertà per la stampa, si crea un monopolio delle telecomunicazioni.
+1. Tecnologia - abbiamo la stampa meccanica    
+2. Costi – la stampa meccanica è una tecnologia a capitale elevato. Ci sono alti costi di start up, alti costi per mantenere la macchina, ma costo aggiuntivo (marginale) per stampare la n-esima copia è piccolissimo. Ciò crea la classica economia dei scala dell'industria. Nel giro di pochi anni per lanciare un quotidiano ci vogliono milioni di dollari. Nasce l'idea a NY degli spazi vuoti nei giornali per mantenersi con la pubblicità (nuovo modello di business).    
+3. Il tipo di organizzazione – la produzione culturale si industrializza. Con l'incentivo di vendere pochi titoli ma tante copie il marketing diventa molto importante. C'è una progressiva professionalizzazione di chi lavora in questa industria.   
+4. Effetto – Questi grossi investimenti pubblicitari e di risorse causano un consumo passivo di libri come conseguenza della volontà uniformare la domanda per vendere pochi titoli e tante copie.  
+5. Le forme istituzionali – Progressivamente il copyright e i brevetti sono sempre più forti, maggiore libertà per la stampa, si crea un monopolio delle telecomunicazioni.  
 
 ###Il secondo modello per capire il cambiamento tecnologico – Brian Winston
 (fonte: basato su “Media Technology and Society” di Brian Winston)
@@ -1471,16 +1471,16 @@ Una determinata scoperta scientifica con risvolti tecnologici può creare un inn
 Nel diagramma di B.Winston da destra verso sinistra c'è l'asse del tempo.
 
 Schema in generale:
-1. Ideazione - Creazione della conoscenza scientifica necessaria: prima di certi sviluppi scientifici, nessuno poteva pensare di trasmettere voce umana o imamgini a distanza. Per poterne parlare anche solo in astratto c'è bisogno della base scientifica o “ideazione” ("certo che potrebbe essere possibile fare x", "sulla base delle eq di Maxwell si potrebbe...").
+1. Ideazione - Creazione della conoscenza scientifica necessaria: prima di certi sviluppi scientifici, nessuno poteva pensare di trasmettere voce umana o imamgini a distanza. Per poterne parlare anche solo in astratto c'è bisogno della base scientifica o “ideazione” ("certo che potrebbe essere possibile fare x", "sulla base delle eq di Maxwell si potrebbe...").  
 
-2. Trasformazione - Dall'ideazione alla pratica cioè la *trasformazione*. Si traduce l'idea in realtà, iniziano ad esserci i primi prototipi, si prova a vedere effettiva realizzabilità di una certa invenzione.
+2. Trasformazione - Dall'ideazione alla pratica cioè la *trasformazione*. Si traduce l'idea in realtà, iniziano ad esserci i primi prototipi, si prova a vedere effettiva realizzabilità di una certa invenzione.  
 
-3. Interesse sociale – Per passare dai prototipi alla vera e propria invenzione deve intervenire una specifica esigenza sociale. Può essere che per decenni un certo prototipo non venga usato da nessuno. Solo con l'esigenza sociale avviene l'invenzione. L'invenzione arriva quindi solo dopo un percorso lungo, le persone di cui ci si ricorda il nome sono quelle che trasformano un idea in un prodotto che soddisfa una determinata esigenza sociale, ad esempio: Bell con il telefono (o meucci?), Marconi con la radio. Ciò spiega anche il fatto che per ogni invenzione ci siano più di un inventore: nello stesso periodo diverse persone hanno prodotto diversi prototipi.
+3. Interesse sociale – Per passare dai prototipi alla vera e propria invenzione deve intervenire una specifica esigenza sociale. Può essere che per decenni un certo prototipo non venga usato da nessuno. Solo con l'esigenza sociale avviene l'invenzione. L'invenzione arriva quindi solo dopo un percorso lungo, le persone di cui ci si ricorda il nome sono quelle che trasformano un idea in un prodotto che soddisfa una determinata esigenza sociale, ad esempio: Bell con il telefono (o meucci?), Marconi con la radio. Ciò spiega anche il fatto che per ogni invenzione ci siano più di un inventore: nello stesso periodo diverse persone hanno prodotto diversi prototipi.  
 
-4. “Legge” di soppressione del potenziale radicale - Questo è l'ultimo passaggio. B.Winston postula che queste tecnologie della comunicazione producano sempre una reazione. Rendendo possibili comunicazioni più veloci, riducendo le distanze, si verifica un minor controllo della società da parte del sistema politico e quindi presto o tardi c'è la reazione rivolta a controllare questa tecnologia. B.Winston la chiama *legge della soppressione del potenziale radicale della tecnologia*. La tecnologia è sovversiva e viene normalizzata (un po' come già avvenuto per stampa e posta con censura e controllo della posta).
+4. “Legge” di soppressione del potenziale radicale - Questo è l'ultimo passaggio. B.Winston postula che queste tecnologie della comunicazione producano sempre una reazione. Rendendo possibili comunicazioni più veloci, riducendo le distanze, si verifica un minor controllo della società da parte del sistema politico e quindi presto o tardi c'è la reazione rivolta a controllare questa tecnologia. B.Winston la chiama *legge della soppressione del potenziale radicale della tecnologia*. La tecnologia è sovversiva e viene normalizzata (un po' come già avvenuto per stampa e posta con censura e controllo della posta).  
 
 5. Diffusione - Infine la tecnologia è matura, si diffonde, ed è opportunamente controllata.
-Ad esempio il telefono da sempre sarebbe potuto essere uno strumento di comunicazione da uno a molti (si sarebbero potuti far squillare 100 telefoni piuttosto che solo 1), poi è stato controllato per fare in modo che fosse solo da uno a uno. Anche per la televisione vale lo stesso discorso.
+Ad esempio il telefono da sempre sarebbe potuto essere uno strumento di comunicazione da uno a molti (si sarebbero potuti far squillare 100 telefoni piuttosto che solo 1), poi è stato controllato per fare in modo che fosse solo da uno a uno. Anche per la televisione vale lo stesso discorso.  
 
 --- immagine: slide 18 aprile 2015 ---
 
