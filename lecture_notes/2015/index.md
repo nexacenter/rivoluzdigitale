@@ -1439,7 +1439,7 @@ Per districare questo problema propone di analizzare questi aspetti:
 
 ####La stampa 1455-1500– schema interpretativo Y.Benkler
 
-Cosa succede con l'innovazione Gutenberg:
+Cosa succede con l'innovazione Gutenberg:  
 1. Tecnologia - early print, incunaboli (libri dal 1455 al 1500).  
 2. I costi - capitale medio: torchi, capitale non indifferente.  
 3. Il tipo di organizzazione -  si crea un mercato di libri, siamo nel periodo dell'umanesimo. Si verificano le prime forme di investimento capitalistico.  
@@ -1453,7 +1453,7 @@ Uno scriba ci metteva un anno a copiare un libro, una stampante un giorno. In 20
 ####La stampa meccanizzata - schema interpretativo Y.Benkler
 Nell'800 la stampa diventa meccanizzata, viene applicata alle macchine da stampaggio la forza vapore. Inizia quindi l'economia dell'informazione di tipo industriale. 
 
-cosa succede:
+cosa succede:  
 1. Tecnologia - abbiamo la stampa meccanica    
 2. Costi – la stampa meccanica è una tecnologia a capitale elevato. Ci sono alti costi di start up, alti costi per mantenere la macchina, ma costo aggiuntivo (marginale) per stampare la n-esima copia è piccolissimo. Ciò crea la classica economia dei scala dell'industria. Nel giro di pochi anni per lanciare un quotidiano ci vogliono milioni di dollari. Nasce l'idea a NY degli spazi vuoti nei giornali per mantenersi con la pubblicità (nuovo modello di business).    
 3. Il tipo di organizzazione – la produzione culturale si industrializza. Con l'incentivo di vendere pochi titoli ma tante copie il marketing diventa molto importante. C'è una progressiva professionalizzazione di chi lavora in questa industria.   
@@ -1470,7 +1470,8 @@ Una determinata scoperta scientifica con risvolti tecnologici può creare un inn
 
 Nel diagramma di B.Winston da destra verso sinistra c'è l'asse del tempo.
 
-Schema in generale:
+Schema in generale:  
+
 1. Ideazione - Creazione della conoscenza scientifica necessaria: prima di certi sviluppi scientifici, nessuno poteva pensare di trasmettere voce umana o imamgini a distanza. Per poterne parlare anche solo in astratto c'è bisogno della base scientifica o “ideazione” ("certo che potrebbe essere possibile fare x", "sulla base delle eq di Maxwell si potrebbe...").  
 
 2. Trasformazione - Dall'ideazione alla pratica cioè la *trasformazione*. Si traduce l'idea in realtà, iniziano ad esserci i primi prototipi, si prova a vedere effettiva realizzabilità di una certa invenzione.  
