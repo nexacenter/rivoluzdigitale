@@ -1268,7 +1268,7 @@ In campo assicurativo: le assicurazioni da 200 anni sono le principali consumatr
 
 Questa sezione è suddivisa in due parti:
 
-1. una prima parte fattuale in cui verranno trattate le tecnologie di comunicazione precedenti a internet;    
+1. una prima parte fattuale in cui verranno trattate le tecnologie di comunicazione precedenti a internet;  
 2. la seconda componente si basa su come interpretare l'interazione tra tecnologia e società basandosi su casi concreti ante internet.  
 
 Questa parte preliminare fornisce gli strumenti per poi capire gli impatti di Internet.
@@ -1290,12 +1290,12 @@ Nel Fedro di Platone (Ca. 340 a.C), vengono esposte alcuni dei concetti base del
 
 Nel passaggio sull'invenzione della scrittura (274 c-276 a), si trovano alcune frasi chiave sugli effetti della scrittura sulla società. Nell'introduzione Socrate parla del dialogo tra Theuth, inventore del calcolo e della scrittura e Tamus re dell'intero paese:
 
-[…] Quando giunsero all’alfabeto: “Questa scienza, o re – disse Theuth – renderà gli  Egiziani più sapienti e arricchirà la loro memoria perché questa scoperta è una medicina per la sapienza e la memoria”. E il re rispose: “O ingegnosissimo Theuth, una cosa è la potenza creatrice di arti nuove, altra cosa è giudicare qual grado di danno e di utilità esse posseggano per coloro che le useranno. E così ora tu, per benevolenza verso l’alfabeto di cui sei [275 a] inventore, hai esposto il contrario del suo vero effetto. Perché esso ingenererà oblio nelle anime di chi lo imparerà: essi cesseranno di esercitarsi la memoria perché fidandosi dello scritto richiameranno le cose alla mente non più dall’interno di se stessi, ma dal di fuori, attraverso segni estranei: ciò che tu hai trovato non è una ricetta per la memoria ma per richiamare alla mente. Né tu offri vera sapienza ai tuoi scolari, ma ne dai solo l’apparenza perché essi, grazie a te, potendo avere notizie di molte cose senza insegnamento, si crederanno d’essere dottissimi, mentre per la maggior parte non sapranno nulla; con loro sarà [b] una sofferenza discorrere, imbottiti di opinioni invece che sapienti”.  
+ […] Quando giunsero all’alfabeto: “Questa scienza, o re – disse Theuth – renderà gli  Egiziani più sapienti e arricchirà la loro memoria perché questa scoperta è una medicina per la sapienza e la memoria”. E il re rispose: “O ingegnosissimo Theuth, una cosa è la potenza creatrice di arti nuove, altra cosa è giudicare qual grado di danno e di utilità esse posseggano per coloro che le useranno. E così ora tu, per benevolenza verso l’alfabeto di cui sei [275 a] inventore, hai esposto il contrario del suo vero effetto. Perché esso ingenererà oblio nelle anime di chi lo imparerà: essi cesseranno di esercitarsi la memoria perché fidandosi dello scritto richiameranno le cose alla mente non più dall’interno di se stessi, ma dal di fuori, attraverso segni estranei: ciò che tu hai trovato non è una ricetta per la memoria ma per richiamare alla mente. Né tu offri vera sapienza ai tuoi scolari, ma ne dai solo l’apparenza perché essi, grazie a te, potendo avere notizie di molte cose senza insegnamento, si crederanno d’essere dottissimi, mentre per la maggior parte non sapranno nulla; con loro sarà [b] una sofferenza discorrere, imbottiti di opinioni invece che sapienti”.
 
 In sostanza Theuth è convinto che scrittura non sia una ricetta per la memoria, bensì causerà oblio (ci si dimenticherà di cose perché tanto è tutto scritto), che è esattamente ciò che da anni si scrive su internet.
 
 Il discorso continua poi con il dialogo tra Socrate e Fedro:
-[…] Socrate – Dunque chi crede di poter tramandare un’arte affidandola all’alfabeto e chi a sua volta    	l’accoglie supponendo che dallo scritto si possa trarre qualcosa di preciso e di permanente, deve esser pieno d’una grande ingenuità, e deve ignorare assolutamente la profezia di Ammone se s’immagina che le parole scritte siano qualcosa di più [d] del rinfrescare la memoria a chi sa le cose di cui tratta lo scritto. Fedro – È giustissimo. Socrate – Perché vedi, o Fedro, la scrittura è in una strana condizione, simile veramente a quella della pittura. I prodotti cioè della pittura ci stanno davanti come se vivessero; ma se li interroghi, tengono un maestoso silenzio. Nello stesso modo si comportano le parole scritte: crederesti che potessero parlare quasi che avessero in mente qualcosa; ma se tu, volendo imparare, chiedi loro qualcosa di ciò che dicono esse ti manifestano una cosa sola e sempre la stessa. E una volta che sia messo in iscritto, ogni discorso arriva alle mani di tutti, tanto di chi l’intende tanto di chi non ci ha nulla [e] a che fare; né sa a chi gli convenga parlare e a chi no. Prevaricato ed offeso oltre ragione esso ha sempre bisogno che il padre gli venga in aiuto, perché esso da solo non può difendersi né aiutarsi.  
+[…] Socrate – Dunque chi crede di poter tramandare un’arte affidandola all’alfabeto e chi a sua volta l’accoglie supponendo che dallo scritto si possa trarre qualcosa di preciso e di permanente, deve esser pieno d’una grande ingenuità, e deve ignorare assolutamente la profezia di Ammone se s’immagina che le parole scritte siano qualcosa di più [d] del rinfrescare la memoria a chi sa le cose di cui tratta lo scritto. Fedro – È giustissimo. Socrate – Perché vedi, o Fedro, la scrittura è in una strana condizione, simile veramente a quella della pittura. I prodotti cioè della pittura ci stanno davanti come se vivessero; ma se li interroghi, tengono un maestoso silenzio. Nello stesso modo si comportano le parole scritte: crederesti che potessero parlare quasi che avessero in mente qualcosa; ma se tu, volendo imparare, chiedi loro qualcosa di ciò che dicono esse ti manifestano una cosa sola e sempre la stessa. E una volta che sia messo in iscritto, ogni discorso arriva alle mani di tutti, tanto di chi l’intende tanto di chi non ci ha nulla [e] a che fare; né sa a chi gli convenga parlare e a chi no. Prevaricato ed offeso oltre ragione esso ha sempre bisogno che il padre gli venga in aiuto, perché esso da solo non può difendersi né aiutarsi.
 
 Nella cultura classica l'interazione era principalmente orale. Per avere accesso agli scritti una volta prima veniva formati con interazione orale, poi si veniva dato accesso allo scritto e poi (in una specie di dottorato di ricerca) si potevano fare dei commentari allo scritto.
 
@@ -1305,10 +1305,8 @@ Questo è uno degli esempi più antichi di una reazione critica a una tecnologia
 Questa critica allo scritto da parte di Socrate è ironicamente codificata in forma scritta da Platone che dimostra implicitamente di approvare la forma scritta come mezzo di comunicazione e di trasmissione.
 
 
-####Un'ulteriore riflessione sulla scrittura
-Cosa si perde smettendo di scrivere a mano
-
-fino al 1860 per scrittura si intendeva scrittura a mano, per migliaia di anni si è scritto a mano. Ora dopo 150 anni c'è la discussione di non insegnare più ai bambini di scrivere a mano (in alcuni paesi tipo Finlandia).
+####Un'ulteriore riflessione - Cosa si perde smettendo di scrivere a mano
+Fino al 1860 per scrittura si intendeva scrittura a mano, per migliaia di anni si è scritto a mano. Ora dopo 150 anni c'è la discussione di non insegnare più ai bambini di scrivere a mano (in alcuni paesi tipo Finlandia).
 Alcuni studiosi stanno cercando di capire i potenziali effetti di smettere di insegnare ai bambini di scrivere a mano e pare esserci una connessione tra sforzo fisico di scrivere/comporre e capacità di apprendere. Ci sarebbe un effetto cognitivo che induce a capire in modo più profondo il significato delle parole scrivendole a mano piuttosto che con una tastiera (fonte: “What’s Lost as Handwriting Fades”, Maria Konnikova,
  The New York Times, June 2, 2014.
 http://www.nytimes.com/2014/06/03/science/whats-lost-as-handwriting-fades.html).
@@ -1331,17 +1329,20 @@ Fino al I secolo d.C la scrittura era conservata in rotoli. Nel I secolo (ne par
 Per questa innovazione tecnologica ci è voluto mezzo millennio per diventare predominante nonostante i numerosi vantaggi nell'usarlo
 
 #####Vantaggi del codex
- - Accesso casuale (maggiore velocità di consultazione)
- - Possibilità di scrivere su entrambi i lati (maggiore economicità e compattezza)
- - Maggiore resistenza al tempo (grazie alla copertina)
+ - Accesso casuale
+ (maggiore velocità di consultazione)
+ - Possibilità di scrivere su entrambi i lati
+ (maggiore economicità e compattezza)
+ - Maggiore resistenza al tempo (grazie alla
+ copertina)
  - Maggiore facilità di organizzazione (grazie ai dorsi su cui si può scrivere il contenuto del libro)
 
-  Perla: i libri, attraverso i dorsi, mandano segnale nell'ambiente in cui uno vive influenzandoci, gli ebook e    gli smartphone non mandano nessun segnale nell'ambiente in cui si vive, è tuttp sepolto in una macchina
+  Perla: i libri, attraverso i dorsi, mandano segnale nell'ambiente in cui uno vive influenzandoci, gli ebook e gli smartphone non mandano nessun segnale nell'ambiente in cui si vive, è tutto sepolto in una macchina
 
-#####Il costo del codex
-Fino all'arrivo della stampa esistevano solo codex manoscritti di valore elevatissimo: Boccaccio ad esempio possedeva 32 manoscritti diversi dei quali trascritti da lui a mano; Petrarca, più benestante ne aveva circa 60 (aveva lasciato una veste di lana a boccaccio in eredità cosi che poteva lvorare anche d'inverno); L'università di Oxford nel 1327 ha solo 22 libri (ed era già una università importante), nel 1447 ne aveva circa 600. Fino all'invenzione della stampa c'era un problema oggettivo di accesso alla conoscenza, il tempo per leggere un libro era limitato che poi qualcun altro doveva accedervi.
+#####Costo del codex
+Fino all'arrivo della stampa esistevano solo codex manoscritti di valore elevatissimo: Boccaccio ad esempio possedeva 32 manoscritti diversi dei quali trascritti da lui a mano; Petrarca, più benestante ne aveva circa 60 (aveva lasciato una veste di lana a Boccaccio in eredità così che potesse lavorare anche d'inverno); L'università di Oxford nel 1327 ha solo 22 libri (ed era già una università importante), nel 1447 ne aveva circa 600. Fino all'invenzione della stampa c'era un problema oggettivo di accesso alla conoscenza, il tempo per leggere un libro era limitato che poi qualcun altro doveva accedervi.
 
-l Cardinal Bessarione (1408-1472), bizantino venuto in Italia convertito al cattolicesimo (cercò di creare di nuovo l'unità delle Chiese), volendo preservare la cultura bizantina dopo la caduta di Costantinopoli raccolse circa 1000 volumi di cultura greca. Quando morì lasciò la biblioteca al duca di Montefeltro con l'ordine di portarli a Venezia. Divennero quindi nucleo fondante della biblioteca Marciana.
+Il Cardinal Bessarione (1408-1472), bizantino venuto in Italia convertito al cattolicesimo (cercò di creare di nuovo l'unità delle Chiese), volendo preservare la cultura bizantina dopo la caduta di Costantinopoli raccolse circa 1000 volumi di cultura greca. Quando morì lasciò la biblioteca al duca di Montefeltro con l'ordine di portarli a Venezia. Divennero quindi nucleo fondante della biblioteca Marciana.
 
 ###La stampa
 Nel 1455 a Magonza (Mainz) Johann Gutenberg (ri)inventa la stampa a caratteri mobili (già praticata in Cina-Corea dal 1234). Il punto fondamentale è che inventa i caratteri mobili singoli e riutilizzabili essendo fatti di una lega di metallo (le tecniche di stampa precedenti si basavano su xilografie in legno). Questi che venivano allineati a formare una pagina, inchiostrati e pressati su un foglio di carta o pergamena.
@@ -1355,7 +1356,7 @@ L'effetto sulla diffusione e sul prezzo dei libri (che si riduce dell'80%) è mo
 ####I primi editori
 Il primo editore nel senso moderno del termine fu Aldo Manuzio. passato alla storia per la bellezza delle sue scritture.
 
-L'idea di editore nel senso moderno del termine nasce dal fatto che aveva un logo e un motto (*festina lente* ovvero "affrettati con calma"). Apporta una serie di innovazioni al libro, inventa il libro tascabile (non più in formato manoscritto), è il primo ad usare il carattere corsivo (per cui ottiene un brevetto), invanta la forma moderna di virgola e l'uso del punto e virfo. Inoltre è il primo a fare uso della prefazione (un pezzo di testo scritto da un altro, non dall'autore, per introdurre il testo). 
+L'idea di editore nel senso moderno del termine nasce dal fatto che aveva un logo e un motto (*festina lente* ovvero "affrettati con calma"). Apporta una serie di innovazioni al libro, inventa il libro tascabile (non più in formato manoscritto), è il primo ad usare il carattere corsivo (per cui ottiene un brevetto), inventa la forma moderna di virgola e l'uso del punto e virfo. Inoltre è il primo a fare uso della prefazione (un pezzo di testo scritto da un altro, non dall'autore, per introdurre il testo). 
 Aldo Manuzia sceglieva i titoli da pubblicare, circa 130 in tutto (molti classici greci e di umanisti contemporanei) per una missione culturale e non puramente col fine di massimizzare il profitto.
 (fonte: http://exhibits.lib.byu.edu/aldine/)
 
@@ -1366,7 +1367,7 @@ Tra gli altri meriti Manuzio ha pubblicato il primo libro stampato illustrato (s
 
 In una lettera di Niccolò Perotti (erudito umanista) indirizzata a Francesco Guarnerio e datata 1471 (20 anni dopo l'invenzione della stampa), esplicita il pensiero che si andava formando nella classe dirigente (come reazione alla nuova tecnologia) e scrive:
 
-““Negli ultimi anni, mio caro Francesco, mi sono spesso
+“Negli ultimi anni, mio caro Francesco, mi sono spesso
 congratulato con l'età nostra, quasi avessimo ottenuto proprio
 ora un dono grande, invero divino, con il nuovo tipo di scrittura
 di recente giuntoci dalla Germania. **Vedevo infatti che un
@@ -1394,30 +1395,94 @@ Nasce una prima forma di censura nel 1543 nella Repubblica di Venezia dove il Co
  compito di sorvegliare l'editoria, con facoltà di
  multare chi stampava senza permesso.
 
-Nel 1559 nasce la lista dei libri proibiti emanata dal Sant'Uffizio. All'inizio contiene solo libri protestanti, ma poi si allarga anche a libri con altri contenuti. L'indice dei libri proibiti verrà abolito solo nell'epoca del concilio vaticano II (1966).
+Nel 1559 nasce la lista dei libri proibiti emanata dal Sant'Uffizio. All'inizio era un elenco di libri legati al protestantesimo, ma poi si allarga anche a libri con altri contenuti. Diventa un reato sia stampare che possedere i libri presenti nella lista.
+L'indice dei libri proibiti verrà abolito ne 1966, nell'epoca del concilio vaticano II.
 
-####Libri vs ebook
-Secondo uno studio gli studenti in Inghilterra per certi tipi di libri preferiscono i libri di carta agli ebook.
-Si è provato a confrontare l'efficacia dello studio basato su un libro di testo cartaceo rispetto a un ebook. Sembra che libro di carta permetta di memorizzare meglio le informazioni e ciò sarebbe dovuto al fatto molti possiedano una memoria spaziale: in pratica ci si ricorda dove siano le informazioni. Sugli ebook lo spazio è sempre lo stesso e questo tipo di memoria non si potrebbe utilizzare..
+####Attualità - Libri vs ebook
+Secondo uno studio, basato per ora su dati preliminari, sembrerebbe indicare gli studenti (delle scuole primarie e secondarie) in Inghilterra messi di fronte alla scelta del libro cartaceo o elettronico preferiscano i libri di carta agli ebook.
+
+Si è provato a confrontare l'efficacia dello studio basato su un libro di testo cartaceo rispetto a un ebook. Sembra che il libro di carta permetta di memorizzare meglio le informazioni, ciò sarebbe dovuto al fatto che molte persone possiedano una memoria spaziale: in pratica ci si ricorda dove si trovano le informazioni. Sugli ebook lo spazio è sempre lo stesso e questo tipo di memoria non si potrebbe esercitare facilmente.
+
 Siamo ancora all'inizi di questa tecnologia e tra qualche anno ci potrebbero essere ebook che non hanno presentano questi svantaggi. (fonte: “Perché la carta è meglio”, Roberto Casati, Il Sole 24 Ore
  (inserto “Domenica”), 19 aprile 2015.)
 
 ###La posta
-La posta moderna intesa come sistema aperto al pubblico per inviare degli scritti viene istituita nel 1516 da Enrico VII come “Master of the Posts”. <<rivedi
+Forme di trasmissione a distanza di pezzi di carta con sopra scrittura ci sono fin da prima dell'antichità.
 
-Carlo I nel 1635, apre al pubblico la Royal Mail. Per i primi 200 anni I costi di spedizioni sono sostenuti il destinatario. Si sviluppano in quegli anni un modo (basato du segni sulla busta) per trasmettere il messaggio al destinatario e poi  che poi avrebbe rifiutato la lettera per evitare i costi di spedizione. Solo successivamente  pagherà il mittente con l'invenzione del francobollo.
+La posta moderna intesa come sistema aperto al pubblico per inviare degli scritti, la corrispondenza, viene istituita nel 1516 da Enrico VII con l'istituzione “Master of the Posts” che però era solo per usi governativi. Carlo I nel 1635, apre al pubblico questo servizio che prende il nome di *Royal Mail*. 
 
-Come per la stampa, inventata la posta nasce il controllo della corrispondenza. Viene istituita la *black room* nel Regno Unito (o Secret Office) e il Cabinet Noir di Luigi XIII dove passano e vengono spiati certi tipi di corrispondenza. Per il caso inglese, questo ufficio venne creato praticamente all'inizio della posta ma verrà scoperto dal pubblico a abolito solo nel 1742 con la maggior trasparenza dei bilanci di governo. Lo spionaggio (e censura) della corrispondenza privata torna in maniera massiccia durante la prima guerra mondiale)
+Per i primi 200 anni I costi di spedizione sono sostenuti dal destinatario. A causa del sistema di pagamento si sviluppa in quegli anni un modo per trasmettere il messaggio al destinatario (basato su segni sulla busta) che poi avrebbe rifiutato la lettera per evitare i costi di spedizione. Solo successivamente nell'800, con l'invenzione del francobollo, pagherà il mittente. Il General post office viene creato ufficialmente durante la Restaurazione nel 1657 da Carlo II Stuart.
 
-###primo schema interpretativo Tecnologia-Società (Yochai Benkler)
-la ricchezza delle reti - insegnante ad Harvard.
+Come per la stampa, inventata la posta nasce il controllo della corrispondenza. Si nota già una sorta di pattern, come per la stampa, l'innovazione si diffonde e nel giro di poco tempo si crea una forma di controllo di questa innovazione. Viene istituita la *black room* nel Regno Unito (o Secret Office) e il Cabinet Noir di Luigi XIII a Parigi dove passano e vengono spiati certi tipi di corrispondenza. Per il caso inglese, questo ufficio venne creato praticamente all'inizio della posta e verrà scoperto dal pubblico a abolito solo nel 1742 con la maggior trasparenza dei bilanci di governo. Lo spionaggio (e censura) della corrispondenza privata, dopo essere decresciuta nell'800 con lo sviluppo dei diritti del uomo, tornerà poi in maniera massiccia durante la prima guerra mondiale.
 
-Per districare questo problema si chiede:  
-- tecnologia  
-- i costi  
-- il tipo di organizzazioni  
-- il tipo di relazioni sociali  
-- e cose istituzionali  
+###Primo schema interpretativo Tecnologia-Società (Yochai Benkler)
+Questo primo schema ideato da uno dei più autorevoli pensatori sulla rivoluzione digitae, Yochai Benkler (Professore ad Harvard), autore del libro “la ricchezza delle reti” (fonte: the wealth of Networks – how social production transforms markets and freedom”, Yochai Benkler).
+
+Per districare questo problema propone di analizzare questi aspetti:
+1. tecnologia
+2. i costi
+3. il tipo di organizzazioni
+4. il tipo di relazioni sociali
+5. le forme istituzionali
+
+--- immagine: slide 18 aprile 2015 ---
+
+####Il manoscritto – schema interpretativo Y.Benkler
+
+1. Tecnologia - una persona lavora a lungo per stendere il manoscritto
+2. I costi - *low capital high labor*, basso capitale e elevato impiego di manodopera, ci vuole circa un anno per fare un libro
+3. Il tipo di organizzazione – copia dei libri effettuata dagli ordini monastici
+4. Gli effetti sulle relazioni sociali – di fatto si crea monopolio monastico sulla conoscenza, viene filtrato tutto, copiano solo ciò che ritengono importante.
+5. Le forme istituzionali - non esiste il copyright, è talmente faticoso copiare ed è talmente faticoso leggere che non c'era bisogno di questo tipo di controllo. Di fatto, almeno in Europa la Chiesa controlla la conoscenza 
+
+--- immagine: slide 18 aprile 2015 ---
+
+####La stampa 1455-1500– schema interpretativo Y.Benkler
+
+Cosa succede con l'innovazione Gutenberg:
+1. Tecnologia - early print, incunaboli (libri dal 1455 al 1500)
+2. I costi - capitale medio: torchi, capitale non indifferente
+3. Il tipo di organizzazione -  si crea un mercato di libri, siamo nel periodo dell'umanesimo. Si verificano le prime forme di investimento capitalistico.
+4. Effetto - Ginevra, Parigi, Venezia, Amsterdam diventano capitali della stampa. Viene stampato tutto ciò che vende (non solo più ciò che interessava ai monaci), letteratura erotica ed eretica comprese. Si espande l'alfabetizzazione a causa del protestantesimo, che permetteva sin da subito l'accesso alle Scritture, non direttamente dell'innovazione di Gutenberg (ciò ha causato un divario educativo rispetto al Sud Europa che continua oggi). 
+5. Le forme istituzionali - Nasce il copyright (*Stationers' monopoly*) che fino a quel momento non esisteva. Incominciano ad esserci libri nelle varie lingue e non solo più in latino. Nasce il mecenatismo di chi fornisce I capitali per scrivere certe opere. Viene creato l'indice dei libri proibiti (censura).
+
+--- immagine: slide 18 aprile 2015 ---
+
+Uno scriba ci metteva un anno a copiare un libro, una stampante un giorno. In 20 anni (1481-1501), 286 stampatori stampano 2 milioni di libri solo a Venezia.
+
+####La stampa meccanizzata - schema interpretativo Y.Benkler
+Nell'800 la stampa diventa meccanizzata, viene applicata alle macchine da stampaggio la forza vapore. Inizia quindi l'economia dell'informazione di tipo industriale. 
+
+cosa succede:
+1. Tecnologia - abbiamo la stampa meccanica  
+2. Costi – la stampa meccanica è una tecnologia a capitale elevato. Ci sono alti costi di start up, alti costi per mantenere la macchina, ma costo aggiuntivo (marginale) per stampare la n-esima copia è piccolissimo. Ciò crea la classica economia dei scala dell'industria. Nel giro di pochi anni per lanciare un quotidiano ci vogliono milioni di dollari. Nasce l'idea a NY degli spazi vuoti nei giornali per mantenersi con la pubblicità (nuovo modello di business).  
+3. Il tipo di organizzazione – la produzione culturale si industrializza. Con l'incentivo di vendere pochi titoli ma tante copie il marketing diventa molto importante. C'è una progressiva professionalizzazione di chi lavora in questa industria. 
+4. Effetto – Questi grossi investimenti pubblicitari e di risorse causano un consumo passivo di libri come conseguenza della volontà uniformare la domanda per vendere pochi titoli e tante copie.
+5. Le forme istituzionali – Progressivamente il copyright e i brevetti sono sempre più forti, maggiore libertà per la stampa, si crea un monopolio delle telecomunicazioni.
+
+###Il secondo modello per capire il cambiamento tecnologico – Brian Winston
+(fonte: basato su “Media Technology and Society” di Brian Winston)
+Il modello di Y.Benkler permetteva di capire l'impatto sulla società della oncologia. Questo modello si concentra sul processo di ideazione e sviluppo diffusione di queste innovazioni tecnologiche. Si focalizza su quali siano I presupposti e le varie fasi nel tempo delle innovazioni (dall'invenzione alla diffusione di massa).
+
+Si parla in questo caso di tecnologie della comunicazione elettriche. La basa del diagramma di B.Winston è la conoscenza scientifica. La competenza scientifica è condizione necessaria ma non sufficiente per l'innovazione. Le equazioni di Maxwell non introducono la radio, potranno passare 10,50, 100 anni dall'invenzione della radio di Marconi. Tra le equazioni di Maxwelll e la radio c'è la sfera sociale. 
+
+Una determinata scoperta scientifica con risvolti tecnologici può creare un innovazione che può o non può vedere la luce, può prendere una forma o un'altra in dipendenza dal contesto sociale.
+
+Nel diagramma di B.Winston da destra verso sinistra c'è l'asse del tempo.
+
+Schema in generale:
+1. Ideazione - Creazione della conoscenza scientifica necessaria: prima di certi sviluppi scientifici, nessuno poteva pensare di trasmettere voce umana o imamgini a distanza. Per poterne parlare anche solo in astratto c'è bisogno della base scientifica o “ideazione” ("certo che potrebbe essere possibile fare x", "sulla base delle eq di Maxwell si potrebbe...").
+
+2. Trasformazione - Dall'ideazione alla pratica cioè la *trasformazione*. Si traduce l'idea in realtà, iniziano ad esserci i primi prototipi, si prova a vedere effettiva realizzabilità di una certa invenzione.
+
+3. Interesse sociale – Per passare dai prototipi alla vera e propria invenzione deve intervenire una specifica esigenza sociale. Può essere che per decenni un certo prototipo non venga usato da nessuno. Solo con l'esigenza sociale avviene l'invenzione. L'invenzione arriva quindi solo dopo un percorso lungo, le persone di cui ci si ricorda il nome sono quelle che trasformano un idea in un prodotto che soddisfa una determinata esigenza sociale, ad esempio: Bell con il telefono (o meucci?), Marconi con la radio. Ciò spiega anche il fatto che per ogni invenzione ci siano più di un inventore: nello stesso periodo diverse persone hanno prodotto diversi prototipi.
+
+4. “Legge” di soppressione del potenziale radicale - Questo è l'ultimo passaggio. B.Winston postula che queste tecnologie della comunicazione producano sempre una reazione. Rendendo possibili comunicazioni più veloci, riducendo le distanze, si verifica un minor controllo della società da parte del sistema politico e quindi presto o tardi c'è la reazione rivolta a controllare questa tecnologia. B.Winston la chiama *legge della soppressione del potenziale radicale della tecnologia*. La tecnologia è sovversiva e viene normalizzata (un po' come già avvenuto per stampa e posta con censura e controllo della posta).
+
+5. Diffusione - Infine la tecnologia è matura, si diffonde, ed è opportunamente controllata.
+Ad esempio il telefono da sempre sarebbe potuto essere uno strumento di comunicazione da uno a molti (si sarebbero potuti far squillare 100 telefoni piuttosto che solo 1), poi è stato controllato per fare in modo che fosse solo da uno a uno. Anche per la televisione vale lo stesso discorso.
+
+--- immagine: slide 18 aprile 2015 ---
 
 
 # Parte Metodologica
