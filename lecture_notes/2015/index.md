@@ -1834,7 +1834,8 @@ Tutte e sei le licenze CC consentono i file sharing, poiché il filesharing alla
 - etimologia della parola blog
 	web log -> we blog
 
-###cosa è una URL
+###Le URL
+####cosa è una URL
 Una URL (Unique Resource Locator) è un identificativo di un posto sul web. 
 Per inciso Internet non è il web, non sono la stessa cosa. Il web lavora su Internet. Internet ha anche altre tecnologie che la sfruttano, tipo smtp cioè la posta elettronica (non la web mail!).
 
@@ -1849,7 +1850,7 @@ Composizione dell'url:
 - nome del sito  
 - nulla oppure percorso o nome del file  
 
-###URL della dashboard e URL pubblica
+####URL della dashboard e URL pubblica
 Un URL della dashboard ha questo aspetto:
 	 https://www.tumblr.com/blog/nomeBlog
 
