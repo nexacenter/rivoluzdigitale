@@ -1827,3 +1827,43 @@ Alcuni siti in cui è possibile effettuare ricerche di materiali in CC sono:
 - Creativecommons.it è stato creato dal Centro Nexa su Internet e Società del Politecnico di Torino e si occupa tutt'ora della gestione di CC in Italia;
 - Redigere le licenze ha richiesto risorse ingenti perché è stato fatto?
 Tutte e sei le licenze CC consentono i file sharing, poiché il filesharing alla *BitTorrent* non è commerciale. CC è per la libera circolazione dei contenuti (contenuti liberi → massimo beneficio per la società). 
+
+##aspetti pratici dei blog (lezione 9)
+
+- crap detection
+- etimologia della parola blog
+	web log -> we blog
+
+###cosa è una url?
+Url è identificativo di un posto sul web. 
+Per inciso Internet non è il web, non sono la stessa cosa. Il web lavora su internet. Internet ha anche altre tecnologie che la sfruttano, tipo smtp cioè la posta elettronica (non la web mail!).
+
+	Esempio di indirizzo internet (indirizzo IP): 130.192.91.211  
+	Esempio di URL: http//www.x.org/wiki/
+
+un indirizzo internet è un numero che rappresenta un computer sulla rete ed è molto meno ricco di significato rispetto a una URL.
+
+Composizione dell'url:
+- primo pezzo, il protocollo: http o https (la “s” sta per “over **Secure** Socket Layer”, e vuol dire che la connessione è cifrata e autenticata)  
+- ://  
+- nome del sito  
+- nulla oppure percorso o nome del file  
+
+###URL della dashboard e URL pubblica
+Un URL della dashboard ha questo aspetto:
+	 https://www.tumbl.com/blog/nomeBlog
+
+Da “https:” si nota che la connessione è cifrata. **Usando questa URL si possono vedere i post solo se si è loggati**. Per pubblicizzare il proprio blog (ad esempio su Twitter) non serve (e non bisogna usare) la URL della dashboard, serve la URL pubblica del blog che ha questo aspetto:
+	 nomeblog.tumblr.com
+
+###come scirvere un blogpost
+- Cliccare su "text"
+- Si apre interfaccia di scrittura con editor di testo (tipo word): editor what you see is what you got - usare questo nella maggioranza dei casi è più diretto
+- se si clicca su "<"html">" vedo il sorgente pagina: utile per includere video o immagini in posizioni precise. I broswer interpretano html e lo visualizzano a schermo
+
+consigli per iniziare a scrivere: 
+1. partire dal titolo anche solo per scriverci su e per iniziare a ragionarci  
+2. si possono iniziare a mettere dei tag o keyword che restringono il campo dei concetti di cui parlerò  
+3. per scrivere è importante rilassarsi per liberare la mente  
+4. fare una lista di punti per sviluppare le proprie idee  
+5. espandere l'elenco puntato, ogni punto diventa un paragrafo
