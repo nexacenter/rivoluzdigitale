@@ -66,6 +66,22 @@
 			- [La stampa 1455-1500– schema interpretativo Y.Benkler](#)
 			- [La stampa meccanizzata - schema interpretativo Y.Benkler](#)
 		- [Il secondo modello per capire il cambiamento tecnologico – Brian Winston](#)
+	- [Tecnologie della comunicazione (lezione 11)](#tecnologie-della-comunicazione-lezione-11)
+		- [introduzione](#)
+		- [La telegrafia](#la-telegrafia)
+			- [Storia e tecnologia della telegrafia](#storia-e-tecnologia-della-telegrafia)
+				- [La telegrafia ottica](#la-telegrafia-ottica)
+				- [Il telegrafo elettrico](#il-telegrafo-elettrico)
+			- [impatto sociale](#)
+			- [Il contesto e le organizzazioni](#)
+			- [il telegrafo secondo il diagramma di B.Winston](#)
+		- [Il telefono](#)
+			- [la prima rete telefonica](#)
+			- [L'effetto rete](#)
+			- [Le prime reazioni al telefono](#)
+			- [Il diagramma di B.Winston per il telefono](#)
+			- [curve di adozione](#)
+		- [La radio](#)
 	
 
 
