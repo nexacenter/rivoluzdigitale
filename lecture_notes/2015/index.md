@@ -1298,6 +1298,190 @@ Ad esempio il telefono da sempre sarebbe potuto essere uno strumento di comunica
 
 --- immagine: slide 18 aprile 2015 ---
 
+##Tecnologie della comunicazione (lezione 11)
+
+###introduzione
+<Citazione di Perotti per lezione precedente: inserire in appunti>
+<citazione di vespasiano da bisticci e sulla bellezza dei libri>
+ci vogliono 50 anni prima che i libri a stampa inizino ad essere belli quanto i libri scritti a mano (nonostante fossero monocromatici).
+Da metà del 500 i manoscritti diventano una curiosità, una eccezione. 500 anni per innovazione libro vs rotolo, 100 anni per tecnica di stampa che divenga predominante.
+
+due modelli da lezione nove che abbiamo applicato a diverse tecnologie. Questo modello ci dice che nasce prima la scienza, poi si passa l'idea e si va allo sviluppo dei primi prototipi (ci si avvicina da scienza a tecnologia), e ciò che gli fa fare il salto di qualità è una necessità sociale
+
+Per qualsiasi invenzione ci sono stati tantissimi inventori, tuttavia, per capacità imprenditoriale, per fortuna, per ingegno, solo uno diventa l'inventore che viene ricordato.
+Per ogni tecnologia c'è una fase fluida, poi si afferma uno standard e rimarrà così. Oggi per internet siamo ancora nella fase abbastanza fluida in cui si può plasmare ancora e indirizzare la direzione che prenderà nel futuro per i nostri figli.
+
+Un esempio è il telefono nel 1903 poteva essere uno a molti, poi si è effettuata la scelta di renderlo punto punto e così è rimasto fino ai tempi nostri.
+
+###La telegrafia
+Il telegrafo: cercando di capirlo con gli schemi della lezione 9. Trasmissione dei messaggi a distanza senza lo scambio di un supporto fisico. Tutto ciò che si basa sull'elettromagnetismo è quindi telegrafia, la radio all'inizio si chiamava telegrafo senza fili.
+Ad esempio il semaforo è telegrafia, il piccione viaggiatore no.
+Nel senso ampio del termine anche i segnali di fumo, segnali ottici e bandiere fanno tutti parte della telegrafia
+
+####Storia e tecnologia della telegrafia
+#####La telegrafia ottica
+usata fin dall'antichità per le torri saracene.
+Nel 1792 torri distanti circa 30km una dall'altra, questa rete di telegrafi ottici ebbe una certa importanza perché la usò Napoleone nella sua campagna in Europa. Un problema che abbassava l'efficienza e quindi alzava i costi, si comunicavano 2 parole al minuti (ok per i governi ma non per aziende cittadini) funzionavano bene solo con buona visibilità (con bel tempo e buona visibilità)
+
+#####Il telegrafo elettrico
+All'inizio dell'800 (?) col passaggio al telegrafo elettrico:
+ - si riesce ad avere un funzionamento 24 su 24 (rispetto alla telegrafia ottica)
+- ci vuole infrastruttura di fili
+- funziona in tutte le condizioni
+- 30 parole al minuti
+-costi ridotti di 30 volte
+
+dimostrazione di diversi inventori per una tec:
+- 1804: Francisco Salva-Campillo: elettrochimica, ogni filo rappresentava una lettera dell'alfabeto in cui se veniva usata una bolla veniva usata la lettera - troppo costoso avere 35 fili difficile da implementare ma l'idea si stava fomrando  
+- 1809: Samuel Thomas von Sömmering - telegrafi elettrochimici molti fili in parallelo (fino a 35) per rappresentare lettere alfabeto latino e cifre  
+- 1832:primo telegrafo elettro-magnetico inventato da Pavel Schilling  
+- 1833: Gauss a Gottinga gauss e weber costruiscono il primo telegrafo per comunicazioni regolari. (vedi slide). Utilizzano un alfabeto binario con inversione di corrente. il primo a usare e formalizzare un sistema binario fu Leibnitz, è il primo che sviluppo l'aritmetica binaria. Inoltre aveva intuito che sarebbe stato più affidabile costruirci una macchina sopra che avendo due stati sarebbe stata più stabile. Piccolo telegrafo ma funzionante  
+- 1836: in Pennslania David Alder costruisce il primo telegrafo usa ma non lo sviluppa in un sistema di pratico utilizzo.  
+
+Università umboltiana dopo invasione di napoleone in Prussia. Humbolt riforma l'istruzione in Germania dove la ricerca diventa la migliore al mondo e tutti gli studiosi nel mondo vanno lì a studiare.
+
+Nel 1837-1839 c'è il salto di qualità. In Inghilterra il primo telegrafo sviluppato da William Fothergill e Charles Wheatstone. Il suo principale interesse è la ferrovia. Se c'è un binario solo è fondamentale sapere dove si trovano i treni per gestire il traffico. Il telegrafo va a colmare questa necessità e a questo punto diventa una attività commerciale l'uso del telegrafo è sempre più ampio. La necessità sociale per il telegrafo era quindi per necessità ferroviarie (vedi slide per dettagli)
+
+Nel 1837 indipendentemente sviluppato e brevettato negli U.S.A da Samuel Morse, sviluppa il codice morse. 
+
+E' normale che ci siano inventori più di uno per stessa invenzione, successo per quasi tutte le invenzioni.
+
+i segnalatori ottici non si usano più dal 1880 quindi ci mettono 50 anni ad essere soppiantati dalla nuova tecnologia.
+
+Nei due decenni successivi rapido sviluppo su tutto il continente. Il 24 ottobre 1861 connessione tra costa est e ovest, si perde utilità del pony express.
+già la segnalazione ottica era una rete di comunicazione. tuttavia questa è la prima rete elettrica. La prima rete si sviluppa dove c'è l'inventore, per la prima volta capita con il telegrafo che si espanda a macchia d'olio diventando prima nazionale poi internazionale e poi globale.
+
+Per la prima volta ci sono importanti sussidi pubblici per la creazione della rete. Milioni di pali e uso del suolo, c'era bisogno di permesso pubblico per poter tagliare gratuitamente alberi e usare suolo pubblico per stendere reti per il telegrafo. - sussidi pubblici al privato per costruire infrastruttura.
+
+prima del 61, cioè nel 57 e nel 58 provarono le prime volte a posare un cavo transatlantico funzionano per pochi giorni e poi si rompono. Primo cavo operante nel 1866.
+In quegli anni si sviluppano le teorie su come trasmettere a distanza le informazioni
+
+alla fine dell'800 primo trattato internazionale per uso dei cavi.
+Inghilterra connessa con india nel 1870, l'Australia 2 anni dopo e infine il cavo viene teso nel pacifico nel 1902 e il telegrafo arriva a coprire tutto il globo. Il telegrafo è stato internet dell'era vittoriana, lo diciamo oggi per l'impatto sociale che ha avuto.
+
+####impatto sociale
+Prima del telegrafo a parte per i segnalatori ottici l'informazione viaggiava al massimo  alla velocità degli esseri umani o degli animali
+nel 1870 9 milioni di telegrammi in USA -> enorme sviluppo economico tant'è che trenta anni dopo si passa a 60 milioni di telegrammi.
+
+Il primo utilizzo è stato di business. Cioè poter madre il proprio catalogo prezzi, mandare offerte commerciali, in quel periodo diventa possibile fare un contratto giuridicamente vincolante via telegrafo.
+Solo successivamente iniziano i telegrammi per usi personali, per avvertire che si è arrivati, per le condoglianze, per occasioni importanti della vita.
+
+Forte impatto sul giornalismo, molti giornali inglesi hanno il nome "telegraph" all'interno. Si potevano dare notizie nel giro di ore dall'altra parte del mondo e non più di ore. Il linguaggio dei media si standardizza e adotta un linguaggio che ora chiamiamo giornalistico, un linguaggio oggettivo e piano. L'informazione non gira solo più localmente ma si diffonde in tutto il modo, asettico oggettivo, senza usare termini non comprensibili facilmente.
+
+In quel periodo si affermano modelli di business per i giornali, c'è qualcuno che aggrega le notizie e poi le rivende ai giornali. In Italia c'è l'ANSA, che raccoglie notizie e chi è abbonato all'ansa può avere notizie real time e pubblicarle. Qualcuno allora pensa di creare dei *wire services*, Paul Reuters nel 1852 oppure anche AP associative press associazione di giornalisti che si comunicano notizie tra di loro <to check>. La base di questi business erano informazioni che arrivavano via telegrafo.
+
+Altri utilizzi sono le applicazioni per le quotazioni di borsa, notizie in tempo reale su una strisciolina con tutte le quotazioni. La strisciolina è rimasta anche ai giorni nostri in certe emittenti TV che trasmettono news e che fanno vedere una strisciolina con le news in breve
+
+####Il contesto e le organizzazioni
+questa fase dal punto di vista storico, nella seconda metà dell'800 è molto importante. In quell'epoca dci sono state una serie di riforme tecnologiche che ancora oggi stanno plasmando il mondo. Nascono le grandi organizzazioni aziendali e le grandi burocrazie. Ci sono aziende che risalgono al Medioevo tuttavia nella sua accezione organizzata nasce nella seconda metà dell'800.
+
+Il telegrafo favorisce lo sviluppo di grande organizzazioni, prima non era possibile mantenerle e sostenerle nel tempo. Il telegrafo è la precondizione. Prima c'erano già gli eserciti tuttavia non erano permanenti. le organizzazioni permanenti sono concepibili soltanto se è possibile gestire il flusso di informazioni, senza non è possibile mantenere una coerenza all'interno.
+
+Queste grosse organizzazioni sono spinte in avanti da una serie di innovazioni dall'inizio nel 1860 ci sono 36 mila brevetti dal 60 al 90 440 mila. il brevetto on sempre è un buon indice tuttavia una volta era molto più difficile ottenerlo quindi può essere un valido indicatore in questo contesto per misurare l'innovazione. 
+
+Inoltre prima con la costruzione di mattoni si potevano solo costruire edifici di 4-5 piani. Con tecnologie costruttive più elevate e con il bisogno di far stare nello stesso luogo diverse persone per farle collaborare si affinano le costruzioni e si incominciano a costruire edifici in mattoni anche di 10 piani.
+
+Nello stesso periodo nasce il prototipo della macchinina da scrivere, che già era sviluppata in Italia ma non commercializzata, la prima nasce quindi negli Stati Uniti la *Sholes and Glidden*. La prima ad essere commercializzata è la *qwerty*, qwerty dall'ordine dei tasti. L'ordine dei tasti (che rimane ancora oggi sulle nostre tastiere) fu adottato affinché non si incrociassero le levette, è rimasta fino ai giorni nostri a causa della *path dependency* - si potrebbe innovare usando una configurazione più efficiente ma non avviene mai perché ormai la gente è abituata alle tastiere qwerty.
+
+Terza innovazione: le calcolatrici, incomincia a diventare possibile e fare grandi moli di calcoli.
+già nel 600 fu inventata la tavola dei logaritmi...fin dall'antichità si era consapevoli della noia e della difficoltà di fare calcoli. Queste calcolatrici sono state usate fino agli anni 80.
+
+Altra innovazione in quegli anni, il telefono, inventato nel 1896. anche qui l'inizio è un utilizzo puramente commerciale.
+
+Altra innovazione: il motore a combustione interna, la pignone a Firenze, e poi la otto-langen nel 1863 in Germania...inoltre Karl-Benz idea la prima automobile nel 1886.
+
+La ferrovia si sviluppa nella seconda metà dell'800 (vedi slide)
+
+infine, per ultima, l'utilizzo domestico dell'elettricità. Nel 1878 Edison brevetta la lampadina a filamento di carbonio, si prova con un filamento di bambù bruciato, il giapponese che la inventa poi crea la Nippon electric corporation cioè la NEC.
+
+####il telegrafo secondo il diagramma di B.Winston
+--- immagine slide 27 del 29-04 ---
+
+spinoff del telegrafo - il telefono che si vedeva come evoluzione del telegrafo anche la televisione si incominci a sviluppare in questo tempo, mandando immagini quali piantine e progetti per telegrafo con specifiche applicazioni.
+
+###Il telefono
+1667 robert hooke crea il telefono acustico (filo teso)
+1849 Antonio Meucci dimotra un dispositivo all'Avana (tuttavia non si sa se questo fosse solo elettromagnetico o avesse anche componenti chimici o acustici)
+1854: meucci mostra un altro progetto a New York
+1861: Johann Reis trasmette elettricament ela voce su una distanza di circa 110 metri
+1864: Innocenzo Manzetti, per dare voce al suo automa musicale, inventa il telegrafo parlante. Se ne parla sui giornali ma non brevetta nulla
+1865: Meucci legge di Manzetti e gli scrive senza risposta
+1871: Meucci presenta una domanda di brevetto per un telegrafo sono ma non descrive un telefono elettromagnetico
+1872: Prf. vanderwyde mostra il telefono di Reis a New York
+1873-1875: Thoma edison elisha grau e graham bell lavorano freneticamente al telefono per appropriarsi dei brevetti. Ciascuno riesce ad ottenere dei risultati parziali
+
+14 febbraio 1876 alle 11:30 bell deposita brevetto
+nel 7 marzo 1876 il brevetto us viene concesso a bell
+10 marzo prima trasmissione di voce " mr watson come here"
+10 agosto prima chiamata a lunga distanza 10km...la radio arriverà solo 20 anni dopo
+
+inventare secondo edison era "1% inspiration, 99% perspiration" persoration = sudore. Nonostante l'importanza dell'idea e della creatività che si da oggi c'è cmq bisogno di persistenza e sudore
+
+####la prima rete telefonica
+Prima "rete" punto-punto. Due dispositivi e un filo - romanzo di camilleri la percezione del telefono. Utilizzo molto limitatoooo, il vero potenziale si concretizza quando tutti i telefoni incominciano ad essere collegati tra loro. Ogni persona collegata alla centrale che poi smista, prima a mano, poi automaticmaente, poi digitalmente (punto punto via stella)
+
+Soppressione del potenziale radicale telefono uno-uno e non uno-molti. Ci sono stati tanti tentativi di telefonia uno-molti. Per un lungo periodo chi vendeva telefoni, a parte applicazione business, per decenni hanno cercato di dare una motivazione per comprare il telefono. Una applicazione era trasmettere l'opera via telefono, tuttavia non è mai stata resa a disponibile a tutti la possibilità di trasmettere (soppressione del ptenziale radicale). Con internet non è ancora successo ciò.
+
+Il telefono ci ha messo molto ad espandersi, all'inizio del 900 solo il 10% delle persone possedeva un telefono.
+
+####L'effetto rete
+il beneficio dei partecipanti della rete cresce con la rete stessa, più è grande la rete più grande è il beneficio dell'utente. Esempio FB se fossi solo non avrebbe valore, vale anche per il telefono. Più una rete telefonica ha abbonati più mi conviene scegliere quella rete. Con la telefonia diventa assolutamente evidente. Con il brevetto per 20 anni bell ha il monopolio, quando scade il brevetto nascono centinaia di operatori. 
+All'inizio del 900, anni 10,20, è capitato che le persone cercassero di iscriversi ai provider con più utenti ed è capitato che i grandi provider cercassero aggressivamente di comprare quelli più piccoli per superare la massa critica. Ciò tendeva al monopolio, e lo stesso succede con FB e Google. QUesto periodo tuttavia dura relativamente poco perchè l'azienda di bell tramite varie pratiche corrette e meno corrette diventa monopolista e acquisice tutti.
+
+In Italia successe lo stesso, c'erano diversi opertori privati e capitò che a fine anni 20 inizio 30 l'economia entra in crisi e anche l'industria del telefono. Gli industriali italiani si rifiutano (praticamente) di aiutare l'azienda telefonica e allora il governo acquisisce la SIP come conseguenza del disinteresse del capitalismo verso l'azienda.
+In franci italia ecc ci sono monopli pubblici, in America un monopolio privato di AT&T controllato cmq dal governo fino allo smembramento negli anni 80 ...quindi spese tanto col fiato del governo sul collo su ricerca e sviluppo (i bell labs).
+
+I usa nascono le prime leggi antritrus, anticorpo al monopolio, per evitare la concentrazione del potere economico. Sherman act applicato severamente fino agli anni 70. Sono gli anni dei "robber barons" anche in ambito petrolifero (rockfeller, poi standard oil (SO), poi esso) e delle ferrovie.
+Gli imprenditori vivevano in ambienti con mlte pressioni, in america c'era un grande sentimento democratico fino alla prima guerra mondiale, si construirono quindi diverse fondazioni (per elenco senti audio)
+
+####Le prime reazioni al telefono
+scatola misteriosa che emetteva voci - magia mistica o follia - traduci pezzo su slide
+I markettari dei 70-80 credevano che il pubblico andasse educato - bell spese molto in pubblicitàà - anche per convincere la gente che non era possibile prendere malattie. Gli imprenditori telefonici nei primi anni cercavano di trovare degli usi per il telefono.
+
+Alla fine il vero utilizzo incontestabile era per fare affari a distanza. Quando le persone per motivi lavorativi incominciavano ad usare il telefono per lavoro incominciarono ad usarlo per motivi privato...molto lentamente però tant'è che nel 1902 solo i 10% delle case aveva un telefono.
+
+####Il diagramma di B.Winston per il telefono
+la vera necessità sociale era ltd inc, cioè business, azienda moderna, grossa orgnaizzazione, beneficia dal telefono.
+legge della soppressione del potenziale radicale - one to one system
+
+####curve di adozione
+varrie curve di adozione messe a confronto in un immagine
+
+
+###La radio
+1885: Heinrichs Hertz prova che si può trasmettere elettricità a distanza usando le onde elettromagnetiche
+1892-95: tesla e altri inventori (popov, turpain, ecc) fanno altri esperimenti
+1896: Guglielmo Marconi, senza dare un contributo scientifico, ha capito che l'altezza dell'antenna era fondamentale per trasmettere a lunga distanza, riesce così a ricevere e trasmettere a 6 km di distanza. All'età di 22 anni capisce subito l'aspetto di business, non è un grande scienziato ma un lungimirante imprenditore. Si rivolge al governo italiano ma viene ignorato, grazie alla sua madre inglese,va a Londra. Inghilterra in quegli anni è la capitale dell'impero britannico. Va a Londra brevetta (brevetto che vale quasi ovunque visto che era così esteso il regno britannico). Prima di creare azienda ma dopo aver brevettato, si rivolge a un dirigente delle poste. 
+
+La marina aveva sempre avuto un problema di comunicazione tra navi e tra nave e centrale. Per cui capiscono che la radio poteva essere fondamentale per la nautica. In questi anni vengono costruite le prime corazzate, resistenti ma molto grosse e lenti da manovrare. le navi devono essere così lontane tra di loro che non sono più in contatto ottico. In quegli anni stavano costruendo tutti corazzate. 
+L'Inghilterra intravede il potenziale - necessita sociale: ambito militare in specifico nautico. Fino alla prima guerra mondiale è Marconi il monopolista, dopo viene requisito il brevetto dal governo.
+trasmette attraverso la manica
+
+in parallelo nel 1898 Popov dimostra comunicazione tra base navale e navi in mare
+nel 1990 si registra il primo salvataggio di una nave grazie alla radio.
+
+nel 1901: Marconi trasmette la lettera S dall'Irlanda al Canada - per la curvatura terrestre non sarebbe possibile, è stato possibile grazie allo strato di ioni nell'atmosfera
+nel 1902: articolo su scientific american dal titolo: " come costruire un efficiente apparato di telegrafia senza fili a basso costo". Succederà la stessa cosa negli anni 70 dove si acquistavano i pezzi via posta per costruirsi un personal computer.
+
+Nello spazio di una decina d'anni, fino alla prima guerra mondiale molti amatori sperimentano diverse cose, tutti sperimentavano e facevano ciò che volevano. Questa fase termina con la prima guerra mondiale (pericoloso interferire con trasmissione militari). Dal 1918 verrà creato l'impianto normativo che rimarrà fino ai giorni nostri.
+
+Inizialmente tutti pensano che la non riservatezza della radio sia un problema, la radio per sua natura è broadcast. A un certo punto a qualcuno viene in mente che sia possibile sfruttare questa comunicazione uno a molti pubblica, si riesuma la parola settecentesca "broadcast" cioè lanciare ampiamente (gesto del contadino per spargere i semi).
+
+Tra le prime applicazioni pubbliche, nel 1906 alla vigilia di natale trasmette via radio sul nord dell'atlantico musica. nel 1912 subito prima della prima guerra mondiale gli americani fanno la prima legge.
+In quell'anno tra 'altro successe il problema del Titanic, in molti dicono che in quegli anni c'era molta interferenza (tanti trasmettevano su bande poco selezionate) senza questa interferenza forse si sarebbe potuto evitare il disastro.
+nel 1920 nasce la prima stazione radiofonica negli stati uniti - viene trasmessa musica a fedeltà molto bassa e viene trasmesse notizie.
+In questi primi anni non si capisce il modello di business di una stazione radio. In America agli esordi le università adottarono la radio per trasmettere lezioni e si ha la credenza che la radio diventerà un servizio municipale. Non fosse che la radio corporation of america crea la prima stazione radio seria, modello di business: chiunque vuole trasmettere qualcosa viene da noi per un'ora o un periodo di tempo paga e può trasmettere. Inizialmente si pensava a chiesa, governi, politici ecc. Questo sistema avrebbe creato un sistema a due strati separati (un po' come internet oggi), questo modello all'inizio non decolla, quindi incomincia a trasmettere il trasmettitore. Il trasmettitore incomincia a diventare un produttore di contenuti. A questo punto però c'è un problema di modello di business, chi mi paga i contenuti che sto creando...? la pubblicità, piccoli buchi in mezzo alla programmazione che ripaga il costo della produzione di contenuti. ora con la criptazione sono possibili modelli di business in cui paga l'utente
+
+Adottano il modello che proprio a New York era stato adottato per i giornali e il modello di business incomincia a diventare quello.
+In Europa diventa un altro, esattamente come per il telefono, la radio diventa un monopolio pubblico che esclude assolutamente la pubblicità (ancora oggi come la BBC). 
+In questi anni la radio incomincia a ricever grandissimi pressioni, sopratutto per il fatto che i giornali lo reputano come concorrenza sleale, tant'è che la bbc non poté trasmetter per anni. Comunque i giornali incominciano a comprare le radio e la tensione si attenua.
+
+negli USA si ha percezione e si è usata la propaganda via radio durante la prima guerra mondiale, molto evoluto, ammirato anche da Hitler. Nel 1926 legge radio act, creazione autorità indipendente per la regolazione delle trasmissioni radio da parte dell FCC.
+
+–-- immagine radio e sviluppo ---. iron lads= corazzate
+ostilità di industri precedenti rallentano lo sviluppo
+ 
+A inizio del 900 la Bell si prende una grossa paura, pensando che la radio possa soppiantare il telefono e pensano che si possano creare telefoni wireless portatili. Si creano i Bell labs come reazione alla paura di essere schiacciati dall'innovazione.
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
