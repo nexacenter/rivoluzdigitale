@@ -119,7 +119,7 @@
 		- [SIAE e CC](#)
 		- [dove trovare opere CC](#)
 		- [Misc - licenze CC](#)
-- 	- [aspetti pratici dei blog (lezione 9)](#aspetti-pratici-dei-blog-lezione-9)
+ 	- [aspetti pratici dei blog (lezione 9)](#aspetti-pratici-dei-blog-lezione-9)
 		- [Le URL](#)
 			- [cosa è una URL](#)
 			- [URL della dashboard e URL pubblica](#)
