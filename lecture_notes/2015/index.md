@@ -1834,9 +1834,9 @@ Tutte e sei le licenze CC consentono i file sharing, poiché il filesharing alla
 - etimologia della parola blog
 	web log -> we blog
 
-###cosa è una url?
-Url è identificativo di un posto sul web. 
-Per inciso Internet non è il web, non sono la stessa cosa. Il web lavora su internet. Internet ha anche altre tecnologie che la sfruttano, tipo smtp cioè la posta elettronica (non la web mail!).
+###cosa è una URL
+Una URL (Unique Resource Locator) è un identificativo di un posto sul web. 
+Per inciso Internet non è il web, non sono la stessa cosa. Il web lavora su Internet. Internet ha anche altre tecnologie che la sfruttano, tipo smtp cioè la posta elettronica (non la web mail!).
 
 	Esempio di indirizzo internet (indirizzo IP): 130.192.91.211  
 	Esempio di URL: http//www.x.org/wiki/
@@ -1851,19 +1851,180 @@ Composizione dell'url:
 
 ###URL della dashboard e URL pubblica
 Un URL della dashboard ha questo aspetto:
-	 https://www.tumbl.com/blog/nomeBlog
+	 https://www.tumblr.com/blog/nomeBlog
 
 Da “https:” si nota che la connessione è cifrata. **Usando questa URL si possono vedere i post solo se si è loggati**. Per pubblicizzare il proprio blog (ad esempio su Twitter) non serve (e non bisogna usare) la URL della dashboard, serve la URL pubblica del blog che ha questo aspetto:
 	 nomeblog.tumblr.com
 
-###come scirvere un blogpost
-- Cliccare su "text"
-- Si apre interfaccia di scrittura con editor di testo (tipo word): editor what you see is what you got - usare questo nella maggioranza dei casi è più diretto
-- se si clicca su "<"html">" vedo il sorgente pagina: utile per includere video o immagini in posizioni precise. I broswer interpretano html e lo visualizzano a schermo
+###Come scrivere un blog post
 
-consigli per iniziare a scrivere: 
+####Procedura su Tumblr:
+- Cliccare su "text"
+- Si apre interfaccia di scrittura con editor di testo (tipo word): editor *what you see is what you got*. E' utile usare questo editor nella maggioranza dei casi, è più diretto
+- se si clicca su "<"html">" si può accedere al sorgente pagina: utile per includere video o immagini in posizioni precise. I browser interpretano HTML e POI lo visualizzano a schermo
+
+####Consigli per iniziare a scrivere
+Una possibile procedura per iniziare a scrivere un blogpost:
 1. partire dal titolo anche solo per scriverci su e per iniziare a ragionarci  
 2. si possono iniziare a mettere dei tag o keyword che restringono il campo dei concetti di cui parlerò  
 3. per scrivere è importante rilassarsi per liberare la mente  
 4. fare una lista di punti per sviluppare le proprie idee  
-5. espandere l'elenco puntato, ogni punto diventa un paragrafo
+5. espandere l'elenco puntato, ogni punto diventa un paragrafo  
+6. iterare fino a convergenza, cioè modificare il contenuto fino a quando si è soddisfatti  
+7. prima di postare l'articolo guardare la preview per vedere se l'aspetto è quello desiderato e per far un po' di *proof reading*. E' particolarmente importante guardare le preview e non salvare ad esempio quando sono abilitati I feed rss.
+Chi segue un blog con RSS riceve una mail la prima volta che l'articolo viene salvato, quindi se questo non è ancora nella sua versione finale, l'utente guarda, vede che è una bozza non riceve più notifica una volta che l'articolo è terminato
+
+E' fondamentale scrivere per paragrafi chiaramente separati tra loro e abbastanza corti, specialmente sul web per non scoraggiare i lettori con i cosiddetti *wall of text* (un esempio:http://www.ilpost.it/2015/04/21/google-mobile-algoritmo-siti-ottimizzati-smartphone/). Si compete per l'attenzione del lettore ed è più semplice vincere questa competizione se è facile leggere ciò che si scrive.
+Inoltre si dovrebbe capire da subito dove si vuole andare a parare.
+Esprimersi in modo conciso e chiaro, scrivendo subito i concetti chiave è giustificato da ragioni storiche quando i mezzi di comunicazione non erano affidabili e si volevano trasmettere notizie utili e ricche di contenuto informativo con mezzi limitati (soprattutto da zone di guerra).
+
+	Reminder: è fondamentale far capire chi siamo quando scriviamo.
+
+####I tag
+E' molto importante fare uso dei tag in modo che sia più facile essere indicizzati e chi cerca argomenti specifici trovi il nostro articolo. 
+
+Volendo si possono mettere molti tag ma più tag ci sono meno essi forniscono informazioni, è meglio metterne pochi e che c'entrino con l'argomento trattato.
+
+####Pubblicizzare il blog post
+Per fare in modo che la gente venga a conoscenza del post scritto, può tornare utile (ed è ciò che viene chiesto ai fini del corso) *twittare* il permalik del blogpost con una piccola descrizione (non scrivere “nuovo post” o frasi che non diano nessuna informazione sul contenuto del post).
+
+Un blog, per essere interessante, deve essere attivo. Per vedere quando un blog sia attivo,se fatto con Tumblr basta andare su:
+	https:nomeblog.tumblr.com/archive
+
+Per tenere vivo il blog si possono anche mettere foto video e brevi interventi per mostrare che c'è un pensiero attivo dietro il blog.
+
+####URL shortener - cosa è bit.ly.
+bit.ly è una scatola nera in cui ci mettiamo una url lunga e lui ci restiuisce una url corta. Bitly si salva la mappa delle URL e quando
+parte comoda: ho più caratteri su twitter
+parte scomoda: non sappiamo dove ci portano, ci possono portare su immagini offensive
+E' talmente comodo che anche twitter ora implementa il suo shortener cioè t.co
+Anche Google ha il suo: goo.gl
+
+se una url espande a una truffa o qualcosa che danneggia le piattaforme bloccano queste url (lo fa anche firfox ochrome alle ultime versioni)
+
+###Rudimenti di web
+Se avete a che fare con un blog vi scontrate per forza con html, css e javascript.
+slide 26
+
+un brovser interpeta html e css ed esegue javascript.
+- html: (hypertext markup language) è un linguaggio per descrivere documenti (per esempio i vostri blog post). una delle cose più dirompenti sono stati i collegamenti iperstestuali
+- css: (cascading style sheet) è un linguaggio per cambiare lo stile (cioè l'aspetto delle pagine web. certi siti fatti bene hanno css diversi per visualizzare pagina a schermo o per stamparla
+- Javascript: è un linguaggio è un linguaggio per rendere dinamiche le pagine web
+
+Queste tecnologie sono quelle che vengono utilizzate dai blog che userete  e anche da facebook ma sono nasoste al punto tale che noi inseriremo solo testo.
+
+html non è un linguaggio, ma un meta linguaggio. 
+i tag: 
+- <html> dichiara inizio pagina html, e </html> dichiara fine pagina
+- <head> è come fosse una copertina della pagina
+- <body> inizia il corpo del testo strutturato per paragrafi (slide 29) <p>
+
+per provare a scrivere html - file di testo su pc oppure liveweave (sito slide 30) per vedere direttamente l'effetto di ciò che scrivo 
+
+il paragrafo slide 31
+Hyperlink slide 32
+il tag per farlo è <a>, solitamente si annegano link nel testo e non si dichiarano esplicitamente i link
+
+####Inclusione di immagini tag e attributi
+tag e attributi del tag
+tag = <img> attributi: <img src="dove si trova immagine" alt="testo">
+il tag immagine è particolare perchè non c'è del testo in mezzo. Inoltre nella versione di html spiegata qui non bisogna neanche chiudere questo tag
+i tag possono essere incusi uno nell altro es <p> questo è una <b>paragrafo</b></p>
+
+dove si mettono le immagini?
+Bisogna metterle sul proprio blog e non da qualche altra parte. Perchè?
+3 motivazioni:
+1. se tira giù immagine mi rimane immagine vuota sul mio blog
+2. 
+3. uso risorse degli altri per il mio sito (eccezioni sono google, facebook o siti fatti apposta per immagini che non saturano la loro banda).
+
+
+come è strutturato il blog
+nel css dico come è strutturato, si può suddividere in diverse sezioni la pagina. col css muovo tessere che ho creato
+
+####CSS
+i fogli di stile si possono usare per muovere i dive in giro per lo schermo e settare altre preopiretà.
+ci sono 3 modi per dichairare un css - slide 39
+
+css inline
+si dichiara come attributo di un certo tag.
+ad esempio vedi slide 40-41.
+dichiaro lo stile delle clssi a inizio pagina e poi in ogni div dichiaro la classe.
+
+spostare i div usando css
+i div sono praticamente dei blocchi che possono essere assemblati per creare pagine web strutturate con header footer etc, non è necessario saperlo fare per il corso.
+
+il tema prende il macroblocchi e li sposta egli assegna degli stili. tutto ciò viene fatto usando la tecnolgia css
+
+####JavaScript
+si usa per rendere dinamiche le pagine. cosa si può fare funzionalmente?
+caricare nella chat di fb le conversazioni precedenti, caricare post sulla timeline quando si arriva alla fine, ricevere mesaggi nella chat di fb (se non ci fosse dovrei ricricare la pagina). 
+E' un liguaggio di programmazione con le solite cose e ha accesso alla struttura della pagine...es prendi dive ecambia il contenuto se è arrivato un nuovo messaggio
+
+il tag "<"script">" serve per far caricare il codice javacript (slide 46) 
+quui termina la parte di cosa sta sotto il cofano
+
+####Cambiare il tema del blog
+Si può cambiare il tema scegliendo tra i temi di default o anche editando l’HTML (che contiene del JavaScript e del CSS)
+E' possibile scegliere temi gratis o a pagamento, se ne seleziona uno e in tempo reale si può veder come sarebbe il blog con un determinato tema. Una volta deciso il tema basta cliccare “utilizza” e viene applicato a tutto il blog.
+Sostanzialmente cambia css e qualche altra cosa, tuttavia bisogna ricordarsi che cambiando tema si perdono eventuali modifiche custom fatte al tema precedente.
+
+####Aggiungere immagini
+Bisogna integrarle nel proprio blog. Per aggiungerla basta andare sull'icona a forma di immagine e selezionare dal proprio pc quale immagine caricare. Per cambiare dimensione o centrarla potrebbe essere necessario modificare direttamente l'html.
+
+Come fare a far capire dove ho preso l'immagine? la licenza non ingfluenza il voto e non è importantissima ma bisogna dire da dove proviene. Scrivo didscalia da dove proviene e descrizione e poi inserico link nella didascalia e dichiaro da dove l'ho presa
+
+####Aggiungere licenza CC
+su Tumblr bisogna editare l'html:
+- andare su creativecommons.org/choose rispondo a questionario e mi viene proposta una 
+- NC non comercial è un arma a doppio taglio, qualcuno di commerciale potrebbe non usare la mia opera nonostante mi renderebbe famoso es rai con mia musica in spot
+- risposto al questionario mi viene fornito un pezzo di codice che dovrò incollare nel blog. customise->edit html-> devo andare subito prima del tag body di chiusura e incollarlo, se non mi piace posso inserirlo in un tag div o center e cambiare altra roba.
+Nel caso in cui cambiassi il tema perdo questa modifica, quindi occhio.
+
+Apetto grafico è apprezzato, se non è fatto comunque non è penalizzante
+
+####Embedding di un video
+ci sono 2 modi:
+1. nella dashboard c'è il pulante per condividere video. viene furoi video in cima con breve descrizione di testo sotto
+2. copio e incollo html di youtube nel mio html della pagina
+
+perchè va bene se lo faccio e non devo citare nessuno? anche se è un video musicale?
+-visibilità
+-partnership: un pezzo degli introiti pubblicitari finisce a chi ha fatto il video. Se usiamo della musica proprietaria youtube ci toglie licenza cc al video e mostra pubblicità nel nostro video
+
+####Aggiungere la pagina about
+Perchè si sappia chi siano gli autori. "gruppo di studenti del Politecnico e che si sappia perchè pubblichiamo - facciamo parte di un corso che si occupa di questo tema". Serve agli utenti per sapere quanto fare affidamento a determinate informazioni. Se non si mette pagina about non si può sapere questa informazione e non si riesce ad essere affidabili.
+
+processo per farlo:
+-vai su customise
+-add a page
+-scegliere url pagina, titolo e editare contenuto
+
+####Post bello vs post brutto
+Bello:
+- titolo
+- paragrafi corti
+- link impliciti
+- immagini (lenzuolate di tesot e basta non sono facili da leggere e annoiano)
+- pezzi di testo linkato e non link espliciti
+- firma al post
+- tag a fine pagine
+- citazione diretta (esiste lo strumento citazione su tumblr che crea l'effetto grafico di spostare a destra e sfondo grigio): da qualche parte deve esserci scritto da dove ho preso la frase. Link ipertestiale all'introduzione della citazione, ma meglio scrivere sotto la fonte
+
+da non fare:
+- a capo nel paragrafo
+- nessuna immagine
+- link espliciti
+- elenco di fonti in fondo (magari con link espliciti): html è una rivoluzione perchè mette in relazione strettissima contenuti e fonti tramite collegamenti impertestuali. Mettere tutti i link in fonde rende più difficile l'esperienza per il lettore.
+
+queste cose verranno usate per valutare la parte formale del sito. vengono anche valutati i contenuti, tra cui fallacie logiche, opinioni non argomentate, gravi errori di grammatica o sintassi.
+
+###Crap detection
+quello che leggo è valido oppure no?
+Siamo in una società in cui la responsabilità dei cittadini è molto più alte. Una volt c'erano emettitori di verità elevati quali stato, religione, padri di famiglia.
+Noi come cittadini dobbiamo capire per poter decidere e partecipare. Da un lato ci sono le autorità come il sole 24 ore o la Repubbblica, dall'altra c'è internet e vari blog post. La quantità di informazioni e la discordanza tra loro è veramente discordante.
+
+Ad esempio cosa succede in ucraina? tanto materiale sembra propaganda. vedere se fonti sono citate, quali sono, sono verificabili.
+iun pezzo di quello detto sul lato scrivere ci dovrebbe rendere consapevoli su cosa leggere per sapere se chi scrive è affidabile
+
+eccezioni al copyright per cronaca satira etc
