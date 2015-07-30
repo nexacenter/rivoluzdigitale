@@ -1504,6 +1504,43 @@ ostilità di industri precedenti rallentano lo sviluppo
  
 A inizio del 900 la Bell si prende una grossa paura, pensando che la radio possa soppiantare il telefono e pensano che si possano creare telefoni wireless portatili. Si creano i Bell labs come reazione alla paura di essere schiacciati dall'innovazione.
 
+---- inizio lezione 12 ---
+Nel 1919 negli usa per atto del governo la british marconi company diventa la radio corporation of america (RCA)...monopolio privato.
+Fino al 1912 nessuna regola, chiunque può trasmettere come vuole alla potenza che vuole - poi con scuse anche pretestuose (anche grazie a Titanic), incominciano ad essere regolate frequenze e potenze - FCC incomincia ad occuparsi di queste cose.
+Si crea situazione di relativamente poche frequenze (ragione ufficiale: interferenze), bene scarso, ci pensa quindi il governo, queste poche frequenze vengono concesse a qualcuno (non vendute perché è un bene comune), non si può creare un mercato secondario e alle frequenze è associato uno specifico uso (trasmissione terrestre, trasmissione dati ecc).
+Questo modello da un enorme potere ai governi che può decidere chi trasmettere e chi no.
+
+Con relativamente poche frequenze, problemi di libertà di espressione molto grandi. Solo alcuni possono trasmettere, si sono create delle regole per garantire pluralismo di idee: compagnie private sottoposte a controllo, far sentire le idee di tutti, rispetto decenza pubblica...scusa delle poche frequenze per fare pochi canali...
+In Europa si sceglie la via dei monopoli pubblici e i canoni.
+
+Negli anni '20-'30-'40 del 900 grande impatto della radio sulla pubblica opinione - usato  per la propaganda. Negli stati uniti come effetto della grande depressione cacciano Hoover ed eleggono Roosevelt che una volta a settimana parlava in modo informale "chiacchere al caminetto" degli eventi della settimana.
+
+Nel regime nazista invece viene usata per propaganda da: 
+- bruciare i libri
+- sport
+- rally
+- radio
+
+Apparecchi radiofonici prodotti in massa e a poco prezzo, presenti ovunque anche alle stazioni dei bus, popolazione sempre sotto propaganda, intervallata anche da opera, musica e spettacoli.
+Anche nel fascismo dopo un po' viene usata la radio come mezzo di propaganda, anche se tasso di penetrazione molto minore.
+
+Nazisti si inventano, usando onde corte, propaganda verso altri paesi. la consapevolezza di usare la radio per cambiare la pubblica opinione (Hitler nel *Mein Kampf* parla di propaganda e non di radio).
+Goebbels dice che la radio è l'ottavo strumento di potere (il settimo è la stampa). " non avremmo potuto prendere il potere se...".
+
+Nel caso della radio il potenziale radicale come si è soppresso? 
+1. valvola termoionica era un pezzo chiave (il brevetto chiavo era di Fleming), cause legali fino allo scadere del brevetto di Fleming nel 22. dopo il 22 decollo della radio
+2. la "soppressione" della radio fm (fino a quel momento solo radio modulata in ampiezza) inventata nel 1933. Armstrong modula frequenza, innovazione bloccata da RCA che era azienda per cui lavorava, la riteneva una innovazione per cui on si era ancora pronti (qualità altissima di trasmissione). Non metterà in campo questa tecnologia
+
+registratori a nastro inventata nel.... at&t decide che non deve uscire quella tecnologia, diventerà di ampio utilizzo dopo 2 guerra mondiale. una delle motivazione per cui at&t decide che non vuole avere registratori perchè maggiornaa di telefonate erano erotiche e c'era paura di calo fiducia nel mezzo se le chiamate potevano essere registrate.
+
+####La radio secondo il diagramma di B.Winston
+- Tecnologia: Maxwell
+- Social necessity: incrociatori
+- diffusione: Marconi e valvole di Fleming e Defoest per creare radio a basso costo.
+
+il fatto che sia condizionato da pubblicità condiziona l'utilizzo della radio (no inchiesta su chi ti compra milioni di pubblicità)
+
+
 ##La storia del calcolo meccanico (lezione 12 - ospite: Prof. Losano)
 <Introduzione prof Losano>
 
