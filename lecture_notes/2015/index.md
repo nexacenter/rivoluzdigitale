@@ -1499,6 +1499,33 @@ ostilità di industri precedenti rallentano lo sviluppo
  
 A inizio del 900 la Bell si prende una grossa paura, pensando che la radio possa soppiantare il telefono e pensano che si possano creare telefoni wireless portatili. Si creano i Bell labs come reazione alla paura di essere schiacciati dall'innovazione.
 
+##La storia del calcolo meccanico (lezione 12 - ospite: Prof. Losano)
+<Introduzione prof Losano>
+
+###le origini del calcolo meccanico
+Charles Babbage matematico e inventore inglese. Si è occupato dei progressi tecnologici più pratici, tra cui le ferrovie.
+Venuto in Piemonte per linea Piemonte-Genova
+,fonda impresa di materiale ferroviario a Genova che poi è diventata la SALT
+
+Babbage è punto di arrivo per meccanica Grecia classica, e punto di partenza per l'automatica moderna fino ad internet.
+
+####La meccanica greca
+La meccanica che conosciamo noi con le ruote dentate nasce con i greci. I romani hanno apportato organizzazione ma non hanno inventato molto. Macchine che si muovono da sole, gli automi, nascono con i greci, avevano uno scopo ludico, suscitavano meraviglia e stupore.
+
+I greci scrivono i principi di meccanica, idraulica ecc, Ad Alessandria con la grande biblioteca venne recepita tutta la cultura greca, nel 600 dc decade tutta la cultura greca e romana. I custodi rimangono gli alessandrini e i greci per poi diventare gli islamici che arrivano in Spagna e si portano dietro il bagaglio culturale dell'idraulica, meccanica e pneumatica greca. 
+Gli originali dei testi sono conservati via spagna dagli arabi (i monaci scrivevano "è greco non si capisce").
+
+####L'arrivo in Italia e in Europa della meccanica
+Lentamente dall'Italia si è incominciato a capire che con la decadenza pre-rinascimentale avrebbe avuto fine andando in Spagna. Un tipo di Padova va a Toledo e se li traduce dall'arabo al latino. Gli arabi hanno conservato i fondamenti della meccanica moderna.
+1492 - scoperta America, ultima cacciata degli arabi dalla penisola iberica (fine del califfato), vengono cacciati li ebrei.
+dopo la cacciata "per effetto di basculazione" il popolo arabo si espande nei Balcani fino ad arrivare alle porte di Vienna (movimento pre-post 600). La meccanica salvata in modo curioso attraverso gli arabi e recuperata in epoca rinascimentale. Quando gli arabi occupano bisanzio molti eruditi che conoscevano la meccanica scappano in Italia dove vengono applicate le conoscenze meccaniche.
+
+innovazioni in : *deus ex machina* -> meccanismo teatrale per far calare la divinità dall'alto. anche nei mulini ecc
+
+Gli arabi hanno fatto degli automi per effettuare misurazioni -> misurare sangue prelevato
+misurazione del tempo -> prima: sole, clessidre, misure ad acqua -> nel 600-700  si sviluppano gli orologi meccanici -> si comincia ad applicare la meccanica a funzioni che prima venivano effettuati da altri strumenti meno precisi (quali la clessidra), meno precisi e che non potevano garantire la continuità nel tempo.
+
+
 # Parte Metodologica
 ## Introduzione (lezione 1) 
 In questa parte introduttiva verrà spiegato concretamente come si svolgerà il corso.
