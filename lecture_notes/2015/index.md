@@ -82,6 +82,11 @@
 			- [Il diagramma di B.Winston per il telefono](#)
 			- [curve di adozione](#)
 		- [La radio](#)
+	- [La storia del calcolo meccanico (lezione 12 - ospite: Prof. Losano)](#)
+		- [La meccanica greca](#)
+		- [L'arrivo in Italia e in Europa della meccanica](#)
+		- [Le prime macchine di calcolo](#)
+		- [La macchina di Babbage](#)
 	
 
 
