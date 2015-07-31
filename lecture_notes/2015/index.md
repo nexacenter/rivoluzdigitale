@@ -2207,12 +2207,12 @@ Tutte e sei le licenze CC consentono i file sharing, poiché il filesharing alla
 Una URL (Unique Resource Locator) è un identificativo di un posto sul web. 
 Per inciso Internet non è il web, non sono la stessa cosa. Il web lavora su Internet. Internet ha anche altre tecnologie che la sfruttano, tipo smtp cioè la posta elettronica (non la web mail!).
 
-	Esempio di indirizzo internet (indirizzo IP): 130.192.91.211  
+	Esempio di indirizzo Internet (indirizzo IP): 130.192.91.211  
 	Esempio di URL: http//www.x.org/wiki/
 
-un indirizzo internet è un numero che rappresenta un computer sulla rete ed è molto meno ricco di significato rispetto a una URL.
+un indirizzo Internet è un numero che rappresenta un computer sulla rete ed è molto meno ricco di significato rispetto a una URL.
 
-Composizione dell'url:
+Composizione dell'URL:
 - primo pezzo, il protocollo: http o https (la “s” sta per “over **Secure** Socket Layer”, e vuol dire che la connessione è cifrata e autenticata)  
 - ://  
 - nome del sito  
@@ -2230,7 +2230,7 @@ Da “https:” si nota che la connessione è cifrata. **Usando questa URL si po
 ####Procedura su Tumblr:
 - Cliccare su "text"
 - Si apre interfaccia di scrittura con editor di testo (tipo word): editor *what you see is what you got*. E' utile usare questo editor nella maggioranza dei casi, è più diretto
-- se si clicca su "<"html">" si può accedere al sorgente pagina: utile per includere video o immagini in posizioni precise. I browser interpretano HTML e POI lo visualizzano a schermo
+- se si clicca su "<"HTML">" si può accedere al sorgente pagina: utile per includere video o immagini in posizioni precise. I browser interpretano HTML e POI lo visualizzano a schermo
 
 ####Consigli per iniziare a scrivere
 Una possibile procedura per iniziare a scrivere un blogpost:
@@ -2255,7 +2255,7 @@ E' molto importante fare uso dei tag in modo che sia più facile essere indicizz
 Volendo si possono mettere molti tag ma più tag ci sono meno essi forniscono informazioni, è meglio metterne pochi e che c'entrino con l'argomento trattato.
 
 ####Pubblicizzare il blog post
-Per fare in modo che la gente venga a conoscenza del post scritto, può tornare utile (ed è ciò che viene chiesto ai fini del corso) *twittare* il permalik del blogpost con una piccola descrizione (non scrivere “nuovo post” o frasi che non diano nessuna informazione sul contenuto del post).
+Per fare in modo che la gente venga a conoscenza del post scritto, può tornare utile (ed è ciò che viene chiesto ai fini del corso) *twittare* il permalik del blogpost con una piccola descrizione (ed è bene non scrivere “nuovo post” o frasi che non diano nessuna informazione sul contenuto del post).
 
 Un blog, per essere interessante, deve essere attivo. Per vedere quando un blog sia attivo,se fatto con Tumblr basta andare su:
 	https:nomeblog.tumblr.com/archive
@@ -2263,140 +2263,177 @@ Un blog, per essere interessante, deve essere attivo. Per vedere quando un blog 
 Per tenere vivo il blog si possono anche mettere foto video e brevi interventi per mostrare che c'è un pensiero attivo dietro il blog.
 
 ####URL shortener - cosa è bit.ly.
-bit.ly è una scatola nera in cui ci mettiamo una url lunga e lui ci restiuisce una url corta. Bitly si salva la mappa delle URL e quando
-parte comoda: ho più caratteri su twitter
-parte scomoda: non sappiamo dove ci portano, ci possono portare su immagini offensive
-E' talmente comodo che anche twitter ora implementa il suo shortener cioè t.co
-Anche Google ha il suo: goo.gl
+Bit.ly è una “scatola nera” in cui ci mettiamo una URL lunga e lui ci restituisce una URL corta. Bit.ly si salva la mappa delle URL e quando riceve una URL corta in entrata reindirizza alla URL lunga associata e presente nel suo database.
 
-se una url espande a una truffa o qualcosa che danneggia le piattaforme bloccano queste url (lo fa anche firfox ochrome alle ultime versioni)
+Aspetti positivi e negativi
+Pro: minor “spreco” di caratteri su Twitter;
+Contro: non si sa dove portino I link corti, potenzialmente potrebbero portare su immagini offensive o altri contenuti non appropriati.
+
+Gli URL shortnener sono talmente comodi che anche Twitter ora implementa il suo, cioè:
+	t.co
+e anche Google ha il suo: 
+	goo.gl
+
+Se una URL espande a una truffa o qualcosa che danneggia solitamente viene bloccato dalla piattaforma (lo fanno anche Firefox e Chrome alle ultime versioni)
 
 ###Rudimenti di web
-Se avete a che fare con un blog vi scontrate per forza con html, css e javascript.
-slide 26
+Se si ha a che fare con un blog ci si scontra per forza con HTML, CSS e JavaScript.
+Queste tecnologie sono in pratica ciò che si trova “sotto il cofano” del web.
 
-un brovser interpeta html e css ed esegue javascript.
-- html: (hypertext markup language) è un linguaggio per descrivere documenti (per esempio i vostri blog post). una delle cose più dirompenti sono stati i collegamenti iperstestuali
-- css: (cascading style sheet) è un linguaggio per cambiare lo stile (cioè l'aspetto delle pagine web. certi siti fatti bene hanno css diversi per visualizzare pagina a schermo o per stamparla
-- Javascript: è un linguaggio è un linguaggio per rendere dinamiche le pagine web
+un browser interpreta HTML e CSS ed esegue JavaScript.
+- HTML: (HyperText Markup Language) è un linguaggio di *markup* per descrivere documenti (per esempio i blog post). una delle cose più dirompenti sono stati i collegamenti iperstestuali.
+- CSS: (Cascading Style Sheet) è un linguaggio per cambiare lo stile, cioè l'aspetto delle pagine web. certi siti fatti bene hanno CSS diversi per visualizzare pagina a schermo o per stamparla
+- JavaScript: è un linguaggio per rendere dinamiche le pagine web (ad esempio per far funzionare la chat di Facebook)
 
-Queste tecnologie sono quelle che vengono utilizzate dai blog che userete  e anche da facebook ma sono nasoste al punto tale che noi inseriremo solo testo.
+Queste tecnologie vengono utilizzate dai blog  e anche da Facebook ma sono nascoste al punto tale che solitamente quando ci interfacciamo con loro solitamente inseriamo solo testo.
 
-html non è un linguaggio, ma un meta linguaggio. 
-i tag: 
-- <html> dichiara inizio pagina html, e </html> dichiara fine pagina
-- <head> è come fosse una copertina della pagina
-- <body> inizia il corpo del testo strutturato per paragrafi (slide 29) <p>
+	Importante: HTML non è un linguaggio, è un meta linguaggio. 
 
-per provare a scrivere html - file di testo su pc oppure liveweave (sito slide 30) per vedere direttamente l'effetto di ciò che scrivo 
+####i tag
+**HTML è un linguaggio di markup** e come tale utlizza dei tag per identificare determinate porzioni di testo:
+ 
+- '<HTML>' dichiara L'inizio pagina HTML, e '</HTML>' dichiara fine pagina
+- '<head>' è come fosse una copertina della pagina
+- '<body>' inizia il corpo del testo strutturato per paragrafi 
+- '<p>' dichiara l'inizio di un paragrafo e '</p>' la sua fine
 
-il paragrafo slide 31
-Hyperlink slide 32
-il tag per farlo è <a>, solitamente si annegano link nel testo e non si dichiarano esplicitamente i link
+per provare a scrivere HTML basta creare file di testo su PC salvarlo in estensione HTML e aprirlo con un browser. Ci sono diversi strumenti interattivi con cui imparare a giocare con l'HTML, ad esempio *Liveweave* (http://liveweave.com/) permette di vedere direttamente l'effetto di ciò che si scrive in HTML. 
+
+Esempio di paragrafo
+	<p> questo è un paragrafo </p>
+
+Esempio di ipertesto - il tag per farlo è <a>, solitamente si **annegano link nel testo e non si dichiarano esplicitamente i link**:
+	<a href=”http://x.org/”>il progetto X.org</a>
+Questo rende la scritta “il progetto X.org” cliccabile e
+ fa sì che chi ci clicca vada su http://x.org/
+
+I tag, inoltre, possono essere inclusi uno nell'altro es <p> questo è una <b>paragrafo</b></p>
 
 ####Inclusione di immagini tag e attributi
-tag e attributi del tag
-tag = <img> attributi: <img src="dove si trova immagine" alt="testo">
-il tag immagine è particolare perchè non c'è del testo in mezzo. Inoltre nella versione di html spiegata qui non bisogna neanche chiudere questo tag
-i tag possono essere incusi uno nell altro es <p> questo è una <b>paragrafo</b></p>
+Il tag per includere le immagini si chiama <img> e si usa in questo modo:
+	<img src=”URL” alt=”Testo alternativo”>
+dove URL e’ la URL dell’immagine e testo alternativo e’ quello che viene visualizzato se
+ manca l’immagine.
 
-dove si mettono le immagini?
-Bisogna metterle sul proprio blog e non da qualche altra parte. Perchè?
-3 motivazioni:
-1. se tira giù immagine mi rimane immagine vuota sul mio blog
-2. 
-3. uso risorse degli altri per il mio sito (eccezioni sono google, facebook o siti fatti apposta per immagini che non saturano la loro banda).
+Il tag immagine è particolare perché non c'è del testo in mezzo. Inoltre non bisogna neanche chiuderlo (è un c.d. “tag vuoto”)
 
+Oltre agli attributi “src” e “alt” se ne possono usare anche altri, ad esempio “width” per
+ cambiare la larghezza dell'immagine, es:
+	<img src=”link...” width=”600%”>
 
-come è strutturato il blog
-nel css dico come è strutturato, si può suddividere in diverse sezioni la pagina. col css muovo tessere che ho creato
+Importante: tipicamente e’ bene che le immagini incluse nel proprio blog si trovino sul proprio blog e non da qualche altra parte, per 2 motivi:
+1. Se chi ospita tira giù l'immagine, rimane l'immagine vuota sul proprio blog
+2. Se l'immagine non è *hostata* sul proprio blog si usano risorse degli altri per il mio sito (eccezioni sono google, facebook o siti fatti apposta per immagini che non saturano la loro banda).
 
 ####CSS
-i fogli di stile si possono usare per muovere i dive in giro per lo schermo e settare altre preopiretà.
+Nei fogli di stile, o CSS, si specifica come deve essere strutturata una pagina HTML e si può suddividere in diverse sezioni (tipo “tessere” e denotati dal tag “<div>”) che si possono posizionare a piacimenti.
+
+Oltre a strutturare una pagina si possono usare per cambiare gli stili dei caratteri e altre cose sempre inerenti al *look* della pagina
+
 ci sono 3 modi per dichairare un css - slide 39
+1. in un file a parte
+ (un .css)
+2. all’inizio del documento HTML dichiarando lo stile delle clssi a inizio pagina e poi in ogni div dichiaro la classe.
+3. “inline” per un singolo tag
 
-css inline
-si dichiara come attributo di un certo tag.
-ad esempio vedi slide 40-41.
-dichiaro lo stile delle clssi a inizio pagina e poi in ogni div dichiaro la classe.
+Tumblr prepara una pagina con un
+ header, uno spazio per il blog post, una
+barra laterale e un footer
+. Scrivendo un blog post di fatto si va a
+ riempire lo spazio del blog post. Cambiando tema invece si cambia
+ il CSS di tutto quello che gli sta attorno.
 
-spostare i div usando css
-i div sono praticamente dei blocchi che possono essere assemblati per creare pagine web strutturate con header footer etc, non è necessario saperlo fare per il corso.
-
-il tema prende il macroblocchi e li sposta egli assegna degli stili. tutto ciò viene fatto usando la tecnolgia css
+#####CSS inline
+Il CSS inline si dichiara come attributo di un certo tag. In pratica si aggiunge l’attributo style=”...” a uno
+ specifico tag, per esempio:
+	<p style=”font-size=44%;”>Antani</p>
+Questo dice al browser che quando incontra
+ quello specifico tag '<p>' deve renderlo a
+ schermo con un font grande il 44% rispetto al normale.
 
 ####JavaScript
-si usa per rendere dinamiche le pagine. cosa si può fare funzionalmente?
-caricare nella chat di fb le conversazioni precedenti, caricare post sulla timeline quando si arriva alla fine, ricevere mesaggi nella chat di fb (se non ci fosse dovrei ricricare la pagina). 
-E' un liguaggio di programmazione con le solite cose e ha accesso alla struttura della pagine...es prendi dive ecambia il contenuto se è arrivato un nuovo messaggio
+Il JavaScript si usa per rendere dinamiche le pagine. Cosa si può fare funzionalmente?
+- Caricare contenuti dentro la pagina. Ad esempio: caricare nella chat di Facebook le conversazioni precedenti, caricare post sulla timeline quando si arriva alla fine
+- Aggiornare la pagina senza ricaricare tutto. Ad esempio: ricevere messaggi nella chat di Facebook (se non ci fosse dovrei ricaricare la pagina). 
 
-il tag "<"script">" serve per far caricare il codice javacript (slide 46) 
-quui termina la parte di cosa sta sotto il cofano
+E' un linguaggio di programmazione con le solite cose e ha accesso alla struttura della pagine, per esempio, appunto, può prendere div e cambiare il contenuto se è arrivato un nuovo messaggio.
+
+il tag "<"script">" serve per far caricare il codice JavaScript. 
 
 ####Cambiare il tema del blog
 Si può cambiare il tema scegliendo tra i temi di default o anche editando l’HTML (che contiene del JavaScript e del CSS)
 E' possibile scegliere temi gratis o a pagamento, se ne seleziona uno e in tempo reale si può veder come sarebbe il blog con un determinato tema. Una volta deciso il tema basta cliccare “utilizza” e viene applicato a tutto il blog.
-Sostanzialmente cambia css e qualche altra cosa, tuttavia bisogna ricordarsi che cambiando tema si perdono eventuali modifiche custom fatte al tema precedente.
+Sostanzialmente cambia il CSS e qualche altra cosa, tuttavia bisogna ricordarsi che cambiando tema si perdono eventuali modifiche *custom* fatte al tema precedente.
 
 ####Aggiungere immagini
-Bisogna integrarle nel proprio blog. Per aggiungerla basta andare sull'icona a forma di immagine e selezionare dal proprio pc quale immagine caricare. Per cambiare dimensione o centrarla potrebbe essere necessario modificare direttamente l'html.
+Nei blog post in generale è sempre bene integrare delle immagini. Per aggiungerle su Tumblr basta andare sull'icona a forma di immagine e selezionare dal proprio PC quale immagine caricare. Per cambiare dimensione o centrarla potrebbe essere necessario modificare direttamente l'HTML.
 
-Come fare a far capire dove ho preso l'immagine? la licenza non ingfluenza il voto e non è importantissima ma bisogna dire da dove proviene. Scrivo didscalia da dove proviene e descrizione e poi inserico link nella didascalia e dichiaro da dove l'ho presa
+Come fare a far capire dove ho preso l'immagine? la licenza non è fondamentale, ma bisogna dire da dove proviene e a chi appartiene. Queste informazioni possono essere aggiunte nella didascalia dell'immagine curandosi di inserire anche una descrizione e inserire il link di riferimento.
 
 ####Aggiungere licenza CC
-su Tumblr bisogna editare l'html:
-- andare su creativecommons.org/choose rispondo a questionario e mi viene proposta una 
-- NC non comercial è un arma a doppio taglio, qualcuno di commerciale potrebbe non usare la mia opera nonostante mi renderebbe famoso es rai con mia musica in spot
-- risposto al questionario mi viene fornito un pezzo di codice che dovrò incollare nel blog. customise->edit html-> devo andare subito prima del tag body di chiusura e incollarlo, se non mi piace posso inserirlo in un tag div o center e cambiare altra roba.
-Nel caso in cui cambiassi il tema perdo questa modifica, quindi occhio.
+Per aggiungere la licenza al blog, nel caso specifico una CC, su Tumblr bisogna editare l'HTML. 
 
-Apetto grafico è apprezzato, se non è fatto comunque non è penalizzante
+Procedura:
+- andare su creativecommons.org/choose rispondo a questionario e mi viene proposta una licenza
+- NC non commercial è un arma a doppio taglio, qualcuno di commerciale potrebbe non usare la mia opera nonostante mi renderebbe famoso. Es: spot TV con mia musica.
+- Risposto al questionario mi viene fornito un pezzo di codice che dovrò incollare nel blog. Copiare il codice.
+- Andare sul proprio blog, su “customise” e poi su “edit HTML”
+- Andare sul tag body di chiusura e incollarlo, se non mi piace posso inserirlo in un tag div o “align = center” e cambiare altri attributi.
+- Nel caso in cui si cambiasse il tema si perderebbe questa modifica.
 
 ####Embedding di un video
 ci sono 2 modi:
-1. nella dashboard c'è il pulante per condividere video. viene furoi video in cima con breve descrizione di testo sotto
-2. copio e incollo html di youtube nel mio html della pagina
+1. nella dashboard c'è il pulsante per condividere video. viene fuori video in cima con breve descrizione di testo sotto
+2. copio e incollo HTML di YouTube nel mio HTML della pagina
 
-perchè va bene se lo faccio e non devo citare nessuno? anche se è un video musicale?
+Perché va bene se lo faccio e non devo citare nessuno? anche se è un video musicale?
 -visibilità
--partnership: un pezzo degli introiti pubblicitari finisce a chi ha fatto il video. Se usiamo della musica proprietaria youtube ci toglie licenza cc al video e mostra pubblicità nel nostro video
+-partnership: un pezzo degli introiti pubblicitari finisce a chi ha fatto il video. Se usiamo della musica proprietaria YouTube ci toglie licenza cc al video e mostra pubblicità nel nostro video
 
 ####Aggiungere la pagina about
-Perchè si sappia chi siano gli autori. "gruppo di studenti del Politecnico e che si sappia perchè pubblichiamo - facciamo parte di un corso che si occupa di questo tema". Serve agli utenti per sapere quanto fare affidamento a determinate informazioni. Se non si mette pagina about non si può sapere questa informazione e non si riesce ad essere affidabili.
+Perché si sappia chi siano gli autori. "gruppo di studenti del Politecnico” e che si sappia perché si pubblica (interesse personale, obbligati ecc.). Ad esempio: “facciamo parte di un corso che si occupa di questo tema". 
 
-processo per farlo:
--vai su customise
--add a page
--scegliere url pagina, titolo e editare contenuto
+La pagina about serve agli utenti per sapere quanto fare affidamento a determinate informazioni. Se non si mette pagina about non si può sapere questa informazione e non si riesce ad essere affidabili.
 
-####Post bello vs post brutto
+processo per farlo su Tumblr:
+- andare su customise
+- add a page
+- scegliere URL pagina, titolo e editare contenuto
+
+####Consigli pratici - post bello vs post brutto
 Bello:
 - titolo
 - paragrafi corti
 - link impliciti
-- immagini (lenzuolate di tesot e basta non sono facili da leggere e annoiano)
+- immagini (lenzuolate di testo e basta non sono facili da leggere e annoiano)
 - pezzi di testo linkato e non link espliciti
 - firma al post
 - tag a fine pagine
-- citazione diretta (esiste lo strumento citazione su tumblr che crea l'effetto grafico di spostare a destra e sfondo grigio): da qualche parte deve esserci scritto da dove ho preso la frase. Link ipertestiale all'introduzione della citazione, ma meglio scrivere sotto la fonte
+- citazione diretta (esiste lo strumento citazione su Tumblr che crea l'effetto grafico di spostare a destra e sfondo grigio): da qualche parte deve esserci scritto da dove ho preso la frase. Link ipertestuale all'introduzione della citazione, ma meglio scrivere sotto la fonte
 
 da non fare:
 - a capo nel paragrafo
 - nessuna immagine
 - link espliciti
-- elenco di fonti in fondo (magari con link espliciti): html è una rivoluzione perchè mette in relazione strettissima contenuti e fonti tramite collegamenti impertestuali. Mettere tutti i link in fonde rende più difficile l'esperienza per il lettore.
+- elenco di fonti in fondo (magari con link espliciti): HTML è una rivoluzione perché mette in relazione strettissima contenuti e fonti tramite collegamenti ipertestuali. Mettere tutti i link in fonde rende più difficile l'esperienza per il lettore.
 
-queste cose verranno usate per valutare la parte formale del sito. vengono anche valutati i contenuti, tra cui fallacie logiche, opinioni non argomentate, gravi errori di grammatica o sintassi.
+queste cose verranno usate per valutare la parte formale del blog. Vengono anche valutati i contenuti, tra cui fallacie logiche, opinioni non argomentate, gravi errori di grammatica o sintassi.
 
 ###Crap detection
-quello che leggo è valido oppure no?
-Siamo in una società in cui la responsabilità dei cittadini è molto più alte. Una volt c'erano emettitori di verità elevati quali stato, religione, padri di famiglia.
-Noi come cittadini dobbiamo capire per poter decidere e partecipare. Da un lato ci sono le autorità come il sole 24 ore o la Repubbblica, dall'altra c'è internet e vari blog post. La quantità di informazioni e la discordanza tra loro è veramente discordante.
+La *crap detection* è fatta nell'ottica di sapere se ciò che si sta leggendo sia valido oppure no.
 
-Ad esempio cosa succede in ucraina? tanto materiale sembra propaganda. vedere se fonti sono citate, quali sono, sono verificabili.
-iun pezzo di quello detto sul lato scrivere ci dovrebbe rendere consapevoli su cosa leggere per sapere se chi scrive è affidabile
+Siamo in una società in cui la responsabilità dei cittadini è molto più alta di una volta. Una volta c'erano emettitori di verità elevati quali stato, religione, padri di famiglia.
 
-eccezioni al copyright per cronaca satira etc
+Noi come cittadini dobbiamo capire per poter decidere e partecipare. Da un lato ci sono le autorità come il sole 24 ore o la Repubblica, dall'altra c'è Internet e vari blog post. La quantità di informazioni e la discordanza tra loro è veramente discordante.
+
+Ad esempio cosa succede in Ucraina? tanto materiale sembra propaganda. 
+
+Alcuni criteri per verificare le informazioni sono:
+- Vedere se fonti sono citate, quali sono, sono verificabili.
+- Sapere se chi scrive è affidabile
+- se la notizia puzza di bufala andare a vedere sui siti antibufale se è una notizia già indicizzata
+
+
 
 ##Video su YouTube (lezione 10)
 
