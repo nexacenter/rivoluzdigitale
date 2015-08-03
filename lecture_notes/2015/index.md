@@ -2437,70 +2437,88 @@ Alcuni criteri per verificare le informazioni sono:
 
 ##Video su YouTube (lezione 10)
 
-linguaggio audiovisivo sempre più importante , ora che ognuno può comunicarci attraverso, gli autori siamo noi. Imprese e corsi a numero chiuso chiedono sempre di più una presentazione video del candidato.
+Il linguaggio audiovisivo è sempre più importante. Ora che ognuno può comunicarci attraverso e gli autori siamo noi (senza l'intervento di specialisti del settore), sia imprese che corsi a numero chiuso chiedono sempre di più una presentazione video del candidato.
 
-Risoluzione dei video sempre maggiore
-accesso a YouTube, ci vuole un account Google
-dai dispositivi mobili facilissimo pubblicare un video
+Trend degli ultimi anni:
+- Risoluzione dei video sempre maggiore
+- Dai dispositivi mobili è facilissimo pubblicare un video
+- Accesso a YouTube facilita la condivisione (ci vuole un account Google)
 
-quando pubblicate video metterlo con setting di privacy "non in elenco"
-Se lo mettete privato non sarà valutato anche perché non sarà accessibile
+###Consigli pratici
+Importante per pubblicare video per il corso:
+- Privacy: pubblicare video con setting di privacy "non in elenco", attenzione a non metterlo “privato”, non sarà accessibile a nessuno tranne che al pubblicatore (quindi non potrà essere valutato)  
+- Formato: registrare il video tenendo il cellulare (o un altro dispositivo di registrazione) in posizione orizzontale (modalità landscape)  
+- Audio: occhio all'audio - non ci sono strumenti su YouTube per alzarlo
+- Licenza: usare ai fini del corso la licenza Creative Commons (attribuzione – l'unica CC di YouTube).
 
-video registrato tenendo il cellulare in posizione orizzontale (modalità landscape)
-occhio all'audio - non ci sono strumenti su YouTube per alzarlo
-usare licenza creative commons (attribuzione) che tra l'altro è l'unica che si trova su YouTube
 
-serie di miglioramenti del video: luce, contrasto, saturazione, ritagliare il video (parte iniziale e parte finale)
+###Ritocchi al video - Strumenti YouTube per migliorare il video
+E' possibile apportare una serie di miglioramenti del video: luce, contrasto, saturazione, ritagliare il video (parte iniziale e parte finale).
+Salvare il video prima di uscire sennò modifiche non rimangono.
+E' inoltre disponibile un cursore per preferire audio o musica, modificarlo a piacimento ma tenendo sempre presente che si senta la voce di chi parla.
+Oltre all'audio di sfondo si possono inserire una serie di elementi al video tipo fumetti titoli e nodi. Si può scegliere quando l'elemento grafico apparirà
 
-salvare il video prima di uscire sennò modifiche non rimangono
-cursore per preferire audio o musica, fare attenzione che il video si senta
-oltre all'audio si possono inserire una serie di elementi al video tipo fumetti titoli e nodi. Si può scegliere quando l'elemento grafico apparirà
+Tutti questi tool sono presenti su YouTube di default, ma ce ne sono altri da usare su desktop più efficienti e con più opzioni.
 
-tutti questi tool sono di default di YouTube ma ce ne sono altri da usare su desktop più efficienti e con più opzioni.
-settare nel tab il video su pubblico - un altro tab rispetto a quello della privacy
+	Reminder: settare nel tab il video su pubblico - un altro tab rispetto a quello della privacy
 
-###Video ai fini del corso
+###Regole del video per il corso
 1- un video per ognuno, video di gruppo si può fare ma è un di più. Video tra 30 sec e 1 minuti. Video postato su piattaforma di hosting (youtube, vimeo)
-2- settare la licenza: qualunque contenuto deve usare licenza creative commons per essere tutto in CC - se non lo fate venite penalizzati
+2- settare la licenza: qualunque contenuto deve usare licenza creative commons per essere tutto in CC – chi non lo fa è penalizzato ai fini del corso
 
-estro creativo se non inficia il contenuto è molto ben accetto
-descrivere prima se stessi e poi i contenuti del blog, non trascurare la parte su se stessi
+	per la valutazione: l'estro creativo se non inficia il contenuto è molto ben accetto
 
-lista di musiche in CC: su JAMENDO - oppure su Google filtrando risorse in CC
+Contenuti: Descrivere prima se stessi e poi i contenuti del blog, non trascurare la parte su se stessi
 
-##Wikipedia
+Risorse audio in CC: lista di musiche in CC: su JAMENDO - oppure su Google filtrando risorse in CC
 
-accesso libero alla conoscenza umana - pima era chiusa in monasteri e poi nei libri.
-Wikipiedia è basata su comunità di volontari che cambia nel tempo e che sono accomunati solo dalla voglia di contribuire
+##Wikipedia (lezione 10)
+
+Wikipedia nasce con l'idea di fornire accesso libero alla conoscenza umana – fino a pochi secoli fa era chiusa in monasteri e successivamente nei libri, ora grazie anche a Wikipedia è liberamente consultabile online.
+Wikipiedia è una enciclopedia libera e collaborativa ed è basata (scritta e gestita) su una comunità di volontari che cambia nel tempo e che sono accomunati solo dalla voglia di contribuire
+
+	“Immagina un mondo in cui ad ogni singola persona
+	sul pianeta è dato libero accesso a tutto il patrimonio
+	della conoscenza umana”
 
 ###5 pilastri di wikipedia
 Wikipedia si basa sui seguenti 5 pilastri:
-- Wikipedia è un enciclopedia, non produce contenuti ma li riporta. se non c'è fonte viene riportato e bisogna migliorare la voce
-- Wikipedia ha un  punto di vista neutrale: devono esserci tutti i punti di vista
+- Wikipedia è un'enciclopedia, non produce contenuti ma li riporta. se non c'è fonte viene riportato che bisogna migliorare la voce
+- Wikipedia ha un punto di vista neutrale: devono esserci tutti i punti di vista
 - Wikipedia è libera
-- Wikipedia ha un codice di condotta: chi viola il codice viene anche bannato in caso
+- Wikipedia ha un codice di condotta: chi viola il codice viene anche bannato (in caso sia necessario)
 - Wikipedia non ha regole fisse
 
-
 ###la comunità
-condivide:
+Condivide:
 - obiettivi
 - principi
 - fiducia: anche se si sbaglia non viene visto male
 - 5 pilastri
 
 Differisce:
-vedi slide
+- Interessi
+- Opinioni
+- Background
+- Umorismo
 
 Decisioni tramite consenso, ambiente in continua evoluzione e validazione tramite trasparenza e responsabilizzazione
 
-punto di forza: grandi numeri e diversità...maggiori numeri maggiori punti di vista, diversità più probabile nei grandi numeri.
-Su Wiki 80% maschi e 20% femmine, quindi c'è una maggioranza di contenuti di interesse maschili su Wikipedia - effetti collaterali di essere wikipediano
+Punto di forza: grandi numeri e diversità – maggiori sono i numeri maggiori sono punti di vista, la diversità più probabile nei grandi numeri.
+C'è solo un piccolo inconveniente: su Wikipedia ci sono 80% maschi e 20% femmine, quindi c'è una maggioranza di contenuti di interesse maschili.
 
 ###Modificare le voci di Wikipedia
-modifica wikitesto si accede al codice della pagina tipo html, su modifica semplice si accede ad un editore tipo word "what you see is what you get"
+Per modificare il *wikitesto* si accede al codice della pagina che è simile tipo all'HTML oppure, su modifica semplice, si accede ad un editore tipo word "what you see is what you get"
 
-progetti fratelli - wikiquote (aforismi di persone importanti) - wikisource (digitalizza libri di pubblico dominio e aggiunta informazioni tipo indice cliccabile e alte info (collegamenti ipertestuali), wikimedia commons (file con licenza aperta video, immagini ecc)
+###progetti fratelli 
+- wikiquote: aforismi di persone importanti)
+- wikisource: digitalizza libri di pubblico dominio e aggiunta informazioni tipo indice cliccabile e alte info (collegamenti ipertestuali)
+- wikimedia commons: mette a disposizione file multimediali con licenza aperta tipo video, immagini ecc
+- ...
 
-editando Wikipedia la somma della conoscenza umana non è solo il lettura ma anche in scrittura e quindi si aumenta di molto.
+###Conclusioni Wikipedia
+Editando Wikipedia la somma della conoscenza umana non è solo il lettura ma anche in scrittura e quindi si aumenta di molto.
 
+	“Immagina un mondo in cui ogni essere umano può
+	condividere liberamente la somma di tutta la
+	conoscenza umana”
