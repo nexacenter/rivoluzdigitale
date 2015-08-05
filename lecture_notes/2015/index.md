@@ -2522,3 +2522,5 @@ Editando Wikipedia la somma della conoscenza umana non è solo il lettura ma anc
 	“Immagina un mondo in cui ogni essere umano può
 	condividere liberamente la somma di tutta la
 	conoscenza umana”
+
+Per imparare a editare Wikipedia: https://en.m.wikipedia.org/wiki/Wikipedia:The_Wikipedia_Adventure (fonte:)
