@@ -1322,63 +1322,74 @@ Ad esempio il telefono da sempre sarebbe potuto essere uno strumento di comunica
 ##Tecnologie della comunicazione (lezione 11)
 
 ###introduzione
-<Citazione di Perotti per lezione precedente: inserire in appunti>
-<citazione di vespasiano da bisticci e sulla bellezza dei libri>
-ci vogliono 50 anni prima che i libri a stampa inizino ad essere belli quanto i libri scritti a mano (nonostante fossero monocromatici).
-Da metà del 500 i manoscritti diventano una curiosità, una eccezione. 500 anni per innovazione libro vs rotolo, 100 anni per tecnica di stampa che divenga predominante.
+Ci vogliono 50 anni prima che i libri stampati inizino ad essere belli quanto i libri scritti a mano (nonostante fossero monocromatici).
+Da metà del 500 i manoscritti diventano una curiosità, una eccezione.
+In precedenza ci vollero 500 anni affinché l'innovazione libro prendesse il sopravvento sul rotolo. Nel caso della stampa ci vogliono solo 100 anni affinché la tecnica di stampa divenga predominante.
 
-due modelli da lezione nove che abbiamo applicato a diverse tecnologie. Questo modello ci dice che nasce prima la scienza, poi si passa l'idea e si va allo sviluppo dei primi prototipi (ci si avvicina da scienza a tecnologia), e ciò che gli fa fare il salto di qualità è una necessità sociale
+Secondo il modello di B. Winston nasce prima la scienza, poi si passa all'idea con il conseguente sviluppo dei primi prototipi (ci si avvicina da scienza a tecnologia), ma ciò che fa fare il salto di qualità è una necessità sociale.
 
-Per qualsiasi invenzione ci sono stati tantissimi inventori, tuttavia, per capacità imprenditoriale, per fortuna, per ingegno, solo uno diventa l'inventore che viene ricordato.
-Per ogni tecnologia c'è una fase fluida, poi si afferma uno standard e rimarrà così. Oggi per internet siamo ancora nella fase abbastanza fluida in cui si può plasmare ancora e indirizzare la direzione che prenderà nel futuro per i nostri figli.
+Per qualsiasi invenzione ci sono stati tantissimi inventori, tuttavia, per capacità imprenditoriale, per ingegno o per buona sorte, solo uno diventa l'inventore che viene ricordato.
 
+Per ogni tecnologia c'è una fase fluida in cui vengo prodotti diversi protoripi che si basano su una setssa idea. Successivamente si afferma uno standard che rimarrà così anche in futuro. 
+
+Oggi per internet siamo ancora nella fase abbastanza fluida in cui si può plasmare ancora e indirizzare la direzione che prenderà nel futuro per i nostri figli.
 Un esempio è il telefono nel 1903 poteva essere uno a molti, poi si è effettuata la scelta di renderlo punto punto e così è rimasto fino ai tempi nostri.
 
 ###La telegrafia
-Il telegrafo: cercando di capirlo con gli schemi della lezione 9. Trasmissione dei messaggi a distanza senza lo scambio di un supporto fisico. Tutto ciò che si basa sull'elettromagnetismo è quindi telegrafia, la radio all'inizio si chiamava telegrafo senza fili.
-Ad esempio il semaforo è telegrafia, il piccione viaggiatore no.
-Nel senso ampio del termine anche i segnali di fumo, segnali ottici e bandiere fanno tutti parte della telegrafia
+Per telegrafia si intende la **trasmissione dei messaggi a distanza senza lo scambio di un supporto fisico**. Tutto ciò che si basa sull'elettromagnetismo è quindi telegrafia, tant'è che la radio all'inizio fu chiamata **telegrafo senza fili**.
+
+	Il semaforo è telegrafia, il piccione viaggiatore no.  
+
+Nel senso ampio del termine anche i segnali di fumo, i segnali ottici e le bandiere fanno tutti parte della telegrafia
 
 ####Storia e tecnologia della telegrafia
 #####La telegrafia ottica
-usata fin dall'antichità per le torri saracene.
-Nel 1792 torri distanti circa 30km una dall'altra, questa rete di telegrafi ottici ebbe una certa importanza perché la usò Napoleone nella sua campagna in Europa. Un problema che abbassava l'efficienza e quindi alzava i costi, si comunicavano 2 parole al minuti (ok per i governi ma non per aziende cittadini) funzionavano bene solo con buona visibilità (con bel tempo e buona visibilità)
+La telegrafia ottica fu usata fin dall'antichità, ad esempio per le torri saracene.
+Nel 1792 in Francia, fu costruito un sistema di torri (inventato da Claude Chappe) distanti circa 30km una dall'altra per trasmettere segnali ottici. Questa rete di telegrafi ottici ebbe una certa importanza, la usò Napoleone nella sua campagna in Europa. 
+
+Problemi del sistema che abbassavano l'efficienza (e quindi alzavano i costi): 
+ - velocità di trasmissione: si comunicavano 2 parole al minuto (ok per i governi ma non per aziende cittadini)
+ - funziona bene solo con buona visibilità (con bel tempo e buona visibilità)
 
 #####Il telegrafo elettrico
-All'inizio dell'800 (?) col passaggio al telegrafo elettrico:
- - si riesce ad avere un funzionamento 24 su 24 (rispetto alla telegrafia ottica)
+Col passaggio al telegrafo elettrico all'inizio dell'Ottocento:
+- si riesce ad avere un funzionamento 24 su 24 (rispetto alla telegrafia ottica)
 - ci vuole infrastruttura di fili
 - funziona in tutte le condizioni
-- 30 parole al minuti
--costi ridotti di 30 volte
+- Aumenta la velocità di trasmissione a 30 parole al minuto
+- costi ridotti di 30 volte
 
-dimostrazione di diversi inventori per una tec:
-- 1804: Francisco Salva-Campillo: elettrochimica, ogni filo rappresentava una lettera dell'alfabeto in cui se veniva usata una bolla veniva usata la lettera - troppo costoso avere 35 fili difficile da implementare ma l'idea si stava fomrando  
-- 1809: Samuel Thomas von Sömmering - telegrafi elettrochimici molti fili in parallelo (fino a 35) per rappresentare lettere alfabeto latino e cifre  
-- 1832:primo telegrafo elettro-magnetico inventato da Pavel Schilling  
-- 1833: Gauss a Gottinga gauss e weber costruiscono il primo telegrafo per comunicazioni regolari. (vedi slide). Utilizzano un alfabeto binario con inversione di corrente. il primo a usare e formalizzare un sistema binario fu Leibnitz, è il primo che sviluppo l'aritmetica binaria. Inoltre aveva intuito che sarebbe stato più affidabile costruirci una macchina sopra che avendo due stati sarebbe stata più stabile. Piccolo telegrafo ma funzionante  
-- 1836: in Pennslania David Alder costruisce il primo telegrafo usa ma non lo sviluppa in un sistema di pratico utilizzo.  
+#####Tanti inventori una sola idea – la storia del telegrafo
+Come per quasi tutte le tecnologie anche per il telegrafo si è passata per la cosiddetta fase liquida (prima che venisse determinato il c.d. *dominant design*), in cui l'idea di base era di poter comunicare a distanza senza lo scambio di un supporto fisico. 
 
-Università umboltiana dopo invasione di napoleone in Prussia. Humbolt riforma l'istruzione in Germania dove la ricerca diventa la migliore al mondo e tutti gli studiosi nel mondo vanno lì a studiare.
+In ordine cronologico le diverse invenzioni furono:
+- 1804: Francisco Salva-Campillo inventa un telegrafo elettrochimico. E' un sistema composto da diversi fili in cui ogni filo rappresenta una lettera dell'alfabeto. Se  su un determinato filo viene fatta passare una bolla vuol dire che viene trasmessa una determinata lettera. Problema: è troppo costoso avere canali con 35 fili ed è difficile da implementare.  
+- 1809: Samuel Thomas von Sömmering implementa una soluzione composta da telegrafi elettrochimici che usano molti fili in parallelo (fino a 35) per rappresentare lettere alfabeto latino e cifre numeriche.  
+- 1832:fa la comparsa il primo telegrafo elettro-magnetico inventato da Pavel Schilling.  
+- 1833: a Gottinga Gauss e Weber costruiscono il primo telegrafo per comunicazioni regolari tra l'Osservatorio e l'Istituto di Fisica (copre la distanza di circa 1Km). Utilizzano un alfabeto binario con inversione di corrente.
+Il primo a usare e formalizzare un sistema binario fu Leibnitz, che tra le altre cose sviluppò l'aritmetica binaria. Intuì inoltre che sarebbe stato più affidabile costruirci una macchina sopra che avendo due stati sarebbe stata più stabile. Piccolo telegrafo ma funzionante  
+- 1836: in Pennsylvania David Alder costruisce il primo telegrafo negli Stati Uniti ma non lo sviluppa in un sistema di pratico utilizzo.  
+- 1837-1839: accade il salto di qualità. In Inghilterra il primo telegrafo commerciale viene sviluppato da William Fothergill e Charles Wheatstone. Brevettato ne 1837, dimostrato nello stesso anno a Londra. Viene usato per la prima volta commercialmente nel 1839 sulla Great Western Railway (21 km)  con lo scopo principale di favorire le **comunicazioni ferroviarie**. Se c'è un binario solo è fondamentale sapere dove si trovano i treni per gestire il traffico. Il telegrafo va a colmare questa necessità e a questo punto diventa una attività commerciale. In poco tempo l'uso del telegrafo è sempre più ampio. La necessità sociale per il telegrafo era quindi per necessità ferroviarie (vedi slide per dettagli)
+- 1837: viene indipendentemente sviluppato e brevettato un telegrafo negli U.S.A da Samuel Morse che sviluppa anche il codice Morse. La prima dimostrazione pubblica avviene nel New Jersey (3km) nel gennaio del 1838.
 
-Nel 1837-1839 c'è il salto di qualità. In Inghilterra il primo telegrafo sviluppato da William Fothergill e Charles Wheatstone. Il suo principale interesse è la ferrovia. Se c'è un binario solo è fondamentale sapere dove si trovano i treni per gestire il traffico. Il telegrafo va a colmare questa necessità e a questo punto diventa una attività commerciale l'uso del telegrafo è sempre più ampio. La necessità sociale per il telegrafo era quindi per necessità ferroviarie (vedi slide per dettagli)
+Per quanto riguarda la vecchia tecnologia, i segnalatori ottici non si usano più dal 1880, quindi ci mettono 50 anni ad essere soppiantati dalla nuova tecnologia (il telegrafo elettrico).
 
-Nel 1837 indipendentemente sviluppato e brevettato negli U.S.A da Samuel Morse, sviluppa il codice morse. 
+Nei due decenni successivi c'è un rapido sviluppo su tutto il continente. Il 24 ottobre 1861 viene stabilita la connessione tra la costa Est e quella Ovest degli Stati Uniti, a causa di questa tecnologia si perde utilità del *Pony Express*.
 
-E' normale che ci siano inventori più di uno per stessa invenzione, successo per quasi tutte le invenzioni.
+#####il telegrafo – le prime volte
+Già la segnalazione ottica era una rete di comunicazione, questa però è la prima rete elettrica per comunicare.
 
-i segnalatori ottici non si usano più dal 1880 quindi ci mettono 50 anni ad essere soppiantati dalla nuova tecnologia.
+La prima rete si sviluppa dove c'è l'inventore (negli Stati Uniti), ma in questo caso è la prima volta che la tecnologia si espanda a macchia d'olio diventando prima nazionale poi internazionale e poi globale in breve tempo.
 
-Nei due decenni successivi rapido sviluppo su tutto il continente. Il 24 ottobre 1861 connessione tra costa est e ovest, si perde utilità del pony express.
-già la segnalazione ottica era una rete di comunicazione. tuttavia questa è la prima rete elettrica. La prima rete si sviluppa dove c'è l'inventore, per la prima volta capita con il telegrafo che si espanda a macchia d'olio diventando prima nazionale poi internazionale e poi globale.
+Per la prima volta ci sono importanti sussidi pubblici per la creazione della rete. Milioni di pali e uso del suolo, c'è bisogno di un permesso pubblico per poter tagliare gratuitamente alberi e usare suolo pubblico per stendere reti per il telegrafo. Negli Stati Uniti vengono erogati sussidi pubblici al privato per costruire le infrastrutture (in Europa saranno azioni intraprese direttamente dagli Stati senza intermediazione del privato).
 
-Per la prima volta ci sono importanti sussidi pubblici per la creazione della rete. Milioni di pali e uso del suolo, c'era bisogno di permesso pubblico per poter tagliare gratuitamente alberi e usare suolo pubblico per stendere reti per il telegrafo. - sussidi pubblici al privato per costruire infrastruttura.
+Viene stabilita la comunicazione transatlantica nel 1866. Già prima, nel 1857 e nel 1858 viene provata la posa di un cavo transatlantico, che però funziona solo per pochi giorni. In quegli anni si sviluppano le teorie su come trasmettere a distanza le informazioni
 
-prima del 61, cioè nel 57 e nel 58 provarono le prime volte a posare un cavo transatlantico funzionano per pochi giorni e poi si rompono. Primo cavo operante nel 1866.
-In quegli anni si sviluppano le teorie su come trasmettere a distanza le informazioni
+Alla fine dell'800 viene stipulato il primo trattato internazionale per uso dei cavi.
 
-alla fine dell'800 primo trattato internazionale per uso dei cavi.
-Inghilterra connessa con india nel 1870, l'Australia 2 anni dopo e infine il cavo viene teso nel pacifico nel 1902 e il telegrafo arriva a coprire tutto il globo. Il telegrafo è stato internet dell'era vittoriana, lo diciamo oggi per l'impatto sociale che ha avuto.
+L'Inghilterra si connette con L'India nel 1870, l'Australia 2 anni dopo e infine il cavo viene teso nel pacifico nel 1902 e il telegrafo arriva a coprire tutto il globo. 
+
+**Il telegrafo è stato Internet dell'era vittoriana, lo diciamo oggi per l'impatto sociale che ha avuto.**
 
 ####impatto sociale
 Prima del telegrafo a parte per i segnalatori ottici l'informazione viaggiava al massimo  alla velocità degli esseri umani o degli animali
