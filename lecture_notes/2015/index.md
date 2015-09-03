@@ -1376,7 +1376,7 @@ Per quanto riguarda la vecchia tecnologia, i segnalatori ottici non si usano pi�
 
 Nei due decenni successivi c'è un rapido sviluppo su tutto il continente. Il 24 ottobre 1861 viene stabilita la connessione tra la costa Est e quella Ovest degli Stati Uniti, a causa di questa tecnologia si perde utilità del *Pony Express*.
 
-#####il telegrafo – le prime volte
+#####Le prime volte del telegrafo
 Già la segnalazione ottica era una rete di comunicazione, questa però è la prima rete elettrica per comunicare.
 
 La prima rete si sviluppa dove c'è l'inventore (negli Stati Uniti), ma in questo caso è la prima volta che la tecnologia si espanda a macchia d'olio diventando prima nazionale poi internazionale e poi globale in breve tempo.
@@ -1389,65 +1389,65 @@ Alla fine dell'800 viene stipulato il primo trattato internazionale per uso dei 
 
 L'Inghilterra si connette con L'India nel 1870, l'Australia 2 anni dopo e infine il cavo viene teso nel pacifico nel 1902 e il telegrafo arriva a coprire tutto il globo. 
 
-**Il telegrafo è stato Internet dell'era vittoriana, lo diciamo oggi per l'impatto sociale che ha avuto.**
+####Impatto sociale del telegrafo
+	Il telegrafo è stato l'Internet dell'era vittoriana, lo diciamo oggi per l'impatto sociale che ha avuto.
 
-####impatto sociale
-Prima del telegrafo a parte per i segnalatori ottici l'informazione viaggiava al massimo  alla velocità degli esseri umani o degli animali
-nel 1870 9 milioni di telegrammi in USA -> enorme sviluppo economico tant'è che trenta anni dopo si passa a 60 milioni di telegrammi.
+Prima del telegrafo, a parte per i segnalatori ottici, l'informazione viaggiava al massimo  alla velocità degli esseri umani o degli animali.
+Nel 1870 vengono spediti 9 milioni di telegrammi negli USA in quegli anni si assiste anche a un enorme sviluppo economico tant'è che trenta anni dopo, nel 1900, si passa a 63 milioni di telegrammi scambiati solo negli USA.
 
-Il primo utilizzo è stato di business. Cioè poter madre il proprio catalogo prezzi, mandare offerte commerciali, in quel periodo diventa possibile fare un contratto giuridicamente vincolante via telegrafo.
-Solo successivamente iniziano i telegrammi per usi personali, per avvertire che si è arrivati, per le condoglianze, per occasioni importanti della vita.
+Il primi utilizzi furono per **motivi commerciali**. Cioè poter madre il proprio catalogo prezzi, mandare offerte commerciali ecc. In quel periodo diventa possibile  sottoscrivere un contratto giuridicamente vincolante via telegrafo.
+Solo successivamente verranno usati i telegrammi a scopo personale, ad esempio per avvertire che si è arrivati, per le condoglianze, per occasioni importanti della vita.
 
-Forte impatto sul giornalismo, molti giornali inglesi hanno il nome "telegraph" all'interno. Si potevano dare notizie nel giro di ore dall'altra parte del mondo e non più di ore. Il linguaggio dei media si standardizza e adotta un linguaggio che ora chiamiamo giornalistico, un linguaggio oggettivo e piano. L'informazione non gira solo più localmente ma si diffonde in tutto il modo, asettico oggettivo, senza usare termini non comprensibili facilmente.
+Il telegrafo ha avuto un forte **impatto sul giornalismo**. Molti giornali inglesi hanno il nome "telegraph" nel nome del giornale. Si potevano dare notizie nel giro di ore dall'altra parte del mondo e non più di giorni. Il linguaggio dei media si standardizza, l'informazione non gira solo più localmente ma si diffonde in tutto il globo. Viene adoperato un **linguaggio asettico e oggettivo**, senza usare termini non comprensibili facilmente.
 
-In quel periodo si affermano modelli di business per i giornali, c'è qualcuno che aggrega le notizie e poi le rivende ai giornali. In Italia c'è l'ANSA, che raccoglie notizie e chi è abbonato all'ansa può avere notizie real time e pubblicarle. Qualcuno allora pensa di creare dei *wire services*, Paul Reuters nel 1852 oppure anche AP associative press associazione di giornalisti che si comunicano notizie tra di loro <to check>. La base di questi business erano informazioni che arrivavano via telegrafo.
+In quel periodo si affermano modelli di business per i giornali, inoltre c'è qualcuno che aggrega le notizie e poi le rivende ai giornali. Vengono creati i cosiddetti *wire services*. Tra i primi ci furono Paul Reuters nel 1851 e anche AP *associated press* (associazione di giornalisti che si comunicano notizie tra di loro). Queste attività commerciali erano basate su informazioni che arrivavano via telegrafo. In Italia c'è l'ANSA che raccoglie notizie, chi è abbonato all'ANSA può avere notizie real time e pubblicarle.
 
-Altri utilizzi sono le applicazioni per le quotazioni di borsa, notizie in tempo reale su una strisciolina con tutte le quotazioni. La strisciolina è rimasta anche ai giorni nostri in certe emittenti TV che trasmettono news e che fanno vedere una strisciolina con le news in breve
+Un'altra applicaizone immediata del telegrafo fu per ottenere le quotazioni di borsa. Le notizie in tempo reale venivano stampate su una strisciolina con tutte le quotazioni. La strisciolina è rimasta anche ai giorni nostri in certe emittenti TV che trasmettono news e che fanno vedere una strisciolina spesso in fondo allo schermo con le news in breve
 
-####Il contesto e le organizzazioni
-questa fase dal punto di vista storico, nella seconda metà dell'800 è molto importante. In quell'epoca dci sono state una serie di riforme tecnologiche che ancora oggi stanno plasmando il mondo. Nascono le grandi organizzazioni aziendali e le grandi burocrazie. Ci sono aziende che risalgono al Medioevo tuttavia nella sua accezione organizzata nasce nella seconda metà dell'800.
+####Il telegrafo – il contesto e le organizzazioni
+Da un punto di vista storico la seconda metà dell'800 è molto importante. In quest'epoca ci sono state una serie di riforme tecnologiche che ancora oggi stanno plasmando il mondo. Nascono le grandi organizzazioni aziendali e le grandi burocrazie. Ci sono aziende che risalgono al Medioevo, tuttavia il termine azienda nella sua accezione organizzata nasce nella seconda metà dell'800.
 
-Il telegrafo favorisce lo sviluppo di grande organizzazioni, prima non era possibile mantenerle e sostenerle nel tempo. Il telegrafo è la precondizione. Prima c'erano già gli eserciti tuttavia non erano permanenti. le organizzazioni permanenti sono concepibili soltanto se è possibile gestire il flusso di informazioni, senza non è possibile mantenere una coerenza all'interno.
+Il telegrafo favorisce lo sviluppo di grande organizzazioni, prima non era possibile mantenerle e sostenerle nel tempo. Il telegrafo è la precondizione. Prima c'erano già gli eserciti ma non erano permanenti. Le organizzazioni permanenti sono concepibili soltanto se è possibile gestire il flusso di informazioni, senza non è possibile mantenere una coerenza interna.
 
-Queste grosse organizzazioni sono spinte in avanti da una serie di innovazioni dall'inizio nel 1860 ci sono 36 mila brevetti dal 60 al 90 440 mila. il brevetto on sempre è un buon indice tuttavia una volta era molto più difficile ottenerlo quindi può essere un valido indicatore in questo contesto per misurare l'innovazione. 
+Queste grosse organizzazioni sono spinte in avanti da una serie di innovazioni. Dall'inizio nel 1860 ci sono 36 mila brevetti dal 60 al 90 440 mila (il brevetto on sempre è un buon indice tuttavia una volta era molto più difficile ottenerlo quindi può essere un valido indicatore in questo contesto per misurare l'innovazione). Alcune sono: 
+ - Gli edifici elevati. Prima con la costruzione di mattoni si potevano solo costruire edifici di 4-5 piani. Con tecnologie costruttive più evolute e con il bisogno di far stare nello stesso luogo diverse persone per farle collaborare si affinano le costruzioni e si incominciano a costruire edifici in mattoni anche di 10 piani.
+- Nasce il prototipo della macchina da scrivere. Era già sviluppata in Italia ma non commercializzata, la prima nasce quindi negli Stati Uniti: la *Sholes and Glidden*. La prima ad essere commercializzata è la *qwerty*, qwerty dall'ordine dei tasti. L'ordine dei tasti (che rimane ancora oggi sulle nostre tastiere) fu adottato affinché non si incrociassero le levette, è rimasta fino ai giorni nostri a causa della *path dependency* - si potrebbe innovare usando una configurazione più efficiente ma non avviene mai perché ormai la gente è abituata alle tastiere qwerty.
+- Le calcolatrici, diventa possibile effettuare grandi moli di calcoli. Già nel 600 fu inventata la tavola dei logaritmi e fin dall'antichità si era consapevoli della noia e della difficoltà di fare calcoli, la calcolatrice risolve questa esigenza sociale. Queste calcolatrici sono state usate fino agli anni 80 del 900.
+- Il telefono, inventato nel 1896. anche in questo caso all'inizio ne viene fatto un utilizzo puramente commerciale.
+- Il motore a combustione interna, la pignone a Firenze, e poi la otto-langen nel 1863 in Germania
+- la prima automobile ideata da Karl-Benz nel 1886.
+- La ferrovia che si sviluppa nella seconda metà dell'800. Prima del 1871 c'erano circa 72000 km di binari, tra il 1871 e il 1900 ne vengono agigunti altri 272000
+- L'utilizzo domestico dell'elettricità. Nel 1878 Edison brevetta la lampadina a filamento di carbonio. Le prime prove furono fatte con un filamento di bambù bruciato, il giapponese che la inventa poi crea la Nippon electric corporation (la NEC).
 
-Inoltre prima con la costruzione di mattoni si potevano solo costruire edifici di 4-5 piani. Con tecnologie costruttive più elevate e con il bisogno di far stare nello stesso luogo diverse persone per farle collaborare si affinano le costruzioni e si incominciano a costruire edifici in mattoni anche di 10 piani.
+####Il telegrafo secondo il diagramma di B.Winston
 
-Nello stesso periodo nasce il prototipo della macchinina da scrivere, che già era sviluppata in Italia ma non commercializzata, la prima nasce quindi negli Stati Uniti la *Sholes and Glidden*. La prima ad essere commercializzata è la *qwerty*, qwerty dall'ordine dei tasti. L'ordine dei tasti (che rimane ancora oggi sulle nostre tastiere) fu adottato affinché non si incrociassero le levette, è rimasta fino ai giorni nostri a causa della *path dependency* - si potrebbe innovare usando una configurazione più efficiente ma non avviene mai perché ormai la gente è abituata alle tastiere qwerty.
-
-Terza innovazione: le calcolatrici, incomincia a diventare possibile e fare grandi moli di calcoli.
-già nel 600 fu inventata la tavola dei logaritmi...fin dall'antichità si era consapevoli della noia e della difficoltà di fare calcoli. Queste calcolatrici sono state usate fino agli anni 80.
-
-Altra innovazione in quegli anni, il telefono, inventato nel 1896. anche qui l'inizio è un utilizzo puramente commerciale.
-
-Altra innovazione: il motore a combustione interna, la pignone a Firenze, e poi la otto-langen nel 1863 in Germania...inoltre Karl-Benz idea la prima automobile nel 1886.
-
-La ferrovia si sviluppa nella seconda metà dell'800 (vedi slide)
-
-infine, per ultima, l'utilizzo domestico dell'elettricità. Nel 1878 Edison brevetta la lampadina a filamento di carbonio, si prova con un filamento di bambù bruciato, il giapponese che la inventa poi crea la Nippon electric corporation cioè la NEC.
-
-####il telegrafo secondo il diagramma di B.Winston
 --- immagine slide 27 del 29-04 ---
 
 spinoff del telegrafo - il telefono che si vedeva come evoluzione del telegrafo anche la televisione si incominci a sviluppare in questo tempo, mandando immagini quali piantine e progetti per telegrafo con specifiche applicazioni.
 
+###Gli inventori tedeschi e l'università Humboltiana
+Nell'Ottocento diversi studiosi inventori di spicco studiarono in Germania, ciò è dovuto all'Università Humboltiana. Dopo l'invasione di Napoleone in Prussia Humbolt riforma l'istruzione in Germania dove la ricerca diventa la migliore al mondo [senti lezione per aggiunte].
+
 ###Il telefono
-1667 robert hooke crea il telefono acustico (filo teso)
-1849 Antonio Meucci dimotra un dispositivo all'Avana (tuttavia non si sa se questo fosse solo elettromagnetico o avesse anche componenti chimici o acustici)
-1854: meucci mostra un altro progetto a New York
-1861: Johann Reis trasmette elettricament ela voce su una distanza di circa 110 metri
-1864: Innocenzo Manzetti, per dare voce al suo automa musicale, inventa il telegrafo parlante. Se ne parla sui giornali ma non brevetta nulla
-1865: Meucci legge di Manzetti e gli scrive senza risposta
-1871: Meucci presenta una domanda di brevetto per un telegrafo sono ma non descrive un telefono elettromagnetico
-1872: Prf. vanderwyde mostra il telefono di Reis a New York
-1873-1875: Thoma edison elisha grau e graham bell lavorano freneticamente al telefono per appropriarsi dei brevetti. Ciascuno riesce ad ottenere dei risultati parziali
 
-14 febbraio 1876 alle 11:30 bell deposita brevetto
-nel 7 marzo 1876 il brevetto us viene concesso a bell
-10 marzo prima trasmissione di voce " mr watson come here"
-10 agosto prima chiamata a lunga distanza 10km...la radio arriverà solo 20 anni dopo
+####Cronistoria del telefono
+- 1667 Robert Hooke crea il telefono acustico (filo teso);  
+- 1849 Antonio Meucci dimostra un dispositivo all'Avana (tuttavia non si sa se questo fosse solo elettromagnetico o avesse anche componenti chimici o acustici);  
+- 1854: Meucci mostra un altro progetto a New York, ma non è chiaro cosa sia;  
+- 1861: Johann Reis trasmette elettricamentela voce su una distanza di circa 110 metri;  
+- 1864: Innocenzo Manzetti, per dare voce al suo automa musicale, inventa il telegrafo parlante. Se ne parla sui giornali ma non brevetta nulla;  
+- 1865: Meucci legge di Manzetti e gli scrive senza risposta;  
+- 1871: Meucci presenta una domanda di brevetto per un Telegrafo Sonoro ma non descrive un telefono elettromagnetico;  
+- 1872: Il Professor Vanderwyde mostra il telefono di Reis a New York;  
+- 1873-1875: Thomas Edison, Elisha gray e Graham Bell lavorano freneticamente al telefono per appropriarsi dei brevetti. Ciascuno riesce ad ottenere dei risultati parziali;  
+- 14 febbraio 1876 alle 11:30 l'avvocato di Bell deposita all'Ufficio Brevetti la domanda di brevetto per il telefono (Elisha Gray arriva alle 13:30);  
+- 7 marzo 1876 il brevetto US n. 174,465 viene concesso a Bell
+- 10 marzo prima trasmissione di voce di "Mr Watson, come here"
+- 10 agosto prima chiamata a lunga distanza (10km). La radio arriverà solo 20 anni dopo
 
-inventare secondo edison era "1% inspiration, 99% perspiration" persoration = sudore. Nonostante l'importanza dell'idea e della creatività che si da oggi c'è cmq bisogno di persistenza e sudore
+Inventare secondo Edison era 
+	1% inspiration, 99% perspiration
+Nonostante l'importanza dell'idea e della creatività che si da oggi c'è cmq bisogno di persistenza e sudore (Perspiration = sudore).
 
 ####la prima rete telefonica
 Prima "rete" punto-punto. Due dispositivi e un filo - romanzo di camilleri la percezione del telefono. Utilizzo molto limitatoooo, il vero potenziale si concretizza quando tutti i telefoni incominciano ad essere collegati tra loro. Ogni persona collegata alla centrale che poi smista, prima a mano, poi automaticmaente, poi digitalmente (punto punto via stella)
