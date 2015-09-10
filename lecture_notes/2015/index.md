@@ -1445,40 +1445,90 @@ Nell'Ottocento diversi studiosi inventori di spicco studiarono in Germania, ciò
 - 10 marzo prima trasmissione di voce di "Mr Watson, come here"
 - 10 agosto prima chiamata a lunga distanza (10km). La radio arriverà solo 20 anni dopo
 
-Inventare secondo Edison era 
-	1% inspiration, 99% perspiration
-Nonostante l'importanza dell'idea e della creatività che si da oggi c'è cmq bisogno di persistenza e sudore (Perspiration = sudore).
+Inventare secondo Edison era: 
+	1% inspiration, 99% perspiration  
+Nonostante l'importanza dell'idea e della creatività che si da oggi c'è comunque bisogno di persistenza e sudore (Perspiration = sudore).
 
-####la prima rete telefonica
-Prima "rete" punto-punto. Due dispositivi e un filo - romanzo di camilleri la percezione del telefono. Utilizzo molto limitatoooo, il vero potenziale si concretizza quando tutti i telefoni incominciano ad essere collegati tra loro. Ogni persona collegata alla centrale che poi smista, prima a mano, poi automaticmaente, poi digitalmente (punto punto via stella)
+	Per inventare la lampadina,
+ Edison e i 
+	suoi collaboratori provarono
+ (si dice) 
+	6.000 materiali diversi per il filamento,
+	tra cui 1.200 diversi tipi di bambù (fonte:
+	 https://threestepsoverjapan.wordpress.com/science/edison-and-japan/).
+	 Il tipo di bambù alla fine prescelto
+ è il bambù 
+	madake, originario di
+ Yawata (non lontano da Kyoto, Giappone).
 
-Soppressione del potenziale radicale telefono uno-uno e non uno-molti. Ci sono stati tanti tentativi di telefonia uno-molti. Per un lungo periodo chi vendeva telefoni, a parte applicazione business, per decenni hanno cercato di dare una motivazione per comprare il telefono. Una applicazione era trasmettere l'opera via telefono, tuttavia non è mai stata resa a disponibile a tutti la possibilità di trasmettere (soppressione del ptenziale radicale). Con internet non è ancora successo ciò.
+####La prima rete telefonica
+All'inizio Bell crea la prima rete a Boston e vende il servizio come “punto-punto”. Venivano installati I due telefoni e poi veniva teso un filo tra loro.
 
-Il telefono ci ha messo molto ad espandersi, all'inizio del 900 solo il 10% delle persone possedeva un telefono.
+Esempio di utilizzo: Collegamento diretto tra fabbrica di fiammiferi e stazione dei pompieri oppure collegamento tra azienda e succursale oppure ancora collegamento tra villa e scuderia (romanzo di Camilleri sulla concezione del telefono). 
 
-####L'effetto rete
-il beneficio dei partecipanti della rete cresce con la rete stessa, più è grande la rete più grande è il beneficio dell'utente. Esempio FB se fossi solo non avrebbe valore, vale anche per il telefono. Più una rete telefonica ha abbonati più mi conviene scegliere quella rete. Con la telefonia diventa assolutamente evidente. Con il brevetto per 20 anni bell ha il monopolio, quando scade il brevetto nascono centinaia di operatori. 
-All'inizio del 900, anni 10,20, è capitato che le persone cercassero di iscriversi ai provider con più utenti ed è capitato che i grandi provider cercassero aggressivamente di comprare quelli più piccoli per superare la massa critica. Ciò tendeva al monopolio, e lo stesso succede con FB e Google. QUesto periodo tuttavia dura relativamente poco perchè l'azienda di bell tramite varie pratiche corrette e meno corrette diventa monopolista e acquisice tutti.
+L'utilizzo di questa configurazione del telefono è molto limitato, il vero potenziale si concretizza quando tutti i telefoni incominciano ad essere collegati tra loro. Per fare ciò c'era bisongo di una tecnologia che gestisse gli scambi (gli *exchange*), cioè quelle macchine su cui lavorano delle donne in cui mettono degli spinotti. Ogni persona è collegata alla centrale che poi smista, prima a mano (mettendo gli spinotti manualmente), poi sempre più automaticamente e successivamente digitalmente (punto punto via stella)
 
-In Italia successe lo stesso, c'erano diversi opertori privati e capitò che a fine anni 20 inizio 30 l'economia entra in crisi e anche l'industria del telefono. Gli industriali italiani si rifiutano (praticamente) di aiutare l'azienda telefonica e allora il governo acquisisce la SIP come conseguenza del disinteresse del capitalismo verso l'azienda.
-In franci italia ecc ci sono monopli pubblici, in America un monopolio privato di AT&T controllato cmq dal governo fino allo smembramento negli anni 80 ...quindi spese tanto col fiato del governo sul collo su ricerca e sviluppo (i bell labs).
+–-immagine email JC –-
 
-I usa nascono le prime leggi antritrus, anticorpo al monopolio, per evitare la concentrazione del potere economico. Sherman act applicato severamente fino agli anni 70. Sono gli anni dei "robber barons" anche in ambito petrolifero (rockfeller, poi standard oil (SO), poi esso) e delle ferrovie.
-Gli imprenditori vivevano in ambienti con mlte pressioni, in america c'era un grande sentimento democratico fino alla prima guerra mondiale, si construirono quindi diverse fondazioni (per elenco senti audio)
+####il telefono – soppressione del potenziale radicale
+Con l'invenzione di centrali telefoniche sempre più automatizzate era possibile sviluppare un telefono uno a molti invece che uno a uno. Ci furono diversi esperimenti, per un lungo periodo (decenni) chi vendeva telefoni, a parte applicazione business, cercò di dare una motivazione ai potenziali utenti per comprare il telefono, la gente semplicemente non capiva quale potesse essere l'utilità. Una applicazione per rendere il telefono appetibile fu trasmettere l'opera via telefono, cioè usare il telefono come uno a molti. Tuttavia non fu mai stata resa disponibile al singolo la possibilità di trasmettere (soppressione del potenziale radicale) a più di una persona. Con internet non è ancora successo ciò ma si potrebbe andare anche in questa direzione nel caso si applicasse la soppressione del potenziale radicale.
+
+Il telefono puntava a entrara nelle case, ma la sua adozione fu lentissima, ancora all'inizio del 900, 30 anni dopo la sua invenzione, solo il 10% delle famiglie americane possedeva un telefono.
+
+####L'effetto rete e il monopolio delle comunicazioni
+Per la prima volta se ne parla con il telefono. L'effetto rete è quando in una rete il beneficio dei partecipanti alla rete cresce con il numero dei membri della rete stessa, più è grande la rete più grande è il beneficio dell'utente.
+
+Esempio: se su Facebook fossi solo non avrebbe valore
+
+Più una rete telefonica ha abbonati più è conveniente scegliere quella determinata rete. Con la telefonia questo effetto diventa assolutamente evidente.
+
+Grazie alla sua invenzione, Bell detiene il monopolio per 20 anni (durata del brevetto) sullo sfruttamento commerciale del telefono. Quando scade il brevetto nascono centinaia di operatori.
+
+Negli anni 10 e 20 del 900, le persone che volevano avere un telefono cercano di iscriversi ai provider con più utenti. I grandi provider quindi comprano aggressivamente quelli più piccoli per superare la *massa critica* di utenti per fare scattare l'effetto rete, creando di fatto un mercato tendente al monopolio (ora succede succede con Facebook e Google).
+
+Il periodo di concorrenza tra I diversi fornitori del serviizo telefonico durò poco (in certe città si era arrivati a più di 20 operatori che non comunicavano tra loro). L'azienda di Bell, sfruttando le sue capacità già acquisite e tramite varie pratiche più o meno corrette diventò monopolista e acquisì tutti I concorrenti.
+
+In Italia successe la stessa cosa. Si crearono diversi operatori privati, ma a fine anni 20 inizio 30 l'economia entrò in crisi insieme anche all'industria del telefono. Gli industriali italiani si rifiutarono (nei fatti) di aiutare l'azienda telefonica e il governo si trovò ad acquisire la SIP (Società Idroelettrica Piemontese) come conseguenza del disinteresse del capitalismo.
+
+In Francia ed in Italia si creano dei monopoli pubblici, mentre negli Stati Uniti si crea il monopolio privato della AT&T che fino al suo smembramento negli anni Ottanta fu comunque sotto il controllo del governo (che gli impose ad esempio di spendere cifre elevate nella ricerca e sviluppo, rendendo di fatto famosi I Bell Labs)
+
+####L'antitrust
+Gli Stati Uniti sono I primi a sviluppare una sorta di anticorpo contro I monopoli.  Per evitare la concentrazione del potere economico, nasce la prima legge antitrust con lo Sherman Act del 1890. Lo Sherman Act viene applicato severamente fino agli anni 70 in diversi ambiti da quello ferroviario a quello petrolifero. Gli anni 50-60-70 sono quelli dei *robber barons* (e.g.: Rockfeller con I suoi giacimenti di petrolio - standard oil (SO), poi esso).
+I robber barons vivevano in ambienti con molte pressioni, negli Stati Uniti c'era un grande sentimento democratico fino alla prima guerra mondiale, vennero quindi  costituite  diverse fondazioni dagli imprenditori per guadagnarsi la stima del pubblico. Ad esempio la fondazione Ford, la fondazione Carnegie (che finanziò migliaia di biblioteche pubbliche in tutta l'America), oppure l'università di Stanford (ricco ferroviere). Queste fondazioni fino ad oggi sono una fonte di finanziamento per tutta la ricerca su temi di vario tipo in tutti gli Stati Uniti.
 
 ####Le prime reazioni al telefono
-scatola misteriosa che emetteva voci - magia mistica o follia - traduci pezzo su slide
-I markettari dei 70-80 credevano che il pubblico andasse educato - bell spese molto in pubblicitàà - anche per convincere la gente che non era possibile prendere malattie. Gli imprenditori telefonici nei primi anni cercavano di trovare degli usi per il telefono.
+Il telefono veniva visto come una scatola misteriosa che emetteva voci, quasi come magia mistica o follia, come dimostra questo estratto preso da (fonte:) “Comparative Diffusion of the Telephone and the World Wide Web: An Analysis of Rates of Adoption” di Chen e Crawston, 1997:
 
-Alla fine il vero utilizzo incontestabile era per fare affari a distanza. Quando le persone per motivi lavorativi incominciavano ad usare il telefono per lavoro incominciarono ad usarlo per motivi privato...molto lentamente però tant'è che nel 1902 solo i 10% delle case aveva un telefono.
+	“In the 1860s, people expected that a human  
+	being's voice could be transmitted in distance  
+	through different media but also believed that  
+	human speech was sacred and should not be
+  	carried by electricity. Thus, the very idea of the  
+	telephone generated supernatural fear and
+  	uneasiness for the public at large in the 1870s  
+	[Brooks 1975] while others thought of the
+  	telephone as a ridiculous and impractical toy.  
+	During that era, people were not able to accept
+  	the fact that a mysterious box could emit a
+  	human voice when no one was there; and this
+  	situation could only be explained by either
+  	mystical magic or insanity”  
+
+Gli esperti di marketing degli anni 70-80 credevano che il pubblico andasse educato tant'è che Bell spese molto in pubblicità mirate anche anche a convincere la gente che non era possibile prendere malattie con l'uso del telefono. Gli imprenditori telefonici nei primi anni cercarono anche di trovare degli usi alternativi per il telefono in modo da renderlo più attraente (ad esempio con la trasmissione in broadcast di notizie, concerti ecc.).
+
+Alla fine il vero utilizzo che emerse fu quello per fare affari a distanza. Quando Una volta sdoganato in ambito lavorativo, il telefono iniziò a prendere piede anche per gli usi privati. Questo processo fu molto lento però (nel 1902 solo i 10% delle case aveva un telefono negli Stati Uniti).
 
 ####Il diagramma di B.Winston per il telefono
-la vera necessità sociale era ltd inc, cioè business, azienda moderna, grossa orgnaizzazione, beneficia dal telefono.
-legge della soppressione del potenziale radicale - one to one system
 
-####curve di adozione
-varrie curve di adozione messe a confronto in un immagine
+--- immagine slide 62 del 2015-04-29 ---
 
+Vera necessità sociale era ltd inc: cioè business, azienda moderna, grossa organizzazione, beneficia dal telefono.
+legge della soppressione del potenziale radicale. one to one system
+
+####Le curve di adozione
+varie curve di adozione messe a confronto in un immagine
+
+--- immagine slide 63 del 2015-04-29 ---
 
 ###La radio
 1885: Heinrichs Hertz prova che si può trasmettere elettricità a distanza usando le onde elettromagnetiche
