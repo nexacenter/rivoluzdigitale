@@ -1566,8 +1566,6 @@ In Europa il modello di business è diverso, esattamente come per il telefono la
 
 Sempre in questi anni la radio incomincia a ricever fortissime pressioni. Per riempire I buchi nella programmazione si vorrebbero trasmettere notizie via radio, ma l'industria precedente, cioè la stampa la reputano come concorrenza sleale. La BBC non poté trasmettere notizie per anni, nel frattempo le testate giornalistiche comprano le radio e le resistenze al cambiamento si attenuano.
 
-------------- continua da qui: minuto 39:48
-
 nel 1926 negli USA viene votato il nuovo Radio Act. La discussione sul Radio Act è molto interessante poiché si nota come gli americani fossero già consapevoli che la avrebbe avuto un ruolo centrale nella democrazia e come questo strumento possa essere uno strumento di informazione e di propaganda molto efficace.
 
 La prima guerra mondiale è il momento in cui viene inventata la propaganda moderna e gli americani sono molto avanti (tant'è che saranno ammirati anche da Hitler). Nel 1926 con il Radio Act, viene creata l'autorità indipendente per la regolazione delle trasmissioni radio, la FCC.
