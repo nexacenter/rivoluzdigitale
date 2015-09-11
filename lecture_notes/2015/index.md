@@ -1531,39 +1531,63 @@ varie curve di adozione messe a confronto in un immagine
 --- immagine slide 63 del 2015-04-29 ---
 
 ###La radio
-1885: Heinrichs Hertz prova che si può trasmettere elettricità a distanza usando le onde elettromagnetiche
-1892-95: tesla e altri inventori (popov, turpain, ecc) fanno altri esperimenti
-1896: Guglielmo Marconi, senza dare un contributo scientifico, ha capito che l'altezza dell'antenna era fondamentale per trasmettere a lunga distanza, riesce così a ricevere e trasmettere a 6 km di distanza. All'età di 22 anni capisce subito l'aspetto di business, non è un grande scienziato ma un lungimirante imprenditore. Si rivolge al governo italiano ma viene ignorato, grazie alla sua madre inglese,va a Londra. Inghilterra in quegli anni è la capitale dell'impero britannico. Va a Londra brevetta (brevetto che vale quasi ovunque visto che era così esteso il regno britannico). Prima di creare azienda ma dopo aver brevettato, si rivolge a un dirigente delle poste. 
+####Storia della radio
+- 1875: Heinrichs Hertz prova che si può trasmettere elettricità a distanza usando le onde elettromagnetiche (basandosi sulle teorie di Maxwell
+- 1892-95: tesla e altri inventori (Popov, Turpain, ecc) fanno altri esperimenti
+- 1896: Guglielmo Marconi allora studente all'Università di Bologna, senza dare un contributo scientifico, ha capito che l'altezza dell'antenna era fondamentale per trasmettere a lunga distanza, riesce così a ricevere e trasmettere a 6 km di distanza. All'età di 22 anni capisce subito l'aspetto di business della sua scoperta, non è un grande scienziato ma un lungimirante imprenditore. Si rivolge al governo italiano ma viene ignorato, grazie alla sua madre inglese,va a Londra (l'Inghilterra in quegli anni è la capitale dell'impero britannico) e brevetta (brevetto che vale quasi ovunque visto che era così esteso il regno britannico). Prima di creare azienda ma dopo aver brevettato, si rivolge a un dirigente delle poste per commercializzare la sua idea e trovare la necessità sociale che intravede delle opportunità in ambito navale. Le navi allora comunicavano con segnali ottici e bandiere. 
+La marina aveva sempre avuto un problema di comunicazione tra navi e tra nave e base a terra. Viene subito capito che la radio poteva essere fondamentale per la nautica. Inoltre in questi anni vengono costruite le prime corazzate, resistenti ma molto grosse e lente da manovrare. Le navi devono essere così lontane tra di loro che non sono più in contatto ottico e la radio diventa ancora più fondamentale (in quegli anni stavano costruendo tutti corazzate). 
+Ottenuto l'interlocutore Marconi crea l'azienda monopolista che fornisce radio in ambito nautico. Fino alla prima guerra mondiale è Marconi il monopolista, dopo viene requisito il brevetto dal governo. Trasmette attraverso la manica  
+- 1898: in parallelo Popov dimostra comunicazione via radio tra base navale e navi in mare  
+- 1890: tra la Russia e la Finlandia si registra il primo salvataggio di una nave grazie alla radio.  
+- 1891: si ripete la stessa storia del 1890 negli Stati Uniti.  
+- 1901: Marconi trasmette la lettera S dall'Irlanda al Canada - per la curvatura terrestre non sarebbe possibile, è stato possibile grazie allo strato di ioni nell'atmosfera.  
+- 1902: un articolo su Scientific America dal titolo: "Come costruire un efficiente apparato di telegrafia senza fili a basso costo" fa I modo che I primi amatori possano costruirsi la propria radio. Succederà la stessa cosa negli anni 70 dove si acquistavano i pezzi via posta per costruirsi un personal computer.
 
-La marina aveva sempre avuto un problema di comunicazione tra navi e tra nave e centrale. Per cui capiscono che la radio poteva essere fondamentale per la nautica. In questi anni vengono costruite le prime corazzate, resistenti ma molto grosse e lenti da manovrare. le navi devono essere così lontane tra di loro che non sono più in contatto ottico. In quegli anni stavano costruendo tutti corazzate. 
-L'Inghilterra intravede il potenziale - necessita sociale: ambito militare in specifico nautico. Fino alla prima guerra mondiale è Marconi il monopolista, dopo viene requisito il brevetto dal governo.
-trasmette attraverso la manica
+Nello spazio di una decina d'anni (1902-1912), fino alla prima guerra mondiale molti amatori sperimentano diverse cose, tutti sperimentavano e facevano ciò che volevano (analogia con Internet anni 80-90). Questa fase termina con la prima guerra mondiale (pericoloso interferire con trasmissione militari). Dal 1918 verrà creato l'impianto normativo per regolamentare le trasmissioni radiofoniche che rimarrà fino ai giorni nostri.
 
-in parallelo nel 1898 Popov dimostra comunicazione tra base navale e navi in mare
-nel 1990 si registra il primo salvataggio di una nave grazie alla radio.
+Inizialmente tutti pensano che la non riservatezza della radio sia un problema, la radio per sua natura infatti è *broadcast*. A un certo punto a qualcuno viene in mente che è possibile sfruttare questa comunicazione uno a molti pubblica, si riesuma la parola settecentesca "broadcast" cioè lanciare ampiamente (gesto del contadino per spargere i semi).
 
-nel 1901: Marconi trasmette la lettera S dall'Irlanda al Canada - per la curvatura terrestre non sarebbe possibile, è stato possibile grazie allo strato di ioni nell'atmosfera
-nel 1902: articolo su scientific american dal titolo: " come costruire un efficiente apparato di telegrafia senza fili a basso costo". Succederà la stessa cosa negli anni 70 dove si acquistavano i pezzi via posta per costruirsi un personal computer.
+Tra le prime applicazioni pubbliche, nel 1906 alla vigilia di Natale qualcuno trasmette via radio sul Nord dell'Atlantico della musica. Nel 1912 subito prima della Prima Guerra Mondiale gli americani promulgano la prima legge, la Radio Act, in cui si limitano le frequenze utilizzabili e la potenza trasmissiva.
 
-Nello spazio di una decina d'anni, fino alla prima guerra mondiale molti amatori sperimentano diverse cose, tutti sperimentavano e facevano ciò che volevano. Questa fase termina con la prima guerra mondiale (pericoloso interferire con trasmissione militari). Dal 1918 verrà creato l'impianto normativo che rimarrà fino ai giorni nostri.
+Nel 1912 affondò il Titanic. In molti dicono che in quegli anni c'era molta interferenza (tanti trasmettevano su bande poco selezionate) senza questa interferenza forse si sarebbe potuto evitare il disastro.
 
-Inizialmente tutti pensano che la non riservatezza della radio sia un problema, la radio per sua natura è broadcast. A un certo punto a qualcuno viene in mente che sia possibile sfruttare questa comunicazione uno a molti pubblica, si riesuma la parola settecentesca "broadcast" cioè lanciare ampiamente (gesto del contadino per spargere i semi).
+Nel 1920, si è capita l'utilità dell'informazione broadcast, nasce la prima stazione radiofonica negli Stati Uniti, viene trasmessa musica a fedeltà molto bassa e vengono trasmesse notizie.
 
-Tra le prime applicazioni pubbliche, nel 1906 alla vigilia di natale trasmette via radio sul nord dell'atlantico musica. nel 1912 subito prima della prima guerra mondiale gli americani fanno la prima legge.
-In quell'anno tra 'altro successe il problema del Titanic, in molti dicono che in quegli anni c'era molta interferenza (tanti trasmettevano su bande poco selezionate) senza questa interferenza forse si sarebbe potuto evitare il disastro.
-nel 1920 nasce la prima stazione radiofonica negli stati uniti - viene trasmessa musica a fedeltà molto bassa e viene trasmesse notizie.
-In questi primi anni non si capisce il modello di business di una stazione radio. In America agli esordi le università adottarono la radio per trasmettere lezioni e si ha la credenza che la radio diventerà un servizio municipale. Non fosse che la radio corporation of america crea la prima stazione radio seria, modello di business: chiunque vuole trasmettere qualcosa viene da noi per un'ora o un periodo di tempo paga e può trasmettere. Inizialmente si pensava a chiesa, governi, politici ecc. Questo sistema avrebbe creato un sistema a due strati separati (un po' come internet oggi), questo modello all'inizio non decolla, quindi incomincia a trasmettere il trasmettitore. Il trasmettitore incomincia a diventare un produttore di contenuti. A questo punto però c'è un problema di modello di business, chi mi paga i contenuti che sto creando...? la pubblicità, piccoli buchi in mezzo alla programmazione che ripaga il costo della produzione di contenuti. ora con la criptazione sono possibili modelli di business in cui paga l'utente
+####Modello di business della radio
+In questi primi anni non si capisce il modello di business di una stazione radio. In America agli esordi le università adottarono la radio per trasmettere lezioni e si ha la credenza che la radio diventerà un servizio municipale (come le bande municipali). 
 
-Adottano il modello che proprio a New York era stato adottato per i giornali e il modello di business incomincia a diventare quello.
-In Europa diventa un altro, esattamente come per il telefono, la radio diventa un monopolio pubblico che esclude assolutamente la pubblicità (ancora oggi come la BBC). 
-In questi anni la radio incomincia a ricever grandissimi pressioni, sopratutto per il fatto che i giornali lo reputano come concorrenza sleale, tant'è che la bbc non poté trasmetter per anni. Comunque i giornali incominciano a comprare le radio e la tensione si attenua.
+La radio Corporation of America crea la prima stazione radio seria, modello di business iniziale: chiunque vuole trasmettere qualcosa viene da noi per un'ora o un periodo di tempo paga e può trasmettere. Inizialmente si pensava che potessero essere interessati clienti come sindacati, chiese, governi, politici ecc. Questa idea avrebbe creato un sistema a due strati separati (un po' come internet oggi), chi trasmette e chi fornisce contenuti. Questo modello all'inizio non decolla, quindi incomincia a trasmettere il trasmettitore (chi possiede le apparecchiature). Il trasmettitore incomincia a diventare un produttore di contenuti. 
 
-negli USA si ha percezione e si è usata la propaganda via radio durante la prima guerra mondiale, molto evoluto, ammirato anche da Hitler. Nel 1926 legge radio act, creazione autorità indipendente per la regolazione delle trasmissioni radio da parte dell FCC.
+A questo punto però c'è un problema di modello di business, chi  paga i contenuti che vengono prodotti? La pubblicità. Vengono lasciati piccoli buchi in mezzo alla programmazione che ripagano il costo della produzione di contenuti (ora con la criptazione delle frequenze sono possibili modelli di business in cui paga l'utente).
 
-–-- immagine radio e sviluppo ---. iron lads= corazzate
-ostilità di industri precedenti rallentano lo sviluppo
- 
-A inizio del 900 la Bell si prende una grossa paura, pensando che la radio possa soppiantare il telefono e pensano che si possano creare telefoni wireless portatili. Si creano i Bell labs come reazione alla paura di essere schiacciati dall'innovazione.
+Viene quindi adottato il modello di business che proprio a New York era stato adottato per i giornali.
+
+In Europa il modello di business è diverso, esattamente come per il telefono la radio diventa un monopolio pubblico che esclude assolutamente la pubblicità (ancora oggi in alcuni casi come per la BBC). 
+
+Sempre in questi anni la radio incomincia a ricever fortissime pressioni. Per riempire I buchi nella programmazione si vorrebbero trasmettere notizie via radio, ma l'industria precedente, cioè la stampa la reputano come concorrenza sleale. La BBC non poté trasmettere notizie per anni, nel frattempo le testate giornalistiche comprano le radio e le resistenze al cambiamento si attenuano.
+
+------------- continua da qui: minuto 39:48
+
+nel 1926 negli USA viene votato il nuovo Radio Act. La discussione sul Radio Act è molto interessante poiché si nota come gli americani fossero già consapevoli che la avrebbe avuto un ruolo centrale nella democrazia e come questo strumento possa essere uno strumento di informazione e di propaganda molto efficace.
+
+La prima guerra mondiale è il momento in cui viene inventata la propaganda moderna e gli americani sono molto avanti (tant'è che saranno ammirati anche da Hitler). Nel 1926 con il Radio Act, viene creata l'autorità indipendente per la regolazione delle trasmissioni radio, la FCC.
+
+
+####Il diagramma di B.Winston per la radio
+
+–-- immagine radio e sviluppo ---.
+- competenza: equazione di maxwell, telefonia, telegrafia
+- ideazione: Jungs 1872
+Hertz Popov
+- prototipi
+- invenzione: marconi, e poi l'inventore della valvola fleming e valvola de forest
+- Necessità sociale: iron lads (corazzate)
+- Soppressione potenziale radicale: ostilità di industri precedenti (telegrafo, telefono, giornali) rallentano lo sviluppo e poi acquisendole ne controllano I contenuti e l'evoluzione del mercato della radiofonica
+- Diffusione: comunicazioni transatlantica
+- Spinoff: TV e successivamente cellulari
+
+####La radio e I Bell labs
+A inizio del 900 la Bell si prende una grossa paura, pensando che la radio possa soppiantare il telefono e pensano che si possano creare telefoni wireless portatili. Vengono quindi creati i Bell labs come reazione alla paura di essere schiacciati dall'innovazione.
 
 ---- inizio lezione 12 ---
 Nel 1919 negli usa per atto del governo la british marconi company diventa la radio corporation of america (RCA)...monopolio privato.
