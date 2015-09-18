@@ -1628,26 +1628,39 @@ il fatto che sia condizionato da pubblicità condiziona l'utilizzo della radio (
 <Introduzione prof Losano>
 
 ###le origini del calcolo meccanico
-Charles Babbage matematico e inventore inglese. Si è occupato dei progressi tecnologici più pratici, tra cui le ferrovie.
-Venuto in Piemonte per linea Piemonte-Genova
-,fonda impresa di materiale ferroviario a Genova che poi è diventata la SALT
+Charles Babbage, Inglese, matematico, meccanici e inventore si è occupato dei progressi tecnologici più concreti, tra cui le ferrovie.
+Venuto in Piemonte per la linea ferroviaria Piemonte-Genova grazie all'interesse di Carlo Alberto
+, il suo traduttore poi fonderà l'impresa di materiale rotabile ferroviario a Genova che poi è diventata la Ansaldo
+. La macchina di Babbage non gli frutterà fortuna ma fu un precursore fondamentale della moderna macchina di calcolo.
 
-Babbage è punto di arrivo per meccanica Grecia classica, e punto di partenza per l'automatica moderna fino ad internet.
+Babbage è il punto di arrivo per la meccanica Greca classica e il punto di partenza per l'automatica moderna fino ad Internet.
 
 ####La meccanica greca
-La meccanica che conosciamo noi con le ruote dentate nasce con i greci. I romani hanno apportato organizzazione ma non hanno inventato molto. Macchine che si muovono da sole, gli automi, nascono con i greci, avevano uno scopo ludico, suscitavano meraviglia e stupore.
+La meccanica che conosciamo noi con le ruote dentate nasce con i greci. I romani hanno apportato un grande sviluppo nella organizzazione statale, ma per quanto riguarda la tecnologia si sono attenuti all'eredità classica ricevuta dai greci. I quali avevano già realizzato una serie di strutture, anche se semplici, pe sollevare dell'acqua, per macchine teatrali e anche macchine che si muovono da sole, cioè gli automi, che avevano uno scopo puramente ludico e suscitavano meraviglia e stupore.
 
-I greci scrivono i principi di meccanica, idraulica ecc, Ad Alessandria con la grande biblioteca venne recepita tutta la cultura greca, nel 600 dc decade tutta la cultura greca e romana. I custodi rimangono gli alessandrini e i greci per poi diventare gli islamici che arrivano in Spagna e si portano dietro il bagaglio culturale dell'idraulica, meccanica e pneumatica greca. 
-Gli originali dei testi sono conservati via spagna dagli arabi (i monaci scrivevano "è greco non si capisce").
+I greci elaborano i principi fondamentali della meccanica, della pneumatica e dell'idraulica. La loro cultura viene ereditata dal cosiddetto Ellenismo, cioè nella zona alessandrina (di Alessandria di Egitto). Ad Alessandria con la grande biblioteca viene quindi recepita tutta la cultura greca (tra cui la cultura tecnologica), fino a quando dopo 600 d.C decade tutta la cultura classica greca e romana. I depositari di questa cultura rimangono i cultori alessandrini dei testi greci e successivamente gli arabi che progressivamente fino all'anno 1000 occupano tutte le sponde del mediterraneo per giungere fino alla Spagna, che diventa sede della cultura fiorente araba, che a quel punto includeva anche il bagaglio culturale dell'idraulica, della meccanica e della pneumatica greca tradotta in arabo. 
+
+Nel frattempo in Italia e in Grecia
+ la decadenza porta a dimenticare i testi tecnologici greci. Gli originali dei testi meccanici pneumatici e idraulici sono quindi stati conservati via Spagna dagli arabi. 
 
 ####L'arrivo in Italia e in Europa della meccanica
-Lentamente dall'Italia si è incominciato a capire che con la decadenza pre-rinascimentale avrebbe avuto fine andando in Spagna. Un tipo di Padova va a Toledo e se li traduce dall'arabo al latino. Gli arabi hanno conservato i fondamenti della meccanica moderna.
-1492 - scoperta America, ultima cacciata degli arabi dalla penisola iberica (fine del califfato), vengono cacciati li ebrei.
-dopo la cacciata "per effetto di basculazione" il popolo arabo si espande nei Balcani fino ad arrivare alle porte di Vienna (movimento pre-post 600). La meccanica salvata in modo curioso attraverso gli arabi e recuperata in epoca rinascimentale. Quando gli arabi occupano bisanzio molti eruditi che conoscevano la meccanica scappano in Italia dove vengono applicate le conoscenze meccaniche.
+Lentamente dall'Italia si è incominciato a capire che con la decadenza pre-rinascimentale della cultura classica, se si voleva ricostruire la tecnologia greca che si era progressivamente dimenticata, si doveva andare in Spagna. Incomincia una peregreinzazione dalla Lombardia verso Toledo, Gerardo da Cremona ad esempio va a Toledo e traduce i manuali di meccanica dall'arabo al latino. Gli arabi hanno conservato i fondamenti della meccanica moderna dando un gigantesco contributo alla meccanica moderna.
 
-innovazioni in : *deus ex machina* -> meccanismo teatrale per far calare la divinità dall'alto. anche nei mulini ecc
+Una data fondamentale è il 1492 in cui avviene scoperta America, l'ultima cacciata degli arabi dalla penisola iberica (fine del califfato), e vengono cacciati li ebrei (quelli non convertiti).
+Dopo la cacciata degli islamici avviene per effetto di “basculazione" che il popolo arabo si espande nei Balcani (creando la situazione che persiste tutt'oggi) fino ad arrivare alle porte di Vienna (movimento pre-post 600). 
 
-Gli arabi hanno fatto degli automi per effettuare misurazioni -> misurare sangue prelevato
+Dal punto di vista tecnologico, la meccanica è stata salvata in modo curioso attraverso gli arabi e recuperata dalla nostra cultura in epoca rinascimentale. Nel frattempo quando gli arabi occupano Bisanzio molti eruditi che conoscevano la lingua greca (che in Italia ormai si era persa) e la meccanica scappano in Italia dove apportano un contributo fondamentale per la riscoperta di questa tecnologia.
+
+innovazioni in : 
+ - mulini
+ - fabbriche di oggetti quotidiani
+ - idraulica
+ - macchine teatrali - Espressione *deus ex machina*: meccanismo teatrale per far calare la divinità dall'alto.
+
+Nello stesso periodo nascono anche meccanismi per la misurazione del tempo.
+
+Gli arabi hanno fatto degli automi per effettuare misurazioni delle quantità. La loro medicina era molto avanti, svilupparono infatti macchine per misurare sangue prelevato (flebotomia).
+
 misurazione del tempo -> prima: sole, clessidre, misure ad acqua -> nel 600-700  si sviluppano gli orologi meccanici -> si comincia ad applicare la meccanica a funzioni che prima venivano effettuati da altri strumenti meno precisi (quali la clessidra), meno precisi e che non potevano garantire la continuità nel tempo.
 
 ####Le prime macchine di calcolo
