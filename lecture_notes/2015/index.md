@@ -1657,57 +1657,89 @@ innovazioni in :
  - idraulica
  - macchine teatrali - Espressione *deus ex machina*: meccanismo teatrale per far calare la divinità dall'alto.
 
-Nello stesso periodo nascono anche meccanismi per la misurazione del tempo.
+Da questi meccanismi diventano sempre più raffinati e allo stesso tempo nascono anche meccanismi per la misurazione del tempo.
 
-Gli arabi hanno fatto degli automi per effettuare misurazioni delle quantità. La loro medicina era molto avanti, svilupparono infatti macchine per misurare sangue prelevato (flebotomia).
+Tornando agli arabi: gli arabi hanno fatto degli automi per effettuare misurazioni delle quantità. La loro medicina era molto avanti, svilupparono infatti macchine per misurare la quantità di sangue prelevato (flebotomia)
+. Sono i primi a creare dei meccanismi per misurare.
 
-misurazione del tempo -> prima: sole, clessidre, misure ad acqua -> nel 600-700  si sviluppano gli orologi meccanici -> si comincia ad applicare la meccanica a funzioni che prima venivano effettuati da altri strumenti meno precisi (quali la clessidra), meno precisi e che non potevano garantire la continuità nel tempo.
+####La misurazione del tempo
+All'inizio la misurazione del tempo era poco precisa e ci si basava principalmente sul sole. Successivamente si passa alla clessidra, agli orologi ad acqua e agli orologi solari. La misurazione del tempo è quella in cui trova maggiore applicazione la meccanica ereditata dalla tradizione graco-classica e successivamente dagli arabi. Nel 600-700 si sviluppano gli orologi meccanici, si comincia ad applicare la meccanica a funzioni che prima venivano effettuati da altri strumenti meno precisi (quali la clessidra) e che non potevano garantire la continuità di funzionamento nel tempo.
+ Con la necessità di creare meccanismi (e.g., ruote dentate) sempre più precisi inoltre viene innovata anche l'industria della produzione in cui si incomincia ad applicare la meccanica.
 
-####Le prime macchine di calcolo
+
+####Le prime macchine da calcolo
+##### Dalla misurazione del tempo alle macchine da calcolo
 Più la società si industrializza più il tempo diventa prezioso e bisogna misurarlo bene.
-Il problema iniziale è che non c'è un motore per gli orologi meccanici. quindi si avevano le campane che scandivano le giornate. fino a Maria Teresa d'Austria gli unici fondi produttivi erano gli appezzamenti di terra.
- I motori iniziali erano fatti a contrappesi per i campanili.
+A partire dall'epoca rinascimentale fino al 700 i meccanismi per calcolare il tempo vengono affinati, il problema è che non c'è un motore per muoverli (la molla non c'era). Si pensava di regolare il tempo della comunità attraverso la religione, le campane che scandivano le giornate. Fino a Maria Teresa d'Austria (700 molto avanzato) le uniche fonti di ricchezza erano le terre coltivabili, i fondi urbani non venivano presi in considerazione. Tutti lavorando nei campi basavano le loro attività sui campanili (che erano mossi dai contrappesi).
 
-La prima macchina da calcolo fatta con i pesi <senti audio> 1638
+Questo sistema a contrappeso influenzò anche i primi costruttori di macchine da calcolo (vedi macchina di Polemi da Padova).
 
-Il problema dello sviluppo delle macchine da calcolo è la religione. come si arriva  alla conclusione che un meccanismo possa regolare il tempo ecc?
-La funzione mentale del calcolo la può fare un meccanismo, la religione ha decretato che chi faceva questa attività era un eretico. Nel momento in cui sono stati creati i primi automi, immediatamente sono stati accusati di stregoneria e alcune persone sono state condannate. Con le macchine da calcolo è avvenuta la stessa messa al bando. l'attività di riprodurre attraverso una attività umana qualcosa che era creato da Dio era considerato blasfemo.
 
-Le prime macchine da calcolo hanno ereditato la tecnica dagli orologi...tecnologia di Germania e Svizzera che erano arrivati molto avanti.
-Pascal e Leibniz
-Schickard ha costruito il primo calcolatore, la sua casa va a fuoco e pensa che sia stata l'attività divina per ammonirlo che stava facendo qualcosa di blasono.
+#####Le macchine da calcolo e la religione
+il problema dello sviluppo delle macchine da calcolo è legato anche alla religione. Come si arriva alla conclusione che un meccanismo possa regolare il tempo?
+La funzione mentale del calcolo la può fare un meccanismo e sostanzialmente si cerca di imitare una funzione umana attraverso dei meccanismi. Per la religione, chi praticava l'attività di costruire macchine che imitavano attività umane compiva una blasfemia in quanto tentava di sostituirsi a Dio.
 
-Leibniz è l'ultimo dei geni universali, preparato in tutto, a tutto campo. quando elabora la sua macchina da calcolo non pensa all'applicazione della matematica binaria, ma parallelamente la sviluppa ma la tiene separata dal suo automa.
+Nel momento in cui sono stati creati i primi automi (zoomorfi e non), immediatamente gli inventori sono stati accusati di stregoneria e alcune persone sono state condannate. Con le macchine da calcolo è avvenuta la stessa messa al bando. L'attività di riprodurre attraverso una macchina una attività/funzione che Dio aveva installato nell'uomo era considerata blasfemo.
 
-Matematica binaria è il connubio tra teologia e matematica. per un connubio ha elaborato una medaglia - dio è 1 l'uomo è zero ecc ecc. ma non so come usarlo.
-l'ispirazione viene da un gesuita in Cina - in Cina nel frattempo c'era il principio oracolare e seguivano il libro *iching* - Leibniz dice " se riuscissi a dimostrare con la matematica binaria come finzione l'iching avrei dimostrato la superiorità dell'occidente rispetto all'oriente e riuscirei a convertire i cinesi al cristianesimo"
-Il 600 è l'epoca dei missionari gesuiti che vanno a convertire i giapponesi ma ritornano loro convertiti al confucianesimo.
+#####i primi inventori delle macchine da calcolo
+Le prime macchine da calcolo hanno ereditato la tecnica dagli orologi, specialmente dalla tecnologia di Germania e Svizzera che era molto avanzata.
+in questo periodo Pascal e Leibniz tentano di costruire le prime macchine da calcolo.
 
-Sempre nell'era di Leibniz, Schickard e Pascal costruisce la sua prima macchina, la Pascalina. Il padre di pascal doveva far grandi calcoli per entrate e uscite (ministro finanze francese). nel calcolo della macchina di pascal denari venivano calcolati in base 12, i franchi in base 20 ecc. Non c'era riporto dei risultati quindi il programma era nella testa di chi operava la macchina (si segnava i risultati su un foglio di carta a parte).
+#####Schickard e la religione
+Schickard (prima di Leibniz e Pascal) ha costruito il primo calcolatore funzionante che svolgeva le 4 operazioni. Terminato il suo lavoro, la sua casa va a fuoco e pensa che sia stata l'attività divina per ammonirlo che stava facendo qualcosa di blasfemo. La componente religiosa, nonostante oggi sia difficile da percepire, in quel tempo ha avuto un influenza fortissima sull'evoluzione della tecnologia.
 
-Per navigazione e tiri di artiglieria le tavole logaritmiche erano fondamentali, Napoleone ne ordina il ricalcolo. Con Promis viene suddivisa l'attività intellettuale per ricalcolare tavole logaritmiche. problema di tavole logaritmiche fatte così erano gli errori, errore umano di chi calcolava, errori di trascrizione nel foglio da mandare al tipografo, errore di chi stampava.
+#####Leibnitz e la matematica binaria
+Leibniz è l'ultimo dei geni universali, possiede una preparazione umanistica tecnica e tecnologica totale. Quando elabora la sua macchina da calcolo non pensa all'applicazione della matematica binaria, ma parallelamente la sviluppa, ma la tiene separata dal suo automa.
 
-Babbage aveva pubblicato un'errata, dell'errata, dell'errata del lavoro di Promis. Il problema di Charles Babbage è duplice vuole macchina che faccia sequenza dei calcoli (non come il signore 700 che si segnava i calcoli), e che ci sia una stampa automatica in modo che l'umano non possa fare errori di copiatura.
-Babbage è il punto di arrivo di questo processo che passa dai Greci. 
-La precisione degli ingranaggi era altissima, mancava l'invenzione di usare questi ingranaggi per fare qualcosa di più.
+La matematica binaria è il connubio tra teologia e matematica.Per spiegare la matematica binaria, Leibnitz prepara una medaglia per lo stato di Hannover in cui scrive “Dio è 1, l'uomo è zero. Dio ha creato tutto dal nulla ecc.”. Dopodichè chiede a esperti in Europa a cosa potesse servire e riceve le idee più strane (per pesare i metalli preziosi.) L'idea più interessante proviene da un Gesuita missionario in Cina, che segnala a Leibniz il libro Icing (il testo oracolare cinese 
+che i cinesi usano per la previsione del futuro). Secondo Midam, storico della tecnologia cinese, è stato il testo che ha provocato l'arretratezza tecnologica cinese che invece che svilupparsi secondo la direzione galileana si atteneva al principio oracolare.
+
+L'Icing funziona con dei trigrammi, dei bastoncini e fondamentalmente si basa su un sistema binario. Leibniz pensa quindi che se fosse riuscito a dimostrare con la matematica binaria quale fosse il funzionamento dell'Icing avrebbe dimostrato la superiorità dell'Occidente rispetto all'Oriente e sarebbe riuscito a convertire i cinesi al cristianesimo.
+
+Il 600 è l'epoca dei missionari gesuiti, portoghesi, che vanno a convertire i giapponesi ma ritornano loro convertiti al confucianesimo (la c.d. “polemica dei riti”). Tornarono a Roma proponendo di cambiare alcune cose della religione Cristiana e furono tutti richiamati in patria.
+
+Leibniz quindi usò la sua macchina per fare calcoli ma sopratutto diede un contributo fondamentale per quello che si rivelerà essere la base delle future macchine da calcolo, cioè la matematica binaria.
+
+#####Pascal e la pascalina
+Sempre nell'era di Leibniz e Schickard, oprerano anche altre persone tra cui Pascal costruisce la sua prima macchina, la Pascalina. 
+
+Il padre di Pascal, ministro delle finanze francese, doveva far grandi calcoli per entrate e uscite e suo figlio gli venne incontro per evitare che i calcoli fossi fatti interamente a mano. 
+
+Nel calcolo della macchina di Pascal denari venivano calcolati in base 12, i franchi in base 20 (come richiedeva il sistema monetario di allora). Non c'era riporto dei risultati sulle operazioni successive, il programma era nella testa di chi operava la macchina (si segnava i risultati su un foglio di carta a parte), inoltre la macchina era azionata a mano.
+
+#####Pronis,le tavole logaritmiche e Babbage
+Dall'era Napoleonica, nell'Ottocento viene avviata la prima vera globalizzazione. Dall'Europa occidentale, al Giappone (dal 1868) all'America. A partire dall'inizio dell'Ottocento c'è un grande interesse da un lato per la navigazione dall'altro per guerre (sia interne all'Europa, sia coloniali). 
+
+Per la navigazione e per i tiri di artiglieria le tavole logaritmiche erano fondamentali. Napoleone ne ordina il ricalcolo e affida il compito al matematico Pronis che pianifica il ricalcolo a mano. Per il ricalcolo delle tavole viene suddivisa l'attività intellettuale tra chi calcolava (divisi tra matematici che impostavano i calcoli, i matematici che si occupavano dei calcoli specifici e i calcolatori che effettuavano i lavori pratici), chi trascriveva e chi stampava. il problema di questa procedura erano gli errori: infatti le tavole erano soggette all'errore umano di chi calcolava, agli errori di trascrizione nel foglio da mandare al tipografo e agli errori di chi stampava.
+
+Charles Babbage, occupandosi anche di astronomia, pubblicò un'errata, dell'errata, dell'errata del lavoro di Pronis. Il problema di Charles Babbage, che capisce che gli errori delle tavole logaritmiche erano dovuti anche dal processo, è duplice: vuole una macchina che faccia sequenza dei calcoli (non come il signore 700 che si segnava i calcoli lavorando con la pascalina), e che ci sia una stampa automatica (cioè una unità di uscita) in modo che l'umano non possa commettere errori di copiatura.
 
 ####La macchina di Babbage
-l'idea di Babbage è costruire una macchina che esegua una serie di operazioni (programmabile). L'idea di Babbage è quella di costruire tabelle, come si poteva dare a una macchina una serie di operazioni da compiere?
+Babbage è il punto di arrivo di questo processo, iniziato dalla meccanica classica greca. 
+La precisione degli ingranaggi ai tempi di Babbage è altissima, manca solo l'invenzione di usare questi ingranaggi per fare qualcosa di più.
 
-schede perforate inventate sul telaio di Jaquart. Struttura già esistente riproposta in altro ambito, Babbage prende struttura telaio Jaquart e la applica alla macchina analitica. Nastro perforato per far funzionare macchina analitica. L'accademia delle scienze di torino era molto famosa, per Lagrange ecc, tuttavia aveva anche altre funzioni tra cui quella dei brevetti. 
-Nuovo modo per i borghesi per riuscire ad ascendere, armi nobili (artiglieria e ) militari, dotti dal punto di vista matematico, insegnavano, senato accademia scienze a un certo punto ci possono entrare anche se non sono nobili. 
+l'idea di Babbage è costruire una macchina che esegua una serie di operazioni (programmabile) su un numerio di variabili diverse (non di creare una macchina universale). Come si poteva dare a una macchina una serie di operazioni da compiere?
 
-Babbage va a Torino ed espone i suoi progetti, ha una accoglienza piacevole da Carlo Alberto. Prandi come interprete di Babbage, 
-Federico Menabrea si accorge che con tabelle logaritmiche giuste si sarebbe sparato meglio, descrive macchina di Babbage cosa che lo stesso Babbage non aveva mai fatto. traduzione in inglese la fa Lady Lovedes che studiava matematica con De Morgan, traduce e commenta macchina di Babbage che comincia a diffondersi. Nasce in questo modo che il calcolo meccanico può essere guidato da una struttura che gli permetta di eseguire una sequenza di operazioni (e non una alla volta). 
+La soluzione di Babbage è quella di usare schede perforate (prende ispirazione  dal telaio di Jaquart). Riadatta una struttura già esistente e la ripropone in altro ambito, applica il telaio Jaquart alla macchina analitica in cui viene usato un nastro perforato per il suo funzionamento.
 
-La stampante non viene progettata da Babbage, ma quasi contemporaneamente due tipografi svedesi sono arrivati a costruire la macchina di Babbage e grazie alla loro esperienza, tramite punzoni creano uno stampo per del gesso che poi diventerà un timbro (gli schoiz?). La via per la meccanica moderna è aperta.
+Nel 1840 Babbage espone i piani di questa macchina a Torino. L'accademia delle scienze di Torino era molto famosa, sia per Lagrange sia per altre sue funzioni tra cui quella di concedere i brevetti, ed era anche un modo per I borghesi per ascendere socialmente (I membri delle accademie delle scienze potevano essere eletti nel senato sabaudo).
 
-Il punto chiave è Babbage, fino a che punto può essere considerato il padre dell'elaboratore elettronico?
-Gli storici della scienza in senso stretto dicono che non si può considerare il padre di elaboratori moderni perché i computer sono totalmente diversi, anche se comunque ha fatto un bel salto.
-Gli storici dell'elaborazione dicono che è uno dei padri degli elaboratori elettronici. 1946 dopo la guerra IBM brevetta alcune sue invenzioni, ma non riesce a farlo perché l'ufficio brevetti dice che non erano abbastanza originali in quanto troppo simili alla macchina di Babbage.
+Babbage espone a Torino per ottenere un avallo dall'accademia delle scienze di Torino da far valere a Londra e ottenere finanziamenti. Riceve una accoglienza piacevole da Carlo Alberto. 
+
+Prandi, l'interprete di Babbage, parla con il generale Federico Menabrea che capisce l'importanza della macchina per calcolare tabelle logaritmiche giuste e scrive il primo trattato sulla macchina di Babbage in francese (pubblicato a Ginevra). Babbage non riuscì mai a scrivere un trattato sulla sua macchina.
+
+La traduzione in Inglese del trattato di Menabrea, viene fatta da di Lady Lovedas (figlia di Lord Byron) che studiava matematica con De Morgan. Lady Lovedas traduce e commenta la macchina di Babbage, che grazie a ciò comincia a diffondersi. Nasce in questo modo l'idea che il calcolo meccanico possa essere guidato da una struttura che gli permetta di eseguire una sequenza di operazioni e non l'operazione singola (N.B. non si parla ancora di macchina universale). 
+
+Delle due idee di Babbage una non viene realizzata, la stampante
+Tuttavia quasi contemporaneamente a Babbage, due tipografi svedesi costruiscono la macchina analitica di Babbage e grazie alla loro esperienza, tramite punzoni creano uno stampo per del gesso che in sostanza sarà un timbro. A questo punto la via per l'elaboratore elettronico è aperta.
+
+Il punto chiave di questo processo è Babbage, ma fino a che punto può essere considerato il padre dell'elaboratore elettronico?
+Gli storici della scienza in senso stretto dicono che non si può considerare il padre di elaboratori moderni perché i computer sono totalmente diversi, anche se comunque ammettono che abbia fatto un bel salto.
+Gli storici dell'elaborazione dicono che è uno dei padri degli elaboratori elettronici, tant'è che nel 1946, dopo la guerra mondiale, IBM brevetta alcune sue invenzioni, ma non riesce a farlo perché l'ufficio brevetti dice che non siano abbastanza originali in quanto troppo simili alla macchina di Babbage.
 
 	Babbage -> meccanica -> elettromeccanica -> elettronica
 
+####Le donne e il calcolo meccanico
 Le donne assenti dalla storia del calcolo meccanico, ma entrano in gioco quando si parla di programmazione (con Lady Lovedas)
 Pearl Harbour: dopo la marina ha ammesso le donne nei servizi di terra (non c'erano abbastanza uomini per le armi). Donna matematica è entrata nella marina e l'ha informatizzata (nome del cacciatorpediniere) 
 
