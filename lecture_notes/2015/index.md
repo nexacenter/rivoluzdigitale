@@ -1587,42 +1587,106 @@ Hertz Popov
 ####La radio e I Bell labs
 A inizio del 900 la Bell si prende una grossa paura, pensando che la radio possa soppiantare il telefono e pensano che si possano creare telefoni wireless portatili. Vengono quindi creati i Bell labs come reazione alla paura di essere schiacciati dall'innovazione.
 
----- inizio lezione 12 ---
-Nel 1919 negli usa per atto del governo la british marconi company diventa la radio corporation of america (RCA)...monopolio privato.
-Fino al 1912 nessuna regola, chiunque può trasmettere come vuole alla potenza che vuole - poi con scuse anche pretestuose (anche grazie a Titanic), incominciano ad essere regolate frequenze e potenze - FCC incomincia ad occuparsi di queste cose.
-Si crea situazione di relativamente poche frequenze (ragione ufficiale: interferenze), bene scarso, ci pensa quindi il governo, queste poche frequenze vengono concesse a qualcuno (non vendute perché è un bene comune), non si può creare un mercato secondario e alle frequenze è associato uno specifico uso (trasmissione terrestre, trasmissione dati ecc).
-Questo modello da un enorme potere ai governi che può decidere chi trasmettere e chi no.
+###Effetti della radio (lezione 12)
+Dopo la tragedia del Titanic e il Radio Act del 1926, si è già pienamente consci dell'impatto che avrà sulla società e sulla democrazia.
+Negli Stati Uniti nasce un organo regolatore, l'FCC, la Federal Communcations Commission, che all'epoca si occupava solo della radio e ora anche di internet.
 
-Con relativamente poche frequenze, problemi di libertà di espressione molto grandi. Solo alcuni possono trasmettere, si sono create delle regole per garantire pluralismo di idee: compagnie private sottoposte a controllo, far sentire le idee di tutti, rispetto decenza pubblica...scusa delle poche frequenze per fare pochi canali...
-In Europa si sceglie la via dei monopoli pubblici e i canoni.
+Nel 1919 negli USA, per atto del governo, la British Marconi Company diventa la Radio Corporation of America (RCA) che prende la forma di un monopolio privato.
 
-Negli anni '20-'30-'40 del 900 grande impatto della radio sulla pubblica opinione - usato  per la propaganda. Negli stati uniti come effetto della grande depressione cacciano Hoover ed eleggono Roosevelt che una volta a settimana parlava in modo informale "chiacchere al caminetto" degli eventi della settimana.
+####La radio e le poche frequenze di trasmissione
+Fino al 1912 nessuna regola, chiunque può trasmettere come vuole alla potenza che vuole, poi con scuse anche pretestuose (anche grazie all'incidente del Titanic), tramite l'FCC, incominciano ad essere regolate le frequenze e le potenze di trasmissione.
 
-Nel regime nazista invece viene usata per propaganda da: 
-- bruciare i libri
-- sport
-- rally
-- radio
+Si crea una situazione in cui sono disponibili relativamente poche frequenze (la ragione ufficiale del numero basso di frequenze disbonibili, potenzialmente infinite, erano le interferenze), queste vengono trattate come un bene scarso, e come tale se ne occupa il governo. 
 
-Apparecchi radiofonici prodotti in massa e a poco prezzo, presenti ovunque anche alle stazioni dei bus, popolazione sempre sotto propaganda, intervallata anche da opera, musica e spettacoli.
-Anche nel fascismo dopo un po' viene usata la radio come mezzo di propaganda, anche se tasso di penetrazione molto minore.
+Le poche frequenze disponibili vengono concesse a qualcuno (non vendute perché è un bene comune). Non si può creare un mercato secondario e alle frequenze è associato uno specifico uso (trasmissione terrestre, trasmissione dati ecc.).
+Questo modello da un enorme potere al governo che può decidere chi trasmette e chi no.
 
-Nazisti si inventano, usando onde corte, propaganda verso altri paesi. la consapevolezza di usare la radio per cambiare la pubblica opinione (Hitler nel *Mein Kampf* parla di propaganda e non di radio).
-Goebbels dice che la radio è l'ottavo strumento di potere (il settimo è la stampa). " non avremmo potuto prendere il potere se...".
+Con relativamente poche frequenze si creano dei grandi problemi di libertà di espressione. Solo alcuni possono trasmettere, perciò vengono create delle regole per garantire pluralismo di idee. Le compagnie private sono sottoposte a controllo, e far sentire le idee di tutti, rispettando decenza pubblica. Come al solito, in Europa si sceglie la via dei monopoli pubblici e dei canoni pagati dai cittadini (come modo per finanziare la radio).
 
-Nel caso della radio il potenziale radicale come si è soppresso? 
-1. valvola termoionica era un pezzo chiave (il brevetto chiavo era di Fleming), cause legali fino allo scadere del brevetto di Fleming nel 22. dopo il 22 decollo della radio
-2. la "soppressione" della radio fm (fino a quel momento solo radio modulata in ampiezza) inventata nel 1933. Armstrong modula frequenza, innovazione bloccata da RCA che era azienda per cui lavorava, la riteneva una innovazione per cui on si era ancora pronti (qualità altissima di trasmissione). Non metterà in campo questa tecnologia
+####La radio e la propaganda
+Negli anni '20-'30-'40 del 900 la radio riesce ad avere  un grande impatto sulla pubblica opinione e viene usato per la propaganda (soprattutto negli USA). Negli stati uniti come effetto della grande depressione il presidente Hoover viene cacciato e viene eletto Roosevelt che una volta a settimana parla in modo informale alla popolazione americana tramite il programma radiofonico "chiacchere al caminetto".
 
-registratori a nastro inventata nel.... at&t decide che non deve uscire quella tecnologia, diventerà di ampio utilizzo dopo 2 guerra mondiale. una delle motivazione per cui at&t decide che non vuole avere registratori perchè maggiornaa di telefonate erano erotiche e c'era paura di calo fiducia nel mezzo se le chiamate potevano essere registrate.
+Nel regime nazista invece, la radio diventa uno dei mezzi di propaganda.
+I mezzi usati dal regime nazista per la propaganta furono: 
+- L'arte  
+- bruciare i libri  
+- gli sport  
+- I rally  
+- I film  
+- I giornali  
+- La musica  
+- La radio  
 
-####La radio secondo il diagramma di B.Winston
-- Tecnologia: Maxwell
-- Social necessity: incrociatori
-- diffusione: Marconi e valvole di Fleming e Defoest per creare radio a basso costo.
+Tra l'avvento del Nazismo e la Seconda Guerra Mondiale c'è un essplosione nella diffusione degli appare apparecchi radiofonici, che sono prodotti in massa e a poco prezzo (tant'è che il 70% della popolazione tedesca ne possederà una). 
+Nel 1932 le radio in germania sono 4.5 milioni, nel 1938 vengono messi degli altoparlanti sui pali di molte città (anche alle stazioni dei bus). 
+Nel 1942 in germania ci sono 16 milioni di radio, sono nei bar e nelle fabbriche. 
+La popolazione è sempre sotto propaganda,che è intervallata anche da opera, musica e spettacoli.
 
-il fatto che sia condizionato da pubblicità condiziona l'utilizzo della radio (no inchiesta su chi ti compra milioni di pubblicità)
+Anche nel fascismo dopo un po' viene usata la radio come mezzo di propaganda, anche se il tasso di penetrazione è molto minore.
 
+I Nazisti, inoltre si inventano, usando onde corte, la propaganda verso gli altri paesi, trasmettono infatti 24h/24 in dodici lingue diverse. Durante il Nazismo si arriva alla consapevolezza che la radio può essere uno strumento per cambiare la pubblica opinione,
+Tant'è che Goebbels afferma che la radio è l'ottavo strumento di potere (il settimo è la stampa), “Non avremmo potuto prendere il potere, o usarlo nel
+ modo in cui l’abbiamo usato, senza la radio”
+ (fonte: http://research.calvin.edu/german-propaganda-archive/goeb56.htm). Hitler nel *Mein Kampf* parla di propaganda e non di radio).
+
+###La soppressione del potenziale radicale per la radio
+Nel caso della radio il potenziale radicale come si è soppresso oltre all'assetto normativo e di mercato?
+ 
+1. Cause legali sull'invenzione della valvola termoionica di Fleming (pezzo chiave per il funzionamento della radio) fino allo scadere del brevetto nel 1922. Dopo lo scadere nel 22 la diffusione della radio decolla.
+2. la "soppressione" della radio FM inventata nel 1933 (fino a quel momento solo radio modulata in ampiezza e non in frequenza). L'inventore della FM, Armstrong modula la frequenza, questa innovazione viene bloccata dalla RCA che era azienda per cui lavorava, la riteneva una innovazione per cui on si era ancora pronti (qualità altissima di trasmissione).
+
+Anche i registratori a nastro di Armstrong furono bloccati dall'industria. 
+Il registratore a nastro fu brevettato tra il 1914 e il 1922. AT&T lo vide come un pericolo e decise che non dovesse uscire quella tecnologia. Solo dopo la Seconda Guerra Mondiale diventerà di ampio utilizzo. Una delle motivazione per cui AT&T decise di non volere registratori sul mercato fu perché la maggioranza delle telefonate erano erotiche e c'era paura di un calo fiducia nel mezzo del telefono se le chiamate potessero essere registrate.
+
+Il fatto che la radio fosse finanziata dalla pubblicità condizionò anche l'utilizzo della radio, non si facevano inchieste su chi comprava milioni di dollari di pubblicità.
+
+##La Televisione (lezione 12)
+
+###L'ideazione della televisione
+Le invenzioni di base per il successivo sviluppo della TV furono diverse. La fase di ideazione si articolò come segue:  
+- Nel 1878 il telectroscopo di Selencq (avvocato francese) inventò il telectroscopo è di base una matita che è in grado di fare disegni da una corrente trasmessa a distanza: telegrafia in facsimile
+ (o telefotografia).  
+- Nel 1884 Paul NipKow, uno studente di Berlino brevetta il telescopio elettrico (era elettromeccanico)  
+- Il 16 giugno 1908 Campbell Swinton, l'uomo che fece parlare Marconi a Londra con il post Office, in una lettera a Nature descrive per la prima volta uno schema di televisione interamente elettronico (attraverso la modulazione di raggi catodici)
+- Nel 1911 vengono poste le basi teoriche per la televisione sono complete, anche se le dimostrazioni sono ancora parziali.  
+- Nel 1925 a Londra John Logie Baird esegue la prima dimostrazione pratica della trasmissione di immagini statiche via etere e nel 1926 di immagini in movimento.  
+- Nel 1927 negli USA Phil Farnsworth sviluppa il primo sistema interamente elettronico, dimostrato alla stampa il 1° settembre 1928  
+- Nel 1928 viene creata la prima “stazione” televisiva  
+
+- Nel 1936 vengono messi in vendita i primi apparecchi e partono le prime trasmissioni della BBC. Anche il regime nazista inizia a farne un primo uso (tra 200 e 1000 dispositivi in tutta la Germania con sale con 40-400 posti).  
+
+###L'ideazione della televisione
+La tecnologia è pronta già negli anni 30 ma non non si diffonde non decolla fino a anni 50.
+Negli anni 30 è troppo presto, non si vuole frenare sviluppo radio, ci si stava appena assestando, avrebbe complicato lo scenario normativo (frequenze, problema degli standard), non è neanche ancora chiara l'esigenza sociale (perché dovremmo aver bisogno di un televisore?).
+Per la radio ci fu stata l'esigenza sociale delle corazzate, per la televisione no. Negli anni '30 per convincere persone si sarebbe dovuta fare una grossa campagna di pubblicità (così come accadde per il telefono), non si fece, non si risolsero i problemi tecnici, non si standardizzò, sono si abbatterono i costi ecc.
+
+L'esigenza sociale si manifesta negli usa solo alla fine della Seconda Guerra Mondiale, a causa di:
+- fabbriche di elettronica da riconvertire (ad esempio quelle che producevano radar e componentistica da guerra)
+;  
+- posti di lavoro da assicurare dopo la guerra: non si volevano creare milioni di disoccupati per non creare nuovamente una grande disoccupazione come nel 20. 
+- società dei consumi da sostenere: lavoro dignitoso con stipendi dignitosi che deve consumare. Si capisce subito che televisione può sostenere i consumi con la pubblicità
+
+Dagli anni 50 in poi la televisione diventa cruciale nel formare l'opinione pubblica.
+
+###La televisione come la radio
+L'assetto normativo si configura come per la radio per la radio. Vengono concesse le frequenze ad un determinato attore con l'aggravante che per la TV vengono concesse ancora meno frequenze (con la solita scusa dell'interferenza).
+ 
+Anche il modello di business viene copiato da quello della radio. I contenuti televisivi sono gratis e intervallati da pubblicità. Per i monopoli pubblici all'inizio non c'è la pubblicità ma è necessario pagare un canone.
+
+###Evoluzioni tecnologiche della televisione
+- anni 70: televisione a colori
+- anni 80: videoregistratore
+- anni 90: satellite
+- anni 2010: HD
+
+###Il diagramma di B.Winston per la televisione
+--- immagine televisione slide 06-05-2015 ---
+- Ideazione: Selencq 1878, Nipkow 1884, Campbell Swinton 1908.  
+- Prototipi: Bidwell 1881, Rozing 1911, Baird/Jenkins 1925.  
+- Invenzione: Marconi 1896, valvola di Fleming 1904, valvola di de forest 1906.  
+- Necessità sociale: intrattenimento, occupazione dopo guerra, industria elettronica.  
+- Soppressione del potenziale radicale: battaglia degli standard e problemi tecnici 1934-1948, “congelamento” del 1948-1952.  
+- Spin-Off: Videotape e camcorder.  
 
 ##La storia del calcolo meccanico (lezione 12 - ospite: Prof. Losano)
 <Introduzione prof Losano>
@@ -1673,7 +1737,6 @@ Più la società si industrializza più il tempo diventa prezioso e bisogna misu
 A partire dall'epoca rinascimentale fino al 700 i meccanismi per calcolare il tempo vengono affinati, il problema è che non c'è un motore per muoverli (la molla non c'era). Si pensava di regolare il tempo della comunità attraverso la religione, le campane che scandivano le giornate. Fino a Maria Teresa d'Austria (700 molto avanzato) le uniche fonti di ricchezza erano le terre coltivabili, i fondi urbani non venivano presi in considerazione. Tutti lavorando nei campi basavano le loro attività sui campanili (che erano mossi dai contrappesi).
 
 Questo sistema a contrappeso influenzò anche i primi costruttori di macchine da calcolo (vedi macchina di Polemi da Padova).
-
 
 #####Le macchine da calcolo e la religione
 il problema dello sviluppo delle macchine da calcolo è legato anche alla religione. Come si arriva alla conclusione che un meccanismo possa regolare il tempo?
@@ -1740,14 +1803,12 @@ Gli storici dell'elaborazione dicono che è uno dei padri degli elaboratori elet
 	Babbage -> meccanica -> elettromeccanica -> elettronica
 
 ####Le donne e il calcolo meccanico
-Le donne assenti dalla storia del calcolo meccanico, ma entrano in gioco quando si parla di programmazione (con Lady Lovedas)
-Pearl Harbour: dopo la marina ha ammesso le donne nei servizi di terra (non c'erano abbastanza uomini per le armi). Donna matematica è entrata nella marina e l'ha informatizzata (nome del cacciatorpediniere) 
+Le donne assenti dalla storia del calcolo meccanico, ma entrano di tutto diritto nella storia dell'elaboratore soprattutto per quanto riguarda la programmazione dopo la Seconda Guerra Mondiale.
 
-3 figure importante, Babbage, Menabrea e Lady Lovedas. Babbage non ha mai costruito apparato completo 
-in Egitto già meccanica ma non c'era sistematicità dell'applicazione, risolvevano problemi puntuali.
-calcolatrice di Babbage non attività universale ma compito mirato
+C'è stata una svolta dopo l'attacco giapponese a Pearl Harbour alla fine della Seconda Guerra Mondiale. Non c'errano abbastanza uomini per le armi e la marina ha ammesso le donne nei servizi di terra. Grace Murray Hopper (a cui oggi è dedicato un cacciatorpediniere), fu una matematica che entrò nella marina e la informatzzò. 
 
-grandi invenzioni con necessità militari - sia elaboratore elettronico, sia bomba atomica, sia cronometro. Calcolatore elettronico costruito per calcoli su bomba atomica
+####Necessità militari e grandi invenzioni – il calcolatore elettronico
+Molte grandi invenzioni sono emerse a causa di necessità militari. Ad esempio il cronometro, la bomba atomica e l'elaboratore elettronico. Il calcolatore elettronico è stato costruito per effettuare i calcoli sulla bomba atomica.
 
 
 # Parte Metodologica
