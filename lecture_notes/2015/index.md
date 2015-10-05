@@ -1655,7 +1655,7 @@ Le invenzioni di base per il successivo sviluppo della TV furono diverse. La fas
 
 - Nel 1936 vengono messi in vendita i primi apparecchi e partono le prime trasmissioni della BBC. Anche il regime nazista inizia a farne un primo uso (tra 200 e 1000 dispositivi in tutta la Germania con sale con 40-400 posti).  
 
-###L'ideazione della televisione
+###La diffusione della televisione
 La tecnologia è pronta già negli anni 30 ma non non si diffonde non decolla fino a anni 50.
 Negli anni 30 è troppo presto, non si vuole frenare sviluppo radio, ci si stava appena assestando, avrebbe complicato lo scenario normativo (frequenze, problema degli standard), non è neanche ancora chiara l'esigenza sociale (perché dovremmo aver bisogno di un televisore?).
 Per la radio ci fu stata l'esigenza sociale delle corazzate, per la televisione no. Negli anni '30 per convincere persone si sarebbe dovuta fare una grossa campagna di pubblicità (così come accadde per il telefono), non si fece, non si risolsero i problemi tecnici, non si standardizzò, sono si abbatterono i costi ecc.
