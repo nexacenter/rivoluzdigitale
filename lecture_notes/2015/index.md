@@ -1810,7 +1810,7 @@ C'è stata una svolta dopo l'attacco giapponese a Pearl Harbour alla fine della 
 ####Necessità militari e grandi invenzioni – il calcolatore elettronico
 Molte grandi invenzioni sono emerse a causa di necessità militari. Ad esempio il cronometro, la bomba atomica e l'elaboratore elettronico. Il calcolatore elettronico è stato costruito per effettuare i calcoli sulla bomba atomica.
 
-##La logica e l'elaboratore (Lezione 13)
+##La logica e il calcolatore universale (Lezione 13)
 Nei corsi di informatica si racconta frequentemente lo stato dell'arte, ma raramente si racconta di come ci si sia arrivati e perché ci si sia arrivati.
 
 Nel libro "il calcolatore universale" di Martin Davis viene narrata la storia dell'elaboratore, partendo dalla sua prima “ideazione” da parte di Leibnitz, passando per gli studi matematici del 900 e arrivando alla macchina di Turing.
@@ -1827,40 +1827,61 @@ Leibniz arriva anche a dire che una aritmetica binaria a due livelli dovrebbe re
 
 Leibniz ha una visione radicale, crede nella potenza della formalizzazione algebrica e si immagina come potrebbe essere il futuro se:
 
-1. Potessimo liberarci dell'onere pesantissimo di fare calcoli (200 anni dopo Menabrea lo sapeva bene) e compie un ulteriore passo logico avanti. Consapevole che la calcolatrice possa fare i calcoli, Leibniz pensa che se riuscissimo a rappresentare matematicamente e algebricamente il pensiero umano, ci potrebbe essere una macchina che ragiona automaticamente (passaggio dal calcolare al ragionare). In questo contesto viene introdotta la logica deduttiva. Inoltre Leibniz analizza i vantaggi del ragionare senza l'onere del calcolare (citazione 1 pag 27).
+1. Potessimo liberarci dell'onere pesantissimo di fare calcoli (200 anni dopo Menabrea lo sapeva bene) e compie un ulteriore passo logico avanti. Consapevole che la calcolatrice può fare i calcoli, Leibniz pensa che se riuscissimo a rappresentare matematicamente e algebricamente il pensiero umano, ci potrebbe essere una macchina che ragiona automaticamente (passaggio dal calcolare al ragionare). In questo contesto viene introdotta la logica deduttiva. Inoltre Leibniz analizza i vantaggi del ragionare senza l'onere del calcolare (citazione 1 pag 27).
 
-2. Fosse possibile catturare in maniera formale pensieri e ragionamento. Secondo Leibniz, formalizzando il pensiero sarebbe impossibile scrivere cose incoerenti. Per fare ciò bisognerebbe formalizzare intera conoscenza umana ed elaborarla tramite il **calculus razioniator**, il calcolo che ragiona, oppure l'algebra della logica. Per fare ciò secondo Leibniz servirebbero: 1) l'enciclopedia della conoscenza umana, 2) trovare il modo per trattarlo dal punto di vista logico 3) Uomini seri seduti intorno a un tavolo che possano formalizzare il pensiero, calcolarlo algebricamente e quindi ottenere un risultato sarà inoppugnabile.
+2. Fosse possibile catturare in maniera formale pensieri e ragionamento. Secondo Leibniz, formalizzando il pensiero sarebbe impossibile scrivere cose incoerenti. Per fare ciò bisognerebbe formalizzare l'intera conoscenza umana ed elaborarla tramite il *calculus razioniator*, il calcolo che ragiona, oppure l'algebra della logica. Per fare ciò secondo Leibniz servirebbero: 1) l'enciclopedia della conoscenza umana; 2) trovare il modo per trattare il pensero dal punto di vista logico; 3)uomini seri seduti intorno a un tavolo che possano formalizzare il pensiero, calcolarlo algebricamente e quindi ottenere un risultato sarà inoppugnabile.
 
 Questa è la radice dell'**utopia tencocratica**: i problemi dell'umanità sono dovuti all'incoerenza dell'uomo, basterebbe "fare i calcoli giusti". 
-Come molti sono consapevoli, ci sono fior di problemi in verità che non si possono risolvere con i calcolatori elettronici. La tecnocrazia, tuttavia, è un concetto che è rinato dopo la II Guerra Mondiale e anche oggi continua a fiorire  (“per tutto c'è una soluzione tecnica”)
+Come molti sono consapevoli, ci sono diversi problemi che non si possono risolvere con i calcolatori elettronici. La tecnocrazia, tuttavia, è un concetto che è rinato dopo la II Guerra Mondiale e anche oggi continua a fiorire  (“per tutto c'è una soluzione tecnica”)
 
 Leibniz compie un primo tentativo di matematizzare la logica di Aristotele (i sillogismi).
 
 ###George Boole e la logica
-George Boole afferma che Leibniz aveva cercato di formalizzare ma non aveva concluso. 
+George Boole è conscio del fato che Leibniz avesse cercato di formalizzare il pensiero umano ma che non aveva concluso. 
 
-Boole inizia a leggere fin da piccolo e si appassiona di libri, ma dato il loro costo, si appassiona in particolare di libri matematici in quanto duravano di più di un libro normale e così si specializza. 
+Boole inizia a leggere fin da piccolo e si appassiona di libri, ma dato il loro costo, si appassiona in particolare di libri matematici in quanto duravano di più di un libro normale e così si specializzò. 
 
-Boole è convinto dalla sua fede "Leibniziana" che sia possibile matematizzare i ragionamenti logici. Riprende gli studi di Leibniz e facendo un grosso passo avanti sviluppa l'algebra booleana, matematizza i ragionamenti tipo il sillogismo. 
-Leibniz dal canto suo introdusse il concetto di classi nella sua matematica. 
+Boole è convinto dalla sua fede "Leibniziana" che sia possibile matematizzare i ragionamenti logici. Riprende gli studi di Leibniz e facendo un grosso passo avanti sviluppa l'algebra booleana, matematizza i ragionamenti tipo il sillogismo, e sfrutta il concetto di classi elaborato da Leibniz nella sua matematica. 
 
 4. citazione 4: zxy animali bianchi dotati di corna (audio)
 
-Boole arriva alla conclusione che l'algebra della logica sarebbe come l'algebra ordinaria se fosse limitata a soli due valori, 0 e 1. Si può limitare a patto che si reinterpretino gli 0 e gli 1 dove 0 è la classe che non contiene nulla e 1 è la classe che contiene tutti gli oggetti che si considerano. 
+Boole arriva alla conclusione che l'algebra della logica sarebbe come l'algebra ordinaria se fosse limitata a soli due valori, 0 e 1. Si può limitare a patto che si reinterpretino gli 0 e gli 1, dove 0 è la classe che non contiene nulla e 1 è la classe che contiene tutti gli oggetti che si considerano. 
 
-Il sistema di Boole abbraccia tutto Aristotele ma va ancora oltre e riesce a dimostrare una volta per tutte che la deduzione logica poteva essere trattata come un ramo della matematica. Tutt'oggi la logica è trattata sia sotto il cappello della filosofia, che sotto quello della matematica.
+Il sistema di Boole abbraccia tutto Aristotele ma va ancora oltre riuscendo a dimostrare una volta per tutte che la deduzione logica poteva essere trattata come un ramo della matematica. Tutt'oggi la logica è trattata sia sotto il cappello della filosofia, che sotto quello della matematica.
 
 ###L'evoluzione della logica dopo Boole
 Boole non fu un innovatore della logica, vennero tutti dopo di lui: tre grandi innovatori:
-1. Gottlob Frege: sistematizza le conoscenze dell'epoca.
-2. Bertrand Russel: trova un problema nella sistematizzazione del lavoro di Frege e cerca di dimostrare la coerenza logica del sistema matematico, cercando di dare una base solida alla matematica.
-3. Georg Cantor: fa uno studio sull'infinito - scopre un algoritmo sulla diagonale che diventa importante anche successivamente nell'informatica
-4. David Hilbert (fine '800 inizio '900, forse il più grande matematico moderno): diventa l'esponente più visibile di coloro che cercano di dimostrare la coerenza logica della matematica. Nello stesso periodo sono molti gli scettici convinti che non si possa trovare una coerenza per l'intero sistema matematico. Hilbert adotta un approccio algoritmico per dimostrare la coerenza della matematica. Hilbert vuole dimostrare coerenza di Peano e dei numeri interi - da cui sarebbe seguita la coerenza dell'aritmetica dei numeri interi.
-5. Gödel, dottorando contemporaneo a Hilbert, dimostra che ciò che vuole fare Hilbert è impossibile. Nel 1931,  Gödel dimostra, attraverso il suo secondo teorema di incompletezza, che l'aritmetica non poteva essere usata per dimostrare la propria consistenza, e di conseguenza neppure la consistenza di teorie più complesse e che quindi anche Principia Mathematica (il libro di Russel) non poteva dimostrare la coerenza della matematica. 1) Dimostra che la pura e semplice coerenza di un sistema non garantisce che ciò che in esso viene dimostrato sia vero. 2) ci possono essere proosizioni vere ma non dimostrabili all'interno del sistema.
+1. Gottlob Frege: sistematizza le conoscenze dell'epoca.  
+2. Bertrand Russel: trova un problema nella sistematizzazione del lavoro di Frege e cerca di dimostrare la coerenza logica del sistema matematico, cercando di dare una base solida alla matematica.  
+3. Georg Cantor: fa uno studio sull'infinito - scopre un algoritmo sulla diagonale che diventa importante anche successivamente nell'informatica  
+4. David Hilbert (fine '800 inizio '900, forse il più grande matematico moderno): diventa l'esponente più visibile di coloro che cercano di dimostrare la coerenza logica della matematica. Nello stesso periodo sono molti gli scettici convinti che non si possa trovare una coerenza per l'intero sistema matematico. Hilbert adotta un approccio algoritmico per dimostrare la coerenza della matematica. Hilbert vuole dimostrare coerenza di Peano e dei numeri interi, da cui sarebbe seguita la coerenza dell'aritmetica dei numeri interi.  
+5. Gödel, dottorando contemporaneo a Hilbert, dimostra che ciò che vuole fare Hilbert è impossibile. Nel 1931,  Gödel dimostra, attraverso il suo secondo teorema di incompletezza, che l'aritmetica non poteva essere usata per dimostrare la propria consistenza, e di conseguenza neppure la consistenza di teorie più complesse. Quindi anche il Principia Mathematica (il libro di Russel) non poteva dimostrare la coerenza della matematica. Dimostra che: 1) la pura e semplice coerenza di un sistema non garantisce che ciò che in esso viene dimostrato sia vero; 2) che ci possono essere proposizioni vere ma non dimostrabili all'interno del sistema.  
+6. John von Neumann, l'unico che capisce ciò che dice Gödel. Dopo aver parlato con lui smette di occuparsi di logica matematica fino ad occuparsi 10 anni dopo dei calcolatori elettronici.  
+7. Alan Turing, anche lui si occupa dei problemi di Hilbert e si applica alla strada algoritmica di Hilbert (citazione 6, p100).  
 
-John von Neumann è l'unico che capisce ciò che dice Goedel, e dopo ver parlato con lui smette di occuparsi di logica matematica fino ad occuparsi 10 anni dopo dei calcolatori elettronici. 
-Alan Turing si occupa anche lui dei problemi di Hilbert e si applica alla strada algoritmica di Hilbert (citazine 6, p100).
+Strada algoritmica di Hilbert: ci sono delle premesse e una conclusione vera o falsa. Hilbert vuole arrivare a una soluzione usando un algoritmo per verificare se la conclusione sia vera o falsa date le premesse. Seguendo una serie di passi vorrebbe dimostrare tutta la conoscenza umana (seguendo il pensiero di Leibniz). Anche allora c'era scetticismo per un approccio del genere, se si riuscisse  a farlo non ci sarebbero più matematici.
 
+###Alan Turing e il calcolatore universale
+Turing adotta l'approccio algoritmico di Hilbert, pensando a come funziona la mente umana. Inizia con il domandarsi come un bambino apprenda le addizioni. Arriva a dedurre che il processo di apprendimento è costituito da singoli passi relativamente semplici. L'attenzione del calcolatore (essere umano) può essere su uno o al massimo due dati. Affinché il calcolo non venga sbagliato una persona può limitarsi a poche operazioni base. Queste operazioni base, secondo il pensiero di Turing, possono essere eseguite da una macchina. L'algoritmo può andare avanti all'infinito senza mai rivelarci sì la conclusione sia vera, oppure falsa. Turing non dice che non esiste la coerenza della matematica ma semplicemente che la soluzione algoritmica cicla all'infinito nel cercarla.
+
+Turing arriva a dedurre una ipotetica macchina che ha in memoria un risultato parziale che legge nuovi numeri e li aggiunge/sottrae (o compie altre operazioni) a ciò che è in memoria.
+
+Macchina di Turing: dato lo stato x, legge y, dunque decide cosa fare dopo.
+
+Immagina una persona che esegua questi passi elementari. La macchina scrive una informazione su una casella (su un nastro con caselle) e decide se spostarsi a destra o a sinistra. Gli algoritmi realizzabili e adattabili a questa struttura molto semplice sono moltissimi. Il fatto che sia semplice la rende facile da analizzare, ha molta potenza. Tuttavia, la macchina di Turing, per quanto potente va avanti all'infinito cercando alcune soluzioni. Uno di questi casi è proprio quello che sta cercando Hilbert, cioè nel cercare la coerenza della matematica.
+
+Il passo subito successivo è la macchina universale di Turing. Viene fatta l'assunzione che le informazioni lette possano essere sia dati che istruzioni per la macchina stessa (comandi, ciò che si vuole che la macchina faccia, cioè il software). Superamento della concezione hardware e software.
+
+A questo livello si è ancora in ambito scientifico matematico ed è solo teorico. Solo durante la II Guerra Mondiale si arriva a pensare che si possano tradurre in pratica le idee di Turing.
+La macchina non può dimostrare la coerenza del sistema matematico, ma potenzialmente può fare molte altre cose. Ciò rappresenta sconfitta per la matematica, ma in contemporanea si apre una nuova prospettiva:
+
+	tutto ciò che è algoritmicamente solubile è risolvibile con una macchina.
+
+Pochi anni dopo in Inghilterra negli USA e in Germania vengono creati I primi prototipi di calcolatori universali su questa idea. L'esigenza sociale sociale del calcolatore universale smuove ingentissimi finanziamenti che permetto di traslare il concetto teorico in pratica. 
+
+La prima esigenza sono i computi balistici,le donne (erano donne coloro che solitamente svolgevano i calcoli) non erano più in grado di sviluppare sufficienti tabelle balistiche data l'enorme esigenza durante la Guerra Mondiale.
+
+Negli Stati Uniti viene creato il primo calcolatore elettronico per costruire la bomba atomica con il progetto Manhattan. L'esigenza sociale in Inghilterra fu quella crittografica.
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
@@ -1873,7 +1894,7 @@ Le lezioni in aula saranno in prevalenza lezioni frontali standard con, soprattu
 Le attività da svolgere ai fini dell'esame e per avere una infarinatura iniziali degli strumenti digitali sono:
 
 * creazione di un breve video: una clip di 30-60 secondi postato su una piattaforma come Youtube e rilasciato con licenza Creative Commons in cui ci si presenta e si descrive di cosa si vuole parlare nel proprio blog. Il video è uno strumento potente per comunicare ed è ortogonale alla scrittura. Saper creare un buon video può tornare utile nel mondo del lavoro, sopratutto negli ultimi tempi in cui si chiedono sempre di più video di presentazione per qualsiasi tipo di application (lavori, master, corsi ecc.);
-* tre blog post: gli articoli dovrebbero essere di 300-50 parole, dovrebbero includere anche immagini e dovranno essere rilasciati in Creative Commons. La scrittura di un blog post aiuta a sviluppare buone capacità di articolazione di un ipertesto. inoltre è un utile esercizio per imparare ad argomentare correttamente (per esempio evitando fallacie logiche). Inoltre rivolgersi a chiunque con un testo è un esercizio particolare in cui bisogna rispettare determinate regole.;
+* tre blog post: gli articoli dovrebbero essere di 300-50 parole, dovrebbero includere anche immagini e dovranno essere rilasciati in Creative Commons. La scrittura di un blog post aiuta a sviluppare buone capacità di articolazione di un ipertesto. inoltre è un utile esercizio per imparare ad argomentare correttamente (per esempio evitando fallacie logiche). Inoltre rivolgersi a chiunque con un testo è un esercizio particolare in cui bisogna rispettare determinate regole;
 * utilizzo di Twitter: per promuovere i propri blog post e perché è uno strumento di importanza sempre maggiore ed è un buon megafono con cui darsi sentire.
 
 ## Comunicare in pubblico - riflessioni iniziali (lezione 2)
