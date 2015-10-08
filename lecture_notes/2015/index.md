@@ -1803,9 +1803,9 @@ Gli storici dell'elaborazione dicono che è uno dei padri degli elaboratori elet
 	Babbage -> meccanica -> elettromeccanica -> elettronica
 
 ####Le donne e il calcolo meccanico
-Le donne assenti dalla storia del calcolo meccanico, ma entrano di tutto diritto nella storia dell'elaboratore soprattutto per quanto riguarda la programmazione dopo la Seconda Guerra Mondiale.
+Le donne sono quasi del tutto assenti dalla storia del calcolo meccanico, ma entrano di tutto diritto nella storia dell'elaboratore, soprattutto per quanto riguarda la programmazione, dopo la Seconda Guerra Mondiale.
 
-C'è stata una svolta dopo l'attacco giapponese a Pearl Harbour alla fine della Seconda Guerra Mondiale. Non c'errano abbastanza uomini per le armi e la marina ha ammesso le donne nei servizi di terra. Grace Murray Hopper (a cui oggi è dedicato un cacciatorpediniere), fu una matematica che entrò nella marina e la informatzzò. 
+C'è stata una svolta dopo l'attacco giapponese a Pearl Harbour alla fine della Seconda Guerra Mondiale. Non c'erano abbastanza uomini per le armi e la marina ha ammesso le donne nei servizi di terra. Grace Murray Hopper (a cui oggi è dedicato un cacciatorpediniere), fu una matematica che entrò nella marina e la informatzzò. 
 
 ####Necessità militari e grandi invenzioni – il calcolatore elettronico
 Molte grandi invenzioni sono emerse a causa di necessità militari. Ad esempio il cronometro, la bomba atomica e l'elaboratore elettronico. Il calcolatore elettronico è stato costruito per effettuare i calcoli sulla bomba atomica.
