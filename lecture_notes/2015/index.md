@@ -1972,8 +1972,6 @@ L'ENIAC fu una difficile impresa ingegneristica, 18000 valvole pulsanti 100000 v
 Eckert che che migliora le valvole (le fa funzionare a basso voltaggio), ed è veloce. Parallelamente vengono costruiti e usati calcolatori analogici.
 
 L'ENIAC, che con 18k valvole occupava una stanza intera, viene completato un anno dopo la fine della guerra, ma fu comunque importante per la sua **velocità**:
-
-presentazione nel 46, enfasi sulla velocità - vedi slide e copia.
 	*“[W]e chose a trajectory of a shell that took 30 seconds to go from the gun to the target. Remember that girls [sic] could compute this in three days, and the differential analyser could do it in 30 minutes. The ENIAC calculated this 30-second trajectory in just 20 seconds, faster than the shell itself could fly.”*
 
 (fonte: Per una storia (sintetica) del computer http://www.computerhistory.org/timeline/?category=cmptr)
