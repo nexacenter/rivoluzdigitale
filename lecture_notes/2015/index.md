@@ -2044,6 +2044,9 @@ Dall'evidenza di oggi sappiamo che rispetto alla prima CPU Intel (il 4004 del 19
 (Fonte: Intel’s C.E.O., Brian Krzanich, citato da Friedman sul New York Times)
 
 ###Il computer – soppressione del potenziale radicale
+foo
+
+
 # Parte Metodologica
 ## Introduzione (lezione 1) 
 In questa parte introduttiva verrà spiegato concretamente come si svolgerà il corso.
