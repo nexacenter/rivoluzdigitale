@@ -1883,6 +1883,167 @@ La prima esigenza sono i computi balistici,le donne (erano donne coloro che soli
 
 Negli Stati Uniti viene creato il primo calcolatore elettronico per costruire la bomba atomica con il progetto Manhattan. L'esigenza sociale in Inghilterra fu quella crittografica.
 
+##Il computer: macchine, tecnologie e società (Lezione 14)
+
+###I primi calcolatori: dai prototipi alla necessità sociale
+Alan Turing  dimostra che l’obiettivo di Hilbert (dimostrare la coerenza della matematica per via algoritmica) non era possibile e come corollario dimostra che una certa macchina ideale (la macchina di Turing) ha la potenza di calcolare tutto ciò che è calcolabile (cioè tutto ciò che è suddivisibile in algoritmi). 
+
+La macchina ideale di Turing (è una macchina RISC) è caratterizzata da:
+- istruzioni base molto semplici;  
+- manipolazioni di pochi simboli alla volta;  
+- output che dipende solo da input e dallo stato della macchina;  
+- le istruzioni e i dati sono letti dall'input.
+
+Tuttavia il passaggio da una idea brillante alla sua realizzazione non capita se non c'è una **necessità sociale** sociale. 
+
+L'articolo di Turing ha un impatto teorico molto grande ma il fatto che lui abbia ideato una macchina ideale molto potente non vuol dire che si trasformi in macchina concreta. Nello stesso periodo stanno maturando l'idea di ciò che diventerà il calcolatore. 
+
+Le prime soluzioni per creare una macchina universale sono ibride elettromeccaniche e poi elettroniche. 
+
+La necessità sociale che porterà al loro sviluppo sarà la Guerra Mondiale. I primi prototipi nascono in:
+- Germania per i progetti missilistici;
+- UK per la decifrazione veloce della macchina tedesca “Enigma”;
+- USA prima per calcolare le tabelle balistiche (lavoro svolto da giovani donne) e poi per lo sviluppo della bomba atomica.
+
+####Germania
+A guerra ampiamente iniziata, il giovane ingegnere Konrad Zuse, che già giocava con simil computer da piccolo, si fa notare dall'esercito nazista e inizia a sviluppare per loro macchine per computazioni balistiche.
+
+Zuse tagliato fuori da ciò che sta capitando in UK e USA (quindi in totale isolamento e anche con relativamente poche risorse) progetta e completa una macchina che si chiama Z3. E' il primo computer programmabile della storia e fu terminata nel 1941.
+
+Lo Z3 originale, elettromeccanico, viene distrutto in un bombardamento a Berlino e successivamente viene costruita una una replica funzionante disponibile al Deutsches Museum di Monaco di Baviera.
+
+Al termine della guerra, a causa della devastazione della Germania, Zuse ci mette anni diversi anni completare il lavoro dell'evoluzione della Z3, nel 1949 termina la costruzione della Z4. 
+
+Una delle conseguenze della sconfitta, oltre alla divisione in due della Germania (per renderla meno ostile), è che gli USA si impadroniscono di tutti i brevetti tedeschi.
+
+####UK
+Nel 1941 vengono create delle cosiddette "bombe", calcolatori elettro-meccanici per ridurree i tempi di crittoanalisi dei messaggi generati dai tedeschi con la macchina di cifratura “Enigma”. Non erano erano macchine general purpose ma furono costruite esclusivamente per diverse ipotesi di crittoanalisi.
+#####Turing e la macchina per la crittoanalisi di Enigma
+Alan Turing fu uno dei principali membri del gruppo che costruì le macchine per decrittare Enigma.
+
+Inizialmente il loro gruppo ha poche risorse e incontra numerose difficoltà.
+Decidono allora di violare le regole e scrivere direttamente al Primo Ministro Winston Churchill.
+
+Winston Churchill, oltre al resto, è da sempre appassionato di scienza e tecnologia e capisce immediatamente la necessità di sostenere il lavoro di Turing, per cui ordina:
+“AZIONE IMMEDIATA. Accertatevi che abbiano tutto quello che serve loro. Voglio essere tenuto personalmente informato.”
+
+Nel 1944 viene completato il *Colossus* progettato per decifrare la macchina di cifratura tedesca *Lorenz*. I tempi di decrittazione scendono da settimane a poche ore e ne vengono costruite 10. Non si saprà nulla di Colossus fino agli anni 70, come del fatto che Turing e il suo gruppo sentirono direttamente Churchill.
+
+La decrittazione dei messaggi tedeschi dona agli inglesi (e agli americani) un vantaggio militare enorme. Per il suo contributo, Alan Turing riceve da Re Giorgio IV la prestigiosa onorificenza dell’Order of the British Empire (OBE).
+Venngono anche fatti alcuni Sacrifici per far scoprire di aver decruttati Enigma, ad esempio vengono sacrificate alcune navi e l'onorificenza a Turing si saprà solo a guerra terminata
+
+	Negli Stati Uniti si inizia con elaborazione di numeri, calcoli veloci, in Gran Bretagna con l'elaborazione di simboli 
+
+#####Turing dopo la guerra
+Nel gennaio del 1952 Turing (che ha 39 anni) stabilisce un rapporto con un giovane, Arnold Murray. Pochi giorni dopo la sua casa viene svaligiata. Murray gli dice di conoscere chi è stato. Turing allora denuncia la persona. Durante le indagini, Turing ammette tranquillamente la sua omosessualità.
+
+Purtroppo però in quegli anni in UK l’omosessualità è reato (‘gross indecency’).
+Nel giro di poche settimane Turing viene condannato e costretto a scegliere tra la prigione e un trattamento ormonale (un estrogeno sintetico) della durata di un anno.
+
+Turing sceglie il trattamento. Il trattamento lo rende impotente e gli
+fa crescere il seno. Come conseguenza della condanna, Turing perde le credenziali per lavorare ai progetti di intelligence e gli USA gli negano l’ingresso nel paese.
+
+Il 7 giugno 1954, all’età di 41 anni, si suicida col cianuro.
+
+####USA
+#####Mark 1 e ABC
+Howard Aitken, professore di business a Harvard, odiava (come tanti prima di lui) fare calcoli a mano. Già nel 1937 ha idee per una macchina elettro-meccanica per
+automatizzare i calcoli. Arriva a parlare con IBM e con la Marina
+
+Con un contratto della Marina e un milione di dollari dall’Amm. Delegato di IBM (il leggendario Watson), Aitken nel 1939 inizia a costruire la sua macchina, che chiamerà la Harvard Mark 1.
+
+Presentata al pubblico come “Cervello Robot” in un tribudio di luci, cavi e schede perforate, la Mark 1 impressiona tutti, ma non c’è ancora una vera ‘necessità sociale’, viene usata dalla IBM semplicemente come pubblicità, ma non aveva nessuno uso pratico.
+
+Con lo scoppio della guerra si arriva alla crisi delle tavole balistiche e sorge il bisogno di calcolarle velocemente. La Marina americana ha interesse a calcolarle in maniera automatica. 
+
+Nel 1940-2 viene ideato, progettato e costruito il primo computer elettronico allo State College of Iowa da John V. Atanasoff (un professore di fisica) e Clifford Berry. Fu chiamato l’Atanasoff-Berry Computer (ABC).
+
+I creatori dovettero lottare per farsi riconoscere la primogenitura. Alla base di questa innovativa macchina digitaòe c'erano delle valvole (che venivano usate già dalle radio da 20 anni). 
+
+#####Il progetto ENIAC
+John Mauchly, che da anni cercava modi per ridurre il peso dei calcoli in varie
+discipline, sente parlare Atanasoff nel 1940 e nell’estate del 1941 va a trovarlo in Iowa, dove discutono l’ABC, e in particolare l’uso di valvole (vacuum tube).
+
+Nel 1942 pubblica l’articolo “The Use of High Speed Vacuum Tube Devices for Calculating”, inizialmente perso e poi recuperato grazie alla segretaria, che porta direttamente al progetto dell’ENIAC.
+
+Un ufficiale della Marina che si occupa di tavole balistiche (Ballistics Research Laboratory) viene a sapere delle idee di Mauchly (che sta alla University of Pennsylvania) e nel 1943 discute con lui la produzione di un calcolatore elettronico a valvole: nasce il progetto ENIAC: 'Electronic Numerical Integrator and Computer'.
+
+L'ENIAC fu una difficile impresa ingegneristica, 18000 valvole pulsanti 100000 volte al secondo. Molto costoso, molto ingombrante e anche pericoloso (le valvole si bruciavano in fretta). Tuttavia funziona, grazie a un ingegnere Presper
+Eckert che che migliora le valvole (le fa funzionare a basso voltaggio), ed è veloce. Parallelamente vengono costruiti e usati calcolatori analogici.
+
+L'ENIAC, che con 18k valvole occupava una stanza intera, viene completato un anno dopo la fine della guerra, ma fu comunque importante per la sua **velocità**:
+
+presentazione nel 46, enfasi sulla velocità - vedi slide e copia.
+	*“[W]e chose a trajectory of a shell that took 30 seconds to go from the gun to the target. Remember that girls [sic] could compute this in three days, and the differential analyser could do it in 30 minutes. The ENIAC calculated this 30-second trajectory in just 20 seconds, faster than the shell itself could fly.”*
+
+(fonte: Per una storia (sintetica) del computer http://www.computerhistory.org/timeline/?category=cmptr)
+
+###L'intelligenza artificiale e la cibernetica
+Negli anni successivi c'è un progressivo passaggio da fare i calcoli velocemente alla manipolazione automatica di simboli. Si inizia a parlare di **intelligenza artificiale**.
+
+In parallelo,negli stessi anni, c'è un filone che si interessa dei computer e dell'interazione con l'essere umano.
+Norbert Wiener (1894-1964), professore ad Harvard, padre della cibernetica, voleva modellare l'uomo non solo la macchina e credeva nell “universal role of the communication in the universe”. 
+
+La parola “Cibernetica” viene dal greco, ha la stessa radice di governare (una barca, un sistema, ecc.). La macchina fondamentale per la cibernetica è il calcolatore, il computer.
+Secondo Wiener (1948) la cibernetica è (è Wiener che conia la parola cibernetica):
+	“lo studio scientifico del controllo e della comunicazione negli animali e nelle macchine”
+Quindi ha una definizione molto vaga e ampia.
+
+La cibernetica ha un approccio trans-disciplinare all'esplorazione di sistemi di (auto) regolazione, le loro strutture, i loro vincoli e le loro possibilità.
+
+Si parla di cibernetica quando il sistema incorpora del feedback, ovvero, il sistema genera un cambiamento nell’ambiente, che a sua volta si riflette sul sistema, provocando un cambiamento. Questo approccio è potenzialmente applicabile a moltissime discipline (biologia, controlli automatici, economica, ecc.)
+
+La cibernetica divenne molto popolare negli Stati Uniti e dopo la morte di Stalin anche nell'Unione Sovietica (Stalin la riteneva una decadente idea occidentale). La cibernetica è dominante in Russia in quegli anni, si nota anche nel film di Stanley Kubrik “il Dottor Stranamore”.
+
+la cibernetica negli anni 60 è un precursore dei personal computer
+
+####Il MIT radar lab
+Durante la Seconda Guerra Mondiale, Norbert Wiener crea il MIT Radar Lab, assemblando un gruppo fortemente interdisciplinare di ricercatori.
+
+Grazie a lui, nella cultura americana permane oggi che l'interdisciplinarità sia proficua. Wiener crea un laboratorio ampio, coloro che fanno questa esperienza dopo la guerra fanno altre cose e fertilizzano governi e aziende e andando fino nella remota costa ovest (che era provinciale fino ad allora). Da Boston migrano nella costa Ovest e svolgono un ruolo fondamentale a Stanford. Sono gli artefici del suo successo e successivamente di quello della Silicon Valley.
+
+Uno degli obiettivi del MIT Radar Lab è quello di trovare un modo per cercare di fare inseguire un aereo, colpirlo e abbatterlo. La domanda che si pongono i ricercatori è come si faccia a modellare il comportamento umano nella macchina. Bisogna modellare anche l'uomo e non solo la macchina. 
+
+Von Neumann diventa uno dei padri fondatori della modellistica americana in quegli anni. Crea modelli che può è possibile che spieghino la realtà, ma in verità sono solo utili a predire la realtà. E' anche uno dei fondatori della teoria dei giochi, per cui il cervello umano è una macchina ed è modellabile matematicamente.
+
+####La cibernetica applicata all'economia
+L'approccio della cibernetica è applicabile all'ingegneria elettronica, alla psicologia, alla biologia ma anche anche all'economia.
+
+L'applicazione della cibernetica all'economia è molto interessante. 
+
+Negli anni durante e dop la II Guerra Mondiale si formano due visone contrapposte: 
+ 1. Il mercato regola l'economia tramite i prezzi, il sistema economico si autoregola (teoria liberista, neoclassica, keynesiana).  
+ 2. Il modello dell'economia pianificata. Qualcuno centralmente decide cosa e quando produrre in maniera *topdown*. A noi oggi sembra bizzarro, ma in quegli anni non era affatto chiaro quale sistema fosse economicamente più efficiente. Anzi sono anni in cui c'è una precisa paura che l'Unione Sovietica abbia un vantaggio ad avere una economia pianificata. Sono gli anni in cui l'URSS sembra avere un vantaggio economico rispetto agli Stati Uniti.
+
+
+Quando si arriva ai calcolatori e alla cibernetica e al controllo dell'economia tramite i calcolatori, la mancanza di informazioni nell'economia pianificata è un problema. Nell'economia di mercato i prezzi sono le fonti di informazioni.
+
+La cibernetica attraverso dei feedback loop, associata con i calcolatori, avrebbe potuto fare la pianificazione dell'economia. Nell'Unione Sovientica negli anni 60 ci sono dei piani faraonici per realizzare l'economia pianificata. 
+
+La CIA fa dei rapporti allarmati in questi anni affermando che la cibernetica e questo sistema automatico avrebbe spazzato via per metà degli anni 70 l'economia americana. Ciò non avviene poiché nessuno aveva tenuto conto della burocrazia dell'URSS che non aveva intenzione di essere cambiata da un sistema automatico (chi faceva il timbro aveva il potere e non aveva nessuna intenzione di essere sostituito da una macchina).
+
+###Le innovazioni tecnologiche degli anni '70 - '90
+In questi anni vengono apportate diverse innovazioni nel settore dell'elettronica:
+- I Transistor: ideati nei Bell Labs e prodotti da Texas Instruments vanno a sostituire le valvole, sono più stabili.
+- Il cicuito integrato.
+- Il microprocessore (21 anni dopo il transistor).
+- L'invenzione del mini, poi micro e poi del personal computer.
+
+####La legge di Moore
+Nel 1965 Gordon Moore, capo della ricerca e sviluppo di Fairchild Semiconductors, scopre una legge dell'innovazione tecnologica legata all'elettronica che ancora oggi tiene:
+	“Il numero di transistor su un circuito integrato raddoppia ogni anno (ogni 18 mesi, ogni due anni) con incremento minimo del prezzo.” 
+
+Una copia del suo visionario articolo del 1965 è disponibile qui (Fonte: via New York Times: http://www.monolithic3d.com/uploads/6/0/5/5/6055488/gordon_moore_1965_article.pdf)
+
+Moore ipotizza una crescita esponenziale. 
+
+Dall'evidenza di oggi sappiamo che rispetto alla prima CPU Intel (il 4004 del 1974) l’ultimaCPU di Intel (Core i5) ha:
+ - prestazioni 3.500 volte superiori
+ - 90.000 volte più energeticamente efficiente
+ - 60.000 volte più economico (facendo le proporzioni)
+(Fonte: Intel’s C.E.O., Brian Krzanich, citato da Friedman sul New York Times)
+
+###Il computer – soppressione del potenziale radicale
 # Parte Metodologica
 ## Introduzione (lezione 1) 
 In questa parte introduttiva verrà spiegato concretamente come si svolgerà il corso.
