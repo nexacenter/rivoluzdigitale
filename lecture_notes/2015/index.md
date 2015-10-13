@@ -2007,18 +2007,15 @@ Von Neumann diventa uno dei padri fondatori della modellistica americana in queg
 ####La cibernetica applicata all'economia
 L'approccio della cibernetica è applicabile all'ingegneria elettronica, alla psicologia, alla biologia ma anche anche all'economia.
 
-L'applicazione della cibernetica all'economia è molto interessante. 
-
-Negli anni durante e dop la II Guerra Mondiale si formano due visone contrapposte: 
- 1. Il mercato regola l'economia tramite i prezzi, il sistema economico si autoregola (teoria liberista, neoclassica, keynesiana).  
+Negli anni durante e dopo la II Guerra Mondiale si formano due visone contrapposte: 
+ 1. Il mercato regola l'economia tramite i prezzi, il sistema economico si autoregola (teoria liberista, neoclassica, Keynesiana).  
  2. Il modello dell'economia pianificata. Qualcuno centralmente decide cosa e quando produrre in maniera *topdown*. A noi oggi sembra bizzarro, ma in quegli anni non era affatto chiaro quale sistema fosse economicamente più efficiente. Anzi sono anni in cui c'è una precisa paura che l'Unione Sovietica abbia un vantaggio ad avere una economia pianificata. Sono gli anni in cui l'URSS sembra avere un vantaggio economico rispetto agli Stati Uniti.
-
 
 Quando si arriva ai calcolatori e alla cibernetica e al controllo dell'economia tramite i calcolatori, la mancanza di informazioni nell'economia pianificata è un problema. Nell'economia di mercato i prezzi sono le fonti di informazioni.
 
-La cibernetica attraverso dei feedback loop, associata con i calcolatori, avrebbe potuto fare la pianificazione dell'economia. Nell'Unione Sovientica negli anni 60 ci sono dei piani faraonici per realizzare l'economia pianificata. 
+La cibernetica attraverso dei feedback loop, associata con i calcolatori, avrebbe potuto fare la pianificazione dell'economia. Nell'Unione Sovientica negli anni 60 ci sono dei piani faraonici per la realizzazione dell'economia pianificata. 
 
-La CIA fa dei rapporti allarmati in questi anni affermando che la cibernetica e questo sistema automatico avrebbe spazzato via per metà degli anni 70 l'economia americana. Ciò non avviene poiché nessuno aveva tenuto conto della burocrazia dell'URSS che non aveva intenzione di essere cambiata da un sistema automatico (chi faceva il timbro aveva il potere e non aveva nessuna intenzione di essere sostituito da una macchina).
+La CIA stila rapporti allarmati in questi anni affermando che la cibernetica e questo sistema automatico avrebbe spazzato via per metà degli anni 70 l'economia americana. Ciò non avviene poiché nessuno aveva tenuto conto della burocrazia dell'URSS che non aveva intenzione di essere cambiata da un sistema automatico (chi faceva il timbro aveva il potere e non aveva nessuna intenzione di essere sostituito da una macchina).
 
 ###Le innovazioni tecnologiche degli anni '70 - '90
 In questi anni vengono apportate diverse innovazioni nel settore dell'elettronica:
@@ -2033,17 +2030,155 @@ Nel 1965 Gordon Moore, capo della ricerca e sviluppo di Fairchild Semiconductors
 
 Una copia del suo visionario articolo del 1965 è disponibile qui (Fonte: via New York Times: http://www.monolithic3d.com/uploads/6/0/5/5/6055488/gordon_moore_1965_article.pdf)
 
-Moore ipotizza una crescita esponenziale. 
+Moore ipotizza una crescita esponenziale che effettivamente fino ad oggi si è verificata. 
 
-Dall'evidenza di oggi sappiamo che rispetto alla prima CPU Intel (il 4004 del 1974) l’ultimaCPU di Intel (Core i5) ha:
+Dall'evidenza di oggi sappiamo che rispetto alla prima CPU Intel (il 4004 del 1974) l’ultima CPU di Intel (Core i5) ha:
  - prestazioni 3.500 volte superiori
  - 90.000 volte più energeticamente efficiente
  - 60.000 volte più economico (facendo le proporzioni)
 (Fonte: Intel’s C.E.O., Brian Krzanich, citato da Friedman sul New York Times)
 
-###Il computer – soppressione del potenziale radicale
-foo
+####Il computer – soppressione del potenziale radicale
+Fattori che hanno soppresso il potenziale radicale per il computer:
+- all'inizio non c'è interesse aziendale per il computer. Si sosteneva che il mercato sarebbe stato di 4-5 macchine all'anno. Inoltre si penava potesse essere solo un calcolatore;
+- c'è stata ostilità ai computer di piccole dimensioni. Si sarebbero potuti costruire computer compatti molto prima. Ci fu una scelta commerciale: si preferiva vendere poche macchine costose e potenti, piuttosto che piccole e con mercato più grande. Solo i governi e le grande aziende potevano permettersele, per esempio in tutta l'Unione Sovietica c'erano solo poche centinaia di computer.
+- la lenta adozione di linguaggi di programmazione. Zuse propose per primo il linguaggio di programmazione, si impone lentamente perché gli esperti non volevano perdere il loro ruolo. 
 
+Uniti ai fattori sopra descritti, ci fu una progressiva marginalizzazione delle donne (nonostante l'Ammiraglio americano Grace Hopper). Da pubblicità e comunicazione si tramandava infatti che il computer fosse uno strumento da uomo (quando prima i computer – chi effettuava i calcoli - erano le donne).
+
+####L'avvento del computer in Italia
+Anche l'Italia ebbe un ruolo importante nello sviluppo del computer. 
+
+La figura centrale in questo caso fu Olivetti. Durante una sua visita in America va a Stanford e si istruisce sulle macchine da scrivere. Suo figlio  capisce l'importanza dei calcolatori. Nel frattempo l'Italia sono 2-5 anni indietro rispetto agli stati Uniti.
+
+Nonostante l'arretratezza tecnologica italiana, viene prodotta una notevole innovazione, il **programma 101** (la p101). La p101 occupa una scrivania, pesa 35 kg e una singola persona può installarla, programmarla e usarla. Questa macchina, detta anche Perottina, è stata sviluppata nel 62-64 dall'ing. Pier Giorgio Perotto. Negli Stati Uniti viene presentata a New York e successivamente ne vengono venduti, dal 1965 al 1971, 44.000 esemplari.
+
+	Specifiche p101:
+	1920 bit di RAM
+	35 kg di peso 
+	stampante integrata
+	design innovativo (del giovane architetto Bellini) 
+	prezzo di lancio: $3200
+
+Aveva funzionalità limitate ma era comunque programmabile. Le istruzioni predeterminate erano quelle riguardanti:
+ - le quattro operazioni matematiche fondamentali (somma, sottrazione, moltiplicazione e divisione);  
+ - la radice quadrata;  
+ - operazioni con i registri: azzeramento, spostamento di dati tra di essi, lettura dall’utente;   
+ - definizioni di etichette di riga, salti condizionati e incondizionati;  
+ - stampa del valore di un registro.  
+
+Non ancora con un microprocessore perché sarebbero stati inventati nel 69.
+
+Prima della Perottina c'era la figura del “camice bianco” (il tecnico) che programmava il computer. L'idea del personal computer è che si possa usare senza intermediario. A quanto diceva Perotti parlando della p101:
+
+	 "Sognavo una macchina
+	amichevole alla quale delegare
+	quelle operazioni che sono causa
+	di fatica mentale e di errori, una
+	macchina che sapesse imparare e
+	poi eseguire docilmente, che
+	immagazzinasse dati e istruzioni
+	semplici e intuitive, il cui uso fosse
+	alla portata di tutti, che costasse
+	poco e fosse delle dimensioni
+	degli altri prodotti per ufficio ai
+	quali la gente era abituata. Dovevo
+	creare un linguaggio nuovo, che
+	non avesse bisogno dell'interprete
+	in camice bianco"
+
+(fonte: video di Olivetti che inventa il computer https://youtu.be/oYB2oBc1BpA)
+
+L'Italia per un certo periodo, grazie alla Olivetti, è sulla cresta dell'onda tecnologicamente. Sembrava che l'italia stesse diventando un paese all'avanguardia, purtroppo ciò non successe per una serie di motivi (fonte: Avevamo la luna, l'Italia del miracolo sfiorato).
+
+###La lenta decentralizzazione della potenza di calcolo
+####La tecnologia - dal mainframe al microprocessore
+All'inizio della storia del computer, c'era una visione fortissimamente centralizzata (un caso analogo dei giorni nostri riguarda l'energia completamente decentralizzata con il solare o centralizzata con il nucleare) che rallenta il processo evolutivo e della decentralizzazione ma non lo ferma. 
+
+In principio si pensava di connettere dei terminali esterni al mainframe sul quale era presente la potenza di calcolo (adesso questa idea sta tornando con il cloud computing).
+
+Nel 1969 un'azienda giapponese, la Busicom, contatta una giovane azienda chiamata Intel (fondata nel 1968) per sviluppare dei circuiti integrati (IC) da inserire nei calcolatori da tavolo. 
+
+Ted Hoff (con l’italiano Federico Faggin) suggerisce di mettere sullo stesso IC sia l'unità logica, sia l'unità aritmetica. Le istruzioni arrivano da una apposita ROM (Read Only Memory).
+
+Invece dei 12 chip inizialmente previsti, adesso per il progetto Busicom ne bastano solo 4:
+ - una RAM  
+ - una ROM  
+ - un IC per l’I/O  
+ - (input/output)  
+ - un microprocessore  
+
+Un microprocessore è un minuscolo IC che incorpora 2250 transistor e che implementa un computer general purpose (una micro macchina di Turing).
+
+l'idea del computer degli anni 50 viene messa in crisi dal microprocessore.
+
+####La società - Computer e cultura Hippy
+Negli anni 50 il computer è la macchina che controlla. In computer viene percepito da alcuni giovani di quegli anni come “il sistema”, strumento di potere politico, potere economico e di controllo, in cui le persone sono trattate come numeri.
+
+Negli anni 60 si sviluppa la *controcultura* (vedi anche: FSM – free speech movement). Gli anni 60 sono complicati:
+ - lotta per i diritti civili  
+ - omicidio del presidente Kennedy  
+ - Martin Luther King
+ - Guerra del Vietnam
+
+La società vuole reagire a un sistema ultra-conformista. Il computer viene visto come uno strumento al servizio di ciò che si vorrebbe modificare (metafora durante le proteste con schede traforate al collo "non siamo un numero”, “sono un essere umano e non un'entità astratta”).
+
+In questi anni una parte di questa ribellione studentesca e politica si divide in due filoni. Il primo politico, più tradizionale, che da vita alla nuova sinistra americana
+
+Una secondo filone reagisce con un movimento che è molto più interessato a varie forme di spiritualità, in particolare orientale. Vogliono provare nuove esperienze (sviluppo di droghe, che erano libere, alcune quali LSD di derivazione militare). Viene così a formarsi la cultura hippy. Negli Stati Uniti si creano dei comuni cercando di superare le famiglie tradizionali e libere dal conformismo. 
+
+Una parte di questa cultura hippy ha il desiderio di essere completamente autosufficiente e si sviluppano cataloghi per corrispondenza per costruirsi dalla cupola geodetica al trapano.
+
+In particolare c'è un catalogo, il Catalogo Della Terra Intera (“The Whole Earth Catalog”) inventato da Stewart Brand. Iniziò dagli anni 60 chiedendosi “Se hanno mandato una persona in orbita, perché non esiste nessuna foto della terra intera?”. All'interno del catalogo incominciano a esserci strumenti di calcolo, per essere veramente liberi e indipendenti oltre ai libri (e ai trapani) è necessario pure sapere calcolare.
+
+In questo tipo di cultura, in California si incomincia a sviluppare l'idea che siano desiderabili dei **computer personali** e ciò è possibile grazie al micro-processore. L'esigenza sociale è la curiosità derivante da una posizione ideologica di poter essere autosufficiente e indipendente. 
+
+A metà anni 70 cominciano ad esserci aziende che per corrispondenza mandano i pezzi per costruirsi un personal computer. Viene a formars l'*Homebrew computer club*, costituito persone entusiaste per costruirsi computer personali. 
+
+In questi anni cominciano a formarsi le basi per quella che diventerà la Silicon Valley, in cui ci furono moltissimi investimenti militari pubblici attraverso l'Università di Stanford.
+
+A metà anni 70 si quindi crea questo piccolo mercato di PC (con piccola ma crescente potenza) soprattutto in California (per motivi culturali). 
+
+####Il Personal Computer Apple e IBM
+In questo contesto si sviluppa la storia di Steve Jobs e Steve Wozniak. 
+Steve Jobs riesce a farsi i primi soldo *hackerando* la rete telefonica. Produce una scatola che emettendo un suono a 2500Hz e permettendo di chiamare gratis.
+
+I primi hackers erano della rete telefonica, erano puramente interessati alla tecnologia e a capire la rete e la centrale, non a telefonare gratis.
+Steve conosce Wozniak e insieme sviluppano l'idea di creare un PC a basso costo, come prima cosa trovano un finanziatore (non vanno direttamente in un garage) e poi sviluppano il primo PC in un garage. Nonostante ebbero una idea innovativa, riuscirono a svilupparla grazie al contesto economico e sociale in cui si trovavano (l'idea non sarebbe bastata).
+
+Jobs e Woziak non sono gli unici a sviluppare una idea simile, c'è anche l'Altair, e altre decine di produttori all'inizio degli anni 80 (fine anni 70).
+In questi anni escono sul mercato:
+ - dicembre 1974: l'Altair 8800 con la CPU intel 8080
+ - aprile 1976: Apple I
+ - giugno 1977: Apple II
+ - agosto 1981: IBM Personal Computer con la CPU intel 8088
+ - agosto 1982: Commodore 64 e ZX Spectrum
+
+A un certo punto IBM prende atto che il PC avrà successo e crea il primo personal computer IBM che diventa “IL” personal computer. IBM pubblica le specifiche del suo elaboratore favorendo lo sviluppo di diversi produttori di periferiche. Apple invece crea un sistema completamente chiuso.
+
+All'epoca tanta gente decide di comprare un PC, ma nessuno sa bene perché comprarlo e che utilità potrebbe avere. Alla fine degli anni 80 Bill Gates sviluppa la *killer app* Encarta, una enciclopedia sul PC non più di carta che induce le persone a comprare il personal computer. Ai giorni nostri è Internet che induce a comprare.
+
+La capacità di elaborazione diventa finalmente accessibile ai singoli (che non devono più recarsi in un centro di calcolo), grazie a dispositivi relativamente economici e con un architettura molto aperta (diverso dalla concezione anni 50 - terminale stupido a casa potenza di calcolo centralizzato). Questa “democratizzazione” dei computer durerà fino all’inizio del XXI° secolo, quando inizierà l’ascesa delle grandi “piattaforme”, dei “big data” e del “cloud computing”
+
+###Il diagramma di B.Winston per il computer
+--- immagine slide 90 lezione 13-05-2015 ---
+
+ - Competenze scientifiche: dai logaritmi alla teoria dell'informazione;
+ - prototipi: Zuse, ABC, Eniac;
+ - necessità sociale: bomba H;
+ - invenzione: invenzioni dei computer anni 48-49-50 (Baby Mark, SSEC, MADM, SEAC);
+ - legge della soppressione dle potenziale radicale: intenzione di avere un mainframe perché possibile controllarla e mancanza di linguaggi di programmazione;
+ - diffusione: IBM 701 1952, microcomputer 1963-1974;
+ - spin-off: videogame.
+
+###Il diagramma di B.Winston per l'hardware
+--- immagine slide 92 lezione 13-05-2015 ---
+
+ - Competenze scientifiche: silicio 1825 fino al transistor nel 1951;
+ - prototipi: incidere il silicio 1956, circuiti nel 1959 ecc.;
+ - necessità sociale: ricerca e sviluppo durante la guerra fredda;
+ - soppressione potenziale radicale: guerra fredda e intenzione di mantenere in mainframe;
+ - diffusione: microcomputer 1974.
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
