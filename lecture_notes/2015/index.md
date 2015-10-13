@@ -3082,3 +3082,156 @@ Editando Wikipedia la somma della conoscenza umana non è solo il lettura ma anc
 	conoscenza umana”
 
 Per imparare a editare Wikipedia: https://en.m.wikipedia.org/wiki/Wikipedia:The_Wikipedia_Adventure (fonte:)
+
+
+##Crap detection e senso critico (lezione 15)
+
+###Crap detection dal punto di vista concettuale
+E' possibile avere:
+-fatti veri
+-fatti inventati
+
+Inoltre i fatti possono essere discussi in modelli:
+-coerenti 
+-incoerenti
+
+Ciò che leggiamo ovunque è vero, o inventato, ed è rappresentato da modelli coerenti o incoerenti
+
+Ad esempio:
+“l'11 settembre è capitato” è un fatto vero. “E' stata Al Quaeda”, o “gli americani se le sono tirate giù" sono dei modelli.
+
+####Origine del termine
+Il termine è coniato da Hemingway che dice che ogni uomo dovrebbe avere un *crap detector* interiore.
+
+	“Every man should have a built-in automatic 
+	crap detector operating inside him”
+	E.Hemingway 
+(fonte:http://www.theatlantic.com/past/docs/issues/65aug/6508manning.htm)
+
+Neil postman co-autore di “Teaching as a subversive activity” riprende la frase di Hemingway per spiegare quale fosse il ruolo dell’educazione (fonte: http://en.wikipedia.org/wiki/Inquiry_education) in un’epoca che non poteva permettersi di non coltivare il pensiero critico (fonte:http://blog.debiase.com/2011/10/19/crap-detector-il-sensore-di/). Afferma quindi che i cittadini liberi devono essere in grado di capire cosa stanno leggendo e se questo sia vero o meno.
+
+In un periodo in cui la velocità di diffusione di notizie è massima tramite Internet e il Web, unita agli incentivi a rilasciare notizie eclatanti che stupiscano, sapere a cosa credere diventa fondamentale.
+
+	“L’inquinamento online è enorme, ma risolvibile”
+	Howard Rheingold
+
+####Il relativismo - contesto storico
+
+Rispetto a epoche precedenti in cui vi erano autorita’ ben definite (si pensi al 1910, in cui le autorità erano Dio, il Papa e la famiglia), nella nostra epoca il concetto di verità è diventato molto più relativo. 
+
+Inoltre ai giorni nostri non c'è più (in una certa misura) l'autorevolezza della testata, ma solo quella del singolo giornalista (ad esempio capita spesso che i siti web di testate storiche pubblichino bufale).
+
+Un grande peso cognitivo è posto sull’ individuo che in quanto cittadino partecipa democraticamente
+
+####Il ruolo dei media
+I mezzi di comunicazione di massa (i.e., i giornali autorevoli) erano la nostra fonte di informazione fino a poco fa.
+
+Il passaggio a Internet significa che è più veloce diffondere le informazioni )(che talvolta si diffondono in modo virale), ma significa anche che si allarga il campo delle fonti di cui ci si può fidare (per esempio blogger, esperti)
+
+Inoltre c'è stato un cambio nel modello di business per sostenere il mercato delle notizie. In principio si comprava la carta, ora la maggioranza dei siti web sono liberi, e l'unica fonte di reddito è la pubblicità. 
+
+Più visite al sito vogliono dire più entrate pubblicitarie e ciò cambia il comportamento dei giornali.
+
+####Perché esistono le bufale
+I motivi possono essere diversi:
+ - per un motivo che appartiene alla sotto cultura internet. Si scrivono bufale per divertimento;
+ - per esperimenti sociali (ad esempio nel 1946 ci fu l'annuncio “Gli UFO dtanno arrivando che scatenò il panico”)war games 1984 film;
+ - per propaganda;
+ - un fatto viene interpretato male o appositamente male interpretato per credenze personali, successivamente è riportato su un sito e viene citato a catena da altri siti;
+ - perché Internet come lo conosciamo noi si basa tantissimo sulla pubblicità, ricevere traffico è una buona cosa. Si fa link-dating, si adescano persone con dei link che cercano di adescare l'utente (usato molto da alcuni movimenti politici quali il M5S). La struttura economica del web permette di fare link-dating che incentiva le persone a compiere determinate azioni. Ad esempio il news-feed di Facebook non è timeline strict, le cose più cliccate rimangono in cima. I modelli editoriali si basano quindi su sensazionalismo e link-dating;
+- perché le persone non vedono l'ora di condividere cose che rafforzano i propri pregiudizi. Barriere critiche sono più basse quando una notizia rafforza le proprie mie idee. 
+
+###La crap detection in pratica
+E' importante che i cittadini acquisiscano gli strumenti critici necessari per capire se ciò che leggono in rete è fondato oppure no (= spazzatura o no), che abbiano gli strumenti per capire di chi possono e di chi non possono fidarsi.
+
+Per fare ciò si usano tecniche antiche come la storiografia unite a tecniche legate a internet.
+
+####Tecniche per la crap detection
+
+#####Due livelli di crap detection
+
+Può volerci molto tempo per smascherare notizie “false” ben costruite. C'è  un compromesso tra il tempo che si può spendere per verificare una notizia, le fonti cui si ha accesso accesso, e l’importanza soggettiva di farsi una opinione genuina su un determinato tema. Tuttavia in molti casi però è banale da fare.
+
+######Crap detection livello base
+Il livello di base e’ quello di riuscire a capire rapidamente quali sono le “boiate”, in pratica notizie infondate e distorte che vengono anche dette “bufale”. Un ottimo lavoro in tal senso è svolto da Paolo Attivissimo (http://www.attivissimo.net/) e Bufale un tanto al chilo (http://www.butac.it/).
+
+######Crap detection avanzata
+La crap detection avanzata consiste nel capire le notizie distorte propagate dai mezzi di informazione autorevoli (di fatto *propaganda*).
+
+In questo contesto c'è il pericolo dell *auctoritas*: “siccome lo dice il New York Times, mi fido”.
+
+Questo tipo di crap detection è molto molto difficile in qualunque epoca (e.g., report dal fronte truccati durante WWI, armi di distruzione di massa in Iraq).
+
+#####Regole di buon senso
+Quando si legge una notizia, bisognerebbe porsi una serie di domande e criteri e per verificare che non sia distorta oppure falsa, qui di seguito ce ne sono alcuni:
+1. chi e’ l’autore? 
+2. cosa ha fatto in passato? cosa dicono di lui? chi sono quelli che parlano di lui? 
+3. valuta il design del sito (troppo amatoriale potrebbe implicare un autore troppo solitario); 
+4. vedi se l’autore dice quali sono le sue fonti, ossia documenti e link; 
+5. cercare se altri hanno linkato questa pagina usando Google;
+6. triangolare, facendo verifiche incrociate.
+
+Ma soprattutto bisogna **essere scettici**. Paul Bradshaw diche che il test “troppo bello per essere vero” (ad esempio vincere due milioni di euro) dovrebbe essere in principale che i giornalisti devono tenere a mente quando iniziano a verificare il materiale online (è una questione di “gut feeling”). Silverman ha aggiunto che i giornalisti dovrebbero fare attenzione a foto o video che sembrano rappresentare in toto un evento in quanto questi sono i contenuti in cui gli *hoaxer* tendono a venir fuori.
+(fonte:https://www.journalism.co.uk/news-features/how-to-verify-content-from-social-media/s5/a548645/).
+
+#####Regole pratiche
+Innanzitutto bisogna essere scettici, successivamente si possono usare diversi strumenti per provare se il nostro scetticismo sia fondato o meno.
+
+######L'esempio di Unhappy Birthday
+Unhappy Birthday è un sito che dice che happy birthday è sotto copyright di Warner Bros che continua a ottenere royalties attraverso l'ASCAP. Suggerisce inoltr di inviare una email ad ASCAP per informarli di violazioni di copyright se qualcuno ha cantato happy birthday in pubblico.
+
+ - Autore: in fondo alla pagina il sito dice che si può contattare Benjamin Mako Hill
+ - il design del sito e’ abbastanza retro’
+ - c’e’ comunque qualche link / fonte
+
+Il punto di partenza è cominciare col capire chi è questo Benjamin Mako Hill.
+
+Con una rapida ricerca su Google (o altri motori di ricerca) si capisce subito che è un “free software activist, hacker, and author”. Già il profilo dovrebbe indurci a pensare che non sia la classica persona che incita a segnalare violazioni di copyright...a questo punto dovrebbe suonare un campanello d'allarme, potrebbe trattarsi di:
+ - Una parodia;
+ - Una c.d. “Trollata”: uno scherzo per indispettire chi si indispettisce facilmente.
+
+La ricerca a questo punto non è ancora finita. Una idea è cercare (sempre su un motore di ricerca) chi è Benjamin Mako Hill associato al nome del sito, magari qualcuno ha già scritto a proposito di questo sito. Dopo questa ulteriore verifica si nota, dal blog di Benjamin, come questo fosse uno scherzo (precisamente una trollata).
+
+#####Siti antibufale
+Alcune bufale sono famose e ricorrenti, quando suona il campanello di allarme dello scetticismo ricorrere a questi siti può essere una tecnica semplice e veloce per smascherarle.
+
+Un elenco di siti di indagine antibufala è disponibile qui: http://bufalopedia.blogspot.fr/p/siti-da-conoscere.html
+
+Mentre un elenco di siti riconosciuti come creatori di bufale si trova qui:
+http://bufalopedia.blogspot.fr/p/siti-da-conoscere.html 
+
+
+####Strumenti tecnici
+#####WHOIS
+Il protocollo di rete permette di stabilire a quale provider internet appartiene uno specifico nome a dominio (per esempio www.polito.it) oppure indirizzo IP (per esempio: 130.192.91.231)” (fonre: Wikipedia).
+
+whois.domaintools.com facilita ricerche sul database mondiale di dati WHOIS
+whois.domaintools.com.
+
+#####TinEye
+E' un servizio che si può usare per effettuare una reverse image search per identificare diverse versioni esistenti della stessa immagine. Un processo che ora si può anche fare attraverso Google Immagini.
+(fonte:https://www.journalism.co.uk/news-features/how-to-verify-content-from-social-media/s5/a548645/)
+
+#####Ricerca delle fonti su Twitter
+Craig Silverman consiglia di: 
+ - controllare quando l’account e’ stato creato
+ - analizzare la rete: amici, follower, retweet e le conversazioni che l’account ha avuto
+ - chi dice di essere la persona, di cosa parla tipicamente, il rapporto tra queste due cose
+ - controllare altri account collegati, controllare blog collegati, controllare il Klout Score (è una metrica quantitativa basata anche sui retweet, gli account twitter fake possono alterarla, https://klout.com/corp/score)
+
+######Account Twitter fake
+Apparentemente c'è’ un mercato di account Twitter fake che possono essere usati da chi li controlla per (a pagamento): seguire altri account, re-twittare quando necessario.
+
+Questi account fake possono essere usati per manipolare la reputazione su Twitter, ad esempio quella calcolata attraverso il Klout Score.
+
+Spesso la foto dei fake e’ un ovetto.
+
+###Approfondimenti sulla crap detection
+Letture sulla metodologia giornalistica professionale utilizzata per verificare le notizie: 
+ - Nieman Reports http://niemanreports.org/articles/the-essence-of-journalism-is-a-discipline-of-verification/;
+ - American Press Institute https://www.americanpressinstitute.org/journalism-essentials/verification-accuracy/journalism-discipline-verification/;
+ - journalism.co.uk https://www.journalism.co.uk/news-features/how-to-verify-content-from-social-media/s5/a548645/;
+ - poynter.org http://www.poynter.org/news/mediawire/171713/8-must-reads-that-detail-how-to-verify-content-from-twitter-other-social-media/;
+ - slide di Craig Silverman http://www.slideshare.net/craigsilverman/bs-detection-for-digital-content
+ - sezione “Risorse” del sito del corso http://rivoluzionedigitale.polito.it/risorse
+
