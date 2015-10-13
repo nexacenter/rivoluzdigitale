@@ -3275,7 +3275,7 @@ Oltre ad ARPANET, fioriscono anche altri progetti analoghi di reti a pacchetto (
 
 RFC (Request For Comments): documenti utilizzati per specificare gli standard della rete ARPANET e poi di Internet. Uno dei primi standard e' il Network Control Program (NCP) utilizzato da ARPANET come livello di trasporto (vedere sezione [Architettura](#architettura)) per ARPANET.
 
-[[Dicembre 1974]](http://en.wikipedia.org/wiki/History_of_the_internet#TCP.2FIP) Viene specificato l'Internet Transmission Control Program (TCPv1). La specifica viene in seguito semplificata (a lezione sono stato impreciso su questo aspetto, mi correggo di seguito) <strike>con il passaggio da NCP a TCP/IP</strike> con il passaggio da TCPv1 a TCP/IP propriamente detto (attualmente siamo alla versione 4.
+[[Dicembre 1974]](http://en.wikipedia.org/wiki/History_of_the_internet#TCP.2FIP) Viene specificato l'Internet Transmission Control Program (TCPv1). La specifica viene in seguito semplificata (a lezione sono stato impreciso su questo aspetto, mi correggo di seguito) con il passaggio da TCPv1 a TCP/IP propriamente detto (attualmente siamo alla versione 4.
 
 [[Settembre 1981]](http://en.wikipedia.org/wiki/History_of_the_internet#TCP.2FIP) RFC 791/792/793 (documenti fondanti di Internet perche' specificano la suite di protocolli TCP/IP sui cui Internet si basa). In particolare:
 
