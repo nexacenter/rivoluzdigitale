@@ -3337,7 +3337,8 @@ di dominio, ossia per per aiutare gli umani a ricordarsi (esempio: varanasy.poli
 
 Viene inviata una richiesta DNS che
 contiene un nome a dominio (es., x.org), come risposta si riceve un messaggio DNS dal server contenente l’indirizzo corrispondente (es.,18.7.25.161) al nome che avete chiesto
-### Le Web e le URL
+
+### Il Web e le URL
 
 #### Internet e Web
 Il web è implementato da un protocollo che si chiama HTTP e che si basa su TCP. In altre parole questo significa che possiamo vedere il web come una applicazione distribuita che gira su Internet. Ci sono dei server web con dei contenuti e dei client che usano HTTP per scaricarli.
