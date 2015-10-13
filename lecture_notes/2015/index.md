@@ -3235,3 +3235,128 @@ Letture sulla metodologia giornalistica professionale utilizzata per verificare 
  - slide di Craig Silverman http://www.slideshare.net/craigsilverman/bs-detection-for-digital-content
  - sezione “Risorse” del sito del corso http://rivoluzionedigitale.polito.it/risorse
 
+
+
+## Storia e funzionamento di internet (lezione 16)
+
+Come dicevamo nella scorsa lezione (lezione 14), il computer era molto utilizzato dalla aziende (1980s [VisiCalc](http://en.wikipedia.org/wiki/VisiCalc)), le persone comuni non sapevano come usarlo (ad esempio si usava per giocare a solitario); hanno iniziato a usarlo seriamente per accedere a Internet.
+
+In questo paragrafo verranno trattati
+ - la storia di internet, 
+ - i principi di internet
+ - l'architettura di Internet. 
+ - il formato degli indirizzi Internet. 
+
+Come fonti principali principali sono stati presi [Wikipedia](http://en.wikipedia.org/wiki/History_of_the_internet) e [Come funziona Internet](http://nexa.polito.it/nexafiles/ComeFunzionaInternet.pdf).
+
+
+Appunti presi da un nostro agente infiltrato a lezione, che si e' finto uno studente di Rivoluz. ([I nostri uomini vi vedono](https://www.youtube.com/watch?v=XOzsxIBzE-I).)
+
+
+### Storia di Internet
+
+[[1950s]](http://en.wikipedia.org/wiki/History_of_the_internet#Three_terminals_and_an_ARPA) Si comincia a parlare di reti a pacchetto in USA, UK, Francia. In particolare, Joseph Licklider definisce il _packet switching_ (suddivisione del messaggio in pacchetti di informazione, ognuno trattato indipendentemente dagli altri) contrapposto alla creazione di un circuito riservato tipica delle reti telefoniche.
+
+Pregi del packet switching: robustezza, efficienza. Ma scetticismo, specie nel mondo TLC (dubbi sulla qualita` offerta da una rete a pacchetti).
+
+[[1960s]](http://en.wikipedia.org/wiki/History_of_the_internet#Packet_switching) Paul Baran studia come progettare una rete robusta a guasti, dalle cesoie allo escavatore fino a un olocausto nucleare, e conclude che c'e' bisogno di una rete a pacchetti. BTW, cito direttamente dalla pagina Wikipedia [History of the Internet](http://en.wikipedia.org/w/index.php?title=History_of_the_Internet&oldid=608236269):
+
+The widespread urban legend that the Internet was designed to resist a nuclear attack likely arose as a result of Baran's earlier work on packet switching, which did focus on redundancy in the face of a nuclear "holocaust".
+
+Una rete a pacchetti, insomma, "impara" e si adatta ai guasti (cio' e' possibile grazie al fatto che ogni pacchetto viaggia indipendentemente dagli altri, a sua volta reso possibile dal fatto che su ogni pacchetto e' scritto l'indirizzo di destinazione).
+
+Esempio di guasto in rete telefonica (cade telefonata perche' un numero corrisponde a un circuito elettrico che collega le due persone che si stanno telefonando) vs. rete Settembrea pacchetti in cui la rete puo' scegliere un altro percorso (ovvio: se disponibile) una volta identificato il guasto.
+
+Sempre in questo periodo, Leonard Kleinrock (MIT) dimostra che le reti a pacchetto sono tecnicamente superiori alle reti a circuito (sempre citando [Wikipedia](http://en.wikipedia.org/w/index.php?title=History_of_the_Internet&oldid=608236269): <cite>[p]acket-switching provides better bandwidth utilization and response times than the traditional circuit-switching technology used for telephony, particularly on resource-limited interconnection links</cite>.)
+
+[[29 Ottobre 1969]](http://en.wikipedia.org/wiki/History_of_the_internet#ARPANET) Nasce ARPANET, la prima rete a pacchetto finanziata da ARPA (Advanced Research Projects Agency), agenzia del governo US. Primi esperimenti tra UCLA (Los Angeles) e SRI (Standford), problemi di stabilita`. Poi i nodi si moltiplicano molto rapidamente (cfr. [disegni che mostrano l'evoluzione di ARPANET nei 1970s](http://som.csudh.edu/cis/lpress/history/arpamaps/)).
+
+Oltre ad ARPANET, fioriscono anche altri progetti analoghi di reti a pacchetto ([X.25](http://en.wikipedia.org/wiki/History_of_the_internet#X.25_and_public_dahttp://en.wikipedia.org/wiki/History_of_the_internet#From_ARPANET_to_NSFNETta_networks), [UUCP/USENET](http://en.wikipedia.org/wiki/History_of_the_internet#UUCP_and_Usenet)). Per permettere comunicazione tra reti diverse nasce "Internet Networking", che oggi chiamiamo Internet (Bob Kahn, Vint Cerf).
+
+RFC (Request For Comments): documenti utilizzati per specificare gli standard della rete ARPANET e poi di Internet. Uno dei primi standard e' il Network Control Program (NCP) utilizzato da ARPANET come livello di trasporto (vedere sezione [Architettura](#architettura)) per ARPANET.
+
+[[Dicembre 1974]](http://en.wikipedia.org/wiki/History_of_the_internet#TCP.2FIP) Viene specificato l'Internet Transmission Control Program (TCPv1). La specifica viene in seguito semplificata (a lezione sono stato impreciso su questo aspetto, mi correggo di seguito) <strike>con il passaggio da NCP a TCP/IP</strike> con il passaggio da TCPv1 a TCP/IP propriamente detto (attualmente siamo alla versione 4.
+
+[[Settembre 1981]](http://en.wikipedia.org/wiki/History_of_the_internet#TCP.2FIP) RFC 791/792/793 (documenti fondanti di Internet perche' specificano la suite di protocolli TCP/IP sui cui Internet si basa). In particolare:
+
+*   IP (Internet Protocol): piu` semplice, si occupa del solo instradamento;
+*   TCP (Transmission Control Protocol): piu` complicato, segmenta il messaggio da inviare in pacchetti e riassembla i pacchetti che riceve in messaggio (segmentazione); gestisce anche le perdite (ritrasmette quando capisce che un pacchetto e' andato perduto); molto altro (lo vedrete nei corsi di reti);
+*   UDP (User Datagram Protocol): un (sto semplificando molto!) TCP piu' semplice che, ad esempio, non gestisce le perdite.
+
+Principio base (semplificato) di Internet: "La rete e` stupida": IP si usa all'interno della rete ("router"), TCP/IP si usa ai bordi ("end host"). Siccome la rete e' "stupida", e' semplice costruire macchine (dette appunto router) che si occupano dell'instradamento, quindi e' possibile ottenere velocita' di trasmissione (e instradamento!) elevate.
+
+[[1 Gennaio 1983]](http://en.wikipedia.org/wiki/History_of_the_internet#TCP.2FIP) Il protocollo di ARPANET passa da NCP a TCP/IP.
+
+[[1980-1995]](http://en.wikipedia.org/wiki/History_of_the_internet#From_ARPANET_to_NSFNET) Verso fine anni '80 la NSF (National Science Foundation) finanzia un importante upgrade della rete Internet, che ancora si basava su ARPANET, chiamato NSFNet. Nel 1986 la dorsale della rete NSFNet (ossia i collegamenti tra i nodi piu' importanti della rete) aveva una capacita' di 56 kbit/; nel 1988 di 1.5 Mbit/s; nel 1991 di 45 Mbit/s.
+
+[[1995]](http://en.wikipedia.org/wiki/History_of_the_internet#From_ARPANET_to_NSFNET) Dopo la nascita degli ISP commerciali e la progressiva perdita di importanza delle reti finanziate da enti di ricerca (NSFNet e ARPANET), l'amministrazione Clinton autorizza l'uso di Internet per scopi di lucro (prima di allora non erano permesse attivita` commerciali su internet, dato che, prima del 1995, Internet era finanziata da soldi destinati alla ricerca).
+
+### Principi di Internet
+
+_[Inter-networking](http://en.wikipedia.org/wiki/Internetworking)_: (concetto fondamentale!) Internet permette di far parlare tra loro, ad esempio, una rete [WiFi](http://en.wikipedia.org/wiki/Wi-Fi) e una rete [LAN](http://en.wikipedia.org/wiki/LAN) oppure una rete [3G](http://en.wikipedia.org/wiki/3G).
+
+_[End-to-end principle](http://en.wikipedia.org/wiki/End_to_end_principle)_: robustezza, la complessita` deve stare ai bordi (modo formale di dire che "la rete e' stupida").
+
+_[Net neutrality](http://en.wikipedia.org/wiki/Net_neutrality)_: la rete deve trattare tutti i pacchetti allo stesso modo, indipendentemente dall'applicazione usata (esempio: Skype), dal mittente (esempio: YouTube) o dal destinatario. Leggi sulla neutralita' della rete in [Olanda](http://en.wikipedia.org/wiki/Net_neutrality#Law_in_The_Netherlands) e [Slovenia](http://en.wikipedia.org/wiki/Net_neutrality#Law_in_Slovenia): Internet non deve discriminare.
+
+_[Best effort](http://en.wikipedia.org/wiki/Best_effort)_ (vs [QoS](http://en.wikipedia.org/wiki/Quality_of_service)): la rete non da` garanzie su banda e latenza (a differenza della rete telefonica), ma fa solo del suo meglio per portare i pacchetti a destinazione.
+
+### Architettura di Internet
+
+Inizialmente le regole di instradamento erano specificate a mano, mentre adesso le regole di instradamento vengono calcolate automaticamente, quindi Internet e' in grado di riconfigurarsi automaticamente in caso di guasto (che era l'obiettivo di Paul Baran).
+
+Stratificazione di internet:
+
+*   [Application Layer](http://en.wikipedia.org/wiki/Application_layer) (applicazioni varie...)
+*   [Transport Layer](http://en.wikipedia.org/wiki/Transport_layer) (TCP, UDP)
+*   [Internet Layer](http://en.wikipedia.org/wiki/Internet_layer) (IP)
+*   [Link Layer](http://en.wikipedia.org/wiki/Link_layer) (3G, WIFI, LAN ...)
+
+Applicazioni:
+
+*   [Posta Elettronica](http://en.wikipedia.org/wiki/Email): protocolli [SMTP](http://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) e [IMAP](http://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) (basati su TCP, che e` basato su IP.);
+*   [Web](http://en.wikipedia.org/wiki/World_Wide_Web): applicazione basata su [HTTP](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), che poggia su TCP (Web diverso da internet!);
+*   [uTorrent Protocol](http://en.wikipedia.org/wiki/Micro_Transport_Protocol): protocollo che poggia su UDP, per fare file sharing;
+*   [Skype](http://en.wikipedia.org/wiki/Skype_protocol): applicazione e protocollo (basato su UDP), per fare videochiamate e telefonate via Internet;
+*   [DNS](http://en.wikipedia.org/wiki/Domain_Name_System) (Domain Name System): applicazione, basata su UDP, che traduce nomi in indirizzi.
+
+Esempio (molto semplificato e per nulla ottimizzato) di funzionamento del DNS: risoluzione ricorsiva del dominio [www.facebook.com](http://www.facebook.com "www.facebook.com"). Viene prima risolto "facebook.com", chiedendo al server che gestisce ".com" chi sia "facebook.com". La risposta indica che "facebook.com" e' una "zona" che gestisce vari sottodomini. Viene quindi risolto "www.facebook.com", chiedendo al server che gestisce "facebook.com" chi sia "www.facebook.com". La risposta indica che "www.facebook.com" e' un server con un certo indirizzo IP.
+
+### Indirizzi IP
+
+Indirizzi IP (versione 4, quella che attualmente piu' o meno tutti usano nel mondo). Esempio: 130.192.91.211\. Sono quattro cifre (comprese tra 0 e 255) e separate tra loro da punti.
+
+Gli indirizzi IP sono univoci in tutta la rete Internet (salvo alcuni casi eccezionali che vedrete, forse, nei vari corsi di rete), altrimenti non sarebbe possibile per i computer collegati a Internet comunicare tra loro.
+
+### Il DNS
+DNS sta per Domain Name System.
+
+Gli indirizzi IP erano difficili da ricordare in
+quanto numeri (130.192.91.211) Per questo motivo sono stati inventati i nomi
+di dominio, ossia per per aiutare gli umani a ricordarsi (esempio: varanasy.polito.it).
+
+Viene inviata una richiesta DNS che
+contiene un nome a dominio (es., x.org), come risposta si riceve un messaggio DNS dal server contenente l’indirizzo corrispondente (es.,18.7.25.161) al nome che avete chiesto
+### Le Web e le URL
+
+#### Internet e Web
+Il web è implementato da un protocollo che si chiama HTTP e che si basa su TCP. In altre parole questo significa che possiamo vedere il web come una applicazione distribuita che gira su Internet. Ci sono dei server web con dei contenuti e dei client che usano HTTP per scaricarli.
+#### Le URL
+Una URL è un indirizzo sul web e indica una
+risorsa (una pagina web, un video, una foto, un
+file di testo) su un certo server. 
+	ad esempio: http://x.org/antani significa
+ 	la risorsa identificata da /antani
+	sul server x.org
+	usando il protocollo HTTP
+#### Il broswer
+Dato http://x.org/antani il browser
+ -  usa il DNS per risolvere x.org e ottenere il
+corrispondente indirizzo 18.7.25.161
+ -  usa TCP per connettersi al server 18.7.25.161 sulla
+porta 80 (quella usata dal web)
+ - usa HTTP (che a sua volta usa TCP) per mandare al
+server una richiesta per la risorsa /antani
+ - chiude la connessione TCP
+ - fa vedere la risorsa /antani (che potrebbe essere una
+foto, un video, una pagina web)
