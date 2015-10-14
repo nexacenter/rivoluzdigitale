@@ -2181,7 +2181,7 @@ La capacità di elaborazione diventa finalmente accessibile ai singoli (che non 
  - diffusione: microcomputer 1974.
 
 ##Il PC: storia, modelli, cultura hacker (lezione 18) 
-###Il modello PC vs il modello appliance
+###Il modello PC Vs il modello appliance
 una scelta industriale di IBM durante la progettazione del PC, fu quello di rendere disponibili le specifiche HW del personal computer, creando un prodotto aperto.
 
 L'architettura del PC di IBM è aperta e ognuno può costruire periferiche per questa macchina (Anche i discendenti del PC IBM sono aperti). 
@@ -2198,7 +2198,7 @@ Questo causa diverse cose:
 
 Già in quegli anni (inizio anni '80) c'erano altri modelli, non basati su HW modulare e liberi, detti *appliance* (ad esempio la lavatrice, lavastoviglie ecc). Questi modelli prevedevano (e prevedono, oggi stanno tornano in voga con gli App Store) l'uso del computer per scopi prestabiliti.
 
-Il modello *appliance* da l'opzione di scelgliere solo predeterminate azioni (es: scrivere mail, foglio di calcolo ecc.).
+Il modello *appliance* da l'opzione di scegliere solo predeterminate azioni (es: scrivere mail, foglio di calcolo ecc.).
 
 Inizialmente, per 30 anni, il modello PC è dominante e la sensibilità è molto vivace quando si cerca di chiudere parti del sistema. A partire dal 2007, anno di uscita dell'iPhone, si sta progressivamente andando verso il modello *appliance*. Il sistema operativo della Apple a ogni nuova release sta rendendo più difficile installare applicativi trovati per la rete e non licenziati dalla Apple (sistema paternalista). 
 
@@ -2207,10 +2207,10 @@ Inizialmente, per 30 anni, il modello PC è dominante e la sensibilità è molto
  - Libertà e flessibilità: l'utente ha molto controllo, la macchina fa quello che l'utente vuole
 
 #####Modello PC - Contro
- - Maggire difficoltà di utilizzo (rispetto al modello *appliance*) soprattutto per gli utenti non esperti (la maggioranza)
+ - Maggiore difficoltà di utilizzo (rispetto al modello *appliance*) soprattutto per gli utenti non esperti (la maggioranza)
  - Più difficile l'assistenza tecnica sia lato software sia lato hardware
  - minore sicurezza
-	- Se il sistema operativo ha dei *malware*, nel modello aperto, l'hardware non si riufita di installarlo. 
+	- Se il sistema operativo ha dei *malware*, nel modello aperto, l'hardware non si rifiuta di installarlo. 
 	- Anche nel caso degli applicativi non ci sono controlli automatici per evitare l'istallazione di software malevolo (malware)
 
 
@@ -2227,10 +2227,10 @@ Sono l'esatto rovescio delle macchine aperte:
  - assistenza più facile.
 
 #####Modello appliance - Contro
- - Complicato installare software personalizzato: bisogna fare il cosiddetto *Jailbreak* (isntallare un sistema operativo che "libera" l'hardware) e inoltre si invalida la garanzia
- - Un *gatekeeper* che decide quali app siano installabili: si possono installare solo le applicazioni approvate dal venditore del dispositivo. Ad esempio nell'App store è possibile scaricare solo le applicazioni approvate da Apple.
+ - Complicato installare software personalizzato: bisogna fare il cosiddetto *Jailbreak* (installare un sistema operativo che "libera" l'hardware) e inoltre si invalida la garanzia
+ - Un *gatekeeper* che decide quali app siano installabili: si possono installare solo le applicazioni approvate dal venditore del dispositivo. Ad esempio nell'AppSstore è possibile scaricare solo le applicazioni approvate da Apple.
 
-Un gatekeeper effettua un blando controllo sulla sicurezza degli applicativi scaricabili (non garantisce l'assenza di essi comunque). Inoltre fa un controllo anche sul tipo di app, il produttore si riserva il diritto di rifiutare una app insindacabilmente. Ci sono diversi esempi, tuttavia uno eclatante fu il caso di una applicazione, "democratici vs. repubblicani", rifiutata personalmente da Steve Jobs che non voleva avere ne suo store una app che avrebbe fatto arrabbiare metà della popolazione americana.
+Un gatekeeper effettua un blando controllo sulla sicurezza degli applicativi scaricabili (non garantisce l'assenza di essi comunque). Inoltre fa un controllo anche sul tipo di app, il produttore si riserva il diritto di rifiutare una app insindacabilmente. Ci sono diversi esempi, tuttavia uno eclatante fu il caso di una applicazione, "democratici Vs. repubblicani", rifiutata personalmente da Steve Jobs che non voleva avere ne suo store una app che avrebbe fatto arrabbiare metà della popolazione americana.
 
 	Un singolo gatekeeper crea problemi di libertà di espressione molto forte. 
 
@@ -2239,7 +2239,7 @@ Lo standard della libertà di espressione che deve rispettare una azienda è mol
 ###La cultura hacker
 La parola **hacker** è stata e continua essere violentata dal giornalismo (soprattutto quello italiano che la associa sempre ad attacchi ed eventi negativi).
 
-La parola hacker proviene dal verbo *to hack* (colpire, tagliare con l'accetta per dare forma a qualcosa). Specialmente all'MIT di Boston, si sviluppa già a partire da inizio '900 una cultura dell *hacking*. Hacking nel senso di prendere una macchina fisica, smontarla, rimontarla, anche con l'obiettivo di fargli fare qualcosa di diverso anche solo per gioco. 
+La parola hacker proviene dal verbo *to hack* (colpire, tagliare con l'accetta per dare forma a qualcosa). Specialmente all'MIT di Boston, si sviluppa già a partire da inizio '900 una cultura dell '*hacking*. Hacking nel senso di prendere una macchina fisica, smontarla, rimontarla, anche con l'obiettivo di fargli fare qualcosa di diverso anche solo per gioco. 
 
 	Hacking è giocare con le macchine
 
@@ -2261,9 +2261,9 @@ Da cosa sono spinti gli hacker:
  - piacere intellettuale;
  - curiosità;
  - condivisione (con altre persone della stessa comunità - di codici, informazioni ecc.);
- - meritrocazia.
+ - meritocrazia.
 
-Le persone che usano le stesse competenze degli hacker per rubar soldi, ricattare, truffare e fare cose tendezialmente amorali vengono chiamati **cracker** (dall'inglese come qualcuno che rompe, spezza).
+Le persone che usano le stesse competenze degli hacker per rubar soldi, ricattare, truffare e fare cose tendenzialmente amorali vengono chiamati **cracker** (dall'inglese come qualcuno che rompe, spezza).
 
 Il confine tra hacker e cracker è sottile, le competenze sono le stesse, ma il comportamento etico è profondamente diverso. Un hacker può diventare cracker e viceversa.
 
@@ -2273,9 +2273,9 @@ Con i computer, in particolare quando connessi in rete, condividere informazioni
 ####I crimini informatici e la legislazione anni '80
 Pare che le prime leggi per i crimini informatici siano uscite proprio in seguito al film "War games" del 1984, in cui un ragazzo con un modem e un computer causa una guerra nucleare.
 
-i crimini informatici negli USA sono crimini federali, cioè giudicati particolarmente pericolosi per la società. La legislazione su questi crimini negli USA è fortemente criticata poichè estremamente vaga e basata sugli standard tecnici degli anni 80.
+i crimini informatici negli USA sono crimini federali, cioè giudicati particolarmente pericolosi per la società. La legislazione su questi crimini negli USA è fortemente criticata poiché estremamente vaga e basata sugli standard tecnici degli anni 80.
 
-Qualifica come crimine, infatti, moltissime attività riguardanti computer che entrano in contatto con altri computer. Di qiesto argomento se ne è parlato moltissimo in seguito al suicidio dello studente Aaron Schwarz che per via delle sue attività rischiava 50 anni di carcere.
+Qualifica come crimine, infatti, moltissime attività riguardanti computer che entrano in contatto con altri computer. Di questo argomento se ne è parlato moltissimo in seguito al suicidio dello studente Aaron Schwarz che per via delle sue attività rischiava 50 anni di carcere.
 
 Negli ultimi tempi si sta quindi pensando di riformare queste leggi che equiparano delle attività relativamente innocue a reati molto più gravi quale l'omicidio colposo.
 
@@ -2283,27 +2283,103 @@ Negli ultimi tempi si sta quindi pensando di riformare queste leggi che equipara
 ###La conoscenza e la condivisione
 Per parlare la conoscenza bisogna parlare prima di due caratteristiche di un bene. Si parla di beni, fisici o immateriali, classificati in base a due caratteristiche, rivalità e escludibilità, che su un piano formano 4 spazi:
  - beni rivali: sono quelli per cui se io ne godo nessun altro ne può godere. Esempio: se sto mangiando una mela nessun altro la può mangiare.
- - beni escludibili: un bene escludibile è uno per cui è possibile escluderne il consumo a una o più persone. L'aria è un bene non escludibile, la radio FM non è escludibile (se hai una radiobasta sintonizzarsi). Con la crittografia degli ultimi anni beni non escludibili sono diventati escludibili, ad esempio la pay tv.
+ - beni escludibili: un bene escludibile è uno per cui è possibile escluderne il consumo a una o più persone. L'aria è un bene non escludibile, la radio FM non è escludibile (se hai una radio basta sintonizzarsi). Con la crittografia degli ultimi anni beni non escludibili sono diventati escludibili, ad esempio la pay tv.
 
 **I beni non rivali e non escludibili sono chiamati beni pubblici**. Per esempio l'aria, la difesa nazionale e la conoscenza.
 
-Se io godo della conoscenza, ciò non impedisce ad altri di usarla quindi non è escludibile. Di per sè la conoscenza è anche molto difficile da recintare se non è su un supporto fisico (libro, CD, DVD). Inoltre la conoscenza acquista di valore tanto più è condivisa, più la conoscenza è diffusa più è utile per tutti. Per l'ultilità sociale la conoscenza dovrebbe essere condivisa, condividerla non danneggia nessuno.
+Se io godo della conoscenza, ciò non impedisce ad altri di usarla quindi non è escludibile. Di per sé la conoscenza è anche molto difficile da recintare se non è su un supporto fisico (libro, CD, DVD). Inoltre la conoscenza acquista di valore tanto più è condivisa, più la conoscenza è diffusa più è utile per tutti. Per l'utilità sociale la conoscenza dovrebbe essere condivisa, condividerla non danneggia nessuno.
 
 --- quadrante con beni | escludibilità e rivalità ---
 
 ####L'ottica utilitaristica
-In un'ottica utilitaristica (che prende piede partire dal 1600) che vede l'uomo come un animale che non fa nulla per nulla (filone mainstream economico), i beni pubblici sono un problema. Non essendo escludibili quale è l'incentivo a produrli? Visto che lesclusione è la base per farsi pagare, se la conoscenza non è escludibile perchè mai bisognerebbe produrre conoscenza?
+In un'ottica utilitaristica (che prende piede partire dal 1600) che vede l'uomo come un animale che non fa nulla per nulla (filone mainstream economico), i beni pubblici sono un problema. Non essendo escludibili quale è l'incentivo a produrli? Visto che l'esclusione è la base per farsi pagare, se la conoscenza non è escludibile perché mai bisognerebbe produrre conoscenza?
 
-Visto che non si può avere niente in cambio nessuno produce beni pubblici. Visto che sono utili alla società, o **li produce lo Stato**, o bisgona creare gli **incentivi** in modo tale che li producano i privati.
+Visto che non si può avere niente in cambio nessuno produce beni pubblici. Visto che sono utili alla società, o **li produce lo Stato**, o bisogna creare gli **incentivi** in modo tale che li producano i privati.
 
 Per la conoscenza sono stati creati dallo Stato **il brevetto ed il diritto d'autore**. Questi due strumenti rendono un bene escludibile tramite la forza dello Stato (per il brevetto il bene è escludibile per 20 anni). 
 
-Il brevetto e il diritto d'autore esistono da circa 200 anni, le invenzioni erano presenti anche precedentemente. Questi strumenti si pongono conme bilanciamentro tra incentivo a produrre conoscenza e rallentamento del progresso (ad esempio si può dedidere di non sfruttare un'idea geniale per 20 anni oppure sfruttarla male), oppure impedimento alla varietà culturale (le opere in pubblico dominio hanno diverse versioni e rappresentaizoni). 
+Il brevetto e il diritto d'autore esistono da circa 200 anni, le invenzioni erano presenti anche precedentemente. Questi strumenti si pongono come bilanciamento tra incentivo a produrre conoscenza e rallentamento del progresso (ad esempio si può decidere di non sfruttare un'idea geniale per 20 anni oppure sfruttarla male), oppure impedimento alla varietà culturale (le opere in pubblico dominio hanno diverse versioni e rappresentazioni). 
 
 Costo del brevetto e diritto d'autore:
  - rallentamento progresso;
  - prezzi più alti;
  - minore offerta/diversità.
+
+####Conoscenza e beni fisici
+La conoscenza è stata incorporata su beni fisici per migliaia di anni fino ai giorni nostri.
+
+Caratteristiche:
+ - il bene fisico (es il libro) è rivale: valgono tutte le conseguenze, si può rubare ed è escludibile
+ - il bene fisico è escludibile: bisogna comprarlo per appropriarsene, più altre forme di potenziali barriere
+ - diritto di autore pone una barriera al riuso del contenuto
+ - posso farci quello che voglio: rivendere, prestare, distruggere, smontare ecc. Ciò ha anche un effetto sul mercato, si può rivendere molte volte e si crea il mercato dell'usato.
+ - si può lasciare in eredità
+
+In questo sistema c'era la consapevolezza che la conoscenza dovrebbe essere accessibile a tutti per un maggior benessere civico, economico ecc. Da quando inizia ad esserci l'industria culturale moderna (tramite la stampa di libri) dall'Ottocento in poi, si riscopre il concetto della biblioteca pubblica.
+
+La biblioteca pubblica è un correttivo per massimizzare il beneficio sociale della conoscenza.
+
+Il motto della Boston Public Library è:
+	Free for all
+
+"Free" inteso come gratuito e "for all" inteso come "chiunque a prescindere dal suo rapporto con lo Stato può accedere ai libri".
+
+Gli editori nell'Ottocento erano fortemente contrari alle biblioteche in quanto la vedevano come copie in meno vendute. In verità la gente che andava in biblioteca spesso non avrebbe comunque comprato i libri dall'editore e in secondo luogo le biblioteche aiutano a creare una base di lettori appassionati che spesso poi comprano il libro.
+
+Per gli editori più avidi inoltre sarebbe stato necessario far pagare di più a chi avesse letto più volte lo stesso libro, tuttavia ciò nel mondo dei beni fisici non è possibile... 
+
+####Conoscenza digitale slegata dal supporto
+La conoscenza digitale non è più legata a uno specifico supporto fisico. In questo caso cambia qualcosa di profondo. Per copiare un libro qualcuno deve ribatterlo a macchina o a computer.
+
+Tutto ciò che conosciamo legato al mondo fisico sparisce.
+
+Caratteristiche:
+ - non è più un bene rivale: è possibile fare potenzialmente infinite copie perfette con dispositivi personali di uso comune;
+ - perde tutti gli aspetti di escludibilità: la conoscenza diventa qualcosa di intangibile
+
+Ci furono dei precedenti, ad esempio la fotocopiatrice e la videocassetta erano già dei dispositivi per copiare facilmente. Tuttavia i dispositivi spesso non sono personali e le copie delle copie con i dispositivi analogici diventano peggiori ogni volta che si copia. Con il digitale le copie sono perfette, a costo zero e fatte con dispositivi personali.
+
+La conoscenza digitale crea dei problemi ma anche dei vantaggi per i produttori.
+
+Problemi:
+ - Il bene non è più rivale, non esiste più il furto. Il furto tradizionale non si adatta più a questo tipo di conoscenza. Il furto è quando si sottrae qualcosa e l'originale proprietario non ne può più disporre. Piuttosto si crea un danno;
+ - la legge sul diritto d'autore permane ma è più debole da comunicare: si cerca di far aumentare le pene (i produttori cercano di fare forcing politico) e di comunicare che la violazione sia un furto.
+
+
+#####Vantaggi per l'industria culturale
+ - Nuove opportunità per i produttori: da oggetto fisico a servizio (oggetto in licenza).L'oggetto fisico portava una serie di diritti, ora con il digitale la conoscenza può diventare un servizio. Su una certa piattaforma ora si può acquisire il diritto ad accedere a un libro a un brano di musica ecc. Tuttavia il servizio è soggetto a un contratto con delle limitazioni, ad esempio non è possibile prestarlo, non c'è mercato dell'usato, per i primi ebook non era possibile leggerli a voce alta, il servizio inoltre può essere revocato; 
+ - per quanto riguarda il modello di business: si passa da un modello di vendita a un modello di abbonamento (pagare periodicamente per accedere, se si smette di pagare si perde tutto anche tutto ciò che si era acquistato in precedenza).
+
+#####L'idea della biblioteca universale
+Per la società una corrente di pensiero che parte dagli anni '80 fa un altro ragionamento in relazione alla non escludibilità e non rivalità della conoscenza slegata dal supporto fisico: la conoscenza perde la sua consistenza fisica ed è facilmente espandibile, finalmente un antico sogno dell'umanità si realizza e può crearsi la c.d. **biblioteca universale** quasi a costo zero (e sicuramente minore di costruire una biblioteca tipo la British Library) a prescindere dal costo di digitalizzare tutto (una tantum).
+
+	E' possibile far diventare la conoscenza un bene pubblico globale
+
+######Iniziative per implementare la biblioteca universale
+Eccone alcune:
+ - Wikipedia: particolarmente interessante perché collaborativa;
+ - Il Progetto Gutenberg;
+ - archive.org: film, fotografie, testi, software in pubblico dominio;
+ - open-culture.com;
+ - europeana.eu: progetto europeo per avere un portale della cultura europea;
+ - beic.it: progetto italiano nato da un idea di Antonio Padoa Schioppa per creare una biblioteca moderna a Milano come in altre città nel mondo, la biblioteca alla fine non viene costruita e la biblioteca diventa digitale;
+ - Digital Public Library of America (DPLA): l'equivalente del XXI secolo delle grandi biblioteche pubbliche dell'Ottocento;
+ - GitHub: per software;
+ - Google Books: è di natura diversa, è commerciale, ma ha l'obiettivo di digitalizzare tutti i libri del mondo.
+
+#####La tutela degli autori
+Contemporaneamente queste persone si pongono il problema di tutelare gli autori, che tra l'altro è esposto nell'articolo 27 della Carta dei Diritti dell'Uomo del 1948. Con il digitale non funziona più il sistema tradizionale di tutela degli autori. Si crea una riflessione per il software (open source) e più recentemente si è creata una riflessione sull'attività creativa in generale.
+
+Per ora viene usata dagli editori la persuasione morale: "Copiando un certo file si danneggia l'autore". 
+
+Le soluzioni più ragionevoli che esistono da sempre sono:
+ - il **mecenatismo**: fu la principale fonte di sostentamento fino all'età moderna. Mozart che arriva qualche anno prima che si sviluppi un vero mercato per i compositori va costantemente alla ricerca di qualcuno che gli dia un posto fisso e uno stipendio per comporre. Ai giorni nostri il mecenatismo non è scomparso, ha cambiato nome, si chiamano *sponsor*. Il mecenate di turno ne guadagnava dal punto di vista sociale esattamente come lo sponsor. Il problema del mecenatismo è che limita la creatività dell'autore e lo può influenzare e che le persone abbienti (l'1%) possono influenzare la produzione artistica e scientifica di un'intera nazione;
+ - lo **Stato**: lo stato impiega dei produttori di conoscenza (chi fa ricerca). Lo Stato per questo tipo specifico di conoscenza (quella scientifica) già finanzia poiché sennò il privato lo farebbe troppo poco. Storicamente la produzione culturale non è quasi mai stata finanziata dallo Stato, tranne che ne socialismo reale. Lo Stato inoltre può intervenire sovvenzionando associazioni, teatri, orchestre, eventi ecc., oppure erogando premi per sovvenzionare la produzione di conoscenza in senso lato;
+ - il **crowdfunding**: cioè il procacciare fondi con la "folla". Si crea un appello pubblico chiedendo dei soldi per realizzare una certa idea (la vecchia colletta). La colletta fu usato anche in passato per chiese, statue ecc. Con internet cambia un po' il paradigma: si abbattono i costi di transazione e ci si affaccia ad un pubblico più ampio (sito più famoso Kickstarter);
+ - i **premi**: erogati da fondazioni private o enti pubblici.
+
+A questi modi si aggiungono dei metodi nuovi per massimizzare la conoscenza e fornire assistenza economica agli autori:
+ - la **cultura flatrate**: in cambio della liberalizzazione del file sharing (tranne che per attività commerciale) viene pagata da chi paga la connessione a internet un obolo aggiuntivo che finisce in una cassa comune e divisa tra gli autori in base a una stima del loro successo. La cosa interessante di questa proposta è che con cifre minime, ad esempio 5€ in più al mese per abbonato, si riporterebbe nella legalità milioni di persone e che gli autori prenderebbero significativamente di più rispetto a quanto ricevono oggi da organizzazioni tipo la SIAE (più di metà degli iscritti alla SIAE ricevono meno di quanto pagano di quota associativa). Molti autori nel sistema attuale lavorano e nel tempo libero producono cultura e conoscenza. (Fonte: "Sharing", Amsterdam University Press, Philippe Aigrain).
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
