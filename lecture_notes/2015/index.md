@@ -2139,7 +2139,7 @@ In questi anni cominciano a formarsi le basi per quella che diventerà la Silico
 
 A metà anni 70 si quindi crea questo piccolo mercato di PC (con piccola ma crescente potenza) soprattutto in California (per motivi culturali). 
 
-####Il Personal Computer Apple e IBM
+####I Personal Computer: Apple, IBM, Altair e altri
 In questo contesto si sviluppa la storia di Steve Jobs e Steve Wozniak. 
 Steve Jobs riesce a farsi i primi soldo *hackerando* la rete telefonica. Produce una scatola che emettendo un suono a 2500Hz e permettendo di chiamare gratis.
 
@@ -2179,6 +2179,80 @@ La capacità di elaborazione diventa finalmente accessibile ai singoli (che non 
  - necessità sociale: ricerca e sviluppo durante la guerra fredda;
  - soppressione potenziale radicale: guerra fredda e intenzione di mantenere in mainframe;
  - diffusione: microcomputer 1974.
+
+##Il PC: storia, modelli, cultura hacker (lezione 18) 
+###Il modello PC vs il modello appliance
+una scelta industriale di IBM durante la progettazione del PC, fu quello di rendere disponibili le specifiche HW del personal computer, creando un prodotto aperto.
+
+L'architettura del PC di IBM è aperta e ognuno può costruire periferiche per questa macchina (Anche i discendenti del PC IBM sono aperti). 
+
+Anche dal punto di vista SW si crea una macchina molto aperta che potenzialmente può ospitare qualsiasi sistema operativo (oggi i più diffusi sono Windows e diverse versioni di Linux).
+
+	Modello PC IBM caratterizzato da **apertura** e **flessibilità**
+
+Questo causa diverse cose:
+- si crea un mercato di periferiche e componenti
+- grande flessibilità: l'utente è libero di installare le periferiche che vuole (e.g.: se sono uno scienziato e mi serve una scheda particolare non ci sono problemi)
+- la macchina è aperta a più sistemi operativi
+- i sistemi operativi a loro volta sono aperti a qualsiasi applicazione: libertà per gli applicativi
+
+Già in quegli anni (inizio anni '80) c'erano altri modelli, non basati su HW modulare e liberi, detti *appliance* (ad esempio la lavatrice, lavastoviglie ecc). Questi modelli prevedevano (e prevedono, oggi stanno tornano in voga con gli App Store) l'uso del computer per scopi prestabiliti.
+
+Il modello *appliance* da l'opzione di scelgliere solo predeterminate azioni (es: scrivere mail, foglio di calcolo ecc.).
+
+Inizialmente, per 30 anni, il modello PC è dominante e la sensibilità è molto vivace quando si cerca di chiudere parti del sistema. A partire dal 2007, anno di uscita dell'iPhone, si sta progressivamente andando verso il modello *appliance*. Il sistema operativo della Apple a ogni nuova release sta rendendo più difficile installare applicativi trovati per la rete e non licenziati dalla Apple (sistema paternalista). 
+
+####Modello PC - Pro e contro
+#####Modello PC - Pro
+ - Libertà e flessibilità: l'utente ha molto controllo, la macchina fa quello che l'utente vuole
+
+#####Modello PC - Contro
+ - Maggire difficoltà di utilizzo (rispetto al modello *appliance*) soprattutto per gli utenti non esperti (la maggioranza)
+ - Più difficile l'assistenza tecnica sia lato software sia lato hardware
+ - minore sicurezza
+	- Se il sistema operativo ha dei *malware*, nel modello aperto, l'hardware non si riufita di installarlo. 
+	- Anche nel caso degli applicativi non ci sono controlli automatici per evitare l'istallazione di software malevolo (malware)
+
+
+La caratteristica intrinseca delle macchine aperte ha aperto la strada ai virus. Non ci sono controlli a monte per dare libertà all'utente ma ciò porta a una minore sicurezza della macchina. Il problema verrà successivamente parzialmente risolto grazie ai software anti-virus.
+
+All'inizio della commercializzazione dei PC gli utenti erano esperti e la presenza di virus era nulla (o per lo meno molto limitata). 
+
+####Modello appliance - Pro e contro
+#####Modello appliance - Pro
+Sono l'esatto rovescio delle macchine aperte:
+ - Maggiore facilità di utilizzo (Esempio: c'è una schermata, devo svolgere dei compiti, clicco sull'icona che apre l'applicativo che mi serve);
+ - minore spazio per malware (non zero);
+ - assistenza più facile.
+#####Modello appliance - Contro
+ - Complicato installare software personalizzato: bisogna fare il cosiddetto *Jailbreak* (isntallare un sistema operativo che "libera" l'hardware) e inoltre si invalida la garanzia
+ - Un *gatekeeper* che decide quali app siano installabili: si possono installare solo le applicazioni approvate dal venditore del dispositivo. Ad esempio nell'App store è possibile scaricare solo le applicazioni approvate da Apple.
+
+Un gatekeeper effettua un blando controllo sulla sicurezza degli applicativi scaricabili (non garantisce l'assenza di essi comunque). Inoltre fa un controllo anche sul tipo di app, il produttore si riserva il diritto di rifiutare una app insindacabilmente. Ci sono diversi esempi, tuttavia uno eclatante fu il caso di una applicazione, "democratici vs. repubblicani", rifiutata personalmente da Steve Jobs che non voleva avere ne suo store una app che avrebbe fatto arrabbiare metà della popolazione americana.
+
+	Un singolo gatekeeper crea problemi di libertà di espressione molto forte. 
+
+Lo standard della libertà di espressione che deve rispettare una azienda è molto più lasco di quello di uno stato (soprattutto se si parla degli Stati Uniti in riferimento al Primo emendamento).
+
+###La cultura hacker
+La parola *hacker* è stata e continua essere violentata dal giornalismo (soprattutto quello italiano che la associa sempre ad attacchi ed eventi negativi).
+
+La parola hacker proviene dal verbo *to hack* (colpire, tagliare con l'accetta per dare forma a qualcosa). Specialmente all'MIT di Boston, si sviluppa già a partire da inizio '900 una cultura dell *hacking*. Hacking nel senso di prendere una macchina fisica, smontarla, rimontarla, anche con l'obiettivo di fargli fare qualcosa di diverso anche solo per gioco. 
+
+	Hacking è giocare con le macchine
+
+Al MIT c'è perfino un corso che insegna come aprire qualsiasi serratura. La filosofia è che solo conoscendo benissimo le serrature esistenti si possano sviluppare serrature migliori.
+
+In questo contesto, da quando esistono i computer, la stessa filosofia viene applicata anche a queste macchine. Si "pasticcia" con hardware e software per fare cose particolari spinti dalla curiosità.
+
+Gli hacker dalla curiosità e non dalla voglia di ingannare e truffare. Al punto che gli hacker più bravi comunicano alle aziende problemi dei loro sistemi, così come accadde per gli hacker della rete telefonica e la AT&T.
+
+La mentalità hacker si applica quindi:
+ - alle macchine fisiche;
+ - all'hardware e software dei computer;
+ - alle prime reti telefoniche.
+
+Le cose "si complicano" con l'invenzione del modem (dagli anni '60-'70). L'hacker diventa colui che può collegarsi ad altri computer di tutto il mondo da casa sua (esempio: film War Games 1984) e lo fa soltanto per provare la sua bravura (se viola sistemi molto sorvegliati) e magari anche per fornire consulenze a chi possiede tali sistemi (banche, governi, ecc.) in modo che possano essere più sicuri.
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
