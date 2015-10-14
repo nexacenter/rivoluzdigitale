@@ -2219,11 +2219,13 @@ La caratteristica intrinseca delle macchine aperte ha aperto la strada ai virus.
 All'inizio della commercializzazione dei PC gli utenti erano esperti e la presenza di virus era nulla (o per lo meno molto limitata). 
 
 ####Modello appliance - Pro e contro
+
 #####Modello appliance - Pro
 Sono l'esatto rovescio delle macchine aperte:
  - Maggiore facilità di utilizzo (Esempio: c'è una schermata, devo svolgere dei compiti, clicco sull'icona che apre l'applicativo che mi serve);
  - minore spazio per malware (non zero);
  - assistenza più facile.
+
 #####Modello appliance - Contro
  - Complicato installare software personalizzato: bisogna fare il cosiddetto *Jailbreak* (isntallare un sistema operativo che "libera" l'hardware) e inoltre si invalida la garanzia
  - Un *gatekeeper* che decide quali app siano installabili: si possono installare solo le applicazioni approvate dal venditore del dispositivo. Ad esempio nell'App store è possibile scaricare solo le applicazioni approvate da Apple.
@@ -2235,7 +2237,7 @@ Un gatekeeper effettua un blando controllo sulla sicurezza degli applicativi sca
 Lo standard della libertà di espressione che deve rispettare una azienda è molto più lasco di quello di uno stato (soprattutto se si parla degli Stati Uniti in riferimento al Primo emendamento).
 
 ###La cultura hacker
-La parola *hacker* è stata e continua essere violentata dal giornalismo (soprattutto quello italiano che la associa sempre ad attacchi ed eventi negativi).
+La parola **hacker** è stata e continua essere violentata dal giornalismo (soprattutto quello italiano che la associa sempre ad attacchi ed eventi negativi).
 
 La parola hacker proviene dal verbo *to hack* (colpire, tagliare con l'accetta per dare forma a qualcosa). Specialmente all'MIT di Boston, si sviluppa già a partire da inizio '900 una cultura dell *hacking*. Hacking nel senso di prendere una macchina fisica, smontarla, rimontarla, anche con l'obiettivo di fargli fare qualcosa di diverso anche solo per gioco. 
 
@@ -2245,7 +2247,7 @@ Al MIT c'è perfino un corso che insegna come aprire qualsiasi serratura. La fil
 
 In questo contesto, da quando esistono i computer, la stessa filosofia viene applicata anche a queste macchine. Si "pasticcia" con hardware e software per fare cose particolari spinti dalla curiosità.
 
-Gli hacker dalla curiosità e non dalla voglia di ingannare e truffare. Al punto che gli hacker più bravi comunicano alle aziende problemi dei loro sistemi, così come accadde per gli hacker della rete telefonica e la AT&T.
+Gli hacker dalla curiosità e non dalla voglia di ingannare e truffare. Al punto che gli hacker più bravi comunicano alle aziende problemi dei loro sistemi, così come accadde per alcuni hacker della rete telefonica e la AT&T.
 
 La mentalità hacker si applica quindi:
  - alle macchine fisiche;
@@ -2253,6 +2255,55 @@ La mentalità hacker si applica quindi:
  - alle prime reti telefoniche.
 
 Le cose "si complicano" con l'invenzione del modem (dagli anni '60-'70). L'hacker diventa colui che può collegarsi ad altri computer di tutto il mondo da casa sua (esempio: film War Games 1984) e lo fa soltanto per provare la sua bravura (se viola sistemi molto sorvegliati) e magari anche per fornire consulenze a chi possiede tali sistemi (banche, governi, ecc.) in modo che possano essere più sicuri.
+
+Da cosa sono spinti gli hacker:
+ - vanità;
+ - piacere intellettuale;
+ - curiosità;
+ - condivisione (con altre persone della stessa comunità - di codici, informazioni ecc.);
+ - meritrocazia.
+
+Le persone che usano le stesse competenze degli hacker per rubar soldi, ricattare, truffare e fare cose tendezialmente amorali vengono chiamati **cracker** (dall'inglese come qualcuno che rompe, spezza).
+
+Il confine tra hacker e cracker è sottile, le competenze sono le stesse, ma il comportamento etico è profondamente diverso. Un hacker può diventare cracker e viceversa.
+
+####Gli hacker e la conoscenza
+Con i computer, in particolare quando connessi in rete, condividere informazioni e conoscenze è particolarmente semplice. Cosa capita quindi quando la conoscenza diventa digitale? Gli hacker sono stati primi a condividere in rete.
+
+####I crimini informatici e la legislazione anni '80
+Pare che le prime leggi per i crimini informatici siano uscite proprio in seguito al film "War games" del 1984, in cui un ragazzo con un modem e un computer causa una guerra nucleare.
+
+i crimini informatici negli USA sono crimini federali, cioè giudicati particolarmente pericolosi per la società. La legislazione su questi crimini negli USA è fortemente criticata poichè estremamente vaga e basata sugli standard tecnici degli anni 80.
+
+Qualifica come crimine, infatti, moltissime attività riguardanti computer che entrano in contatto con altri computer. Di qiesto argomento se ne è parlato moltissimo in seguito al suicidio dello studente Aaron Schwarz che per via delle sue attività rischiava 50 anni di carcere.
+
+Negli ultimi tempi si sta quindi pensando di riformare queste leggi che equiparano delle attività relativamente innocue a reati molto più gravi quale l'omicidio colposo.
+
+
+###La conoscenza e la condivisione
+Per parlare la conoscenza bisogna parlare prima di due caratteristiche di un bene. Si parla di beni, fisici o immateriali, classificati in base a due caratteristiche, rivalità e escludibilità, che su un piano formano 4 spazi:
+ - beni rivali: sono quelli per cui se io ne godo nessun altro ne può godere. Esempio: se sto mangiando una mela nessun altro la può mangiare.
+ - beni escludibili: un bene escludibile è uno per cui è possibile escluderne il consumo a una o più persone. L'aria è un bene non escludibile, la radio FM non è escludibile (se hai una radiobasta sintonizzarsi). Con la crittografia degli ultimi anni beni non escludibili sono diventati escludibili, ad esempio la pay tv.
+
+**I beni non rivali e non escludibili sono chiamati beni pubblici**. Per esempio l'aria, la difesa nazionale e la conoscenza.
+
+Se io godo della conoscenza, ciò non impedisce ad altri di usarla quindi non è escludibile. Di per sè la conoscenza è anche molto difficile da recintare se non è su un supporto fisico (libro, CD, DVD). Inoltre la conoscenza acquista di valore tanto più è condivisa, più la conoscenza è diffusa più è utile per tutti. Per l'ultilità sociale la conoscenza dovrebbe essere condivisa, condividerla non danneggia nessuno.
+
+--- quadrante con beni | escludibilità e rivalità ---
+
+####L'ottica utilitaristica
+In un'ottica utilitaristica (che prende piede partire dal 1600) che vede l'uomo come un animale che non fa nulla per nulla (filone mainstream economico), i beni pubblici sono un problema. Non essendo escludibili quale è l'incentivo a produrli? Visto che lesclusione è la base per farsi pagare, se la conoscenza non è escludibile perchè mai bisognerebbe produrre conoscenza?
+
+Visto che non si può avere niente in cambio nessuno produce beni pubblici. Visto che sono utili alla società, o **li produce lo Stato**, o bisgona creare gli **incentivi** in modo tale che li producano i privati.
+
+Per la conoscenza sono stati creati dallo Stato **il brevetto ed il diritto d'autore**. Questi due strumenti rendono un bene escludibile tramite la forza dello Stato (per il brevetto il bene è escludibile per 20 anni). 
+
+Il brevetto e il diritto d'autore esistono da circa 200 anni, le invenzioni erano presenti anche precedentemente. Questi strumenti si pongono conme bilanciamentro tra incentivo a produrre conoscenza e rallentamento del progresso (ad esempio si può dedidere di non sfruttare un'idea geniale per 20 anni oppure sfruttarla male), oppure impedimento alla varietà culturale (le opere in pubblico dominio hanno diverse versioni e rappresentaizoni). 
+
+Costo del brevetto e diritto d'autore:
+ - rallentamento progresso;
+ - prezzi più alti;
+ - minore offerta/diversità.
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
