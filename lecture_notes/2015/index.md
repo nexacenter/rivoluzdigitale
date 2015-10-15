@@ -2381,6 +2381,21 @@ Le soluzioni più ragionevoli che esistono da sempre sono:
 A questi modi si aggiungono dei metodi nuovi per massimizzare la conoscenza e fornire assistenza economica agli autori:
  - la **cultura flatrate**: in cambio della liberalizzazione del file sharing (tranne che per attività commerciale) viene pagata da chi paga la connessione a internet un obolo aggiuntivo che finisce in una cassa comune e divisa tra gli autori in base a una stima del loro successo. La cosa interessante di questa proposta è che con cifre minime, ad esempio 5€ in più al mese per abbonato, si riporterebbe nella legalità milioni di persone e che gli autori prenderebbero significativamente di più rispetto a quanto ricevono oggi da organizzazioni tipo la SIAE (più di metà degli iscritti alla SIAE ricevono meno di quanto pagano di quota associativa). Molti autori nel sistema attuale lavorano e nel tempo libero producono cultura e conoscenza. (Fonte: "Sharing", Amsterdam University Press, Philippe Aigrain).
 
+##I commons - i beni comuni (lezione 19)
+Solitamente si tende a pensare solo a due categorie di beni:
+ - i beni privati: di proprietà di individui, aziende, associazioni ecc.
+ - i beni pubblici: di proprietà dello Stato
+
+C'è anche una terza categoria di beni che in base ai periodi storici sono più o meno in voga:
+ - i beni comuni (in inglese: commons): il tipico esempio sono terre, boschi fiumi e laghi che sono una proprietà collettiva di villaggi o gruppi di persone. Si parla di proprietà collettiva, **gestita dalla collettività**, e ci sono **regole** che specificano come si possano usare questi beni. Nel Medioevo erano molto diffusi, ora continuano ad esserci in misura minore (ad esempio: il bosco della Partecipanza nel Vercellese). Sono soggetti al problema dello sfruttamento ingiusto (eccessivo sfruttamento da parte di un singolo) o dello sfruttamento eccessivo (la comunità pesca troppo nel lago e sparisce la fauna ittica). Per preservare l'equilibrio natuale e sociale esistono quindi dei regolamenti. La Costituzione Italiana prevede che alcuni beni pubblici possano essere gestiti da gruppi di cittadini (Art. 43). I beni pubblici (Commons) sono stati molto diffusi nei paesi anglosassioni, oggi ci rimangono i parchi, ad esempio il Boston Commons e il Cambrige Commons.
+
+###Internet come bene comune
+L'idea che i beni possano essere gestiti collettivamente, con accordi tra privati,dopo gli anni '40-'60 è un po' sparita. Si tende a delegare allo Stato la gestione dei beni pubblici. Con l'avvento di Internet si sta avendo un cambio di paradigma. Internet è nato grazie al pubblico ma non si sviluppato con investimenti pubblici. Internet, in quanto rete di reti, mano a mano che si è espanso è diventato sempre più formato da reti private che comunicano tra loro tramite accordi tra privati.
+
+Internet è un bene comune perchè è gestita da una collettività di privati tramite delle regole, le regole di peering. Un rapporto OCSE afferma che il 97% del traffico di Internet è scambiato con accordi di peering informali (fonte:).
+
+Da un punto di vista dell'efficienza economica si pensa anche che la gestione informale di Internet come commons abbia fatto in modo che fiorisse come oggi lo conosciamo (probabilmente sennò non sarebbe mai nato). 
+
 # Parte Metodologica
 ## Introduzione (lezione 1) 
 In questa parte introduttiva verrà spiegato concretamente come si svolgerà il corso.
