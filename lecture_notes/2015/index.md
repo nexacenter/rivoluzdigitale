@@ -2381,20 +2381,72 @@ Le soluzioni più ragionevoli che esistono da sempre sono:
 A questi modi si aggiungono dei metodi nuovi per massimizzare la conoscenza e fornire assistenza economica agli autori:
  - la **cultura flatrate**: in cambio della liberalizzazione del file sharing (tranne che per attività commerciale) viene pagata da chi paga la connessione a internet un obolo aggiuntivo che finisce in una cassa comune e divisa tra gli autori in base a una stima del loro successo. La cosa interessante di questa proposta è che con cifre minime, ad esempio 5€ in più al mese per abbonato, si riporterebbe nella legalità milioni di persone e che gli autori prenderebbero significativamente di più rispetto a quanto ricevono oggi da organizzazioni tipo la SIAE (più di metà degli iscritti alla SIAE ricevono meno di quanto pagano di quota associativa). Molti autori nel sistema attuale lavorano e nel tempo libero producono cultura e conoscenza. (Fonte: "Sharing", Amsterdam University Press, Philippe Aigrain).
 
-##I commons - i beni comuni (lezione 19)
+##I commons - i beni comuni
 Solitamente si tende a pensare solo a due categorie di beni:
  - i beni privati: di proprietà di individui, aziende, associazioni ecc.
  - i beni pubblici: di proprietà dello Stato
 
 C'è anche una terza categoria di beni che in base ai periodi storici sono più o meno in voga:
- - i beni comuni (in inglese: commons): il tipico esempio sono terre, boschi fiumi e laghi che sono una proprietà collettiva di villaggi o gruppi di persone. Si parla di proprietà collettiva, **gestita dalla collettività**, e ci sono **regole** che specificano come si possano usare questi beni. Nel Medioevo erano molto diffusi, ora continuano ad esserci in misura minore (ad esempio: il bosco della Partecipanza nel Vercellese). Sono soggetti al problema dello sfruttamento ingiusto (eccessivo sfruttamento da parte di un singolo) o dello sfruttamento eccessivo (la comunità pesca troppo nel lago e sparisce la fauna ittica). Per preservare l'equilibrio natuale e sociale esistono quindi dei regolamenti. La Costituzione Italiana prevede che alcuni beni pubblici possano essere gestiti da gruppi di cittadini (Art. 43). I beni pubblici (Commons) sono stati molto diffusi nei paesi anglosassioni, oggi ci rimangono i parchi, ad esempio il Boston Commons e il Cambrige Commons.
+ - i beni comuni (in inglese: commons): il tipico esempio sono terre, boschi fiumi e laghi che sono una proprietà collettiva di villaggi o gruppi di persone. Si parla di proprietà collettiva, **gestita dalla collettività**, e ci sono **regole** che specificano come si possano usare questi beni. Nel Medioevo erano molto diffusi, ora continuano ad esserci in misura minore (ad esempio: il bosco della Partecipanza nel Vercellese). Sono soggetti al problema dello sfruttamento ingiusto (eccessivo sfruttamento da parte di un singolo) o dello sfruttamento eccessivo (la comunità pesca troppo nel lago e sparisce la fauna ittica). Per preservare l'equilibrio naturale e sociale esistono quindi dei regolamenti. La Costituzione Italiana prevede che alcuni beni pubblici possano essere gestiti da gruppi di cittadini (Art. 43). I beni pubblici (Commons) sono stati molto diffusi nei paesi anglosassoni, oggi ci rimangono i parchi, ad esempio il Boston Commons e il Cambrige Commons.
 
 ###Internet come bene comune
 L'idea che i beni possano essere gestiti collettivamente, con accordi tra privati,dopo gli anni '40-'60 è un po' sparita. Si tende a delegare allo Stato la gestione dei beni pubblici. Con l'avvento di Internet si sta avendo un cambio di paradigma. Internet è nato grazie al pubblico ma non si sviluppato con investimenti pubblici. Internet, in quanto rete di reti, mano a mano che si è espanso è diventato sempre più formato da reti private che comunicano tra loro tramite accordi tra privati.
 
-Internet è un bene comune perchè è gestita da una collettività di privati tramite delle regole, le regole di peering. Un rapporto OCSE afferma che il 97% del traffico di Internet è scambiato con accordi di peering informali (fonte:).
+Internet è un bene comune perché è gestita da una collettività di privati tramite delle regole, le regole di peering. Un rapporto OCSE afferma che il 97% del traffico di Internet è scambiato con accordi di peering informali (fonte:).
 
 Da un punto di vista dell'efficienza economica si pensa anche che la gestione informale di Internet come commons abbia fatto in modo che fiorisse come oggi lo conosciamo (probabilmente sennò non sarebbe mai nato). 
+
+###La conoscenza come commons
+La conoscenza è intrinsecamente un bene comune in quanto **bene non rivale e non escludibile**.
+
+Tuttavia il **diritto d'autore** per sua natura automaticamente la **privatizza** (tutela estesissima).
+
+C'è una tensione fortissima tra queste due forze. Finché la conoscenza era all'interno di oggetti fisici si era riusciti ad arrivare a punti di accordo quali le biblioteche pubbliche.
+
+Con la conoscenza in formato digitale cambia tutto. I primi pensieri a riguardo vengono fatti da chi sviluppa software.
+
+####Diritto d'autore e software
+Chi comprava un computer, agli albori, comprava un pacchetto completo composto da software e hardware.  Con il personal computer si crea un primo vero mercato del software e nascono le prime aziende, tipo la Microsoft. Come si tutela questo software?
+
+I primi a porsi il problema sono gli americani. Il diritto d'autore tutela un opera molti anni, ma il software diventa obsoleto dopo pochissimo. Tuttavia è la scelta che compiono gli americani agli inizi degli anni '80. Il software viene quindi tutelato con il copyright e non con un diritto apposito. I vantaggi di questa scelta sono:
+ - la tutela automatica per tutte le versioni (e le varie release) e assenza di burocrazia
+ - la tutela lunga è un danno per la società ma non per le aziende nascenti
+
+Avendo gli Stati Uniti l'egemonia nell'informatica in tutto il mondo viene applicato il diritto d'autore al software.
+
+Quasi immediatamente dopo questa decisione, Richard Stallman, ricercatore e sviluppatore al MIT convinto che la naturale condivisione del software possa portare solo benefici (in quanto condividerlo non comporta nessuna perdita ma solo un guadagno) incomincia a pensare al problema.
+
+Stallman paragona il software ad un utensile che si presta al vicino di casa, sono che il vicino quando si presta il software non me ne priva visto che può farne tranquillamente una copia perfetta.
+
+	Si può fare, si può fare a costo zero, perché non farlo se si può aiutare qualcuno?
+
+Stallman conclude che il software deve essere eticamente condiviso. Ma come è possibile condividerlo se è proibito dal diritto d'autore? In questo contesto si innesta la tradizione dei commons.
+
+Non si chiede niente allo Stato, ma come comunità ci si può sviluppare ciò che serve (a ognuno secondo le proprie esigenze e le proprie capacità). Si sviluppa da zero il software, ma invece che tenersi tutti i diritti riservati si cerca di comunicare a tutti tramite una licenza che il software è **libero**, facendo un dono alla comunità e creando quindi un **commons intangibile**.
+
+La licenza software è un mezzo giuridico per raggiungere un obiettivo di natura etica.
+Tutta la filosofia di Stallman è disponibile sul (suo) sito FreeSoftwareFundation (fsf.org). Stallman fa scrivere le licenze per il software libero da un avvocato professore alla Columbia University, Eben Moglen.
+
+La licenza per il software libero garantisce queste 4 libertà:
+ - Libertà 0: Libertà di eseguire il programma per qualsiasi scopo.
+ - Libertà 1: Libertà di studiare il programma e modificarlo.
+ - Libertà 2: Libertà di ridistribuire copie del programma in modo da aiutare il prossimo.
+ - Libertà 3: Libertà di migliorare il programma e di distribuirne pubblicamente i miglioramenti, in modo tale che tutta la comunità ne tragga beneficio
+
+Il Software Libero è stato poi anche chiamato Open Source perché secondo alcuni la denominazione era troppo politicamente schierata.
+
+Stallman inoltre aggiunge l'obbligo di condividere le versioni migliorate o modificate del software se si usa non solo per uso personale. Questo obbligo prende il nome di **copyleft**. Una sorta di vincolo alla proprietà, ma anche un impedimento a lucrare sul lavoro di altri.
+
+La licenza BSD (Berkley Software Distribution) include le 4 libertà ma non il vincolo del copyleft. Invece il software con le 4 libertà con il vincolo del copyleft possiede la GPL (General Public License).
+
+Con la GPL si può creare un pool di software che cresce continuamente. 
+
+Il ragionamento successivo di Stallaman, nonché obiettivo strategico, è quello di creare un sistema operativo libero (GPL) con applicativi che si adatti all'hardware libero (stile PC IBM). In modo tale che sia completamente noto all'utente cosa possa fare il software che installa.
+
+Unix esisteva già ed era un sistema operativo libero nato in ambito accademico, l'industria non credeva che potesse mai funzionare e essere montato su un PC da un gruppo di accademici. Stallman stava lavorando sopra un sistema operativo libero, tuttavia la soluzione, il pezzo fondamentale, per il sistema operativo nasce in Norvegia da Linus Torvalds che crea il Kernel permettendo lo sviluppo di Linux (Linus + Unix).
+
+Linux è il lavoro di Torvalds, cioè il kernel. Insieme al lavoro di Stallman, GNU, viene creato il primo sistema operativo libero, cioè GNU Linux.
+
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
