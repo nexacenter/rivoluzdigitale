@@ -2381,7 +2381,7 @@ Le soluzioni più ragionevoli che esistono da sempre sono:
 A questi modi si aggiungono dei metodi nuovi per massimizzare la conoscenza e fornire assistenza economica agli autori:
  - la **cultura flatrate**: in cambio della liberalizzazione del file sharing (tranne che per attività commerciale) viene pagata da chi paga la connessione a internet un obolo aggiuntivo che finisce in una cassa comune e divisa tra gli autori in base a una stima del loro successo. La cosa interessante di questa proposta è che con cifre minime, ad esempio 5€ in più al mese per abbonato, si riporterebbe nella legalità milioni di persone e che gli autori prenderebbero significativamente di più rispetto a quanto ricevono oggi da organizzazioni tipo la SIAE (più di metà degli iscritti alla SIAE ricevono meno di quanto pagano di quota associativa). Molti autori nel sistema attuale lavorano e nel tempo libero producono cultura e conoscenza. (Fonte: "Sharing", Amsterdam University Press, Philippe Aigrain).
 
-##I commons - i beni comuni
+##I commons - i beni comuni (lezione 19)
 Solitamente si tende a pensare solo a due categorie di beni:
  - i beni privati: di proprietà di individui, aziende, associazioni ecc.
  - i beni pubblici: di proprietà dello Stato
