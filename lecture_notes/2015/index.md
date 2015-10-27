@@ -2449,7 +2449,7 @@ Linux è il lavoro di Torvalds, cioè il kernel. Insieme al lavoro di Stallman, 
 
 ##Tutto open (lezione 20)
 
-﻿###La pila libera e i servi infedeli (lezione 20 cont'd 19)
+### La pila libera e i servi infedeli (lezione 20 cont'd 19)
 Le macchine possono spiarci e sorvegliarci. L'unico modo per fare si che i nostri dispositivi non siano *servi infedeli* è avere tutto libero (hardware libero, sistema operativo libero (Linux + GNU) e software libero (con licenza gpl).
 
 Il software libero permette un controllo collettivo sul codice, una persona da sola non potrebbe comunque essere sicura al 100% che un certo libero sia “fedele”.
