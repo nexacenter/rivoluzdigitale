@@ -2476,9 +2476,9 @@ I beni comuni a base di conoscenza creati in maniera collaborativa c'erano già 
 Un compito che è distribuibile e parcellizzabile in parti estremamente piccole è molto facilmente gestibile attraverso internet. Internet è il mezzo che permette di poter coordinare uno sforzo collaborativo. 
 
 le attivita si possono quindi didivere in
- 						| mercato | non mercato  
- 		decentralizzate/ non gerarchico | prezzi  | X  
- 		centralizzate/gerarchico        | aziende | stati  
+						| mercato | non mercato  
+		decentralizzate/ non gerarchico | prezzi  | X  
+		centralizzate/gerarchico        | aziende | stati  
 
 Le attività decentralizzate e non di mercato sono sempre esistite ma a causa dei costi di coordinamento hanno avuto sempre entità locale e di poca importanza, Internet le rende più facili.
 
