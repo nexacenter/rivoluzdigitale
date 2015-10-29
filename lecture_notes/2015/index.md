@@ -2449,7 +2449,7 @@ Linux è il lavoro di Torvalds, cioè il kernel. Insieme al lavoro di Stallman, 
 
 ##Tutto open (lezione 20)
 
-### La pila libera e i servi infedeli (lezione 20 cont'd 19)
+###La pila libera e i servi infedeli (lezione 20 cont'd 19)
 Le macchine possono spiarci e sorvegliarci. L'unico modo per fare si che i nostri dispositivi non siano *servi infedeli* è avere tutto libero (hardware libero, sistema operativo libero (Linux + GNU) e software libero (con licenza gpl).
 
 Il software libero permette un controllo collettivo sul codice, una persona da sola non potrebbe comunque essere sicura al 100% che un certo libero sia “fedele”.
@@ -2476,57 +2476,91 @@ I beni comuni a base di conoscenza creati in maniera collaborativa c'erano già 
 Un compito che è distribuibile e parcellizzabile in parti estremamente piccole è molto facilmente gestibile attraverso internet. Internet è il mezzo che permette di poter coordinare uno sforzo collaborativo. 
 
 le attivita si possono quindi didivere in
-				                | mercato | non mercato
-		decentralizzate/ non gerarchico | prezzi  | X
-		centralizzate/gerarchico        | aziende | stati
+ 						| mercato | non mercato  
+ 		decentralizzate/ non gerarchico | prezzi  | X  
+ 		centralizzate/gerarchico        | aziende | stati  
 
 Le attività decentralizzate e non di mercato sono sempre esistite ma a causa dei costi di coordinamento hanno avuto sempre entità locale e di poca importanza, Internet le rende più facili.
 
 Ad esempio linux è stato sviluppato in modo non gerarchico (senza capi) ma non anarchico, è sempre stato coordinato tramite internet.
 
 Altri esempi sono:
- - Qualsiasi software libero
+ - Generalmente il software libero
  - Wikipedia: decentralizzato non di mercato ma non vuol dire che sia anarchico, c'è una struttura ben rigida per contribuire. C'è una tendenza a pensare che se non c'è una struttura centralizzata si finisce in anarchia. In verità le persone sono capaci ad organizzarsi.
 
-Questo ti di produzione si chiama "peer based production" e ovviamente è esposta ad un alto livello di fallimento, (fonte: la persona che ha scritto di più su questo tema si chiama Yochai Benkler, il suo libro è "the wealth of network")
+Questo tipo di produzione si chiama "peer based production" e ovviamente è esposta ad un alto livello di fallimento, (fonte: Yochai Benkler, "the wealth of network")
 
 ###Crowd-sorucing e crowd funding
-**Il crowdfunding** (contribuzione in denaro da parte della "folla") è il modo moderno di fare una cosa molto antica cioè la colletta. Il crowdfunding come lo intendiamo noi è semplicemente una colletta online. Un esempio ne è Kickstarter.com
+**Il crowdfunding** (contribuzione in denaro da parte della "folla") è il modo moderno di fare una cosa molto antica, cioè la colletta. Il crowdfunding come lo intendiamo noi è semplicemente una colletta online. Un esempio ne è Kickstarter.com
 
-Rispetto alle collette tradizionali, tuttavia, la differenza è che si prova a creare una comunità. Si tende a tenere i finanziatori coinvolti nel progetto tramite mail periodiche, oppure tramite premi in base al livello di contribuzione (esempio del copositore che vuole registrare un disco di Bach, premi: disco di bach, disco di bach firmato, firmato e con dedica, suonato a casa propria). 
+Rispetto alle collette tradizionali, tuttavia, la differenza è la creazione di una comunità contestuale alla raccolta fondi. Si tende a tenere i finanziatori coinvolti nel progetto tramite mail periodiche, oppure tramite premi in base al livello di contribuzione (esempio del copositore che vuole registrare un disco di Bach, possibili premi: disco di bach per piccoli contributori, disco di bach firmato, firmato e con dedica, melodia suonata a casa propria per i grandi contributori). 
 
-La differenza principale con la colletta standard è quindi quella della creazione una comunità. Anche questa usanza era già praticata in precedenza comune, infatti già si facevsa per restrutturazione di chiese apponendo una lapide con tutti i nomi dei finanziatori.
+Anche la creazione di una “comunità” di finanziatori tuttavia era già praticata in precedenza, ad esempio per la ristrutturazione di chiese apposta una lapide con tutti i nomi dei finanziatori.
 
-**Il crowdsourcing** (contribuzione in natura da parte della "folla") è affine a peer based production. La differenza con peer based è il tipo di collaborazione, nella peer based production è più orizzontale, al contrario è più topdown nel crowd surcing. 
+**Il crowdsourcing** (contribuzione in natura (source/resource) da parte della "folla"(crowd)) è affine a peer based production. La differenza con la peer based è il tipo di collaborazione, nella peer based production è più orizzontale, al contrario è più topdown nel crowd surcing. 
 
 Tipico esempio di crowdsourcing: un ministero o un azienda chiama a raccolta delle persone (una folla/crowd) per risorvere dei problemi. Valuta le varie soluzioni e poi sceglie la migliore. Processo pilotato dall'alto. 
 
 Questo approccio è anche adottato per le foto astronomiche (in cui bisogna riconoscere migliaia di corpi celesti), o per le cellule, in ambito di ricerca.
 
-###La conoscenza online e l'open access
-la conoscenza scientifica trasmessa non su carta ma anche su internet ha contribuito a far nascere il movimento dell'**open access**.
+###La conoscenza online e l'Open Access
+La conoscenza scientifica trasmessa non solo su carta, ma anche su Internet ha contribuito a far nascere il movimento dell'**Open Access**.
 
-La conoscenza scientifica si accede pricipalemente tramite articoli scientifici e libri. Allo stato attuale per leggere si paga, circa 35€ ad articolo o 100-200€ per monografie scientifiche.
+La conoscenza scientifica si accede principalmente tramite articoli scientifici e libri. Allo stato attuale per leggere si paga, circa 35€ ad articolo o 100-200€ per monografie scientifiche.
 
-Questo è un modello ereditato dal passato: allo scienziato non si chiedeva nulla, lui scriveva a mano e l'editore pensava a stampare ecc. A pagare poi ci avrebbe pensato il lettore. 
-	modello vecchio: per leggere si paga, pubblicare è gratuito.
+Questo è un modello ereditato dal passato: allo scienziato non si chiedeva nulla, lui scriveva a mano e l'editore pensava a stampare (e a impostare i caratteri mobili) e a tutto il processo editoriale. A pagare ci avrebbe poi pensato il lettore.   
 
-Col passaggio a Internet, ma già con *Arpanet*, vengono trasmessi in tempo reale i risultati scientifici. Già dali anni 70 quindi si pensa che i clcolatori messi in rete possano sorpassare il vecchio modello di diffusione della conoscenza scientifica.
+ 	modello vecchio: per leggere si paga, pubblicare è gratuito.  
 
-Questa cosa non è ancora successa oggi, perchè? Gli articoli scientifici si leggono tra coloro che li scrivono (peer review). Tutta la procedura è fatta a titolo gratuito dai ricercatori, dopodichè l'editore si fa pagare. Nel 2015 però non si è ancora riuscito a tagliare fuori  gli editori (che ormai non devono nè impostare i caratteri mobili, nè fare le revisioni) da questo processo.
+Col passaggio a Internet, ma già con *Arpanet*, vengono trasmessi in tempo reale i risultati scientifici. Già dagli anni 70 quindi si pensa che i calcolatori messi in rete possano sorpassare il vecchio modello di diffusione della conoscenza scientifica.
+
+Questa cosa non è ancora successa oggi, perchè? Gli articoli scientifici si leggono tra coloro che li scrivono (tramite il c.d. processo di *peer review*). Tutta la procedura di review è eseguita a titolo gratuito dai ricercatori, dopodiché, una volta che il lavoro è stato revisionato e formattato da terzi, l'editore si fa pagare svolgendo relativamente poco lavoro. Nel 2015 non si è ancora riuscito a tagliare fuori gli editori (che ormai non devono nè impostare i caratteri mobili, nè fare le revisioni) da questo processo.
 
 Motivazioni:
  - non è un problema tecnico
- - non è un problema economico: l'università italiana spende ca. 100 milioni di € per abbonamenti a riviste 
- - è un problema sociale: la scienza è un sistema sociale. Alcuni editori sono situati in Olanda, come Elsevier, perchè nel 600 l'Olanda era la capitale della stampa. Tutto è riconducibile a un problema di visibilità, se a una ricerca viene dato un brand ottiene una certa visibilità. L'open access non si è ancora concretizzato pricipalmenrte perchè la pubblicazionie scientifica non è un mero fatto strumentale, bensì fa parte a un sistema di prestigio a cui i ricercatori non vogliono/possono rinunciare. 
+ - non è un problema economico: l'università italiana spende ca. 100 milioni di Euro per abbonamenti a riviste 
+ - è un problema sociale: la scienza è un sistema sociale. Tutto è riconducibile a un problema di visibilità, se a una ricerca viene dato un determinato brand (cioè viene pubblicato da una rivista famosa) ottiene una certa visibilità. Basti pensare che gli editori più famosi sono nati in Olanda e tutt'oggi sono sempre gli stesi, ad esempio Elsevier, per il semplice fatto che nel 600 l'Olanda era la capitale della stampa e da allora mantengono il loro prestigio. 
 
-Nel sistema attuale c'è un sistema di potere all'interno della disciplina scientifica per concentrarsi su certi argomenti e certi lavori da parte degli editori. Questo è un esempio in cui la rivoluzione digitale è stata più lenta di quanto si pensasse. 
+L'Open Access non si è ancora concretizzato quindi principalmente perché la pubblicazione scientifica non è un mero fatto strumentale, bensì fa parte a un sistema di prestigio a cui i ricercatori non vogliono/possono rinunciare.
 
-Di questi temi jean Claude Guedon (fonte:) mel libro "open access" in italiano oppure "in Oldenburg's long shadow", oldemburg è il primo scienziato/imprenditore che creò la prima rivista scientifica -  E' una trascirzione di una conferenza. Il secondo libro (fonte:) è di Peter Suber "Open Access" MIT press.
+Inoltre, allo stato attuale, c'è un sistema di potere all'interno della disciplina scientifica governato dagli editori per concentrarsi su certi argomenti e certi lavori piuttosto che su altri (magari altrettanto validi). 
 
-Tutti i risultati di Horizon 2020 (che è l'ottavo programma quadro che finanzia la ricerca con i soldi dell'Unione Europea) devono essere pubblicati online pubblicamente, la ricerca finanziata con soldi pubblici deve essere in open access.
+Questo è un esempio in cui la rivoluzione digitale è stata più lenta di quanto si pensasse. 
 
-Sul sito del politecnitco - altro esempio di open access- porto.polito.it, sono pubblicati gli articoli in cui l'editore ha dato l'ok di pubblicare con politiche Open Access.
+Di questi temi se ne è occupato Jean Claude Guedon (fonte:) nel libro "Open Access" in italiano oppure "in Oldenburg's long shadow" (oldemburg è il primo scienziato/imprenditore che creò la prima rivista scientifica), che è una trascirzione di una conferenza. Il secondo libro (fonte:) è di Peter Suber "Open Access" MIT press.
+
+Col tempo l'Open Access sta comunque avanzando, ad esempio, tutti i risultati di Horizon 2020 (che è l'ottavo programma quadro che finanzia la ricerca con i soldi dell'Unione Europea) devono essere pubblicati online pubblicamente. Questo è stato decretato sulla base del principio che la ricerca finanziata con soldi pubblici deve essere liberamente accessibile e quindi in Open Access.
+
+Sul sito del Politecnico - altro esempio di Open Access - porto.polito.it, sono pubblicati gli articoli in cui l'editore ha dato l'ok di pubblicare con politiche Open Access.
+
+###Open Data
+####La definizione di Open Data
+I dati aperti, comunemente chiamati con il termine inglese *open data* anche nel contesto italiano, sono dati liberamente accessibili a tutti le cui eventuali restrizioni sono l'obbligo di citare la fonte o di mantenere la banca dati sempre aperta. (fonte: https://it.wikipedia.org/wiki/Dati_aperti)
+
+Gli open data vengono generalmente forniti da enti pubblici richiamando la più ampia disciplina dell'**open gorvernment**. L'Unione Europea inserisce questi dati nel più ampio insieme della Public Sector Information (PSI) regolamentata appunto dalla PSI Directive (Directive 2003/98/EC).
+
+####Le motivazioni degli Open Data
+Il ragionamento che sta dietro l'apertura dei dati delle Pubbliche Amministrazioni (gli Open Government Data, OGD) è fondato sulla consapevolezza che lo Stato generi un'enorme mole di dati e informazioni, come effetto collaterale del fatto delle proprie attività. Essendo le attività statali finanziate con fondi pubblici per definizione, i dati che esse producono dovrebbero essere a disposizione dei propri cittadini e aziende giacché finanziate da loro (indirettamente tramite tasse e imposte) 
+
+le motivazioni degli open data sono: 
+1. Gli open data per la trasparenza: ad esempio per informare i cittadini su come vengano spesi i soldi pubblici nello specifico.  
+2. Gli open data per il riuso commerciale: alcuni dati del settore pubblico sono potenzialmente molto interessanti anche per il settore privato. Un esempio sono le mappe pubbliche, costava più persona che vendeva mappe che la mappa stessa venduta singolarmente a ogni richiedente. Diversi studi stimano che il valore di questi dati open come elevatissimo e che se pubblicati adeguatamente creerebbero un indotto economico non indifferente (fonte: studio McKinsey).  
+3. Gli open data per la società civile: questi dati possono essere utilizzati dai cittadini in diversi contesti. Ad esempio con i dati dei mezzi di trasporto, se resi open, è possibile creare applicazioni (anche senza investimenti pubblici), che in base a posizione comunichino ad esempio l'orario dei bus. Un altro esempio è rappresentato dai dati dell'acqua alta a Venezia.  
+
+####Esempi di iniziative Open Data
+esempi di siti in cui è possibile reperire
+ - http://dati.piemonte.it - regione Piemonte è stata tra le prime iniziative in Italia
+ - http://dati.gov.it – portale nazionale italiano degli open data
+ - http://www.data.gov/ - il portale nazionale statunitense voluto dall'amministrazione Obama già durante la prima legislazione
+
+####La trasparenza di tutti
+In questi anni siamo andati verso una trasparenza dei singoli, che volenti o nolenti sono sempre più controllati dagli Stati per mezzo degli strumenti digitali. Tutto ciò si giustifica con la frase Orwelliana:
+	"di cosa dovete avere paura se non avete nulla da nascondere"
+
+Dal 2008 in poi anche lo Stato si sta aprendo attraverso gli Open Government Data. Secondo alcuni solo le aziende sono ancora chiuse e spesso non è facile capire cosa avvenga al loro interno.
+
+Tuttavia si parla sempre più frequentemente di Open Corporate Data, che dovrebbero mettere in luce gli impatti su ambiente dell'operato delle aziede (ad esempio informazioni su come si scartino i rifiuti tossici).
+
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
