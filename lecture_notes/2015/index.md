@@ -2447,7 +2447,7 @@ Unix esisteva già ed era un sistema operativo libero nato in ambito accademico,
 
 Linux è il lavoro di Torvalds, cioè il kernel. Insieme al lavoro di Stallman, GNU, viene creato il primo sistema operativo libero, cioè GNU Linux.
 
-##Tutto open (lezione 20)
+﻿##Tutto open (lezione 20)
 
 ###La pila libera e i servi infedeli (lezione 20 cont'd 19)
 Le macchine possono spiarci e sorvegliarci. L'unico modo per fare si che i nostri dispositivi non siano *servi infedeli* è avere tutto libero (hardware libero, sistema operativo libero (Linux + GNU) e software libero (con licenza gpl).
@@ -2455,7 +2455,7 @@ Le macchine possono spiarci e sorvegliarci. L'unico modo per fare si che i nostr
 Il software libero permette un controllo collettivo sul codice, una persona da sola non potrebbe comunque essere sicura al 100% che un certo libero sia “fedele”.
 
 ####L'hardware libero
-I PC IBM e discendenti sono hardware *aperto* non *libero* (si sa quale cpu, quale bus I/O ma non come sono fatti all'interno)
+I PC IBM e discendenti sono hardware *aperto* non *libero* (si sa quale CPU, quale bus I/O ma non come sono fatti all'interno)
 
 Ma con hardware aperto si fa un passo in più. Nel nel caso delle schede Arduino ad esempio le specifiche hardware della scheda sono aperti. Chiunque può prendere gli schemi dell'hardware di Arduino e stamparli (senza chiamare il prodotto finale Arduino). Gli schemi dell'hardware libero sono studiabili e ricreabili.
 
@@ -2475,14 +2475,14 @@ I beni comuni a base di conoscenza creati in maniera collaborativa c'erano già 
 
 Un compito che è distribuibile e parcellizzabile in parti estremamente piccole è molto facilmente gestibile attraverso internet. Internet è il mezzo che permette di poter coordinare uno sforzo collaborativo. 
 
-le attivita si possono quindi didivere in
-						| mercato | non mercato  
-		decentralizzate/ non gerarchico | prezzi  | X  
-		centralizzate/gerarchico        | aziende | stati  
+le attività si possono quindi dividere in
+ 						| mercato | non mercato  
+ 		decentralizzate/ non gerarchico | prezzi  | X  
+ 		centralizzate/gerarchico        | aziende | stati  
 
 Le attività decentralizzate e non di mercato sono sempre esistite ma a causa dei costi di coordinamento hanno avuto sempre entità locale e di poca importanza, Internet le rende più facili.
 
-Ad esempio linux è stato sviluppato in modo non gerarchico (senza capi) ma non anarchico, è sempre stato coordinato tramite internet.
+Ad esempio Linux è stato sviluppato in modo non gerarchico (senza capi) ma non anarchico, è sempre stato coordinato tramite internet.
 
 Altri esempi sono:
  - Generalmente il software libero
@@ -2493,13 +2493,13 @@ Questo tipo di produzione si chiama "peer based production" e ovviamente è espo
 ###Crowd-sorucing e crowd funding
 **Il crowdfunding** (contribuzione in denaro da parte della "folla") è il modo moderno di fare una cosa molto antica, cioè la colletta. Il crowdfunding come lo intendiamo noi è semplicemente una colletta online. Un esempio ne è Kickstarter.com
 
-Rispetto alle collette tradizionali, tuttavia, la differenza è la creazione di una comunità contestuale alla raccolta fondi. Si tende a tenere i finanziatori coinvolti nel progetto tramite mail periodiche, oppure tramite premi in base al livello di contribuzione (esempio del copositore che vuole registrare un disco di Bach, possibili premi: disco di bach per piccoli contributori, disco di bach firmato, firmato e con dedica, melodia suonata a casa propria per i grandi contributori). 
+Rispetto alle collette tradizionali, tuttavia, la differenza è la creazione di una comunità contestuale alla raccolta fondi. Si tende a tenere i finanziatori coinvolti nel progetto tramite mail periodiche, oppure tramite premi in base al livello di contribuzione (esempio del compositore che vuole registrare un disco di Bach, possibili premi: disco di Bach per piccoli contributori, disco di Bach firmato, firmato e con dedica, melodia suonata a casa propria per i grandi contributori). 
 
 Anche la creazione di una “comunità” di finanziatori tuttavia era già praticata in precedenza, ad esempio per la ristrutturazione di chiese apposta una lapide con tutti i nomi dei finanziatori.
 
 **Il crowdsourcing** (contribuzione in natura (source/resource) da parte della "folla"(crowd)) è affine a peer based production. La differenza con la peer based è il tipo di collaborazione, nella peer based production è più orizzontale, al contrario è più topdown nel crowd surcing. 
 
-Tipico esempio di crowdsourcing: un ministero o un azienda chiama a raccolta delle persone (una folla/crowd) per risorvere dei problemi. Valuta le varie soluzioni e poi sceglie la migliore. Processo pilotato dall'alto. 
+Tipico esempio di crowdsourcing: un ministero o un azienda chiama a raccolta delle persone (una folla/crowd) per risolvere dei problemi. Valuta le varie soluzioni e poi sceglie la migliore. Processo pilotato dall'alto. 
 
 Questo approccio è anche adottato per le foto astronomiche (in cui bisogna riconoscere migliaia di corpi celesti), o per le cellule, in ambito di ricerca.
 
@@ -2514,7 +2514,7 @@ Questo è un modello ereditato dal passato: allo scienziato non si chiedeva null
 
 Col passaggio a Internet, ma già con *Arpanet*, vengono trasmessi in tempo reale i risultati scientifici. Già dagli anni 70 quindi si pensa che i calcolatori messi in rete possano sorpassare il vecchio modello di diffusione della conoscenza scientifica.
 
-Questa cosa non è ancora successa oggi, perchè? Gli articoli scientifici si leggono tra coloro che li scrivono (tramite il c.d. processo di *peer review*). Tutta la procedura di review è eseguita a titolo gratuito dai ricercatori, dopodiché, una volta che il lavoro è stato revisionato e formattato da terzi, l'editore si fa pagare svolgendo relativamente poco lavoro. Nel 2015 non si è ancora riuscito a tagliare fuori gli editori (che ormai non devono nè impostare i caratteri mobili, nè fare le revisioni) da questo processo.
+Questa cosa non è ancora successa oggi, perché? Gli articoli scientifici si leggono tra coloro che li scrivono (tramite il c.d. processo di *peer review*). Tutta la procedura di review è eseguita a titolo gratuito dai ricercatori, dopodiché, una volta che il lavoro è stato revisionato e formattato da terzi, l'editore si fa pagare svolgendo relativamente poco lavoro. Nel 2015 non si è ancora riuscito a tagliare fuori gli editori (che ormai non devono nè impostare i caratteri mobili, né fare le revisioni) da questo processo.
 
 Motivazioni:
  - non è un problema tecnico
@@ -2559,7 +2559,38 @@ In questi anni siamo andati verso una trasparenza dei singoli, che volenti o nol
 
 Dal 2008 in poi anche lo Stato si sta aprendo attraverso gli Open Government Data. Secondo alcuni solo le aziende sono ancora chiuse e spesso non è facile capire cosa avvenga al loro interno.
 
-Tuttavia si parla sempre più frequentemente di Open Corporate Data, che dovrebbero mettere in luce gli impatti su ambiente dell'operato delle aziede (ad esempio informazioni su come si scartino i rifiuti tossici).
+Tuttavia si parla sempre più frequentemente di Open Corporate Data, che dovrebbero mettere in luce gli impatti su ambiente dell'operato delle aziende (ad esempio informazioni su come si scartino i rifiuti tossici).
+
+###I Big Data
+La parola *Big Data* è spesso abusata, è quasi una moda del momento ma ha dei fondamenti.
+
+Non c'è una definizione univoca di Big Data. Tipicamente con questa parola si intende descrivere un insieme di molti dati, eterogenei (composti da molti database connessi) e in costante aggiornamento.
+
+Si parla molto di Big Data perché grazie a computer sempre più potenti e database sempre più collegati, è possibile sfruttare tali dati per ottenere informazioni statistiche interessanti e creare **modelli predittivi** per esempio dei comportamenti delle persone.
+
+Certe analisi possono portare a dire che persone che si trovano in un certo luogo e con certe preferenze, e con certe cerchie di amici siano interessati a determinati prodotti. La pubblicità mirata di Facebook usa proprio questo principio. 
+
+La situazione diventa più preoccupante quando le suddette analisi vengono fatte  per inferire informazioni sulla salute delle persone. Il caso Target ne è un esempio. Target è una catena di megastore americani, che tramite l'analisi dei dati acquisiti tramite le tessere fedeltà dei propri clienti, riusciva a capire se una donna fosse in cinta in base agli acquisti effettuati nei negozi della catena, a volte prima che la donna stessa lo scoprisse. Da questi dati si possono anche inferire preferenze sessuali, politiche, e capire appunto informazioni sensibili. Si sono effettuati studi sui potenziali di questi algoritmi e sulle popolazioni (fonte:).
+
+L'uso indiscriminato di questi dati potrebbe far tendere la nostra società alla visione distopica del film “Minority Report”, ad esempio identificando algoritmicamente chi possa commettere determinati reati o azioni in base alle proprie azioni e preferenze. Fino a pochi anni fa era più difficile e raro fare questi tipi di controlli
+
+Con i Big Data è possibile fare inferenze su:
+ - crimine
+ - terrorismo
+ - pericolosità sociale
+ - ecc
+
+Il vero problema che portano queste analisi algoritmiche è l'automaticità delle possibili contromisure. La correlazione non significa causazione.
+
+anche le assicurazioni potrebbero trarne vantaggio - possono sapere esattamente chi ha un profilo di vita rischioso ecc
+
+Aspetti positivi dell'analisi dei Big Data:
+ - notare con anticipo le epidemie 
+ - soprattutto in ambito scientifico
+
+In questo frangente è bene ricordare che ovunque si forniscano i propri dati dati si dovrebbe sapere dove essi vadano, chi li usa ecc. 
+
+In teoria sarebbe giusta la memorizzazione dei propri dati sensibili per la durata di un servizio  sottoscritto e poi la loro distruzione per fare in modo che non vengano accumulati continuamente. Purtroppo ciò non avviene quasi mai.
 
 
 # Parte Metodologica
