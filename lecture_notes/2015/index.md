@@ -3615,6 +3615,7 @@ http://bufalopedia.blogspot.fr/p/siti-da-conoscere.html
 
 
 ####Strumenti tecnici
+(fonte: guarda anche https://theconversation.com/six-easy-ways-to-tell-if-that-viral-story-is-a-hoax-47673)
 #####WHOIS
 Il protocollo di rete permette di stabilire a quale provider internet appartiene uno specifico nome a dominio (per esempio www.polito.it) oppure indirizzo IP (per esempio: 130.192.91.231)” (fonre: Wikipedia).
 
