@@ -2595,17 +2595,56 @@ In teoria sarebbe giusta la memorizzazione dei propri dati sensibili per la dura
 ##La rivoluzione del web (lezione 21 - continuazione lezione 16)
 Il web deriva da una visione di Tim Berners Lee che voleva superare la balcanizzazione di linguaggi su Internet in modo da condividere facilmente risorse.
 
-####Breve cronistoria del web
+####Gli albori del web
+Prima del 1991: prima dell'invenzione del web si era già cercato di superare la balcanizzazione dei linguaggi. Un paio di progenitori del web sono:
+ - Gopher: alternativa potenziale a www, nasce soprattutto in ambito accademico..  
+ - Usenet: una specie di forum online con tanto c'era albero tassonomico per specificare argomento (spesso molto specifici).  
 
- - prima del 1991: prima dell'invenzione del web si era già cercato di superare la balcanizzazione dei linguaggi. Un paio di progenitori del web sono:
-  - Gopher: alternativa potenziale a www, nasce soprattutto in ambito accademico..  
-  - Usenet: una specie di forum online con tanto c'era albero tassonomico per specificare argomento (spesso molto specifici).  
- - 1991: Tim Berners Lee inventa il protocollo HTTP e il linguaggio di markup HTML  
- - 1991-1994: fase di incubazione, albori del World Wide Web. All'inizio i siti web sono rari poi piano piano aumentano. In questa fase il web è una rete molto orizzontale composta da tante piccole entità come nella concezione di Tim Berners Lee. I primi siti web appartengono soprattutto a gruppi di ricerca, inoltre le attività commerciali su Internet sono vietate (fonte:).  
- - 1994: Bill Clinton diventa il presidente degli Stati Uniti e compie una scelta decisiva per il futuro di Internet (1996? - https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996 ). Internet viene pienamente aperta per gli usi commerciali. In pratica un progetto di ricerca finanziato con fondi pubblici (e cofinanziato anche dal settore privato) viene consegnato al privato chiavi in mano, senza contropartite. Sempre nel 1994 viene deciso che Internet sarebbe diventata la piattaforma di comunicazione integrata. Nello stesso periodo ci si pone anche la domanda su come connettersi fisicamente alla rete, e viene effettuata la scelta politica precisa che tutti si sarebbero connessi tramite la compagnia telefonica. Viene comunicato alle compagnie che è **vietato impedire l'accesso a Internet** e **non si possono imporre sovrapprezzi** per connettersi a Internet. Il governo in pratica rinuncia alla possibile maggiore tassazione nell'immediato, dovuta ai maggiori profitti delle telco (le aziende che forniscono servizi di telecomunicazione), ma pone le basi per un ampio mercato per le compagnie telefoniche.  
-Inoltre all'inizio chi forniva linea telefonica e chi forniva servizio Internet erano disaccoppiati, ora, con la banda larga siamo incatenati a un solo Internet Service Provider (ISP).  
- - 1994 - 1996: In America si nota sin dall'inizio come ci sia la piena consapevolezza che Internet avrebbe avuto un impatto molto forte, arrivano grandi capitale per lo sviluppo del web. Nel frattempo in Europa e in Italia non si capisce cosa stia capitando sia dal punto di vista politico che da quello finanziario con questa nuova innovazione. Alcune persone molto sveglie intraprendono iniziative commerciali legate a Internet anche in Italia, come l'Onorevole Quintarelli con Inet. La partita però la giocano gli Stati Uniti ed è per questo che ora tutta la ricchezza e le innovazioni maggiori legati alla Rete sono negli Stati Uniti. In Italia e in Europa non si capiva l'idea, in Italia, diverse persone hanno avuto idee analoghe a Youtube (Niccolò Crauso) o  Google ma non ci fu la volontà politica per sostenerle. Gli americani quindi pongono le basi per leadership economica e politica online (basata solo sulla cultura digitale che altrove non c'era). L'America ha avuto l'accortezza di pensare al futuro facendo un ragionamento ex-ante sulla digitalizzazione, da idee teoriche si passava al pratico.
- - 1994 – 2000: grazie al Web viene a crearsi la ricchezza privata legale più grande mai esistita. Il web diventa di fatto l'interfaccia di Internet, gli utenti web crescono, la rete inizia ad essere meno distribuita (meno read write, T.B.Lee inizialmente si immaginava che chi leggeva sul web avrebbe anche pubblicato). Col crescere del numero di persone (che non hanno più competenze tecniche) diminuisce la percentuale di chi pubblica. Gli usufruitori del web diventano decine di milioni, di cui la maggior parte non ha ne competenze ne voglia di pubblicare. Cresce il numero di clienti web ma il numero di siti che pubblicano rimane una frazione, il numero di server non cresce in maniera proporzionale. In poche parole: **molti broswer, pochi server**.
+Nel 1991 Tim Berners Lee inventa il protocollo HTTP e il linguaggio di *markup* HTML. 
+
+Il 1991-1994 è la cosiddetta fase di incubazione, albori del World Wide Web. All'inizio i siti web sono rari poi piano piano aumentano. In questa fase il web è una rete molto orizzontale composta da tante piccole entità come nella concezione di Tim Berners Lee. I primi siti web appartengono soprattutto a gruppi di ricerca, inoltre le attività commerciali su Internet sono vietate (fonte:).  
+
+####Il web commerciale
+#####Bill Clinton presidente
+Nel 1994 Bill Clinton diventa il presidente degli Stati Uniti e compie una scelta decisiva per il futuro di Internet (1996? - https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996). Internet viene pienamente aperta per gli usi commerciali. In pratica un progetto di ricerca finanziato con fondi pubblici (e cofinanziato anche dal settore privato) viene consegnato al privato chiavi in mano, senza contropartite. 
+
+Sempre nel 1994 viene deciso che Internet sarebbe diventata la piattaforma di comunicazione integrata. Nello stesso periodo ci si pone anche la domanda su come connettersi fisicamente alla rete, e viene effettuata la scelta politica precisa che tutti si sarebbero connessi tramite la compagnia telefonica. Viene comunicato alle compagnie che è **vietato impedire l'accesso a Internet** e **non si possono imporre sovrapprezzi** per connettersi a Internet. 
+
+Il governo in pratica rinuncia alla possibile maggiore tassazione nell'immediato, dovuta ai maggiori profitti delle telco (le aziende che forniscono servizi di telecomunicazione), ma pone le basi per un ampio mercato per le compagnie telefoniche.
+
+Inoltre all'inizio chi forniva linea telefonica e chi forniva servizio Internet erano disaccoppiati, ora, con la banda larga siamo incatenati a un solo Internet Service Provider (ISP).
+
+#####Il boom del web – la consapevolezza degli U.S.A.
+Tra il 1994 e il 1996 in America si nota sin dall'inizio come ci sia la piena consapevolezza che Internet avrebbe avuto un impatto molto forte, arrivano grandi capitale per lo sviluppo del web. 
+
+Nel frattempo in Europa e in Italia non si capisce cosa stia capitando sia dal punto di vista politico che da quello finanziario con questa nuova innovazione. Alcune persone molto sveglie intraprendono iniziative commerciali legate a Internet anche in Italia, come l'Onorevole Quintarelli con Inet. 
+
+La partita però la giocano gli Stati Uniti ed è per questo che ora tutta la ricchezza e le innovazioni maggiori legati alla Rete sono negli Stati Uniti. In Italia e in Europa non si capiva l'idea, in Italia, diverse persone hanno avuto idee analoghe a Youtube (Niccolò Crauso) o Google ma non ci fu la volontà politica per sostenerle. 
+
+Gli americani quindi pongono le basi per leadership economica e politica online (basata solo sulla cultura digitale che altrove non c'era). L'America ha avuto l'accortezza di pensare al futuro facendo un ragionamento ex-ante sulla digitalizzazione, da idee teoriche si passava al pratico.
+
+Tra il 1994 e il 2000 grazie al Web viene a crearsi la ricchezza privata legale più grande mai esistita. Il web diventa di fatto l'interfaccia di Internet, gli utenti web crescono, la rete inizia ad essere **meno distribuita** (meno *read write*, T.B.Lee inizialmente si immaginava che chi leggeva sul web avrebbe anche pubblicato). Col crescere del numero di persone (che non hanno più competenze tecniche) diminuisce la percentuale di chi pubblica. Gli usufruitori del web diventano decine di milioni, di cui la maggior parte non ha né competenze né voglia di pubblicare. Cresce il numero di clienti web ma il numero di siti che pubblicano rimane una frazione, il numero di server non cresce in maniera proporzionale. In poche parole: **molti broswer, pochi server**.
+
+####La centralizzazione del web
+Per molti informatici implementare un server per pubblicare contenuti sul web è  molto semplice, ciò che in pratica è necessario avere per fare ciò è un computer e un software (gratis, i.e. Apache).
+
+Lo sforzo richiesto, tuttavia, è molto di più di quanto una persona media sia disposta a spenderci (già solo per la preparazione tecnica necessaria). Avere un sito web proprio non è un compito facile già solo a valle di tutte i problemi di sicurezza e di aggiornamento.
+
+Nel naturale sviluppo della rete, c'è stata una mancanza, forse di consapevolezza, del fatto che le persone che accedevano al web avrebbero anche voluto pubblicare i propri contenuti ma era troppo dispendioso (e.g.: costruirsi una casa dalle fondamenta). 
+
+Dal punto di vista imprenditoriale, nasce quindi l'idea di affittare (a gratis) uno spazio sul web per poter pubblicare ciò che si vuole anche senza preparazione tecnica e hardware/software da installare. Questi siti web oggi prendono il nome di *piattaforme* e sono nati intorno alla fine anni 1990 inizio 2000.
+
+All'epoca era difficile capire le implicazioni di questo servizio utile offerto (apparentemente) a gratis, ma sostenuto da un modello di business solido. 
+
+Il fatto che l'affitto sia gratis vuol dire che bisogna riflettere su due punti:
+ 1. perché è gratis? 
+ 2. a quali condizioni si usufruisce del servizio
+
+#####Perchè è gratis?
+Principalmente per due motivi:
+
+1. Per la **pubblicità**. Per molti anni la risposta a questa domanda (2000-2010) era che i fornitori delle piattaforme si ripagavano attraverso la pubblicità. In molti casi è ancora predominante questo modello di business. L'idea è quella di “rovinare” un po' il servizio con fastidiosi banner e immagini, ma almeno renderlo usufruibile in modo gratuito. Questo metodo funziona, tant'è che Google fa oltre il 90% del suo fatturato attraverso la pubblicità in questi anni. Ci si è accorti, dopo qualche anno, che la pubblicità è una torta abbastanza costante, non varia molto da anno in anno. Per avere pubblicità sul web la si toglie da altre parti. I ricavi derivanti dalla pubblicità sul web inoltre sono spesso irrisori.  
+ 2. Per lo sfruttamento dei **log**. Sfruttando una caratteristica intrinseca derivata dal rapporto *client-server*, il server sa chi ha chiesto che cosa, da dove e in quale momento (queste informazioni sono scritte in un file di testo chiamato *log* presente in ogni server). Il detentore del server, acquisendo informazioni viene ad ottenere un potere oggettivo. Incrociando diversi database (e.g., diversi log) si possono stimare i gruppi di persone che accedono a un determinato contenuto in un determinato sito a una certa ora, questi dati sono utili per tracciare gli utenti e fare, ad esempio, studi di mercato. Col passare del tempo, rendendosi conto dell'utilità di tracciare gli utenti, sono stati inventati nuovi strumenti per tracciare, i c.d. *Cookies*. I Cookies sono pezzettini di codice sulla nostra macchina per identificarci automaticamente. I Cookies permettono di creare profili molto più precisi, rispetto ai log, attraverso cui si possono identificare le persone.
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
