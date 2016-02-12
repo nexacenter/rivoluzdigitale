@@ -2676,6 +2676,76 @@ Per alcuni non è giusto che queste aziende fornitrici di servizi possano fare c
 
 A prescindere da queste idee ancora in stato embrionale, ci sono proposte più concrete. Ad esempio si sta pensando a un modo per gli utenti per uscire da una piattaforma (ad esempio Facebook) esportando tutti i propri dati in modo automatico su un'altra piattaforma concorrente (ad esempio Facebook2) che potrebbe ad esempio, soddisfare maggiormente esigenze di privacy.
 
+##lezione 22 - le piattaforme
+Per piattaforme si intendono servizi internet di varia natura quali:
+- siti web con eventuali app: ad esempio Facebook
+- solo app: ad esempio Uber
+
+Una piattaforma, per definizione, è commerciale *for profit* con un numero di utenti significativo. Un'altra definizione è OTT cioè OTT ("over the top"), termine inventato dai fornitori di connessioni per indicare ciò che stava "sopra le loro reti". Sono cioè fornitori di contenuti e servizi (CSP o "content and service privider"). In italia e negli altri paesi con questo acronimo si intendono Facebook, Google, Twitter, ma anche Amazon e Apple (i famosi GAFA, "google, amazon, facebook e apple").  
+
+###Le piattaforme tra fiscalità e privacy
+Il discorso sulle piattaforme è piuttosto polarizzato. Le piattaforme sono tutte americane e le infrastrutture europee (in Europa), tuttavia chi mette le infrastrutture non sta estraendo grandissimi profitti e i profitti estratti dalle piattaforme sono spesso “esenti” da tassazione.
+
+Come esposto nella lezione 21 in relazione alle piattaforme il dibattito è ampio nel contesto della privacy (essendo che le aziende che forniscono le piattaforme si sostengono ampiamente con il commercio di dati personali) e della fiscalità.
+
+Per quanto riguarda la privacy queste aziende, quasi tutte americane, si avvantaggiano di una scelta fatta dall'Unione Europea nel 2000 chiamata **“safe harbour”**. Il safe harbour è un accordo tra EU e USA per il trattamento dei dati personali che sostanzialmente implica una libertà maggiore per il trattamento dei dati personali alle aziende americane piuttosto che a quelle europee. A valle di questo accordo, le aziende americane non devono seguire le leggi europee ma devono solo seguire alcune linee guida generali. Le aziende europee quindi non possono fare le elaborazioni dei dati personali attuate dalle aziende americane (ad esempio la Telecom non può usare i dati come fa Google o Facebook).
+
+Per quanto riguarda la fiscalità, queste aziende multinazionali (non solo i giganti digitali, ma tutte le multinazionali) grazie alla globalizzazione riescono a creare dei meccanismi societari fiscali per pagare pochissime tasse, eludendo il fisco e creando un grandissimo problema, cioè buchi nei bilanci pubblici da mancati incassi da grandi aziende.
+
+###L'alternativa al web centralizzato
+Questa situazione in cui ci sono dei grandi “player” con un potere smisurato è inevitabile perché il web fino dal principio era client server? Il web è centralizzato a causa del potere dei log e della sua struttura intrinseca?
+
+Esistono servizi che non sono client-server, sono distribuiti in cui i computer collaborano. Questi sono i servizi sono chiamati **peer2peer (p2p)**.
+
+La posta elettronica ad esempio è un servizio distribuito, peer to peer, vecchio di 40 anni. Il client posta spedisce al server posta che collabora con altri server per fare arrivare la mail al destinatario. La posta elettronica on c'entra nulla con il web tant'è che opera su un suo protocollo chiamato Simple Mail Transfer Protocol, o SMTP (il web usa il procollo HTTP). 
+
+Altri esempi di sistemi distribuiti sono: (1) *bit-torrent*, in questo caso diversi computer collaborano tra di loro per scambiarsi materiale. (2) Skype che per molti anni è stato p2p (da quando la controlla Microsoft è centralizzato). (3) bit-coin che è una moneta virtuale. In questo caso non c'è una banca centrale che controlla tutto, ma c'è un potere e distribuito. Questo discorso torna e ritorna, il discorso tra concentrazione e distribuzione è un pendolo che storicamente oscilla.
+
+Negli anni 70 c'era tendenza a fare cose distribuite, oggi questa è invertita e si tende a pensare sistemi centralizzati. Forse oggi sarebbe nato email.com invece che un sistema distribuito per lo scambio di posta elettronica.
+
+Uno dei punti di forza dei sistemi p2p è il “potere di fuso”. Ad esempio se uno dei computer delle catene che si scambiano le email si rompe ce ne sono *n* altri che lo sostituiscono.
+
+Inoltre ciascun nodo nella rete può vedere solo il traffico che gli passa attraverso e non **tutto il traffico** come nelle piattaforme centralizza. Ciò risulta in un potere limitato di chi controlla i nodi e nel suo complesso distribuito.
+
+Tornando a domande Jack Ellul ([Le 76 ragionevoli domande di Jacques Ellul](#le-76-ragionevoli-doncreto di sistema distribuito
+Prendiamo l'esempio di un computer attaccato a presa di casa e  alla wifi. Sopra questa macchina vengono messi gli stessi contenuti che sarebbero messi su Facebook e ceri contenuti sono disponibili a tutti o a piccoli insiemi di pesona a scelta.
+
+C'è già un idea concreta di questo modello in cui tutti i propri contenuti stanno sul proprio computer e si chiama *freedom box*. La *news feed* funzionerebbe chiedendo a ciascun piccolo computer personale un pezzo di informazione.
+
+Per creare questo sistema bisogna creare un linguaggio e delle macchine apposite. Ci sono dei problemi tecnologici seri su cui c'è gente che sta già lavorando. Per ora la sfida più difficile di un sistema del genere è avere le performance di Facebook. 
+
+Qualcuno aveva già provato a lanciare un Facebook distribuito, uno degli ultimi fu il progetto “Diaspora” che voleva essere un Facebook distribuito ma è fallito miseramente.
+
+Il concetto importante è che in questo sistema sarebbe il proprietario dei dati a possederli e gestirli invece che andare a caricarli su un server esterno in cui i servizi di *intelligence* e aziende private potrebbero accedervi senza problemi.
+
+
+####Cosa succederà nel futuro
+Siamo nel pieno della centralizzazione dei sistemi, ma per il futuro potrebbe migliorare la situazione.
+
+Bisognerebbe il più possibile cercare di mantenere la propria sovranità digitale. Ora la situazione più facile ed economica che comunqu fornisce servizi di altissima qualità, è quella di consegnare i propri dati a un entità esterna:  
+1. bisogna almeno essere consapevoli di tutto ciò che accade;  
+2. bisogna cercare di approfittare della autonomia che possiamo ancora avere, ad esempio procurandosi il proprio dominio internet (e.g.,mariorossi.it). Questo è utile per avere una identità personale e per avere maggiore riservatezza, soprattutto per quanto riguarda la posta elettronica, sul proprio dominio si può installare un server di posta;  
+3. non è saggio concentrare tutto su un'unica piattaforma, domani potrebbe non esistere più.omande-di-jacques-ellul)), agli albori di internet la distribuzione del potere era radicalmente diversa.  
+
+####Un esempio concreto di sistema distribuito
+Prendiamo l'esempio di un computer attaccato a presa di casa e  alla wifi. Sopra questa macchina vengono messi gli stessi contenuti che sarebbero messi su Facebook e ceri contenuti sono disponibili a tutti o a piccoli insiemi di pesona a scelta.
+
+C'è già un idea concreta di questo modello in cui tutti i propri contenuti stanno sul proprio computer e si chiama *freedom box*. La *news feed* funzionerebbe chiedendo a ciascun piccolo computer personale un pezzo di informazione.
+
+Per creare questo sistema bisogna creare un linguaggio e delle macchine apposite. Ci sono dei problemi tecnologici seri su cui c'è gente che sta già lavorando. Per ora la sfida più difficile di un sistema del genere è avere le performance di Facebook. 
+
+Qualcuno aveva già provato a lanciare un Facebook distribuito, uno degli ultimi fu il progetto “Diaspora” che voleva essere un Facebook distribuito ma è fallito miseramente.
+
+Il concetto importante è che in questo sistema sarebbe il proprietario dei dati a possederli e gestirli invece che andare a caricarli su un server esterno in cui i servizi di *intelligence* e aziende private potrebbero accedervi senza problemi.
+
+####Cosa succederà nel futuro
+Siamo nel pieno della centralizzazione dei sistemi, ma per il futuro potrebbe migliorare la situazione.
+
+Bisognerebbe il più possibile cercare di mantenere la propria sovranità digitale. Ora la situazione più facile ed economica che comunqu fornisce servizi di altissima qualità, è quella di consegnare i propri dati a un entità esterna:  
+1. bisogna almeno essere consapevoli di tutto ciò che accade;  
+2. bisogna cercare di approfittare della autonomia che possiamo ancora avere, ad esempio procurandosi il proprio dominio internet (e.g.,mariorossi.it). Questo è utile per avere una identità personale e per avere maggiore riservatezza, soprattutto per quanto riguarda la posta elettronica, sul proprio dominio si può installare un server di posta;  
+3. non è saggio concentrare tutto su un'unica piattaforma, domani potrebbe non esistere più.
+
 
 
 # Parte Metodologica
