@@ -2676,8 +2676,8 @@ Per alcuni non è giusto che queste aziende fornitrici di servizi possano fare c
 
 A prescindere da queste idee ancora in stato embrionale, ci sono proposte più concrete. Ad esempio si sta pensando a un modo per gli utenti per uscire da una piattaforma (ad esempio Facebook) esportando tutti i propri dati in modo automatico su un'altra piattaforma concorrente (ad esempio Facebook2) che potrebbe ad esempio, soddisfare maggiormente esigenze di privacy.
 
-##lezione 22 - le piattaforme
-Per piattaforme si intendono servizi internet di varia natura quali:
+##lezione 22 – Le piattaforme centralizzate e Internet distribuito
+Per piattaforme si intendono servizi Internet di varia natura quali:
 - siti web con eventuali app: ad esempio Facebook
 - solo app: ad esempio Uber
 
@@ -2719,14 +2719,6 @@ Qualcuno aveva già provato a lanciare un Facebook distribuito, uno degli ultimi
 Il concetto importante è che in questo sistema sarebbe il proprietario dei dati a possederli e gestirli invece che andare a caricarli su un server esterno in cui i servizi di *intelligence* e aziende private potrebbero accedervi senza problemi.
 
 
-####Cosa succederà nel futuro
-Siamo nel pieno della centralizzazione dei sistemi, ma per il futuro potrebbe migliorare la situazione.
-
-Bisognerebbe il più possibile cercare di mantenere la propria sovranità digitale. Ora la situazione più facile ed economica che comunqu fornisce servizi di altissima qualità, è quella di consegnare i propri dati a un entità esterna:  
-1. bisogna almeno essere consapevoli di tutto ciò che accade;  
-2. bisogna cercare di approfittare della autonomia che possiamo ancora avere, ad esempio procurandosi il proprio dominio internet (e.g.,mariorossi.it). Questo è utile per avere una identità personale e per avere maggiore riservatezza, soprattutto per quanto riguarda la posta elettronica, sul proprio dominio si può installare un server di posta;  
-3. non è saggio concentrare tutto su un'unica piattaforma, domani potrebbe non esistere più.omande-di-jacques-ellul)), agli albori di internet la distribuzione del potere era radicalmente diversa.  
-
 ####Un esempio concreto di sistema distribuito
 Prendiamo l'esempio di un computer attaccato a presa di casa e  alla wifi. Sopra questa macchina vengono messi gli stessi contenuti che sarebbero messi su Facebook e ceri contenuti sono disponibili a tutti o a piccoli insiemi di pesona a scelta.
 
@@ -2738,13 +2730,96 @@ Qualcuno aveva già provato a lanciare un Facebook distribuito, uno degli ultimi
 
 Il concetto importante è che in questo sistema sarebbe il proprietario dei dati a possederli e gestirli invece che andare a caricarli su un server esterno in cui i servizi di *intelligence* e aziende private potrebbero accedervi senza problemi.
 
-####Cosa succederà nel futuro
+####Cosa succederà in futuro
 Siamo nel pieno della centralizzazione dei sistemi, ma per il futuro potrebbe migliorare la situazione.
 
 Bisognerebbe il più possibile cercare di mantenere la propria sovranità digitale. Ora la situazione più facile ed economica che comunqu fornisce servizi di altissima qualità, è quella di consegnare i propri dati a un entità esterna:  
 1. bisogna almeno essere consapevoli di tutto ciò che accade;  
-2. bisogna cercare di approfittare della autonomia che possiamo ancora avere, ad esempio procurandosi il proprio dominio internet (e.g.,mariorossi.it). Questo è utile per avere una identità personale e per avere maggiore riservatezza, soprattutto per quanto riguarda la posta elettronica, sul proprio dominio si può installare un server di posta;  
+2. bisogna cercare di approfittare della autonomia che possiamo ancora avere, ad esempio procurandosi il proprio dominio Internet (e.g.,mariorossi.it). Questo è utile per avere una identità personale e per avere maggiore riservatezza, soprattutto per quanto riguarda la posta elettronica, sul proprio dominio si può installare un server di posta;  
 3. non è saggio concentrare tutto su un'unica piattaforma, domani potrebbe non esistere più.
+
+##L'Internet governance ovvero chi decide su Internet
+Tutti gli argomenti trattati inclusi i nomi a dominio, le piattaforme sollevano una questione più ampia. Chi decide le cose su Internet? Chi prende le decisioni tecniche, ad esempio sui protocolli (TCP, SMTP, ecc.), decisioni non tecniche, ad esempio lo spazio dei nomi a dominio (chi decide se può esistere il dominio .maometto o .comunismo?). 
+
+All'inizio Internet è stato un progetto un po' peculiare. Fino all'inizio degli anni '80 arpanet e Internet era particolare in quanto la comunità che era esperta in queste resti aveva voce in capitolo e ha contribuito alle fondamenta del progetto.
+
+###L'IETF
+Negli anni 80 il numero di utenti cresce. All'inizio gli utenti erano pochi e le decisioni erano prettamente tecniche. Aumentando il numero di utenti nesce la prima associazione che viene creata per gestire aspetti tecnici (principalmente protocolli) è l'**IETF** cioè l'**Internet Engeneering Task Force**. Questa organizzazione, soprattutto data la comunità iniziale molto californiana e “Internettiana” ha un approccio molto informale. Qualsiasi persona può iscriversi alla mailing list e contribuire ai nuovi standard.
+
+Capita che certe decisioni siano fatte da ragazzini ad esempio Aron Schwartz che aveva 15 anni. Chiunque può partecipare alle riuninoni, basta pagare una quota di partecipazione. 
+
+####Gli RFC
+Gli standard di Internet sono liberamente disponibili e si chiamano RFC, "request for comments" (es RFC 1881). 
+
+Gli standard vengono definiti via mailing list e con incontri fisici. Una volta fatta una decisione si scrive l'RFC con una descrizione dettagliata (in inglese comune). Dopo che l'RFC è stato esposto pubblicamente vengono fatti commenti. Una volta terminato il processo, se tutta la comunità ritiene che sia un buono standard, gli viene dato un numero e diventa uno standard di Internet. 
+
+Alcuni RFC sono più discorsivi, per spiegare principi generali relativi ad esempio all'architettura di Internet anche in modo divulgativo, anche se solitamente si tratta di documenti tecnici.
+
+###I nomi a dominio e la ICANN
+I nomi a dominio sono stati utili per la diffusione del web, tuttavia hanno causato un numero enorme di problemi.
+
+Le stringhe alfanumeriche hanno aperto una serie di problemi di: marchi, politici, religiosi. Si è creato quindi uno spazio di potenziali conflitti non indifferente, cosa che non avvenne con i numeri di telefono (che sono rimasti numeri infatti).
+
+Ad esempio:
+ - problemi di marchi: cfr. caso Armani (http://www.interlex.it/nomiadom/r_manno3.htm)
+ - probemi religiosi – si può usare un nome a dominio blasfemo?
+ - problemi politici – si può usare un nome a dominio dove certi partiti sono vietati? O ad esempio il dominio .sucks
+
+La registrazione dei domini è gestita dalla **ICANN, la Internet Corporation for Assigned Names and Numbers**, che è stata creata inizio anni 90 quando Internet stava diventando commericiale. 
+
+--- minuto 25:31 2015-06-10 parte 2
+
+In america avrebbero potuto delegare a qualche ministero ma non è nel loro modo di agire, bensì è stata creata una società di diritto californiano a Los Angeles, quindi esterna al governo, che decide come vengono assegnati i nomi.  
+
+I nomi vengono assegnati tramite i *registrar* regionali e piccole aziende che vendono i nomi a dominio. I
+
+ICANN è diventata molto ricca e potente, su ognuno dei nomi a dominio una piccola frazione del denaro necessario per registrarlo va ad ICANN. ICANN ha UN budget di centinaia di milioni di dollari all'anno e prendono decisioni per tutto il mondo. ICANN in poche parole è paragonabile alle Nazioni Unite, al World Trade e altri organismi sovranazionali.
+
+Diversi paesi non sono contenti che una azienda americana *no profit* nata a Los Angeles decida anche le cose per paesi come Cina, Vietnam, Brasile. Gli Stati Uniti cercando di mitigare la cosa hanno decentralizzato l'organizzazione. Internet era una “struttura” americana fino a pochi anni fa, ora è mondiale, gli americani sono disposti a lasciare un poco di potere ma non troppo per lasciare Internet come è ora.
+
+###L'Internet Society
+L'Internet Society ha ruolo culturale, ma anche concreto, ad esempio nomina dei direttori di ICANN e anche dell'IETF. 
+
+Anche tecnologie super vecchie es i motori di aereo passano dati di funzionamento via Internet, presto tutto sarà collegato a Internet.
+
+###Gli standard del web e il W3C
+L'organismo che stabilisce gli standard del web è il W3C, il World Wide Web Consortium, la sede principale è all'MIT. E' mandato avanti con i soldi delle grandi aziende, e ultimamente ha definito, ad esempio,l'HTML 5. Su w3c.org si trovano standard, gruppi di lavoro, mailing list ecc.
+
+###I diritti su Internet
+Molti dei temi trattati in questo corso hanno suscitato una riflessione che collega la RD con i diritti umani. Ad esempio l'art 21 della costituzione italiana parla della stampa meccanica con dettagliatissime istruzioni. Passati 70 anni - bisogna prendere in considerazione anche Internet (e magari la televisione) nell'art 21.
+
+Si parla sempre più spesso di cyber war, un paese attacca dal punto di vista informatico da un altro paese. 
+
+Come essere umani abbiamo diritto che i nostri dati non vangano azzerati?
+
+Abbiamo la convenzione di Ginevra che dice che certe cose non possono essere fatte ai civili, e a proposito dei loro dati?
+
+Con il digitale diventa facilissimo registrare i metadati di tutte le conversazioni anche senza sapere i contenuti (che sono per legge segreti), chi quando e per quanto si chiama e da dove parte la chiamata. Questi metadati rivelano moltissime informazioni sulla persona
+
+A questo punto forse bisognerebbe anche tutelare i metadati. Negli ultimi anni si parla di una dichiarazione dei diritti di Internet, "una Internet bill of rights" o "Internet magna charta" o "dichiarazione dei diritti in Internet".
+
+Nel frattempo due parlamenti hanno creato due commissioni per definire una magna charta, sono quelli francese e quello italiano. 
+
+Ci sono diritti nuovi (tipo diritto di accesso a Internet)? o bisogna basarsi su diritti vecchi? Una piccola rivoluzione per chiarire le idee e per orientare la politica (anche in materia di sorveglianza).
+
+###La policy e le decisioni della Corte di Giustizia Europea del 2014
+####Il diritto all'oblio
+La prima sentenza della Corte di Giustizia Europea è stata quella che ha reso noto il diritto all'oblio nell'aprile del 2014. Il diritto all'oblio è fare in modo che certe proprie informazioni non appaiano più tra i risultati di ricerca di un motore di ricerca.  Il diritto all'oblio quindi garantisce il diritto a veder cancellati sui motori di ricerca i link a notizie su una persona ritenute "inadeguate o non più pertinenti",
+
+La prima pagina del risultato del motore di ricerca ci definisce, per alcune persone era quindi sorta la necessità di non fare apparire certe notizie anche a distanza di anni dell'avvenimento di certi fatti (solitamente che creano imbarazzo).
+
+A certe condizioni le persone hanno diritto a non vedere certe informazioni nella prima pagina di ricerca dopo la sentenza della commissione europea anche se non in tutti i casi (ad esempio in un caso politico e/o in caso di corruzione).
+
+Questa decisione è in contrasto con il diritto all'informazione. In America è infatti inconcepibile una tale decisione in quanto va contro il primo emendamento per la libertà di espressione. 
+
+Ora come ora comunque è Google a decidere chi può avvalersi del diritto all'oblio che metto in fondo alla pagine di ricerca
+
+####La ritenzione dei dati
+L'altra sentenza importante del 2014 è stata quella che ha abrogato definitivamente la direttiva sulla ritenzione dei dati da parte dei provider.
+
+Dopo l'11 settembre l'UE aveva adottato una direttiva in cui obbligava gli ISP a tenere i dati di tutte le comunicazioni (connessioni a Internet, SMS e chiamate) per minimo *x* tempo (in Italia 2 anni).
+
+L'atteggiamento tipico fino agli attentati dell'11 settembra era "c'è un sospetto" vengono fatte intercettazioni su di esso. Dopo l'11 settembre il paradigma è cambiato in "tutti sono potenziali sospetti quindi bisogna tenere le comunicazioni di tutti". Questa direttiva europea equivalente al Patriot Act americano, è stata interamente abrogata nel 2014, ma i paesi membri ignorano la decisione della corte europea e continuano a fare data retention. 
 
 
 
