@@ -2644,7 +2644,39 @@ Il fatto che l'affitto sia gratis vuol dire che bisogna riflettere su due punti:
 Principalmente per due motivi:
 
 1. Per la **pubblicità**. Per molti anni la risposta a questa domanda (2000-2010) era che i fornitori delle piattaforme si ripagavano attraverso la pubblicità. In molti casi è ancora predominante questo modello di business. L'idea è quella di “rovinare” un po' il servizio con fastidiosi banner e immagini, ma almeno renderlo usufruibile in modo gratuito. Questo metodo funziona, tant'è che Google fa oltre il 90% del suo fatturato attraverso la pubblicità in questi anni. Ci si è accorti, dopo qualche anno, che la pubblicità è una torta abbastanza costante, non varia molto da anno in anno. Per avere pubblicità sul web la si toglie da altre parti. I ricavi derivanti dalla pubblicità sul web inoltre sono spesso irrisori.  
-2. Per lo sfruttamento dei **log**. Sfruttando una caratteristica intrinseca derivata dal rapporto *client-server*, il server sa chi ha chiesto che cosa, da dove e in quale momento (queste informazioni sono scritte in un file di testo chiamato *log* presente in ogni server). Il detentore del server, acquisendo informazioni viene ad ottenere un potere oggettivo. Incrociando diversi database (e.g., diversi log) si possono stimare i gruppi di persone che accedono a un determinato contenuto in un determinato sito a una certa ora, questi dati sono utili per tracciare gli utenti e fare, ad esempio, studi di mercato. Col passare del tempo, rendendosi conto dell'utilità di tracciare gli utenti, sono stati inventati nuovi strumenti per tracciare, i c.d. *Cookies*. I Cookies sono pezzettini di codice sulla nostra macchina per identificarci automaticamente. I Cookies permettono di creare profili molto più precisi, rispetto ai log, attraverso cui si possono identificare le persone.
+2. Per **tracciare e profilare gli utenti**. Sfruttando una caratteristica intrinseca derivata dal rapporto *client-server*, il server (e chi lo gestisce) sa chi ha chiesto che cosa, da dove e in quale momento (queste informazioni sono scritte in un file di testo chiamato **log** presente in ogni server). Il detentore del server, acquisendo informazioni viene ad ottenere un potere oggettivo. Incrociando diversi database (diversi log) si possono stimare i gruppi di persone che accedono a un determinato contenuto in un determinato sito a una certa ora, questi dati sono utili per tracciare gli utenti e fare, ad esempio, studi di mercato. Col passare del tempo, rendendosi conto dell'utilità di tracciare gli utenti, sono stati inventati nuovi strumenti per tracciare, i c.d. **Cookies**. I Cookies sono pezzettini di codice sulla nostra macchina per identificarci automaticamente. I Cookies permettono di creare profili molto più precisi, rispetto ai log, attraverso cui si possono identificare le persone (creando dei profili personali). I siti più moderni inoltre, ad esempio Facebook, YouTube e altri, sono **interattivi**. Il fornitore del sito ha lo stesso potere dei log, registra qualunque cosa si è fatto su una pagina oltre a quale pagina della piattaforma è stata richiesta, incluso quando si scrive qualcosa che poi non si pubblica, oppure quante volte si cerca un determinato profilo. In queste piattaforme viene **tracciata qualsiasi attività sul sito**.
+
+#####Perché viene fatto ciò? Quale è il modello di business?
+La risposta è duplice:  
+
+1. Il primo obiettivo della raccolta dei dati personali è per creare "profili pubblicitari”, in modo tale da:
+ - Offrire pubblicità di terzi in maniera mirata . Facebook è interessata alla *redemption*, cioè a quanta gente clicca su un determinato banner pubblicitario.    
+ - Vendere direttamente il profilo pubblicitario.  
+Il problema è che da questi profili è che si possono estrarre molto più informazioni personali rispetto alla propensione all'acquisto (ad esempio preferenze sessuali, orientamento politico). Qualsiasi entità che ha accesso a questi dati, quali i governi o le aziende, possono sapere informazioni personali molto delicate.
+
+2. Il secondo obiettivo è quello di vendere i propri dati ad altre entità commerciali (quali assicurazioni, datori di lavoro ecc.). Nell'esempio delle assicurazioni si potrebbero creare polizze “personalizzate” che adeguano i premi al tipo di profilo. Oppure si potrebbero discriminare lavoratori in base a informazioni molto private che tendenzialmente non sono/non dovrebbero essere presenti sul curriculum.
+
+Ovviamente chi ha questi dati e vive in un paese dove il governo può chiedere all'azienda l'accesso ai dati, c'è la possibilità che i servizi di intelligence facciano screening e monitoraggio di massa. Questa attività tipicamente è eseguita per ragioni antiterroristiche, tuttavia, come esposto anche dalle rivelazioni di Snowden, questi dati vengono poi anche usati per fini “meno nobili” quale l'individuazione di potenziali avversari politici e per attaccare persone potenzialmente “scomode” mettendole in imbarazzo di fronte a un grande pubblico (ad esempio rivelando le preferenze sessuali, ecc.).
+
+Questa attività moralmente reprensibili possono essere svolte dalle stesse grandi aziende che raccolgono i dati. E' capitato con Uber, ad esempio, che ha minacciato pubblicamente determinati giornalisti troppo aggressivi nei confronti dell'azienda, affermando che di volere rilasciare scandali e dettagli della vita privata degli stessi giornalisti “troppo critici” che usavano la piattaforma (fonte: http://www.buzzfeed.com/bensmith/uber-executive-suggests-digging-up-dirt-on-journalists#.dmx208EqP).
+
+Dietro l'offerta del servizio gratuito è presente questo modello di business. Il grosso problema di questi modelli di business è che si espongono agli abusi, il potenziale negativo può essere molto grande (anche il potenziale positivo).
+
+
+#####A quali condizioni?
+Ogni volta che si registra a una nuova piattaforma si accettano dei “terms of use” o “terms of service” (ToS). 
+
+Questi sono contratti unilaterale in cui vengono offerte delle condizioni prima di poter accedere al servizio, se non si accettano non si può accedere al servizio. Questi documenti sono molto lunghi, spesso scritti in "legalese" e in inglese. In linea di massima tuttavia affermano: "ti offriamo un servizio, senza nessuna garanzia o sicurezza e di togliere il servizio quando e come vogliono".
+
+Sostanzialmente è come un padrone di casa che offre l'alloggio a gratis ma ti può sfrattare in qualunque momento, quando vuole (oltre che spiarti). Secondo diversi giuristi il ToS è un contratto iniquo.
+
+La situazione è particolarmente delicata poiché per diverse entità, questo servizio privato for profit, è diventato un spazio semi-pubblico. Facebook ha un impatto sempre più rilevante avendo un potere indiscriminato su pagine di aziende o partiti politici, per cui decisioni arbitrarie possono avere un'influenza non trascurabile dal punto di vista sociale e economico.
+
+Per alcuni non è giusto che queste aziende fornitrici di servizi possano fare ciò che vogliono senza dipendere da nessuna autorità. Per risolvere questo problema si è pensato a una **democrazia rappresentativa** su determinate piattaforme, per esempio per decidere la politica di privacy implementata. Un altra soluzione, più classica e anche complementare, prevederebbe un controllo governativo tramite **strumenti antimonopolistici** classici (ad esempio la divisione del monopolio, o il controllo del governo sull'operato). Un'altra discussione a livello più alto è ripensare il **confine tra pubblico e privato**. Il pubblico da diritto di esistere all'azienda privata a certe condizioni e queste condizioni potrebbero essere riviste.
+
+A prescindere da queste idee ancora in stato embrionale, ci sono proposte più concrete. Ad esempio si sta pensando a un modo per gli utenti per uscire da una piattaforma (ad esempio Facebook) esportando tutti i propri dati in modo automatico su un'altra piattaforma concorrente (ad esempio Facebook2) che potrebbe ad esempio, soddisfare maggiormente esigenze di privacy.
+
+
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
