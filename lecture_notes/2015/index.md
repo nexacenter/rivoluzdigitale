@@ -3499,18 +3499,18 @@ Queste tecnologie vengono utilizzate dai blog  e anche da Facebook ma sono nasco
 ####i tag
 **HTML è un linguaggio di markup** e come tale utlizza dei tag per identificare determinate porzioni di testo:
  
-- '<HTML>' dichiara L'inizio pagina HTML, e '</HTML>' dichiara fine pagina
-- '<head>' è come fosse una copertina della pagina
-- '<body>' inizia il corpo del testo strutturato per paragrafi 
-- '<p>' dichiara l'inizio di un paragrafo e '</p>' la sua fine
+- "'<HTML>'" dichiara L'inizio pagina HTML, e "'</HTML>'" dichiara fine pagina
+- "'<head>'" è come fosse una copertina della pagina
+- "'<body>'" inizia il corpo del testo strutturato per paragrafi 
+- "'<p>'" dichiara l'inizio di un paragrafo e "'</p>'" la sua fine
 
 per provare a scrivere HTML basta creare file di testo su PC salvarlo in estensione HTML e aprirlo con un browser. Ci sono diversi strumenti interattivi con cui imparare a giocare con l'HTML, ad esempio *Liveweave* (http://liveweave.com/) permette di vedere direttamente l'effetto di ciò che si scrive in HTML. 
 
 Esempio di paragrafo
-	<p> questo è un paragrafo </p>
+	"<p>" questo è un paragrafo "</p>"
 
 Esempio di ipertesto - il tag per farlo è <a>, solitamente si **annegano link nel testo e non si dichiarano esplicitamente i link**:
-	<a href=”http://x.org/”>il progetto X.org</a>
+	"<a href=”http://x.org/”>il progetto X.org</a>"
 Questo rende la scritta “il progetto X.org” cliccabile e
  fa sì che chi ci clicca vada su http://x.org/
 
