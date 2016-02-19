@@ -2681,126 +2681,134 @@ Per piattaforme si intendono servizi Internet di varia natura quali:
 - siti web con eventuali app: ad esempio Facebook
 - solo app: ad esempio Uber
 
-Una piattaforma, per definizione, è commerciale *for profit* con un numero di utenti significativo. Un'altra definizione è OTT cioè OTT ("over the top"), termine inventato dai fornitori di connessioni per indicare ciò che stava "sopra le loro reti". Sono cioè fornitori di contenuti e servizi (CSP o "content and service privider"). In italia e negli altri paesi con questo acronimo si intendono Facebook, Google, Twitter, ma anche Amazon e Apple (i famosi GAFA, "google, amazon, facebook e apple").  
+Una piattaforma, per definizione, è commerciale *for profit* con un numero di utenti significativo. Un'altra definizione è OTT cioè OTT ("over the top"), termine inventato dai fornitori di connessioni per indicare ciò che stava "sopra le loro reti". Sono cioè fornitori di contenuti e servizi (CSP o "content and service privider"). In Italia e negli altri paesi con questo acronimo si intendono Facebook, Google, Twitter, ma anche Amazon e Apple (i famosi GAFA, "Google, Amazon, Facebook e Apple").  
 
 ###Le piattaforme tra fiscalità e privacy
-Il discorso sulle piattaforme è piuttosto polarizzato. Le piattaforme sono tutte americane e le infrastrutture europee (in Europa), tuttavia chi mette le infrastrutture non sta estraendo grandissimi profitti e i profitti estratti dalle piattaforme sono spesso “esenti” da tassazione.
+Il discorso sulle piattaforme è piuttosto polarizzato. Le piattaforme sono tutte americane e le infrastrutture sono europee (in Europa), tuttavia chi mette le infrastrutture non sta estraendo grandissimi profitti e i profitti estratti dalle piattaforme sono spesso “esenti” da tassazione (tramite meccanismi di elusione adottati spesso dalle multinazionali).
 
 Come esposto nella lezione 21 in relazione alle piattaforme il dibattito è ampio nel contesto della privacy (essendo che le aziende che forniscono le piattaforme si sostengono ampiamente con il commercio di dati personali) e della fiscalità.
 
-Per quanto riguarda la privacy queste aziende, quasi tutte americane, si avvantaggiano di una scelta fatta dall'Unione Europea nel 2000 chiamata **“safe harbour”**. Il safe harbour è un accordo tra EU e USA per il trattamento dei dati personali che sostanzialmente implica una libertà maggiore per il trattamento dei dati personali alle aziende americane piuttosto che a quelle europee. A valle di questo accordo, le aziende americane non devono seguire le leggi europee ma devono solo seguire alcune linee guida generali. Le aziende europee quindi non possono fare le elaborazioni dei dati personali attuate dalle aziende americane (ad esempio la Telecom non può usare i dati come fa Google o Facebook).
+Per quanto riguarda la privacy queste aziende, quasi tutte americane, si avvantaggiano di una scelta fatta dall'Unione Europea nel 2000 chiamata **“Safe Harbour”**. Il Safe Harbour è un accordo tra EU e USA per il trattamento dei dati personali che implica una libertà maggiore per il trattamento dei dati personali alle aziende americane piuttosto che a quelle europee. A valle di questo accordo, le aziende americane non devono seguire le leggi europee ma devono solo seguire alcune linee guida generali per quanto riguarda il trattamento dei dati personali. Le aziende europee quindi non hanno la stessa libertà delle aziende americane per elaborare questi dati (ad esempio la Telecom non può usare i dati come fa Google o Facebook).
 
 Per quanto riguarda la fiscalità, queste aziende multinazionali (non solo i giganti digitali, ma tutte le multinazionali) grazie alla globalizzazione riescono a creare dei meccanismi societari fiscali per pagare pochissime tasse, eludendo il fisco e creando un grandissimo problema, cioè buchi nei bilanci pubblici da mancati incassi da grandi aziende.
 
 ###L'alternativa al web centralizzato
-Questa situazione in cui ci sono dei grandi “player” con un potere smisurato è inevitabile perché il web fino dal principio era client server? Il web è centralizzato a causa del potere dei log e della sua struttura intrinseca?
+Questa situazione in cui ci sono dei grandi “player” con un potere smisurato è inevitabile perché il web fino dal principio era client server? Il web è centralizzato a causa del *potere dei log* e della sua struttura intrinseca?
 
 Esistono servizi che non sono client-server, sono distribuiti in cui i computer collaborano. Questi sono i servizi sono chiamati **peer2peer (p2p)**.
 
-La posta elettronica ad esempio è un servizio distribuito, peer to peer, vecchio di 40 anni. Il client posta spedisce al server posta che collabora con altri server per fare arrivare la mail al destinatario. La posta elettronica on c'entra nulla con il web tant'è che opera su un suo protocollo chiamato Simple Mail Transfer Protocol, o SMTP (il web usa il procollo HTTP). 
+La posta elettronica ad esempio è un servizio distribuito, peer to peer,nato più
+ di 40 anni fa. Il client posta spedisce la email al server posta che collabora con altri server per farla arrivare al destinatario. 
 
-Altri esempi di sistemi distribuiti sono: (1) *bit-torrent*, in questo caso diversi computer collaborano tra di loro per scambiarsi materiale. (2) Skype che per molti anni è stato p2p (da quando la controlla Microsoft è centralizzato). (3) bit-coin che è una moneta virtuale. In questo caso non c'è una banca centrale che controlla tutto, ma c'è un potere e distribuito. Questo discorso torna e ritorna, il discorso tra concentrazione e distribuzione è un pendolo che storicamente oscilla.
+La posta elettronica non c'entra nulla con il web, infatti opera su un suo protocollo chiamato Simple Mail Transfer Protocol, o SMTP (il web usa il protocollo HTTP). 
 
-Negli anni 70 c'era tendenza a fare cose distribuite, oggi questa è invertita e si tende a pensare sistemi centralizzati. Forse oggi sarebbe nato email.com invece che un sistema distribuito per lo scambio di posta elettronica.
+Altri esempi di sistemi distribuiti sono: (1) *bit-torrent*, in questo caso diversi computer collaborano tra di loro per scambiarsi materiale, (2) *Skype*, famosa piattaforma per effettuare chiamate VoIP, per molti anni è stato p2p, ma da quando la controlla Microsoft è centralizzata; (3) *bit-coin* che è una moneta virtuale, in cui c'è una banca centrale che controlla la produzione della moneta, ma c'è un potere distribuito.
 
-Uno dei punti di forza dei sistemi p2p è il “potere di fuso”. Ad esempio se uno dei computer delle catene che si scambiano le email si rompe ce ne sono *n* altri che lo sostituiscono.
+Il discorso tra concentrazione e distribuzione è un pendolo che storicamente oscilla. In certi periodi è in voga la distribuzione, in altri la centralizzazione. Negli anni 70 c'era tendenza a fare sistemi distribuiti, oggi questa è invertita e si propende a pensare/creare sistemi centralizzati. Forse oggi sarebbe nato email.com invece che un sistema distribuito per lo scambio di posta elettronica.
 
-Inoltre ciascun nodo nella rete può vedere solo il traffico che gli passa attraverso e non **tutto il traffico** come nelle piattaforme centralizza. Ciò risulta in un potere limitato di chi controlla i nodi e nel suo complesso distribuito.
+####I punti di forza di un sistema distribuito
+Uno dei punti di forza dei sistemi p2p è il **“potere di fuso”**. Ad esempio se uno dei computer delle catene che si scambiano le email si rompe ce ne sono *n* altri che lo sostituiscono.
 
-Tornando a domande Jack Ellul ([Le 76 ragionevoli domande di Jacques Ellul](#le-76-ragionevoli-doncreto di sistema distribuito
-Prendiamo l'esempio di un computer attaccato a presa di casa e  alla wifi. Sopra questa macchina vengono messi gli stessi contenuti che sarebbero messi su Facebook e ceri contenuti sono disponibili a tutti o a piccoli insiemi di pesona a scelta.
+Inoltre ciascun nodo nella rete può vedere solo il traffico che gli passa attraverso e non **tutto il traffico** come nelle piattaforme centralizzate. Ciò risulta in un **potere limitato** e distribuito di chi controlla i nodi.
 
-C'è già un idea concreta di questo modello in cui tutti i propri contenuti stanno sul proprio computer e si chiama *freedom box*. La *news feed* funzionerebbe chiedendo a ciascun piccolo computer personale un pezzo di informazione.
-
-Per creare questo sistema bisogna creare un linguaggio e delle macchine apposite. Ci sono dei problemi tecnologici seri su cui c'è gente che sta già lavorando. Per ora la sfida più difficile di un sistema del genere è avere le performance di Facebook. 
-
-Qualcuno aveva già provato a lanciare un Facebook distribuito, uno degli ultimi fu il progetto “Diaspora” che voleva essere un Facebook distribuito ma è fallito miseramente.
-
-Il concetto importante è che in questo sistema sarebbe il proprietario dei dati a possederli e gestirli invece che andare a caricarli su un server esterno in cui i servizi di *intelligence* e aziende private potrebbero accedervi senza problemi.
-
+Tornando alle domande Jacques Ellul ([Le 76 ragionevoli domande di Jacques Ellul](#le-76-ragionevoli-domande-di-jacques-ellul)) è possibile fare una analisi accurata degli aspetti etici dei sistemi centralizzati e distribuiti e dei loro impatti sulla società.
 
 ####Un esempio concreto di sistema distribuito
-Prendiamo l'esempio di un computer attaccato a presa di casa e  alla wifi. Sopra questa macchina vengono messi gli stessi contenuti che sarebbero messi su Facebook e ceri contenuti sono disponibili a tutti o a piccoli insiemi di pesona a scelta.
+Prendiamo l'esempio di un computer attaccato a presa di casa e  alla Wi-Fi. Sopra questa macchina vengono messi gli stessi contenuti che sarebbero messi su Facebook e ceri contenuti sono disponibili a tutti o a piccoli insiemi di persona a scelta.
 
-C'è già un idea concreta di questo modello in cui tutti i propri contenuti stanno sul proprio computer e si chiama *freedom box*. La *news feed* funzionerebbe chiedendo a ciascun piccolo computer personale un pezzo di informazione.
+Ci sono già diverse idee per questo modello in cui tutti i propri contenuti stanno sul proprio computer. Una di queste si chiama *freedom box* (fonte: https://it.wikipedia.org/wiki/FreedomBox). La *news feed*, in un sistema del genere, funzionerebbe chiedendo a ciascun piccolo computer personale un pezzo di informazione.
 
-Per creare questo sistema bisogna creare un linguaggio e delle macchine apposite. Ci sono dei problemi tecnologici seri su cui c'è gente che sta già lavorando. Per ora la sfida più difficile di un sistema del genere è avere le performance di Facebook. 
+Per creare questo sistema bisogna ideare un linguaggio e delle macchine apposite. Ci sono dei problemi tecnologici seri su cui c'è gente che sta già lavorando. Per ora la sfida più difficile è avere le performance di Facebook. 
 
-Qualcuno aveva già provato a lanciare un Facebook distribuito, uno degli ultimi fu il progetto “Diaspora” che voleva essere un Facebook distribuito ma è fallito miseramente.
-
-Il concetto importante è che in questo sistema sarebbe il proprietario dei dati a possederli e gestirli invece che andare a caricarli su un server esterno in cui i servizi di *intelligence* e aziende private potrebbero accedervi senza problemi.
+Qualcuno ha già provato a lanciare un Facebook distribuito, uno degli ultimi è stato il progetto “Diaspora”, tuttavia è fallito miseramente. Il concetto importante è che in questo sistema sarebbe **il proprietario dei dati a possederli e gestirli** invece che andare a caricarli su un server esterno in cui i servizi di *intelligence* e aziende private potrebbero accedervi senza problemi.
 
 ####Cosa succederà in futuro
 Siamo nel pieno della centralizzazione dei sistemi, ma per il futuro potrebbe migliorare la situazione.
 
-Bisognerebbe il più possibile cercare di mantenere la propria sovranità digitale. Ora la situazione più facile ed economica che comunqu fornisce servizi di altissima qualità, è quella di consegnare i propri dati a un entità esterna:  
+Bisognerebbe il più possibile cercare di mantenere la propria sovranità digitale. Ora la situazione più facile ed economica che comunque fornisce servizi di altissima qualità, è quella di consegnare i propri dati a un entità esterna:  
 1. bisogna almeno essere consapevoli di tutto ciò che accade;  
-2. bisogna cercare di approfittare della autonomia che possiamo ancora avere, ad esempio procurandosi il proprio dominio Internet (e.g.,mariorossi.it). Questo è utile per avere una identità personale e per avere maggiore riservatezza, soprattutto per quanto riguarda la posta elettronica, sul proprio dominio si può installare un server di posta;  
+2. bisogna cercare di approfittare della autonomia che possiamo ancora avere, ad esempio procurandosi il proprio dominio Internet (e.g.,mariorossi.it). Questo è utile per avere una identità personale e per avere maggiore riservatezza, soprattutto per quanto riguarda la posta elettronica. Sul proprio dominio si può poi installare un server di posta;  
 3. non è saggio concentrare tutto su un'unica piattaforma, domani potrebbe non esistere più.
 
 ##L'Internet governance ovvero chi decide su Internet
-Tutti gli argomenti trattati inclusi i nomi a dominio, le piattaforme sollevano una questione più ampia. Chi decide le cose su Internet? Chi prende le decisioni tecniche, ad esempio sui protocolli (TCP, SMTP, ecc.), decisioni non tecniche, ad esempio lo spazio dei nomi a dominio (chi decide se può esistere il dominio .maometto o .comunismo?). 
+Tutti gli argomenti trattati inclusi i nomi a dominio e le piattaforme sollevano una questione più ampia. Chi decide le cose su Internet? Chi prende le decisioni tecniche, ad esempio sui protocolli (TCP, SMTP, ecc.), o decisioni non tecniche, ad esempio lo spazio dei nomi a dominio (chi decide se può esistere il dominio .maometto o .comunismo?)? 
 
-All'inizio Internet è stato un progetto un po' peculiare. Fino all'inizio degli anni '80 arpanet e Internet era particolare in quanto la comunità che era esperta in queste resti aveva voce in capitolo e ha contribuito alle fondamenta del progetto.
+Chi decide su internet ha una importanza economica crescente, anche per quanto riguarda la “vecchia” economia (ad esempio i motori di aereo passano dati di funzionamento via Internet, presto tutto sarà collegato a Internet). Tra pochi anni probabilmente non si parlerà più di economia digitale, presto sarà tutto digitale.
 
 ###L'IETF
-Negli anni 80 il numero di utenti cresce. All'inizio gli utenti erano pochi e le decisioni erano prettamente tecniche. Aumentando il numero di utenti nesce la prima associazione che viene creata per gestire aspetti tecnici (principalmente protocolli) è l'**IETF** cioè l'**Internet Engeneering Task Force**. Questa organizzazione, soprattutto data la comunità iniziale molto californiana e “Internettiana” ha un approccio molto informale. Qualsiasi persona può iscriversi alla mailing list e contribuire ai nuovi standard.
+In principio Internet è stato un progetto un po' peculiare. Fino all'inizio degli anni '80 Arpanet e Internet erano particolari in quanto la comunità che era esperta in queste reti aveva voce in capitolo e ha contribuito alle fondamenta del progetto.
 
-Capita che certe decisioni siano fatte da ragazzini ad esempio Aron Schwartz che aveva 15 anni. Chiunque può partecipare alle riuninoni, basta pagare una quota di partecipazione. 
+Negli anni 80 il numero di utenti cresce. All'inizio gli utenti erano pochi e le decisioni erano prettamente tecniche. Aumentando il numero di utenti nasce la prima associazione che viene creata per gestire aspetti tecnici (principalmente protocolli) è l'**IETF** cioè l'**Internet Engeneering Task Force**. Questa organizzazione, soprattutto data la comunità iniziale molto californiana e “Internettiana”, ha un approccio molto informale. Qualsiasi persona può iscriversi alla mailing list e contribuire ai nuovi standard.
+
+Capita che certe decisioni siano fatte da ragazzini ad esempio Aron Schwartz che aveva 15 anni. Chiunque può partecipare alle riunioni, basta pagare la quota di partecipazione. 
 
 ####Gli RFC
 Gli standard di Internet sono liberamente disponibili e si chiamano RFC, "request for comments" (es RFC 1881). 
 
-Gli standard vengono definiti via mailing list e con incontri fisici. Una volta fatta una decisione si scrive l'RFC con una descrizione dettagliata (in inglese comune). Dopo che l'RFC è stato esposto pubblicamente vengono fatti commenti. Una volta terminato il processo, se tutta la comunità ritiene che sia un buono standard, gli viene dato un numero e diventa uno standard di Internet. 
+Gli standard vengono definiti via mailing list e con incontri fisici tra persone. Una volta fatta una decisione si scrive l'RFC con una descrizione dettagliata (in inglese comune). Dopo che l'RFC è stato esposto pubblicamente vengono lasciati dei commenti. Una volta terminato il processo, se tutta la comunità ritiene che sia un buono standard, gli viene dato un numero e diventa uno standard di Internet. 
 
-Alcuni RFC sono più discorsivi, per spiegare principi generali relativi ad esempio all'architettura di Internet anche in modo divulgativo, anche se solitamente si tratta di documenti tecnici.
+Alcuni RFC sono più discorsivi, per spiegare principi generali (anche in modo divulgativo) relativi ad esempio all'architettura di Internet, anche se solitamente si tratta di documenti tecnici.
 
 ###I nomi a dominio e la ICANN
-I nomi a dominio sono stati utili per la diffusione del web, tuttavia hanno causato un numero enorme di problemi.
+I nomi a dominio sono stati utili per la diffusione del web, tuttavia hanno causato diversi problemi.
 
-Le stringhe alfanumeriche hanno aperto una serie di problemi di: marchi, politici, religiosi. Si è creato quindi uno spazio di potenziali conflitti non indifferente, cosa che non avvenne con i numeri di telefono (che sono rimasti numeri infatti).
+Le stringhe alfanumeriche hanno aperto una serie di problemi di: marchi, politici, religiosi. Si è creato quindi uno spazio per potenziali conflitti non indifferente, cosa che non avvenne con i numeri di telefono (che sono rimasti numeri asettici infatti).
 
 Ad esempio:
  - problemi di marchi: cfr. caso Armani (http://www.interlex.it/nomiadom/r_manno3.htm)
  - probemi religiosi – si può usare un nome a dominio blasfemo?
  - problemi politici – si può usare un nome a dominio dove certi partiti sono vietati? O ad esempio il dominio .sucks
 
-La registrazione dei domini è gestita dalla **ICANN, la Internet Corporation for Assigned Names and Numbers**, che è stata creata inizio anni 90 quando Internet stava diventando commericiale. 
+La registrazione dei domini è gestita dalla **ICANN, la Internet Corporation for Assigned Names and Numbers**, che è stata creata inizio anni 90 quando Internet stava diventando commericiale. Gli assigned names sono i nomi a dominio.
 
---- minuto 25:31 2015-06-10 parte 2
+In questa fase della storia di internet, gli americani avrebbero potuto delegare a qualche ministero la gestione dei nomi a dominio (come probabilmente sarebbe in europa), ma non è nel loro modo di agire. E' stata quindi creata una società not-for-profit esterna al governo di diritto californiano a Los Angeles.  
 
-In america avrebbero potuto delegare a qualche ministero ma non è nel loro modo di agire, bensì è stata creata una società di diritto californiano a Los Angeles, quindi esterna al governo, che decide come vengono assegnati i nomi.  
+Il governo americano ha assegnato a questa associazione not-for-profit il potere di decidere quali nomi a dominio esistano (quindi .com, .edu, i nomi nazionali: .it .uk, ecc), e anche come essi vengano assegnati.
 
-I nomi vengono assegnati tramite i *registrar* regionali e piccole aziende che vendono i nomi a dominio. I
+L'assegnazione dei nomi a dominio avviene tramite ICANN che a cascata delega a dei *registrar* regionali che a loro volta delegano a piccole aziende che a fronte di un piccolo pagamento associano una persona/entità giuridica a un nome a dominio.
 
-ICANN è diventata molto ricca e potente, su ognuno dei nomi a dominio una piccola frazione del denaro necessario per registrarlo va ad ICANN. ICANN ha UN budget di centinaia di milioni di dollari all'anno e prendono decisioni per tutto il mondo. ICANN in poche parole è paragonabile alle Nazioni Unite, al World Trade e altri organismi sovranazionali.
+ICANN è diventata molto ricca e potente, su ognuno dei nomi a dominio una piccola frazione del denaro necessario per registrarlo va ad ICANN. ICANN ha un budget di centinaia di milioni di dollari all'anno e prendono decisioni per tutto il mondo. ICANN in poche parole è paragonabile come entità alle Nazioni Unite, al World Trade e altri organismi sovranazionali o grosse burocrazie.
 
-Diversi paesi non sono contenti che una azienda americana *no profit* nata a Los Angeles decida anche le cose per paesi come Cina, Vietnam, Brasile. Gli Stati Uniti cercando di mitigare la cosa hanno decentralizzato l'organizzazione. Internet era una “struttura” americana fino a pochi anni fa, ora è mondiale, gli americani sono disposti a lasciare un poco di potere ma non troppo per lasciare Internet come è ora.
+ICANN quindi prende decisioni con risvolti politici economici e religiosi con impatto in tutto il mondo. A chi risponde questa entità? Chi non è d'accordo con le decisioni a chi si appella?
 
-###L'Internet Society
-L'Internet Society ha ruolo culturale, ma anche concreto, ad esempio nomina dei direttori di ICANN e anche dell'IETF. 
+Diversi paesi non sono contenti che una azienda americana *no profit* nata a Los Angeles decida anche le cose per paesi come Cina, Vietnam, Brasile. Gli Stati Uniti cercando di mitigare la situazione hanno decentralizzato l'organizzazione.
 
-Anche tecnologie super vecchie es i motori di aereo passano dati di funzionamento via Internet, presto tutto sarà collegato a Internet.
+Internet era una “struttura” americana fino a pochi anni fa, ora è mondiale, gli americani sono disposti a lasciare un poco di potere ma non troppo per lasciare Internet come è ora.
+
+###L'Internet Society (ISOC)
+L'Internet Society è un'altra entità *no profit* e ha ruolo principalmente culturale, ma anche concreto, ad esempio nomina dei direttori di ICANN e anche dell'IETF. 
+
+Spesso queste organizzazioni coinvolgono le persone che hanno inventato la prima internet, ad esempio Vint Cerf, vice presidente di Google.
 
 ###Gli standard del web e il W3C
-L'organismo che stabilisce gli standard del web è il W3C, il World Wide Web Consortium, la sede principale è all'MIT. E' mandato avanti con i soldi delle grandi aziende, e ultimamente ha definito, ad esempio,l'HTML 5. Su w3c.org si trovano standard, gruppi di lavoro, mailing list ecc.
+Il web è un applicativo che “gira” su Internet attraverso il protocollo HTTP e il linguaggio di markup HTML.
+
+L'organismo che stabilisce gli standard del web è il **W3C, il World Wide Web Consortium**, è un consorzio *no profit*, la sede principale è all'MIT. E' mandato avanti con i soldi delle grandi aziende (ad es: Microsoft, Google, ecc.), e ultimamente ha definito l'HTML versione 5. 
+
+Su w3c.org si trovano standard, gruppi di lavoro, mailing list ecc.
+C'è un gruppo di lavoro che sta lavorando sugli standard per creare una piattaforma social tipo Facebook, ma distribuita.
 
 ###I diritti su Internet
-Molti dei temi trattati in questo corso hanno suscitato una riflessione che collega la RD con i diritti umani. Ad esempio l'art 21 della costituzione italiana parla della stampa meccanica con dettagliatissime istruzioni. Passati 70 anni - bisogna prendere in considerazione anche Internet (e magari la televisione) nell'art 21.
+Molti dei temi trattati in questo corso hanno suscitato una riflessione che collega la Rivoluzione Digitale con i diritti umani. 
 
-Si parla sempre più spesso di cyber war, un paese attacca dal punto di vista informatico da un altro paese. 
+Dalla fine degli anni '90 ci si è iniziato a chiedere come il sistema dei Diritti Umani (nato con la Dichiarazione de Diritti Umani del 1948) possa essere rispettato su Internet e se questi principi debbano essere adattati ai moderni metodi di comunicazione.
 
-Come essere umani abbiamo diritto che i nostri dati non vangano azzerati?
+Ad esempio l'art 21 della costituzione italiana parla della stampa tipografica con dettagliatissime istruzioni. Passati 70 anni forse bisognerebbe prendere in considerazione anche Internet (e magari la televisione) come mezzo di comunicazione nell'art 21. C'è quindi bisogno di una riflessione anche 
+Costituzionale.
 
-Abbiamo la convenzione di Ginevra che dice che certe cose non possono essere fatte ai civili, e a proposito dei loro dati?
+####Il diritto sui propri dati
+Si parla sempre più spesso di *cyber war*, un paese attacca dal punto di vista informatico da un altro paese. Noi come essere umani abbiamo dei diritti? Abbiamo diritto a mantenere i nostri dati (dal conto in banca, alla cartella clinica digitale)? Come essere umani abbiamo diritto che i nostri dati non vangano azzerati? La convenzione di Ginevra afferma che certe cose non possono essere fatte ai civili, e a proposito dei loro dati?
 
-Con il digitale diventa facilissimo registrare i metadati di tutte le conversazioni anche senza sapere i contenuti (che sono per legge segreti), chi quando e per quanto si chiama e da dove parte la chiamata. Questi metadati rivelano moltissime informazioni sulla persona
+####La privacy e i metadati
+Con il digitale diventa facilissimo registrare i metadati di tutte le conversazioni anche senza sapere i contenuti
 
-A questo punto forse bisognerebbe anche tutelare i metadati. Negli ultimi anni si parla di una dichiarazione dei diritti di Internet, "una Internet bill of rights" o "Internet magna charta" o "dichiarazione dei diritti in Internet".
+Nella costituzione italiana viene affermato che la corrispondenza è segreta. Tuttavia nessuno si è mai preoccupato di tutelare i metadati di queste comunicazioni, poiché allora era una cosa impensabile riuscire a tracciarli in modo esaustivo. Oggi tuttavia è possibile e già solo sapendo i metadati (chi, quando, a che ora si chiama, a che antenna si è agganciati) della comunicazione possono essere estratte molte informazioni sulla persona (luogo, rete di contatti, interessi, ecc.) 
 
-Nel frattempo due parlamenti hanno creato due commissioni per definire una magna charta, sono quelli francese e quello italiano. 
+A questo punto forse bisognerebbe anche tutelare i metadati. Negli ultimi anni si parla di una **Dichiarazione dei Diritti di Internet**, "una Internet Bill of Rights", o "Internet Magna Charta", o "Dichiarazione dei Diritti in Internet". Due parlamenti europei, quello francese e quello italiano, hanno creato commissioni di studio miste (parlamentari ed esperti) per definire questa Magna Charta.
 
-Ci sono diritti nuovi (tipo diritto di accesso a Internet)? o bisogna basarsi su diritti vecchi? Una piccola rivoluzione per chiarire le idee e per orientare la politica (anche in materia di sorveglianza).
+Uno dei problemi più importanti che si stanno ponendo queste commissioni di studio è se ci siano dei diritti nuovi (tipo diritto di accesso a Internet) o se bisogna basarsi solo su diritti vecchi. 
+
+	Una “Magna Charta” della Rivoluzione Digitale per chiarire le idee e per orientare la politica (anche in materia di sorveglianza e privacy).
 
 ###La policy e le decisioni della Corte di Giustizia Europea del 2014
 ####Il diritto all'oblio
@@ -2819,9 +2827,7 @@ L'altra sentenza importante del 2014 è stata quella che ha abrogato definitivam
 
 Dopo l'11 settembre l'UE aveva adottato una direttiva in cui obbligava gli ISP a tenere i dati di tutte le comunicazioni (connessioni a Internet, SMS e chiamate) per minimo *x* tempo (in Italia 2 anni).
 
-L'atteggiamento tipico fino agli attentati dell'11 settembra era "c'è un sospetto" vengono fatte intercettazioni su di esso. Dopo l'11 settembre il paradigma è cambiato in "tutti sono potenziali sospetti quindi bisogna tenere le comunicazioni di tutti". Questa direttiva europea equivalente al Patriot Act americano, è stata interamente abrogata nel 2014, ma i paesi membri ignorano la decisione della corte europea e continuano a fare data retention. 
-
-
+L'atteggiamento tipico fino agli attentati dell'11 settembre era "c'è un sospetto" vengono fatte intercettazioni su di esso. Dopo l'11 settembre il paradigma è cambiato in "tutti sono potenziali sospetti quindi bisogna tenere le comunicazioni di tutti". Questa direttiva europea equivalente al Patriot Act americano, è stata interamente abrogata nel 2014, ma i paesi membri ignorano la decisione della corte europea e continuano a fare data retention. 
 
 # Parte Metodologica
 ## Introduzione (lezione 1) 
