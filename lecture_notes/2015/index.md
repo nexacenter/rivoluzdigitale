@@ -298,7 +298,7 @@ Questo discorso tuttavia è molto controverso visto che le case farmaceutiche sp
 
 Secondo l'ipotesi ragionevole ma non dimostrabile il brevetto beneficia la società a causa del maggior numeri di invenzioni (oppure più opere creative nel caso del diritto d'autore), tuttavia per ora l'unico effetto misurabile è lil rallentamento delle innovazioni. 
 
-In questo contesto è stato effettuato uno studio molto ampio dal Congresso Americano negli anni 50 e successivamente riconfermato pochi anni fa . Mak Loop (???) uno dei massimi esperti di brevetti è arrivato alla conclusione che non si riesce ad affermare che i brevetti siano effettivamente utili, ma dal momento che già sono usati, che esistono da secoli e che c'è tutta un'impalcatura costruita sopra, tanto vale tenerli.
+In questo contesto è stato effettuato uno studio molto ampio dal Congresso Americano negli anni 50 e successivamente riconfermato pochi anni fa. Machlup uno dei massimi esperti di brevetti è arrivato alla conclusione che non si riesce ad affermare che i brevetti siano effettivamente utili, ma dal momento che già sono usati, che esistono da secoli e che c'è tutta un'impalcatura costruita sopra, tanto vale tenerli.
 
 #### L'espansione dei brevetti – i brevetti sul software
 Fino a 30 anni fa i brevetti erano legati a processi fisici (chimici, meccanici), c'era perfino una definizione nella giurisprudenza tedesca in cui si diceva che il brevetto poteva essere concesso solo a dispositivi manipolavano le forze della natura. 
@@ -683,7 +683,7 @@ Per fare uno scherzo alla mia fidanzata, ho postato sulla sua Facebook una foto 
 3. Niente, perché lei era d’accordo a farsi scattare la foto Una querela per ingiuria.
 
 ###Conclusioni lezione 5
-	il web non è un Far West si lasciano molte più traccie che da qualsiasi altra parte
+	il web non è un Far West si lasciano molte più tracce che da qualsiasi altra parte
 
 ##La Rivoluzione Digitale (lezione 6)
 
