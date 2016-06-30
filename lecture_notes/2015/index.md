@@ -838,8 +838,7 @@ Il rapporto tra tecnologia e società è bidirezionale (si influenzano vicendevo
 Parte degli obiettivi di questo corso è quello di analizzare questo complicato rapporto bidirezionale dove è difficile fare un'analisi dicotomica, è un intreccio tempo-variante: con il cambiare delle condizioni cambiano le pressioni su una certa tecnologia. La radio del 1920 è diversa da quella del 30 che è diversa da quella del 40. Anche Internet è profondamente diversa da come lo era 10 anni fa.
 Bisogna fare questa analisi senza pregiudizi positivi (come succede oggi: “il progresso”, “il futuro inarrestabile”), né negativi (“la tecnologia schiaccerà l'uomo”).
 
-La prima legge di legge di Kranzberg (storico che insegnava al Georgia Tech, alla fine anni 60 in scuole tecniche americane sono stati creati dipartimenti umanistici per studiare la tecnologia e i suoi impatti sulla società e altri punti di vista disciplinari), ideò sei leggi della tecnologia, una di questa è:
-
+Kranzberg, storico che insegnava al Georgia Tech (alla fine anni 60 in scuole tecniche americane sono stati creati dipartimenti umanistici per studiare la tecnologia e i suoi impatti sulla società e altri punti di vista disciplinari), ideò sei leggi della tecnologia. La prima legge di Kranzberg è: 
 	“ la tecnologia di per sé non è né buona, né cattiva, né neutra”
 
 Per molti ingegneri la tecnologia è neutra: “La tecnologia di per se non fa niente è colpa di chi la usa”, di conseguenza dovrebbe essere corretta l'affermazione "i mitra di per se non fanno nulla, sono le persone che sparano".
