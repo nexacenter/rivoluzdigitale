@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Public domain, 2014-2016 Simone Basso
 
 """ Script to generate content of rivoluzionedigitale.polito.it/blog-studenti
     using the following, simple procedure:
